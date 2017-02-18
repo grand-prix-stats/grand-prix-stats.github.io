@@ -1,0 +1,11 @@
+<meta name="twitter:site" content="@eneko">
+<meta name="twitter:creator" content="@eneko">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+{% if page.desc %}
+<meta name="twitter:description" content="{{ page.desc }}">
+{% else %}
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% endif %}
+<meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
+<meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/media/eneko.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">

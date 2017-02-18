@@ -1,0 +1,11 @@
+{% if page.desc %}
+<meta name="description" content="{{ page.desc }}">
+{% else %}
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% endif %}
+
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}">
+{% else %}
+<meta name="keywords" content="software, engineer, ios, swift, objective-c, tvos, appletv">
+{% endif %}

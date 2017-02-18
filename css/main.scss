@@ -1,0 +1,158 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2f8aff; //#2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
+
+
+// ------------------------------------------
+
+h1, h2, h3, h4 {
+    line-height: 1;
+    margin: 0;
+}
+h1 {
+    font-weight: 800;
+    color: #333;
+}
+.post-title {
+    letter-spacing: -2px;
+}
+h2 {
+    padding: 20px 0 20px;
+    font-weight: 700;
+    color: #444;
+}
+h3 {
+    padding: 20px 0 10px;
+    font-weight: 600;
+    color: #555;
+}
+h4 {
+    padding: 20px 0 10px;
+    font-weight: 500;
+    color: #666;
+}
+
+img + em {
+    color: #787878;
+    text-align: center;
+    display: block;
+    font-size: 0.8em;
+}
+pre,
+code,
+.highlighter-rouge .highlight {
+    background-color: #faf8f5;
+    font-family: "Menlo", monospace;
+}
+
+.post-content p,
+.post-content > ul > li,
+.post-content > ol > li {
+  font-family: Georgia, "Cambria", "Times New Roman", Times, serif;
+  font-size: 1.2em;
+}
+.post-content ul,
+.post-content ol {
+  padding: 10px 30px;
+}
+.post-content img {
+    display: block;
+    margin: 0 auto;
+}
+blockquote {
+  border-color: #ef2;
+  background-color: #fafec0;
+  padding: 20px;
+}
+.post-content blockquote p {
+  letter-spacing: 0px;
+  color: #555;
+  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  font-weight: 300;
+}
+.footnotes p {
+  font-size: 0.95em;
+}
+footer.post-footer {
+    border-top: dashed 1px #d0d0d0;
+    padding-top: 20px;
+}
+
+hr {
+    margin: 50px auto;
+    width: 60%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(200, 200, 200, 0.75), rgba(0, 0, 0, 0));
+}
+
+.post-content table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+.post-content table th {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+.post-content table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+.post-content table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+.post-content table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
