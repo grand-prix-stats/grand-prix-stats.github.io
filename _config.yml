@@ -16,8 +16,8 @@
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Grand Prix Stats: Generated statistic data from Formula One® racing series.
-  &copy; 2017
+  <p><b>Grand Prix Stats</b></p>
+  <p>Generated statistic data from Formula One® racing series. &copy; 2017.</p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.grandprixstats.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: grandprixstats
