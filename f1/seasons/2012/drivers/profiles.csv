@@ -1,26 +1,26 @@
-participations,driverref,points,dob,did_not_start,last_win,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,did_not_finish,first_win,fastestlaps,races_finished,first_race,poles,subchampionships,year,wins,forename,finished_in_points,country
-1,ambrosio,0.0,1985-12-27,0,,0,2012-09-09,,0,🇧🇪,d'Ambrosio,be,DAM,0,0,,0,1,2012-09-09,0,0,2012,0,Jérôme,0,Belgium
-19,grosjean,96.0,1986-04-17,0,,3,2012-11-25,8,0,🇫🇷,Grosjean,fr,GRO,10,7,,1,12,2012-03-18,0,0,2012,0,Romain,10,France
-20,vettel,281.0,1987-07-03,0,2012-10-28,10,2012-11-25,5,1,🇩🇪,Vettel,de,VET,17,1,2012-04-22,6,19,2012-03-18,6,0,2012,5,Sebastian,17,Germany
-20,button,188.0,1980-01-19,0,2012-11-25,6,2012-11-25,22,0,🇬🇧,Button,gb,BUT,14,2,2012-03-18,2,18,2012-03-18,1,0,2012,3,Jenson,14,UK
-20,webber,179.0,1976-08-27,0,2012-07-08,4,2012-11-25,,0,🇦🇺,Webber,au,WEB,15,2,2012-05-27,1,18,2012-03-18,2,0,2012,2,Mark,15,Australia
-20,maldonado,45.0,1985-03-09,0,2012-05-13,1,2012-11-25,13,0,🇻🇪,Maldonado,ve,MAL,5,5,2012-05-13,0,15,2012-03-18,1,0,2012,1,Pastor,5,Venezuela
-20,raikkonen,207.0,1979-10-17,0,2012-11-04,7,2012-11-25,7,0,🇫🇮,Räikkönen,fi,RAI,19,0,2012-11-04,2,20,2012-03-18,0,0,2012,1,Kimi,19,Finland
-20,rosberg,93.0,1985-06-27,0,2012-04-15,2,2012-11-25,6,0,🇩🇪,Rosberg,de,ROS,10,3,2012-04-15,2,17,2012-03-18,1,0,2012,1,Nico,10,Germany
-20,alonso,278.0,1981-07-29,0,2012-07-22,13,2012-11-25,14,0,🇪🇸,Alonso,es,ALO,18,2,2012-03-25,0,18,2012-03-18,2,1,2012,3,Fernando,18,Spain
-20,bruno_senna,31.0,1983-10-15,0,,0,2012-11-25,,0,🇧🇷,Senna,br,SEN,10,2,,1,18,2012-03-18,0,0,2012,0,Bruno,10,Brazil
-20,glock,0.0,1982-03-18,1,,0,2012-11-25,,0,🇩🇪,Glock,de,GLO,0,0,,0,19,2012-03-18,0,0,2012,0,Timo,0,Germany
-20,hamilton,190.0,1985-01-07,0,2012-11-18,7,2012-11-25,44,0,🇬🇧,Hamilton,gb,HAM,14,5,2012-06-10,1,15,2012-03-18,7,0,2012,4,Lewis,14,UK
-20,hulkenberg,63.0,1987-08-19,0,,0,2012-11-25,27,0,🇩🇪,Hülkenberg,de,HUL,11,2,,1,18,2012-03-18,0,0,2012,0,Nico,11,Germany
-20,karthikeyan,0.0,1977-01-14,1,,0,2012-11-25,,0,🇮🇳,Karthikeyan,in,KAR,0,7,,0,12,2012-03-18,0,0,2012,0,Narain,0,India
-20,kobayashi,60.0,1986-09-13,0,,1,2012-11-25,10,0,🇯🇵,Kobayashi,jp,KOB,9,4,,1,16,2012-03-18,0,0,2012,0,Kamui,9,Japan
-20,kovalainen,0.0,1981-10-19,0,,0,2012-11-25,,0,🇫🇮,Kovalainen,fi,KOV,0,1,,0,19,2012-03-18,0,0,2012,0,Heikki,0,Finland
-20,massa,122.0,1981-04-25,0,,2,2012-11-25,19,0,🇧🇷,Massa,br,MAS,14,1,,0,19,2012-03-18,0,0,2012,0,Felipe,14,Brazil
-20,michael_schumacher,49.0,1969-01-03,0,,1,2012-11-25,,0,🇩🇪,Schumacher,de,MSC,8,7,,1,13,2012-03-18,0,0,2012,0,Michael,8,Germany
-20,perez,66.0,1990-01-26,0,,3,2012-11-25,11,0,🇲🇽,Pérez,mx,PER,7,6,,1,14,2012-03-18,0,0,2012,0,Sergio,7,Mexico
-20,petrov,0.0,1984-09-08,0,,0,2012-11-25,,0,🇷🇺,Petrov,ru,PET,0,3,,0,17,2012-03-18,0,0,2012,0,Vitaly,0,Russia
-20,pic,0.0,1990-02-15,0,,0,2012-11-25,,0,🇫🇷,Pic,fr,PIC,0,5,,0,15,2012-03-18,0,0,2012,0,Charles,0,France
-20,resta,46.0,1986-04-16,0,,0,2012-11-25,,0,🇬🇧,di Resta,gb,DIR,9,1,,0,19,2012-03-18,0,0,2012,0,Paul,9,UK
-20,ricciardo,10.0,1989-07-01,0,,0,2012-11-25,3,0,🇦🇺,Ricciardo,au,RIC,6,1,,0,19,2012-03-18,0,0,2012,0,Daniel,6,Australia
-20,rosa,0.0,1971-02-24,1,,0,2012-11-25,,0,🇪🇸,de la Rosa,es,DLR,0,4,,0,15,2012-03-18,0,0,2012,0,Pedro,0,Spain
-20,vergne,16.0,1990-04-25,0,,0,2012-11-25,25,0,🇫🇷,Vergne,fr,VER,4,4,,0,16,2012-03-18,0,0,2012,0,Jean-Éric,4,France
+participations,driverref,points,dob,did_not_start,last_win,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,fullname,did_not_finish,first_win,fastestlaps,races_finished,fullname_flag,first_race,poles,subchampionships,year,wins,forename,finished_in_points,country
+1,ambrosio,0.0,1985-12-27,0,,0,2012-09-09,,0,🇧🇪,d'Ambrosio,be,DAM,0,Jérôme d'Ambrosio,0,,0,1,Jérôme d'Ambrosio 🇧🇪,2012-09-09,0,0,2012,0,Jérôme,0,Belgium
+19,grosjean,96.0,1986-04-17,0,,3,2012-11-25,8,0,🇫🇷,Grosjean,fr,GRO,10,Romain Grosjean,7,,1,12,Romain Grosjean 🇫🇷,2012-03-18,0,0,2012,0,Romain,10,France
+20,vettel,281.0,1987-07-03,0,2012-10-28,10,2012-11-25,5,1,🇩🇪,Vettel,de,VET,17,Sebastian Vettel,1,2012-04-22,6,19,Sebastian Vettel 🇩🇪,2012-03-18,6,0,2012,5,Sebastian,17,Germany
+20,button,188.0,1980-01-19,0,2012-11-25,6,2012-11-25,22,0,🇬🇧,Button,gb,BUT,14,Jenson Button,2,2012-03-18,2,18,Jenson Button 🇬🇧,2012-03-18,1,0,2012,3,Jenson,14,UK
+20,webber,179.0,1976-08-27,0,2012-07-08,4,2012-11-25,,0,🇦🇺,Webber,au,WEB,15,Mark Webber,2,2012-05-27,1,18,Mark Webber 🇦🇺,2012-03-18,2,0,2012,2,Mark,15,Australia
+20,maldonado,45.0,1985-03-09,0,2012-05-13,1,2012-11-25,13,0,🇻🇪,Maldonado,ve,MAL,5,Pastor Maldonado,5,2012-05-13,0,15,Pastor Maldonado 🇻🇪,2012-03-18,1,0,2012,1,Pastor,5,Venezuela
+20,raikkonen,207.0,1979-10-17,0,2012-11-04,7,2012-11-25,7,0,🇫🇮,Räikkönen,fi,RAI,19,Kimi Räikkönen,0,2012-11-04,2,20,Kimi Räikkönen 🇫🇮,2012-03-18,0,0,2012,1,Kimi,19,Finland
+20,rosberg,93.0,1985-06-27,0,2012-04-15,2,2012-11-25,6,0,🇩🇪,Rosberg,de,ROS,10,Nico Rosberg,3,2012-04-15,2,17,Nico Rosberg 🇩🇪,2012-03-18,1,0,2012,1,Nico,10,Germany
+20,alonso,278.0,1981-07-29,0,2012-07-22,13,2012-11-25,14,0,🇪🇸,Alonso,es,ALO,18,Fernando Alonso,2,2012-03-25,0,18,Fernando Alonso 🇪🇸,2012-03-18,2,1,2012,3,Fernando,18,Spain
+20,bruno_senna,31.0,1983-10-15,0,,0,2012-11-25,,0,🇧🇷,Senna,br,SEN,10,Bruno Senna,2,,1,18,Bruno Senna 🇧🇷,2012-03-18,0,0,2012,0,Bruno,10,Brazil
+20,glock,0.0,1982-03-18,1,,0,2012-11-25,,0,🇩🇪,Glock,de,GLO,0,Timo Glock,0,,0,19,Timo Glock 🇩🇪,2012-03-18,0,0,2012,0,Timo,0,Germany
+20,hamilton,190.0,1985-01-07,0,2012-11-18,7,2012-11-25,44,0,🇬🇧,Hamilton,gb,HAM,14,Lewis Hamilton,5,2012-06-10,1,15,Lewis Hamilton 🇬🇧,2012-03-18,7,0,2012,4,Lewis,14,UK
+20,hulkenberg,63.0,1987-08-19,0,,0,2012-11-25,27,0,🇩🇪,Hülkenberg,de,HUL,11,Nico Hülkenberg,2,,1,18,Nico Hülkenberg 🇩🇪,2012-03-18,0,0,2012,0,Nico,11,Germany
+20,karthikeyan,0.0,1977-01-14,1,,0,2012-11-25,,0,🇮🇳,Karthikeyan,in,KAR,0,Narain Karthikeyan,7,,0,12,Narain Karthikeyan 🇮🇳,2012-03-18,0,0,2012,0,Narain,0,India
+20,kobayashi,60.0,1986-09-13,0,,1,2012-11-25,10,0,🇯🇵,Kobayashi,jp,KOB,9,Kamui Kobayashi,4,,1,16,Kamui Kobayashi 🇯🇵,2012-03-18,0,0,2012,0,Kamui,9,Japan
+20,kovalainen,0.0,1981-10-19,0,,0,2012-11-25,,0,🇫🇮,Kovalainen,fi,KOV,0,Heikki Kovalainen,1,,0,19,Heikki Kovalainen 🇫🇮,2012-03-18,0,0,2012,0,Heikki,0,Finland
+20,massa,122.0,1981-04-25,0,,2,2012-11-25,19,0,🇧🇷,Massa,br,MAS,14,Felipe Massa,1,,0,19,Felipe Massa 🇧🇷,2012-03-18,0,0,2012,0,Felipe,14,Brazil
+20,michael_schumacher,49.0,1969-01-03,0,,1,2012-11-25,,0,🇩🇪,Schumacher,de,MSC,8,Michael Schumacher,7,,1,13,Michael Schumacher 🇩🇪,2012-03-18,0,0,2012,0,Michael,8,Germany
+20,perez,66.0,1990-01-26,0,,3,2012-11-25,11,0,🇲🇽,Pérez,mx,PER,7,Sergio Pérez,6,,1,14,Sergio Pérez 🇲🇽,2012-03-18,0,0,2012,0,Sergio,7,Mexico
+20,petrov,0.0,1984-09-08,0,,0,2012-11-25,,0,🇷🇺,Petrov,ru,PET,0,Vitaly Petrov,3,,0,17,Vitaly Petrov 🇷🇺,2012-03-18,0,0,2012,0,Vitaly,0,Russia
+20,pic,0.0,1990-02-15,0,,0,2012-11-25,,0,🇫🇷,Pic,fr,PIC,0,Charles Pic,5,,0,15,Charles Pic 🇫🇷,2012-03-18,0,0,2012,0,Charles,0,France
+20,resta,46.0,1986-04-16,0,,0,2012-11-25,,0,🇬🇧,di Resta,gb,DIR,9,Paul di Resta,1,,0,19,Paul di Resta 🇬🇧,2012-03-18,0,0,2012,0,Paul,9,UK
+20,ricciardo,10.0,1989-07-01,0,,0,2012-11-25,3,0,🇦🇺,Ricciardo,au,RIC,6,Daniel Ricciardo,1,,0,19,Daniel Ricciardo 🇦🇺,2012-03-18,0,0,2012,0,Daniel,6,Australia
+20,rosa,0.0,1971-02-24,1,,0,2012-11-25,,0,🇪🇸,de la Rosa,es,DLR,0,Pedro de la Rosa,4,,0,15,Pedro de la Rosa 🇪🇸,2012-03-18,0,0,2012,0,Pedro,0,Spain
+20,vergne,16.0,1990-04-25,0,,0,2012-11-25,25,0,🇫🇷,Vergne,fr,VER,4,Jean-Éric Vergne,4,,0,16,Jean-Éric Vergne 🇫🇷,2012-03-18,0,0,2012,0,Jean-Éric,4,France
