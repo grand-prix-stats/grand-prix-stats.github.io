@@ -138,7 +138,7 @@ hr {
   width: 100%;
   overflow: auto;
   border-spacing: 0;
-  border-collapse: collapse;
+  border-collapse: collapse !important;
   font-size: 12px;
 }
 .post-content table th {

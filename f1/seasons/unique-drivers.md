@@ -5,9 +5,7 @@ layout: page
 
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
-
-<canvas id="chart" width="400" height="800"></canvas>
+<canvas id="chart" width="400" height="200"></canvas>
 <script>
 var data = {
     "datasets": [
@@ -159,7 +157,6 @@ var data = {
         "2017"
     ]
 };
-
 var options = {
   legend: {
     display: false
@@ -179,7 +176,7 @@ var options = {
 };
 new Chart("chart", {
     data: data,
-    type: 'horizontalBar',
+    type: 'bar',
     options: options
 });
 </script>

@@ -3,9 +3,6 @@ title: List of Formula 1® Seasons
 layout: page
 ---
 
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.css"/>
-<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.js"></script>
-
 | Year | Driver Point % | Driver | Constructor | Constructor Point % |
 |--|--|--|--|--|
 | 1950 | 0.18 | Nino Farina 🇮🇹 |   | 0.0 |
