@@ -3,8 +3,6 @@ title: Percentage of Points of Winning Drivers per Formula 1® Season
 layout: page
 ---
 
-
-
 <canvas id="chart" width="400" height="200"></canvas>
 <script>
 var data = {
@@ -179,6 +177,8 @@ new Chart("chart", {
     options: options
 });
 </script>
+
+
 
 #### Data Table
 

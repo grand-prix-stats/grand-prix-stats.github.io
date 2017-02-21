@@ -3,10 +3,6 @@ title: Percentage of Points of Winning Constructors per Formula 1® Season
 layout: page
 ---
 
-This dataset shows the percentage of total season points earned by the winning constructors. This percentage is calculated as follows:
-
-$$ \mathbf{100 \cdot \frac{WinningConstructorPoints}{AllConstructorsPoints}} $$
-
 <canvas id="chart" width="400" height="200"></canvas>
 <script>
 var data = {
@@ -181,6 +177,10 @@ new Chart("chart", {
     options: options
 });
 </script>
+
+This dataset shows the percentage of total season points earned by the winning constructors. This percentage is calculated as follows:
+
+$$ \mathbf{100 \cdot \frac{WinningConstructorPoints}{AllConstructorsPoints}} $$
 
 #### Data Table
 
