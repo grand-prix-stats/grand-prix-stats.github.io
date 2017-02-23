@@ -1,7 +1,7 @@
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:type" content="{% if page.image %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/media/eneko.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ "/media/grandprixstats.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 {% if page.desc %}
 <meta property="og:description" content="{{ page.desc }}">
 {% else %}

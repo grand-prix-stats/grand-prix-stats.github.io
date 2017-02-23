@@ -1,0 +1,19 @@
+{% assign url_split = page.url | replace_first: "/" | split:"/" %}
+{% assign url_size = url_split.size %}
+
+<ol class="breadcrumb">
+  {% if url_size < 1 %}
+    <!-- <li class="active">Home</li> -->
+  {% else %}
+    <li><a href="/">Home</a></li>
+  {% endif %}
+
+  {% for item in url_split %}
+    {% if forloop.index == forloop.length %}
+      <!-- <li class="active">{{ page.title }}</li> -->
+    {% else %}
+      {% assign temp_index = forloop.index | minus: 1 %}
+      <li><a href="/{% for i in (0..temp_index) %}{{ url_split[i] | append: "/" }}{% endfor %}">{{ item | capitalize }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ol>

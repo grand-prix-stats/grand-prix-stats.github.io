@@ -156,3 +156,16 @@ hr {
   padding: 6px 13px;
   border: 1px solid #ddd;
 }
+
+
+// ------
+
+.breadcrumb { padding: 0; margin: 0; list-style: none; border-radius: 4px; display: block; }
+.breadcrumb > li { display: inline-block; }
+.breadcrumb > li + li:before { padding: 0 5px; }
+.breadcrumb { border: 0px; display: block; }
+.breadcrumb li { font-size: 14px; }
+.breadcrumb a { color: #DE0000; }
+.breadcrumb a:hover { color: #780000; }
+.breadcrumb > .active a { color: #555555; }
+.breadcrumb > li + li:before { color: #DE0000; content: "\003E\00a0"; }
