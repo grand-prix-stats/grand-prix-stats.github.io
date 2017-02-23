@@ -1,11 +1,7 @@
 ---
-title: Grand Prix Stats
+title: Formula 1® Statistics
 layout: page
 ---
-
-Welcome to Grand Prix Stats.
-
-### Formula 1® Statistics
 
 - [{{ site.data.totals[0].seasons }} seasons](/f1/seasons)
 <!-- - [{{ site.data.totals[0].races }} races](/f1/races) -->
