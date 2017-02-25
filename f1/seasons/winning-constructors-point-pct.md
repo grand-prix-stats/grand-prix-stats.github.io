@@ -1,9 +1,9 @@
 ---
-title: Percentage of Points of Winning Constructors per Formula 1® Season
+title: Point Percentage of Constructor's Champion per Formula 1® Season
 layout: page
 ---
 
-<canvas id="chart" width="400" height="200"></canvas>
+<canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
     "datasets": [
@@ -12,75 +12,75 @@ var data = {
             "borderColor": "#f68639",
             "borderWidth": 1,
             "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                18,
-                18,
-                20,
-                22,
-                18,
-                21,
-                18,
-                21,
-                19,
-                22,
-                20,
-                24,
-                18,
-                26,
-                20,
-                24,
-                19,
-                22,
-                20,
-                22,
-                21,
-                30,
-                34,
-                25,
-                18,
-                24,
-                37,
-                22,
-                35,
-                34,
-                49,
-                35,
-                30,
-                34,
-                39,
-                40,
-                28,
-                33,
-                42,
-                27,
-                37,
-                30,
-                38,
-                40,
-                50,
-                25,
-                37,
-                25,
-                29,
-                30,
-                24,
-                26,
-                25,
-                33,
-                22,
-                31,
-                34,
-                36,
-                36
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                18.53,
+                18.52,
+                20.34,
+                22.5,
+                18.67,
+                21.95,
+                18.0,
+                21.6,
+                19.0,
+                22.91,
+                20.81,
+                24.0,
+                18.21,
+                26.55,
+                20.33,
+                24.53,
+                19.47,
+                22.31,
+                20.75,
+                22.35,
+                21.5,
+                30.13,
+                34.29,
+                25.33,
+                18.55,
+                24.12,
+                37.42,
+                22.5,
+                35.25,
+                34.42,
+                49.75,
+                35.25,
+                30.25,
+                34.49,
+                39.42,
+                40.38,
+                28.37,
+                33.26,
+                42.07,
+                27.83,
+                37.5,
+                30.77,
+                38.46,
+                40.5,
+                50.0,
+                25.32,
+                37.32,
+                25.88,
+                29.34,
+                30.77,
+                24.5,
+                26.73,
+                25.95,
+                33.87,
+                22.77,
+                31.06,
+                34.7,
+                36.63,
+                36.07
             ],
-            "label": "Percentage"
+            "label": "Point Percentage"
         }
     ],
     "labels": [
@@ -178,13 +178,13 @@ new Chart("chart", {
 });
 </script>
 
-This dataset shows the percentage of total season points earned by the winning constructors. This percentage is calculated as follows:
+This chart showcases the dominance of the Constructor's Championship winner by displaying the percentage of points earned at the end of the season. Years with a greater percentage indicate a greater dominance. This percentage is calculated as:
 
-$$ \mathbf{100 \cdot \frac{WinningConstructorPoints}{AllConstructorsPoints}} $$
+$$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
 
 #### Data Table
 
-| Year | Percentage |
+| Year | Point Percentage |
 |--|--|
 | 1950 | 0.0 |
 | 1951 | 0.0 |
@@ -253,4 +253,4 @@ $$ \mathbf{100 \cdot \frac{WinningConstructorPoints}{AllConstructorsPoints}} $$
 | 2014 | 34.7 |
 | 2015 | 36.63 |
 | 2016 | 36.07 |
-| 2017 |
+| 2017 |   |

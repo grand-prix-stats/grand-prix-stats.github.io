@@ -1,273 +1,409 @@
 [
     {
+        "champion_constructor": null,
+        "champion_driver": "farina",
         "rounds": 7,
         "year": 1950
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "fangio",
         "rounds": 8,
         "year": 1951
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "ascari",
         "rounds": 8,
         "year": 1952
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "ascari",
         "rounds": 9,
         "year": 1953
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "fangio",
         "rounds": 9,
         "year": 1954
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "fangio",
         "rounds": 7,
         "year": 1955
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "fangio",
         "rounds": 8,
         "year": 1956
     },
     {
+        "champion_constructor": null,
+        "champion_driver": "fangio",
         "rounds": 8,
         "year": 1957
     },
     {
+        "champion_constructor": "vanwall",
+        "champion_driver": "hawthorn",
         "rounds": 11,
         "year": 1958
     },
     {
+        "champion_constructor": "cooper-climax",
+        "champion_driver": "jack_brabham",
         "rounds": 9,
         "year": 1959
     },
     {
+        "champion_constructor": "cooper-climax",
+        "champion_driver": "jack_brabham",
         "rounds": 10,
         "year": 1960
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "phil_hill",
         "rounds": 8,
         "year": 1961
     },
     {
+        "champion_constructor": "brm",
+        "champion_driver": "hill",
         "rounds": 9,
         "year": 1962
     },
     {
+        "champion_constructor": "lotus-climax",
+        "champion_driver": "clark",
         "rounds": 10,
         "year": 1963
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "surtees",
         "rounds": 10,
         "year": 1964
     },
     {
+        "champion_constructor": "lotus-climax",
+        "champion_driver": "clark",
         "rounds": 10,
         "year": 1965
     },
     {
+        "champion_constructor": "brabham-repco",
+        "champion_driver": "jack_brabham",
         "rounds": 9,
         "year": 1966
     },
     {
+        "champion_constructor": "brabham-repco",
+        "champion_driver": "hulme",
         "rounds": 11,
         "year": 1967
     },
     {
+        "champion_constructor": "lotus-ford",
+        "champion_driver": "hill",
         "rounds": 12,
         "year": 1968
     },
     {
+        "champion_constructor": "matra-ford",
+        "champion_driver": "stewart",
         "rounds": 11,
         "year": 1969
     },
     {
+        "champion_constructor": "team_lotus",
+        "champion_driver": "rindt",
         "rounds": 13,
         "year": 1970
     },
     {
+        "champion_constructor": "tyrrell",
+        "champion_driver": "stewart",
         "rounds": 11,
         "year": 1971
     },
     {
+        "champion_constructor": "team_lotus",
+        "champion_driver": "emerson_fittipaldi",
         "rounds": 12,
         "year": 1972
     },
     {
+        "champion_constructor": "team_lotus",
+        "champion_driver": "stewart",
         "rounds": 15,
         "year": 1973
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "emerson_fittipaldi",
         "rounds": 15,
         "year": 1974
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "lauda",
         "rounds": 14,
         "year": 1975
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "hunt",
         "rounds": 16,
         "year": 1976
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "lauda",
         "rounds": 17,
         "year": 1977
     },
     {
+        "champion_constructor": "team_lotus",
+        "champion_driver": "mario_andretti",
         "rounds": 16,
         "year": 1978
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "scheckter",
         "rounds": 15,
         "year": 1979
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "jones",
         "rounds": 14,
         "year": 1980
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "piquet",
         "rounds": 15,
         "year": 1981
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "keke_rosberg",
         "rounds": 16,
         "year": 1982
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "piquet",
         "rounds": 15,
         "year": 1983
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "lauda",
         "rounds": 16,
         "year": 1984
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "prost",
         "rounds": 16,
         "year": 1985
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "prost",
         "rounds": 16,
         "year": 1986
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "piquet",
         "rounds": 16,
         "year": 1987
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "senna",
         "rounds": 16,
         "year": 1988
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "prost",
         "rounds": 16,
         "year": 1989
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "senna",
         "rounds": 16,
         "year": 1990
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "senna",
         "rounds": 16,
         "year": 1991
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "mansell",
         "rounds": 16,
         "year": 1992
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "prost",
         "rounds": 16,
         "year": 1993
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "michael_schumacher",
         "rounds": 16,
         "year": 1994
     },
     {
+        "champion_constructor": "benetton",
+        "champion_driver": "michael_schumacher",
         "rounds": 17,
         "year": 1995
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "damon_hill",
         "rounds": 16,
         "year": 1996
     },
     {
+        "champion_constructor": "williams",
+        "champion_driver": "villeneuve",
         "rounds": 17,
         "year": 1997
     },
     {
+        "champion_constructor": "mclaren",
+        "champion_driver": "hakkinen",
         "rounds": 16,
         "year": 1998
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "hakkinen",
         "rounds": 16,
         "year": 1999
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "michael_schumacher",
         "rounds": 17,
         "year": 2000
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "michael_schumacher",
         "rounds": 17,
         "year": 2001
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "michael_schumacher",
         "rounds": 17,
         "year": 2002
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "michael_schumacher",
         "rounds": 16,
         "year": 2003
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "michael_schumacher",
         "rounds": 18,
         "year": 2004
     },
     {
+        "champion_constructor": "renault",
+        "champion_driver": "alonso",
         "rounds": 19,
         "year": 2005
     },
     {
+        "champion_constructor": "renault",
+        "champion_driver": "alonso",
         "rounds": 18,
         "year": 2006
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "raikkonen",
         "rounds": 17,
         "year": 2007
     },
     {
+        "champion_constructor": "ferrari",
+        "champion_driver": "hamilton",
         "rounds": 18,
         "year": 2008
     },
     {
+        "champion_constructor": "brawn",
+        "champion_driver": "button",
         "rounds": 17,
         "year": 2009
     },
     {
+        "champion_constructor": "red_bull",
+        "champion_driver": "vettel",
         "rounds": 19,
         "year": 2010
     },
     {
+        "champion_constructor": "red_bull",
+        "champion_driver": "vettel",
         "rounds": 19,
         "year": 2011
     },
     {
+        "champion_constructor": "red_bull",
+        "champion_driver": "vettel",
         "rounds": 20,
         "year": 2012
     },
     {
+        "champion_constructor": "red_bull",
+        "champion_driver": "vettel",
         "rounds": 19,
         "year": 2013
     },
     {
+        "champion_constructor": "mercedes",
+        "champion_driver": "hamilton",
         "rounds": 19,
         "year": 2014
     },
     {
+        "champion_constructor": "mercedes",
+        "champion_driver": "hamilton",
         "rounds": 19,
         "year": 2015
     },
     {
+        "champion_constructor": "mercedes",
+        "champion_driver": "rosberg",
         "rounds": 21,
         "year": 2016
     },
     {
+        "champion_constructor": null,
+        "champion_driver": null,
         "rounds": 20,
         "year": 2017
     }

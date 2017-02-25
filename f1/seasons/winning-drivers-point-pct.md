@@ -1,9 +1,9 @@
 ---
-title: Percentage of Points of Winning Drivers per Formula 1® Season
+title: Point Percentage of Driver's Champion per Formula 1® Season
 layout: page
 ---
 
-<canvas id="chart" width="400" height="200"></canvas>
+<canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
     "datasets": [
@@ -12,75 +12,75 @@ var data = {
             "borderColor": "#f68639",
             "borderWidth": 1,
             "data": [
-                17,
-                16,
-                18,
-                15,
-                19,
-                23,
-                15,
-                20,
-                16,
-                14,
-                18,
-                17,
-                18,
-                21,
-                16,
-                21,
-                19,
-                18,
-                16,
-                22,
-                13,
-                22,
-                20,
-                18,
-                14,
-                19,
-                17,
-                16,
-                16,
-                13,
-                19,
-                13,
-                11,
-                15,
-                18,
-                18,
-                18,
-                18,
-                22,
-                19,
-                19,
-                23,
-                25,
-                23,
-                22,
-                23,
-                23,
-                18,
-                24,
-                18,
-                24,
-                27,
-                32,
-                14,
-                21,
-                18,
-                19,
-                16,
-                13,
-                14,
-                13,
-                20,
-                13,
-                20,
-                19,
-                19,
-                18
+                17.86,
+                16.15,
+                18.75,
+                15.97,
+                19.48,
+                23.81,
+                15.54,
+                20.83,
+                16.22,
+                14.35,
+                18.22,
+                17.0,
+                18.67,
+                21.95,
+                16.0,
+                21.6,
+                19.0,
+                18.55,
+                16.11,
+                22.91,
+                13.89,
+                22.55,
+                20.33,
+                18.93,
+                14.67,
+                19.85,
+                17.25,
+                16.94,
+                16.0,
+                13.6,
+                19.14,
+                13.33,
+                11.03,
+                15.99,
+                18.77,
+                18.25,
+                18.0,
+                18.34,
+                22.5,
+                19.0,
+                19.5,
+                23.82,
+                25.96,
+                23.8,
+                22.12,
+                23.08,
+                23.32,
+                18.33,
+                24.04,
+                18.27,
+                24.43,
+                27.83,
+                32.58,
+                14.9,
+                21.08,
+                18.02,
+                19.09,
+                16.59,
+                13.96,
+                14.76,
+                13.34,
+                20.43,
+                13.91,
+                20.69,
+                19.01,
+                19.85,
+                18.15
             ],
-            "label": "Percentage"
+            "label": "Point Percentage"
         }
     ],
     "labels": [
@@ -178,11 +178,13 @@ new Chart("chart", {
 });
 </script>
 
+This chart showcases the dominance of the Driver's Championship winner by displaying the percentage of points earned at the end of the season. Years with a greater percentage indicate a greater dominance. This percentage is calculated as:
 
+$$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
 
 #### Data Table
 
-| Year | Percentage |
+| Year | Point Percentage |
 |--|--|
 | 1950 | 17.86 |
 | 1951 | 16.15 |
@@ -251,4 +253,4 @@ new Chart("chart", {
 | 2014 | 19.01 |
 | 2015 | 19.85 |
 | 2016 | 18.15 |
-| 2017 |
+| 2017 |   |

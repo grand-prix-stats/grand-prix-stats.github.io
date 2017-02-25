@@ -3,7 +3,7 @@ title: Number of Rounds per Formula 1® Season
 layout: page
 ---
 
-<canvas id="chart" width="400" height="200"></canvas>
+<canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
     "datasets": [
@@ -12,74 +12,74 @@ var data = {
             "borderColor": "#f68639",
             "borderWidth": 1,
             "data": [
-                7,
-                8,
-                8,
-                9,
-                9,
-                7,
-                8,
-                8,
-                11,
-                9,
-                10,
-                8,
-                9,
-                10,
-                10,
-                10,
-                9,
-                11,
-                12,
-                11,
-                13,
-                11,
-                12,
-                15,
-                15,
-                14,
-                16,
-                17,
-                16,
-                15,
-                14,
-                15,
-                16,
-                15,
-                16,
-                16,
-                16,
-                16,
-                16,
-                16,
-                16,
-                16,
-                16,
-                16,
-                16,
-                17,
-                16,
-                17,
-                16,
-                16,
-                17,
-                17,
-                17,
-                16,
-                18,
-                19,
-                18,
-                17,
-                18,
-                17,
-                19,
-                19,
-                20,
-                19,
-                19,
-                19,
-                21,
-                20
+                7.0,
+                8.0,
+                8.0,
+                9.0,
+                9.0,
+                7.0,
+                8.0,
+                8.0,
+                11.0,
+                9.0,
+                10.0,
+                8.0,
+                9.0,
+                10.0,
+                10.0,
+                10.0,
+                9.0,
+                11.0,
+                12.0,
+                11.0,
+                13.0,
+                11.0,
+                12.0,
+                15.0,
+                15.0,
+                14.0,
+                16.0,
+                17.0,
+                16.0,
+                15.0,
+                14.0,
+                15.0,
+                16.0,
+                15.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                16.0,
+                17.0,
+                16.0,
+                17.0,
+                16.0,
+                16.0,
+                17.0,
+                17.0,
+                17.0,
+                16.0,
+                18.0,
+                19.0,
+                18.0,
+                17.0,
+                18.0,
+                17.0,
+                19.0,
+                19.0,
+                20.0,
+                19.0,
+                19.0,
+                19.0,
+                21.0,
+                20.0
             ],
             "label": "Rounds"
         }
@@ -183,73 +183,73 @@ new Chart("chart", {
 
 #### Data Table
 
-| Year | Rounds |
-|--|--|
-| 1950 | 7 |
-| 1951 | 8 |
-| 1952 | 8 |
-| 1953 | 9 |
-| 1954 | 9 |
-| 1955 | 7 |
-| 1956 | 8 |
-| 1957 | 8 |
-| 1958 | 11 |
-| 1959 | 9 |
-| 1960 | 10 |
-| 1961 | 8 |
-| 1962 | 9 |
-| 1963 | 10 |
-| 1964 | 10 |
-| 1965 | 10 |
-| 1966 | 9 |
-| 1967 | 11 |
-| 1968 | 12 |
-| 1969 | 11 |
-| 1970 | 13 |
-| 1971 | 11 |
-| 1972 | 12 |
-| 1973 | 15 |
-| 1974 | 15 |
-| 1975 | 14 |
-| 1976 | 16 |
-| 1977 | 17 |
-| 1978 | 16 |
-| 1979 | 15 |
-| 1980 | 14 |
-| 1981 | 15 |
-| 1982 | 16 |
-| 1983 | 15 |
-| 1984 | 16 |
-| 1985 | 16 |
-| 1986 | 16 |
-| 1987 | 16 |
-| 1988 | 16 |
-| 1989 | 16 |
-| 1990 | 16 |
-| 1991 | 16 |
-| 1992 | 16 |
-| 1993 | 16 |
-| 1994 | 16 |
-| 1995 | 17 |
-| 1996 | 16 |
-| 1997 | 17 |
-| 1998 | 16 |
-| 1999 | 16 |
-| 2000 | 17 |
-| 2001 | 17 |
-| 2002 | 17 |
-| 2003 | 16 |
-| 2004 | 18 |
-| 2005 | 19 |
-| 2006 | 18 |
-| 2007 | 17 |
-| 2008 | 18 |
-| 2009 | 17 |
-| 2010 | 19 |
-| 2011 | 19 |
-| 2012 | 20 |
-| 2013 | 19 |
-| 2014 | 19 |
-| 2015 | 19 |
-| 2016 | 21 |
-| 2017 | 20 |
+| Year | Rounds | Champion Driver | Champion Constructor |
+|--|--|--|--|
+| 1950 | 7 | farina |   |
+| 1951 | 8 | fangio |   |
+| 1952 | 8 | ascari |   |
+| 1953 | 9 | ascari |   |
+| 1954 | 9 | fangio |   |
+| 1955 | 7 | fangio |   |
+| 1956 | 8 | fangio |   |
+| 1957 | 8 | fangio |   |
+| 1958 | 11 | hawthorn | vanwall |
+| 1959 | 9 | jack_brabham | cooper-climax |
+| 1960 | 10 | jack_brabham | cooper-climax |
+| 1961 | 8 | phil_hill | ferrari |
+| 1962 | 9 | hill | brm |
+| 1963 | 10 | clark | lotus-climax |
+| 1964 | 10 | surtees | ferrari |
+| 1965 | 10 | clark | lotus-climax |
+| 1966 | 9 | jack_brabham | brabham-repco |
+| 1967 | 11 | hulme | brabham-repco |
+| 1968 | 12 | hill | lotus-ford |
+| 1969 | 11 | stewart | matra-ford |
+| 1970 | 13 | rindt | team_lotus |
+| 1971 | 11 | stewart | tyrrell |
+| 1972 | 12 | emerson_fittipaldi | team_lotus |
+| 1973 | 15 | stewart | team_lotus |
+| 1974 | 15 | emerson_fittipaldi | mclaren |
+| 1975 | 14 | lauda | ferrari |
+| 1976 | 16 | hunt | ferrari |
+| 1977 | 17 | lauda | ferrari |
+| 1978 | 16 | mario_andretti | team_lotus |
+| 1979 | 15 | scheckter | ferrari |
+| 1980 | 14 | jones | williams |
+| 1981 | 15 | piquet | williams |
+| 1982 | 16 | keke_rosberg | ferrari |
+| 1983 | 15 | piquet | ferrari |
+| 1984 | 16 | lauda | mclaren |
+| 1985 | 16 | prost | mclaren |
+| 1986 | 16 | prost | williams |
+| 1987 | 16 | piquet | williams |
+| 1988 | 16 | senna | mclaren |
+| 1989 | 16 | prost | mclaren |
+| 1990 | 16 | senna | mclaren |
+| 1991 | 16 | senna | mclaren |
+| 1992 | 16 | mansell | williams |
+| 1993 | 16 | prost | williams |
+| 1994 | 16 | michael_schumacher | williams |
+| 1995 | 17 | michael_schumacher | benetton |
+| 1996 | 16 | damon_hill | williams |
+| 1997 | 17 | villeneuve | williams |
+| 1998 | 16 | hakkinen | mclaren |
+| 1999 | 16 | hakkinen | ferrari |
+| 2000 | 17 | michael_schumacher | ferrari |
+| 2001 | 17 | michael_schumacher | ferrari |
+| 2002 | 17 | michael_schumacher | ferrari |
+| 2003 | 16 | michael_schumacher | ferrari |
+| 2004 | 18 | michael_schumacher | ferrari |
+| 2005 | 19 | alonso | renault |
+| 2006 | 18 | alonso | renault |
+| 2007 | 17 | raikkonen | ferrari |
+| 2008 | 18 | hamilton | ferrari |
+| 2009 | 17 | button | brawn |
+| 2010 | 19 | vettel | red_bull |
+| 2011 | 19 | vettel | red_bull |
+| 2012 | 20 | vettel | red_bull |
+| 2013 | 19 | vettel | red_bull |
+| 2014 | 19 | hamilton | mercedes |
+| 2015 | 19 | hamilton | mercedes |
+| 2016 | 21 | rosberg | mercedes |
+| 2017 | 20 |   |   |
