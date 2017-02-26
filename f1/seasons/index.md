@@ -3,7 +3,7 @@ title: Formula 1® Seasons
 layout: page
 ---
 
-- [List of Formula 1® Seasons](list)
+- [List of All Formula 1® Seasons](list)
 - [Number of Rounds per Formula 1® Season](rounds)
 - [Number of Participating Drivers per Formula 1® Season](unique-drivers)
 - [Number of Winning Drivers per Formula 1® Season](unique-driver-winners)

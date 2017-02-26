@@ -1,5 +1,5 @@
 ---
-title: List of Formula 1® Circuits
+title: List of All Formula 1® Circuits
 layout: page
 ---
 

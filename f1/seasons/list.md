@@ -1,5 +1,5 @@
 ---
-title: List of Formula 1® Seasons
+title: List of All Formula 1® Seasons
 layout: page
 ---
 

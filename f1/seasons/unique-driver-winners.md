@@ -162,7 +162,8 @@ var options = {
   scales: {
     xAxes: [{
       ticks: {
-        beginAtZero: true
+        beginAtZero: true,
+        maxRotation: 180
       }
     }],
     yAxes: [{

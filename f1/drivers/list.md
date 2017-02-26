@@ -1,5 +1,5 @@
 ---
-title: List of Formula 1® Drivers
+title: List of All Formula 1® Drivers
 layout: page
 ---
 

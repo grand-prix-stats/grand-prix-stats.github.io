@@ -1,0 +1,6694 @@
+[
+    {
+        "laps_completed": 57,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:48:15.565",
+        "round": 1,
+        "season": 2016
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:33:34.696",
+        "round": 2,
+        "season": 2016
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:38:53.891",
+        "round": 3,
+        "season": 2016
+    },
+    {
+        "laps_completed": 53,
+        "name": "Russian Grand Prix",
+        "race_duration": "1:32:41.997",
+        "round": 4,
+        "season": 2016
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:41:40.017",
+        "round": 5,
+        "season": 2016
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:59:29.133",
+        "round": 6,
+        "season": 2016
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:31:05.296",
+        "round": 7,
+        "season": 2016
+    },
+    {
+        "laps_completed": 51,
+        "name": "European Grand Prix",
+        "race_duration": "1:32:52.366",
+        "round": 8,
+        "season": 2016
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:27:38.107",
+        "round": 9,
+        "season": 2016
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "1:34:55.831",
+        "round": 10,
+        "season": 2016
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:40:30.115",
+        "round": 11,
+        "season": 2016
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:30:44.200",
+        "round": 12,
+        "season": 2016
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:44:51.058",
+        "round": 13,
+        "season": 2016
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:28.089",
+        "round": 14,
+        "season": 2016
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "1:55:48.950",
+        "round": 15,
+        "season": 2016
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:37:12.776",
+        "round": 16,
+        "season": 2016
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:26:43.333",
+        "round": 17,
+        "season": 2016
+    },
+    {
+        "laps_completed": 56,
+        "name": "United States Grand Prix",
+        "race_duration": "1:38:12.618",
+        "round": 18,
+        "season": 2016
+    },
+    {
+        "laps_completed": 71,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:40:31.402",
+        "round": 19,
+        "season": 2016
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "3:01:01.335",
+        "round": 20,
+        "season": 2016
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:38:04.013",
+        "round": 21,
+        "season": 2016
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:31:54.067",
+        "round": 1,
+        "season": 2015
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:41:05.793",
+        "round": 2,
+        "season": 2015
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:39:42.008",
+        "round": 3,
+        "season": 2015
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:35:05.809",
+        "round": 4,
+        "season": 2015
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:41:12.555",
+        "round": 5,
+        "season": 2015
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:49:18.420",
+        "round": 6,
+        "season": 2015
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:31:53.145",
+        "round": 7,
+        "season": 2015
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:30:16.930",
+        "round": 8,
+        "season": 2015
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "1:31:27.729",
+        "round": 9,
+        "season": 2015
+    },
+    {
+        "laps_completed": 69,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:46:09.985",
+        "round": 10,
+        "season": 2015
+    },
+    {
+        "laps_completed": 43,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:23:40.387",
+        "round": 11,
+        "season": 2015
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:00.688",
+        "round": 12,
+        "season": 2015
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "2:01:22.118",
+        "round": 13,
+        "season": 2015
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": null,
+        "round": 14,
+        "season": 2015
+    },
+    {
+        "laps_completed": 53,
+        "name": "Russian Grand Prix",
+        "race_duration": "1:37:11.024",
+        "round": 15,
+        "season": 2015
+    },
+    {
+        "laps_completed": 56,
+        "name": "United States Grand Prix",
+        "race_duration": "1:50:52.703",
+        "round": 16,
+        "season": 2015
+    },
+    {
+        "laps_completed": 71,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:42:35.038",
+        "round": 17,
+        "season": 2015
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:31:09.090",
+        "round": 18,
+        "season": 2015
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:38:30.175",
+        "round": 19,
+        "season": 2015
+    },
+    {
+        "laps_completed": 57,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:32:58.710",
+        "round": 1,
+        "season": 2014
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:40:25.974",
+        "round": 2,
+        "season": 2014
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:39:42.743",
+        "round": 3,
+        "season": 2014
+    },
+    {
+        "laps_completed": 54,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:33:28.388",
+        "round": 4,
+        "season": 2014
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:41:05.155",
+        "round": 5,
+        "season": 2014
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:49:27.661",
+        "round": 6,
+        "season": 2014
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:39:12.830",
+        "round": 7,
+        "season": 2014
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:27:54.976",
+        "round": 8,
+        "season": 2014
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "2:26:52.094",
+        "round": 9,
+        "season": 2014
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:33:42.914",
+        "round": 10,
+        "season": 2014
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:53:05.058",
+        "round": 11,
+        "season": 2014
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:24:36.556",
+        "round": 12,
+        "season": 2014
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:19:10.236",
+        "round": 13,
+        "season": 2014
+    },
+    {
+        "laps_completed": 60,
+        "name": "Singapore Grand Prix",
+        "race_duration": "2:00:04.795",
+        "round": 14,
+        "season": 2014
+    },
+    {
+        "laps_completed": 44,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:51:43.021",
+        "round": 15,
+        "season": 2014
+    },
+    {
+        "laps_completed": 53,
+        "name": "Russian Grand Prix",
+        "race_duration": "1:31:50.744",
+        "round": 16,
+        "season": 2014
+    },
+    {
+        "laps_completed": 56,
+        "name": "United States Grand Prix",
+        "race_duration": "1:40:04.785",
+        "round": 17,
+        "season": 2014
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:30:02.555",
+        "round": 18,
+        "season": 2014
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:39:02.619",
+        "round": 19,
+        "season": 2014
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:30:03.225",
+        "round": 1,
+        "season": 2013
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:38:56.681",
+        "round": 2,
+        "season": 2013
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:36:26.945",
+        "round": 3,
+        "season": 2013
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:36:00.498",
+        "round": 4,
+        "season": 2013
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:39:16.596",
+        "round": 5,
+        "season": 2013
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:15:52.056",
+        "round": 6,
+        "season": 2013
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:32:09.143",
+        "round": 7,
+        "season": 2013
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "1:32:59.456",
+        "round": 8,
+        "season": 2013
+    },
+    {
+        "laps_completed": 60,
+        "name": "German Grand Prix",
+        "race_duration": "1:41.14.711",
+        "round": 9,
+        "season": 2013
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:42:29.445",
+        "round": 10,
+        "season": 2013
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:23:42.196",
+        "round": 11,
+        "season": 2013
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:33.352",
+        "round": 12,
+        "season": 2013
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "1:59:13.132",
+        "round": 13,
+        "season": 2013
+    },
+    {
+        "laps_completed": 55,
+        "name": "Korean Grand Prix",
+        "race_duration": "1:43:13.701",
+        "round": 14,
+        "season": 2013
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:26:49.301",
+        "round": 15,
+        "season": 2013
+    },
+    {
+        "laps_completed": 60,
+        "name": "Indian Grand Prix",
+        "race_duration": "1:31:12.187",
+        "round": 16,
+        "season": 2013
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:38:06.106",
+        "round": 17,
+        "season": 2013
+    },
+    {
+        "laps_completed": 56,
+        "name": "United States Grand Prix",
+        "race_duration": "1:39:17.168",
+        "round": 18,
+        "season": 2013
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:32:36.300",
+        "round": 19,
+        "season": 2013
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:34:09.565",
+        "round": 1,
+        "season": 2012
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "2:44:51.812",
+        "round": 2,
+        "season": 2012
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:36:26.929",
+        "round": 3,
+        "season": 2012
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:35:10.990",
+        "round": 4,
+        "season": 2012
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:39:09.145",
+        "round": 5,
+        "season": 2012
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:46:06.557",
+        "round": 6,
+        "season": 2012
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:32:29.586",
+        "round": 7,
+        "season": 2012
+    },
+    {
+        "laps_completed": 57,
+        "name": "European Grand Prix",
+        "race_duration": "1:44:16.649",
+        "round": 8,
+        "season": 2012
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "1:25:11.288",
+        "round": 9,
+        "season": 2012
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:31:05.862",
+        "round": 10,
+        "season": 2012
+    },
+    {
+        "laps_completed": 69,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:41:05.503",
+        "round": 11,
+        "season": 2012
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:29:08.530",
+        "round": 12,
+        "season": 2012
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:19:41.221",
+        "round": 13,
+        "season": 2012
+    },
+    {
+        "laps_completed": 59,
+        "name": "Singapore Grand Prix",
+        "race_duration": "2:00:26.144",
+        "round": 14,
+        "season": 2012
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:28:56.242",
+        "round": 15,
+        "season": 2012
+    },
+    {
+        "laps_completed": 55,
+        "name": "Korean Grand Prix",
+        "race_duration": "1:36:28.651",
+        "round": 16,
+        "season": 2012
+    },
+    {
+        "laps_completed": 60,
+        "name": "Indian Grand Prix",
+        "race_duration": "1:31:10.744",
+        "round": 17,
+        "season": 2012
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:45:58.667",
+        "round": 18,
+        "season": 2012
+    },
+    {
+        "laps_completed": 56,
+        "name": "United States Grand Prix",
+        "race_duration": "1:35:55.269",
+        "round": 19,
+        "season": 2012
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:45:22.656",
+        "round": 20,
+        "season": 2012
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:29:30.259",
+        "round": 1,
+        "season": 2011
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:37:39.832",
+        "round": 2,
+        "season": 2011
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:36:58.226",
+        "round": 3,
+        "season": 2011
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:30:17.558",
+        "round": 4,
+        "season": 2011
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:39:03.301",
+        "round": 5,
+        "season": 2011
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:09:38.373",
+        "round": 6,
+        "season": 2011
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "4:04:39.537",
+        "round": 7,
+        "season": 2011
+    },
+    {
+        "laps_completed": 57,
+        "name": "European Grand Prix",
+        "race_duration": "1:39:36.169",
+        "round": 8,
+        "season": 2011
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "1:28:41.194",
+        "round": 9,
+        "season": 2011
+    },
+    {
+        "laps_completed": 60,
+        "name": "German Grand Prix",
+        "race_duration": "1:37:30.344",
+        "round": 10,
+        "season": 2011
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:46:42.337",
+        "round": 11,
+        "season": 2011
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:26:44.893",
+        "round": 12,
+        "season": 2011
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:20:46.172",
+        "round": 13,
+        "season": 2011
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "1:59:04.757",
+        "round": 14,
+        "season": 2011
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:30:53.427",
+        "round": 15,
+        "season": 2011
+    },
+    {
+        "laps_completed": 55,
+        "name": "Korean Grand Prix",
+        "race_duration": "1:38:01.994",
+        "round": 16,
+        "season": 2011
+    },
+    {
+        "laps_completed": 60,
+        "name": "Indian Grand Prix",
+        "race_duration": "1:30:35.002",
+        "round": 17,
+        "season": 2011
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:37:11.886",
+        "round": 18,
+        "season": 2011
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:32:17.464",
+        "round": 19,
+        "season": 2011
+    },
+    {
+        "laps_completed": 49,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:39:20.396",
+        "round": 1,
+        "season": 2010
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:33:36.531",
+        "round": 2,
+        "season": 2010
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:33:48.412",
+        "round": 3,
+        "season": 2010
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:46:42.163",
+        "round": 4,
+        "season": 2010
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:35:44.101",
+        "round": 5,
+        "season": 2010
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:50:13.355",
+        "round": 6,
+        "season": 2010
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:28:47.620",
+        "round": 7,
+        "season": 2010
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:33:53.456",
+        "round": 8,
+        "season": 2010
+    },
+    {
+        "laps_completed": 57,
+        "name": "European Grand Prix",
+        "race_duration": "1:40:29.571",
+        "round": 9,
+        "season": 2010
+    },
+    {
+        "laps_completed": 52,
+        "name": "British Grand Prix",
+        "race_duration": "1:24.38.200",
+        "round": 10,
+        "season": 2010
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:27.38.684",
+        "round": 11,
+        "season": 2010
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:41:05.571",
+        "round": 12,
+        "season": 2010
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:29.04.268",
+        "round": 13,
+        "season": 2010
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:16:24.572",
+        "round": 14,
+        "season": 2010
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "1:57:53.579",
+        "round": 15,
+        "season": 2010
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:30:27.323",
+        "round": 16,
+        "season": 2010
+    },
+    {
+        "laps_completed": 55,
+        "name": "Korean Grand Prix",
+        "race_duration": "2:48:20.810",
+        "round": 17,
+        "season": 2010
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:33:11.803",
+        "round": 18,
+        "season": 2010
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:39:36.837",
+        "round": 19,
+        "season": 2010
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:34:15.784",
+        "round": 1,
+        "season": 2009
+    },
+    {
+        "laps_completed": 31,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:10:52.092",
+        "round": 2,
+        "season": 2009
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:57:43.485",
+        "round": 3,
+        "season": 2009
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:31:48.182",
+        "round": 4,
+        "season": 2009
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:37:19.202",
+        "round": 5,
+        "season": 2009
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:40:44.282",
+        "round": 6,
+        "season": 2009
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:26:24.848",
+        "round": 7,
+        "season": 2009
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:22:49.328",
+        "round": 8,
+        "season": 2009
+    },
+    {
+        "laps_completed": 60,
+        "name": "German Grand Prix",
+        "race_duration": "1:36:43.310",
+        "round": 9,
+        "season": 2009
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:38:23.876",
+        "round": 10,
+        "season": 2009
+    },
+    {
+        "laps_completed": 57,
+        "name": "European Grand Prix",
+        "race_duration": "1:35:51.289",
+        "round": 11,
+        "season": 2009
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:23:50.995",
+        "round": 12,
+        "season": 2009
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:16:21.706",
+        "round": 13,
+        "season": 2009
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "1:56:06.337",
+        "round": 14,
+        "season": 2009
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:28:20.443",
+        "round": 15,
+        "season": 2009
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:32:23.081",
+        "round": 16,
+        "season": 2009
+    },
+    {
+        "laps_completed": 55,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": "1:34:03.414",
+        "round": 17,
+        "season": 2009
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:34:50.616",
+        "round": 1,
+        "season": 2008
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:31:18.555",
+        "round": 2,
+        "season": 2008
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:31:06.970",
+        "round": 3,
+        "season": 2008
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:38:19.051",
+        "round": 4,
+        "season": 2008
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:26:49.451",
+        "round": 5,
+        "season": 2008
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:00:42.742",
+        "round": 6,
+        "season": 2008
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:36:24.227",
+        "round": 7,
+        "season": 2008
+    },
+    {
+        "laps_completed": 70,
+        "name": "French Grand Prix",
+        "race_duration": "1:31:50.245",
+        "round": 8,
+        "season": 2008
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:39:09.440",
+        "round": 9,
+        "season": 2008
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:31:20.874",
+        "round": 10,
+        "season": 2008
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:37:27.067",
+        "round": 11,
+        "season": 2008
+    },
+    {
+        "laps_completed": 57,
+        "name": "European Grand Prix",
+        "race_duration": "1:35:32.339",
+        "round": 12,
+        "season": 2008
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:22:59.394",
+        "round": 13,
+        "season": 2008
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:26:47.494",
+        "round": 14,
+        "season": 2008
+    },
+    {
+        "laps_completed": 61,
+        "name": "Singapore Grand Prix",
+        "race_duration": "1:57:16.304",
+        "round": 15,
+        "season": 2008
+    },
+    {
+        "laps_completed": 67,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:30:21.892",
+        "round": 16,
+        "season": 2008
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:31:57.403",
+        "round": 17,
+        "season": 2008
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:34:11.435",
+        "round": 18,
+        "season": 2008
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:25:28.770",
+        "round": 1,
+        "season": 2007
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:32:14.930",
+        "round": 2,
+        "season": 2007
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:33:27.515",
+        "round": 3,
+        "season": 2007
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:31:36.230",
+        "round": 4,
+        "season": 2007
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:40:29.329",
+        "round": 5,
+        "season": 2007
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:44:11.292",
+        "round": 6,
+        "season": 2007
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:31:09.965",
+        "round": 7,
+        "season": 2007
+    },
+    {
+        "laps_completed": 70,
+        "name": "French Grand Prix",
+        "race_duration": "1:30:54.200",
+        "round": 8,
+        "season": 2007
+    },
+    {
+        "laps_completed": 59,
+        "name": "British Grand Prix",
+        "race_duration": "1:21:43.074",
+        "round": 9,
+        "season": 2007
+    },
+    {
+        "laps_completed": 60,
+        "name": "European Grand Prix",
+        "race_duration": "2:06:26.358",
+        "round": 10,
+        "season": 2007
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:35:52.991",
+        "round": 11,
+        "season": 2007
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:26:42.161",
+        "round": 12,
+        "season": 2007
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:37.806",
+        "round": 13,
+        "season": 2007
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:20:39.066",
+        "round": 14,
+        "season": 2007
+    },
+    {
+        "laps_completed": 67,
+        "name": "Japanese Grand Prix",
+        "race_duration": "2:00:34.579",
+        "round": 15,
+        "season": 2007
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:37:58.395",
+        "round": 16,
+        "season": 2007
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:28:15.270",
+        "round": 17,
+        "season": 2007
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:29:46.205",
+        "round": 1,
+        "season": 2006
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:30:40.529",
+        "round": 2,
+        "season": 2006
+    },
+    {
+        "laps_completed": 57,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:34:27.870",
+        "round": 3,
+        "season": 2006
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:31:06.486",
+        "round": 4,
+        "season": 2006
+    },
+    {
+        "laps_completed": 60,
+        "name": "European Grand Prix",
+        "race_duration": "1:35:58.765",
+        "round": 5,
+        "season": 2006
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:26:21.759",
+        "round": 6,
+        "season": 2006
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:43:43.116",
+        "round": 7,
+        "season": 2006
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:25:51.927",
+        "round": 8,
+        "season": 2006
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:34:37.308",
+        "round": 9,
+        "season": 2006
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:34:35.199",
+        "round": 10,
+        "season": 2006
+    },
+    {
+        "laps_completed": 70,
+        "name": "French Grand Prix",
+        "race_duration": "1:32:07.803",
+        "round": 11,
+        "season": 2006
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:27:51.693",
+        "round": 12,
+        "season": 2006
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:52:20.941",
+        "round": 13,
+        "season": 2006
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:28:51.082",
+        "round": 14,
+        "season": 2006
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:14:51.975",
+        "round": 15,
+        "season": 2006
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:37:32.747",
+        "round": 16,
+        "season": 2006
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:23:52.413",
+        "round": 17,
+        "season": 2006
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:31:53.751",
+        "round": 18,
+        "season": 2006
+    },
+    {
+        "laps_completed": 57,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:24:17.336",
+        "round": 1,
+        "season": 2005
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:31:33.736",
+        "round": 2,
+        "season": 2005
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:29:18.531",
+        "round": 3,
+        "season": 2005
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:27:41.921",
+        "round": 4,
+        "season": 2005
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:27:16.830",
+        "round": 5,
+        "season": 2005
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:45:15.556",
+        "round": 6,
+        "season": 2005
+    },
+    {
+        "laps_completed": 59,
+        "name": "European Grand Prix",
+        "race_duration": "1:31:46.648",
+        "round": 7,
+        "season": 2005
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:32:09.290",
+        "round": 8,
+        "season": 2005
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:29:43.181",
+        "round": 9,
+        "season": 2005
+    },
+    {
+        "laps_completed": 70,
+        "name": "French Grand Prix",
+        "race_duration": "1:31:22.232",
+        "round": 10,
+        "season": 2005
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:24:29.588",
+        "round": 11,
+        "season": 2005
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:26:28.599",
+        "round": 12,
+        "season": 2005
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:37:25.552",
+        "round": 13,
+        "season": 2005
+    },
+    {
+        "laps_completed": 58,
+        "name": "Turkish Grand Prix",
+        "race_duration": "1:24:34.454",
+        "round": 14,
+        "season": 2005
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:14:28.659",
+        "round": 15,
+        "season": 2005
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:30:01.295",
+        "round": 16,
+        "season": 2005
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:29:20.574",
+        "round": 17,
+        "season": 2005
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:29:02.212",
+        "round": 18,
+        "season": 2005
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:39:53.618",
+        "round": 19,
+        "season": 2005
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:24:15.757",
+        "round": 1,
+        "season": 2004
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:31:07.490",
+        "round": 2,
+        "season": 2004
+    },
+    {
+        "laps_completed": 57,
+        "name": "Bahrain Grand Prix",
+        "race_duration": "1:28:34.875",
+        "round": 3,
+        "season": 2004
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:26:19.670",
+        "round": 4,
+        "season": 2004
+    },
+    {
+        "laps_completed": 66,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:27:32.841",
+        "round": 5,
+        "season": 2004
+    },
+    {
+        "laps_completed": 77,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:45:46.601",
+        "round": 6,
+        "season": 2004
+    },
+    {
+        "laps_completed": 60,
+        "name": "European Grand Prix",
+        "race_duration": "1:32:35.101",
+        "round": 7,
+        "season": 2004
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:28:24.803",
+        "round": 8,
+        "season": 2004
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:40:29.914",
+        "round": 9,
+        "season": 2004
+    },
+    {
+        "laps_completed": 70,
+        "name": "French Grand Prix",
+        "race_duration": "1:30:18.133",
+        "round": 10,
+        "season": 2004
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:24:42.700",
+        "round": 11,
+        "season": 2004
+    },
+    {
+        "laps_completed": 66,
+        "name": "German Grand Prix",
+        "race_duration": "1:23:54.848",
+        "round": 12,
+        "season": 2004
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:35:26.131",
+        "round": 13,
+        "season": 2004
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:32:35.274",
+        "round": 14,
+        "season": 2004
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:15:18.448",
+        "round": 15,
+        "season": 2004
+    },
+    {
+        "laps_completed": 56,
+        "name": "Chinese Grand Prix",
+        "race_duration": "1:29:12.420",
+        "round": 16,
+        "season": 2004
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:24:26.985",
+        "round": 17,
+        "season": 2004
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:28:01.451",
+        "round": 18,
+        "season": 2004
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:34:42.1",
+        "round": 1,
+        "season": 2003
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:32:22.195",
+        "round": 2,
+        "season": 2003
+    },
+    {
+        "laps_completed": 54,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:31:18.2",
+        "round": 3,
+        "season": 2003
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:28:12.058",
+        "round": 4,
+        "season": 2003
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:33:46.933",
+        "round": 5,
+        "season": 2003
+    },
+    {
+        "laps_completed": 69,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:24:04.888",
+        "round": 6,
+        "season": 2003
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:42:19.010",
+        "round": 7,
+        "season": 2003
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:31:13.591",
+        "round": 8,
+        "season": 2003
+    },
+    {
+        "laps_completed": 60,
+        "name": "European Grand Prix",
+        "race_duration": "1:34:43.622",
+        "round": 9,
+        "season": 2003
+    },
+    {
+        "laps_completed": 70,
+        "name": "French Grand Prix",
+        "race_duration": "1:30:49.213",
+        "round": 10,
+        "season": 2003
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:28:37.554",
+        "round": 11,
+        "season": 2003
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:28:48.769",
+        "round": 12,
+        "season": 2003
+    },
+    {
+        "laps_completed": 70,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:39:01.460",
+        "round": 13,
+        "season": 2003
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:14:19.838",
+        "round": 14,
+        "season": 2003
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:33:35.997",
+        "round": 15,
+        "season": 2003
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:25:11.743",
+        "round": 16,
+        "season": 2003
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:35:36.792",
+        "round": 1,
+        "season": 2002
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:34:12.912",
+        "round": 2,
+        "season": 2002
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:31:43.662",
+        "round": 3,
+        "season": 2002
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:29:10.789",
+        "round": 4,
+        "season": 2002
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:30:29.981",
+        "round": 5,
+        "season": 2002
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:33:51.562",
+        "round": 6,
+        "season": 2002
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:45:39.055",
+        "round": 7,
+        "season": 2002
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:33:36.111",
+        "round": 8,
+        "season": 2002
+    },
+    {
+        "laps_completed": 60,
+        "name": "European Grand Prix",
+        "race_duration": "1:35:07.426",
+        "round": 9,
+        "season": 2002
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:31:45.015",
+        "round": 10,
+        "season": 2002
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:32:09.837",
+        "round": 11,
+        "season": 2002
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:27:52.078",
+        "round": 12,
+        "season": 2002
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:41:49.001",
+        "round": 13,
+        "season": 2002
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:21:20.634",
+        "round": 14,
+        "season": 2002
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:16:19.982",
+        "round": 15,
+        "season": 2002
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:31:08.0",
+        "round": 16,
+        "season": 2002
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:26:59.698",
+        "round": 17,
+        "season": 2002
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:38:26.533",
+        "round": 1,
+        "season": 2001
+    },
+    {
+        "laps_completed": 55,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:47:34.801",
+        "round": 2,
+        "season": 2001
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:39:00.834",
+        "round": 3,
+        "season": 2001
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:30:44.817",
+        "round": 4,
+        "season": 2001
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:31:03.305",
+        "round": 5,
+        "season": 2001
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:27:45.927",
+        "round": 6,
+        "season": 2001
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:47:22.561",
+        "round": 7,
+        "season": 2001
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:34:31.522",
+        "round": 8,
+        "season": 2001
+    },
+    {
+        "laps_completed": 67,
+        "name": "European Grand Prix",
+        "race_duration": "1:29:42.724",
+        "round": 9,
+        "season": 2001
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:33:35.636",
+        "round": 10,
+        "season": 2001
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:25:33.770",
+        "round": 11,
+        "season": 2001
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:18:17.873",
+        "round": 12,
+        "season": 2001
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:41:49.675",
+        "round": 13,
+        "season": 2001
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:08:05.002",
+        "round": 14,
+        "season": 2001
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:16:58.493",
+        "round": 15,
+        "season": 2001
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:32:42.840",
+        "round": 16,
+        "season": 2001
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:27:33.298",
+        "round": 17,
+        "season": 2001
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:34:01.987",
+        "round": 1,
+        "season": 2000
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:31:35.271",
+        "round": 2,
+        "season": 2000
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:31:39.776",
+        "round": 3,
+        "season": 2000
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:28:50.108",
+        "round": 4,
+        "season": 2000
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:33:55.390",
+        "round": 5,
+        "season": 2000
+    },
+    {
+        "laps_completed": 67,
+        "name": "European Grand Prix",
+        "race_duration": "1:42:00.307",
+        "round": 6,
+        "season": 2000
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:49:28.213",
+        "round": 7,
+        "season": 2000
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:41:12.313",
+        "round": 8,
+        "season": 2000
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:05.538",
+        "round": 9,
+        "season": 2000
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:28:15.818",
+        "round": 10,
+        "season": 2000
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:25:34.418",
+        "round": 11,
+        "season": 2000
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:45:33.869",
+        "round": 12,
+        "season": 2000
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:28:14.494",
+        "round": 13,
+        "season": 2000
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:27:31.638",
+        "round": 14,
+        "season": 2000
+    },
+    {
+        "laps_completed": 73,
+        "name": "United States Grand Prix",
+        "race_duration": "1:36:30.883",
+        "round": 15,
+        "season": 2000
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:29:53.435",
+        "round": 16,
+        "season": 2000
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:35:54.235",
+        "round": 17,
+        "season": 2000
+    },
+    {
+        "laps_completed": 57,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:35:01.659",
+        "round": 1,
+        "season": 1999
+    },
+    {
+        "laps_completed": 72,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:36:03.785",
+        "round": 2,
+        "season": 1999
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:33:44.792",
+        "round": 3,
+        "season": 1999
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:49:31.812",
+        "round": 4,
+        "season": 1999
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:34:13.665",
+        "round": 5,
+        "season": 1999
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:41:35.727",
+        "round": 6,
+        "season": 1999
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:58:24.343",
+        "round": 7,
+        "season": 1999
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:32:30.144",
+        "round": 8,
+        "season": 1999
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:28:12.438",
+        "round": 9,
+        "season": 1999
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:21:58.594",
+        "round": 10,
+        "season": 1999
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:46:23.536",
+        "round": 11,
+        "season": 1999
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:25:43.057",
+        "round": 12,
+        "season": 1999
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:02.923",
+        "round": 13,
+        "season": 1999
+    },
+    {
+        "laps_completed": 66,
+        "name": "European Grand Prix",
+        "race_duration": "1:41:54.314",
+        "round": 14,
+        "season": 1999
+    },
+    {
+        "laps_completed": 56,
+        "name": "Malaysian Grand Prix",
+        "race_duration": "1:36:38.494",
+        "round": 15,
+        "season": 1999
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:31:18.785",
+        "round": 16,
+        "season": 1999
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:31:46.0",
+        "round": 1,
+        "season": 1998
+    },
+    {
+        "laps_completed": 72,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:37:12.2",
+        "round": 2,
+        "season": 1998
+    },
+    {
+        "laps_completed": 72,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:48:36.1",
+        "round": 3,
+        "season": 1998
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:34:25.4",
+        "round": 4,
+        "season": 1998
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:33:38.3",
+        "round": 5,
+        "season": 1998
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:51:24.4",
+        "round": 6,
+        "season": 1998
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:40:57.3",
+        "round": 7,
+        "season": 1998
+    },
+    {
+        "laps_completed": 71,
+        "name": "French Grand Prix",
+        "race_duration": "1:34:45.0",
+        "round": 8,
+        "season": 1998
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:47:02.4",
+        "round": 9,
+        "season": 1998
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:30:44.0",
+        "round": 10,
+        "season": 1998
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:20:48.0",
+        "round": 11,
+        "season": 1998
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:45:26.4",
+        "round": 12,
+        "season": 1998
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:43:47.407",
+        "round": 13,
+        "season": 1998
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:10.3",
+        "round": 14,
+        "season": 1998
+    },
+    {
+        "laps_completed": 67,
+        "name": "Luxembourg Grand Prix",
+        "race_duration": "1:32:14.789",
+        "round": 15,
+        "season": 1998
+    },
+    {
+        "laps_completed": 51,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:27:23.4",
+        "round": 16,
+        "season": 1998
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:30:28.718",
+        "round": 1,
+        "season": 1997
+    },
+    {
+        "laps_completed": 72,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:36:06.990",
+        "round": 2,
+        "season": 1997
+    },
+    {
+        "laps_completed": 72,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:52:01.715",
+        "round": 3,
+        "season": 1997
+    },
+    {
+        "laps_completed": 62,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:31:00.673",
+        "round": 4,
+        "season": 1997
+    },
+    {
+        "laps_completed": 62,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:00:05.654",
+        "round": 5,
+        "season": 1997
+    },
+    {
+        "laps_completed": 64,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:30:35.896",
+        "round": 6,
+        "season": 1997
+    },
+    {
+        "laps_completed": 54,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:17:40.646",
+        "round": 7,
+        "season": 1997
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:50.492",
+        "round": 8,
+        "season": 1997
+    },
+    {
+        "laps_completed": 59,
+        "name": "British Grand Prix",
+        "race_duration": "1:28:01.665",
+        "round": 9,
+        "season": 1997
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:20:59.046",
+        "round": 10,
+        "season": 1997
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:45:47.149",
+        "round": 11,
+        "season": 1997
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:33:46.717",
+        "round": 12,
+        "season": 1997
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:04.609",
+        "round": 13,
+        "season": 1997
+    },
+    {
+        "laps_completed": 71,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:27:35.999",
+        "round": 14,
+        "season": 1997
+    },
+    {
+        "laps_completed": 67,
+        "name": "Luxembourg Grand Prix",
+        "race_duration": "1:31:27.843",
+        "round": 15,
+        "season": 1997
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:29:48.446",
+        "round": 16,
+        "season": 1997
+    },
+    {
+        "laps_completed": 69,
+        "name": "European Grand Prix",
+        "race_duration": "1:38:57.771",
+        "round": 17,
+        "season": 1997
+    },
+    {
+        "laps_completed": 58,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:32:50.4",
+        "round": 1,
+        "season": 1996
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:49:52.976",
+        "round": 2,
+        "season": 1996
+    },
+    {
+        "laps_completed": 72,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:54:55.322",
+        "round": 3,
+        "season": 1996
+    },
+    {
+        "laps_completed": 67,
+        "name": "European Grand Prix",
+        "race_duration": "1:33:26.473",
+        "round": 4,
+        "season": 1996
+    },
+    {
+        "laps_completed": 63,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:35:26.156",
+        "round": 5,
+        "season": 1996
+    },
+    {
+        "laps_completed": 75,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:00:45.629",
+        "round": 6,
+        "season": 1996
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:59:49.307",
+        "round": 7,
+        "season": 1996
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:36:03.4",
+        "round": 8,
+        "season": 1996
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:36:29.2",
+        "round": 9,
+        "season": 1996
+    },
+    {
+        "laps_completed": 61,
+        "name": "British Grand Prix",
+        "race_duration": "1:33:00.874",
+        "round": 10,
+        "season": 1996
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:21:43.417",
+        "round": 11,
+        "season": 1996
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:46:21.134",
+        "round": 12,
+        "season": 1996
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:28:15.125",
+        "round": 13,
+        "season": 1996
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:43.632",
+        "round": 14,
+        "season": 1996
+    },
+    {
+        "laps_completed": 70,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:40:22.915",
+        "round": 15,
+        "season": 1996
+    },
+    {
+        "laps_completed": 52,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:32:33.791",
+        "round": 16,
+        "season": 1996
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "+1:38:34.154",
+        "round": 1,
+        "season": 1995
+    },
+    {
+        "laps_completed": 72,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:53:14.532",
+        "round": 2,
+        "season": 1995
+    },
+    {
+        "laps_completed": 63,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:41:42.522",
+        "round": 3,
+        "season": 1995
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:34:20.507",
+        "round": 4,
+        "season": 1995
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:53:11.258",
+        "round": 5,
+        "season": 1995
+    },
+    {
+        "laps_completed": 68,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:44:54.171",
+        "round": 6,
+        "season": 1995
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:28.429",
+        "round": 7,
+        "season": 1995
+    },
+    {
+        "laps_completed": 61,
+        "name": "British Grand Prix",
+        "race_duration": "1:34:35.093",
+        "round": 8,
+        "season": 1995
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:22:56.043",
+        "round": 9,
+        "season": 1995
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:46:25.721",
+        "round": 10,
+        "season": 1995
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:36:47.875",
+        "round": 11,
+        "season": 1995
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:27.916",
+        "round": 12,
+        "season": 1995
+    },
+    {
+        "laps_completed": 71,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:41:52.145",
+        "round": 13,
+        "season": 1995
+    },
+    {
+        "laps_completed": 67,
+        "name": "European Grand Prix",
+        "race_duration": "1:39:59.044",
+        "round": 14,
+        "season": 1995
+    },
+    {
+        "laps_completed": 83,
+        "name": "Pacific Grand Prix",
+        "race_duration": "1:48:49.972",
+        "round": 15,
+        "season": 1995
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:36:52.930",
+        "round": 16,
+        "season": 1995
+    },
+    {
+        "laps_completed": 81,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:49:15.946",
+        "round": 17,
+        "season": 1995
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:35:39.2",
+        "round": 1,
+        "season": 1994
+    },
+    {
+        "laps_completed": 83,
+        "name": "Pacific Grand Prix",
+        "race_duration": "1:46:01.693",
+        "round": 2,
+        "season": 1994
+    },
+    {
+        "laps_completed": 58,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:28:28.642",
+        "round": 3,
+        "season": 1994
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:49:55.3",
+        "round": 4,
+        "season": 1994
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:36:14.3",
+        "round": 5,
+        "season": 1994
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:44:32.1",
+        "round": 6,
+        "season": 1994
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:36.2",
+        "round": 7,
+        "season": 1994
+    },
+    {
+        "laps_completed": 60,
+        "name": "British Grand Prix",
+        "race_duration": "1:30:03.640",
+        "round": 8,
+        "season": 1994
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:22:37.2",
+        "round": 9,
+        "season": 1994
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1.48:00.185",
+        "round": 10,
+        "season": 1994
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:28:47.1",
+        "round": 11,
+        "season": 1994
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:03.2",
+        "round": 12,
+        "season": 1994
+    },
+    {
+        "laps_completed": 71,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:45:10.1",
+        "round": 13,
+        "season": 1994
+    },
+    {
+        "laps_completed": 69,
+        "name": "European Grand Prix",
+        "race_duration": "1:40:27.3",
+        "round": 14,
+        "season": 1994
+    },
+    {
+        "laps_completed": 50,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:55:53.532",
+        "round": 15,
+        "season": 1994
+    },
+    {
+        "laps_completed": 81,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:47:51.4",
+        "round": 16,
+        "season": 1994
+    },
+    {
+        "laps_completed": 72,
+        "name": "South African Grand Prix",
+        "race_duration": "1:38:45.082",
+        "round": 1,
+        "season": 1993
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:51:15.485",
+        "round": 2,
+        "season": 1993
+    },
+    {
+        "laps_completed": 76,
+        "name": "European Grand Prix",
+        "race_duration": "1:50:46.570",
+        "round": 3,
+        "season": 1993
+    },
+    {
+        "laps_completed": 61,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:33:20.413",
+        "round": 4,
+        "season": 1993
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:32:27.685",
+        "round": 5,
+        "season": 1993
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:52:10.947",
+        "round": 6,
+        "season": 1993
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:36:41.822",
+        "round": 7,
+        "season": 1993
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:35.241",
+        "round": 8,
+        "season": 1993
+    },
+    {
+        "laps_completed": 59,
+        "name": "British Grand Prix",
+        "race_duration": "1:25:38.189",
+        "round": 9,
+        "season": 1993
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:18:40.885",
+        "round": 10,
+        "season": 1993
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:47:39.098",
+        "round": 11,
+        "season": 1993
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:24:32.124",
+        "round": 12,
+        "season": 1993
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:07.509",
+        "round": 13,
+        "season": 1993
+    },
+    {
+        "laps_completed": 71,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:32:46.309",
+        "round": 14,
+        "season": 1993
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:40:27.912",
+        "round": 15,
+        "season": 1993
+    },
+    {
+        "laps_completed": 79,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:43:27.476",
+        "round": 16,
+        "season": 1993
+    },
+    {
+        "laps_completed": 72,
+        "name": "South African Grand Prix",
+        "race_duration": "1:36:45.320",
+        "round": 1,
+        "season": 1992
+    },
+    {
+        "laps_completed": 69,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:31:53.587",
+        "round": 2,
+        "season": 1992
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:36:51.856",
+        "round": 3,
+        "season": 1992
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:56:10.674",
+        "round": 4,
+        "season": 1992
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:28:40.927",
+        "round": 5,
+        "season": 1992
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:50:59.372",
+        "round": 6,
+        "season": 1992
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:37:08.299",
+        "round": 7,
+        "season": 1992
+    },
+    {
+        "laps_completed": 69,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:08.459",
+        "round": 8,
+        "season": 1992
+    },
+    {
+        "laps_completed": 59,
+        "name": "British Grand Prix",
+        "race_duration": "1:25:42.991",
+        "round": 9,
+        "season": 1992
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:18:22.032",
+        "round": 10,
+        "season": 1992
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:46:19.216",
+        "round": 11,
+        "season": 1992
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:36:10.721",
+        "round": 12,
+        "season": 1992
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:15.349",
+        "round": 13,
+        "season": 1992
+    },
+    {
+        "laps_completed": 71,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:34:46.659",
+        "round": 14,
+        "season": 1992
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:33:09.533",
+        "round": 15,
+        "season": 1992
+    },
+    {
+        "laps_completed": 81,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:46:54.786",
+        "round": 16,
+        "season": 1992
+    },
+    {
+        "laps_completed": 81,
+        "name": "United States Grand Prix",
+        "race_duration": "2:00:47.828",
+        "round": 1,
+        "season": 1991
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:38:28.128",
+        "round": 2,
+        "season": 1991
+    },
+    {
+        "laps_completed": 61,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:35:14.750",
+        "round": 3,
+        "season": 1991
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:53:02.334",
+        "round": 4,
+        "season": 1991
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:38:51.490",
+        "round": 5,
+        "season": 1991
+    },
+    {
+        "laps_completed": 67,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:29:52.205",
+        "round": 6,
+        "season": 1991
+    },
+    {
+        "laps_completed": 72,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:00.056",
+        "round": 7,
+        "season": 1991
+    },
+    {
+        "laps_completed": 59,
+        "name": "British Grand Prix",
+        "race_duration": "1:27:35.479",
+        "round": 8,
+        "season": 1991
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:19:29.661",
+        "round": 9,
+        "season": 1991
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:49:12.796",
+        "round": 10,
+        "season": 1991
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:27:17.669",
+        "round": 11,
+        "season": 1991
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:54.319",
+        "round": 12,
+        "season": 1991
+    },
+    {
+        "laps_completed": 71,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:35:42.304",
+        "round": 13,
+        "season": 1991
+    },
+    {
+        "laps_completed": 65,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:38:41.541",
+        "round": 14,
+        "season": 1991
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:32:10.695",
+        "round": 15,
+        "season": 1991
+    },
+    {
+        "laps_completed": 14,
+        "name": "Australian Grand Prix",
+        "race_duration": "24:34.899",
+        "round": 16,
+        "season": 1991
+    },
+    {
+        "laps_completed": 72,
+        "name": "United States Grand Prix",
+        "race_duration": "1:52:32.829",
+        "round": 1,
+        "season": 1990
+    },
+    {
+        "laps_completed": 71,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:37:21.258",
+        "round": 2,
+        "season": 1990
+    },
+    {
+        "laps_completed": 61,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:30:55.478",
+        "round": 3,
+        "season": 1990
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:52:46.982",
+        "round": 4,
+        "season": 1990
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:42:56.400",
+        "round": 5,
+        "season": 1990
+    },
+    {
+        "laps_completed": 69,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:32:35.783",
+        "round": 6,
+        "season": 1990
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:33:29.606",
+        "round": 7,
+        "season": 1990
+    },
+    {
+        "laps_completed": 64,
+        "name": "British Grand Prix",
+        "race_duration": "1:18:30.999",
+        "round": 8,
+        "season": 1990
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:20:47.164",
+        "round": 9,
+        "season": 1990
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:49:30.597",
+        "round": 10,
+        "season": 1990
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:26:31.997",
+        "round": 11,
+        "season": 1990
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:57.878",
+        "round": 12,
+        "season": 1990
+    },
+    {
+        "laps_completed": 61,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:22:11.014",
+        "round": 13,
+        "season": 1990
+    },
+    {
+        "laps_completed": 73,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:01.461",
+        "round": 14,
+        "season": 1990
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:34:36.824",
+        "round": 15,
+        "season": 1990
+    },
+    {
+        "laps_completed": 81,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:49:44.570",
+        "round": 16,
+        "season": 1990
+    },
+    {
+        "laps_completed": 61,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:38:58.744",
+        "round": 1,
+        "season": 1989
+    },
+    {
+        "laps_completed": 58,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:26:51.245",
+        "round": 2,
+        "season": 1989
+    },
+    {
+        "laps_completed": 77,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:53:33.251",
+        "round": 3,
+        "season": 1989
+    },
+    {
+        "laps_completed": 69,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:35:21.431",
+        "round": 4,
+        "season": 1989
+    },
+    {
+        "laps_completed": 75,
+        "name": "United States Grand Prix",
+        "race_duration": "2:01:33.133",
+        "round": 5,
+        "season": 1989
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "2:01:24.073",
+        "round": 6,
+        "season": 1989
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:29.411",
+        "round": 7,
+        "season": 1989
+    },
+    {
+        "laps_completed": 64,
+        "name": "British Grand Prix",
+        "race_duration": "1:19:22.131",
+        "round": 8,
+        "season": 1989
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:21:43.302",
+        "round": 9,
+        "season": 1989
+    },
+    {
+        "laps_completed": 77,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:49:38.650",
+        "round": 10,
+        "season": 1989
+    },
+    {
+        "laps_completed": 44,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:40:54.196",
+        "round": 11,
+        "season": 1989
+    },
+    {
+        "laps_completed": 53,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:19:27.550",
+        "round": 12,
+        "season": 1989
+    },
+    {
+        "laps_completed": 71,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:36:48.546",
+        "round": 13,
+        "season": 1989
+    },
+    {
+        "laps_completed": 73,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:47:48.264",
+        "round": 14,
+        "season": 1989
+    },
+    {
+        "laps_completed": 53,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:35:06.277",
+        "round": 15,
+        "season": 1989
+    },
+    {
+        "laps_completed": 70,
+        "name": "Australian Grand Prix",
+        "race_duration": "2:00:17.421",
+        "round": 16,
+        "season": 1989
+    },
+    {
+        "laps_completed": 60,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:36:06.857",
+        "round": 1,
+        "season": 1988
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:32:41.264",
+        "round": 2,
+        "season": 1988
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:57:17.077",
+        "round": 3,
+        "season": 1988
+    },
+    {
+        "laps_completed": 67,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:30:15.737",
+        "round": 4,
+        "season": 1988
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:39:46.618",
+        "round": 5,
+        "season": 1988
+    },
+    {
+        "laps_completed": 63,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:54:56.035",
+        "round": 6,
+        "season": 1988
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:37:37.328",
+        "round": 7,
+        "season": 1988
+    },
+    {
+        "laps_completed": 65,
+        "name": "British Grand Prix",
+        "race_duration": "1:33:16.367",
+        "round": 8,
+        "season": 1988
+    },
+    {
+        "laps_completed": 44,
+        "name": "German Grand Prix",
+        "race_duration": "1:32:54.188",
+        "round": 9,
+        "season": 1988
+    },
+    {
+        "laps_completed": 76,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:57:47.081",
+        "round": 10,
+        "season": 1988
+    },
+    {
+        "laps_completed": 43,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:28:00.549",
+        "round": 11,
+        "season": 1988
+    },
+    {
+        "laps_completed": 51,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:39.744",
+        "round": 12,
+        "season": 1988
+    },
+    {
+        "laps_completed": 70,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:37:40.958",
+        "round": 13,
+        "season": 1988
+    },
+    {
+        "laps_completed": 72,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:43.851",
+        "round": 14,
+        "season": 1988
+    },
+    {
+        "laps_completed": 51,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:33:26.173",
+        "round": 15,
+        "season": 1988
+    },
+    {
+        "laps_completed": 82,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:53:14.676",
+        "round": 16,
+        "season": 1988
+    },
+    {
+        "laps_completed": 61,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:39:45.141",
+        "round": 1,
+        "season": 1987
+    },
+    {
+        "laps_completed": 59,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:31:24.076",
+        "round": 2,
+        "season": 1987
+    },
+    {
+        "laps_completed": 43,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:27:03.217",
+        "round": 3,
+        "season": 1987
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:57:54.085",
+        "round": 4,
+        "season": 1987
+    },
+    {
+        "laps_completed": 63,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:50:16.358",
+        "round": 5,
+        "season": 1987
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:37:03.839",
+        "round": 6,
+        "season": 1987
+    },
+    {
+        "laps_completed": 65,
+        "name": "British Grand Prix",
+        "race_duration": "1:19:11.780",
+        "round": 7,
+        "season": 1987
+    },
+    {
+        "laps_completed": 44,
+        "name": "German Grand Prix",
+        "race_duration": "1:21:25.091",
+        "round": 8,
+        "season": 1987
+    },
+    {
+        "laps_completed": 76,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "1:59:26.793",
+        "round": 9,
+        "season": 1987
+    },
+    {
+        "laps_completed": 52,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:18:44.898",
+        "round": 10,
+        "season": 1987
+    },
+    {
+        "laps_completed": 50,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:14:47.707",
+        "round": 11,
+        "season": 1987
+    },
+    {
+        "laps_completed": 70,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:37:03.906",
+        "round": 12,
+        "season": 1987
+    },
+    {
+        "laps_completed": 72,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:49:12.692",
+        "round": 13,
+        "season": 1987
+    },
+    {
+        "laps_completed": 63,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:26:24.207",
+        "round": 14,
+        "season": 1987
+    },
+    {
+        "laps_completed": 51,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:32:58.072",
+        "round": 15,
+        "season": 1987
+    },
+    {
+        "laps_completed": 82,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:52:56.144",
+        "round": 16,
+        "season": 1987
+    },
+    {
+        "laps_completed": 61,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:39:32.583",
+        "round": 1,
+        "season": 1986
+    },
+    {
+        "laps_completed": 72,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:47.735",
+        "round": 2,
+        "season": 1986
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:32:28.408",
+        "round": 3,
+        "season": 1986
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:55:41.060",
+        "round": 4,
+        "season": 1986
+    },
+    {
+        "laps_completed": 43,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:27:57.925",
+        "round": 5,
+        "season": 1986
+    },
+    {
+        "laps_completed": 69,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:42:26.415",
+        "round": 6,
+        "season": 1986
+    },
+    {
+        "laps_completed": 63,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:51:12.847",
+        "round": 7,
+        "season": 1986
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:37:19.272",
+        "round": 8,
+        "season": 1986
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "1:30:38.471",
+        "round": 9,
+        "season": 1986
+    },
+    {
+        "laps_completed": 44,
+        "name": "German Grand Prix",
+        "race_duration": "1:22:08.263",
+        "round": 10,
+        "season": 1986
+    },
+    {
+        "laps_completed": 76,
+        "name": "Hungarian Grand Prix",
+        "race_duration": "2:00:34.508",
+        "round": 11,
+        "season": 1986
+    },
+    {
+        "laps_completed": 52,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:21:22.531",
+        "round": 12,
+        "season": 1986
+    },
+    {
+        "laps_completed": 51,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:42.889",
+        "round": 13,
+        "season": 1986
+    },
+    {
+        "laps_completed": 70,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:37:21.900",
+        "round": 14,
+        "season": 1986
+    },
+    {
+        "laps_completed": 68,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:33:18.700",
+        "round": 15,
+        "season": 1986
+    },
+    {
+        "laps_completed": 82,
+        "name": "Australian Grand Prix",
+        "race_duration": "1:54:20.388",
+        "round": 16,
+        "season": 1986
+    },
+    {
+        "laps_completed": 61,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:41:26.115",
+        "round": 1,
+        "season": 1985
+    },
+    {
+        "laps_completed": 67,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "2:00:28.006",
+        "round": 2,
+        "season": 1985
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:34:35.955",
+        "round": 3,
+        "season": 1985
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:51:58.034",
+        "round": 4,
+        "season": 1985
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:46:01.813",
+        "round": 5,
+        "season": 1985
+    },
+    {
+        "laps_completed": 63,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:55:39.851",
+        "round": 6,
+        "season": 1985
+    },
+    {
+        "laps_completed": 53,
+        "name": "French Grand Prix",
+        "race_duration": "1:31:46.266",
+        "round": 7,
+        "season": 1985
+    },
+    {
+        "laps_completed": 65,
+        "name": "British Grand Prix",
+        "race_duration": "1:18:10.436",
+        "round": 8,
+        "season": 1985
+    },
+    {
+        "laps_completed": 67,
+        "name": "German Grand Prix",
+        "race_duration": "1:35:31.337",
+        "round": 9,
+        "season": 1985
+    },
+    {
+        "laps_completed": 52,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:20:12.583",
+        "round": 10,
+        "season": 1985
+    },
+    {
+        "laps_completed": 70,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:32:29.263",
+        "round": 11,
+        "season": 1985
+    },
+    {
+        "laps_completed": 51,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:17:59.451",
+        "round": 12,
+        "season": 1985
+    },
+    {
+        "laps_completed": 43,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:34:19.893",
+        "round": 13,
+        "season": 1985
+    },
+    {
+        "laps_completed": 75,
+        "name": "European Grand Prix",
+        "race_duration": "1:32:58.109",
+        "round": 14,
+        "season": 1985
+    },
+    {
+        "laps_completed": 75,
+        "name": "South African Grand Prix",
+        "race_duration": "1:28:22.866",
+        "round": 15,
+        "season": 1985
+    },
+    {
+        "laps_completed": 82,
+        "name": "Australian Grand Prix",
+        "race_duration": "2:00:40.473",
+        "round": 16,
+        "season": 1985
+    },
+    {
+        "laps_completed": 61,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:42:34.492",
+        "round": 1,
+        "season": 1984
+    },
+    {
+        "laps_completed": 75,
+        "name": "South African Grand Prix",
+        "race_duration": "1:29:23.430",
+        "round": 2,
+        "season": 1984
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:36:32.048",
+        "round": 3,
+        "season": 1984
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:36:53.679",
+        "round": 4,
+        "season": 1984
+    },
+    {
+        "laps_completed": 79,
+        "name": "French Grand Prix",
+        "race_duration": "1:31:11.951",
+        "round": 5,
+        "season": 1984
+    },
+    {
+        "laps_completed": 31,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:01:07.740",
+        "round": 6,
+        "season": 1984
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:46:23.748",
+        "round": 7,
+        "season": 1984
+    },
+    {
+        "laps_completed": 63,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:55:41.842",
+        "round": 8,
+        "season": 1984
+    },
+    {
+        "laps_completed": 67,
+        "name": "Dallas Grand Prix",
+        "race_duration": "2:01:22.617",
+        "round": 9,
+        "season": 1984
+    },
+    {
+        "laps_completed": 71,
+        "name": "British Grand Prix",
+        "race_duration": "1:29:28.532",
+        "round": 10,
+        "season": 1984
+    },
+    {
+        "laps_completed": 44,
+        "name": "German Grand Prix",
+        "race_duration": "1:24:43.210",
+        "round": 11,
+        "season": 1984
+    },
+    {
+        "laps_completed": 51,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:21:12.851",
+        "round": 12,
+        "season": 1984
+    },
+    {
+        "laps_completed": 71,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:37:21.468",
+        "round": 13,
+        "season": 1984
+    },
+    {
+        "laps_completed": 51,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:20:29.065",
+        "round": 14,
+        "season": 1984
+    },
+    {
+        "laps_completed": 67,
+        "name": "European Grand Prix",
+        "race_duration": "1:35:13.284",
+        "round": 15,
+        "season": 1984
+    },
+    {
+        "laps_completed": 70,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "1:41:11.753",
+        "round": 16,
+        "season": 1984
+    },
+    {
+        "laps_completed": 63,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:48:27.731",
+        "round": 1,
+        "season": 1983
+    },
+    {
+        "laps_completed": 75,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:53:34.889",
+        "round": 2,
+        "season": 1983
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:34:13.913",
+        "round": 3,
+        "season": 1983
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:37:52.460",
+        "round": 4,
+        "season": 1983
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:56:38.121",
+        "round": 5,
+        "season": 1983
+    },
+    {
+        "laps_completed": 40,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:27:11.502",
+        "round": 6,
+        "season": 1983
+    },
+    {
+        "laps_completed": 60,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:50:53.669",
+        "round": 7,
+        "season": 1983
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:48:31.838",
+        "round": 8,
+        "season": 1983
+    },
+    {
+        "laps_completed": 67,
+        "name": "British Grand Prix",
+        "race_duration": "1:24:39.780",
+        "round": 9,
+        "season": 1983
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:27:10.319",
+        "round": 10,
+        "season": 1983
+    },
+    {
+        "laps_completed": 53,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:24:32.745",
+        "round": 11,
+        "season": 1983
+    },
+    {
+        "laps_completed": 72,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:38:41.950",
+        "round": 12,
+        "season": 1983
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:23:10.880",
+        "round": 13,
+        "season": 1983
+    },
+    {
+        "laps_completed": 76,
+        "name": "European Grand Prix",
+        "race_duration": "1:36:45.865",
+        "round": 14,
+        "season": 1983
+    },
+    {
+        "laps_completed": 77,
+        "name": "South African Grand Prix",
+        "race_duration": "1:33:25.708",
+        "round": 15,
+        "season": 1983
+    },
+    {
+        "laps_completed": 77,
+        "name": "South African Grand Prix",
+        "race_duration": "1:32:08.401",
+        "round": 1,
+        "season": 1982
+    },
+    {
+        "laps_completed": 63,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:44:33.134",
+        "round": 2,
+        "season": 1982
+    },
+    {
+        "laps_completed": 75,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:58:25.318",
+        "round": 3,
+        "season": 1982
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:36:38.887",
+        "round": 4,
+        "season": 1982
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:35:41.995",
+        "round": 5,
+        "season": 1982
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:54:11.259",
+        "round": 6,
+        "season": 1982
+    },
+    {
+        "laps_completed": 62,
+        "name": "Detroit Grand Prix",
+        "race_duration": "1:58:41.043",
+        "round": 7,
+        "season": 1982
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:46:39.577",
+        "round": 8,
+        "season": 1982
+    },
+    {
+        "laps_completed": 72,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:38:03.254",
+        "round": 9,
+        "season": 1982
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:35:33.812",
+        "round": 10,
+        "season": 1982
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:33:33.217",
+        "round": 11,
+        "season": 1982
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:27:25.178",
+        "round": 12,
+        "season": 1982
+    },
+    {
+        "laps_completed": 53,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:25:02.212",
+        "round": 13,
+        "season": 1982
+    },
+    {
+        "laps_completed": 80,
+        "name": "Swiss Grand Prix",
+        "race_duration": "1:32:41.087",
+        "round": 14,
+        "season": 1982
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:22:25.734",
+        "round": 15,
+        "season": 1982
+    },
+    {
+        "laps_completed": 75,
+        "name": "Caesars Palace Grand Prix",
+        "race_duration": "1:41:56.888",
+        "round": 16,
+        "season": 1982
+    },
+    {
+        "laps_completed": 80,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:50:41.33",
+        "round": 1,
+        "season": 1981
+    },
+    {
+        "laps_completed": 62,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "2:00:23.66",
+        "round": 2,
+        "season": 1981
+    },
+    {
+        "laps_completed": 53,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:34:32.74",
+        "round": 3,
+        "season": 1981
+    },
+    {
+        "laps_completed": 60,
+        "name": "San Marino Grand Prix",
+        "race_duration": "1:51:23.97",
+        "round": 4,
+        "season": 1981
+    },
+    {
+        "laps_completed": 54,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:16:31.61",
+        "round": 5,
+        "season": 1981
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:54:23.38",
+        "round": 6,
+        "season": 1981
+    },
+    {
+        "laps_completed": 80,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:46:35.01",
+        "round": 7,
+        "season": 1981
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:35:48.13",
+        "round": 8,
+        "season": 1981
+    },
+    {
+        "laps_completed": 68,
+        "name": "British Grand Prix",
+        "race_duration": "1:26:54.80",
+        "round": 9,
+        "season": 1981
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:25:55.60",
+        "round": 10,
+        "season": 1981
+    },
+    {
+        "laps_completed": 53,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:27:36.47",
+        "round": 11,
+        "season": 1981
+    },
+    {
+        "laps_completed": 72,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:40:22.43",
+        "round": 12,
+        "season": 1981
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:26:36.897",
+        "round": 13,
+        "season": 1981
+    },
+    {
+        "laps_completed": 63,
+        "name": "Canadian Grand Prix",
+        "race_duration": "2:01:25.20",
+        "round": 14,
+        "season": 1981
+    },
+    {
+        "laps_completed": 75,
+        "name": "Caesars Palace Grand Prix",
+        "race_duration": "1:44:09.077",
+        "round": 15,
+        "season": 1981
+    },
+    {
+        "laps_completed": 53,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:43:24.38",
+        "round": 1,
+        "season": 1980
+    },
+    {
+        "laps_completed": 40,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:40:01.33",
+        "round": 2,
+        "season": 1980
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:36:52.54",
+        "round": 3,
+        "season": 1980
+    },
+    {
+        "laps_completed": 80,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:50:19.4",
+        "round": 4,
+        "season": 1980
+    },
+    {
+        "laps_completed": 72,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:38:47.4",
+        "round": 5,
+        "season": 1980
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:55:34.365",
+        "round": 6,
+        "season": 1980
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:32:43.4",
+        "round": 7,
+        "season": 1980
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:34:49.228",
+        "round": 8,
+        "season": 1980
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:23:59.73",
+        "round": 9,
+        "season": 1980
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:26:15.73",
+        "round": 10,
+        "season": 1980
+    },
+    {
+        "laps_completed": 72,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:38:13.83",
+        "round": 11,
+        "season": 1980
+    },
+    {
+        "laps_completed": 60,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:38:07.52",
+        "round": 12,
+        "season": 1980
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:46:45.53",
+        "round": 13,
+        "season": 1980
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:34:36.05",
+        "round": 14,
+        "season": 1980
+    },
+    {
+        "laps_completed": 53,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:36:03.21",
+        "round": 1,
+        "season": 1979
+    },
+    {
+        "laps_completed": 40,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:40:09.64",
+        "round": 2,
+        "season": 1979
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:41:49.96",
+        "round": 3,
+        "season": 1979
+    },
+    {
+        "laps_completed": 80,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:50:25.40",
+        "round": 4,
+        "season": 1979
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:39:11.84",
+        "round": 5,
+        "season": 1979
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:39:59.53",
+        "round": 6,
+        "season": 1979
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:55:22.48",
+        "round": 7,
+        "season": 1979
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:35:20.42",
+        "round": 8,
+        "season": 1979
+    },
+    {
+        "laps_completed": 68,
+        "name": "British Grand Prix",
+        "race_duration": "1:26:11.17",
+        "round": 9,
+        "season": 1979
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:24:48.83",
+        "round": 10,
+        "season": 1979
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:27:38.01",
+        "round": 11,
+        "season": 1979
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:41:19.775",
+        "round": 12,
+        "season": 1979
+    },
+    {
+        "laps_completed": 50,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:22:00.22",
+        "round": 13,
+        "season": 1979
+    },
+    {
+        "laps_completed": 72,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:52:06.892",
+        "round": 14,
+        "season": 1979
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:52:17.734",
+        "round": 15,
+        "season": 1979
+    },
+    {
+        "laps_completed": 52,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:37:04.47",
+        "round": 1,
+        "season": 1978
+    },
+    {
+        "laps_completed": 63,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:49:59.86",
+        "round": 2,
+        "season": 1978
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:42:15.767",
+        "round": 3,
+        "season": 1978
+    },
+    {
+        "laps_completed": 80,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:52:01.301",
+        "round": 4,
+        "season": 1978
+    },
+    {
+        "laps_completed": 75,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:55:14.66",
+        "round": 5,
+        "season": 1978
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:39:52.02",
+        "round": 6,
+        "season": 1978
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:41:47.06",
+        "round": 7,
+        "season": 1978
+    },
+    {
+        "laps_completed": 70,
+        "name": "Swedish Grand Prix",
+        "race_duration": "1:41:00.606",
+        "round": 8,
+        "season": 1978
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:38:51.92",
+        "round": 9,
+        "season": 1978
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:42:12.39",
+        "round": 10,
+        "season": 1978
+    },
+    {
+        "laps_completed": 45,
+        "name": "German Grand Prix",
+        "race_duration": "1:28:00.90",
+        "round": 11,
+        "season": 1978
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:41:21.57",
+        "round": 12,
+        "season": 1978
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:41:04.23",
+        "round": 13,
+        "season": 1978
+    },
+    {
+        "laps_completed": 40,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:07:04.54",
+        "round": 14,
+        "season": 1978
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:40:48.800",
+        "round": 15,
+        "season": 1978
+    },
+    {
+        "laps_completed": 70,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:57:49.196",
+        "round": 16,
+        "season": 1978
+    },
+    {
+        "laps_completed": 53,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:40:11.19",
+        "round": 1,
+        "season": 1977
+    },
+    {
+        "laps_completed": 40,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:45:07.72",
+        "round": 2,
+        "season": 1977
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:42:21.6",
+        "round": 3,
+        "season": 1977
+    },
+    {
+        "laps_completed": 80,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:51:35.470",
+        "round": 4,
+        "season": 1977
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:42:.52.22",
+        "round": 5,
+        "season": 1977
+    },
+    {
+        "laps_completed": 76,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:57:52.77",
+        "round": 6,
+        "season": 1977
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:55:05.71",
+        "round": 7,
+        "season": 1977
+    },
+    {
+        "laps_completed": 72,
+        "name": "Swedish Grand Prix",
+        "race_duration": "1:46:56.4",
+        "round": 8,
+        "season": 1977
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:39:40.13",
+        "round": 9,
+        "season": 1977
+    },
+    {
+        "laps_completed": 68,
+        "name": "British Grand Prix",
+        "race_duration": "1:31:46.06",
+        "round": 10,
+        "season": 1977
+    },
+    {
+        "laps_completed": 47,
+        "name": "German Grand Prix",
+        "race_duration": "1:31:49.3",
+        "round": 11,
+        "season": 1977
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:37:16.49",
+        "round": 12,
+        "season": 1977
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:41:45.93",
+        "round": 13,
+        "season": 1977
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:27:50.30",
+        "round": 14,
+        "season": 1977
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:58:23.267",
+        "round": 15,
+        "season": 1977
+    },
+    {
+        "laps_completed": 80,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:40:00.0",
+        "round": 16,
+        "season": 1977
+    },
+    {
+        "laps_completed": 73,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:31:51.68",
+        "round": 17,
+        "season": 1977
+    },
+    {
+        "laps_completed": 40,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:45:16.78",
+        "round": 1,
+        "season": 1976
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:42:18.4",
+        "round": 2,
+        "season": 1976
+    },
+    {
+        "laps_completed": 80,
+        "name": "United States Grand Prix West",
+        "race_duration": "1:53:18.471",
+        "round": 3,
+        "season": 1976
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:42:20.43",
+        "round": 4,
+        "season": 1976
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:42:53.23",
+        "round": 5,
+        "season": 1976
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:59:51.47",
+        "round": 6,
+        "season": 1976
+    },
+    {
+        "laps_completed": 72,
+        "name": "Swedish Grand Prix",
+        "race_duration": "1:46:53.729",
+        "round": 7,
+        "season": 1976
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:40:58.60",
+        "round": 8,
+        "season": 1976
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:44:19.66",
+        "round": 9,
+        "season": 1976
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "1:41:42.7",
+        "round": 10,
+        "season": 1976
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:30:07.86",
+        "round": 11,
+        "season": 1976
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:44:52.09",
+        "round": 12,
+        "season": 1976
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:30:35.6",
+        "round": 13,
+        "season": 1976
+    },
+    {
+        "laps_completed": 80,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:40:09.626",
+        "round": 14,
+        "season": 1976
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:42:40.742",
+        "round": 15,
+        "season": 1976
+    },
+    {
+        "laps_completed": 73,
+        "name": "Japanese Grand Prix",
+        "race_duration": "1:43:58.86",
+        "round": 16,
+        "season": 1976
+    },
+    {
+        "laps_completed": 53,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:39:26.29",
+        "round": 1,
+        "season": 1975
+    },
+    {
+        "laps_completed": 40,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:44:41.17",
+        "round": 2,
+        "season": 1975
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:43:16.90",
+        "round": 3,
+        "season": 1975
+    },
+    {
+        "laps_completed": 29,
+        "name": "Spanish Grand Prix",
+        "race_duration": "42:53.7",
+        "round": 4,
+        "season": 1975
+    },
+    {
+        "laps_completed": 75,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:01:21.31",
+        "round": 5,
+        "season": 1975
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:43:53.98",
+        "round": 6,
+        "season": 1975
+    },
+    {
+        "laps_completed": 80,
+        "name": "Swedish Grand Prix",
+        "race_duration": "1:59:18.319",
+        "round": 7,
+        "season": 1975
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:46:57.40",
+        "round": 8,
+        "season": 1975
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:40:18.84",
+        "round": 9,
+        "season": 1975
+    },
+    {
+        "laps_completed": 56,
+        "name": "British Grand Prix",
+        "race_duration": "1:22:05.0",
+        "round": 10,
+        "season": 1975
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "1:41:14.1",
+        "round": 11,
+        "season": 1975
+    },
+    {
+        "laps_completed": 29,
+        "name": "Austrian Grand Prix",
+        "race_duration": "0:57:56.69",
+        "round": 12,
+        "season": 1975
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:22:42.6",
+        "round": 13,
+        "season": 1975
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:42:58.175",
+        "round": 14,
+        "season": 1975
+    },
+    {
+        "laps_completed": 53,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:41:02.01",
+        "round": 1,
+        "season": 1974
+    },
+    {
+        "laps_completed": 32,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:24:37.06",
+        "round": 2,
+        "season": 1974
+    },
+    {
+        "laps_completed": 78,
+        "name": "South African Grand Prix",
+        "race_duration": "1:42:40.96",
+        "round": 3,
+        "season": 1974
+    },
+    {
+        "laps_completed": 84,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:00:29.56",
+        "round": 4,
+        "season": 1974
+    },
+    {
+        "laps_completed": 85,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:44:20.57",
+        "round": 5,
+        "season": 1974
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:58:03.7",
+        "round": 6,
+        "season": 1974
+    },
+    {
+        "laps_completed": 80,
+        "name": "Swedish Grand Prix",
+        "race_duration": "1:58:31.391",
+        "round": 7,
+        "season": 1974
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:43:00.35",
+        "round": 8,
+        "season": 1974
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:21:55.02",
+        "round": 9,
+        "season": 1974
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "1:43:02.2",
+        "round": 10,
+        "season": 1974
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "1:41:35.0",
+        "round": 11,
+        "season": 1974
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:28:44.72",
+        "round": 12,
+        "season": 1974
+    },
+    {
+        "laps_completed": 52,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:22:56.6",
+        "round": 13,
+        "season": 1974
+    },
+    {
+        "laps_completed": 80,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:40:26.136",
+        "round": 14,
+        "season": 1974
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:40:21.439",
+        "round": 15,
+        "season": 1974
+    },
+    {
+        "laps_completed": 96,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:56:18.22",
+        "round": 1,
+        "season": 1973
+    },
+    {
+        "laps_completed": 40,
+        "name": "Brazilian Grand Prix",
+        "race_duration": "1:43:55.6",
+        "round": 2,
+        "season": 1973
+    },
+    {
+        "laps_completed": 79,
+        "name": "South African Grand Prix",
+        "race_duration": "1:43:11.07",
+        "round": 3,
+        "season": 1973
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:18.7",
+        "round": 4,
+        "season": 1973
+    },
+    {
+        "laps_completed": 70,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:42:13.43",
+        "round": 5,
+        "season": 1973
+    },
+    {
+        "laps_completed": 78,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:57:44.3",
+        "round": 6,
+        "season": 1973
+    },
+    {
+        "laps_completed": 80,
+        "name": "Swedish Grand Prix",
+        "race_duration": "1:56:46.049",
+        "round": 7,
+        "season": 1973
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "1:41:36.52",
+        "round": 8,
+        "season": 1973
+    },
+    {
+        "laps_completed": 67,
+        "name": "British Grand Prix",
+        "race_duration": "1:29:18.5",
+        "round": 9,
+        "season": 1973
+    },
+    {
+        "laps_completed": 72,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:39:12.45",
+        "round": 10,
+        "season": 1973
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "1:42:03.0",
+        "round": 11,
+        "season": 1973
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:28:48.78",
+        "round": 12,
+        "season": 1973
+    },
+    {
+        "laps_completed": 55,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:29:17.0",
+        "round": 13,
+        "season": 1973
+    },
+    {
+        "laps_completed": 80,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:59:04.083",
+        "round": 14,
+        "season": 1973
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:41:15.779",
+        "round": 15,
+        "season": 1973
+    },
+    {
+        "laps_completed": 95,
+        "name": "Argentine Grand Prix",
+        "race_duration": "1:57:59.1",
+        "round": 1,
+        "season": 1972
+    },
+    {
+        "laps_completed": 79,
+        "name": "South African Grand Prix",
+        "race_duration": "1:45:49.1",
+        "round": 2,
+        "season": 1972
+    },
+    {
+        "laps_completed": 90,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:03:41.2",
+        "round": 3,
+        "season": 1972
+    },
+    {
+        "laps_completed": 80,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:26:55.3",
+        "round": 4,
+        "season": 1972
+    },
+    {
+        "laps_completed": 85,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:44:07.3",
+        "round": 5,
+        "season": 1972
+    },
+    {
+        "laps_completed": 38,
+        "name": "French Grand Prix",
+        "race_duration": "1:52:22.5",
+        "round": 6,
+        "season": 1972
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:47:50.2",
+        "round": 7,
+        "season": 1972
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "1:42:12.3",
+        "round": 8,
+        "season": 1972
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "29:17.3",
+        "round": 9,
+        "season": 1972
+    },
+    {
+        "laps_completed": 55,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:29:58.4",
+        "round": 10,
+        "season": 1972
+    },
+    {
+        "laps_completed": 80,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:43:17.1",
+        "round": 11,
+        "season": 1972
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:41:45.354",
+        "round": 12,
+        "season": 1972
+    },
+    {
+        "laps_completed": 79,
+        "name": "South African Grand Prix",
+        "race_duration": "1:47:35.5",
+        "round": 1,
+        "season": 1971
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:49:03.4",
+        "round": 2,
+        "season": 1971
+    },
+    {
+        "laps_completed": 80,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:52:21.3",
+        "round": 3,
+        "season": 1971
+    },
+    {
+        "laps_completed": 70,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:56:20.0",
+        "round": 4,
+        "season": 1971
+    },
+    {
+        "laps_completed": 55,
+        "name": "French Grand Prix",
+        "race_duration": "1:46:42.3",
+        "round": 5,
+        "season": 1971
+    },
+    {
+        "laps_completed": 68,
+        "name": "British Grand Prix",
+        "race_duration": "1:31:31.5",
+        "round": 6,
+        "season": 1971
+    },
+    {
+        "laps_completed": 12,
+        "name": "German Grand Prix",
+        "race_duration": "1:29:16.3",
+        "round": 7,
+        "season": 1971
+    },
+    {
+        "laps_completed": 54,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:30:23.91",
+        "round": 8,
+        "season": 1971
+    },
+    {
+        "laps_completed": 55,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:18:12.60",
+        "round": 9,
+        "season": 1971
+    },
+    {
+        "laps_completed": 64,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:55:13.1",
+        "round": 10,
+        "season": 1971
+    },
+    {
+        "laps_completed": 59,
+        "name": "United States Grand Prix",
+        "race_duration": "1:43:51.991",
+        "round": 11,
+        "season": 1971
+    },
+    {
+        "laps_completed": 80,
+        "name": "South African Grand Prix",
+        "race_duration": "1:49:35.4",
+        "round": 1,
+        "season": 1970
+    },
+    {
+        "laps_completed": 90,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:10:58.2",
+        "round": 2,
+        "season": 1970
+    },
+    {
+        "laps_completed": 80,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:54:37.4",
+        "round": 3,
+        "season": 1970
+    },
+    {
+        "laps_completed": 28,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:38:10.1",
+        "round": 4,
+        "season": 1970
+    },
+    {
+        "laps_completed": 80,
+        "name": "Dutch Grand Prix",
+        "race_duration": "1:50:43.4",
+        "round": 5,
+        "season": 1970
+    },
+    {
+        "laps_completed": 38,
+        "name": "French Grand Prix",
+        "race_duration": "1:55:57.0",
+        "round": 6,
+        "season": 1970
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "1:57:02.0",
+        "round": 7,
+        "season": 1970
+    },
+    {
+        "laps_completed": 50,
+        "name": "German Grand Prix",
+        "race_duration": "1:42:00.3",
+        "round": 8,
+        "season": 1970
+    },
+    {
+        "laps_completed": 60,
+        "name": "Austrian Grand Prix",
+        "race_duration": "1:42:17.3",
+        "round": 9,
+        "season": 1970
+    },
+    {
+        "laps_completed": 68,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:39:07.1",
+        "round": 10,
+        "season": 1970
+    },
+    {
+        "laps_completed": 90,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:21:18.4",
+        "round": 11,
+        "season": 1970
+    },
+    {
+        "laps_completed": 108,
+        "name": "United States Grand Prix",
+        "race_duration": "1:57:32.79",
+        "round": 12,
+        "season": 1970
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:53:28.3",
+        "round": 13,
+        "season": 1970
+    },
+    {
+        "laps_completed": 80,
+        "name": "South African Grand Prix",
+        "race_duration": "1:50:39.1",
+        "round": 1,
+        "season": 1969
+    },
+    {
+        "laps_completed": 90,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:16:54.0",
+        "round": 2,
+        "season": 1969
+    },
+    {
+        "laps_completed": 80,
+        "name": "Monaco Grand Prix",
+        "race_duration": "1:56:59.4",
+        "round": 3,
+        "season": 1969
+    },
+    {
+        "laps_completed": 90,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:06:42.08",
+        "round": 4,
+        "season": 1969
+    },
+    {
+        "laps_completed": 38,
+        "name": "French Grand Prix",
+        "race_duration": "1:56:47.4",
+        "round": 5,
+        "season": 1969
+    },
+    {
+        "laps_completed": 84,
+        "name": "British Grand Prix",
+        "race_duration": "1:55:55.6",
+        "round": 6,
+        "season": 1969
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "1:49:55.4",
+        "round": 7,
+        "season": 1969
+    },
+    {
+        "laps_completed": 68,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:39:11.26",
+        "round": 8,
+        "season": 1969
+    },
+    {
+        "laps_completed": 90,
+        "name": "Canadian Grand Prix",
+        "race_duration": "1:59:25.7",
+        "round": 9,
+        "season": 1969
+    },
+    {
+        "laps_completed": 108,
+        "name": "United States Grand Prix",
+        "race_duration": "1:57:56.84",
+        "round": 10,
+        "season": 1969
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:54:08.80",
+        "round": 11,
+        "season": 1969
+    },
+    {
+        "laps_completed": 80,
+        "name": "South African Grand Prix",
+        "race_duration": "1:53:56.6",
+        "round": 1,
+        "season": 1968
+    },
+    {
+        "laps_completed": 90,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:15:02.1",
+        "round": 2,
+        "season": 1968
+    },
+    {
+        "laps_completed": 80,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:00:32.3",
+        "round": 3,
+        "season": 1968
+    },
+    {
+        "laps_completed": 28,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:40:02.1",
+        "round": 4,
+        "season": 1968
+    },
+    {
+        "laps_completed": 90,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:46:11.2",
+        "round": 5,
+        "season": 1968
+    },
+    {
+        "laps_completed": 60,
+        "name": "French Grand Prix",
+        "race_duration": "2:25:40.9",
+        "round": 6,
+        "season": 1968
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:01:20.3",
+        "round": 7,
+        "season": 1968
+    },
+    {
+        "laps_completed": 14,
+        "name": "German Grand Prix",
+        "race_duration": "2:19:03.2",
+        "round": 8,
+        "season": 1968
+    },
+    {
+        "laps_completed": 68,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:40:14.8",
+        "round": 9,
+        "season": 1968
+    },
+    {
+        "laps_completed": 90,
+        "name": "Canadian Grand Prix",
+        "race_duration": "2:27:11.2",
+        "round": 10,
+        "season": 1968
+    },
+    {
+        "laps_completed": 108,
+        "name": "United States Grand Prix",
+        "race_duration": "1:59:20.29",
+        "round": 11,
+        "season": 1968
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:56:43.95",
+        "round": 12,
+        "season": 1968
+    },
+    {
+        "laps_completed": 80,
+        "name": "South African Grand Prix",
+        "race_duration": "2:05:45.9",
+        "round": 1,
+        "season": 1967
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:34:34.3",
+        "round": 2,
+        "season": 1967
+    },
+    {
+        "laps_completed": 90,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:14:45.1",
+        "round": 3,
+        "season": 1967
+    },
+    {
+        "laps_completed": 28,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:40:49.4",
+        "round": 4,
+        "season": 1967
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "2:13:21.3",
+        "round": 5,
+        "season": 1967
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "1:59:25.6",
+        "round": 6,
+        "season": 1967
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:05:55.7",
+        "round": 7,
+        "season": 1967
+    },
+    {
+        "laps_completed": 90,
+        "name": "Canadian Grand Prix",
+        "race_duration": "2:40:40.0",
+        "round": 8,
+        "season": 1967
+    },
+    {
+        "laps_completed": 68,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:43:45.0",
+        "round": 9,
+        "season": 1967
+    },
+    {
+        "laps_completed": 108,
+        "name": "United States Grand Prix",
+        "race_duration": "2:03:13.2",
+        "round": 10,
+        "season": 1967
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "1:59:28.70",
+        "round": 11,
+        "season": 1967
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:33:10.5",
+        "round": 1,
+        "season": 1966
+    },
+    {
+        "laps_completed": 28,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:09:11.3",
+        "round": 2,
+        "season": 1966
+    },
+    {
+        "laps_completed": 48,
+        "name": "French Grand Prix",
+        "race_duration": "1:48:31.3",
+        "round": 3,
+        "season": 1966
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:13:13.4",
+        "round": 4,
+        "season": 1966
+    },
+    {
+        "laps_completed": 90,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:20:32.5",
+        "round": 5,
+        "season": 1966
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:27:03.0",
+        "round": 6,
+        "season": 1966
+    },
+    {
+        "laps_completed": 68,
+        "name": "Italian Grand Prix",
+        "race_duration": "1:47:14.8",
+        "round": 7,
+        "season": 1966
+    },
+    {
+        "laps_completed": 108,
+        "name": "United States Grand Prix",
+        "race_duration": "2:09:40.11",
+        "round": 8,
+        "season": 1966
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "2:06:35.34",
+        "round": 9,
+        "season": 1966
+    },
+    {
+        "laps_completed": 85,
+        "name": "South African Grand Prix",
+        "race_duration": "2:06:46.0",
+        "round": 1,
+        "season": 1965
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:37:39.6",
+        "round": 2,
+        "season": 1965
+    },
+    {
+        "laps_completed": 32,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:23:34.8",
+        "round": 3,
+        "season": 1965
+    },
+    {
+        "laps_completed": 40,
+        "name": "French Grand Prix",
+        "race_duration": "2:41:38.4",
+        "round": 4,
+        "season": 1965
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:05:25.4",
+        "round": 5,
+        "season": 1965
+    },
+    {
+        "laps_completed": 80,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:03:59.1",
+        "round": 6,
+        "season": 1965
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:07:52.4",
+        "round": 7,
+        "season": 1965
+    },
+    {
+        "laps_completed": 76,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:04:52.8",
+        "round": 8,
+        "season": 1965
+    },
+    {
+        "laps_completed": 110,
+        "name": "United States Grand Prix",
+        "race_duration": "2:20:36.1",
+        "round": 9,
+        "season": 1965
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "2:08:32.10",
+        "round": 10,
+        "season": 1965
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:41:19.5",
+        "round": 1,
+        "season": 1964
+    },
+    {
+        "laps_completed": 80,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:07:35.4",
+        "round": 2,
+        "season": 1964
+    },
+    {
+        "laps_completed": 32,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:06:40.5",
+        "round": 3,
+        "season": 1964
+    },
+    {
+        "laps_completed": 57,
+        "name": "French Grand Prix",
+        "race_duration": "2:07:49.1",
+        "round": 4,
+        "season": 1964
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:15:07.0",
+        "round": 5,
+        "season": 1964
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:12:04.8",
+        "round": 6,
+        "season": 1964
+    },
+    {
+        "laps_completed": 105,
+        "name": "Austrian Grand Prix",
+        "race_duration": "2:06:18.23",
+        "round": 7,
+        "season": 1964
+    },
+    {
+        "laps_completed": 78,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:10:51.8",
+        "round": 8,
+        "season": 1964
+    },
+    {
+        "laps_completed": 110,
+        "name": "United States Grand Prix",
+        "race_duration": "2:16:38.0",
+        "round": 9,
+        "season": 1964
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "2:09:50.32",
+        "round": 10,
+        "season": 1964
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:41:49.7",
+        "round": 1,
+        "season": 1963
+    },
+    {
+        "laps_completed": 32,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:27:47.6",
+        "round": 2,
+        "season": 1963
+    },
+    {
+        "laps_completed": 80,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:08:13.7",
+        "round": 3,
+        "season": 1963
+    },
+    {
+        "laps_completed": 53,
+        "name": "French Grand Prix",
+        "race_duration": "2:10:54.3",
+        "round": 4,
+        "season": 1963
+    },
+    {
+        "laps_completed": 82,
+        "name": "British Grand Prix",
+        "race_duration": "2:14:09.6",
+        "round": 5,
+        "season": 1963
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:13:06.8",
+        "round": 6,
+        "season": 1963
+    },
+    {
+        "laps_completed": 86,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:24:19.6",
+        "round": 7,
+        "season": 1963
+    },
+    {
+        "laps_completed": 110,
+        "name": "United States Grand Prix",
+        "race_duration": "2:19:22.1",
+        "round": 8,
+        "season": 1963
+    },
+    {
+        "laps_completed": 65,
+        "name": "Mexican Grand Prix",
+        "race_duration": "2:09:52.1",
+        "round": 9,
+        "season": 1963
+    },
+    {
+        "laps_completed": 85,
+        "name": "South African Grand Prix",
+        "race_duration": "2:10:36.9",
+        "round": 10,
+        "season": 1963
+    },
+    {
+        "laps_completed": 80,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:11:02.1",
+        "round": 1,
+        "season": 1962
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:46:29.7",
+        "round": 2,
+        "season": 1962
+    },
+    {
+        "laps_completed": 32,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:07:32.3",
+        "round": 3,
+        "season": 1962
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "2:07:05.5",
+        "round": 4,
+        "season": 1962
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "2:26:20.8",
+        "round": 5,
+        "season": 1962
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:38:45.3",
+        "round": 6,
+        "season": 1962
+    },
+    {
+        "laps_completed": 86,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:29:08.4",
+        "round": 7,
+        "season": 1962
+    },
+    {
+        "laps_completed": 100,
+        "name": "United States Grand Prix",
+        "race_duration": "2:07:13.0",
+        "round": 8,
+        "season": 1962
+    },
+    {
+        "laps_completed": 82,
+        "name": "South African Grand Prix",
+        "race_duration": "2:08:03.3",
+        "round": 9,
+        "season": 1962
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:45:50.1",
+        "round": 1,
+        "season": 1961
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:01:52.1",
+        "round": 2,
+        "season": 1961
+    },
+    {
+        "laps_completed": 30,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:03:03.8",
+        "round": 3,
+        "season": 1961
+    },
+    {
+        "laps_completed": 52,
+        "name": "French Grand Prix",
+        "race_duration": "2:14:17.5",
+        "round": 4,
+        "season": 1961
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "2:40:53.6",
+        "round": 5,
+        "season": 1961
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:18:12.4",
+        "round": 6,
+        "season": 1961
+    },
+    {
+        "laps_completed": 43,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:03:13.0",
+        "round": 7,
+        "season": 1961
+    },
+    {
+        "laps_completed": 100,
+        "name": "United States Grand Prix",
+        "race_duration": "2:13:45.8",
+        "round": 8,
+        "season": 1961
+    },
+    {
+        "laps_completed": 80,
+        "name": "Argentine Grand Prix",
+        "race_duration": "2:17:49.5",
+        "round": 1,
+        "season": 1960
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:53:45.5",
+        "round": 2,
+        "season": 1960
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:36:11.36",
+        "round": 3,
+        "season": 1960
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:01:47.2",
+        "round": 4,
+        "season": 1960
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:21:37.3",
+        "round": 5,
+        "season": 1960
+    },
+    {
+        "laps_completed": 50,
+        "name": "French Grand Prix",
+        "race_duration": "1:57:24.9",
+        "round": 6,
+        "season": 1960
+    },
+    {
+        "laps_completed": 77,
+        "name": "British Grand Prix",
+        "race_duration": "2:04:24.3",
+        "round": 7,
+        "season": 1960
+    },
+    {
+        "laps_completed": 55,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "2:19:00.03",
+        "round": 8,
+        "season": 1960
+    },
+    {
+        "laps_completed": 50,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:21:09.2",
+        "round": 9,
+        "season": 1960
+    },
+    {
+        "laps_completed": 75,
+        "name": "United States Grand Prix",
+        "race_duration": "2:28:52.2",
+        "round": 10,
+        "season": 1960
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:55:51.3",
+        "round": 1,
+        "season": 1959
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:40:49.20",
+        "round": 2,
+        "season": 1959
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:05:26.8",
+        "round": 3,
+        "season": 1959
+    },
+    {
+        "laps_completed": 50,
+        "name": "French Grand Prix",
+        "race_duration": "2:01:26.5",
+        "round": 4,
+        "season": 1959
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "2:30:11.6",
+        "round": 5,
+        "season": 1959
+    },
+    {
+        "laps_completed": 60,
+        "name": "German Grand Prix",
+        "race_duration": "2:09:31.6",
+        "round": 6,
+        "season": 1959
+    },
+    {
+        "laps_completed": 62,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "2:11:55.41",
+        "round": 7,
+        "season": 1959
+    },
+    {
+        "laps_completed": 72,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:04:05.4",
+        "round": 8,
+        "season": 1959
+    },
+    {
+        "laps_completed": 42,
+        "name": "United States Grand Prix",
+        "race_duration": "2:12:35.7",
+        "round": 9,
+        "season": 1959
+    },
+    {
+        "laps_completed": 80,
+        "name": "Argentine Grand Prix",
+        "race_duration": "2:19:33.7",
+        "round": 1,
+        "season": 1958
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:52:27.9",
+        "round": 2,
+        "season": 1958
+    },
+    {
+        "laps_completed": 75,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:04:49.2",
+        "round": 3,
+        "season": 1958
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:44:13.80",
+        "round": 4,
+        "season": 1958
+    },
+    {
+        "laps_completed": 24,
+        "name": "Belgian Grand Prix",
+        "race_duration": "1:37:06.3",
+        "round": 5,
+        "season": 1958
+    },
+    {
+        "laps_completed": 50,
+        "name": "French Grand Prix",
+        "race_duration": "2:03:21.3",
+        "round": 6,
+        "season": 1958
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "2:09:04.2",
+        "round": 7,
+        "season": 1958
+    },
+    {
+        "laps_completed": 15,
+        "name": "German Grand Prix",
+        "race_duration": "2:21:15.0",
+        "round": 8,
+        "season": 1958
+    },
+    {
+        "laps_completed": 50,
+        "name": "Portuguese Grand Prix",
+        "race_duration": "2:11:27.80",
+        "round": 9,
+        "season": 1958
+    },
+    {
+        "laps_completed": 70,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:03:47.8",
+        "round": 10,
+        "season": 1958
+    },
+    {
+        "laps_completed": 53,
+        "name": "Moroccan Grand Prix",
+        "race_duration": "2:09:15.1",
+        "round": 11,
+        "season": 1958
+    },
+    {
+        "laps_completed": 100,
+        "name": "Argentine Grand Prix",
+        "race_duration": "3:00:55.9",
+        "round": 1,
+        "season": 1957
+    },
+    {
+        "laps_completed": 105,
+        "name": "Monaco Grand Prix",
+        "race_duration": "3:10:12.8",
+        "round": 2,
+        "season": 1957
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:41:14.25",
+        "round": 3,
+        "season": 1957
+    },
+    {
+        "laps_completed": 77,
+        "name": "French Grand Prix",
+        "race_duration": "3:07:46.4",
+        "round": 4,
+        "season": 1957
+    },
+    {
+        "laps_completed": 90,
+        "name": "British Grand Prix",
+        "race_duration": "3:06:37.8",
+        "round": 5,
+        "season": 1957
+    },
+    {
+        "laps_completed": 22,
+        "name": "German Grand Prix",
+        "race_duration": "3:30:38.3",
+        "round": 6,
+        "season": 1957
+    },
+    {
+        "laps_completed": 18,
+        "name": "Pescara Grand Prix",
+        "race_duration": "2:59:22.7",
+        "round": 7,
+        "season": 1957
+    },
+    {
+        "laps_completed": 87,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:35:03.9",
+        "round": 8,
+        "season": 1957
+    },
+    {
+        "laps_completed": 98,
+        "name": "Argentine Grand Prix",
+        "race_duration": "3:00:03.7",
+        "round": 1,
+        "season": 1956
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "3:00:32.9",
+        "round": 2,
+        "season": 1956
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:53:28.84",
+        "round": 3,
+        "season": 1956
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:40:00.3",
+        "round": 4,
+        "season": 1956
+    },
+    {
+        "laps_completed": 61,
+        "name": "French Grand Prix",
+        "race_duration": "2:34:23.4",
+        "round": 5,
+        "season": 1956
+    },
+    {
+        "laps_completed": 101,
+        "name": "British Grand Prix",
+        "race_duration": "2:59:47.0",
+        "round": 6,
+        "season": 1956
+    },
+    {
+        "laps_completed": 22,
+        "name": "German Grand Prix",
+        "race_duration": "3:38:43.7",
+        "round": 7,
+        "season": 1956
+    },
+    {
+        "laps_completed": 50,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:23:41.3",
+        "round": 8,
+        "season": 1956
+    },
+    {
+        "laps_completed": 96,
+        "name": "Argentine Grand Prix",
+        "race_duration": "3:00:38.6",
+        "round": 1,
+        "season": 1955
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "2:58:09.8",
+        "round": 2,
+        "season": 1955
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:53:59.53",
+        "round": 3,
+        "season": 1955
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:39:29.0",
+        "round": 4,
+        "season": 1955
+    },
+    {
+        "laps_completed": 100,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:54:23.8",
+        "round": 5,
+        "season": 1955
+    },
+    {
+        "laps_completed": 90,
+        "name": "British Grand Prix",
+        "race_duration": "3:07:21.2",
+        "round": 6,
+        "season": 1955
+    },
+    {
+        "laps_completed": 50,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:25:04.4",
+        "round": 7,
+        "season": 1955
+    },
+    {
+        "laps_completed": 87,
+        "name": "Argentine Grand Prix",
+        "race_duration": "3:00:55.8",
+        "round": 1,
+        "season": 1954
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:49:17.27",
+        "round": 2,
+        "season": 1954
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:44:42.4",
+        "round": 3,
+        "season": 1954
+    },
+    {
+        "laps_completed": 61,
+        "name": "French Grand Prix",
+        "race_duration": "2:42:47.9",
+        "round": 4,
+        "season": 1954
+    },
+    {
+        "laps_completed": 90,
+        "name": "British Grand Prix",
+        "race_duration": "2:56:14.0",
+        "round": 5,
+        "season": 1954
+    },
+    {
+        "laps_completed": 22,
+        "name": "German Grand Prix",
+        "race_duration": "3:45:45.8",
+        "round": 6,
+        "season": 1954
+    },
+    {
+        "laps_completed": 66,
+        "name": "Swiss Grand Prix",
+        "race_duration": "3:00:34.5",
+        "round": 7,
+        "season": 1954
+    },
+    {
+        "laps_completed": 80,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:47:47.9",
+        "round": 8,
+        "season": 1954
+    },
+    {
+        "laps_completed": 80,
+        "name": "Spanish Grand Prix",
+        "race_duration": "3:13:52.1",
+        "round": 9,
+        "season": 1954
+    },
+    {
+        "laps_completed": 97,
+        "name": "Argentine Grand Prix",
+        "race_duration": "3:01:04.6",
+        "round": 1,
+        "season": 1953
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:53:01.69",
+        "round": 2,
+        "season": 1953
+    },
+    {
+        "laps_completed": 90,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:53:35.8",
+        "round": 3,
+        "season": 1953
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:48:30.3",
+        "round": 4,
+        "season": 1953
+    },
+    {
+        "laps_completed": 60,
+        "name": "French Grand Prix",
+        "race_duration": "2:44:18.6",
+        "round": 5,
+        "season": 1953
+    },
+    {
+        "laps_completed": 90,
+        "name": "British Grand Prix",
+        "race_duration": "2:50:00.0",
+        "round": 6,
+        "season": 1953
+    },
+    {
+        "laps_completed": 18,
+        "name": "German Grand Prix",
+        "race_duration": "3:02:25.0",
+        "round": 7,
+        "season": 1953
+    },
+    {
+        "laps_completed": 65,
+        "name": "Swiss Grand Prix",
+        "race_duration": "3:01:34.40",
+        "round": 8,
+        "season": 1953
+    },
+    {
+        "laps_completed": 80,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:49:45.9",
+        "round": 9,
+        "season": 1953
+    },
+    {
+        "laps_completed": 62,
+        "name": "Swiss Grand Prix",
+        "race_duration": "3:01:46.1",
+        "round": 1,
+        "season": 1952
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:52:41.88",
+        "round": 2,
+        "season": 1952
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "3:03:46.3",
+        "round": 3,
+        "season": 1952
+    },
+    {
+        "laps_completed": 77,
+        "name": "French Grand Prix",
+        "race_duration": "3:00:00.0",
+        "round": 4,
+        "season": 1952
+    },
+    {
+        "laps_completed": 85,
+        "name": "British Grand Prix",
+        "race_duration": "2:46:11.0",
+        "round": 5,
+        "season": 1952
+    },
+    {
+        "laps_completed": 18,
+        "name": "German Grand Prix",
+        "race_duration": "3:06:13.3",
+        "round": 6,
+        "season": 1952
+    },
+    {
+        "laps_completed": 90,
+        "name": "Dutch Grand Prix",
+        "race_duration": "2:53:28.5",
+        "round": 7,
+        "season": 1952
+    },
+    {
+        "laps_completed": 80,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:50:45.6",
+        "round": 8,
+        "season": 1952
+    },
+    {
+        "laps_completed": 42,
+        "name": "Swiss Grand Prix",
+        "race_duration": "2:07:53.64",
+        "round": 1,
+        "season": 1951
+    },
+    {
+        "laps_completed": 200,
+        "name": "Indianapolis 500",
+        "race_duration": "3:57:38.05",
+        "round": 2,
+        "season": 1951
+    },
+    {
+        "laps_completed": 36,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:45:46.2",
+        "round": 3,
+        "season": 1951
+    },
+    {
+        "laps_completed": 77,
+        "name": "French Grand Prix",
+        "race_duration": "3:22:11.0",
+        "round": 4,
+        "season": 1951
+    },
+    {
+        "laps_completed": 90,
+        "name": "British Grand Prix",
+        "race_duration": "2:42:18.2",
+        "round": 5,
+        "season": 1951
+    },
+    {
+        "laps_completed": 20,
+        "name": "German Grand Prix",
+        "race_duration": "3:23:03.3",
+        "round": 6,
+        "season": 1951
+    },
+    {
+        "laps_completed": 80,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:42:39.3",
+        "round": 7,
+        "season": 1951
+    },
+    {
+        "laps_completed": 70,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:46:54.10",
+        "round": 8,
+        "season": 1951
+    },
+    {
+        "laps_completed": 70,
+        "name": "British Grand Prix",
+        "race_duration": "2:13:23.6",
+        "round": 1,
+        "season": 1950
+    },
+    {
+        "laps_completed": 100,
+        "name": "Monaco Grand Prix",
+        "race_duration": "3:13:18.7",
+        "round": 2,
+        "season": 1950
+    },
+    {
+        "laps_completed": 138,
+        "name": "Indianapolis 500",
+        "race_duration": "2:46:55.97",
+        "round": 3,
+        "season": 1950
+    },
+    {
+        "laps_completed": 42,
+        "name": "Swiss Grand Prix",
+        "race_duration": "2:02:53.7",
+        "round": 4,
+        "season": 1950
+    },
+    {
+        "laps_completed": 35,
+        "name": "Belgian Grand Prix",
+        "race_duration": "2:47:26.0",
+        "round": 5,
+        "season": 1950
+    },
+    {
+        "laps_completed": 64,
+        "name": "French Grand Prix",
+        "race_duration": "2:57:52.8",
+        "round": 6,
+        "season": 1950
+    },
+    {
+        "laps_completed": 80,
+        "name": "Italian Grand Prix",
+        "race_duration": "2:51:17.4",
+        "round": 7,
+        "season": 1950
+    }
+]
