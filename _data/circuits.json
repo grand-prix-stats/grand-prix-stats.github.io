@@ -1,440 +1,805 @@
 [
     {
-        "circuitref": "galvez",
+        "alt": null,
+        "circuitId": 25,
+        "circuitRef": "galvez",
         "country": "Argentina",
+        "lat": -34.6943016052246,
+        "lng": -58.459300994873,
         "location": "Buenos Aires",
-        "name": "Autódromo Juan y Oscar Gálvez"
+        "name": "Autódromo Juan y Oscar Gálvez",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez"
     },
     {
-        "circuitref": "adelaide",
+        "alt": null,
+        "circuitId": 29,
+        "circuitRef": "adelaide",
         "country": "Australia",
+        "lat": -34.9272003173828,
+        "lng": 138.617004394531,
         "location": "Adelaide",
-        "name": "Adelaide Street Circuit"
+        "name": "Adelaide Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Adelaide_Street_Circuit"
     },
     {
-        "circuitref": "albert_park",
+        "alt": 10,
+        "circuitId": 1,
+        "circuitRef": "albert_park",
         "country": "Australia",
+        "lat": -37.8497009277344,
+        "lng": 144.968002319336,
         "location": "Melbourne",
-        "name": "Albert Park Grand Prix Circuit"
+        "name": "Albert Park Grand Prix Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Melbourne_Grand_Prix_Circuit"
     },
     {
-        "circuitref": "osterreichring",
+        "alt": null,
+        "circuitId": 23,
+        "circuitRef": "osterreichring",
         "country": "Austria",
+        "lat": 47.2196998596191,
+        "lng": 14.7646999359131,
         "location": "Spielburg",
-        "name": "A1-Ring"
+        "name": "A1-Ring",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/A1-Ring"
     },
     {
-        "circuitref": "red_bull_ring",
+        "alt": null,
+        "circuitId": 70,
+        "circuitRef": "red_bull_ring",
         "country": "Austria",
+        "lat": 47.2196998596191,
+        "lng": 14.7646999359131,
         "location": "Spielburg",
-        "name": "Red Bull Ring"
+        "name": "Red Bull Ring",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Red_Bull_Ring"
     },
     {
-        "circuitref": "zeltweg",
+        "alt": null,
+        "circuitId": 57,
+        "circuitRef": "zeltweg",
         "country": "Austria",
+        "lat": 47.2038993835449,
+        "lng": 14.7477998733521,
         "location": "Styria",
-        "name": "Zeltweg"
+        "name": "Zeltweg",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Zeltweg_Airfield"
     },
     {
-        "circuitref": "BAK",
+        "alt": null,
+        "circuitId": 73,
+        "circuitRef": "BAK",
         "country": "Azerbaijan",
+        "lat": 40.372501373291,
+        "lng": 49.8532981872559,
         "location": "Baku",
-        "name": "Baku City Circuit"
+        "name": "Baku City Circuit",
+        "url": "https:\/\/en.wikipedia.org\/wiki\/Baku_City_Circuit"
     },
     {
-        "circuitref": "bahrain",
+        "alt": null,
+        "circuitId": 3,
+        "circuitRef": "bahrain",
         "country": "Bahrain",
+        "lat": 26.0324993133545,
+        "lng": 50.5106010437012,
         "location": "Sakhir",
-        "name": "Bahrain International Circuit"
+        "name": "Bahrain International Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Bahrain_International_Circuit"
     },
     {
-        "circuitref": "nivelles",
+        "alt": null,
+        "circuitId": 50,
+        "circuitRef": "nivelles",
         "country": "Belgium",
+        "lat": 50.6211013793945,
+        "lng": 4.32694005966187,
         "location": "Brussels",
-        "name": "Nivelles-Baulers"
+        "name": "Nivelles-Baulers",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Nivelles-Baulers"
     },
     {
-        "circuitref": "zolder",
+        "alt": null,
+        "circuitId": 40,
+        "circuitRef": "zolder",
         "country": "Belgium",
+        "lat": 50.9893989562988,
+        "lng": 5.25693988800049,
         "location": "Heusden-Zolder",
-        "name": "Zolder"
+        "name": "Zolder",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Zolder"
     },
     {
-        "circuitref": "spa",
+        "alt": null,
+        "circuitId": 13,
+        "circuitRef": "spa",
         "country": "Belgium",
+        "lat": 50.437198638916,
+        "lng": 5.97138977050781,
         "location": "Spa",
-        "name": "Circuit de Spa-Francorchamps"
+        "name": "Circuit de Spa-Francorchamps",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Spa-Francorchamps"
     },
     {
-        "circuitref": "jacarepagua",
+        "alt": null,
+        "circuitId": 36,
+        "circuitRef": "jacarepagua",
         "country": "Brazil",
+        "lat": -22.9755992889404,
+        "lng": -43.3950004577637,
         "location": "Rio de Janeiro",
-        "name": "Autódromo Internacional Nelson Piquet"
+        "name": "Autódromo Internacional Nelson Piquet",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Aut%C3%B3dromo_Internacional_Nelson_Piquet"
     },
     {
-        "circuitref": "interlagos",
+        "alt": null,
+        "circuitId": 18,
+        "circuitRef": "interlagos",
         "country": "Brazil",
+        "lat": -23.7035999298096,
+        "lng": -46.6996994018555,
         "location": "São Paulo",
-        "name": "Autódromo José Carlos Pace"
+        "name": "Autódromo José Carlos Pace",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace"
     },
     {
-        "circuitref": "villeneuve",
+        "alt": null,
+        "circuitId": 7,
+        "circuitRef": "villeneuve",
         "country": "Canada",
+        "lat": 45.5,
+        "lng": -73.5227966308594,
         "location": "Montreal",
-        "name": "Circuit Gilles Villeneuve"
+        "name": "Circuit Gilles Villeneuve",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_Gilles_Villeneuve"
     },
     {
-        "circuitref": "mosport",
+        "alt": null,
+        "circuitId": 48,
+        "circuitRef": "mosport",
         "country": "Canada",
+        "lat": 44.0480995178223,
+        "lng": -78.6755981445312,
         "location": "Ontario",
-        "name": "Mosport International Raceway"
+        "name": "Mosport International Raceway",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Mosport"
     },
     {
-        "circuitref": "tremblant",
+        "alt": null,
+        "circuitId": 52,
+        "circuitRef": "tremblant",
         "country": "Canada",
+        "lat": 46.1876983642578,
+        "lng": -74.6099014282227,
         "location": "Quebec",
-        "name": "Circuit Mont-Tremblant"
+        "name": "Circuit Mont-Tremblant",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_Mont-Tremblant"
     },
     {
-        "circuitref": "shanghai",
+        "alt": null,
+        "circuitId": 17,
+        "circuitRef": "shanghai",
         "country": "China",
+        "lat": 31.3388996124268,
+        "lng": 121.220001220703,
         "location": "Shanghai",
-        "name": "Shanghai International Circuit"
+        "name": "Shanghai International Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Shanghai_International_Circuit"
     },
     {
-        "circuitref": "charade",
+        "alt": null,
+        "circuitId": 51,
+        "circuitRef": "charade",
         "country": "France",
+        "lat": 45.747200012207,
+        "lng": 3.03888988494873,
         "location": "Clermont-Ferrand",
-        "name": "Charade Circuit"
+        "name": "Charade Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Charade_Circuit"
     },
     {
-        "circuitref": "dijon",
+        "alt": null,
+        "circuitId": 41,
+        "circuitRef": "dijon",
         "country": "France",
+        "lat": 47.3624992370605,
+        "lng": 4.89912986755371,
         "location": "Dijon",
-        "name": "Dijon-Prenois"
+        "name": "Dijon-Prenois",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Dijon-Prenois"
     },
     {
-        "circuitref": "ricard",
+        "alt": null,
+        "circuitId": 34,
+        "circuitRef": "ricard",
         "country": "France",
+        "lat": 43.2505989074707,
+        "lng": 5.79166984558105,
         "location": "Le Castellet",
-        "name": "Circuit Paul Ricard"
+        "name": "Circuit Paul Ricard",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Paul_Ricard_Circuit"
     },
     {
-        "circuitref": "lemans",
+        "alt": null,
+        "circuitId": 54,
+        "circuitRef": "lemans",
         "country": "France",
+        "lat": 47.9500007629395,
+        "lng": 0.224231004714966,
         "location": "Le Mans",
-        "name": "Le Mans"
+        "name": "Le Mans",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_la_Sarthe#Bugatti_Circuit"
     },
     {
-        "circuitref": "magny_cours",
+        "alt": null,
+        "circuitId": 8,
+        "circuitRef": "magny_cours",
         "country": "France",
+        "lat": 46.864200592041,
+        "lng": 3.16360998153687,
         "location": "Magny Cours",
-        "name": "Circuit de Nevers Magny-Cours"
+        "name": "Circuit de Nevers Magny-Cours",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Nevers_Magny-Cours"
     },
     {
-        "circuitref": "reims",
+        "alt": null,
+        "circuitId": 55,
+        "circuitRef": "reims",
         "country": "France",
+        "lat": 49.2541999816895,
+        "lng": 3.93083000183105,
         "location": "Reims",
-        "name": "Reims-Gueux"
+        "name": "Reims-Gueux",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Reims-Gueux"
     },
     {
-        "circuitref": "essarts",
+        "alt": null,
+        "circuitId": 53,
+        "circuitRef": "essarts",
         "country": "France",
+        "lat": 49.3306007385254,
+        "lng": 1.00458002090454,
         "location": "Rouen",
-        "name": "Rouen-Les-Essarts"
+        "name": "Rouen-Les-Essarts",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Rouen-Les-Essarts"
     },
     {
-        "circuitref": "avus",
+        "alt": null,
+        "circuitId": 61,
+        "circuitRef": "avus",
         "country": "Germany",
+        "lat": 52.480598449707,
+        "lng": 13.2513999938965,
         "location": "Berlin",
-        "name": "AVUS"
+        "name": "AVUS",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/AVUS"
     },
     {
-        "circuitref": "hockenheimring",
+        "alt": null,
+        "circuitId": 10,
+        "circuitRef": "hockenheimring",
         "country": "Germany",
+        "lat": 49.3278007507324,
+        "lng": 8.56583023071289,
         "location": "Hockenheim",
-        "name": "Hockenheimring"
+        "name": "Hockenheimring",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Hockenheimring"
     },
     {
-        "circuitref": "nurburgring",
+        "alt": null,
+        "circuitId": 20,
+        "circuitRef": "nurburgring",
         "country": "Germany",
+        "lat": 50.3356018066406,
+        "lng": 6.94750022888184,
         "location": "Nürburg",
-        "name": "Nürburgring"
+        "name": "Nürburgring",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/N%C3%BCrburgring"
     },
     {
-        "circuitref": "hungaroring",
+        "alt": null,
+        "circuitId": 11,
+        "circuitRef": "hungaroring",
         "country": "Hungary",
+        "lat": 47.5788993835449,
+        "lng": 19.2486000061035,
         "location": "Budapest",
-        "name": "Hungaroring"
+        "name": "Hungaroring",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Hungaroring"
     },
     {
-        "circuitref": "buddh",
+        "alt": null,
+        "circuitId": 68,
+        "circuitRef": "buddh",
         "country": "India",
+        "lat": 28.3486995697021,
+        "lng": 77.5330963134766,
         "location": "Uttar Pradesh",
-        "name": "Buddh International Circuit"
+        "name": "Buddh International Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Buddh_International_Circuit"
     },
     {
-        "circuitref": "imola",
+        "alt": null,
+        "circuitId": 21,
+        "circuitRef": "imola",
         "country": "Italy",
+        "lat": 44.3438987731934,
+        "lng": 11.7166996002197,
         "location": "Imola",
-        "name": "Autodromo Enzo e Dino Ferrari"
+        "name": "Autodromo Enzo e Dino Ferrari",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Autodromo_Enzo_e_Dino_Ferrari"
     },
     {
-        "circuitref": "monza",
+        "alt": null,
+        "circuitId": 14,
+        "circuitRef": "monza",
         "country": "Italy",
+        "lat": 45.6156005859375,
+        "lng": 9.28110980987549,
         "location": "Monza",
-        "name": "Autodromo Nazionale di Monza"
+        "name": "Autodromo Nazionale di Monza",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Autodromo_Nazionale_Monza"
     },
     {
-        "circuitref": "pescara",
+        "alt": null,
+        "circuitId": 65,
+        "circuitRef": "pescara",
         "country": "Italy",
+        "lat": 42.4749984741211,
+        "lng": 14.1507997512817,
         "location": "Pescara",
-        "name": "Pescara Circuit"
+        "name": "Pescara Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Pescara_Circuit"
     },
     {
-        "circuitref": "okayama",
+        "alt": null,
+        "circuitId": 28,
+        "circuitRef": "okayama",
         "country": "Japan",
+        "lat": 34.9150009155273,
+        "lng": 134.220993041992,
         "location": "Okayama",
-        "name": "Okayama International Circuit"
+        "name": "Okayama International Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/TI_Circuit"
     },
     {
-        "circuitref": "fuji",
+        "alt": null,
+        "circuitId": 16,
+        "circuitRef": "fuji",
         "country": "Japan",
+        "lat": 35.3717002868652,
+        "lng": 138.927001953125,
         "location": "Oyama",
-        "name": "Fuji Speedway"
+        "name": "Fuji Speedway",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Fuji_Speedway"
     },
     {
-        "circuitref": "suzuka",
+        "alt": null,
+        "circuitId": 22,
+        "circuitRef": "suzuka",
         "country": "Japan",
+        "lat": 34.8431015014648,
+        "lng": 136.541000366211,
         "location": "Suzuka",
-        "name": "Suzuka Circuit"
+        "name": "Suzuka Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Suzuka_Circuit"
     },
     {
-        "circuitref": "yeongam",
+        "alt": null,
+        "circuitId": 35,
+        "circuitRef": "yeongam",
         "country": "Korea",
+        "lat": 34.7332992553711,
+        "lng": 126.416999816895,
         "location": "Yeongam County",
-        "name": "Korean International Circuit"
+        "name": "Korean International Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Korean_International_Circuit"
     },
     {
-        "circuitref": "sepang",
+        "alt": null,
+        "circuitId": 2,
+        "circuitRef": "sepang",
         "country": "Malaysia",
+        "lat": 2.76082992553711,
+        "lng": 101.737998962402,
         "location": "Kuala Lumpur",
-        "name": "Sepang International Circuit"
+        "name": "Sepang International Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Sepang_International_Circuit"
     },
     {
-        "circuitref": "rodriguez",
+        "alt": null,
+        "circuitId": 32,
+        "circuitRef": "rodriguez",
         "country": "Mexico",
+        "lat": 19.4041996002197,
+        "lng": -99.0906982421875,
         "location": "Mexico City",
-        "name": "Autódromo Hermanos Rodríguez"
+        "name": "Autódromo Hermanos Rodríguez",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Autodromo_Hermanos_Rodr%C3%ADguez"
     },
     {
-        "circuitref": "monaco",
+        "alt": null,
+        "circuitId": 6,
+        "circuitRef": "monaco",
         "country": "Monaco",
+        "lat": 43.7346992492676,
+        "lng": 7.42055988311768,
         "location": "Monte-Carlo",
-        "name": "Circuit de Monaco"
+        "name": "Circuit de Monaco",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Monaco"
     },
     {
-        "circuitref": "ain-diab",
+        "alt": null,
+        "circuitId": 64,
+        "circuitRef": "ain-diab",
         "country": "Morocco",
+        "lat": 33.5786018371582,
+        "lng": -7.6875,
         "location": "Casablanca",
-        "name": "Ain Diab"
+        "name": "Ain Diab",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Ain-Diab_Circuit"
     },
     {
-        "circuitref": "zandvoort",
+        "alt": null,
+        "circuitId": 39,
+        "circuitRef": "zandvoort",
         "country": "Netherlands",
+        "lat": 52.388801574707,
+        "lng": 4.5409197807312,
         "location": "Zandvoort",
-        "name": "Circuit Park Zandvoort"
+        "name": "Circuit Park Zandvoort",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_Zandvoort"
     },
     {
-        "circuitref": "estoril",
+        "alt": null,
+        "circuitId": 27,
+        "circuitRef": "estoril",
         "country": "Portugal",
+        "lat": 38.7505989074707,
+        "lng": -9.39416980743408,
         "location": "Estoril",
-        "name": "Autódromo do Estoril"
+        "name": "Autódromo do Estoril",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Aut%C3%B3dromo_do_Estoril"
     },
     {
-        "circuitref": "monsanto",
+        "alt": null,
+        "circuitId": 62,
+        "circuitRef": "monsanto",
         "country": "Portugal",
+        "lat": 38.7196998596191,
+        "lng": -9.20306015014648,
         "location": "Lisbon",
-        "name": "Monsanto Park Circuit"
+        "name": "Monsanto Park Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Monsanto_Park_Circuit"
     },
     {
-        "circuitref": "boavista",
+        "alt": null,
+        "circuitId": 59,
+        "circuitRef": "boavista",
         "country": "Portugal",
+        "lat": 41.1705017089844,
+        "lng": -8.67325019836426,
         "location": "Oporto",
-        "name": "Circuito da Boavista"
+        "name": "Circuito da Boavista",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuito_da_Boavista"
     },
     {
-        "circuitref": "sochi",
+        "alt": null,
+        "circuitId": 71,
+        "circuitRef": "sochi",
         "country": "Russia",
+        "lat": 43.4057006835938,
+        "lng": 39.9578018188477,
         "location": "Sochi",
-        "name": "Sochi International Street Circuit"
+        "name": "Sochi International Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Sochi_International_Street_Circuit"
     },
     {
-        "circuitref": "marina_bay",
+        "alt": null,
+        "circuitId": 15,
+        "circuitRef": "marina_bay",
         "country": "Singapore",
+        "lat": 1.29139995574951,
+        "lng": 103.863998413086,
         "location": "Marina Bay",
-        "name": "Marina Bay Street Circuit"
+        "name": "Marina Bay Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Marina_Bay_Street_Circuit"
     },
     {
-        "circuitref": "george",
+        "alt": null,
+        "circuitId": 56,
+        "circuitRef": "george",
         "country": "South Africa",
+        "lat": -33.0485992431641,
+        "lng": 27.8736000061035,
         "location": "Eastern Cape Province",
-        "name": "Prince George Circuit"
+        "name": "Prince George Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Prince_George_Circuit"
     },
     {
-        "circuitref": "kyalami",
+        "alt": null,
+        "circuitId": 30,
+        "circuitRef": "kyalami",
         "country": "South Africa",
+        "lat": -25.9894008636475,
+        "lng": 28.0767002105713,
         "location": "Midrand",
-        "name": "Kyalami"
+        "name": "Kyalami",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Kyalami"
     },
     {
-        "circuitref": "pedralbes",
+        "alt": null,
+        "circuitId": 67,
+        "circuitRef": "pedralbes",
         "country": "Spain",
+        "lat": 41.3903007507324,
+        "lng": 2.11666989326477,
         "location": "Barcelona",
-        "name": "Circuit de Pedralbes"
+        "name": "Circuit de Pedralbes",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Pedralbes_Circuit"
     },
     {
-        "circuitref": "montjuic",
+        "alt": null,
+        "circuitId": 49,
+        "circuitRef": "montjuic",
         "country": "Spain",
+        "lat": 41.3664016723633,
+        "lng": 2.15166997909546,
         "location": "Barcelona",
-        "name": "Montjuïc"
+        "name": "Montjuïc",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Montju%C3%AFc_circuit"
     },
     {
-        "circuitref": "jerez",
+        "alt": null,
+        "circuitId": 26,
+        "circuitRef": "jerez",
         "country": "Spain",
+        "lat": 36.7083015441895,
+        "lng": -6.03417015075684,
         "location": "Jerez de la Frontera",
-        "name": "Circuito de Jerez"
+        "name": "Circuito de Jerez",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuito_Permanente_de_Jerez"
     },
     {
-        "circuitref": "jarama",
+        "alt": null,
+        "circuitId": 45,
+        "circuitRef": "jarama",
         "country": "Spain",
+        "lat": 40.6170997619629,
+        "lng": -3.58558011054993,
         "location": "Madrid",
-        "name": "Jarama"
+        "name": "Jarama",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuito_Permanente_Del_Jarama"
     },
     {
-        "circuitref": "catalunya",
+        "alt": null,
+        "circuitId": 4,
+        "circuitRef": "catalunya",
         "country": "Spain",
+        "lat": 41.5699996948242,
+        "lng": 2.26111006736755,
         "location": "Montmeló",
-        "name": "Circuit de Catalunya"
+        "name": "Circuit de Catalunya",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Catalunya"
     },
     {
-        "circuitref": "valencia",
+        "alt": null,
+        "circuitId": 12,
+        "circuitRef": "valencia",
         "country": "Spain",
+        "lat": 39.4589004516602,
+        "lng": -0.331667006015778,
         "location": "Valencia",
-        "name": "Valencia Street Circuit"
+        "name": "Valencia Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Valencia_Street_Circuit"
     },
     {
-        "circuitref": "anderstorp",
+        "alt": null,
+        "circuitId": 47,
+        "circuitRef": "anderstorp",
         "country": "Sweden",
+        "lat": 57.2653007507324,
+        "lng": 13.6042003631592,
         "location": "Anderstorp",
-        "name": "Scandinavian Raceway"
+        "name": "Scandinavian Raceway",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Scandinavian_Raceway"
     },
     {
-        "circuitref": "bremgarten",
+        "alt": null,
+        "circuitId": 66,
+        "circuitRef": "bremgarten",
         "country": "Switzerland",
+        "lat": 46.9589004516602,
+        "lng": 7.401939868927,
         "location": "Bern",
-        "name": "Circuit Bremgarten"
+        "name": "Circuit Bremgarten",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_Bremgarten"
     },
     {
-        "circuitref": "istanbul",
+        "alt": null,
+        "circuitId": 5,
+        "circuitRef": "istanbul",
         "country": "Turkey",
+        "lat": 40.9516983032227,
+        "lng": 29.4050006866455,
         "location": "Istanbul",
-        "name": "Istanbul Park"
+        "name": "Istanbul Park",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Istanbul_Park"
     },
     {
-        "circuitref": "yas_marina",
+        "alt": null,
+        "circuitId": 24,
+        "circuitRef": "yas_marina",
         "country": "UAE",
+        "lat": 24.4671993255615,
+        "lng": 54.603099822998,
         "location": "Abu Dhabi",
-        "name": "Yas Marina Circuit"
+        "name": "Yas Marina Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Yas_Marina_Circuit"
     },
     {
-        "circuitref": "donington",
+        "alt": null,
+        "circuitId": 31,
+        "circuitRef": "donington",
         "country": "UK",
+        "lat": 52.8306007385254,
+        "lng": -1.37528002262115,
         "location": "Castle Donington",
-        "name": "Donington Park"
+        "name": "Donington Park",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Donington_Park"
     },
     {
-        "circuitref": "brands_hatch",
+        "alt": null,
+        "circuitId": 38,
+        "circuitRef": "brands_hatch",
         "country": "UK",
+        "lat": 51.3568992614746,
+        "lng": 0.263056010007858,
         "location": "Kent",
-        "name": "Brands Hatch"
+        "name": "Brands Hatch",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Brands_Hatch"
     },
     {
-        "circuitref": "aintree",
+        "alt": null,
+        "circuitId": 58,
+        "circuitRef": "aintree",
         "country": "UK",
+        "lat": 53.4768981933594,
+        "lng": -2.94056010246277,
         "location": "Liverpool",
-        "name": "Aintree"
+        "name": "Aintree",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Aintree_Motor_Racing_Circuit"
     },
     {
-        "circuitref": "silverstone",
+        "alt": null,
+        "circuitId": 9,
+        "circuitRef": "silverstone",
         "country": "UK",
+        "lat": 52.0786018371582,
+        "lng": -1.01693999767303,
         "location": "Silverstone",
-        "name": "Silverstone Circuit"
+        "name": "Silverstone Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Silverstone_Circuit"
     },
     {
-        "circuitref": "americas",
+        "alt": null,
+        "circuitId": 69,
+        "circuitRef": "americas",
         "country": "USA",
+        "lat": 30.1327991485596,
+        "lng": -97.6410980224609,
         "location": "Austin",
-        "name": "Circuit of the Americas"
+        "name": "Circuit of the Americas",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_of_the_Americas"
     },
     {
-        "circuitref": "long_beach",
+        "alt": null,
+        "circuitId": 43,
+        "circuitRef": "long_beach",
         "country": "USA",
+        "lat": 33.7650985717773,
+        "lng": -118.189002990723,
         "location": "California",
-        "name": "Long Beach"
+        "name": "Long Beach",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Long_Beach,_California"
     },
     {
-        "circuitref": "riverside",
+        "alt": null,
+        "circuitId": 60,
+        "circuitRef": "riverside",
         "country": "USA",
+        "lat": 33.9370002746582,
+        "lng": -117.273002624512,
         "location": "California",
-        "name": "Riverside International Raceway"
+        "name": "Riverside International Raceway",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Riverside_International_Raceway"
     },
     {
-        "circuitref": "dallas",
+        "alt": null,
+        "circuitId": 42,
+        "circuitRef": "dallas",
         "country": "USA",
+        "lat": 32.777400970459,
+        "lng": -96.7586975097656,
         "location": "Dallas",
-        "name": "Fair Park"
+        "name": "Fair Park",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Fair_Park"
     },
     {
-        "circuitref": "detroit",
+        "alt": null,
+        "circuitId": 37,
+        "circuitRef": "detroit",
         "country": "USA",
+        "lat": 42.3297996520996,
+        "lng": -83.0401000976562,
         "location": "Detroit",
-        "name": "Detroit Street Circuit"
+        "name": "Detroit Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Detroit_street_circuit"
     },
     {
-        "circuitref": "sebring",
+        "alt": null,
+        "circuitId": 63,
+        "circuitRef": "sebring",
         "country": "USA",
+        "lat": 27.4547004699707,
+        "lng": -81.3482971191406,
         "location": "Florida",
-        "name": "Sebring International Raceway"
+        "name": "Sebring International Raceway",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Sebring_Raceway"
     },
     {
-        "circuitref": "indianapolis",
+        "alt": null,
+        "circuitId": 19,
+        "circuitRef": "indianapolis",
         "country": "USA",
+        "lat": 39.7949981689453,
+        "lng": -86.2347030639648,
         "location": "Indianapolis",
-        "name": "Indianapolis Motor Speedway"
+        "name": "Indianapolis Motor Speedway",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Indianapolis_Motor_Speedway"
     },
     {
-        "circuitref": "las_vegas",
+        "alt": null,
+        "circuitId": 44,
+        "circuitRef": "las_vegas",
         "country": "USA",
+        "lat": 36.1161994934082,
+        "lng": -115.174003601074,
         "location": "Nevada",
-        "name": "Las Vegas Street Circuit"
+        "name": "Las Vegas Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Las_Vegas,_Nevada"
     },
     {
-        "circuitref": "port_imperial",
+        "alt": null,
+        "circuitId": 72,
+        "circuitRef": "port_imperial",
         "country": "USA",
+        "lat": 40.7769012451172,
+        "lng": -74.011100769043,
         "location": "New Jersey",
-        "name": "Port Imperial Street Circuit"
+        "name": "Port Imperial Street Circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Port_Imperial_Street_Circuit"
     },
     {
-        "circuitref": "watkins_glen",
+        "alt": null,
+        "circuitId": 46,
+        "circuitRef": "watkins_glen",
         "country": "USA",
+        "lat": 42.3368988037109,
+        "lng": -76.9272003173828,
         "location": "New York State",
-        "name": "Watkins Glen"
+        "name": "Watkins Glen",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Watkins_Glen_International"
     },
     {
-        "circuitref": "phoenix",
+        "alt": null,
+        "circuitId": 33,
+        "circuitRef": "phoenix",
         "country": "USA",
+        "lat": 33.4478988647461,
+        "lng": -112.074996948242,
         "location": "Phoenix",
-        "name": "Phoenix street circuit"
+        "name": "Phoenix street circuit",
+        "url": "http:\/\/en.wikipedia.org\/wiki\/Phoenix_street_circuit"
     }
 ]

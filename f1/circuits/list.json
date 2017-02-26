@@ -1,0 +1,367 @@
+[
+    {
+        "country": "Argentina",
+        "location": "Buenos Aires",
+        "name": "Autódromo Juan y Oscar Gálvez"
+    },
+    {
+        "country": "Australia",
+        "location": "Adelaide",
+        "name": "Adelaide Street Circuit"
+    },
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "name": "Albert Park Grand Prix Circuit"
+    },
+    {
+        "country": "Austria",
+        "location": "Spielburg",
+        "name": "A1-Ring"
+    },
+    {
+        "country": "Austria",
+        "location": "Spielburg",
+        "name": "Red Bull Ring"
+    },
+    {
+        "country": "Austria",
+        "location": "Styria",
+        "name": "Zeltweg"
+    },
+    {
+        "country": "Azerbaijan",
+        "location": "Baku",
+        "name": "Baku City Circuit"
+    },
+    {
+        "country": "Bahrain",
+        "location": "Sakhir",
+        "name": "Bahrain International Circuit"
+    },
+    {
+        "country": "Belgium",
+        "location": "Brussels",
+        "name": "Nivelles-Baulers"
+    },
+    {
+        "country": "Belgium",
+        "location": "Heusden-Zolder",
+        "name": "Zolder"
+    },
+    {
+        "country": "Belgium",
+        "location": "Spa",
+        "name": "Circuit de Spa-Francorchamps"
+    },
+    {
+        "country": "Brazil",
+        "location": "Rio de Janeiro",
+        "name": "Autódromo Internacional Nelson Piquet"
+    },
+    {
+        "country": "Brazil",
+        "location": "São Paulo",
+        "name": "Autódromo José Carlos Pace"
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "name": "Circuit Gilles Villeneuve"
+    },
+    {
+        "country": "Canada",
+        "location": "Ontario",
+        "name": "Mosport International Raceway"
+    },
+    {
+        "country": "Canada",
+        "location": "Quebec",
+        "name": "Circuit Mont-Tremblant"
+    },
+    {
+        "country": "China",
+        "location": "Shanghai",
+        "name": "Shanghai International Circuit"
+    },
+    {
+        "country": "France",
+        "location": "Clermont-Ferrand",
+        "name": "Charade Circuit"
+    },
+    {
+        "country": "France",
+        "location": "Dijon",
+        "name": "Dijon-Prenois"
+    },
+    {
+        "country": "France",
+        "location": "Le Castellet",
+        "name": "Circuit Paul Ricard"
+    },
+    {
+        "country": "France",
+        "location": "Le Mans",
+        "name": "Le Mans"
+    },
+    {
+        "country": "France",
+        "location": "Magny Cours",
+        "name": "Circuit de Nevers Magny-Cours"
+    },
+    {
+        "country": "France",
+        "location": "Reims",
+        "name": "Reims-Gueux"
+    },
+    {
+        "country": "France",
+        "location": "Rouen",
+        "name": "Rouen-Les-Essarts"
+    },
+    {
+        "country": "Germany",
+        "location": "Berlin",
+        "name": "AVUS"
+    },
+    {
+        "country": "Germany",
+        "location": "Hockenheim",
+        "name": "Hockenheimring"
+    },
+    {
+        "country": "Germany",
+        "location": "Nürburg",
+        "name": "Nürburgring"
+    },
+    {
+        "country": "Hungary",
+        "location": "Budapest",
+        "name": "Hungaroring"
+    },
+    {
+        "country": "India",
+        "location": "Uttar Pradesh",
+        "name": "Buddh International Circuit"
+    },
+    {
+        "country": "Italy",
+        "location": "Imola",
+        "name": "Autodromo Enzo e Dino Ferrari"
+    },
+    {
+        "country": "Italy",
+        "location": "Monza",
+        "name": "Autodromo Nazionale di Monza"
+    },
+    {
+        "country": "Italy",
+        "location": "Pescara",
+        "name": "Pescara Circuit"
+    },
+    {
+        "country": "Japan",
+        "location": "Okayama",
+        "name": "Okayama International Circuit"
+    },
+    {
+        "country": "Japan",
+        "location": "Oyama",
+        "name": "Fuji Speedway"
+    },
+    {
+        "country": "Japan",
+        "location": "Suzuka",
+        "name": "Suzuka Circuit"
+    },
+    {
+        "country": "Korea",
+        "location": "Yeongam County",
+        "name": "Korean International Circuit"
+    },
+    {
+        "country": "Malaysia",
+        "location": "Kuala Lumpur",
+        "name": "Sepang International Circuit"
+    },
+    {
+        "country": "Mexico",
+        "location": "Mexico City",
+        "name": "Autódromo Hermanos Rodríguez"
+    },
+    {
+        "country": "Monaco",
+        "location": "Monte-Carlo",
+        "name": "Circuit de Monaco"
+    },
+    {
+        "country": "Morocco",
+        "location": "Casablanca",
+        "name": "Ain Diab"
+    },
+    {
+        "country": "Netherlands",
+        "location": "Zandvoort",
+        "name": "Circuit Park Zandvoort"
+    },
+    {
+        "country": "Portugal",
+        "location": "Estoril",
+        "name": "Autódromo do Estoril"
+    },
+    {
+        "country": "Portugal",
+        "location": "Lisbon",
+        "name": "Monsanto Park Circuit"
+    },
+    {
+        "country": "Portugal",
+        "location": "Oporto",
+        "name": "Circuito da Boavista"
+    },
+    {
+        "country": "Russia",
+        "location": "Sochi",
+        "name": "Sochi International Street Circuit"
+    },
+    {
+        "country": "Singapore",
+        "location": "Marina Bay",
+        "name": "Marina Bay Street Circuit"
+    },
+    {
+        "country": "South Africa",
+        "location": "Eastern Cape Province",
+        "name": "Prince George Circuit"
+    },
+    {
+        "country": "South Africa",
+        "location": "Midrand",
+        "name": "Kyalami"
+    },
+    {
+        "country": "Spain",
+        "location": "Barcelona",
+        "name": "Circuit de Pedralbes"
+    },
+    {
+        "country": "Spain",
+        "location": "Barcelona",
+        "name": "Montjuïc"
+    },
+    {
+        "country": "Spain",
+        "location": "Jerez de la Frontera",
+        "name": "Circuito de Jerez"
+    },
+    {
+        "country": "Spain",
+        "location": "Madrid",
+        "name": "Jarama"
+    },
+    {
+        "country": "Spain",
+        "location": "Montmeló",
+        "name": "Circuit de Catalunya"
+    },
+    {
+        "country": "Spain",
+        "location": "Valencia",
+        "name": "Valencia Street Circuit"
+    },
+    {
+        "country": "Sweden",
+        "location": "Anderstorp",
+        "name": "Scandinavian Raceway"
+    },
+    {
+        "country": "Switzerland",
+        "location": "Bern",
+        "name": "Circuit Bremgarten"
+    },
+    {
+        "country": "Turkey",
+        "location": "Istanbul",
+        "name": "Istanbul Park"
+    },
+    {
+        "country": "UAE",
+        "location": "Abu Dhabi",
+        "name": "Yas Marina Circuit"
+    },
+    {
+        "country": "UK",
+        "location": "Castle Donington",
+        "name": "Donington Park"
+    },
+    {
+        "country": "UK",
+        "location": "Kent",
+        "name": "Brands Hatch"
+    },
+    {
+        "country": "UK",
+        "location": "Liverpool",
+        "name": "Aintree"
+    },
+    {
+        "country": "UK",
+        "location": "Silverstone",
+        "name": "Silverstone Circuit"
+    },
+    {
+        "country": "USA",
+        "location": "Austin",
+        "name": "Circuit of the Americas"
+    },
+    {
+        "country": "USA",
+        "location": "California",
+        "name": "Long Beach"
+    },
+    {
+        "country": "USA",
+        "location": "California",
+        "name": "Riverside International Raceway"
+    },
+    {
+        "country": "USA",
+        "location": "Dallas",
+        "name": "Fair Park"
+    },
+    {
+        "country": "USA",
+        "location": "Detroit",
+        "name": "Detroit Street Circuit"
+    },
+    {
+        "country": "USA",
+        "location": "Florida",
+        "name": "Sebring International Raceway"
+    },
+    {
+        "country": "USA",
+        "location": "Indianapolis",
+        "name": "Indianapolis Motor Speedway"
+    },
+    {
+        "country": "USA",
+        "location": "Nevada",
+        "name": "Las Vegas Street Circuit"
+    },
+    {
+        "country": "USA",
+        "location": "New Jersey",
+        "name": "Port Imperial Street Circuit"
+    },
+    {
+        "country": "USA",
+        "location": "New York State",
+        "name": "Watkins Glen"
+    },
+    {
+        "country": "USA",
+        "location": "Phoenix",
+        "name": "Phoenix street circuit"
+    }
+]
