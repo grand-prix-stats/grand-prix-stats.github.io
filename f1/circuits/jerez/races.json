@@ -1,0 +1,51 @@
+[
+    {
+        "laps_completed": 69,
+        "name": "European Grand Prix",
+        "race_duration": "1:38:57.771",
+        "round": 17,
+        "season": 1997
+    },
+    {
+        "laps_completed": 69,
+        "name": "European Grand Prix",
+        "race_duration": "1:40:27.3",
+        "round": 14,
+        "season": 1994
+    },
+    {
+        "laps_completed": 73,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:01.461",
+        "round": 14,
+        "season": 1990
+    },
+    {
+        "laps_completed": 73,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:47:48.264",
+        "round": 14,
+        "season": 1989
+    },
+    {
+        "laps_completed": 72,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:43.851",
+        "round": 14,
+        "season": 1988
+    },
+    {
+        "laps_completed": 72,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:49:12.692",
+        "round": 13,
+        "season": 1987
+    },
+    {
+        "laps_completed": 72,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:47.735",
+        "round": 2,
+        "season": 1986
+    }
+]

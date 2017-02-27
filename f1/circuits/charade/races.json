@@ -1,0 +1,30 @@
+[
+    {
+        "laps_completed": 38,
+        "name": "French Grand Prix",
+        "race_duration": "1:52:22.5",
+        "round": 6,
+        "season": 1972
+    },
+    {
+        "laps_completed": 38,
+        "name": "French Grand Prix",
+        "race_duration": "1:55:57.0",
+        "round": 6,
+        "season": 1970
+    },
+    {
+        "laps_completed": 38,
+        "name": "French Grand Prix",
+        "race_duration": "1:56:47.4",
+        "round": 5,
+        "season": 1969
+    },
+    {
+        "laps_completed": 40,
+        "name": "French Grand Prix",
+        "race_duration": "2:41:38.4",
+        "round": 4,
+        "season": 1965
+    }
+]

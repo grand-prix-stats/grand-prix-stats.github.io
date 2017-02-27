@@ -1,0 +1,100 @@
+[
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "1:30:38.471",
+        "round": 9,
+        "season": 1986
+    },
+    {
+        "laps_completed": 75,
+        "name": "European Grand Prix",
+        "race_duration": "1:32:58.109",
+        "round": 14,
+        "season": 1985
+    },
+    {
+        "laps_completed": 71,
+        "name": "British Grand Prix",
+        "race_duration": "1:29:28.532",
+        "round": 10,
+        "season": 1984
+    },
+    {
+        "laps_completed": 76,
+        "name": "European Grand Prix",
+        "race_duration": "1:36:45.865",
+        "round": 14,
+        "season": 1983
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:35:33.812",
+        "round": 10,
+        "season": 1982
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:34:49.228",
+        "round": 8,
+        "season": 1980
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:42:12.39",
+        "round": 10,
+        "season": 1978
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:44:19.66",
+        "round": 9,
+        "season": 1976
+    },
+    {
+        "laps_completed": 75,
+        "name": "British Grand Prix",
+        "race_duration": "1:43:02.2",
+        "round": 10,
+        "season": 1974
+    },
+    {
+        "laps_completed": 76,
+        "name": "British Grand Prix",
+        "race_duration": "1:47:50.2",
+        "round": 7,
+        "season": 1972
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "1:57:02.0",
+        "round": 7,
+        "season": 1970
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:01:20.3",
+        "round": 7,
+        "season": 1968
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:13:13.4",
+        "round": 4,
+        "season": 1966
+    },
+    {
+        "laps_completed": 80,
+        "name": "British Grand Prix",
+        "race_duration": "2:15:07.0",
+        "round": 5,
+        "season": 1964
+    }
+]

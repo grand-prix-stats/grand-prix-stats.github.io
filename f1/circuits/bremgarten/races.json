@@ -1,0 +1,37 @@
+[
+    {
+        "laps_completed": 66,
+        "name": "Swiss Grand Prix",
+        "race_duration": "3:00:34.5",
+        "round": 7,
+        "season": 1954
+    },
+    {
+        "laps_completed": 65,
+        "name": "Swiss Grand Prix",
+        "race_duration": "3:01:34.40",
+        "round": 8,
+        "season": 1953
+    },
+    {
+        "laps_completed": 62,
+        "name": "Swiss Grand Prix",
+        "race_duration": "3:01:46.1",
+        "round": 1,
+        "season": 1952
+    },
+    {
+        "laps_completed": 42,
+        "name": "Swiss Grand Prix",
+        "race_duration": "2:07:53.64",
+        "round": 1,
+        "season": 1951
+    },
+    {
+        "laps_completed": 42,
+        "name": "Swiss Grand Prix",
+        "race_duration": "2:02:53.7",
+        "round": 4,
+        "season": 1950
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "laps_completed": 29,
+        "name": "Spanish Grand Prix",
+        "race_duration": "42:53.7",
+        "round": 4,
+        "season": 1975
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:48:18.7",
+        "round": 4,
+        "season": 1973
+    },
+    {
+        "laps_completed": 75,
+        "name": "Spanish Grand Prix",
+        "race_duration": "1:49:03.4",
+        "round": 2,
+        "season": 1971
+    },
+    {
+        "laps_completed": 90,
+        "name": "Spanish Grand Prix",
+        "race_duration": "2:16:54.0",
+        "round": 2,
+        "season": 1969
+    }
+]

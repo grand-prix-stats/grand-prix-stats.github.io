@@ -1,0 +1,44 @@
+[
+    {
+        "laps_completed": 79,
+        "name": "French Grand Prix",
+        "race_duration": "1:31:11.951",
+        "round": 5,
+        "season": 1984
+    },
+    {
+        "laps_completed": 80,
+        "name": "Swiss Grand Prix",
+        "race_duration": "1:32:41.087",
+        "round": 14,
+        "season": 1982
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:35:48.13",
+        "round": 8,
+        "season": 1981
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:35:20.42",
+        "round": 8,
+        "season": 1979
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:39:40.13",
+        "round": 9,
+        "season": 1977
+    },
+    {
+        "laps_completed": 80,
+        "name": "French Grand Prix",
+        "race_duration": "1:21:55.02",
+        "round": 9,
+        "season": 1974
+    }
+]

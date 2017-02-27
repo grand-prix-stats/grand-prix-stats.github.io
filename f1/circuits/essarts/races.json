@@ -1,0 +1,37 @@
+[
+    {
+        "laps_completed": 60,
+        "name": "French Grand Prix",
+        "race_duration": "2:25:40.9",
+        "round": 6,
+        "season": 1968
+    },
+    {
+        "laps_completed": 57,
+        "name": "French Grand Prix",
+        "race_duration": "2:07:49.1",
+        "round": 4,
+        "season": 1964
+    },
+    {
+        "laps_completed": 54,
+        "name": "French Grand Prix",
+        "race_duration": "2:07:05.5",
+        "round": 4,
+        "season": 1962
+    },
+    {
+        "laps_completed": 77,
+        "name": "French Grand Prix",
+        "race_duration": "3:07:46.4",
+        "round": 4,
+        "season": 1957
+    },
+    {
+        "laps_completed": 77,
+        "name": "French Grand Prix",
+        "race_duration": "3:00:00.0",
+        "round": 4,
+        "season": 1952
+    }
+]
