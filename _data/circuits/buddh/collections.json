@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Buddh International Circuit",
+        "title": "List of All Formula 1® Races at Buddh International Circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Buddh International Circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Buddh International Circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Buddh International Circuit",
+        "url": "podium-drivers"
     }
 ]

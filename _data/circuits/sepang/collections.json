@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Sepang International Circuit",
+        "title": "List of All Formula 1® Races at Sepang International Circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Sepang International Circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Sepang International Circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Sepang International Circuit",
+        "url": "podium-drivers"
     }
 ]

@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit of the Americas",
+        "title": "List of All Formula 1® Races at Circuit of the Americas",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit of the Americas",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit of the Americas",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit of the Americas",
+        "url": "podium-drivers"
     }
 ]

@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Zolder",
+        "title": "List of All Formula 1® Races at Zolder",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Zolder",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Zolder",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Zolder",
+        "url": "podium-drivers"
     }
 ]

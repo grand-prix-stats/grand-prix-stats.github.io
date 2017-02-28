@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Autódromo José Carlos Pace",
+        "title": "List of All Formula 1® Races at Autódromo José Carlos Pace",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Autódromo José Carlos Pace",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Autódromo José Carlos Pace",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Autódromo José Carlos Pace",
+        "url": "podium-drivers"
     }
 ]

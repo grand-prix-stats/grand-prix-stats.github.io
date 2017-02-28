@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Phoenix street circuit",
+        "title": "List of All Formula 1® Races at Phoenix street circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Phoenix street circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Phoenix street circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Phoenix street circuit",
+        "url": "podium-drivers"
     }
 ]

@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Nivelles-Baulers",
+        "title": "List of All Formula 1® Races at Nivelles-Baulers",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Nivelles-Baulers",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Nivelles-Baulers",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Nivelles-Baulers",
+        "url": "podium-drivers"
     }
 ]

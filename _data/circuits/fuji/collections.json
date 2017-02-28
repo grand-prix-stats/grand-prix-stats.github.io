@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Fuji Speedway",
+        "title": "List of All Formula 1® Races at Fuji Speedway",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Fuji Speedway",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Fuji Speedway",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Fuji Speedway",
+        "url": "podium-drivers"
     }
 ]

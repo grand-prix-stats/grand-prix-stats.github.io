@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit de Monaco",
+        "title": "List of All Formula 1® Races at Circuit de Monaco",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit de Monaco",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit de Monaco",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit de Monaco",
+        "url": "podium-drivers"
     }
 ]

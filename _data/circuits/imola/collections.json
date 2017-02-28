@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Autodromo Enzo e Dino Ferrari",
+        "title": "List of All Formula 1® Races at Autodromo Enzo e Dino Ferrari",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Autodromo Enzo e Dino Ferrari",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Autodromo Enzo e Dino Ferrari",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Autodromo Enzo e Dino Ferrari",
+        "url": "podium-drivers"
     }
 ]

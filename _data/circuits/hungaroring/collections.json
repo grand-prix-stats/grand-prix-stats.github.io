@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Hungaroring",
+        "title": "List of All Formula 1® Races at Hungaroring",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Hungaroring",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Hungaroring",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Hungaroring",
+        "url": "podium-drivers"
     }
 ]

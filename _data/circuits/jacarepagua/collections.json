@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Autódromo Internacional Nelson Piquet",
+        "title": "List of All Formula 1® Races at Autódromo Internacional Nelson Piquet",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Autódromo Internacional Nelson Piquet",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Autódromo Internacional Nelson Piquet",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Autódromo Internacional Nelson Piquet",
+        "url": "podium-drivers"
     }
 ]

@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Le Mans",
+        "title": "List of All Formula 1® Races at Le Mans",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Le Mans",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Le Mans",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Le Mans",
+        "url": "podium-drivers"
     }
 ]

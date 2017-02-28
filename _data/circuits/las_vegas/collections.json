@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Las Vegas Street Circuit",
+        "title": "List of All Formula 1® Races at Las Vegas Street Circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Las Vegas Street Circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Las Vegas Street Circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Las Vegas Street Circuit",
+        "url": "podium-drivers"
     }
 ]

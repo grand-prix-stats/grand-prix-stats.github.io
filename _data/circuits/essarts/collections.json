@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Rouen-Les-Essarts",
+        "title": "List of All Formula 1® Races at Rouen-Les-Essarts",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Rouen-Les-Essarts",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Rouen-Les-Essarts",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Rouen-Les-Essarts",
+        "url": "podium-drivers"
     }
 ]

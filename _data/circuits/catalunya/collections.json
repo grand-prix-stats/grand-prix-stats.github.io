@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit de Catalunya",
+        "title": "List of All Formula 1® Races at Circuit de Catalunya",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit de Catalunya",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit de Catalunya",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit de Catalunya",
+        "url": "podium-drivers"
     }
 ]

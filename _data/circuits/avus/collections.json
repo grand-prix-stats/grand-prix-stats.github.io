@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in AVUS",
+        "title": "List of All Formula 1® Races at AVUS",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at AVUS",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at AVUS",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at AVUS",
+        "url": "podium-drivers"
     }
 ]

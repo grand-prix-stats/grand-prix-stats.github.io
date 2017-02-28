@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit Mont-Tremblant",
+        "title": "List of All Formula 1® Races at Circuit Mont-Tremblant",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit Mont-Tremblant",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit Mont-Tremblant",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit Mont-Tremblant",
+        "url": "podium-drivers"
     }
 ]

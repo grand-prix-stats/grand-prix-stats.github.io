@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit de Pedralbes",
+        "title": "List of All Formula 1® Races at Circuit de Pedralbes",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit de Pedralbes",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit de Pedralbes",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit de Pedralbes",
+        "url": "podium-drivers"
     }
 ]

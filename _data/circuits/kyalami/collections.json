@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Kyalami",
+        "title": "List of All Formula 1® Races at Kyalami",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Kyalami",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Kyalami",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Kyalami",
+        "url": "podium-drivers"
     }
 ]

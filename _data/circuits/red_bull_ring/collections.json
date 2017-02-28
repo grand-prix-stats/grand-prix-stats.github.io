@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Red Bull Ring",
+        "title": "List of All Formula 1® Races at Red Bull Ring",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Red Bull Ring",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Red Bull Ring",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Red Bull Ring",
+        "url": "podium-drivers"
     }
 ]

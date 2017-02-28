@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Albert Park Grand Prix Circuit",
+        "title": "List of All Formula 1® Races at Albert Park Grand Prix Circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Albert Park Grand Prix Circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Albert Park Grand Prix Circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Albert Park Grand Prix Circuit",
+        "url": "podium-drivers"
     }
 ]

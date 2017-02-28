@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Autódromo Juan y Oscar Gálvez",
+        "title": "List of All Formula 1® Races at Autódromo Juan y Oscar Gálvez",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Autódromo Juan y Oscar Gálvez",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Autódromo Juan y Oscar Gálvez",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Autódromo Juan y Oscar Gálvez",
+        "url": "podium-drivers"
     }
 ]

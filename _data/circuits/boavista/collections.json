@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuito da Boavista",
+        "title": "List of All Formula 1® Races at Circuito da Boavista",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuito da Boavista",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuito da Boavista",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuito da Boavista",
+        "url": "podium-drivers"
     }
 ]

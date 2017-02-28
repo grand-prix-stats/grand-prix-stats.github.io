@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit de Nevers Magny-Cours",
+        "title": "List of All Formula 1® Races at Circuit de Nevers Magny-Cours",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit de Nevers Magny-Cours",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit de Nevers Magny-Cours",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit de Nevers Magny-Cours",
+        "url": "podium-drivers"
     }
 ]

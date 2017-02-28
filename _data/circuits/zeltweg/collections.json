@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Zeltweg",
+        "title": "List of All Formula 1® Races at Zeltweg",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Zeltweg",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Zeltweg",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Zeltweg",
+        "url": "podium-drivers"
     }
 ]

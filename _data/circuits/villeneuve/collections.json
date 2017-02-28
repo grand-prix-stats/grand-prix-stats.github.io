@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuit Gilles Villeneuve",
+        "title": "List of All Formula 1® Races at Circuit Gilles Villeneuve",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuit Gilles Villeneuve",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit Gilles Villeneuve",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit Gilles Villeneuve",
+        "url": "podium-drivers"
     }
 ]

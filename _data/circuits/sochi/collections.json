@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Sochi International Street Circuit",
+        "title": "List of All Formula 1® Races at Sochi International Street Circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Sochi International Street Circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Sochi International Street Circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Sochi International Street Circuit",
+        "url": "podium-drivers"
     }
 ]

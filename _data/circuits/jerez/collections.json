@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Circuito de Jerez",
+        "title": "List of All Formula 1® Races at Circuito de Jerez",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Circuito de Jerez",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuito de Jerez",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuito de Jerez",
+        "url": "podium-drivers"
     }
 ]

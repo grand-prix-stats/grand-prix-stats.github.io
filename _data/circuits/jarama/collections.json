@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Jarama",
+        "title": "List of All Formula 1® Races at Jarama",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Jarama",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Jarama",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Jarama",
+        "url": "podium-drivers"
     }
 ]

@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Ain Diab",
+        "title": "List of All Formula 1® Races at Ain Diab",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Ain Diab",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Ain Diab",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Ain Diab",
+        "url": "podium-drivers"
     }
 ]

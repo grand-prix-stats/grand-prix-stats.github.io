@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Baku City Circuit",
+        "title": "List of All Formula 1® Races at Baku City Circuit",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Baku City Circuit",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Baku City Circuit",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Baku City Circuit",
+        "url": "podium-drivers"
     }
 ]

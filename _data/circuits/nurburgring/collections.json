@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Nürburgring",
+        "title": "List of All Formula 1® Races at Nürburgring",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Nürburgring",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Nürburgring",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Nürburgring",
+        "url": "podium-drivers"
     }
 ]

@@ -1,6 +1,18 @@
 [
     {
-        "title": "List of All Formula 1® Races in Autodromo Nazionale di Monza",
+        "title": "List of All Formula 1® Races at Autodromo Nazionale di Monza",
         "url": "races"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced at Autodromo Nazionale di Monza",
+        "url": "all-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Won a Race at Autodromo Nazionale di Monza",
+        "url": "winning-drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Autodromo Nazionale di Monza",
+        "url": "podium-drivers"
     }
 ]
