@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Races in Circuit de Nevers Magny-Cours
+title: List of All Formula 1® Races at Circuit de Nevers Magny-Cours
 layout: page
 ---
 

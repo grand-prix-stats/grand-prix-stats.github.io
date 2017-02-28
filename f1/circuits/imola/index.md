@@ -10,6 +10,8 @@ circuitRef: imola
 | **Location**     | {{ circuit.location }} |
 | **Country**      | {{ circuit.country }}  |
 
+<ul>
 {% for collection in site.data.circuits[page.circuitRef].collections %}
-- [{{ collection.title }}]({{collection.url}})
+    <li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
 {% endfor %}
+</ul>
