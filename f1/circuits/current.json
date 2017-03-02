@@ -1,0 +1,162 @@
+[
+    {
+        "country": "Australia",
+        "location": "Melbourne",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Albert Park Grand Prix Circuit",
+        "races": 22,
+        "wins": 4
+    },
+    {
+        "country": "Austria",
+        "location": "Spielburg",
+        "most_wins_driver": "Nico Rosberg 🇩🇪",
+        "name": "Red Bull Ring",
+        "races": 4,
+        "wins": 2
+    },
+    {
+        "country": "Azerbaijan",
+        "location": "Baku",
+        "most_wins_driver": "Nico Rosberg 🇩🇪",
+        "name": "Baku City Circuit",
+        "races": 2,
+        "wins": 1
+    },
+    {
+        "country": "Bahrain",
+        "location": "Sakhir",
+        "most_wins_driver": "Fernando Alonso 🇪🇸",
+        "name": "Bahrain International Circuit",
+        "races": 13,
+        "wins": 3
+    },
+    {
+        "country": "Belgium",
+        "location": "Spa",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Circuit de Spa-Francorchamps",
+        "races": 50,
+        "wins": 6
+    },
+    {
+        "country": "Brazil",
+        "location": "São Paulo",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Autódromo José Carlos Pace",
+        "races": 35,
+        "wins": 4
+    },
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Circuit Gilles Villeneuve",
+        "races": 38,
+        "wins": 7
+    },
+    {
+        "country": "China",
+        "location": "Shanghai",
+        "most_wins_driver": "Lewis Hamilton 🇬🇧",
+        "name": "Shanghai International Circuit",
+        "races": 14,
+        "wins": 4
+    },
+    {
+        "country": "Hungary",
+        "location": "Budapest",
+        "most_wins_driver": "Lewis Hamilton 🇬🇧",
+        "name": "Hungaroring",
+        "races": 32,
+        "wins": 5
+    },
+    {
+        "country": "Italy",
+        "location": "Monza",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Autodromo Nazionale di Monza",
+        "races": 67,
+        "wins": 5
+    },
+    {
+        "country": "Japan",
+        "location": "Suzuka",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Suzuka Circuit",
+        "races": 29,
+        "wins": 6
+    },
+    {
+        "country": "Malaysia",
+        "location": "Kuala Lumpur",
+        "most_wins_driver": "Sebastian Vettel 🇩🇪",
+        "name": "Sepang International Circuit",
+        "races": 19,
+        "wins": 4
+    },
+    {
+        "country": "Mexico",
+        "location": "Mexico City",
+        "most_wins_driver": "Nigel Mansell 🇬🇧",
+        "name": "Autódromo Hermanos Rodríguez",
+        "races": 18,
+        "wins": 2
+    },
+    {
+        "country": "Monaco",
+        "location": "Monte-Carlo",
+        "most_wins_driver": "Ayrton Senna 🇧🇷",
+        "name": "Circuit de Monaco",
+        "races": 64,
+        "wins": 6
+    },
+    {
+        "country": "Russia",
+        "location": "Sochi",
+        "most_wins_driver": "Lewis Hamilton 🇬🇧",
+        "name": "Sochi International Street Circuit",
+        "races": 4,
+        "wins": 2
+    },
+    {
+        "country": "Singapore",
+        "location": "Marina Bay",
+        "most_wins_driver": "Sebastian Vettel 🇩🇪",
+        "name": "Marina Bay Street Circuit",
+        "races": 10,
+        "wins": 4
+    },
+    {
+        "country": "Spain",
+        "location": "Montmeló",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Circuit de Catalunya",
+        "races": 27,
+        "wins": 6
+    },
+    {
+        "country": "UAE",
+        "location": "Abu Dhabi",
+        "most_wins_driver": "Sebastian Vettel 🇩🇪",
+        "name": "Yas Marina Circuit",
+        "races": 9,
+        "wins": 3
+    },
+    {
+        "country": "UK",
+        "location": "Silverstone",
+        "most_wins_driver": "Alain Prost 🇫🇷",
+        "name": "Silverstone Circuit",
+        "races": 51,
+        "wins": 5
+    },
+    {
+        "country": "USA",
+        "location": "Austin",
+        "most_wins_driver": "Lewis Hamilton 🇬🇧",
+        "name": "Circuit of the Americas",
+        "races": 6,
+        "wins": 4
+    }
+]
