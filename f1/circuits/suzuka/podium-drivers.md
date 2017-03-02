@@ -97,7 +97,8 @@ var options = {
     xAxes: [{
       ticks: {
         beginAtZero: true,
-        maxRotation: 180
+        maxRotation: 180,
+        display: window.innerWidth > 800
       }
     }],
     yAxes: [{
@@ -105,6 +106,9 @@ var options = {
         beginAtZero: true
       }
     }]
+  },
+  onResize: function(chart, size) {
+    chart.options.scales.xAxes[0].ticks.display = size.width > 800;
   }
 };
 new Chart("chart", {
