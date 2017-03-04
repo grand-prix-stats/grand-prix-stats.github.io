@@ -165,7 +165,7 @@ hr {
 .breadcrumb > li + li:before { padding: 0 5px; }
 .breadcrumb { border: 0px; display: block; }
 .breadcrumb li { font-size: 14px; }
-.breadcrumb a { color: #DE0000; }
+.breadcrumb a { color: #DE0000; text-transform: capitalize; }
 .breadcrumb a:hover { color: #780000; }
 .breadcrumb > .active a { color: #555555; }
 .breadcrumb > li + li:before { color: #DE0000; content: "\003E\00a0"; }
