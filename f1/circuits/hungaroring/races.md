@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Hungaroring
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 11 | Hungarian Grand Prix | 70 | 1:40:30.115 |
@@ -38,4 +37,4 @@ layout: page
 | 1987 | 9 | Hungarian Grand Prix | 76 | 1:59:26.793 |
 | 1986 | 11 | Hungarian Grand Prix | 76 | 2:00:34.508 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

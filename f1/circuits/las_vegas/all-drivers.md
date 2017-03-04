@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Las Vegas Street Circu
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Alain Prost 🇫🇷 | 2 |
@@ -45,4 +44,4 @@ layout: page
 | Teo Fabi 🇮🇹 | 1 |
 | Tommy Byrne 🇮🇪 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -87,3 +87,5 @@ new Chart("chart", {
 | 9. | Jochen Rindt 🇦🇹 | 1 |
 | 10. | Jody Scheckter 🇿🇦 | 1 |
 | 11. | Nelson Piquet 🇧🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Mosport International Raceway
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1977 | 16 | Canadian Grand Prix | 80 | 1:40:00.0 |
@@ -15,4 +14,4 @@ layout: page
 | 1969 | 9 | Canadian Grand Prix | 90 | 1:59:25.7 |
 | 1967 | 8 | Canadian Grand Prix | 90 | 2:40:40.0 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Marina Bay Street Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 15 | Singapore Grand Prix | 61 | 1:55:48.950 |
@@ -16,4 +15,4 @@ layout: page
 | 2009 | 14 | Singapore Grand Prix | 61 | 1:56:06.337 |
 | 2008 | 15 | Singapore Grand Prix | 61 | 1:57:16.304 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

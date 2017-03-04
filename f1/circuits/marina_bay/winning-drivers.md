@@ -66,3 +66,5 @@ new Chart("chart", {
 | 2. | Fernando Alonso 🇪🇸 | 2 |
 | 3. | Lewis Hamilton 🇬🇧 | 2 |
 | 4. | Nico Rosberg 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

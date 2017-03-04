@@ -90,3 +90,5 @@ new Chart("chart", {
 | 10. | James Hunt 🇬🇧 | 1 |
 | 11. | Jochen Mass 🇩🇪 | 1 |
 | 12. | Riccardo Patrese 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

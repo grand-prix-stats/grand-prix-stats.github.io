@@ -84,3 +84,5 @@ new Chart("chart", {
 | 8. | Heinz-Harald Frentzen 🇩🇪 | 1 |
 | 9. | Kimi Räikkönen 🇫🇮 | 1 |
 | 10. | Ralf Schumacher 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

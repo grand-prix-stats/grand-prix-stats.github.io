@@ -60,3 +60,5 @@ new Chart("chart", {
 |--|--|--|
 | 1. | Juan Fangio 🇦🇷 | 1 |
 | 2. | Mike Hawthorn 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

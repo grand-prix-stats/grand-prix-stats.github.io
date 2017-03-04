@@ -84,3 +84,5 @@ new Chart("chart", {
 | 8. | George Follmer 🇺🇸 | 1 |
 | 9. | Jean-Pierre Beltoise 🇫🇷 | 1 |
 | 10. | Jochen Mass 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

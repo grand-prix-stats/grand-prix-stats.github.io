@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Watkins Glen
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1980 | 14 | United States Grand Prix | 59 | 1:34:36.05 |
@@ -27,4 +26,4 @@ layout: page
 | 1962 | 8 | United States Grand Prix | 100 | 2:07:13.0 |
 | 1961 | 8 | United States Grand Prix | 100 | 2:13:45.8 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Montjuïc
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1975 | 4 | Spanish Grand Prix | 29 | 42:53.7 |
@@ -11,4 +10,4 @@ layout: page
 | 1971 | 2 | Spanish Grand Prix | 75 | 1:49:03.4 |
 | 1969 | 2 | Spanish Grand Prix | 90 | 2:16:54.0 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

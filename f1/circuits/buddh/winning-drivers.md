@@ -57,3 +57,5 @@ new Chart("chart", {
 | # | Driver | Times |
 |--|--|--|
 | 1. | Sebastian Vettel 🇩🇪 | 3 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

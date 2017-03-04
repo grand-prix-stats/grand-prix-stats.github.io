@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Autódromo Juan y Oscar Gálvez
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1998 | 3 | Argentine Grand Prix | 72 | 1:48:36.1 |
@@ -27,4 +26,4 @@ layout: page
 | 1954 | 1 | Argentine Grand Prix | 87 | 3:00:55.8 |
 | 1953 | 1 | Argentine Grand Prix | 97 | 3:01:04.6 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Sepang International Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 16 | Malaysian Grand Prix | 56 | 1:37:12.776 |
@@ -25,4 +24,4 @@ layout: page
 | 2000 | 17 | Malaysian Grand Prix | 56 | 1:35:54.235 |
 | 1999 | 15 | Malaysian Grand Prix | 56 | 1:36:38.494 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

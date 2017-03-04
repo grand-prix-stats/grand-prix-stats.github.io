@@ -87,3 +87,5 @@ new Chart("chart", {
 | 9. | Jacques Villeneuve 🇨🇦 | 1 |
 | 10. | Michael Schumacher 🇩🇪 | 1 |
 | 11. | Stefan Johansson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

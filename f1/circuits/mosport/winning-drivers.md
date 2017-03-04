@@ -75,3 +75,5 @@ new Chart("chart", {
 | 5. | James Hunt 🇬🇧 | 1 |
 | 6. | Jody Scheckter 🇿🇦 | 1 |
 | 7. | Peter Revson 🇺🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

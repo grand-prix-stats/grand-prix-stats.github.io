@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Jackie Stewart 🇬🇧 | 2 |
 | 2. | Emerson Fittipaldi 🇧🇷 | 1 |
 | 3. | Jochen Mass 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

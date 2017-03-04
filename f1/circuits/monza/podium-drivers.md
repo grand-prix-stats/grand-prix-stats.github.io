@@ -318,3 +318,5 @@ new Chart("chart", {
 | 86. | Umberto Maglioli 🇮🇹 | 1 |
 | 87. | Willy Mairesse 🇧🇪 | 1 |
 | 88. | Wolfgang von Trips 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

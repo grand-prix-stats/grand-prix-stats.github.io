@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | Sebastian Vettel 🇩🇪 | 2 |
 | 8. | Juan Pablo Montoya 🇨🇴 | 1 |
 | 9. | Michael Schumacher 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

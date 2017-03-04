@@ -72,3 +72,5 @@ new Chart("chart", {
 | 4. | Mario Andretti 🇺🇸 | 1 |
 | 5. | Niki Lauda 🇦🇹 | 1 |
 | 6. | Ronnie Peterson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -153,3 +153,5 @@ new Chart("chart", {
 | 31. | Martin Brundle 🇬🇧 | 1 |
 | 32. | Nicola Larini 🇮🇹 | 1 |
 | 33. | Thierry Boutsen 🇧🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

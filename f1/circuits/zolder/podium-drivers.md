@@ -114,3 +114,5 @@ new Chart("chart", {
 | 18. | Michele Alboreto 🇮🇹 | 1 |
 | 19. | Nigel Mansell 🇬🇧 | 1 |
 | 20. | René Arnoux 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

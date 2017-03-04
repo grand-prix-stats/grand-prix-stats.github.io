@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Dan Gurney 🇺🇸 | 1 |
 | 2. | Masten Gregory 🇺🇸 | 1 |
 | 3. | Stirling Moss 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

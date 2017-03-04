@@ -3,7 +3,6 @@ title: List of All Formula 1® Races
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 1 | Australian Grand Prix | 57 | 1:48:15.565 |
@@ -963,4 +962,4 @@ layout: page
 | 1950 | 6 | French Grand Prix | 64 | 2:57:52.8 |
 | 1950 | 7 | Italian Grand Prix | 80 | 2:51:17.4 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

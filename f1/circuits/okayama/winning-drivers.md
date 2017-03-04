@@ -57,3 +57,5 @@ new Chart("chart", {
 | # | Driver | Times |
 |--|--|--|
 | 1. | Michael Schumacher 🇩🇪 | 2 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

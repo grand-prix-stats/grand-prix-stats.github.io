@@ -72,3 +72,5 @@ new Chart("chart", {
 | 4. | Dan Gurney 🇺🇸 | 1 |
 | 5. | John Surtees 🇬🇧 | 1 |
 | 6. | Tony Maggs 🇿🇦 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

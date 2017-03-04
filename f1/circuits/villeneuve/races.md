@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit Gilles Villeneuve
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 7 | Canadian Grand Prix | 70 | 1:31:05.296 |
@@ -44,4 +43,4 @@ layout: page
 | 1979 | 14 | Canadian Grand Prix | 72 | 1:52:06.892 |
 | 1978 | 16 | Canadian Grand Prix | 70 | 1:57:49.196 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

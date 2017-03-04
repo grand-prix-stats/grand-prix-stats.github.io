@@ -69,3 +69,5 @@ new Chart("chart", {
 | 3. | Kimi Räikkönen 🇫🇮 | 1 |
 | 4. | Lewis Hamilton 🇬🇧 | 1 |
 | 5. | Sebastian Vettel 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

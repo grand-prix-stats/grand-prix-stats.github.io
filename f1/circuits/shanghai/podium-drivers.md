@@ -93,3 +93,5 @@ new Chart("chart", {
 | 11. | Michael Schumacher 🇩🇪 | 1 |
 | 12. | Ralf Schumacher 🇩🇪 | 1 |
 | 13. | Rubens Barrichello 🇧🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

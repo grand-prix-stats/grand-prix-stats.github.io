@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at A1-Ring
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2003 | 6 | Austrian Grand Prix | 69 | 1:24:04.888 |
@@ -32,4 +31,4 @@ layout: page
 | 1971 | 8 | Austrian Grand Prix | 54 | 1:30:23.91 |
 | 1970 | 9 | Austrian Grand Prix | 60 | 1:42:17.3 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

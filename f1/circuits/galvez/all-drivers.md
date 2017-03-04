@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Autódromo Juan y Osca
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Carlos Reutemann 🇦🇷 | 9 |
@@ -192,4 +191,4 @@ layout: page
 | Toranosuke Takagi 🇯🇵 | 1 |
 | Toulo de Graffenried 🇨🇭 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

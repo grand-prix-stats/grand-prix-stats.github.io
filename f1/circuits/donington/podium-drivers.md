@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Alain Prost 🇫🇷 | 1 |
 | 2. | Ayrton Senna 🇧🇷 | 1 |
 | 3. | Damon Hill 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

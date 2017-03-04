@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit de Spa-Francorchamps
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 13 | Belgian Grand Prix | 44 | 1:44:51.058 |
@@ -56,4 +55,4 @@ layout: page
 | 1951 | 3 | Belgian Grand Prix | 36 | 2:45:46.2 |
 | 1950 | 5 | Belgian Grand Prix | 35 | 2:47:26.0 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

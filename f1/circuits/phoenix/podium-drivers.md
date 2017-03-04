@@ -75,3 +75,5 @@ new Chart("chart", {
 | 5. | Nelson Piquet 🇧🇷 | 1 |
 | 6. | Riccardo Patrese 🇮🇹 | 1 |
 | 7. | Thierry Boutsen 🇧🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

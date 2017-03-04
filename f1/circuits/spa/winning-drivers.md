@@ -132,3 +132,5 @@ new Chart("chart", {
 | 24. | Peter Collins 🇬🇧 | 1 |
 | 25. | Phil Hill 🇺🇸 | 1 |
 | 26. | Tony Brooks 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

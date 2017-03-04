@@ -123,3 +123,5 @@ new Chart("chart", {
 | 21. | Robert Kubica 🇵🇱 | 1 |
 | 22. | Sebastian Vettel 🇩🇪 | 1 |
 | 23. | Thierry Boutsen 🇧🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

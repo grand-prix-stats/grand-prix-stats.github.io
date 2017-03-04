@@ -93,3 +93,5 @@ new Chart("chart", {
 | 11. | Jochen Rindt 🇦🇹 | 1 |
 | 12. | Niki Lauda 🇦🇹 | 1 |
 | 13. | Ronnie Peterson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

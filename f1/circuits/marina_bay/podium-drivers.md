@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | Mark Webber 🇦🇺 | 2 |
 | 8. | Nico Rosberg 🇩🇪 | 2 |
 | 9. | Timo Glock 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

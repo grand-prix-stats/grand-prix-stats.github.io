@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Scandinavian Raceway
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Carlos Reutemann 🇦🇷 | 6 |
@@ -79,4 +78,4 @@ layout: page
 | Tony Brise 🇬🇧 | 1 |
 | Torsten Palm 🇸🇪 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

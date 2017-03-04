@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Nürburgring
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2013 | 9 | German Grand Prix | 60 | 1:41.14.711 |
@@ -47,4 +46,4 @@ layout: page
 | 1952 | 6 | German Grand Prix | 18 | 3:06:13.3 |
 | 1951 | 6 | German Grand Prix | 20 | 3:23:03.3 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

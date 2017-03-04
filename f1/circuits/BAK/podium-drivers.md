@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Nico Rosberg 🇩🇪 | 1 |
 | 2. | Sebastian Vettel 🇩🇪 | 1 |
 | 3. | Sergio Pérez 🇲🇽 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

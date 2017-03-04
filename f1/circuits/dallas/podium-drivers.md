@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Elio de Angelis 🇮🇹 | 1 |
 | 2. | Keke Rosberg 🇫🇮 | 1 |
 | 3. | René Arnoux 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

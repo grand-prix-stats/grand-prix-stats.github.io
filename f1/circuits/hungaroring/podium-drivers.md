@@ -153,3 +153,5 @@ new Chart("chart", {
 | 31. | Pedro de la Rosa 🇪🇸 | 1 |
 | 32. | Romain Grosjean 🇫🇷 | 1 |
 | 33. | Timo Glock 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

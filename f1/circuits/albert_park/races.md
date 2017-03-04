@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Albert Park Grand Prix Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 1 | Australian Grand Prix | 57 | 1:48:15.565 |
@@ -28,4 +27,4 @@ layout: page
 | 1997 | 1 | Australian Grand Prix | 58 | 1:30:28.718 |
 | 1996 | 1 | Australian Grand Prix | 58 | 1:32:50.4 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

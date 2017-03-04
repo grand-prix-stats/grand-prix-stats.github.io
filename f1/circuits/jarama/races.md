@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Jarama
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1981 | 7 | Spanish Grand Prix | 80 | 1:46:35.01 |
@@ -16,4 +15,4 @@ layout: page
 | 1970 | 2 | Spanish Grand Prix | 90 | 2:10:58.2 |
 | 1968 | 2 | Spanish Grand Prix | 90 | 2:15:02.1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

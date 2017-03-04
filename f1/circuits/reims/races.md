@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Reims-Gueux
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1966 | 3 | French Grand Prix | 48 | 1:48:31.3 |
@@ -18,4 +17,4 @@ layout: page
 | 1951 | 4 | French Grand Prix | 77 | 3:22:11.0 |
 | 1950 | 6 | French Grand Prix | 64 | 2:57:52.8 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

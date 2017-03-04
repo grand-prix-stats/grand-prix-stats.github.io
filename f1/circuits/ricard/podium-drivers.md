@@ -126,3 +126,5 @@ new Chart("chart", {
 | 22. | Patrick Depailler 🇫🇷 | 1 |
 | 23. | René Arnoux 🇫🇷 | 1 |
 | 24. | Riccardo Patrese 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

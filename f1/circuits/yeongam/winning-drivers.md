@@ -60,3 +60,5 @@ new Chart("chart", {
 |--|--|--|
 | 1. | Sebastian Vettel 🇩🇪 | 3 |
 | 2. | Fernando Alonso 🇪🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

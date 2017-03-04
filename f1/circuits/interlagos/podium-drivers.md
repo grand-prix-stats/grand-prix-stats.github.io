@@ -186,3 +186,5 @@ new Chart("chart", {
 | 42. | Robert Kubica 🇵🇱 | 1 |
 | 43. | Rubens Barrichello 🇧🇷 | 1 |
 | 44. | Tom Pryce 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -108,3 +108,5 @@ new Chart("chart", {
 | 16. | Philippe Streiff 🇫🇷 | 1 |
 | 17. | Riccardo Patrese 🇮🇹 | 1 |
 | 18. | Stefan Johansson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

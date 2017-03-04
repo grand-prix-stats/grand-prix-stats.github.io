@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Autódromo do Estoril
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Gerhard Berger 🇦🇹 | 13 |
@@ -108,4 +107,4 @@ layout: page
 | Stefan Bellof 🇩🇪 | 1 |
 | Taki Inoue 🇯🇵 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

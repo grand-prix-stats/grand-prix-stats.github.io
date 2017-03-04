@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Buddh International Ci
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Daniel Ricciardo 🇦🇺 | 3 |
@@ -42,4 +41,4 @@ layout: page
 | Sébastien Buemi 🇨🇭 | 1 |
 | Valtteri Bottas 🇫🇮 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

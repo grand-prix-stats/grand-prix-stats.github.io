@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Indianapolis Motor Spe
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Tony Bettenhausen 🇺🇸 | 13 |
@@ -168,4 +167,4 @@ layout: page
 | Wayne Weiler 🇺🇸 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

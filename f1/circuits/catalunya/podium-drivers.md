@@ -141,3 +141,5 @@ new Chart("chart", {
 | 27. | Olivier Panis 🇫🇷 | 1 |
 | 28. | Pastor Maldonado 🇻🇪 | 1 |
 | 29. | Riccardo Patrese 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

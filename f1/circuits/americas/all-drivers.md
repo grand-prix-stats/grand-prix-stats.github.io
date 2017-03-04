@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Circuit of the America
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Daniel Ricciardo 🇦🇺 | 5 |
@@ -48,4 +47,4 @@ layout: page
 | Vitaly Petrov 🇷🇺 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

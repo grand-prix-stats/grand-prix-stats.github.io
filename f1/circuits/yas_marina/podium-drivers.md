@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | Mark Webber 🇦🇺 | 2 |
 | 8. | Felipe Massa 🇧🇷 | 1 |
 | 9. | Valtteri Bottas 🇫🇮 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

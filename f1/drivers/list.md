@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers
 layout: page
 ---
 
-
 | Forename | Surname | Country | Flag |
 |--|--|--|--|
 | Carlo | Abate | Italy | 🇮🇹 |
@@ -845,4 +844,4 @@ layout: page
 | Renzo | Zorzi | Italy | 🇮🇹 |
 | Ricardo | Zunino | Argentina | 🇦🇷 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

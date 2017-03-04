@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit de Monaco
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 6 | Monaco Grand Prix | 78 | 1:59:29.133 |
@@ -70,4 +69,4 @@ layout: page
 | 1955 | 2 | Monaco Grand Prix | 100 | 2:58:09.8 |
 | 1950 | 2 | Monaco Grand Prix | 100 | 3:13:18.7 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

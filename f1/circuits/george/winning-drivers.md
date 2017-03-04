@@ -60,3 +60,5 @@ new Chart("chart", {
 |--|--|--|
 | 1. | Jim Clark 🇬🇧 | 2 |
 | 2. | Graham Hill 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

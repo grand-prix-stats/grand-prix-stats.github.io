@@ -231,3 +231,5 @@ new Chart("chart", {
 | 57. | Rudi Fischer 🇨🇭 | 1 |
 | 58. | Tony Brooks 🇬🇧 | 1 |
 | 59. | Wolfgang von Trips 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

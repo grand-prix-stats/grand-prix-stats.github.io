@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit de Nevers Magny-Cours
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2008 | 8 | French Grand Prix | 70 | 1:31:50.245 |
@@ -25,4 +24,4 @@ layout: page
 | 1992 | 8 | French Grand Prix | 69 | 1:38:08.459 |
 | 1991 | 7 | French Grand Prix | 72 | 1:38:00.056 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

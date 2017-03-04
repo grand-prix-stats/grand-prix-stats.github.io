@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | Jacques Villeneuve 🇨🇦 | 1 |
 | 8. | Michael Schumacher 🇩🇪 | 1 |
 | 9. | Riccardo Patrese 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

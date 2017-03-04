@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | John Watson 🇬🇧 | 1 |
 | 8. | Mario Andretti 🇺🇸 | 1 |
 | 9. | Michele Alboreto 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -96,3 +96,5 @@ new Chart("chart", {
 | 12. | Rubens Barrichello 🇧🇷 | 1 |
 | 13. | Sam Hanks 🇺🇸 | 1 |
 | 14. | Troy Ruttman 🇺🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

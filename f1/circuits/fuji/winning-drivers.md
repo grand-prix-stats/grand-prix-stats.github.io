@@ -66,3 +66,5 @@ new Chart("chart", {
 | 2. | James Hunt 🇬🇧 | 1 |
 | 3. | Lewis Hamilton 🇬🇧 | 1 |
 | 4. | Mario Andretti 🇺🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

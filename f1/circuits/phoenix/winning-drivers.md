@@ -60,3 +60,5 @@ new Chart("chart", {
 |--|--|--|
 | 1. | Ayrton Senna 🇧🇷 | 2 |
 | 2. | Alain Prost 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

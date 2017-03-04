@@ -78,3 +78,5 @@ new Chart("chart", {
 | 6. | Michael Schumacher 🇩🇪 | 1 |
 | 7. | Rubens Barrichello 🇧🇷 | 1 |
 | 8. | Sebastian Vettel 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

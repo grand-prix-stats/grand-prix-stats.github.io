@@ -60,3 +60,5 @@ new Chart("chart", {
 |--|--|--|
 | 1. | Denny Hulme 🇳🇿 | 1 |
 | 2. | Jacky Ickx 🇧🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

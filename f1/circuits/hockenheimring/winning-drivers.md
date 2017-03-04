@@ -120,3 +120,5 @@ new Chart("chart", {
 | 20. | Ralf Schumacher 🇩🇪 | 1 |
 | 21. | René Arnoux 🇫🇷 | 1 |
 | 22. | Rubens Barrichello 🇧🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

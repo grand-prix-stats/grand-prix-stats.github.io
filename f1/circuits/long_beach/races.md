@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Long Beach
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1983 | 2 | United States Grand Prix West | 75 | 1:53:34.889 |
@@ -15,4 +14,4 @@ layout: page
 | 1977 | 4 | United States Grand Prix West | 80 | 1:51:35.470 |
 | 1976 | 3 | United States Grand Prix West | 80 | 1:53:18.471 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

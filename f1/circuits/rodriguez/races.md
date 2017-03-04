@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Autódromo Hermanos Rodríguez
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 19 | Mexican Grand Prix | 71 | 1:40:31.402 |
@@ -24,4 +23,4 @@ layout: page
 | 1964 | 10 | Mexican Grand Prix | 65 | 2:09:50.32 |
 | 1963 | 9 | Mexican Grand Prix | 65 | 2:09:52.1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

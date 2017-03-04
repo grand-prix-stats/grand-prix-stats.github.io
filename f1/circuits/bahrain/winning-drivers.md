@@ -75,3 +75,5 @@ new Chart("chart", {
 | 5. | Jenson Button 🇬🇧 | 1 |
 | 6. | Michael Schumacher 🇩🇪 | 1 |
 | 7. | Nico Rosberg 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -69,3 +69,5 @@ new Chart("chart", {
 | 3. | Jim Clark 🇬🇧 | 1 |
 | 4. | Tony Brooks 🇬🇧 | 1 |
 | 5. | Wolfgang von Trips 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -66,3 +66,5 @@ new Chart("chart", {
 | 2. | Carlos Reutemann 🇦🇷 | 2 |
 | 3. | Nelson Piquet 🇧🇷 | 2 |
 | 4. | Nigel Mansell 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

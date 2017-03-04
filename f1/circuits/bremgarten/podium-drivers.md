@@ -87,3 +87,5 @@ new Chart("chart", {
 | 9. | Luigi Fagioli 🇮🇹 | 1 |
 | 10. | Mike Hawthorn 🇬🇧 | 1 |
 | 11. | Rudi Fischer 🇨🇭 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

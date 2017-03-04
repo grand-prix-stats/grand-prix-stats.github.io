@@ -93,3 +93,5 @@ new Chart("chart", {
 | 11. | Robert Kubica 🇵🇱 | 1 |
 | 12. | Rubens Barrichello 🇧🇷 | 1 |
 | 13. | Sergio Pérez 🇲🇽 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

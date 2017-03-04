@@ -66,3 +66,5 @@ new Chart("chart", {
 | 2. | Alberto Ascari 🇮🇹 | 1 |
 | 3. | Jacky Ickx 🇧🇪 | 1 |
 | 4. | Juan Fangio 🇦🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -102,3 +102,5 @@ new Chart("chart", {
 | 14. | Michael Schumacher 🇩🇪 | 1 |
 | 15. | Nelson Piquet 🇧🇷 | 1 |
 | 16. | Stirling Moss 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

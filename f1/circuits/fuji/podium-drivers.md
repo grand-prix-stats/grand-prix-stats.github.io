@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | Lewis Hamilton 🇬🇧 | 1 |
 | 8. | Mario Andretti 🇺🇸 | 1 |
 | 9. | Robert Kubica 🇵🇱 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

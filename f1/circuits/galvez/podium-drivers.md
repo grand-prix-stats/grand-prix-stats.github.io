@@ -174,3 +174,5 @@ new Chart("chart", {
 | 38. | Patrick Depailler 🇫🇷 | 1 |
 | 39. | Ralf Schumacher 🇩🇪 | 1 |
 | 40. | Umberto Maglioli 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

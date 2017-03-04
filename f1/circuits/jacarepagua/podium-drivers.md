@@ -105,3 +105,5 @@ new Chart("chart", {
 | 15. | Michele Alboreto 🇮🇹 | 1 |
 | 16. | Riccardo Patrese 🇮🇹 | 1 |
 | 17. | Stefan Johansson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

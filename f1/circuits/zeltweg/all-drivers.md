@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Zeltweg
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Bob Anderson 🇬🇧 | 1 |
@@ -27,4 +26,4 @@ layout: page
 | Tony Maggs 🇿🇦 | 1 |
 | Trevor Taylor 🇬🇧 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

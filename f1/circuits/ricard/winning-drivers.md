@@ -84,3 +84,5 @@ new Chart("chart", {
 | 8. | Niki Lauda 🇦🇹 | 1 |
 | 9. | René Arnoux 🇫🇷 | 1 |
 | 10. | Ronnie Peterson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

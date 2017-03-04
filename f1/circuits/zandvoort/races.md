@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit Park Zandvoort
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1985 | 11 | Dutch Grand Prix | 70 | 1:32:29.263 |
@@ -37,4 +36,4 @@ layout: page
 | 1953 | 3 | Dutch Grand Prix | 90 | 2:53:35.8 |
 | 1952 | 7 | Dutch Grand Prix | 90 | 2:53:28.5 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

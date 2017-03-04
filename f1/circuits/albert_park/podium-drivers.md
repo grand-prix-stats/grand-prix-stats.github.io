@@ -123,3 +123,5 @@ new Chart("chart", {
 | 21. | Nick Heidfeld 🇩🇪 | 1 |
 | 22. | Robert Kubica 🇵🇱 | 1 |
 | 23. | Vitaly Petrov 🇷🇺 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

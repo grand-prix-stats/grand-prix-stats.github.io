@@ -72,3 +72,5 @@ new Chart("chart", {
 | 4. | Kimi Räikkönen 🇫🇮 | 1 |
 | 5. | Max Verstappen 🇳🇱 | 1 |
 | 6. | Valtteri Bottas 🇫🇮 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

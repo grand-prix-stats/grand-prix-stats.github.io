@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Autodromo Nazionale di Monza
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 14 | Italian Grand Prix | 53 | 1:17:28.089 |
@@ -73,4 +72,4 @@ layout: page
 | 1951 | 7 | Italian Grand Prix | 80 | 2:42:39.3 |
 | 1950 | 7 | Italian Grand Prix | 80 | 2:51:17.4 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of Current Formula 1® Circuits
 layout: page
 ---
 
-
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | Melbourne | Australia | 22 | Michael Schumacher 🇩🇪 | 4 |
@@ -27,4 +26,4 @@ layout: page
 | [Silverstone Circuit](/f1/circuits/silverstone) | Silverstone | UK | 51 | Alain Prost 🇫🇷 | 5 |
 | [Circuit of the Americas](/f1/circuits/americas) | Austin | USA | 6 | Lewis Hamilton 🇬🇧 | 4 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

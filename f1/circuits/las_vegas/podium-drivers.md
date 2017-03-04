@@ -72,3 +72,5 @@ new Chart("chart", {
 | 4. | Eddie Cheever 🇺🇸 | 1 |
 | 5. | John Watson 🇬🇧 | 1 |
 | 6. | Michele Alboreto 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

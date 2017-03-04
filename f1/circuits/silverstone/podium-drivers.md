@@ -267,3 +267,5 @@ new Chart("chart", {
 | 69. | Roy Salvadori 🇬🇧 | 1 |
 | 70. | Thierry Boutsen 🇧🇪 | 1 |
 | 71. | Valtteri Bottas 🇫🇮 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

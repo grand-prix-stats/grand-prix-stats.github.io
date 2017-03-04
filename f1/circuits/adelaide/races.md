@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Adelaide Street Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1995 | 17 | Australian Grand Prix | 81 | 1:49:15.946 |
@@ -18,4 +17,4 @@ layout: page
 | 1986 | 16 | Australian Grand Prix | 82 | 1:54:20.388 |
 | 1985 | 16 | Australian Grand Prix | 82 | 2:00:40.473 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

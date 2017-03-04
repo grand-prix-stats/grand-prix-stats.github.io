@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Long Beach
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Jacques Laffite 🇫🇷 | 8 |
@@ -83,4 +82,4 @@ layout: page
 | Teo Fabi 🇮🇹 | 1 |
 | Tom Pryce 🇬🇧 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

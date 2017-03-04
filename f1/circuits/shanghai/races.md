@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Shanghai International Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 3 | Chinese Grand Prix | 56 | 1:38:53.891 |
@@ -20,4 +19,4 @@ layout: page
 | 2005 | 19 | Chinese Grand Prix | 56 | 1:39:53.618 |
 | 2004 | 16 | Chinese Grand Prix | 56 | 1:29:12.420 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

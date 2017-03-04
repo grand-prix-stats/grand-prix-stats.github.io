@@ -11,6 +11,3 @@ layout: page
 - [Number of Participating Constructors per Formula 1® Season](unique-constructors)
 - [Number of Winning Constructors per Formula 1® Season](unique-constructor-winners)
 - [Point Percentage of Constructor's Champion per Formula 1® Season](winning-constructors-point-pct)
-
-
-

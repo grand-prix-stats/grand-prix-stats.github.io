@@ -3,7 +3,6 @@ title: List of All Formula 1® Seasons
 layout: page
 ---
 
-
 | Year | Rounds | Champion Driver | Champion Constructor |
 |--|--|--|--|
 | 2017 | 20 |   |   |
@@ -75,4 +74,4 @@ layout: page
 | 1951 | 8 | fangio |   |
 | 1950 | 7 | farina |   |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

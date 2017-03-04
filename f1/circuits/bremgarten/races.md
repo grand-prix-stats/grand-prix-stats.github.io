@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit Bremgarten
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1954 | 7 | Swiss Grand Prix | 66 | 3:00:34.5 |
@@ -12,4 +11,4 @@ layout: page
 | 1951 | 1 | Swiss Grand Prix | 42 | 2:07:53.64 |
 | 1950 | 4 | Swiss Grand Prix | 42 | 2:02:53.7 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

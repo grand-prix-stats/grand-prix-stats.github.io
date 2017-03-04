@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Yas Marina Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 21 | Abu Dhabi Grand Prix | 55 | 1:38:04.013 |
@@ -15,4 +14,4 @@ layout: page
 | 2010 | 19 | Abu Dhabi Grand Prix | 55 | 1:39:36.837 |
 | 2009 | 17 | Abu Dhabi Grand Prix | 55 | 1:34:03.414 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

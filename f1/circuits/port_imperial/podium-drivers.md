@@ -40,3 +40,5 @@ new Chart("chart", {
 #### Data Table
 
 
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

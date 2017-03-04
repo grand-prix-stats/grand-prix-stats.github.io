@@ -102,3 +102,5 @@ new Chart("chart", {
 | 14. | Nico Rosberg 🇩🇪 | 1 |
 | 15. | Pastor Maldonado 🇻🇪 | 1 |
 | 16. | Sebastian Vettel 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

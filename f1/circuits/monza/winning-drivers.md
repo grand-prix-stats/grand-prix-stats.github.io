@@ -162,3 +162,5 @@ new Chart("chart", {
 | 34. | Peter Gethin 🇬🇧 | 1 |
 | 35. | René Arnoux 🇫🇷 | 1 |
 | 36. | Tony Brooks 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

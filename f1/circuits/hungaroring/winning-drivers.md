@@ -105,3 +105,5 @@ new Chart("chart", {
 | 15. | Rubens Barrichello 🇧🇷 | 1 |
 | 16. | Sebastian Vettel 🇩🇪 | 1 |
 | 17. | Thierry Boutsen 🇧🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

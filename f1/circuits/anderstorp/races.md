@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Scandinavian Raceway
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1978 | 8 | Swedish Grand Prix | 70 | 1:41:00.606 |
@@ -13,4 +12,4 @@ layout: page
 | 1974 | 7 | Swedish Grand Prix | 80 | 1:58:31.391 |
 | 1973 | 7 | Swedish Grand Prix | 80 | 1:56:46.049 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

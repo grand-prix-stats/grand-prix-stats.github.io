@@ -165,3 +165,5 @@ new Chart("chart", {
 | 35. | Nelson Piquet 🇧🇷 | 1 |
 | 36. | Pedro Rodríguez 🇲🇽 | 1 |
 | 37. | Ronnie Peterson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

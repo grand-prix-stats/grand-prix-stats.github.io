@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit Paul Ricard
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1990 | 7 | French Grand Prix | 80 | 1:33:29.606 |
@@ -21,4 +20,4 @@ layout: page
 | 1973 | 8 | French Grand Prix | 54 | 1:41:36.52 |
 | 1971 | 5 | French Grand Prix | 55 | 1:46:42.3 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

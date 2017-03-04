@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Denny Hulme 🇳🇿 | 1 |
 | 2. | Jack Brabham 🇦🇺 | 1 |
 | 3. | Jackie Stewart 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -297,3 +297,5 @@ new Chart("chart", {
 | 79. | Richard Attwood 🇬🇧 | 1 |
 | 80. | Sergio Pérez 🇲🇽 | 1 |
 | 81. | Stefano Modena 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

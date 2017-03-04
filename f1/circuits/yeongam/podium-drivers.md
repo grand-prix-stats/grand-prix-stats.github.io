@@ -75,3 +75,5 @@ new Chart("chart", {
 | 5. | Felipe Massa 🇧🇷 | 1 |
 | 6. | Kimi Räikkönen 🇫🇮 | 1 |
 | 7. | Romain Grosjean 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

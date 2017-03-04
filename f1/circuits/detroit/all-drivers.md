@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Detroit Street Circuit
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Alain Prost 🇫🇷 | 7 |
@@ -74,4 +73,4 @@ layout: page
 | Stefano Modena 🇮🇹 | 1 |
 | Yannick Dalmas 🇫🇷 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

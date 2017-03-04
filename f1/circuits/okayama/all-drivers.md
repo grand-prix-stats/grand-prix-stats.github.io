@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Okayama International 
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Aguri Suzuki 🇯🇵 | 2 |
@@ -46,4 +45,4 @@ layout: page
 | Roland Ratzenberger 🇦🇹 | 1 |
 | Taki Inoue 🇯🇵 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

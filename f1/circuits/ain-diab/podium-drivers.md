@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Mike Hawthorn 🇬🇧 | 1 |
 | 2. | Phil Hill 🇺🇸 | 1 |
 | 3. | Stirling Moss 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

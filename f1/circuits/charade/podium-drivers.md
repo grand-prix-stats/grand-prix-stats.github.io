@@ -81,3 +81,5 @@ new Chart("chart", {
 | 7. | Jim Clark 🇬🇧 | 1 |
 | 8. | Jochen Rindt 🇦🇹 | 1 |
 | 9. | John Surtees 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

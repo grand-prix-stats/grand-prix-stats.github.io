@@ -259,3 +259,5 @@ $$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
 | 2015 | 19.85 |
 | 2016 | 18.15 |
 | 2017 |   |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Autódromo José Carlos Pace
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 20 | Brazilian Grand Prix | 71 | 3:01:01.335 |
@@ -41,4 +40,4 @@ layout: page
 | 1974 | 2 | Brazilian Grand Prix | 32 | 1:24:37.06 |
 | 1973 | 2 | Brazilian Grand Prix | 40 | 1:43:55.6 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

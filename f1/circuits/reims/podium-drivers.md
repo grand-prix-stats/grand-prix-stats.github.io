@@ -132,3 +132,5 @@ new Chart("chart", {
 | 24. | Tony Brooks 🇬🇧 | 1 |
 | 25. | Tony Maggs 🇿🇦 | 1 |
 | 26. | Wolfgang von Trips 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

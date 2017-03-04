@@ -153,3 +153,5 @@ new Chart("chart", {
 | 31. | Riccardo Patrese 🇮🇹 | 1 |
 | 32. | Ronnie Peterson 🇸🇪 | 1 |
 | 33. | Sebastian Vettel 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

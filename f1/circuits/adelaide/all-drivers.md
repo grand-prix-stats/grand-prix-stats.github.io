@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Adelaide Street Circui
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Gerhard Berger 🇦🇹 | 11 |
@@ -96,4 +95,4 @@ layout: page
 | Taki Inoue 🇯🇵 | 1 |
 | Toshio Suzuki 🇯🇵 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

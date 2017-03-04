@@ -111,3 +111,5 @@ new Chart("chart", {
 | 17. | John Watson 🇬🇧 | 1 |
 | 18. | Patrick Depailler 🇫🇷 | 1 |
 | 19. | Ronnie Peterson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

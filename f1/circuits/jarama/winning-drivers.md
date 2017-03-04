@@ -78,3 +78,5 @@ new Chart("chart", {
 | 6. | James Hunt 🇬🇧 | 1 |
 | 7. | Niki Lauda 🇦🇹 | 1 |
 | 8. | Patrick Depailler 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

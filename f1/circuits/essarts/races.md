@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Rouen-Les-Essarts
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1968 | 6 | French Grand Prix | 60 | 2:25:40.9 |
@@ -12,4 +11,4 @@ layout: page
 | 1957 | 4 | French Grand Prix | 77 | 3:07:46.4 |
 | 1952 | 4 | French Grand Prix | 77 | 3:00:00.0 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

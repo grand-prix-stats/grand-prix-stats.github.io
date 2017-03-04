@@ -72,3 +72,5 @@ new Chart("chart", {
 | 4. | Denny Hulme 🇳🇿 | 1 |
 | 5. | Jacky Ickx 🇧🇪 | 1 |
 | 6. | Pedro Rodríguez 🇲🇽 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

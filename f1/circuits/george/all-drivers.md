@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Prince George Circuit
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Bruce McLaren 🇳🇿 | 3 |
@@ -50,4 +49,4 @@ layout: page
 | Syd van der Vyver 🇿🇦 | 1 |
 | Tony Settember 🇺🇸 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

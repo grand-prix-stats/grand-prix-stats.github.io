@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Kyalami
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Niki Lauda 🇦🇹 | 12 |
@@ -172,4 +171,4 @@ layout: page
 | Tim Schenken 🇦🇺 | 1 |
 | Tom Belsø 🇩🇰 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

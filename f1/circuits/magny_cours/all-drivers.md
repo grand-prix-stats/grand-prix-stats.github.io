@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Circuit de Nevers Magn
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Rubens Barrichello 🇧🇷 | 16 |
@@ -122,4 +121,4 @@ layout: page
 | Timo Glock 🇩🇪 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

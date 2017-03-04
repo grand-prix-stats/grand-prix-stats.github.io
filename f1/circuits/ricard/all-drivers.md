@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Circuit Paul Ricard
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Riccardo Patrese 🇮🇹 | 10 |
@@ -148,4 +147,4 @@ layout: page
 | Tony Brise 🇬🇧 | 1 |
 | Volker Weidler 🇩🇪 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

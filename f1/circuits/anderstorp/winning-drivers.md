@@ -66,3 +66,5 @@ new Chart("chart", {
 | 2. | Niki Lauda 🇦🇹 | 2 |
 | 3. | Denny Hulme 🇳🇿 | 1 |
 | 4. | Jacques Laffite 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

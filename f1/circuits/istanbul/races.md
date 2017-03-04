@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Istanbul Park
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2011 | 4 | Turkish Grand Prix | 58 | 1:30:17.558 |
@@ -14,4 +13,4 @@ layout: page
 | 2006 | 14 | Turkish Grand Prix | 58 | 1:28:51.082 |
 | 2005 | 14 | Turkish Grand Prix | 58 | 1:24:34.454 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -123,3 +123,5 @@ new Chart("chart", {
 | 21. | Robert Kubica 🇵🇱 | 1 |
 | 22. | Sergio Pérez 🇲🇽 | 1 |
 | 23. | Timo Glock 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -144,3 +144,5 @@ new Chart("chart", {
 | 28. | Peter Revson 🇺🇸 | 1 |
 | 29. | Rubens Barrichello 🇧🇷 | 1 |
 | 30. | Sebastian Vettel 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -96,3 +96,5 @@ new Chart("chart", {
 | 12. | John Watson 🇬🇧 | 1 |
 | 13. | Keke Rosberg 🇫🇮 | 1 |
 | 14. | René Arnoux 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -60,3 +60,5 @@ new Chart("chart", {
 |--|--|--|
 | 1. | Lewis Hamilton 🇬🇧 | 2 |
 | 2. | Nico Rosberg 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

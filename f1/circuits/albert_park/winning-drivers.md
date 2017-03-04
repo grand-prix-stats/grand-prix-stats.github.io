@@ -90,3 +90,5 @@ new Chart("chart", {
 | 10. | Giancarlo Fisichella 🇮🇹 | 1 |
 | 11. | Mika Häkkinen 🇫🇮 | 1 |
 | 12. | Sebastian Vettel 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

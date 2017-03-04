@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Circuit of the Americas
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 18 | United States Grand Prix | 56 | 1:38:12.618 |
@@ -12,4 +11,4 @@ layout: page
 | 2013 | 18 | United States Grand Prix | 56 | 1:39:17.168 |
 | 2012 | 19 | United States Grand Prix | 56 | 1:35:55.269 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

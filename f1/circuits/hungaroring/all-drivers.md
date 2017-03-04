@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Hungaroring
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Rubens Barrichello 🇧🇷 | 19 |
@@ -183,4 +182,4 @@ layout: page
 | Volker Weidler 🇩🇪 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

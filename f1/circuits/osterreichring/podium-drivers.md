@@ -183,3 +183,5 @@ new Chart("chart", {
 | 41. | Tim Schenken 🇦🇺 | 1 |
 | 42. | Tom Pryce 🇬🇧 | 1 |
 | 43. | Vittorio Brambilla 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

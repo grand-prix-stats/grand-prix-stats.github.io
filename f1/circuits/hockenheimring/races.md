@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Hockenheimring
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 12 | German Grand Prix | 67 | 1:30:44.200 |
@@ -42,4 +41,4 @@ layout: page
 | 1977 | 11 | German Grand Prix | 47 | 1:31:49.3 |
 | 1970 | 8 | German Grand Prix | 50 | 1:42:00.3 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

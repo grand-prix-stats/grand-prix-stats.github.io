@@ -258,3 +258,5 @@ new Chart("chart", {
 | 2015 | 22 |
 | 2016 | 24 |
 | 2017 | 0 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

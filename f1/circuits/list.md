@@ -3,7 +3,6 @@ title: List of All Formula 1® Circuits
 layout: page
 ---
 
-
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
 | [Autódromo Juan y Oscar Gálvez](/f1/circuits/galvez) | Buenos Aires | Argentina | 20 | Juan Fangio 🇦🇷 | 4 |
@@ -80,4 +79,4 @@ layout: page
 | [Watkins Glen](/f1/circuits/watkins_glen) | New York State | USA | 20 | Jim Clark 🇬🇧 | 3 |
 | [Phoenix street circuit](/f1/circuits/phoenix) | Phoenix | USA | 3 | Ayrton Senna 🇧🇷 | 2 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

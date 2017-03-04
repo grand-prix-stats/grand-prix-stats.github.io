@@ -96,3 +96,5 @@ new Chart("chart", {
 | 12. | Patrick Tambay 🇫🇷 | 1 |
 | 13. | René Arnoux 🇫🇷 | 1 |
 | 14. | Ronnie Peterson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -129,3 +129,5 @@ The drivers on this list of epic comeback races started the race outside of the 
 | 23. | Jochen Mass 🇩🇪 | 10 | 11th | 1st | 1975 | 4 | Spanish Grand Prix |
 | 24. | Peter Gethin 🇬🇧 | 10 | 11th | 1st | 1971 | 9 | Italian Grand Prix |
 | 25. | Fernando Alonso 🇪🇸 | 10 | 11th | 1st | 2012 | 8 | European Grand Prix |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -198,3 +198,5 @@ new Chart("chart", {
 | 46. | Sergio Pérez 🇲🇽 | 1 |
 | 47. | Stefan Johansson 🇸🇪 | 1 |
 | 48. | Stefano Modena 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

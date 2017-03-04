@@ -159,3 +159,5 @@ new Chart("chart", {
 | 33. | Roberto Moreno 🇧🇷 | 1 |
 | 34. | Romain Grosjean 🇫🇷 | 1 |
 | 35. | Stefan Johansson 🇸🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

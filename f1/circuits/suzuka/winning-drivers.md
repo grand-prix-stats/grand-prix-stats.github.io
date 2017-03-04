@@ -99,3 +99,5 @@ new Chart("chart", {
 | 13. | Nico Rosberg 🇩🇪 | 1 |
 | 14. | Riccardo Patrese 🇮🇹 | 1 |
 | 15. | Rubens Barrichello 🇧🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

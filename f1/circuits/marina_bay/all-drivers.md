@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Marina Bay Street Circ
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Fernando Alonso 🇪🇸 | 9 |
@@ -63,4 +62,4 @@ layout: page
 | Sébastien Bourdais 🇫🇷 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

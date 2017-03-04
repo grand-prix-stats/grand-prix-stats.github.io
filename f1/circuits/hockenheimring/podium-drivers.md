@@ -207,3 +207,5 @@ new Chart("chart", {
 | 49. | Sebastian Vettel 🇩🇪 | 1 |
 | 50. | Stefan Johansson 🇸🇪 | 1 |
 | 51. | Valtteri Bottas 🇫🇮 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

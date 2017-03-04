@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Red Bull Ring
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Daniel Ricciardo 🇦🇺 | 3 |
@@ -37,4 +36,4 @@ layout: page
 | Roberto Merhi 🇪🇸 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

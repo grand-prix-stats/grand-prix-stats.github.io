@@ -66,3 +66,5 @@ new Chart("chart", {
 | 2. | Alberto Ascari 🇮🇹 | 1 |
 | 3. | Nino Farina 🇮🇹 | 1 |
 | 4. | Piero Taruffi 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

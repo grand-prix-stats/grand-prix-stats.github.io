@@ -120,3 +120,5 @@ new Chart("chart", {
 | 20. | Lewis Hamilton 🇬🇧 | 1 |
 | 21. | Martin Brundle 🇬🇧 | 1 |
 | 22. | Riccardo Patrese 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

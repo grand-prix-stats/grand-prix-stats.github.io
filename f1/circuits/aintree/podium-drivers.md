@@ -93,3 +93,5 @@ new Chart("chart", {
 | 11. | Richie Ginther 🇺🇸 | 1 |
 | 12. | Tony Brooks 🇬🇧 | 1 |
 | 13. | Wolfgang von Trips 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

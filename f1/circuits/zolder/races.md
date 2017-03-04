@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Zolder
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1984 | 3 | Belgian Grand Prix | 70 | 1:36:32.048 |
@@ -17,4 +16,4 @@ layout: page
 | 1975 | 6 | Belgian Grand Prix | 70 | 1:43:53.98 |
 | 1973 | 5 | Belgian Grand Prix | 70 | 1:42:13.43 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

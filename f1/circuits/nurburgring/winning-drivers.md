@@ -135,3 +135,5 @@ new Chart("chart", {
 | 25. | Sebastian Vettel 🇩🇪 | 1 |
 | 26. | Stirling Moss 🇬🇧 | 1 |
 | 27. | Tony Brooks 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

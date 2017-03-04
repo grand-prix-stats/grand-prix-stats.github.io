@@ -96,3 +96,5 @@ new Chart("chart", {
 | 12. | Piero Taruffi 🇮🇹 | 1 |
 | 13. | Richie Ginther 🇺🇸 | 1 |
 | 14. | Tony Maggs 🇿🇦 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

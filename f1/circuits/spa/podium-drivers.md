@@ -264,3 +264,5 @@ new Chart("chart", {
 | 68. | Tony Brooks 🇬🇧 | 1 |
 | 69. | Valtteri Bottas 🇫🇮 | 1 |
 | 70. | Wolfgang von Trips 🇩🇪 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

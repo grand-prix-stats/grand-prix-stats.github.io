@@ -105,3 +105,5 @@ new Chart("chart", {
 | 15. | Jody Scheckter 🇿🇦 | 1 |
 | 16. | Mario Andretti 🇺🇸 | 1 |
 | 17. | Mark Donohue 🇺🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

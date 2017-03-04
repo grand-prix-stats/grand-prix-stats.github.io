@@ -123,3 +123,5 @@ new Chart("chart", {
 | 21. | Nigel Mansell 🇬🇧 | 1 |
 | 22. | Niki Lauda 🇦🇹 | 1 |
 | 23. | René Arnoux 🇫🇷 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,10 +3,9 @@ title: List of All Formula 1® Races at Nivelles-Baulers
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 1974 | 5 | Belgian Grand Prix | 85 | 1:44:20.57 |
 | 1972 | 5 | Belgian Grand Prix | 85 | 1:44:07.3 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

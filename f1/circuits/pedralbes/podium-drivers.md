@@ -69,3 +69,5 @@ new Chart("chart", {
 | 3. | Luigi Musso 🇮🇹 | 1 |
 | 4. | Mike Hawthorn 🇬🇧 | 1 |
 | 5. | Nino Farina 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

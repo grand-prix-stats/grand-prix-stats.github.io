@@ -63,3 +63,5 @@ new Chart("chart", {
 | 1. | Bob Anderson 🇬🇧 | 1 |
 | 2. | Lorenzo Bandini 🇮🇹 | 1 |
 | 3. | Richie Ginther 🇺🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

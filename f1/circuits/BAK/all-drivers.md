@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Baku City Circuit
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Carlos Sainz 🇪🇸 | 1 |
@@ -29,4 +28,4 @@ layout: page
 | Sergio Pérez 🇲🇽 | 1 |
 | Valtteri Bottas 🇫🇮 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

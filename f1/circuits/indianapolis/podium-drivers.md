@@ -165,3 +165,5 @@ new Chart("chart", {
 | 35. | Tiago Monteiro 🇵🇹 | 1 |
 | 36. | Tony Bettenhausen 🇺🇸 | 1 |
 | 37. | Troy Ruttman 🇺🇸 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

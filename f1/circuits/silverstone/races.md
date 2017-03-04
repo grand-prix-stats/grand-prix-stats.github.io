@@ -3,7 +3,6 @@ title: List of All Formula 1® Races at Silverstone Circuit
 layout: page
 ---
 
-
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
 | 2016 | 10 | British Grand Prix | 52 | 1:34:55.831 |
@@ -57,4 +56,4 @@ layout: page
 | 1951 | 5 | British Grand Prix | 90 | 2:42:18.2 |
 | 1950 | 1 | British Grand Prix | 70 | 2:13:23.6 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

@@ -3,7 +3,6 @@ title: List of All Formula 1® Drivers that Have Raced at Reims-Gueux
 layout: page
 ---
 
-
 | Driver | Times |
 |--|--|
 | Maurice Trintignant 🇫🇷 | 9 |
@@ -119,4 +118,4 @@ layout: page
 | Troy Ruttman 🇺🇸 | 1 |
 | Wolfgang Seidel 🇩🇪 | 1 |
 
-
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

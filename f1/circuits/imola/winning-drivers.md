@@ -96,3 +96,5 @@ new Chart("chart", {
 | 12. | Patrick Tambay 🇫🇷 | 1 |
 | 13. | Ralf Schumacher 🇩🇪 | 1 |
 | 14. | Riccardo Patrese 🇮🇹 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>

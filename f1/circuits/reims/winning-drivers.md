@@ -78,3 +78,5 @@ new Chart("chart", {
 | 6. | Luigi Fagioli 🇮🇹 | 1 |
 | 7. | Peter Collins 🇬🇧 | 1 |
 | 8. | Tony Brooks 🇬🇧 | 1 |
+
+<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
