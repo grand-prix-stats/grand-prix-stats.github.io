@@ -1,40 +1,40 @@
-participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,fullname,did_not_finish,first_win,fastestlaps,races_finished,fullname_flag,first_race,poles,subchampionships,year,wins,forename,finished_in_points,country
-1,cogan,0.0,1956-03-31,1,,214,0,1981-03-15,,0,🇺🇸,Cogan,us,,0,Kevin Cogan,0,,0,0,Kevin Cogan 🇺🇸,1981-03-15,0,0,1981,0,Kevin,0,USA
-1,londono,0.0,1949-08-08,1,,218,0,1981-03-29,,0,🇨🇴,Londoño,co,,0,Ricardo Londoño,0,,0,0,Ricardo Londoño 🇨🇴,1981-03-29,0,0,1981,0,Ricardo,0,Colombia
-1,francia,0.0,1947-11-08,1,,220,0,1981-06-21,,0,🇮🇹,Francia,it,,0,Giorgio Francia,0,,0,0,Giorgio Francia 🇮🇹,1981-06-21,0,0,1981,0,Giorgio,0,Italy
-12,warwick,0.0,1954-08-27,11,,118,0,1981-10-17,,0,🇬🇧,Warwick,gb,,0,Derek Warwick,1,,0,0,Derek Warwick 🇬🇧,1981-05-03,0,0,1981,0,Derek,0,UK
-12,alboreto,0.0,1956-12-23,2,,105,0,1981-10-17,,0,🇮🇹,Alboreto,it,,1,Michele Alboreto,5,,0,5,Michele Alboreto 🇮🇹,1981-05-03,0,0,1981,0,Michele,0,Italy
-12,henton,0.0,1946-09-19,11,,205,0,1981-10-17,,0,🇬🇧,Henton,gb,,1,Brian Henton,0,,0,1,Brian Henton 🇬🇧,1981-05-03,0,0,1981,0,Brian,0,UK
-12,borgudd,1.0,1946-11-25,5,,201,0,1981-10-17,,0,🇸🇪,Borgudd,se,,2,Slim Borgudd,4,,0,3,Slim Borgudd 🇸🇪,1981-05-03,0,0,1981,0,Slim,1,Sweden
-13,stohr,0.0,1952-10-10,4,,216,0,1981-09-13,,0,🇮🇹,Stohr,it,,2,Siegfried Stohr,6,,0,3,Siegfried Stohr 🇮🇹,1981-03-15,0,0,1981,0,Siegfried,0,Italy
-14,surer,4.0,1951-09-18,1,,176,0,1981-10-17,,0,🇨🇭,Surer,ch,,5,Marc Surer,4,,0,9,Marc Surer 🇨🇭,1981-03-15,0,0,1981,0,Marc,2,Switzerland
-14,serra,0.0,1957-02-03,8,,192,0,1981-10-17,,0,🇧🇷,Serra,br,,1,Chico Serra,4,,0,2,Chico Serra 🇧🇷,1981-03-15,0,0,1981,0,Chico,0,Brazil
-14,keke_rosberg,0.0,1948-12-06,5,,177,0,1981-10-17,,0,🇫🇮,Rosberg,fi,,2,Keke Rosberg,6,,0,3,Keke Rosberg 🇫🇮,1981-03-15,0,0,1981,0,Keke,0,Finland
-15,piquet,50.0,1952-08-17,0,1981-08-02,137,7,1981-10-17,,1,🇧🇷,Piquet,br,,10,Nelson Piquet,4,1981-04-12,0,11,Nelson Piquet 🇧🇷,1981-03-15,4,0,1981,3,Nelson,10,Brazil
-15,cheever,10.0,1958-01-10,1,,158,0,1981-10-17,,0,🇺🇸,Cheever,us,,5,Eddie Cheever,7,,0,7,Eddie Cheever 🇺🇸,1981-03-15,0,0,1981,0,Eddie,5,USA
-15,cesaris,1.0,1959-05-31,1,,110,0,1981-10-17,,0,🇮🇹,de Cesaris,it,,3,Andrea de Cesaris,8,,0,6,Andrea de Cesaris 🇮🇹,1981-03-15,0,0,1981,0,Andrea,1,Italy
-15,daly,0.0,1953-03-11,7,,206,0,1981-10-17,,0,🇮🇪,Daly,ie,,2,Derek Daly,4,,0,4,Derek Daly 🇮🇪,1981-03-15,0,0,1981,0,Derek,0,Ireland
-15,arnoux,11.0,1948-07-04,1,,163,1,1981-10-17,,0,🇫🇷,Arnoux,fr,,7,René Arnoux,6,,0,8,René Arnoux 🇫🇷,1981-03-15,4,0,1981,0,René,3,France
-15,gabbiani,0.0,1957-01-02,12,,213,0,1981-10-17,,0,🇮🇹,Gabbiani,it,,0,Beppe Gabbiani,3,,0,0,Beppe Gabbiani 🇮🇹,1981-03-15,0,0,1981,0,Beppe,0,Italy
-15,laffite,44.0,1943-11-21,0,1981-09-27,172,7,1981-10-17,,0,🇫🇷,Laffite,fr,,9,Jacques Laffite,6,1981-08-16,0,9,Jacques Laffite 🇫🇷,1981-03-15,1,0,1981,2,Jacques,9,France
-15,giacomelli,7.0,1952-09-10,0,,152,1,1981-10-17,,0,🇮🇹,Giacomelli,it,,6,Bruno Giacomelli,7,,0,8,Bruno Giacomelli 🇮🇹,1981-03-15,0,0,1981,0,Bruno,2,Italy
-15,prost,43.0,1955-02-24,0,1981-09-13,117,6,1981-10-17,,0,🇫🇷,Prost,fr,,6,Alain Prost,9,1981-07-05,0,6,Alain Prost 🇫🇷,1981-03-15,2,0,1981,3,Alain,6,France
-15,angelis,14.0,1958-03-26,1,,173,0,1981-10-17,,0,🇮🇹,de Angelis,it,,10,Elio de Angelis,4,,0,10,Elio de Angelis 🇮🇹,1981-03-15,0,0,1981,0,Elio,8,Italy
-15,tambay,1.0,1949-06-25,1,,175,0,1981-10-17,,0,🇫🇷,Tambay,fr,,3,Patrick Tambay,9,,0,5,Patrick Tambay 🇫🇷,1981-03-15,0,0,1981,0,Patrick,1,France
-15,gilles_villeneuve,25.0,1950-01-18,0,1981-06-21,203,3,1981-10-17,,0,🇨🇦,Villeneuve,ca,,6,Gilles Villeneuve,9,1981-05-31,0,6,Gilles Villeneuve 🇨🇦,1981-03-15,1,0,1981,2,Gilles,4,Canada
-15,watson,27.0,1946-05-04,0,1981-07-18,187,4,1981-10-17,,0,🇬🇧,Watson,gb,,10,John Watson,5,1981-07-18,0,10,John Watson 🇬🇧,1981-03-15,0,0,1981,1,John,6,UK
-15,jones,46.0,1946-11-02,0,1981-10-17,178,6,1981-10-17,,0,🇦🇺,Jones,au,,9,Alan Jones,3,1981-03-15,0,12,Alan Jones 🇦🇺,1981-03-15,0,0,1981,2,Alan,8,Australia
-15,reutemann,49.0,1942-04-12,0,1981-05-17,199,7,1981-10-17,,0,🇦🇷,Reutemann,ar,,12,Carlos Reutemann,3,1981-03-29,0,12,Carlos Reutemann 🇦🇷,1981-03-15,2,1,1981,2,Carlos,9,Argentina
-15,mansell,8.0,1953-08-08,2,,95,1,1981-10-17,,0,🇬🇧,Mansell,gb,,4,Nigel Mansell,8,,0,5,Nigel Mansell 🇬🇧,1981-03-15,0,0,1981,0,Nigel,3,UK
-15,mario_andretti,3.0,1940-02-28,0,,207,0,1981-10-17,,0,🇺🇸,Andretti,us,,7,Mario Andretti,8,,0,7,Mario Andretti 🇺🇸,1981-03-15,0,0,1981,0,Mario,1,USA
-15,patrese,10.0,1957-04-17,0,,119,2,1981-10-17,,0,🇮🇹,Patrese,it,,4,Riccardo Patrese,9,,0,6,Riccardo Patrese 🇮🇹,1981-03-15,1,0,1981,0,Riccardo,2,Italy
-15,pironi,9.0,1952-03-26,0,,202,0,1981-10-17,,0,🇫🇷,Pironi,fr,,7,Didier Pironi,7,,0,8,Didier Pironi 🇫🇷,1981-03-15,0,0,1981,0,Didier,4,France
-15,rebaque,11.0,1956-02-05,1,,212,0,1981-10-17,,0,🇲🇽,Rebaque,mx,,5,Hector Rebaque,9,,0,5,Hector Rebaque 🇲🇽,1981-03-15,0,0,1981,0,Hector,4,Mexico
-15,salazar,1.0,1954-11-14,6,,194,0,1981-10-17,,0,🇨🇱,Salazar,cl,,1,Eliseo Salazar,7,,0,2,Eliseo Salazar 🇨🇱,1981-03-15,0,0,1981,0,Eliseo,1,Chile
-2,ghinzani,0.0,1952-01-16,1,,160,0,1981-05-31,,0,🇮🇹,Ghinzani,it,,0,Piercarlo Ghinzani,0,,0,1,Piercarlo Ghinzani 🇮🇹,1981-05-17,0,0,1981,0,Piercarlo,0,Italy
-2,villeneuve_sr,0.0,1953-11-04,2,,198,0,1981-10-17,,0,🇨🇦,Villeneuve Sr.,ca,,0,Jacques Villeneuve Sr.,0,,0,0,Jacques Villeneuve Sr. 🇨🇦,1981-09-27,0,0,1981,0,Jacques,0,Canada
-2,zunino,0.0,1949-04-13,0,,217,0,1981-04-12,,0,🇦🇷,Zunino,ar,,0,Ricardo Zunino,0,,0,2,Ricardo Zunino 🇦🇷,1981-03-29,0,0,1981,0,Ricardo,0,Argentina
-4,lammers,0.0,1956-06-02,2,,136,0,1981-05-03,,0,🇳🇱,Lammers,nl,,0,Jan Lammers,1,,0,1,Jan Lammers 🇳🇱,1981-03-15,0,0,1981,0,Jan,0,Netherlands
-4,guerra,0.0,1953-08-31,3,,215,0,1981-05-03,,0,🇦🇷,Guerra,ar,,0,Miguel Ángel Guerra,1,,0,0,Miguel Ángel Guerra 🇦🇷,1981-03-15,0,0,1981,0,Miguel Ángel,0,Argentina
-5,jabouille,0.0,1942-10-01,2,,219,0,1981-06-21,,0,🇫🇷,Jabouille,fr,,0,Jean-Pierre Jabouille,3,,0,0,Jean-Pierre Jabouille 🇫🇷,1981-04-12,0,0,1981,0,Jean-Pierre,0,France
-9,jarier,0.0,1946-07-10,0,,197,0,1981-10-17,,0,🇫🇷,Jarier,fr,,5,Jean-Pierre Jarier,4,,0,5,Jean-Pierre Jarier 🇫🇷,1981-03-15,0,0,1981,0,Jean-Pierre,0,France
+participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,did_not_finish,first_win,fastestlaps,races_finished,first_race,poles,subchampionships,year,wins,forename,finished_in_points,country
+1,cogan,0.0,1956-03-31,1,,214,0,1981-03-15,,0,🇺🇸,Cogan,us,,0,0,,0,0,1981-03-15,0,0,1981,0,Kevin,0,USA
+1,londono,0.0,1949-08-08,1,,218,0,1981-03-29,,0,🇨🇴,Londoño,co,,0,0,,0,0,1981-03-29,0,0,1981,0,Ricardo,0,Colombia
+1,francia,0.0,1947-11-08,1,,220,0,1981-06-21,,0,🇮🇹,Francia,it,,0,0,,0,0,1981-06-21,0,0,1981,0,Giorgio,0,Italy
+12,warwick,0.0,1954-08-27,11,,118,0,1981-10-17,,0,🇬🇧,Warwick,gb,,0,1,,0,0,1981-05-03,0,0,1981,0,Derek,0,UK
+12,alboreto,0.0,1956-12-23,2,,105,0,1981-10-17,,0,🇮🇹,Alboreto,it,,1,5,,0,5,1981-05-03,0,0,1981,0,Michele,0,Italy
+12,henton,0.0,1946-09-19,11,,205,0,1981-10-17,,0,🇬🇧,Henton,gb,,1,0,,0,1,1981-05-03,0,0,1981,0,Brian,0,UK
+12,borgudd,1.0,1946-11-25,5,,201,0,1981-10-17,,0,🇸🇪,Borgudd,se,,2,4,,0,3,1981-05-03,0,0,1981,0,Slim,1,Sweden
+13,stohr,0.0,1952-10-10,4,,216,0,1981-09-13,,0,🇮🇹,Stohr,it,,2,6,,0,3,1981-03-15,0,0,1981,0,Siegfried,0,Italy
+14,surer,4.0,1951-09-18,1,,176,0,1981-10-17,,0,🇨🇭,Surer,ch,,5,4,,0,9,1981-03-15,0,0,1981,0,Marc,2,Switzerland
+14,serra,0.0,1957-02-03,8,,192,0,1981-10-17,,0,🇧🇷,Serra,br,,1,4,,0,2,1981-03-15,0,0,1981,0,Chico,0,Brazil
+14,keke_rosberg,0.0,1948-12-06,5,,177,0,1981-10-17,,0,🇫🇮,Rosberg,fi,,2,6,,0,3,1981-03-15,0,0,1981,0,Keke,0,Finland
+15,piquet,50.0,1952-08-17,0,1981-08-02,137,7,1981-10-17,,1,🇧🇷,Piquet,br,,10,4,1981-04-12,0,11,1981-03-15,4,0,1981,3,Nelson,10,Brazil
+15,cheever,10.0,1958-01-10,1,,158,0,1981-10-17,,0,🇺🇸,Cheever,us,,5,7,,0,7,1981-03-15,0,0,1981,0,Eddie,5,USA
+15,cesaris,1.0,1959-05-31,1,,110,0,1981-10-17,,0,🇮🇹,de Cesaris,it,,3,8,,0,6,1981-03-15,0,0,1981,0,Andrea,1,Italy
+15,daly,0.0,1953-03-11,7,,206,0,1981-10-17,,0,🇮🇪,Daly,ie,,2,4,,0,4,1981-03-15,0,0,1981,0,Derek,0,Ireland
+15,arnoux,11.0,1948-07-04,1,,163,1,1981-10-17,,0,🇫🇷,Arnoux,fr,,7,6,,0,8,1981-03-15,4,0,1981,0,René,3,France
+15,gabbiani,0.0,1957-01-02,12,,213,0,1981-10-17,,0,🇮🇹,Gabbiani,it,,0,3,,0,0,1981-03-15,0,0,1981,0,Beppe,0,Italy
+15,laffite,44.0,1943-11-21,0,1981-09-27,172,7,1981-10-17,,0,🇫🇷,Laffite,fr,,9,6,1981-08-16,0,9,1981-03-15,1,0,1981,2,Jacques,9,France
+15,giacomelli,7.0,1952-09-10,0,,152,1,1981-10-17,,0,🇮🇹,Giacomelli,it,,6,7,,0,8,1981-03-15,0,0,1981,0,Bruno,2,Italy
+15,prost,43.0,1955-02-24,0,1981-09-13,117,6,1981-10-17,,0,🇫🇷,Prost,fr,,6,9,1981-07-05,0,6,1981-03-15,2,0,1981,3,Alain,6,France
+15,angelis,14.0,1958-03-26,1,,173,0,1981-10-17,,0,🇮🇹,de Angelis,it,,10,4,,0,10,1981-03-15,0,0,1981,0,Elio,8,Italy
+15,tambay,1.0,1949-06-25,1,,175,0,1981-10-17,,0,🇫🇷,Tambay,fr,,3,9,,0,5,1981-03-15,0,0,1981,0,Patrick,1,France
+15,gilles_villeneuve,25.0,1950-01-18,0,1981-06-21,203,3,1981-10-17,,0,🇨🇦,Villeneuve,ca,,6,9,1981-05-31,0,6,1981-03-15,1,0,1981,2,Gilles,4,Canada
+15,watson,27.0,1946-05-04,0,1981-07-18,187,4,1981-10-17,,0,🇬🇧,Watson,gb,,10,5,1981-07-18,0,10,1981-03-15,0,0,1981,1,John,6,UK
+15,jones,46.0,1946-11-02,0,1981-10-17,178,6,1981-10-17,,0,🇦🇺,Jones,au,,9,3,1981-03-15,0,12,1981-03-15,0,0,1981,2,Alan,8,Australia
+15,reutemann,49.0,1942-04-12,0,1981-05-17,199,7,1981-10-17,,0,🇦🇷,Reutemann,ar,,12,3,1981-03-29,0,12,1981-03-15,2,1,1981,2,Carlos,9,Argentina
+15,mansell,8.0,1953-08-08,2,,95,1,1981-10-17,,0,🇬🇧,Mansell,gb,,4,8,,0,5,1981-03-15,0,0,1981,0,Nigel,3,UK
+15,mario_andretti,3.0,1940-02-28,0,,207,0,1981-10-17,,0,🇺🇸,Andretti,us,,7,8,,0,7,1981-03-15,0,0,1981,0,Mario,1,USA
+15,patrese,10.0,1957-04-17,0,,119,2,1981-10-17,,0,🇮🇹,Patrese,it,,4,9,,0,6,1981-03-15,1,0,1981,0,Riccardo,2,Italy
+15,pironi,9.0,1952-03-26,0,,202,0,1981-10-17,,0,🇫🇷,Pironi,fr,,7,7,,0,8,1981-03-15,0,0,1981,0,Didier,4,France
+15,rebaque,11.0,1956-02-05,1,,212,0,1981-10-17,,0,🇲🇽,Rebaque,mx,,5,9,,0,5,1981-03-15,0,0,1981,0,Hector,4,Mexico
+15,salazar,1.0,1954-11-14,6,,194,0,1981-10-17,,0,🇨🇱,Salazar,cl,,1,7,,0,2,1981-03-15,0,0,1981,0,Eliseo,1,Chile
+2,ghinzani,0.0,1952-01-16,1,,160,0,1981-05-31,,0,🇮🇹,Ghinzani,it,,0,0,,0,1,1981-05-17,0,0,1981,0,Piercarlo,0,Italy
+2,villeneuve_sr,0.0,1953-11-04,2,,198,0,1981-10-17,,0,🇨🇦,Villeneuve Sr.,ca,,0,0,,0,0,1981-09-27,0,0,1981,0,Jacques,0,Canada
+2,zunino,0.0,1949-04-13,0,,217,0,1981-04-12,,0,🇦🇷,Zunino,ar,,0,0,,0,2,1981-03-29,0,0,1981,0,Ricardo,0,Argentina
+4,lammers,0.0,1956-06-02,2,,136,0,1981-05-03,,0,🇳🇱,Lammers,nl,,0,1,,0,1,1981-03-15,0,0,1981,0,Jan,0,Netherlands
+4,guerra,0.0,1953-08-31,3,,215,0,1981-05-03,,0,🇦🇷,Guerra,ar,,0,1,,0,0,1981-03-15,0,0,1981,0,Miguel Ángel,0,Argentina
+5,jabouille,0.0,1942-10-01,2,,219,0,1981-06-21,,0,🇫🇷,Jabouille,fr,,0,3,,0,0,1981-04-12,0,0,1981,0,Jean-Pierre,0,France
+9,jarier,0.0,1946-07-10,0,,197,0,1981-10-17,,0,🇫🇷,Jarier,fr,,5,4,,0,5,1981-03-15,0,0,1981,0,Jean-Pierre,0,France
