@@ -1,834 +1,1022 @@
 [
     {
-        "name": "Adams",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Adams"
     },
     {
-        "name": "AFM",
-        "nationality": "German"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "AFM"
     },
     {
-        "name": "AGS",
-        "nationality": "French"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "AGS"
     },
     {
-        "name": "Alfa Romeo",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Alfa Romeo"
     },
     {
-        "name": "Alta",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Alta"
     },
     {
-        "name": "Amon",
-        "nationality": "New Zealand"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Andrea Moda"
     },
     {
-        "name": "Andrea Moda",
-        "nationality": "Italian"
+        "country": "Switzerland",
+        "flag": "🇨🇭",
+        "name": "Apollon"
     },
     {
-        "name": "Apollon",
-        "nationality": "Swiss"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Arrows"
     },
     {
-        "name": "Arrows",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Arzani-Volpini"
     },
     {
-        "name": "Arzani-Volpini",
-        "nationality": "Italian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Aston Butterworth"
     },
     {
-        "name": "Aston Butterworth",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Aston Martin"
     },
     {
-        "name": "Aston Martin",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "ATS"
     },
     {
-        "name": "ATS",
-        "nationality": "Italian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "BAR"
     },
     {
-        "name": "BAR",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Behra-Porsche"
     },
     {
-        "name": "Behra-Porsche",
-        "nationality": "Italian"
+        "country": "Switzerland",
+        "flag": "🇨🇭",
+        "name": "Bellasi"
     },
     {
-        "name": "Bellasi",
-        "nationality": "Swiss"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Benetton"
     },
     {
-        "name": "Benetton",
-        "nationality": "Italian"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "BMW"
     },
     {
-        "name": "BMW",
-        "nationality": "German"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "BMW Sauber"
     },
     {
-        "name": "BMW Sauber",
-        "nationality": "German"
+        "country": "Netherlands",
+        "flag": "🇳🇱",
+        "name": "Boro"
     },
     {
-        "name": "Boro",
-        "nationality": "Dutch"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brabham"
     },
     {
-        "name": "Brabham",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brabham-Alfa Romeo"
     },
     {
-        "name": "Brabham-Alfa Romeo",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brabham-BRM"
     },
     {
-        "name": "Brabham-BRM",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brabham-Climax"
     },
     {
-        "name": "Brabham-Climax",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brabham-Ford"
     },
     {
-        "name": "Brabham-Ford",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brabham-Repco"
     },
     {
-        "name": "Brabham-Repco",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Brawn"
     },
     {
-        "name": "Brawn",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "BRM"
     },
     {
-        "name": "BRM",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "BRM-Ford"
     },
     {
-        "name": "BRM-Ford",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Bromme"
     },
     {
-        "name": "Bromme",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "BRP"
     },
     {
-        "name": "BRP",
-        "nationality": "British"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Bugatti"
     },
     {
-        "name": "Bugatti",
-        "nationality": "French"
+        "country": "Malaysia",
+        "flag": "🇲🇾",
+        "name": "Caterham"
     },
     {
-        "name": "Caterham",
-        "nationality": "Malaysian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Christensen"
     },
     {
-        "name": "Christensen",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Cisitalia"
     },
     {
-        "name": "Cisitalia",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Coloni"
     },
     {
-        "name": "Coloni",
-        "nationality": "Italian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Connaught"
     },
     {
-        "name": "Connaught",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Connew"
     },
     {
-        "name": "Connew",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper"
     },
     {
-        "name": "Cooper",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Alfa Romeo"
     },
     {
-        "name": "Cooper-Alfa Romeo",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-ATS"
     },
     {
-        "name": "Cooper-ATS",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Borgward"
     },
     {
-        "name": "Cooper-Borgward",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-BRM"
     },
     {
-        "name": "Cooper-BRM",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Castellotti"
     },
     {
-        "name": "Cooper-Castellotti",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Climax"
     },
     {
-        "name": "Cooper-Climax",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Ferrari"
     },
     {
-        "name": "Cooper-Ferrari",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Ford"
     },
     {
-        "name": "Cooper-Ford",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-Maserati"
     },
     {
-        "name": "Cooper-Maserati",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Cooper-OSCA"
     },
     {
-        "name": "Cooper-OSCA",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Dallara"
     },
     {
-        "name": "Dallara",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "De Tomaso"
     },
     {
-        "name": "De Tomaso",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "De Tomaso-Alfa Romeo"
     },
     {
-        "name": "De Tomaso-Alfa Romeo",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "De Tomaso-Ferrari"
     },
     {
-        "name": "De Tomaso-Ferrari",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "De Tomaso-Osca"
     },
     {
-        "name": "De Tomaso-Osca",
-        "nationality": "Italian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Deidt"
     },
     {
-        "name": "Deidt",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Del Roy"
     },
     {
-        "name": "Del Roy",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Derrington"
     },
     {
-        "name": "Derrington",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Dunn"
     },
     {
-        "name": "Dunn",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Eagle-Climax"
     },
     {
-        "name": "Eagle",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Eagle-Weslake"
     },
     {
-        "name": "Eagle-Climax",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Elder"
     },
     {
-        "name": "Eagle-Weslake",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Embassy Hill"
     },
     {
-        "name": "Elder",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Emeryson"
     },
     {
-        "name": "Embassy Hill",
-        "nationality": "British"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "EMW"
     },
     {
-        "name": "Emeryson",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Ensign"
     },
     {
-        "name": "EMW",
-        "nationality": "East German"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Epperly"
     },
     {
-        "name": "ENB",
-        "nationality": "Belgium"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "ERA"
     },
     {
-        "name": "Ensign",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Euro Brun"
     },
     {
-        "name": "Epperly",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Ewing"
     },
     {
-        "name": "ERA",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Ferguson"
     },
     {
-        "name": "Euro Brun",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Ferrari"
     },
     {
-        "name": "Ewing",
-        "nationality": "American"
+        "country": "Brazil",
+        "flag": "🇧🇷",
+        "name": "Fittipaldi"
     },
     {
-        "name": "Ferguson",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Fondmetal"
     },
     {
-        "name": "Ferrari",
-        "nationality": "Italian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Footwork"
     },
     {
-        "name": "Fittipaldi",
-        "nationality": "Brazilian"
+        "country": "India",
+        "flag": "🇮🇳",
+        "name": "Force India"
     },
     {
-        "name": "Fondmetal",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Forti"
     },
     {
-        "name": "Footwork",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Frazer Nash"
     },
     {
-        "name": "Force India",
-        "nationality": "Indian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Fry"
     },
     {
-        "name": "Forti",
-        "nationality": "Italian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Gilby"
     },
     {
-        "name": "Frazer Nash",
-        "nationality": "British"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Gordini"
     },
     {
-        "name": "Fry",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Haas F1 Team"
     },
     {
-        "name": "Gilby",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Hall"
     },
     {
-        "name": "Gordini",
-        "nationality": "French"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Hesketh"
     },
     {
-        "name": "Haas F1 Team",
-        "nationality": "American"
+        "country": "Japan",
+        "flag": "🇯🇵",
+        "name": "Honda"
     },
     {
-        "name": "Hall",
-        "nationality": "American"
+        "country": "Spain",
+        "flag": "🇪🇸",
+        "name": "HRT"
     },
     {
-        "name": "Hesketh",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "HWM"
     },
     {
-        "name": "Honda",
-        "nationality": "Japanese"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Iso Marlboro"
     },
     {
-        "name": "HRT",
-        "nationality": "Spanish"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Jaguar"
     },
     {
-        "name": "HWM",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "JBW"
     },
     {
-        "name": "Iso Marlboro",
-        "nationality": "British"
+        "country": "Ireland",
+        "flag": "🇮🇪",
+        "name": "Jordan"
     },
     {
-        "name": "Jaguar",
-        "nationality": "British"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Kauhsen"
     },
     {
-        "name": "JBW",
-        "nationality": "British"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Klenk"
     },
     {
-        "name": "Jordan",
-        "nationality": "Irish"
+        "country": "Japan",
+        "flag": "🇯🇵",
+        "name": "Kojima"
     },
     {
-        "name": "Kauhsen",
-        "nationality": "German"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Kurtis Kraft"
     },
     {
-        "name": "Klenk",
-        "nationality": "German"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Kuzma"
     },
     {
-        "name": "Kojima",
-        "nationality": "Japanese"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Lambo"
     },
     {
-        "name": "Kurtis Kraft",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Lancia"
     },
     {
-        "name": "Kuzma",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Langley"
     },
     {
-        "name": "Lambo",
-        "nationality": "Italian"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Larrousse"
     },
     {
-        "name": "Lancia",
-        "nationality": "Italian"
+        "country": "South Africa",
+        "flag": "🇿🇦",
+        "name": "LDS"
     },
     {
-        "name": "Langley",
-        "nationality": "American"
+        "country": "South Africa",
+        "flag": "🇿🇦",
+        "name": "LDS-Alfa Romeo"
     },
     {
-        "name": "Larrousse",
-        "nationality": "French"
+        "country": "South Africa",
+        "flag": "🇿🇦",
+        "name": "LDS-Climax"
     },
     {
-        "name": "LDS",
-        "nationality": "South African"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "LEC"
     },
     {
-        "name": "LDS-Alfa Romeo",
-        "nationality": "South African"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Lesovsky"
     },
     {
-        "name": "LDS-Climax",
-        "nationality": "South African"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Leyton House"
     },
     {
-        "name": "LEC",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Life"
     },
     {
-        "name": "Lesovsky",
-        "nationality": "American"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Ligier"
     },
     {
-        "name": "Leyton House",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lola"
     },
     {
-        "name": "Life",
-        "nationality": "Italian"
+        "country": "Malaysia",
+        "flag": "🇲🇾",
+        "name": "Lotus"
     },
     {
-        "name": "Ligier",
-        "nationality": "French"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus F1"
     },
     {
-        "name": "Lola",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus-Borgward"
     },
     {
-        "name": "Lotus",
-        "nationality": "Malaysian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus-BRM"
     },
     {
-        "name": "Lotus F1",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus-Climax"
     },
     {
-        "name": "Lotus-Borgward",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus-Ford"
     },
     {
-        "name": "Lotus-BRM",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus-Maserati"
     },
     {
-        "name": "Lotus-Climax",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lotus-Pratt &amp; Whitney"
     },
     {
-        "name": "Lotus-Ford",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Lyncar"
     },
     {
-        "name": "Lotus-Maserati",
-        "nationality": "British"
+        "country": "Japan",
+        "flag": "🇯🇵",
+        "name": "Maki"
     },
     {
-        "name": "Lotus-Pratt &amp; Whitney",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Manor Marussia"
     },
     {
-        "name": "Lyncar",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "March"
     },
     {
-        "name": "Maki",
-        "nationality": "Japanese"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "March-Alfa Romeo"
     },
     {
-        "name": "Manor Marussia",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "March-Ford"
     },
     {
-        "name": "March",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Marchese"
     },
     {
-        "name": "March-Alfa Romeo",
-        "nationality": "British"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Martini"
     },
     {
-        "name": "March-Ford",
-        "nationality": "British"
+        "country": "Russia",
+        "flag": "🇷🇺",
+        "name": "Marussia"
     },
     {
-        "name": "Marchese",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Maserati"
     },
     {
-        "name": "Martini",
-        "nationality": "French"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Matra"
     },
     {
-        "name": "Marussia",
-        "nationality": "Russian"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Matra-Ford"
     },
     {
-        "name": "Maserati",
-        "nationality": "Italian"
+        "country": "Switzerland",
+        "flag": "🇨🇭",
+        "name": "MBM"
     },
     {
-        "name": "Matra",
-        "nationality": "French"
+        "country": "Australia",
+        "flag": "🇦🇺",
+        "name": "McGuire"
     },
     {
-        "name": "Matra-Ford",
-        "nationality": "French"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "McLaren"
     },
     {
-        "name": "MBM",
-        "nationality": "Swiss"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "McLaren-Alfa Romeo"
     },
     {
-        "name": "McGuire",
-        "nationality": "Australian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "McLaren-BRM"
     },
     {
-        "name": "McLaren",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "McLaren-Ford"
     },
     {
-        "name": "McLaren-Alfa Romeo",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "McLaren-Serenissima"
     },
     {
-        "name": "McLaren-BRM",
-        "nationality": "British"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Mercedes"
     },
     {
-        "name": "McLaren-Ford",
-        "nationality": "British"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Merzario"
     },
     {
-        "name": "McLaren-Serenissima",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Meskowski"
     },
     {
-        "name": "Mercedes",
-        "nationality": "German"
+        "country": "Russia",
+        "flag": "🇷🇺",
+        "name": "MF1"
     },
     {
-        "name": "Merzario",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Milano"
     },
     {
-        "name": "Meskowski",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Minardi"
     },
     {
-        "name": "MF1",
-        "nationality": "Russian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Moore"
     },
     {
-        "name": "Milano",
-        "nationality": "Italian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Nichels"
     },
     {
-        "name": "Minardi",
-        "nationality": "Italian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Olson"
     },
     {
-        "name": "Moore",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Onyx"
     },
     {
-        "name": "Nichels",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "OSCA"
     },
     {
-        "name": "Olson",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Osella"
     },
     {
-        "name": "Onyx",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Pacific"
     },
     {
-        "name": "OSCA",
-        "nationality": "Italian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Pankratz"
     },
     {
-        "name": "Osella",
-        "nationality": "Italian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Parnelli"
     },
     {
-        "name": "Pacific",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Pawl"
     },
     {
-        "name": "Pankratz",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Penske"
     },
     {
-        "name": "Parnelli",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Phillips"
     },
     {
-        "name": "Pawl",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Politoys"
     },
     {
-        "name": "Penske",
-        "nationality": "American"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Porsche"
     },
     {
-        "name": "Phillips",
-        "nationality": "American"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Prost"
     },
     {
-        "name": "Politoys",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Protos"
     },
     {
-        "name": "Porsche",
-        "nationality": "German"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Rae"
     },
     {
-        "name": "Prost",
-        "nationality": "French"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "RAM"
     },
     {
-        "name": "Protos",
-        "nationality": "British"
+        "country": "Rhodesia",
+        "flag": "🇿🇼",
+        "name": "RE"
     },
     {
-        "name": "Rae",
-        "nationality": "American"
+        "country": "Mexico",
+        "flag": "🇲🇽",
+        "name": "Rebaque"
     },
     {
-        "name": "RAM",
-        "nationality": "British"
+        "country": "Austria",
+        "flag": "🇦🇹",
+        "name": "Red Bull"
     },
     {
-        "name": "RE",
-        "nationality": "Rhodesian"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Renault"
     },
     {
-        "name": "Rebaque",
-        "nationality": "Mexican"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Rial"
     },
     {
-        "name": "Red Bull",
-        "nationality": "Austrian"
+        "country": "Switzerland",
+        "flag": "🇨🇭",
+        "name": "Sauber"
     },
     {
-        "name": "Renault",
-        "nationality": "French"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Scarab"
     },
     {
-        "name": "Rial",
-        "nationality": "German"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Schroeder"
     },
     {
-        "name": "Sauber",
-        "nationality": "Swiss"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Scirocco"
     },
     {
-        "name": "Scarab",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Shadow"
     },
     {
-        "name": "Schroeder",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Shadow-Ford"
     },
     {
-        "name": "Scirocco",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Shadow-Matra"
     },
     {
-        "name": "Shadow",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Shannon"
     },
     {
-        "name": "Shadow-Ford",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Sherman"
     },
     {
-        "name": "Shadow-Matra",
-        "nationality": "British"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Simca"
     },
     {
-        "name": "Shannon",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Simtek"
     },
     {
-        "name": "Sherman",
-        "nationality": "American"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Snowberger"
     },
     {
-        "name": "Simca",
-        "nationality": "French"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Spirit"
     },
     {
-        "name": "Simtek",
-        "nationality": "British"
+        "country": "Netherlands",
+        "flag": "🇳🇱",
+        "name": "Spyker"
     },
     {
-        "name": "Snowberger",
-        "nationality": "American"
+        "country": "Netherlands",
+        "flag": "🇳🇱",
+        "name": "Spyker MF1"
     },
     {
-        "name": "Spirit",
-        "nationality": "British"
+        "country": "Canada",
+        "flag": "🇨🇦",
+        "name": "Stebro"
     },
     {
-        "name": "Spyker",
-        "nationality": "Dutch"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Stevens"
     },
     {
-        "name": "Spyker MF1",
-        "nationality": "Dutch"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Stewart"
     },
     {
-        "name": "Stebro",
-        "nationality": "Canadian"
+        "country": "Japan",
+        "flag": "🇯🇵",
+        "name": "Super Aguri"
     },
     {
-        "name": "Stevens",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Surtees"
     },
     {
-        "name": "Stewart",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Sutton"
     },
     {
-        "name": "Super Aguri",
-        "nationality": "Japanese"
+        "country": "France",
+        "flag": "🇫🇷",
+        "name": "Talbot-Lago"
     },
     {
-        "name": "Surtees",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Team Lotus"
     },
     {
-        "name": "Sutton",
-        "nationality": "American"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Tec-Mec"
     },
     {
-        "name": "Talbot-Lago",
-        "nationality": "French"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Tecno"
     },
     {
-        "name": "Team Lotus",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Token"
     },
     {
-        "name": "Tec-Mec",
-        "nationality": "Italian"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Toleman"
     },
     {
-        "name": "Tecno",
-        "nationality": "Italian"
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "name": "Toro Rosso"
     },
     {
-        "name": "Theodore",
-        "nationality": "Hong Kong"
+        "country": "Japan",
+        "flag": "🇯🇵",
+        "name": "Toyota"
     },
     {
-        "name": "Token",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Trevis"
     },
     {
-        "name": "Toleman",
-        "nationality": "British"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Trojan"
     },
     {
-        "name": "Toro Rosso",
-        "nationality": "Italian"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Turner"
     },
     {
-        "name": "Toyota",
-        "nationality": "Japanese"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Tyrrell"
     },
     {
-        "name": "Trevis",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Vanwall"
     },
     {
-        "name": "Trojan",
-        "nationality": "British"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Veritas"
     },
     {
-        "name": "Turner",
-        "nationality": "American"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Virgin"
     },
     {
-        "name": "Tyrrell",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Watson"
     },
     {
-        "name": "Vanwall",
-        "nationality": "British"
+        "country": "USA",
+        "flag": "🇺🇸",
+        "name": "Wetteroth"
     },
     {
-        "name": "Veritas",
-        "nationality": "German"
+        "country": "UK",
+        "flag": "🇬🇧",
+        "name": "Williams"
     },
     {
-        "name": "Virgin",
-        "nationality": "British"
+        "country": "Canada",
+        "flag": "🇨🇦",
+        "name": "Wolf"
     },
     {
-        "name": "Watson",
-        "nationality": "American"
-    },
-    {
-        "name": "Wetteroth",
-        "nationality": "American"
-    },
-    {
-        "name": "Williams",
-        "nationality": "British"
-    },
-    {
-        "name": "Wolf",
-        "nationality": "Canadian"
-    },
-    {
-        "name": "Zakspeed",
-        "nationality": "German"
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "name": "Zakspeed"
     }
 ]
