@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Team Constructor Champions by Number of Championships
+title: List of All Formula 1® Constructor Team Champions by Number of Championships
 layout: page
 ---
 

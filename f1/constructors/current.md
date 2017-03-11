@@ -1,5 +1,5 @@
 ---
-title: List of Current Formula 1® Team Constructors by Name
+title: List of Current Formula 1® Constructor Teams by Name
 layout: page
 ---
 
