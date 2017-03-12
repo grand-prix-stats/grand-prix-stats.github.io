@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Malaysian Grand Prix",
+        "race_duration": null,
+        "round": 15,
+        "season": 2017
+    },
+    {
         "laps_completed": 56,
         "name": "Malaysian Grand Prix",
         "race_duration": "1:37:12.776",

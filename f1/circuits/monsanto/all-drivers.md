@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Monsanto Park Circuit
 layout: page
+rowCount: 16
 ---
 
 | Driver | Times |
@@ -22,4 +23,7 @@ layout: page
 | Stirling Moss 🇬🇧 | 1 |
 | Tony Brooks 🇬🇧 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

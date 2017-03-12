@@ -1,6 +1,7 @@
 ---
-title: List of All Formula 1® Races in Sweden
+title: List of All Formula 1® Races in Sweden by Year
 layout: page
+rowCount: 6
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -12,4 +13,7 @@ layout: page
 | 1974 | 7 | Swedish Grand Prix | 80 | 1:58:31.391 |
 | 1973 | 7 | Swedish Grand Prix | 80 | 1:56:46.049 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

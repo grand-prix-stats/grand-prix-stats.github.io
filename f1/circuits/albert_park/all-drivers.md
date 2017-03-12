@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Albert Park Grand Prix Circuit
 layout: page
+rowCount: 105
 ---
 
 | Driver | Times |
@@ -111,4 +112,7 @@ layout: page
 | Yuji Ide 🇯🇵 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

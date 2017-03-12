@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Brazilian Grand Prix",
+        "race_duration": null,
+        "round": 19,
+        "season": 2017
+    },
+    {
         "laps_completed": 71,
         "name": "Brazilian Grand Prix",
         "race_duration": "3:01:01.335",

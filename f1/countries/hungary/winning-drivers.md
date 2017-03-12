@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race in Hungary
+title: List of All Formula 1® Drivers that Have Won a Race in Hungary by Number of Times
 layout: page
 ---
 

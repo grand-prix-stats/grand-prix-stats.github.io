@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in UAE
+title: List of All Formula 1® Races in UAE by Year
 layout: page
+rowCount: 9
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 20 | Abu Dhabi Grand Prix |   |   |
 | 2016 | 21 | Abu Dhabi Grand Prix | 55 | 1:38:04.013 |
 | 2015 | 19 | Abu Dhabi Grand Prix | 55 | 1:38:30.175 |
 | 2014 | 19 | Abu Dhabi Grand Prix | 55 | 1:39:02.619 |
@@ -14,4 +16,7 @@ layout: page
 | 2010 | 19 | Abu Dhabi Grand Prix | 55 | 1:39:36.837 |
 | 2009 | 17 | Abu Dhabi Grand Prix | 55 | 1:34:03.414 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

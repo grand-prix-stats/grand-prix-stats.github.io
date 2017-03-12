@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Kyalami
 layout: page
+rowCount: 20
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -26,4 +27,7 @@ layout: page
 | 1968 | 1 | South African Grand Prix | 80 | 1:53:56.6 |
 | 1967 | 1 | South African Grand Prix | 80 | 2:05:45.9 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

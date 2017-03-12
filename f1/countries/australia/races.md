@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Australia
+title: List of All Formula 1® Races in Australia by Year
 layout: page
+rowCount: 33
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 1 | Australian Grand Prix |   |   |
 | 2016 | 1 | Australian Grand Prix | 57 | 1:48:15.565 |
 | 2015 | 1 | Australian Grand Prix | 58 | 1:31:54.067 |
 | 2014 | 1 | Australian Grand Prix | 57 | 1:32:58.710 |
@@ -38,4 +40,7 @@ layout: page
 | 1986 | 16 | Australian Grand Prix | 82 | 1:54:20.388 |
 | 1985 | 16 | Australian Grand Prix | 82 | 2:00:40.473 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

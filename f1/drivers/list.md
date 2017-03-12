@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers by Surname
 layout: page
+rowCount: 838
 ---
 
 | Forename | Surname | Country | Flag |
@@ -844,4 +845,7 @@ layout: page
 | Renzo | Zorzi | [Italy](/f1/countries/italy) | 🇮🇹 |
 | Ricardo | Zunino | [Argentina](/f1/countries/argentina) | 🇦🇷 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuito de Jerez
 layout: page
+rowCount: 7
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -13,4 +14,7 @@ layout: page
 | 1987 | 13 | Spanish Grand Prix | 72 | 1:49:12.692 |
 | 1986 | 2 | Spanish Grand Prix | 72 | 1:48:47.735 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Bahrain Grand Prix",
+        "race_duration": null,
+        "round": 3,
+        "season": 2017
+    },
+    {
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:33:34.696",

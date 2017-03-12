@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Canada
+title: List of All Formula 1® Races in Canada by Year
 layout: page
+rowCount: 48
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 7 | Canadian Grand Prix |   |   |
 | 2016 | 7 | Canadian Grand Prix | 70 | 1:31:05.296 |
 | 2015 | 7 | Canadian Grand Prix | 70 | 1:31:53.145 |
 | 2014 | 7 | Canadian Grand Prix | 70 | 1:39:12.830 |
@@ -53,4 +55,7 @@ layout: page
 | 1968 | 10 | Canadian Grand Prix | 90 | 2:27:11.2 |
 | 1967 | 8 | Canadian Grand Prix | 90 | 2:40:40.0 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

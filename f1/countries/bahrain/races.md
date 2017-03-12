@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Bahrain
+title: List of All Formula 1® Races in Bahrain by Year
 layout: page
+rowCount: 13
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 3 | Bahrain Grand Prix |   |   |
 | 2016 | 2 | Bahrain Grand Prix | 57 | 1:33:34.696 |
 | 2015 | 4 | Bahrain Grand Prix | 57 | 1:35:05.809 |
 | 2014 | 3 | Bahrain Grand Prix | 57 | 1:39:42.743 |
@@ -18,4 +20,7 @@ layout: page
 | 2005 | 3 | Bahrain Grand Prix | 57 | 1:29:18.531 |
 | 2004 | 3 | Bahrain Grand Prix | 57 | 1:28:34.875 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

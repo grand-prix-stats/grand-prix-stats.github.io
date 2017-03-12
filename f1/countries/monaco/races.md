@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Monaco
+title: List of All Formula 1® Races in Monaco by Year
 layout: page
+rowCount: 64
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 6 | Monaco Grand Prix |   |   |
 | 2016 | 6 | Monaco Grand Prix | 78 | 1:59:29.133 |
 | 2015 | 6 | Monaco Grand Prix | 78 | 1:49:18.420 |
 | 2014 | 6 | Monaco Grand Prix | 78 | 1:49:27.661 |
@@ -69,4 +71,7 @@ layout: page
 | 1955 | 2 | Monaco Grand Prix | 100 | 2:58:09.8 |
 | 1950 | 2 | Monaco Grand Prix | 100 | 3:13:18.7 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Fuji Speedway
 layout: page
+rowCount: 4
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -10,4 +11,7 @@ layout: page
 | 1977 | 17 | Japanese Grand Prix | 73 | 1:31:51.68 |
 | 1976 | 16 | Japanese Grand Prix | 73 | 1:43:58.86 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

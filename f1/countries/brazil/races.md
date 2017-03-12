@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Brazil
+title: List of All Formula 1® Races in Brazil by Year
 layout: page
+rowCount: 45
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 19 | Brazilian Grand Prix |   |   |
 | 2016 | 20 | Brazilian Grand Prix | 71 | 3:01:01.335 |
 | 2015 | 18 | Brazilian Grand Prix | 71 | 1:31:09.090 |
 | 2014 | 18 | Brazilian Grand Prix | 71 | 1:30:02.555 |
@@ -50,4 +52,7 @@ layout: page
 | 1974 | 2 | Brazilian Grand Prix | 32 | 1:24:37.06 |
 | 1973 | 2 | Brazilian Grand Prix | 40 | 1:43:55.6 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

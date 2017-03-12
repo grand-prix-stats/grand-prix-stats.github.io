@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race in Switzerland
+title: List of All Formula 1® Drivers that Have Won a Race in Switzerland by Number of Times
 layout: page
 ---
 

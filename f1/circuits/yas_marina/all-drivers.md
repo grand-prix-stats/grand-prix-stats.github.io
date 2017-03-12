@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Yas Marina Circuit
 layout: page
+rowCount: 53
 ---
 
 | Driver | Times |
@@ -59,4 +60,7 @@ layout: page
 | Pedro de la Rosa 🇪🇸 | 1 |
 | Roberto Merhi 🇪🇸 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

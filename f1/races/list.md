@@ -1,10 +1,31 @@
 ---
 title: List of All Formula 1® Races
 layout: page
+rowCount: 976
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 1 | Australian Grand Prix |   |   |
+| 2017 | 2 | Chinese Grand Prix |   |   |
+| 2017 | 3 | Bahrain Grand Prix |   |   |
+| 2017 | 4 | Russian Grand Prix |   |   |
+| 2017 | 5 | Spanish Grand Prix |   |   |
+| 2017 | 6 | Monaco Grand Prix |   |   |
+| 2017 | 7 | Canadian Grand Prix |   |   |
+| 2017 | 8 | Azerbaijan Grand Prix |   |   |
+| 2017 | 9 | Austrian Grand Prix |   |   |
+| 2017 | 10 | British Grand Prix |   |   |
+| 2017 | 11 | Hungarian Grand Prix |   |   |
+| 2017 | 12 | Belgian Grand Prix |   |   |
+| 2017 | 13 | Italian Grand Prix |   |   |
+| 2017 | 14 | Singapore Grand Prix |   |   |
+| 2017 | 15 | Malaysian Grand Prix |   |   |
+| 2017 | 16 | Japanese Grand Prix |   |   |
+| 2017 | 17 | United States Grand Prix |   |   |
+| 2017 | 18 | Mexican Grand Prix |   |   |
+| 2017 | 19 | Brazilian Grand Prix |   |   |
+| 2017 | 20 | Abu Dhabi Grand Prix |   |   |
 | 2016 | 1 | Australian Grand Prix | 57 | 1:48:15.565 |
 | 2016 | 2 | Bahrain Grand Prix | 57 | 1:33:34.696 |
 | 2016 | 3 | Chinese Grand Prix | 56 | 1:38:53.891 |
@@ -962,4 +983,7 @@ layout: page
 | 1950 | 6 | French Grand Prix | 64 | 2:57:52.8 |
 | 1950 | 7 | Italian Grand Prix | 80 | 2:51:17.4 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

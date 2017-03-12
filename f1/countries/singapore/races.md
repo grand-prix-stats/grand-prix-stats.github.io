@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Singapore
+title: List of All Formula 1® Races in Singapore by Year
 layout: page
+rowCount: 10
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 14 | Singapore Grand Prix |   |   |
 | 2016 | 15 | Singapore Grand Prix | 61 | 1:55:48.950 |
 | 2015 | 13 | Singapore Grand Prix | 61 | 2:01:22.118 |
 | 2014 | 14 | Singapore Grand Prix | 60 | 2:00:04.795 |
@@ -15,4 +17,7 @@ layout: page
 | 2009 | 14 | Singapore Grand Prix | 61 | 1:56:06.337 |
 | 2008 | 15 | Singapore Grand Prix | 61 | 1:57:16.304 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

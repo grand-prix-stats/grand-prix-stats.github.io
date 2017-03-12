@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race in Bahrain
+title: List of All Formula 1® Drivers that Have Won a Race in Bahrain by Number of Times
 layout: page
 ---
 

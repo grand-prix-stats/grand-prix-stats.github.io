@@ -1,22 +1,26 @@
 [
     {
-        "title": "List of All Formula 1® Circuits in Czech Republic",
+        "title": "List of All Formula 1® Circuits in Czech Republic by Name",
         "url": "circuits"
     },
     {
-        "title": "List of All Formula 1® Races in Czech Republic",
+        "title": "List of All Formula 1® Races in Czech Republic by Year",
         "url": "races"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Raced in Czech Republic",
+        "title": "List of All Formula 1® Drivers from Czech Republic by Surname",
+        "url": "drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced in Czech Republic by Number of Times",
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race in Czech Republic",
+        "title": "List of All Formula 1® Drivers that Have Won a Race in Czech Republic by Number of Times",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Czech Republic",
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Czech Republic by Number of Times",
         "url": "podium-drivers"
     }
 ]

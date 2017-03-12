@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Singapore Grand Prix",
+        "race_duration": null,
+        "round": 14,
+        "season": 2017
+    },
+    {
         "laps_completed": 61,
         "name": "Singapore Grand Prix",
         "race_duration": "1:55:48.950",

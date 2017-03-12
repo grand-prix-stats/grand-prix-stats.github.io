@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuit Park Zandvoort
 layout: page
+rowCount: 215
 ---
 
 | Driver | Times |
@@ -221,4 +222,7 @@ layout: page
 | Vic Elford 🇬🇧 | 1 |
 | Wolfgang Seidel 🇩🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

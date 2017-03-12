@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Belgium
+title: List of All Formula 1® Races in Belgium by Year
 layout: page
+rowCount: 62
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 12 | Belgian Grand Prix |   |   |
 | 2016 | 13 | Belgian Grand Prix | 44 | 1:44:51.058 |
 | 2015 | 11 | Belgian Grand Prix | 43 | 1:23:40.387 |
 | 2014 | 12 | Belgian Grand Prix | 44 | 1:24:36.556 |
@@ -67,4 +69,7 @@ layout: page
 | 1951 | 3 | Belgian Grand Prix | 36 | 2:45:46.2 |
 | 1950 | 5 | Belgian Grand Prix | 35 | 2:47:26.0 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

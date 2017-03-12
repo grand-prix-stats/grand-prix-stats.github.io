@@ -1,8 +1,12 @@
 ---
-title: List of All Formula 1® Races in Chile
+title: List of All Formula 1® Races in Chile by Year
 layout: page
+rowCount: 0
 ---
 
 
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

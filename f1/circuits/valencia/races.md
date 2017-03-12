@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Valencia Street Circuit
 layout: page
+rowCount: 5
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -11,4 +12,7 @@ layout: page
 | 2009 | 11 | European Grand Prix | 57 | 1:35:51.289 |
 | 2008 | 12 | European Grand Prix | 57 | 1:35:32.339 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,22 +1,26 @@
 [
     {
-        "title": "List of All Formula 1® Circuits in Austria",
+        "title": "List of All Formula 1® Circuits in Austria by Name",
         "url": "circuits"
     },
     {
-        "title": "List of All Formula 1® Races in Austria",
+        "title": "List of All Formula 1® Races in Austria by Year",
         "url": "races"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Raced in Austria",
+        "title": "List of All Formula 1® Drivers from Austria by Surname",
+        "url": "drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced in Austria by Number of Times",
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race in Austria",
+        "title": "List of All Formula 1® Drivers that Have Won a Race in Austria by Number of Times",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Austria",
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Austria by Number of Times",
         "url": "podium-drivers"
     }
 ]

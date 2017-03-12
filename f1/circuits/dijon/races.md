@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Dijon-Prenois
 layout: page
+rowCount: 6
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -12,4 +13,7 @@ layout: page
 | 1977 | 9 | French Grand Prix | 80 | 1:39:40.13 |
 | 1974 | 9 | French Grand Prix | 80 | 1:21:55.02 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

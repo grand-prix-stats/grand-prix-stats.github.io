@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Jarama
 layout: page
+rowCount: 9
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -15,4 +16,7 @@ layout: page
 | 1970 | 2 | Spanish Grand Prix | 90 | 2:10:58.2 |
 | 1968 | 2 | Spanish Grand Prix | 90 | 2:15:02.1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

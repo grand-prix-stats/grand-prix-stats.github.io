@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuit Bremgarten
 layout: page
+rowCount: 54
 ---
 
 | Driver | Times |
@@ -60,4 +61,7 @@ layout: page
 | Toni Ulmen 🇩🇪 | 1 |
 | Umberto Maglioli 🇮🇹 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

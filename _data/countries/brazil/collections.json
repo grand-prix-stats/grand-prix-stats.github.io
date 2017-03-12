@@ -1,22 +1,26 @@
 [
     {
-        "title": "List of All Formula 1® Circuits in Brazil",
+        "title": "List of All Formula 1® Circuits in Brazil by Name",
         "url": "circuits"
     },
     {
-        "title": "List of All Formula 1® Races in Brazil",
+        "title": "List of All Formula 1® Races in Brazil by Year",
         "url": "races"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Raced in Brazil",
+        "title": "List of All Formula 1® Drivers from Brazil by Surname",
+        "url": "drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced in Brazil by Number of Times",
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race in Brazil",
+        "title": "List of All Formula 1® Drivers that Have Won a Race in Brazil by Number of Times",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Brazil",
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Brazil by Number of Times",
         "url": "podium-drivers"
     }
 ]

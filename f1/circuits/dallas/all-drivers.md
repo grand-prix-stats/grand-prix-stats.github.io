@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Fair Park
 layout: page
+rowCount: 26
 ---
 
 | Driver | Times |
@@ -32,4 +33,7 @@ layout: page
 | Stefan Bellof 🇩🇪 | 1 |
 | Thierry Boutsen 🇧🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

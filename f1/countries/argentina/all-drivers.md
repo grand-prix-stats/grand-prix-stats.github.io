@@ -1,6 +1,7 @@
 ---
-title: List of All Formula 1® Drivers that Have Raced in Argentina
+title: List of All Formula 1® Drivers that Have Raced in Argentina by Number of Times
 layout: page
+rowCount: 185
 ---
 
 | Driver | Times |
@@ -191,4 +192,7 @@ layout: page
 | Toranosuke Takagi 🇯🇵 | 1 |
 | Toulo de Graffenried 🇨🇭 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

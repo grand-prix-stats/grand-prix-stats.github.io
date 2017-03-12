@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autodromo Enzo e Dino Ferrari
 layout: page
+rowCount: 27
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -33,4 +34,7 @@ layout: page
 | 1981 | 4 | San Marino Grand Prix | 60 | 1:51:23.97 |
 | 1980 | 12 | Italian Grand Prix | 60 | 1:38:07.52 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

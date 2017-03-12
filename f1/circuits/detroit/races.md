@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Detroit Street Circuit
 layout: page
+rowCount: 7
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -13,4 +14,7 @@ layout: page
 | 1983 | 7 | Detroit Grand Prix | 60 | 1:50:53.669 |
 | 1982 | 7 | Detroit Grand Prix | 62 | 1:58:41.043 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

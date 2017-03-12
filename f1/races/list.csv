@@ -1,6 +1,7 @@
 name,race_duration,round,season,laps_completed
-Abu Dhabi Grand Prix,1:38:30.175,19,2015,55
 Abu Dhabi Grand Prix,1:38:04.013,21,2016,55
+Abu Dhabi Grand Prix,,20,2017,
+Abu Dhabi Grand Prix,1:38:30.175,19,2015,55
 Abu Dhabi Grand Prix,1:39:02.619,19,2014,55
 Abu Dhabi Grand Prix,1:38:06.106,17,2013,55
 Abu Dhabi Grand Prix,1:45:58.667,18,2012,55
@@ -8,7 +9,6 @@ Abu Dhabi Grand Prix,1:37:11.886,18,2011,55
 Abu Dhabi Grand Prix,1:39:36.837,19,2010,55
 Abu Dhabi Grand Prix,1:34:03.414,17,2009,55
 Argentine Grand Prix,3:01:04.6,1,1953,97
-Argentine Grand Prix,1:56:18.22,1,1973,96
 Argentine Grand Prix,1:41:02.01,1,1974,53
 Argentine Grand Prix,1:39:26.29,1,1975,53
 Argentine Grand Prix,1:40:11.19,1,1977,53
@@ -18,940 +18,960 @@ Argentine Grand Prix,1:43:24.38,1,1980,53
 Argentine Grand Prix,1:34:32.74,3,1981,53
 Argentine Grand Prix,1:53:14.532,2,1995,72
 Argentine Grand Prix,1:54:55.322,3,1996,72
+Argentine Grand Prix,1:56:18.22,1,1973,96
 Argentine Grand Prix,1:52:01.715,3,1997,72
-Argentine Grand Prix,1:57:59.1,1,1972,95
 Argentine Grand Prix,1:48:36.1,3,1998,72
+Argentine Grand Prix,1:57:59.1,1,1972,95
 Argentine Grand Prix,2:17:49.5,1,1960,80
 Argentine Grand Prix,2:19:33.7,1,1958,80
 Argentine Grand Prix,3:00:55.9,1,1957,100
 Argentine Grand Prix,3:00:03.7,1,1956,98
 Argentine Grand Prix,3:00:38.6,1,1955,96
 Argentine Grand Prix,3:00:55.8,1,1954,87
-Australian Grand Prix,1:48:15.565,1,2016,57
-Australian Grand Prix,1:24:17.336,1,2005,57
-Australian Grand Prix,1:32:50.4,1,1996,58
+Australian Grand Prix,,1,2017,
 Australian Grand Prix,1:29:30.259,1,2011,58
-Australian Grand Prix,1:24:15.757,1,2004,58
-Australian Grand Prix,2:00:40.473,16,1985,82
-Australian Grand Prix,1:34:42.1,1,2003,58
-Australian Grand Prix,1:54:20.388,16,1986,82
-Australian Grand Prix,1:33:36.531,2,2010,58
-Australian Grand Prix,1:35:36.792,1,2002,58
-Australian Grand Prix,1:52:56.144,16,1987,82
 Australian Grand Prix,1:53:14.676,16,1988,82
-Australian Grand Prix,1:32:58.710,1,2014,57
-Australian Grand Prix,1:34:27.870,3,2006,57
+Australian Grand Prix,1:31:46.0,1,1998,58
+Australian Grand Prix,1:52:56.144,16,1987,82
 Australian Grand Prix,2:00:17.421,16,1989,70
-Australian Grand Prix,1:38:26.533,1,2001,58
+Australian Grand Prix,1:33:36.531,2,2010,58
+Australian Grand Prix,1:54:20.388,16,1986,82
 Australian Grand Prix,1:49:44.570,16,1990,81
 Australian Grand Prix,1:34:15.784,1,2009,58
-Australian Grand Prix,1:34:01.987,1,2000,58
-Australian Grand Prix,1:34:09.565,1,2012,58
+Australian Grand Prix,2:00:40.473,16,1985,82
 Australian Grand Prix,24:34.899,16,1991,14
-Australian Grand Prix,1:46:54.786,16,1992,81
-Australian Grand Prix,1:35:01.659,1,1999,57
-Australian Grand Prix,1:43:27.476,16,1993,79
-Australian Grand Prix,1:31:46.0,1,1998,58
-Australian Grand Prix,1:47:51.4,16,1994,81
-Australian Grand Prix,1:25:28.770,1,2007,58
 Australian Grand Prix,1:31:54.067,1,2015,58
+Australian Grand Prix,1:34:09.565,1,2012,58
+Australian Grand Prix,1:46:54.786,16,1992,81
 Australian Grand Prix,1:34:50.616,1,2008,58
+Australian Grand Prix,1:25:28.770,1,2007,58
+Australian Grand Prix,1:43:27.476,16,1993,79
+Australian Grand Prix,1:47:51.4,16,1994,81
+Australian Grand Prix,1:34:27.870,3,2006,57
+Australian Grand Prix,1:24:17.336,1,2005,57
 Australian Grand Prix,1:49:15.946,17,1995,81
-Australian Grand Prix,1:30:28.718,1,1997,58
+Australian Grand Prix,1:24:15.757,1,2004,58
+Australian Grand Prix,1:34:42.1,1,2003,58
+Australian Grand Prix,1:32:50.4,1,1996,58
 Australian Grand Prix,1:30:03.225,1,2013,58
-Austrian Grand Prix,1:24:32.745,11,1983,53
-Austrian Grand Prix,29:17.3,9,1972,54
-Austrian Grand Prix,1:21:22.531,12,1986,52
-Austrian Grand Prix,1:27:35.999,14,1997,71
-Austrian Grand Prix,1:27:38.107,9,2016,71
-Austrian Grand Prix,1:28:48.78,12,1973,54
-Austrian Grand Prix,1:30:23.91,8,1971,54
-Austrian Grand Prix,1:25:02.212,13,1982,53
-Austrian Grand Prix,1:28:44.72,12,1974,54
-Austrian Grand Prix,1:30:44.0,10,1998,71
-Austrian Grand Prix,1:42:17.3,9,1970,60
-Austrian Grand Prix,1:21:12.851,12,1984,51
-Austrian Grand Prix,0:57:56.69,12,1975,29
-Austrian Grand Prix,1:28:12.438,9,1999,71
-Austrian Grand Prix,2:06:18.23,7,1964,105
-Austrian Grand Prix,1:30:07.86,11,1976,54
-Austrian Grand Prix,1:20:12.583,10,1985,52
-Austrian Grand Prix,1:28:15.818,10,2000,71
-Austrian Grand Prix,1:27:54.976,8,2014,71
-Austrian Grand Prix,1:27:45.927,6,2001,71
-Austrian Grand Prix,1:37:16.49,12,1977,54
-Austrian Grand Prix,1:27:36.47,11,1981,53
-Austrian Grand Prix,1:26:15.73,10,1980,54
-Austrian Grand Prix,1:24:04.888,6,2003,69
-Austrian Grand Prix,1:30:16.930,8,2015,71
-Austrian Grand Prix,1:41:21.57,12,1978,54
+Australian Grand Prix,1:35:36.792,1,2002,58
+Australian Grand Prix,1:48:15.565,1,2016,57
+Australian Grand Prix,1:30:28.718,1,1997,58
+Australian Grand Prix,1:38:26.533,1,2001,58
+Australian Grand Prix,1:34:01.987,1,2000,58
+Australian Grand Prix,1:32:58.710,1,2014,57
+Australian Grand Prix,1:35:01.659,1,1999,57
 Austrian Grand Prix,1:18:44.898,10,1987,52
+Austrian Grand Prix,1:24:32.745,11,1983,53
+Austrian Grand Prix,1:30:16.930,8,2015,71
+Austrian Grand Prix,1:28:12.438,9,1999,71
+Austrian Grand Prix,1:37:16.49,12,1977,54
+Austrian Grand Prix,1:27:54.976,8,2014,71
+Austrian Grand Prix,1:30:44.0,10,1998,71
+Austrian Grand Prix,1:28:15.818,10,2000,71
+Austrian Grand Prix,1:30:07.86,11,1976,54
+Austrian Grand Prix,1:27:38.107,9,2016,71
+Austrian Grand Prix,1:27:45.927,6,2001,71
+Austrian Grand Prix,0:57:56.69,12,1975,29
+Austrian Grand Prix,1:21:22.531,12,1986,52
+Austrian Grand Prix,1:41:21.57,12,1978,54
 Austrian Grand Prix,1:33:51.562,6,2002,71
+Austrian Grand Prix,1:28:44.72,12,1974,54
 Austrian Grand Prix,1:27:38.01,11,1979,54
-Bahrain Grand Prix,1:36:00.498,4,2013,57
-Bahrain Grand Prix,1:39:42.743,3,2014,57
-Bahrain Grand Prix,1:39:20.396,1,2010,49
-Bahrain Grand Prix,1:29:46.205,1,2006,57
-Bahrain Grand Prix,1:35:05.809,4,2015,57
+Austrian Grand Prix,1:27:35.999,14,1997,71
+Austrian Grand Prix,1:24:04.888,6,2003,69
+Austrian Grand Prix,1:28:48.78,12,1973,54
+Austrian Grand Prix,2:06:18.23,7,1964,105
+Austrian Grand Prix,1:26:15.73,10,1980,54
+Austrian Grand Prix,,9,2017,
+Austrian Grand Prix,29:17.3,9,1972,54
+Austrian Grand Prix,1:20:12.583,10,1985,52
+Austrian Grand Prix,1:27:36.47,11,1981,53
+Austrian Grand Prix,1:30:23.91,8,1971,54
+Austrian Grand Prix,1:21:12.851,12,1984,51
+Austrian Grand Prix,1:25:02.212,13,1982,53
+Austrian Grand Prix,1:42:17.3,9,1970,60
+Azerbaijan Grand Prix,,8,2017,
 Bahrain Grand Prix,1:33:34.696,2,2016,57
-Bahrain Grand Prix,1:35:10.990,4,2012,57
+Bahrain Grand Prix,1:33:27.515,3,2007,57
+Bahrain Grand Prix,1:29:46.205,1,2006,57
+Bahrain Grand Prix,1:31:06.970,3,2008,57
+Bahrain Grand Prix,1:35:05.809,4,2015,57
+Bahrain Grand Prix,1:29:18.531,3,2005,57
 Bahrain Grand Prix,1:31:48.182,4,2009,57
 Bahrain Grand Prix,1:28:34.875,3,2004,57
-Bahrain Grand Prix,1:29:18.531,3,2005,57
-Bahrain Grand Prix,1:33:27.515,3,2007,57
-Bahrain Grand Prix,1:31:06.970,3,2008,57
-Belgian Grand Prix,2:47:26.0,5,1950,35
-Belgian Grand Prix,1:33:46.717,12,1997,44
-Belgian Grand Prix,1:35:41.995,5,1982,70
-Belgian Grand Prix,1:27:11.502,6,1983,40
-Belgian Grand Prix,1:23:40.387,11,2015,43
-Belgian Grand Prix,1:30:01.295,16,2005,44
-Belgian Grand Prix,1:36:32.048,3,1984,70
-Belgian Grand Prix,2:45:46.2,3,1951,36
-Belgian Grand Prix,1:26:44.893,12,2011,44
-Belgian Grand Prix,3:03:46.3,3,1952,36
-Belgian Grand Prix,1:34:19.893,13,1985,43
-Belgian Grand Prix,1:16:31.61,5,1981,54
-Belgian Grand Prix,1:32:35.274,14,2004,44
-Belgian Grand Prix,2:48:30.3,4,1953,36
-Belgian Grand Prix,2:44:42.4,3,1954,36
-Belgian Grand Prix,2:39:29.0,4,1955,36
-Belgian Grand Prix,1:39:59.53,6,1979,70
-Belgian Grand Prix,1:29:08.530,12,2012,44
-Belgian Grand Prix,1:27:57.925,5,1986,43
-Belgian Grand Prix,1:21:20.634,14,2002,44
-Belgian Grand Prix,2:40:00.3,4,1956,36
-Belgian Grand Prix,1:39:52.02,6,1978,70
+Bahrain Grand Prix,1:35:10.990,4,2012,57
+Bahrain Grand Prix,1:36:00.498,4,2013,57
+Bahrain Grand Prix,,3,2017,
+Bahrain Grand Prix,1:39:20.396,1,2010,49
+Bahrain Grand Prix,1:39:42.743,3,2014,57
 Belgian Grand Prix,1:27:03.217,3,1987,43
-Belgian Grand Prix,1:37:06.3,5,1958,24
-Belgian Grand Prix,1:44:51.058,13,2016,44
-Belgian Grand Prix,1:28:00.549,11,1988,43
-Belgian Grand Prix,2:21:37.3,5,1960,36
-Belgian Grand Prix,1:29.04.268,13,2010,44
-Belgian Grand Prix,2:03:03.8,3,1961,30
-Belgian Grand Prix,1:40:54.196,11,1989,44
+Belgian Grand Prix,2:23:34.8,3,1965,32
+Belgian Grand Prix,1:43:47.407,13,1998,44
+Belgian Grand Prix,1:29:08.530,12,2012,44
+Belgian Grand Prix,2:45:46.2,3,1951,36
+Belgian Grand Prix,1:34:19.893,13,1985,43
+Belgian Grand Prix,2:48:30.3,4,1953,36
+Belgian Grand Prix,1:40:02.1,4,1968,28
 Belgian Grand Prix,1:20:39.066,14,2007,44
+Belgian Grand Prix,1:36:10.721,12,1992,44
+Belgian Grand Prix,2:21:37.3,5,1960,36
+Belgian Grand Prix,1:39:52.02,6,1978,70
+Belgian Grand Prix,1:27:11.502,6,1983,40
+Belgian Grand Prix,1:42:13.43,5,1973,70
+Belgian Grand Prix,1:21:20.634,14,2002,44
 Belgian Grand Prix,1:55:05.71,7,1977,70
-Belgian Grand Prix,1:08:05.002,14,2001,36
-Belgian Grand Prix,1:26:31.997,11,1990,44
-Belgian Grand Prix,2:07:32.3,3,1962,32
-Belgian Grand Prix,2:27:47.6,2,1963,32
-Belgian Grand Prix,1:28:14.494,13,2000,44
-Belgian Grand Prix,1:42:53.23,5,1976,70
+Belgian Grand Prix,1:44:20.57,5,1974,85
+Belgian Grand Prix,1:33:46.717,12,1997,44
+Belgian Grand Prix,1:25:43.057,12,1999,44
+Belgian Grand Prix,2:44:42.4,3,1954,36
+Belgian Grand Prix,1:27:57.925,5,1986,43
+Belgian Grand Prix,1:24:32.124,12,1993,44
+Belgian Grand Prix,1:26:44.893,12,2011,44
+Belgian Grand Prix,2:03:03.8,3,1961,30
+Belgian Grand Prix,1:35:41.995,5,1982,70
+Belgian Grand Prix,2:39:29.0,4,1955,36
+Belgian Grand Prix,1:40:49.4,4,1967,28
 Belgian Grand Prix,1:27:17.669,11,1991,44
+Belgian Grand Prix,2:07:32.3,3,1962,32
+Belgian Grand Prix,3:03:46.3,3,1952,36
+Belgian Grand Prix,2:40:00.3,4,1956,36
+Belgian Grand Prix,1:22:59.394,13,2008,44
+Belgian Grand Prix,1:39:59.53,6,1979,70
+Belgian Grand Prix,1:23:42.196,11,2013,44
+Belgian Grand Prix,1:44:51.058,13,2016,44
+Belgian Grand Prix,1:08:05.002,14,2001,36
+Belgian Grand Prix,1:28:47.1,11,1994,44
+Belgian Grand Prix,1:32:35.274,14,2004,44
+Belgian Grand Prix,1:44:07.3,5,1972,85
+Belgian Grand Prix,1:43:53.98,6,1975,70
+Belgian Grand Prix,1:28:00.549,11,1988,43
+Belgian Grand Prix,1:38:10.1,4,1970,28
+Belgian Grand Prix,1:29.04.268,13,2010,44
+Belgian Grand Prix,2:27:47.6,2,1963,32
+Belgian Grand Prix,1:37:06.3,5,1958,24
+Belgian Grand Prix,1:16:31.61,5,1981,54
+Belgian Grand Prix,1:28:15.125,13,1996,44
+Belgian Grand Prix,2:09:11.3,2,1966,28
+Belgian Grand Prix,,12,2017,
+Belgian Grand Prix,1:42:53.23,5,1976,70
 Belgian Grand Prix,2:06:40.5,3,1964,32
 Belgian Grand Prix,1:24:36.556,12,2014,44
-Belgian Grand Prix,1:36:10.721,12,1992,44
-Belgian Grand Prix,1:25:43.057,12,1999,44
-Belgian Grand Prix,1:43:53.98,6,1975,70
-Belgian Grand Prix,1:24:32.124,12,1993,44
-Belgian Grand Prix,1:23:50.995,12,2009,44
-Belgian Grand Prix,2:23:34.8,3,1965,32
-Belgian Grand Prix,2:09:11.3,2,1966,28
-Belgian Grand Prix,1:28:47.1,11,1994,44
-Belgian Grand Prix,1:40:49.4,4,1967,28
-Belgian Grand Prix,1:40:02.1,4,1968,28
-Belgian Grand Prix,1:44:20.57,5,1974,85
-Belgian Grand Prix,1:23:42.196,11,2013,44
-Belgian Grand Prix,1:43:47.407,13,1998,44
+Belgian Grand Prix,1:23:40.387,11,2015,43
 Belgian Grand Prix,1:36:47.875,11,1995,44
-Belgian Grand Prix,1:38:10.1,4,1970,28
-Belgian Grand Prix,1:28:15.125,13,1996,44
-Belgian Grand Prix,1:22:59.394,13,2008,44
-Belgian Grand Prix,1:42:13.43,5,1973,70
-Belgian Grand Prix,1:44:07.3,5,1972,85
+Belgian Grand Prix,1:40:54.196,11,1989,44
+Belgian Grand Prix,1:26:31.997,11,1990,44
 Belgian Grand Prix,1:38:47.4,5,1980,72
-Brazilian Grand Prix,1:44:33.134,2,1982,63
-Brazilian Grand Prix,3:01:01.335,20,2016,71
-Brazilian Grand Prix,1:36:06.990,2,1997,72
-Brazilian Grand Prix,1:49:52.976,2,1996,71
-Brazilian Grand Prix,+1:38:34.154,1,1995,71
-Brazilian Grand Prix,1:43:55.6,2,1973,40
-Brazilian Grand Prix,1:30:02.555,18,2014,71
-Brazilian Grand Prix,1:35:39.2,1,1994,71
-Brazilian Grand Prix,1:34:11.435,18,2008,71
-Brazilian Grand Prix,1:32:23.081,16,2009,71
-Brazilian Grand Prix,1:37:12.2,2,1998,72
-Brazilian Grand Prix,1:24:37.06,2,1974,32
-Brazilian Grand Prix,1:51:15.485,2,1993,71
-Brazilian Grand Prix,1:36:51.856,3,1992,71
-Brazilian Grand Prix,1:36:03.785,2,1999,72
-Brazilian Grand Prix,1:38:28.128,2,1991,71
-Brazilian Grand Prix,1:32:36.300,19,2013,71
-Brazilian Grand Prix,1:37:21.258,2,1990,71
-Brazilian Grand Prix,1:31:35.271,2,2000,71
-Brazilian Grand Prix,1:45:16.78,1,1976,40
-Brazilian Grand Prix,1:33:11.803,18,2010,71
-Brazilian Grand Prix,1:38:58.744,1,1989,61
-Brazilian Grand Prix,1:45:07.72,2,1977,40
-Brazilian Grand Prix,1:39:00.834,3,2001,71
-Brazilian Grand Prix,1:28:15.270,17,2007,71
-Brazilian Grand Prix,1:36:06.857,1,1988,60
-Brazilian Grand Prix,1:39:45.141,1,1987,61
-Brazilian Grand Prix,1:49:59.86,2,1978,63
-Brazilian Grand Prix,1:39:32.583,1,1986,61
+Belgian Grand Prix,1:36:32.048,3,1984,70
+Belgian Grand Prix,1:30:01.295,16,2005,44
+Belgian Grand Prix,1:28:14.494,13,2000,44
+Belgian Grand Prix,1:23:50.995,12,2009,44
+Belgian Grand Prix,2:47:26.0,5,1950,35
 Brazilian Grand Prix,1:31:09.090,18,2015,71
-Brazilian Grand Prix,1:31:43.662,3,2002,71
-Brazilian Grand Prix,1:40:09.64,2,1979,40
-Brazilian Grand Prix,1:32:17.464,19,2011,71
-Brazilian Grand Prix,1:31:18.2,3,2003,54
 Brazilian Grand Prix,1:40:01.33,2,1980,40
-Brazilian Grand Prix,1:28:01.451,18,2004,71
-Brazilian Grand Prix,1:41:26.115,1,1985,61
-Brazilian Grand Prix,1:45:22.656,20,2012,71
-Brazilian Grand Prix,1:42:34.492,1,1984,61
 Brazilian Grand Prix,1:29:20.574,17,2005,71
-Brazilian Grand Prix,2:00:23.66,2,1981,62
-Brazilian Grand Prix,1:48:27.731,1,1983,63
-Brazilian Grand Prix,1:31:53.751,18,2006,71
+Brazilian Grand Prix,1:32:23.081,16,2009,71
+Brazilian Grand Prix,1:31:35.271,2,2000,71
+Brazilian Grand Prix,1:32:36.300,19,2013,71
+Brazilian Grand Prix,+1:38:34.154,1,1995,71
+Brazilian Grand Prix,1:35:39.2,1,1994,71
+Brazilian Grand Prix,1:45:16.78,1,1976,40
+Brazilian Grand Prix,1:36:03.785,2,1999,72
+Brazilian Grand Prix,1:33:11.803,18,2010,71
 Brazilian Grand Prix,1:44:41.17,2,1975,40
-British Grand Prix,1:31:27.729,9,2015,52
-British Grand Prix,2:26:20.8,5,1962,75
-British Grand Prix,1:31:46.06,10,1977,68
-British Grand Prix,1:18:30.999,8,1990,64
-British Grand Prix,3:06:37.8,5,1957,90
-British Grand Prix,1:57:02.0,7,1970,80
-British Grand Prix,1:30:03.640,8,1994,60
-British Grand Prix,1:55:55.6,6,1969,84
-British Grand Prix,1:32:30.144,8,1999,60
-British Grand Prix,1:19:11.780,7,1987,65
-British Grand Prix,1:24:29.588,11,2005,60
-British Grand Prix,2:40:53.6,5,1961,75
-British Grand Prix,1:30:38.471,9,1986,75
-British Grand Prix,2:56:14.0,5,1954,90
-British Grand Prix,2:14:09.6,5,1963,82
-British Grand Prix,1:42:12.39,10,1978,76
-British Grand Prix,2:13:23.6,1,1950,70
-British Grand Prix,2:59:47.0,6,1956,101
-British Grand Prix,1:25:38.189,9,1993,59
-British Grand Prix,1:44:19.66,9,1976,76
-British Grand Prix,2:09:04.2,7,1958,75
-British Grand Prix,1:25:11.288,9,2012,52
-British Grand Prix,1:34:35.093,8,1995,61
-British Grand Prix,1:26:11.17,9,1979,68
-British Grand Prix,1:21:43.074,9,2007,59
-British Grand Prix,1:18:10.436,8,1985,65
-British Grand Prix,2:26:52.094,9,2014,52
-British Grand Prix,1:22:05.0,10,1975,56
-British Grand Prix,1:31:31.5,6,1971,68
-British Grand Prix,1:24.38.200,10,2010,52
-British Grand Prix,2:04:24.3,7,1960,77
-British Grand Prix,1:34:49.228,8,1980,76
-British Grand Prix,2:42:18.2,5,1951,90
-British Grand Prix,1:47:02.4,9,1998,60
-British Grand Prix,1:33:16.367,8,1988,65
-British Grand Prix,1:25:42.991,9,1992,59
-British Grand Prix,1:26:54.80,9,1981,68
-British Grand Prix,1:22:49.328,8,2009,60
-British Grand Prix,1:28:50.108,4,2000,60
-British Grand Prix,2:15:07.0,5,1964,80
-British Grand Prix,2:46:11.0,5,1952,85
-British Grand Prix,1:25:51.927,8,2006,60
+Brazilian Grand Prix,2:00:23.66,2,1981,62
+Brazilian Grand Prix,1:28:01.451,18,2004,71
+Brazilian Grand Prix,1:40:09.64,2,1979,40
+Brazilian Grand Prix,1:31:18.2,3,2003,54
+Brazilian Grand Prix,1:51:15.485,2,1993,71
+Brazilian Grand Prix,1:39:32.583,1,1986,61
+Brazilian Grand Prix,1:41:26.115,1,1985,61
+Brazilian Grand Prix,,19,2017,
+Brazilian Grand Prix,1:49:52.976,2,1996,71
+Brazilian Grand Prix,1:34:11.435,18,2008,71
+Brazilian Grand Prix,1:32:17.464,19,2011,71
+Brazilian Grand Prix,1:39:00.834,3,2001,71
+Brazilian Grand Prix,1:44:33.134,2,1982,63
+Brazilian Grand Prix,1:31:53.751,18,2006,71
+Brazilian Grand Prix,1:37:21.258,2,1990,71
+Brazilian Grand Prix,3:01:01.335,20,2016,71
+Brazilian Grand Prix,1:24:37.06,2,1974,32
+Brazilian Grand Prix,1:36:51.856,3,1992,71
+Brazilian Grand Prix,1:39:45.141,1,1987,61
+Brazilian Grand Prix,1:37:12.2,2,1998,72
+Brazilian Grand Prix,1:43:55.6,2,1973,40
+Brazilian Grand Prix,1:49:59.86,2,1978,63
+Brazilian Grand Prix,1:45:22.656,20,2012,71
+Brazilian Grand Prix,1:38:58.744,1,1989,61
+Brazilian Grand Prix,1:48:27.731,1,1983,63
+Brazilian Grand Prix,1:36:06.990,2,1997,72
+Brazilian Grand Prix,1:28:15.270,17,2007,71
+Brazilian Grand Prix,1:38:28.128,2,1991,71
+Brazilian Grand Prix,1:45:07.72,2,1977,40
+Brazilian Grand Prix,1:31:43.662,3,2002,71
+Brazilian Grand Prix,1:36:06.857,1,1988,60
+Brazilian Grand Prix,1:30:02.555,18,2014,71
+Brazilian Grand Prix,1:42:34.492,1,1984,61
 British Grand Prix,1:43:02.2,10,1974,75
+British Grand Prix,1:55:55.6,6,1969,84
+British Grand Prix,1:25:51.927,8,2006,60
+British Grand Prix,3:06:37.8,5,1957,90
+British Grand Prix,1:47:02.4,9,1998,60
+British Grand Prix,1:42:12.39,10,1978,76
 British Grand Prix,2:01:20.3,7,1968,80
-British Grand Prix,3:07:21.2,6,1955,90
-British Grand Prix,1:24:42.700,11,2004,60
-British Grand Prix,1:28:37.554,11,2003,60
-British Grand Prix,1:19:22.131,8,1989,64
-British Grand Prix,1:33:00.874,10,1996,61
-British Grand Prix,1:35:33.812,10,1982,76
-British Grand Prix,1:29:28.532,10,1984,71
-British Grand Prix,1:28:41.194,9,2011,52
-British Grand Prix,1:27:35.479,8,1991,59
-British Grand Prix,1:34:55.831,10,2016,52
-British Grand Prix,2:50:00.0,6,1953,90
-British Grand Prix,1:32:59.456,8,2013,52
-British Grand Prix,1:29:18.5,9,1973,67
-British Grand Prix,2:30:11.6,5,1959,75
-British Grand Prix,2:05:25.4,5,1965,80
-British Grand Prix,1:25:33.770,11,2001,60
 British Grand Prix,1:28:01.665,9,1997,59
-British Grand Prix,1:31:45.015,10,2002,60
-British Grand Prix,2:13:13.4,4,1966,80
-British Grand Prix,1:47:50.2,7,1972,76
-British Grand Prix,1:39:09.440,9,2008,60
+British Grand Prix,1:21:43.074,9,2007,59
+British Grand Prix,1:31:46.06,10,1977,68
+British Grand Prix,2:50:00.0,6,1953,90
+British Grand Prix,1:57:02.0,7,1970,80
+British Grand Prix,1:26:11.17,9,1979,68
+British Grand Prix,1:29:28.532,10,1984,71
+British Grand Prix,1:33:00.874,10,1996,61
 British Grand Prix,1:59:25.6,6,1967,80
+British Grand Prix,1:39:09.440,9,2008,60
+British Grand Prix,1:34:55.831,10,2016,52
+British Grand Prix,2:26:52.094,9,2014,52
+British Grand Prix,1:32:30.144,8,1999,60
+British Grand Prix,1:18:30.999,8,1990,64
+British Grand Prix,1:44:19.66,9,1976,76
+British Grand Prix,1:24:29.588,11,2005,60
+British Grand Prix,1:30:38.471,9,1986,75
+British Grand Prix,1:34:49.228,8,1980,76
+British Grand Prix,1:31:31.5,6,1971,68
+British Grand Prix,1:34:35.093,8,1995,61
+British Grand Prix,2:13:13.4,4,1966,80
+British Grand Prix,1:22:49.328,8,2009,60
+British Grand Prix,2:09:04.2,7,1958,75
+British Grand Prix,1:18:10.436,8,1985,65
+British Grand Prix,2:13:23.6,1,1950,70
+British Grand Prix,2:56:14.0,5,1954,90
+British Grand Prix,1:32:59.456,8,2013,52
+British Grand Prix,1:28:50.108,4,2000,60
+British Grand Prix,1:19:22.131,8,1989,64
+British Grand Prix,1:47:50.2,7,1972,76
+British Grand Prix,1:33:16.367,8,1988,65
+British Grand Prix,2:46:11.0,5,1952,85
+British Grand Prix,1:26:54.80,9,1981,68
+British Grand Prix,2:15:07.0,5,1964,80
+British Grand Prix,1:24:42.700,11,2004,60
+British Grand Prix,1:24.38.200,10,2010,52
+British Grand Prix,1:30:03.640,8,1994,60
+British Grand Prix,2:05:25.4,5,1965,80
+British Grand Prix,2:59:47.0,6,1956,101
+British Grand Prix,2:14:09.6,5,1963,82
+British Grand Prix,1:25:33.770,11,2001,60
+British Grand Prix,1:31:27.729,9,2015,52
+British Grand Prix,1:22:05.0,10,1975,56
+British Grand Prix,2:42:18.2,5,1951,90
+British Grand Prix,1:35:33.812,10,1982,76
+British Grand Prix,1:25:38.189,9,1993,59
+British Grand Prix,2:26:20.8,5,1962,75
+British Grand Prix,1:19:11.780,7,1987,65
+British Grand Prix,1:29:18.5,9,1973,67
+British Grand Prix,1:28:41.194,9,2011,52
+British Grand Prix,3:07:21.2,6,1955,90
+British Grand Prix,1:27:35.479,8,1991,59
+British Grand Prix,1:28:37.554,11,2003,60
+British Grand Prix,2:40:53.6,5,1961,75
 British Grand Prix,1:24:39.780,9,1983,67
+British Grand Prix,1:25:42.991,9,1992,59
+British Grand Prix,1:25:11.288,9,2012,52
+British Grand Prix,,10,2017,
+British Grand Prix,2:04:24.3,7,1960,77
+British Grand Prix,1:31:45.015,10,2002,60
+British Grand Prix,2:30:11.6,5,1959,75
 Caesars Palace Grand Prix,1:44:09.077,15,1981,75
 Caesars Palace Grand Prix,1:41:56.888,16,1982,75
-Canadian Grand Prix,1:21:18.4,11,1970,90
-Canadian Grand Prix,4:04:39.537,7,2011,70
-Canadian Grand Prix,1:48:31.838,8,1983,70
-Canadian Grand Prix,2:40:40.0,8,1967,90
-Canadian Grand Prix,1:59:04.083,14,1973,80
-Canadian Grand Prix,1:32:09.143,7,2013,70
-Canadian Grand Prix,1:42:56.400,5,1990,70
-Canadian Grand Prix,1:36:24.227,7,2008,70
-Canadian Grand Prix,1:34:31.522,8,2001,69
-Canadian Grand Prix,2:01:24.073,6,1989,69
-Canadian Grand Prix,1:17:40.646,7,1997,54
-Canadian Grand Prix,1:31:05.296,7,2016,70
-Canadian Grand Prix,1:46:39.577,8,1982,70
-Canadian Grand Prix,1:36:03.4,8,1996,69
-Canadian Grand Prix,1:40:26.136,14,1974,80
-Canadian Grand Prix,2:27:11.2,10,1968,90
-Canadian Grand Prix,1:46:23.748,7,1984,70
 Canadian Grand Prix,1:38:51.490,5,1991,69
-Canadian Grand Prix,1:31:13.591,8,2003,70
-Canadian Grand Prix,1:39:46.618,5,1988,69
 Canadian Grand Prix,1:34:37.308,9,2006,70
-Canadian Grand Prix,1:43:17.1,11,1972,80
-Canadian Grand Prix,2:01:25.20,14,1981,63
-Canadian Grand Prix,1:59:25.7,9,1969,90
-Canadian Grand Prix,1:41:12.313,8,2000,69
-Canadian Grand Prix,1:37:08.299,7,1992,69
-Canadian Grand Prix,1:46:45.53,13,1980,70
-Canadian Grand Prix,1:40:57.3,7,1998,69
-Canadian Grand Prix,1:28:24.803,8,2004,70
-Canadian Grand Prix,1:44:54.171,6,1995,68
-Canadian Grand Prix,1:52:06.892,14,1979,72
-Canadian Grand Prix,1:46:01.813,5,1985,70
-Canadian Grand Prix,1:40:09.626,14,1976,80
-Canadian Grand Prix,1:36:41.822,7,1993,69
 Canadian Grand Prix,1:55:13.1,10,1971,64
-Canadian Grand Prix,1:31:53.145,7,2015,70
-Canadian Grand Prix,1:39:12.830,7,2014,70
-Canadian Grand Prix,1:33:53.456,8,2010,70
-Canadian Grand Prix,1:42:26.415,6,1986,69
-Canadian Grand Prix,1:41:35.727,6,1999,69
-Canadian Grand Prix,1:57:49.196,16,1978,70
-Canadian Grand Prix,1:32:29.586,7,2012,70
-Canadian Grand Prix,1:44:11.292,6,2007,70
-Canadian Grand Prix,1:32:09.290,8,2005,70
-Canadian Grand Prix,1:40:00.0,16,1977,80
-Canadian Grand Prix,1:44:32.1,6,1994,69
 Canadian Grand Prix,1:33:36.111,8,2002,70
+Canadian Grand Prix,,7,2017,
+Canadian Grand Prix,1:40:26.136,14,1974,80
+Canadian Grand Prix,1:40:57.3,7,1998,69
+Canadian Grand Prix,1:21:18.4,11,1970,90
+Canadian Grand Prix,1:52:06.892,14,1979,72
+Canadian Grand Prix,1:37:08.299,7,1992,69
+Canadian Grand Prix,1:42:56.400,5,1990,70
+Canadian Grand Prix,1:48:31.838,8,1983,70
+Canadian Grand Prix,4:04:39.537,7,2011,70
+Canadian Grand Prix,1:31:13.591,8,2003,70
+Canadian Grand Prix,1:17:40.646,7,1997,54
+Canadian Grand Prix,1:42:26.415,6,1986,69
+Canadian Grand Prix,2:01:24.073,6,1989,69
+Canadian Grand Prix,1:32:29.586,7,2012,70
+Canadian Grand Prix,1:36:41.822,7,1993,69
+Canadian Grand Prix,1:34:31.522,8,2001,69
+Canadian Grand Prix,1:57:49.196,16,1978,70
+Canadian Grand Prix,1:46:39.577,8,1982,70
+Canadian Grand Prix,1:59:04.083,14,1973,80
+Canadian Grand Prix,1:31:53.145,7,2015,70
+Canadian Grand Prix,1:59:25.7,9,1969,90
+Canadian Grand Prix,1:44:11.292,6,2007,70
+Canadian Grand Prix,2:27:11.2,10,1968,90
+Canadian Grand Prix,1:33:53.456,8,2010,70
+Canadian Grand Prix,1:46:23.748,7,1984,70
+Canadian Grand Prix,1:28:24.803,8,2004,70
+Canadian Grand Prix,1:44:32.1,6,1994,69
+Canadian Grand Prix,1:40:09.626,14,1976,80
+Canadian Grand Prix,1:32:09.143,7,2013,70
+Canadian Grand Prix,1:31:05.296,7,2016,70
+Canadian Grand Prix,1:41:35.727,6,1999,69
+Canadian Grand Prix,1:43:17.1,11,1972,80
+Canadian Grand Prix,1:41:12.313,8,2000,69
+Canadian Grand Prix,2:01:25.20,14,1981,63
+Canadian Grand Prix,1:39:12.830,7,2014,70
+Canadian Grand Prix,1:44:54.171,6,1995,68
+Canadian Grand Prix,2:40:40.0,8,1967,90
+Canadian Grand Prix,1:40:00.0,16,1977,80
+Canadian Grand Prix,1:36:24.227,7,2008,70
+Canadian Grand Prix,1:46:45.53,13,1980,70
+Canadian Grand Prix,1:39:46.618,5,1988,69
+Canadian Grand Prix,1:32:09.290,8,2005,70
+Canadian Grand Prix,1:36:03.4,8,1996,69
+Canadian Grand Prix,1:46:01.813,5,1985,70
+Chinese Grand Prix,,2,2017,
+Chinese Grand Prix,1:38:53.891,3,2016,56
+Chinese Grand Prix,1:33:28.388,4,2014,54
+Chinese Grand Prix,1:39:53.618,19,2005,56
+Chinese Grand Prix,1:57:43.485,3,2009,56
+Chinese Grand Prix,1:31:57.403,17,2008,56
 Chinese Grand Prix,1:36:26.929,3,2012,56
+Chinese Grand Prix,1:46:42.163,4,2010,56
+Chinese Grand Prix,1:29:12.420,16,2004,56
+Chinese Grand Prix,1:36:26.945,3,2013,56
 Chinese Grand Prix,1:37:32.747,16,2006,56
 Chinese Grand Prix,1:36:58.226,3,2011,56
-Chinese Grand Prix,1:46:42.163,4,2010,56
-Chinese Grand Prix,1:31:57.403,17,2008,56
-Chinese Grand Prix,1:29:12.420,16,2004,56
-Chinese Grand Prix,1:57:43.485,3,2009,56
-Chinese Grand Prix,1:39:42.008,3,2015,56
 Chinese Grand Prix,1:37:58.395,16,2007,56
-Chinese Grand Prix,1:38:53.891,3,2016,56
-Chinese Grand Prix,1:39:53.618,19,2005,56
-Chinese Grand Prix,1:33:28.388,4,2014,54
-Chinese Grand Prix,1:36:26.945,3,2013,56
+Chinese Grand Prix,1:39:42.008,3,2015,56
 Dallas Grand Prix,2:01:22.617,9,1984,67
-Detroit Grand Prix,1:58:41.043,7,1982,62
-Detroit Grand Prix,1:50:16.358,5,1987,63
-Detroit Grand Prix,1:51:12.847,7,1986,63
 Detroit Grand Prix,1:55:39.851,6,1985,63
-Detroit Grand Prix,1:50:53.669,7,1983,60
+Detroit Grand Prix,1:51:12.847,7,1986,63
 Detroit Grand Prix,1:54:56.035,6,1988,63
 Detroit Grand Prix,1:55:41.842,8,1984,63
-Dutch Grand Prix,2:53:28.5,7,1952,90
-Dutch Grand Prix,2:14:45.1,3,1967,90
+Detroit Grand Prix,1:58:41.043,7,1982,62
+Detroit Grand Prix,1:50:53.669,7,1983,60
+Detroit Grand Prix,1:50:16.358,5,1987,63
 Dutch Grand Prix,2:54:23.8,5,1955,100
-Dutch Grand Prix,2:04:49.2,3,1958,75
-Dutch Grand Prix,1:37:21.468,13,1984,71
-Dutch Grand Prix,2:11:02.1,1,1962,80
-Dutch Grand Prix,1:44:52.09,12,1976,75
-Dutch Grand Prix,2:46:11.2,5,1968,90
-Dutch Grand Prix,1:41:19.775,12,1979,75
-Dutch Grand Prix,1:41:04.23,13,1978,75
+Dutch Grand Prix,2:06:42.08,4,1969,90
+Dutch Grand Prix,2:53:35.8,3,1953,90
+Dutch Grand Prix,1:40:22.43,12,1981,72
 Dutch Grand Prix,2:01:52.1,2,1961,75
-Dutch Grand Prix,1:38:41.950,12,1983,72
-Dutch Grand Prix,2:08:13.7,3,1963,80
-Dutch Grand Prix,1:39:12.45,10,1973,72
+Dutch Grand Prix,2:07:35.4,2,1964,80
+Dutch Grand Prix,1:41:04.23,13,1978,75
+Dutch Grand Prix,1:37:21.468,13,1984,71
+Dutch Grand Prix,2:03:59.1,6,1965,80
+Dutch Grand Prix,1:44:52.09,12,1976,75
+Dutch Grand Prix,2:05:26.8,3,1959,75
 Dutch Grand Prix,2:01:47.2,4,1960,75
+Dutch Grand Prix,2:46:11.2,5,1968,90
+Dutch Grand Prix,1:43:00.35,8,1974,75
+Dutch Grand Prix,2:08:13.7,3,1963,80
+Dutch Grand Prix,1:56:20.0,4,1971,70
 Dutch Grand Prix,2:20:32.5,5,1966,90
 Dutch Grand Prix,1:46:57.40,8,1975,75
-Dutch Grand Prix,1:32:29.263,11,1985,70
 Dutch Grand Prix,1:38:13.83,11,1980,72
-Dutch Grand Prix,2:53:35.8,3,1953,90
-Dutch Grand Prix,1:41:45.93,13,1977,75
+Dutch Grand Prix,1:41:19.775,12,1979,75
+Dutch Grand Prix,2:11:02.1,1,1962,80
+Dutch Grand Prix,2:53:28.5,7,1952,90
+Dutch Grand Prix,1:39:12.45,10,1973,72
+Dutch Grand Prix,1:32:29.263,11,1985,70
+Dutch Grand Prix,2:14:45.1,3,1967,90
+Dutch Grand Prix,2:04:49.2,3,1958,75
 Dutch Grand Prix,1:50:43.4,5,1970,80
+Dutch Grand Prix,1:38:41.950,12,1983,72
 Dutch Grand Prix,1:38:03.254,9,1982,72
-Dutch Grand Prix,2:03:59.1,6,1965,80
-Dutch Grand Prix,2:06:42.08,4,1969,90
-Dutch Grand Prix,1:40:22.43,12,1981,72
-Dutch Grand Prix,2:07:35.4,2,1964,80
-Dutch Grand Prix,2:05:26.8,3,1959,75
-Dutch Grand Prix,1:43:00.35,8,1974,75
-Dutch Grand Prix,1:56:20.0,4,1971,70
-European Grand Prix,1:41:54.314,14,1999,66
-European Grand Prix,1:34:43.622,9,2003,60
-European Grand Prix,1:35:58.765,5,2006,60
-European Grand Prix,1:33:26.473,4,1996,67
+Dutch Grand Prix,1:41:45.93,13,1977,75
 European Grand Prix,1:35:07.426,9,2002,60
-European Grand Prix,1:38:57.771,17,1997,69
-European Grand Prix,1:36:45.865,14,1983,76
-European Grand Prix,1:32:35.101,7,2004,60
-European Grand Prix,1:35:51.289,11,2009,57
-European Grand Prix,1:39:36.169,8,2011,57
-European Grand Prix,1:29:42.724,9,2001,67
-European Grand Prix,1:35:13.284,15,1984,67
-European Grand Prix,1:32:52.366,8,2016,51
 European Grand Prix,1:35:32.339,12,2008,57
+European Grand Prix,1:33:26.473,4,1996,67
+European Grand Prix,1:31:46.648,7,2005,59
+European Grand Prix,1:29:42.724,9,2001,67
+European Grand Prix,1:36:45.865,14,1983,76
 European Grand Prix,1:50:46.570,3,1993,76
-European Grand Prix,1:39:59.044,14,1995,67
-European Grand Prix,1:42:00.307,6,2000,67
-European Grand Prix,1:44:16.649,8,2012,57
+European Grand Prix,1:38:57.771,17,1997,69
+European Grand Prix,1:39:36.169,8,2011,57
 European Grand Prix,1:32:58.109,14,1985,75
 European Grand Prix,1:40:27.3,14,1994,69
 European Grand Prix,2:06:26.358,10,2007,60
-European Grand Prix,1:31:46.648,7,2005,59
+European Grand Prix,1:34:43.622,9,2003,60
 European Grand Prix,1:40:29.571,9,2010,57
-French Grand Prix,1:39:40.13,9,1977,80
-French Grand Prix,1:31:50.245,8,2008,70
-French Grand Prix,1:38:36.2,7,1994,72
-French Grand Prix,2:57:52.8,6,1950,64
-French Grand Prix,1:31:22.232,10,2005,70
-French Grand Prix,1:38:51.92,9,1978,54
-French Grand Prix,1:40:58.60,8,1976,54
-French Grand Prix,3:22:11.0,4,1951,77
-French Grand Prix,2:07:05.5,4,1962,54
-French Grand Prix,2:14:17.5,4,1961,52
-French Grand Prix,1:35:20.42,8,1979,80
-French Grand Prix,1:40:18.84,9,1975,54
-French Grand Prix,1:30:18.133,10,2004,70
-French Grand Prix,1:32:43.4,7,1980,54
-French Grand Prix,1:35:48.13,8,1981,80
-French Grand Prix,1:21:55.02,9,1974,80
-French Grand Prix,3:00:00.0,4,1952,77
-French Grand Prix,1:30:49.213,10,2003,70
-French Grand Prix,1:38:35.241,8,1993,72
-French Grand Prix,1:33:33.217,11,1982,54
-French Grand Prix,2:44:18.6,5,1953,60
-French Grand Prix,1:41:36.52,8,1973,54
-French Grand Prix,1:38:28.429,7,1995,72
-French Grand Prix,1:32:09.837,11,2002,72
-French Grand Prix,2:10:54.3,4,1963,53
-French Grand Prix,2:42:47.9,4,1954,61
-French Grand Prix,1:34:13.913,3,1983,54
-French Grand Prix,1:52:22.5,6,1972,38
-French Grand Prix,1:57:24.9,6,1960,50
-French Grand Prix,1:33:35.636,10,2001,72
-French Grand Prix,1:31:11.951,5,1984,79
+European Grand Prix,1:32:35.101,7,2004,60
+European Grand Prix,1:44:16.649,8,2012,57
+European Grand Prix,1:41:54.314,14,1999,66
+European Grand Prix,1:35:13.284,15,1984,67
+European Grand Prix,1:42:00.307,6,2000,67
+European Grand Prix,1:35:51.289,11,2009,57
+European Grand Prix,1:39:59.044,14,1995,67
+European Grand Prix,1:32:52.366,8,2016,51
+European Grand Prix,1:35:58.765,5,2006,60
+French Grand Prix,1:34:45.0,8,1998,71
 French Grand Prix,1:38:05.538,9,2000,72
-French Grand Prix,1:31:46.266,7,1985,53
+French Grand Prix,1:37:37.328,7,1988,80
+French Grand Prix,2:03:21.3,6,1958,50
+French Grand Prix,1:31:11.951,5,1984,79
+French Grand Prix,1:38:28.429,7,1995,72
+French Grand Prix,3:22:11.0,4,1951,77
+French Grand Prix,2:07:49.1,4,1964,57
+French Grand Prix,1:35:48.13,8,1981,80
+French Grand Prix,2:57:52.8,6,1950,64
+French Grand Prix,1:32:43.4,7,1980,54
+French Grand Prix,1:38:36.2,7,1994,72
 French Grand Prix,1:46:42.3,5,1971,55
-French Grand Prix,1:38:08.459,8,1992,69
-French Grand Prix,1:30:54.200,8,2007,70
+French Grand Prix,1:52:22.5,6,1972,38
+French Grand Prix,1:30:18.133,10,2004,70
+French Grand Prix,2:10:54.3,4,1963,53
+French Grand Prix,1:38:29.411,7,1989,80
+French Grand Prix,1:48:31.3,3,1966,48
+French Grand Prix,3:00:00.0,4,1952,77
+French Grand Prix,1:33:33.217,11,1982,54
+French Grand Prix,1:31:46.266,7,1985,53
+French Grand Prix,1:31:22.232,10,2005,70
+French Grand Prix,1:40:58.60,8,1976,54
+French Grand Prix,1:31:50.245,8,2008,70
 French Grand Prix,2:34:23.4,5,1956,61
-French Grand Prix,1:37:19.272,8,1986,80
+French Grand Prix,1:33:35.636,10,2001,72
+French Grand Prix,1:36:29.2,9,1996,72
+French Grand Prix,1:40:18.84,9,1975,54
+French Grand Prix,1:38:35.241,8,1993,72
+French Grand Prix,2:42:47.9,4,1954,61
+French Grand Prix,2:07:05.5,4,1962,54
+French Grand Prix,1:35:20.42,8,1979,80
+French Grand Prix,2:14:17.5,4,1961,52
+French Grand Prix,1:37:03.839,6,1987,80
+French Grand Prix,2:13:21.3,5,1967,80
 French Grand Prix,1:58:24.343,7,1999,72
 French Grand Prix,1:55:57.0,6,1970,38
-French Grand Prix,3:07:46.4,4,1957,77
-French Grand Prix,1:56:47.4,5,1969,38
-French Grand Prix,2:07:49.1,4,1964,57
-French Grand Prix,1:37:03.839,6,1987,80
-French Grand Prix,2:03:21.3,6,1958,50
-French Grand Prix,1:34:45.0,8,1998,71
-French Grand Prix,1:37:37.328,7,1988,80
-French Grand Prix,2:25:40.9,6,1968,60
-French Grand Prix,1:36:29.2,9,1996,72
-French Grand Prix,1:38:00.056,7,1991,72
-French Grand Prix,2:01:26.5,4,1959,50
-French Grand Prix,1:38:29.411,7,1989,80
-French Grand Prix,1:38:50.492,8,1997,72
-French Grand Prix,2:13:21.3,5,1967,80
 French Grand Prix,1:33:29.606,7,1990,80
-French Grand Prix,2:41:38.4,4,1965,40
-French Grand Prix,1:48:31.3,3,1966,48
+French Grand Prix,1:30:54.200,8,2007,70
+French Grand Prix,1:38:50.492,8,1997,72
+French Grand Prix,1:37:19.272,8,1986,80
+French Grand Prix,1:30:49.213,10,2003,70
+French Grand Prix,2:25:40.9,6,1968,60
+French Grand Prix,1:41:36.52,8,1973,54
+French Grand Prix,1:38:08.459,8,1992,69
+French Grand Prix,1:21:55.02,9,1974,80
+French Grand Prix,1:38:00.056,7,1991,72
+French Grand Prix,2:44:18.6,5,1953,60
+French Grand Prix,1:57:24.9,6,1960,50
+French Grand Prix,1:34:13.913,3,1983,54
+French Grand Prix,1:39:40.13,9,1977,80
+French Grand Prix,3:07:46.4,4,1957,77
+French Grand Prix,1:38:51.92,9,1978,54
 French Grand Prix,1:32:07.803,11,2006,70
-German Grand Prix,2:38:45.3,6,1962,15
-German Grand Prix,1:24:43.210,11,1984,44
-German Grand Prix,1:31:49.3,11,1977,47
-German Grand Prix,2:27:03.0,6,1966,15
-German Grand Prix,1:28:48.769,12,2003,67
-German Grand Prix,1:18:17.873,12,2001,45
-German Grand Prix,1:22:37.2,9,1994,45
-German Grand Prix,1:26:28.599,12,2005,67
-German Grand Prix,1:36:43.310,9,2009,60
-German Grand Prix,1:28:00.90,11,1978,45
-German Grand Prix,1:20:47.164,9,1990,45
-German Grand Prix,1:42:12.3,8,1972,14
-German Grand Prix,1:37:30.344,10,2011,60
-German Grand Prix,1:41:42.7,10,1976,14
-German Grand Prix,3:45:45.8,6,1954,22
+French Grand Prix,2:01:26.5,4,1959,50
+French Grand Prix,1:32:09.837,11,2002,72
+French Grand Prix,1:56:47.4,5,1969,38
+French Grand Prix,2:41:38.4,4,1965,40
 German Grand Prix,1:31:05.862,10,2012,67
-German Grand Prix,3:23:03.3,6,1951,20
-German Grand Prix,1:33:42.914,10,2014,67
-German Grand Prix,2:05:55.7,7,1967,15
-German Grand Prix,1:20:59.046,10,1997,45
-German Grand Prix,2:09:31.6,6,1959,60
-German Grand Prix,1:27:10.319,10,1983,45
-German Grand Prix,1:25:34.418,11,2000,45
-German Grand Prix,1:19:29.661,9,1991,45
-German Grand Prix,1:35:31.337,9,1985,67
-German Grand Prix,1:21:43.302,9,1989,45
-German Grand Prix,2:12:04.8,6,1964,15
-German Grand Prix,3:38:43.7,7,1956,22
-German Grand Prix,1:24:48.83,10,1979,45
-German Grand Prix,1:30:44.200,12,2016,67
-German Grand Prix,1:27:52.078,12,2002,67
-German Grand Prix,1:42:03.0,11,1973,14
-German Grand Prix,2:18:12.4,6,1961,15
-German Grand Prix,1:29:16.3,7,1971,12
-German Grand Prix,2:19:03.2,8,1968,14
-German Grand Prix,1:23:54.848,12,2004,66
-German Grand Prix,1:21:43.417,11,1996,45
-German Grand Prix,1:18:40.885,10,1993,45
-German Grand Prix,1:23:59.73,9,1980,45
-German Grand Prix,2:07:52.4,7,1965,15
-German Grand Prix,1:41.14.711,9,2013,60
-German Grand Prix,1:32:54.188,9,1988,44
-German Grand Prix,3:02:25.0,7,1953,18
-German Grand Prix,1:27.38.684,11,2010,67
-German Grand Prix,1:27:51.693,12,2006,67
-German Grand Prix,1:20:48.0,11,1998,45
-German Grand Prix,1:41:14.1,11,1975,14
+German Grand Prix,1:24:43.210,11,1984,44
 German Grand Prix,1:18:22.032,10,1992,45
-German Grand Prix,1:22:08.263,10,1986,44
-German Grand Prix,3:30:38.3,6,1957,22
-German Grand Prix,1:25:55.60,10,1981,45
-German Grand Prix,2:21:15.0,8,1958,15
-German Grand Prix,1:49:55.4,7,1969,14
+German Grand Prix,1:27:10.319,10,1983,45
+German Grand Prix,1:19:29.661,9,1991,45
 German Grand Prix,3:06:13.3,6,1952,18
-German Grand Prix,1:21:58.594,10,1999,45
-German Grand Prix,1:22:56.043,9,1995,45
-German Grand Prix,1:21:25.091,8,1987,44
-German Grand Prix,1:42:00.3,8,1970,50
-German Grand Prix,2:13:06.8,6,1963,15
-German Grand Prix,1:41:35.0,11,1974,14
+German Grand Prix,1:18:40.885,10,1993,45
 German Grand Prix,1:27:25.178,12,1982,45
+German Grand Prix,1:22:37.2,9,1994,45
+German Grand Prix,1:25:55.60,10,1981,45
+German Grand Prix,1:22:56.043,9,1995,45
+German Grand Prix,1:23:59.73,9,1980,45
+German Grand Prix,1:21:43.417,11,1996,45
+German Grand Prix,1:24:48.83,10,1979,45
+German Grand Prix,3:02:25.0,7,1953,18
+German Grand Prix,1:28:00.90,11,1978,45
+German Grand Prix,1:20:48.0,11,1998,45
+German Grand Prix,1:31:49.3,11,1977,47
+German Grand Prix,1:21:58.594,10,1999,45
+German Grand Prix,1:20:47.164,9,1990,45
+German Grand Prix,3:45:45.8,6,1954,22
+German Grand Prix,1:41:42.7,10,1976,14
+German Grand Prix,1:25:34.418,11,2000,45
+German Grand Prix,1:35:31.337,9,1985,67
+German Grand Prix,1:33:42.914,10,2014,67
+German Grand Prix,1:18:17.873,12,2001,45
+German Grand Prix,1:41:14.1,11,1975,14
+German Grand Prix,1:27:52.078,12,2002,67
+German Grand Prix,1:41:35.0,11,1974,14
+German Grand Prix,1:28:48.769,12,2003,67
+German Grand Prix,1:42:03.0,11,1973,14
+German Grand Prix,3:23:03.3,6,1951,20
+German Grand Prix,3:38:43.7,7,1956,22
+German Grand Prix,1:23:54.848,12,2004,66
+German Grand Prix,1:42:12.3,8,1972,14
+German Grand Prix,1:21:43.302,9,1989,45
+German Grand Prix,1:41.14.711,9,2013,60
+German Grand Prix,1:29:16.3,7,1971,12
+German Grand Prix,1:22:08.263,10,1986,44
+German Grand Prix,1:26:28.599,12,2005,67
+German Grand Prix,1:42:00.3,8,1970,50
+German Grand Prix,3:30:38.3,6,1957,22
+German Grand Prix,1:27:51.693,12,2006,67
+German Grand Prix,1:49:55.4,7,1969,14
+German Grand Prix,2:19:03.2,8,1968,14
+German Grand Prix,2:21:15.0,8,1958,15
+German Grand Prix,2:05:55.7,7,1967,15
 German Grand Prix,1:31:20.874,10,2008,67
-Hungarian Grand Prix,1:46:09.985,10,2015,69
-Hungarian Grand Prix,1:46:25.721,10,1995,77
-Hungarian Grand Prix,1:39:01.460,13,2003,70
+German Grand Prix,2:27:03.0,6,1966,15
+German Grand Prix,1:36:43.310,9,2009,60
+German Grand Prix,2:07:52.4,7,1965,15
+German Grand Prix,1:32:54.188,9,1988,44
+German Grand Prix,2:12:04.8,6,1964,15
+German Grand Prix,1:27.38.684,11,2010,67
+German Grand Prix,2:13:06.8,6,1963,15
+German Grand Prix,1:21:25.091,8,1987,44
+German Grand Prix,2:38:45.3,6,1962,15
+German Grand Prix,1:37:30.344,10,2011,60
+German Grand Prix,1:30:44.200,12,2016,67
+German Grand Prix,2:18:12.4,6,1961,15
+German Grand Prix,2:09:31.6,6,1959,60
+German Grand Prix,1:20:59.046,10,1997,45
+Hungarian Grand Prix,1:40:30.115,11,2016,70
+Hungarian Grand Prix,1:41:05.503,11,2012,69
+Hungarian Grand Prix,1:41:49.675,13,2001,77
+Hungarian Grand Prix,,11,2017,
+Hungarian Grand Prix,1:41:49.001,13,2002,77
 Hungarian Grand Prix,1:42:29.445,10,2013,70
 Hungarian Grand Prix,1:59:26.793,9,1987,76
-Hungarian Grand Prix,1:46:23.536,11,1999,77
-Hungarian Grand Prix,1:38:23.876,10,2009,70
-Hungarian Grand Prix,1:53:05.058,11,2014,70
-Hungarian Grand Prix,1:45:47.149,11,1997,77
-Hungarian Grand Prix,1:52:20.941,13,2006,70
-Hungarian Grand Prix,1:41:49.675,13,2001,77
-Hungarian Grand Prix,1:49:30.597,10,1990,77
-Hungarian Grand Prix,1:37:25.552,13,2005,70
-Hungarian Grand Prix,2:00:34.508,11,1986,76
-Hungarian Grand Prix,1:46:21.134,12,1996,77
-Hungarian Grand Prix,1:57:47.081,10,1988,76
-Hungarian Grand Prix,1:45:26.4,12,1998,77
-Hungarian Grand Prix,1:35:26.131,13,2004,70
-Hungarian Grand Prix,1:40:30.115,11,2016,70
-Hungarian Grand Prix,1:47:39.098,11,1993,77
-Hungarian Grand Prix,1:41:05.571,12,2010,70
-Hungarian Grand Prix,1:35:52.991,11,2007,70
-Hungarian Grand Prix,1:46:19.216,11,1992,77
-Hungarian Grand Prix,1:37:27.067,11,2008,70
-Hungarian Grand Prix,1:41:49.001,13,2002,77
-Hungarian Grand Prix,1:49:38.650,10,1989,77
 Hungarian Grand Prix,1:45:33.869,12,2000,77
+Hungarian Grand Prix,1:39:01.460,13,2003,70
+Hungarian Grand Prix,1:35:26.131,13,2004,70
+Hungarian Grand Prix,1:46:23.536,11,1999,77
+Hungarian Grand Prix,1:37:25.552,13,2005,70
+Hungarian Grand Prix,1:45:26.4,12,1998,77
+Hungarian Grand Prix,1:57:47.081,10,1988,76
+Hungarian Grand Prix,1:46:19.216,11,1992,77
+Hungarian Grand Prix,1:53:05.058,11,2014,70
+Hungarian Grand Prix,1:52:20.941,13,2006,70
+Hungarian Grand Prix,1:49:12.796,10,1991,77
+Hungarian Grand Prix,1:45:47.149,11,1997,77
+Hungarian Grand Prix,1:38:23.876,10,2009,70
+Hungarian Grand Prix,1:37:27.067,11,2008,70
+Hungarian Grand Prix,1:35:52.991,11,2007,70
+Hungarian Grand Prix,1:41:05.571,12,2010,70
+Hungarian Grand Prix,2:00:34.508,11,1986,76
+Hungarian Grand Prix,1:49:38.650,10,1989,77
+Hungarian Grand Prix,1:46:21.134,12,1996,77
+Hungarian Grand Prix,1:49:30.597,10,1990,77
 Hungarian Grand Prix,1.48:00.185,10,1994,77
 Hungarian Grand Prix,1:46:42.337,11,2011,70
-Hungarian Grand Prix,1:49:12.796,10,1991,77
-Hungarian Grand Prix,1:41:05.503,11,2012,69
+Hungarian Grand Prix,1:46:09.985,10,2015,69
+Hungarian Grand Prix,1:47:39.098,11,1993,77
+Hungarian Grand Prix,1:46:25.721,10,1995,77
 Indian Grand Prix,1:30:35.002,17,2011,60
-Indian Grand Prix,1:31:12.187,16,2013,60
 Indian Grand Prix,1:31:10.744,17,2012,60
-Indianapolis 500,3:41:14.25,3,1957,200
+Indian Grand Prix,1:31:12.187,16,2013,60
 Indianapolis 500,3:53:59.53,3,1955,200
 Indianapolis 500,3:53:01.69,2,1953,200
-Indianapolis 500,3:36:11.36,3,1960,200
+Indianapolis 500,3:40:49.20,2,1959,200
 Indianapolis 500,3:44:13.80,4,1958,200
+Indianapolis 500,3:36:11.36,3,1960,200
+Indianapolis 500,3:52:41.88,2,1952,200
+Indianapolis 500,3:41:14.25,3,1957,200
 Indianapolis 500,3:57:38.05,2,1951,200
 Indianapolis 500,3:49:17.27,2,1954,200
 Indianapolis 500,3:53:28.84,3,1956,200
-Indianapolis 500,3:52:41.88,2,1952,200
 Indianapolis 500,2:46:55.97,3,1950,138
-Indianapolis 500,3:40:49.20,2,1959,200
-Italian Grand Prix,2:04:05.4,8,1959,72
-Italian Grand Prix,1:18:37.806,13,2007,53
 Italian Grand Prix,1:16:58.493,15,2001,53
-Italian Grand Prix,2:25:04.4,7,1955,50
-Italian Grand Prix,1:20:29.065,14,1984,51
-Italian Grand Prix,1:40:14.8,9,1968,68
+Italian Grand Prix,,13,2017,
 Italian Grand Prix,1:47:14.8,7,1966,68
-Italian Grand Prix,2:10:51.8,8,1964,78
-Italian Grand Prix,1:29:58.4,10,1972,55
-Italian Grand Prix,1:20:46.172,13,2011,53
-Italian Grand Prix,2:51:17.4,7,1950,80
-Italian Grand Prix,1:29:17.0,13,1973,55
-Italian Grand Prix,2:29:08.4,7,1962,86
-Italian Grand Prix,2:47:47.9,8,1954,80
-Italian Grand Prix,1:16:19.982,15,2002,53
-Italian Grand Prix,1:17:59.451,12,1985,51
-Italian Grand Prix,1:27:50.30,14,1977,52
-Italian Grand Prix,1:27:31.638,14,2000,53
-Italian Grand Prix,1:23:10.880,13,1983,52
-Italian Grand Prix,2:21:09.2,9,1960,50
-Italian Grand Prix,1:07:04.54,14,1978,40
-Italian Grand Prix,1:17:07.509,13,1993,53
-Italian Grand Prix,1:19:10.236,13,2014,53
-Italian Grand Prix,1:17:54.319,12,1991,53
+Italian Grand Prix,2:23:41.3,8,1956,50
+Italian Grand Prix,2:25:04.4,7,1955,50
+Italian Grand Prix,1:18:33.352,12,2013,53
 Italian Grand Prix,1:18:12.60,9,1971,55
-Italian Grand Prix,1:17:04.609,13,1997,53
-Italian Grand Prix,1:17:42.889,13,1986,51
-Italian Grand Prix,2:49:45.9,9,1953,80
-Italian Grand Prix,1:14:28.659,15,2005,53
+Italian Grand Prix,1:17:54.319,12,1991,53
+Italian Grand Prix,2:51:17.4,7,1950,80
+Italian Grand Prix,1:22:42.6,13,1975,52
 Italian Grand Prix,2:35:03.9,8,1957,87
-Italian Grand Prix,1:14:19.838,14,2003,53
+Italian Grand Prix,1:07:04.54,14,1978,40
+Italian Grand Prix,1:14:51.975,15,2006,53
+Italian Grand Prix,1:17:10.3,14,1998,53
+Italian Grand Prix,1:17:59.451,12,1985,51
+Italian Grand Prix,2:03:47.8,10,1958,70
+Italian Grand Prix,1:17:57.878,12,1990,53
 Italian Grand Prix,1:18:15.349,13,1992,53
 Italian Grand Prix,1:39:07.1,10,1970,68
-Italian Grand Prix,1:17:57.878,12,1990,53
-Italian Grand Prix,1:17:02.923,13,1999,53
-Italian Grand Prix,1:22:25.734,15,1982,52
-Italian Grand Prix,1:17:43.632,14,1996,53
-Italian Grand Prix,1:22:56.6,13,1974,52
-Italian Grand Prix,1:14:51.975,15,2006,53
-Italian Grand Prix,1:43:45.0,9,1967,68
-Italian Grand Prix,1:14:47.707,11,1987,50
-Italian Grand Prix,1:18:27.916,12,1995,53
-Italian Grand Prix,2:42:39.3,7,1951,80
-Italian Grand Prix,2:03:47.8,10,1958,70
-Italian Grand Prix,2:24:19.6,7,1963,86
-Italian Grand Prix,2:50:45.6,8,1952,80
-Italian Grand Prix,1:39:11.26,8,1969,68
-Italian Grand Prix,1:18:33.352,12,2013,53
-Italian Grand Prix,2:03:13.0,7,1961,43
-Italian Grand Prix,1:26:36.897,13,1981,52
-Italian Grand Prix,1:30:35.6,13,1976,52
-Italian Grand Prix,1:15:18.448,15,2004,53
-Italian Grand Prix,2:04:52.8,8,1965,76
-Italian Grand Prix,1:17:28.089,14,2016,53
-Italian Grand Prix,1:22:42.6,13,1975,52
-Italian Grand Prix,1:22:00.22,13,1979,50
-Italian Grand Prix,1:18:03.2,12,1994,53
-Italian Grand Prix,1:19:27.550,12,1989,53
-Italian Grand Prix,1:16:21.706,13,2009,53
-Italian Grand Prix,1:17:39.744,12,1988,51
-Italian Grand Prix,1:17:10.3,14,1998,53
-Italian Grand Prix,1:18:00.688,12,2015,53
+Italian Grand Prix,1:19:10.236,13,2014,53
+Italian Grand Prix,1:14:28.659,15,2005,53
+Italian Grand Prix,2:47:47.9,8,1954,80
+Italian Grand Prix,2:04:05.4,8,1959,72
 Italian Grand Prix,1:19:41.221,13,2012,53
-Italian Grand Prix,1:38:07.52,12,1980,60
+Italian Grand Prix,1:39:11.26,8,1969,68
+Italian Grand Prix,1:29:58.4,10,1972,55
+Italian Grand Prix,1:18:37.806,13,2007,53
+Italian Grand Prix,1:23:10.880,13,1983,52
+Italian Grand Prix,1:40:14.8,9,1968,68
+Italian Grand Prix,1:22:00.22,13,1979,50
+Italian Grand Prix,2:21:09.2,9,1960,50
+Italian Grand Prix,1:17:07.509,13,1993,53
+Italian Grand Prix,1:17:02.923,13,1999,53
+Italian Grand Prix,1:30:35.6,13,1976,52
+Italian Grand Prix,1:17:04.609,13,1997,53
+Italian Grand Prix,1:16:19.982,15,2002,53
+Italian Grand Prix,2:03:13.0,7,1961,43
+Italian Grand Prix,2:49:45.9,9,1953,80
+Italian Grand Prix,1:20:46.172,13,2011,53
+Italian Grand Prix,2:29:08.4,7,1962,86
+Italian Grand Prix,2:42:39.3,7,1951,80
+Italian Grand Prix,1:15:18.448,15,2004,53
+Italian Grand Prix,1:18:03.2,12,1994,53
 Italian Grand Prix,1:26:47.494,14,2008,53
+Italian Grand Prix,1:22:25.734,15,1982,52
+Italian Grand Prix,1:17:28.089,14,2016,53
+Italian Grand Prix,1:17:42.889,13,1986,51
+Italian Grand Prix,1:17:39.744,12,1988,51
+Italian Grand Prix,1:27:31.638,14,2000,53
+Italian Grand Prix,2:24:19.6,7,1963,86
+Italian Grand Prix,1:19:27.550,12,1989,53
 Italian Grand Prix,1:16:24.572,14,2010,53
-Italian Grand Prix,2:23:41.3,8,1956,50
-Japanese Grand Prix,1:27:33.298,17,2001,53
-Japanese Grand Prix,1:35:06.277,15,1989,53
-Japanese Grand Prix,1:26:49.301,15,2013,53
-Japanese Grand Prix,1:36:52.930,16,1995,53
-Japanese Grand Prix,1:27:23.4,16,1998,51
-Japanese Grand Prix,2:00:34.579,15,2007,67
-Japanese Grand Prix,1:43:58.86,16,1976,73
-Japanese Grand Prix,1:26:59.698,17,2002,53
-Japanese Grand Prix,1:30:53.427,15,2011,53
-Japanese Grand Prix,1:28:56.242,15,2012,53
-Japanese Grand Prix,1:40:27.912,15,1993,53
-Japanese Grand Prix,1:30:21.892,16,2008,67
-Japanese Grand Prix,1:30:27.323,16,2010,53
-Japanese Grand Prix,1:51:43.021,15,2014,44
-Japanese Grand Prix,1:33:26.173,15,1988,51
-Japanese Grand Prix,1:55:53.532,15,1994,50
-Japanese Grand Prix,1:24:26.985,17,2004,53
-Japanese Grand Prix,1:31:18.785,16,1999,53
-Japanese Grand Prix,1:26:43.333,17,2016,53
-Japanese Grand Prix,1:29:02.212,18,2005,53
-Japanese Grand Prix,1:33:09.533,15,1992,53
-Japanese Grand Prix,1:28:20.443,15,2009,53
-Japanese Grand Prix,1:32:58.072,15,1987,51
-Japanese Grand Prix,1:25:11.743,16,2003,53
-Japanese Grand Prix,1:32:33.791,16,1996,52
-Japanese Grand Prix,1:34:36.824,15,1990,53
-Japanese Grand Prix,,14,2015,53
-Japanese Grand Prix,1:29:53.435,16,2000,53
-Japanese Grand Prix,1:31:51.68,17,1977,73
-Japanese Grand Prix,1:23:52.413,17,2006,53
-Japanese Grand Prix,1:29:48.446,16,1997,53
+Italian Grand Prix,1:22:56.6,13,1974,52
+Italian Grand Prix,2:10:51.8,8,1964,78
+Italian Grand Prix,1:27:50.30,14,1977,52
+Italian Grand Prix,1:43:45.0,9,1967,68
+Italian Grand Prix,1:29:17.0,13,1973,55
+Italian Grand Prix,2:50:45.6,8,1952,80
+Italian Grand Prix,1:26:36.897,13,1981,52
+Italian Grand Prix,1:18:27.916,12,1995,53
+Italian Grand Prix,1:18:00.688,12,2015,53
+Italian Grand Prix,1:38:07.52,12,1980,60
+Italian Grand Prix,1:17:43.632,14,1996,53
+Italian Grand Prix,2:04:52.8,8,1965,76
+Italian Grand Prix,1:14:47.707,11,1987,50
+Italian Grand Prix,1:16:21.706,13,2009,53
+Italian Grand Prix,1:14:19.838,14,2003,53
+Italian Grand Prix,1:20:29.065,14,1984,51
 Japanese Grand Prix,1:32:10.695,15,1991,53
+Japanese Grand Prix,1:35:06.277,15,1989,53
+Japanese Grand Prix,1:32:33.791,16,1996,52
+Japanese Grand Prix,1:28:20.443,15,2009,53
+Japanese Grand Prix,1:29:53.435,16,2000,53
+Japanese Grand Prix,,16,2017,
+Japanese Grand Prix,1:25:11.743,16,2003,53
+Japanese Grand Prix,1:31:51.68,17,1977,73
+Japanese Grand Prix,1:33:09.533,15,1992,53
+Japanese Grand Prix,1:24:26.985,17,2004,53
+Japanese Grand Prix,1:36:52.930,16,1995,53
+Japanese Grand Prix,1:51:43.021,15,2014,44
+Japanese Grand Prix,1:30:21.892,16,2008,67
+Japanese Grand Prix,1:30:53.427,15,2011,53
+Japanese Grand Prix,1:55:53.532,15,1994,50
+Japanese Grand Prix,1:29:48.446,16,1997,53
+Japanese Grand Prix,1:23:52.413,17,2006,53
+Japanese Grand Prix,,14,2015,53
+Japanese Grand Prix,1:26:59.698,17,2002,53
+Japanese Grand Prix,1:33:26.173,15,1988,51
+Japanese Grand Prix,1:26:49.301,15,2013,53
+Japanese Grand Prix,1:26:43.333,17,2016,53
+Japanese Grand Prix,1:40:27.912,15,1993,53
+Japanese Grand Prix,2:00:34.579,15,2007,67
+Japanese Grand Prix,1:28:56.242,15,2012,53
+Japanese Grand Prix,1:31:18.785,16,1999,53
+Japanese Grand Prix,1:43:58.86,16,1976,73
+Japanese Grand Prix,1:29:02.212,18,2005,53
+Japanese Grand Prix,1:34:36.824,15,1990,53
+Japanese Grand Prix,1:27:33.298,17,2001,53
+Japanese Grand Prix,1:27:23.4,16,1998,51
+Japanese Grand Prix,1:32:58.072,15,1987,51
+Japanese Grand Prix,1:30:27.323,16,2010,53
+Korean Grand Prix,2:48:20.810,17,2010,55
+Korean Grand Prix,1:36:28.651,16,2012,55
 Korean Grand Prix,1:43:13.701,14,2013,55
 Korean Grand Prix,1:38:01.994,16,2011,55
-Korean Grand Prix,1:36:28.651,16,2012,55
-Korean Grand Prix,2:48:20.810,17,2010,55
 Luxembourg Grand Prix,1:32:14.789,15,1998,67
 Luxembourg Grand Prix,1:31:27.843,15,1997,67
+Malaysian Grand Prix,1:38:56.681,2,2013,56
 Malaysian Grand Prix,1:31:33.736,2,2005,56
+Malaysian Grand Prix,1:10:52.092,2,2009,31
+Malaysian Grand Prix,1:47:34.801,2,2001,55
+Malaysian Grand Prix,2:44:51.812,2,2012,56
+Malaysian Grand Prix,1:31:07.490,2,2004,56
 Malaysian Grand Prix,1:30:40.529,2,2006,56
-Malaysian Grand Prix,1:32:14.930,2,2007,56
+Malaysian Grand Prix,1:40:25.974,2,2014,56
+Malaysian Grand Prix,1:36:38.494,15,1999,56
+Malaysian Grand Prix,1:37:39.832,2,2011,56
 Malaysian Grand Prix,1:33:48.412,3,2010,56
 Malaysian Grand Prix,1:37:12.776,16,2016,56
-Malaysian Grand Prix,1:34:12.912,2,2002,56
-Malaysian Grand Prix,1:37:39.832,2,2011,56
-Malaysian Grand Prix,1:38:56.681,2,2013,56
+Malaysian Grand Prix,1:32:14.930,2,2007,56
 Malaysian Grand Prix,1:41:05.793,2,2015,56
+Malaysian Grand Prix,1:34:12.912,2,2002,56
+Malaysian Grand Prix,,15,2017,
 Malaysian Grand Prix,1:31:18.555,2,2008,56
-Malaysian Grand Prix,2:44:51.812,2,2012,56
-Malaysian Grand Prix,1:32:22.195,2,2003,56
-Malaysian Grand Prix,1:40:25.974,2,2014,56
 Malaysian Grand Prix,1:35:54.235,17,2000,56
-Malaysian Grand Prix,1:36:38.494,15,1999,56
-Malaysian Grand Prix,1:47:34.801,2,2001,55
-Malaysian Grand Prix,1:31:07.490,2,2004,56
-Malaysian Grand Prix,1:10:52.092,2,2009,31
-Mexican Grand Prix,2:09:52.1,9,1963,65
-Mexican Grand Prix,1:32:35.783,6,1990,69
-Mexican Grand Prix,1:59:28.70,11,1967,65
-Mexican Grand Prix,1:35:21.431,4,1989,69
-Mexican Grand Prix,1:56:43.95,12,1968,65
-Mexican Grand Prix,1:30:15.737,4,1988,67
-Mexican Grand Prix,1:40:31.402,19,2016,71
-Mexican Grand Prix,2:06:35.34,9,1966,65
-Mexican Grand Prix,1:29:52.205,6,1991,67
-Mexican Grand Prix,2:08:32.10,10,1965,65
-Mexican Grand Prix,1:54:08.80,11,1969,65
-Mexican Grand Prix,1:42:35.038,17,2015,71
-Mexican Grand Prix,1:33:18.700,15,1986,68
-Mexican Grand Prix,1:53:28.3,13,1970,65
-Mexican Grand Prix,2:09:50.32,10,1964,65
-Mexican Grand Prix,1:31:53.587,2,1992,69
+Malaysian Grand Prix,1:32:22.195,2,2003,56
 Mexican Grand Prix,1:26:24.207,14,1987,63
-Monaco Grand Prix,1:47:22.561,7,2001,78
-Monaco Grand Prix,1:55:34.365,6,1980,76
-Monaco Grand Prix,1:42:19.010,7,2003,78
-Monaco Grand Prix,1:52:10.947,6,1993,78
-Monaco Grand Prix,1:43:43.116,7,2006,78
-Monaco Grand Prix,2:46:29.7,2,1962,100
-Monaco Grand Prix,1:49:55.3,4,1994,78
-Monaco Grand Prix,2:41:49.7,1,1963,100
-Monaco Grand Prix,2:45:50.1,1,1961,100
-Monaco Grand Prix,1:49:31.812,4,1999,78
-Monaco Grand Prix,1:58:03.7,6,1974,78
-Monaco Grand Prix,1:49:27.661,6,2014,78
-Monaco Grand Prix,1:50:59.372,6,1992,78
-Monaco Grand Prix,3:00:32.9,2,1956,100
-Monaco Grand Prix,1:40:44.282,6,2009,78
-Monaco Grand Prix,2:01:21.31,5,1975,75
-Monaco Grand Prix,2:41:19.5,1,1964,100
-Monaco Grand Prix,1:40:29.329,5,2007,78
-Monaco Grand Prix,1:45:39.055,7,2002,78
-Monaco Grand Prix,1:54:11.259,6,1982,76
-Monaco Grand Prix,1:53:02.334,4,1991,78
-Monaco Grand Prix,2:53:45.5,2,1960,100
-Monaco Grand Prix,2:37:39.6,2,1965,100
-Monaco Grand Prix,1:55:22.48,7,1979,76
-Monaco Grand Prix,1:57:44.3,6,1973,78
-Monaco Grand Prix,1:45:46.601,6,2004,77
-Monaco Grand Prix,1:53:11.258,5,1995,78
-Monaco Grand Prix,1:49:18.420,6,2015,78
-Monaco Grand Prix,1:52:46.982,4,1990,78
-Monaco Grand Prix,1:55:14.66,5,1978,75
-Monaco Grand Prix,2:09:38.373,6,2011,78
-Monaco Grand Prix,1:56:38.121,5,1983,76
-Monaco Grand Prix,2:33:10.5,1,1966,100
-Monaco Grand Prix,3:10:12.8,2,1957,105
-Monaco Grand Prix,2:15:52.056,6,2013,78
-Monaco Grand Prix,2:55:51.3,1,1959,100
-Monaco Grand Prix,1:49:28.213,7,2000,78
-Monaco Grand Prix,2:26:55.3,4,1972,80
-Monaco Grand Prix,1:53:33.251,3,1989,77
-Monaco Grand Prix,1:59:51.47,6,1976,78
-Monaco Grand Prix,2:00:42.742,6,2008,76
-Monaco Grand Prix,1:01:07.740,6,1984,31
-Monaco Grand Prix,2:34:34.3,2,1967,100
-Monaco Grand Prix,2:00:45.629,6,1996,75
-Monaco Grand Prix,2:58:09.8,2,1955,100
-Monaco Grand Prix,1:57:17.077,3,1988,78
-Monaco Grand Prix,3:13:18.7,2,1950,100
-Monaco Grand Prix,2:00:32.3,3,1968,80
-Monaco Grand Prix,1:52:21.3,3,1971,80
-Monaco Grand Prix,1:45:15.556,6,2005,78
-Monaco Grand Prix,1:51:58.034,4,1985,78
+Mexican Grand Prix,2:06:35.34,9,1966,65
+Mexican Grand Prix,2:08:32.10,10,1965,65
+Mexican Grand Prix,,18,2017,
+Mexican Grand Prix,1:59:28.70,11,1967,65
+Mexican Grand Prix,2:09:50.32,10,1964,65
+Mexican Grand Prix,2:09:52.1,9,1963,65
+Mexican Grand Prix,1:56:43.95,12,1968,65
+Mexican Grand Prix,1:33:18.700,15,1986,68
+Mexican Grand Prix,1:35:21.431,4,1989,69
+Mexican Grand Prix,1:40:31.402,19,2016,71
+Mexican Grand Prix,1:42:35.038,17,2015,71
+Mexican Grand Prix,1:54:08.80,11,1969,65
+Mexican Grand Prix,1:31:53.587,2,1992,69
+Mexican Grand Prix,1:53:28.3,13,1970,65
+Mexican Grand Prix,1:29:52.205,6,1991,67
+Mexican Grand Prix,1:30:15.737,4,1988,67
+Mexican Grand Prix,1:32:35.783,6,1990,69
 Monaco Grand Prix,1:57:54.085,4,1987,78
-Monaco Grand Prix,1:46:06.557,6,2012,78
-Monaco Grand Prix,1:59:29.133,6,2016,78
-Monaco Grand Prix,2:52:27.9,2,1958,100
-Monaco Grand Prix,1:56:59.4,3,1969,80
-Monaco Grand Prix,2:00:05.654,5,1997,62
+Monaco Grand Prix,2:01:21.31,5,1975,75
 Monaco Grand Prix,1:51:24.4,6,1998,78
+Monaco Grand Prix,1:56:59.4,3,1969,80
+Monaco Grand Prix,1:47:22.561,7,2001,78
+Monaco Grand Prix,,6,2017,
+Monaco Grand Prix,1:56:38.121,5,1983,76
+Monaco Grand Prix,1:46:06.557,6,2012,78
+Monaco Grand Prix,2:52:27.9,2,1958,100
+Monaco Grand Prix,1:50:59.372,6,1992,78
+Monaco Grand Prix,3:10:12.8,2,1957,105
+Monaco Grand Prix,2:55:51.3,1,1959,100
+Monaco Grand Prix,1:59:29.133,6,2016,78
+Monaco Grand Prix,2:53:45.5,2,1960,100
+Monaco Grand Prix,1:58:03.7,6,1974,78
+Monaco Grand Prix,3:13:18.7,2,1950,100
+Monaco Grand Prix,1:51:58.034,4,1985,78
+Monaco Grand Prix,1:49:28.213,7,2000,78
+Monaco Grand Prix,1:45:39.055,7,2002,78
+Monaco Grand Prix,1:53:02.334,4,1991,78
+Monaco Grand Prix,1:52:10.947,6,1993,78
+Monaco Grand Prix,2:09:38.373,6,2011,78
+Monaco Grand Prix,2:45:50.1,1,1961,100
+Monaco Grand Prix,3:00:32.9,2,1956,100
+Monaco Grand Prix,1:59:51.47,6,1976,78
+Monaco Grand Prix,2:46:29.7,2,1962,100
+Monaco Grand Prix,1:01:07.740,6,1984,31
 Monaco Grand Prix,1:50:13.355,6,2010,78
-Monaco Grand Prix,1:54:37.4,3,1970,80
-Monaco Grand Prix,1:57:52.77,6,1977,76
+Monaco Grand Prix,2:15:52.056,6,2013,78
+Monaco Grand Prix,1:57:44.3,6,1973,78
+Monaco Grand Prix,1:49:55.3,4,1994,78
 Monaco Grand Prix,1:55:41.060,4,1986,78
+Monaco Grand Prix,1:42:19.010,7,2003,78
 Monaco Grand Prix,1:54:23.38,6,1981,76
+Monaco Grand Prix,2:41:49.7,1,1963,100
+Monaco Grand Prix,1:53:33.251,3,1989,77
+Monaco Grand Prix,1:54:37.4,3,1970,80
+Monaco Grand Prix,1:57:17.077,3,1988,78
+Monaco Grand Prix,2:41:19.5,1,1964,100
+Monaco Grand Prix,1:49:31.812,4,1999,78
+Monaco Grand Prix,1:53:11.258,5,1995,78
+Monaco Grand Prix,1:40:44.282,6,2009,78
+Monaco Grand Prix,2:26:55.3,4,1972,80
+Monaco Grand Prix,2:58:09.8,2,1955,100
+Monaco Grand Prix,2:37:39.6,2,1965,100
+Monaco Grand Prix,1:45:46.601,6,2004,77
+Monaco Grand Prix,1:55:34.365,6,1980,76
+Monaco Grand Prix,2:00:42.742,6,2008,76
+Monaco Grand Prix,1:49:18.420,6,2015,78
+Monaco Grand Prix,1:57:52.77,6,1977,76
+Monaco Grand Prix,2:33:10.5,1,1966,100
+Monaco Grand Prix,1:52:46.982,4,1990,78
+Monaco Grand Prix,2:00:45.629,6,1996,75
+Monaco Grand Prix,1:52:21.3,3,1971,80
+Monaco Grand Prix,1:55:22.48,7,1979,76
+Monaco Grand Prix,2:34:34.3,2,1967,100
+Monaco Grand Prix,1:40:29.329,5,2007,78
+Monaco Grand Prix,1:49:27.661,6,2014,78
+Monaco Grand Prix,2:00:05.654,5,1997,62
+Monaco Grand Prix,2:00:32.3,3,1968,80
+Monaco Grand Prix,1:45:15.556,6,2005,78
+Monaco Grand Prix,1:55:14.66,5,1978,75
+Monaco Grand Prix,1:43:43.116,7,2006,78
+Monaco Grand Prix,1:54:11.259,6,1982,76
 Moroccan Grand Prix,2:09:15.1,11,1958,53
 Pacific Grand Prix,1:48:49.972,15,1995,83
 Pacific Grand Prix,1:46:01.693,2,1994,83
 Pescara Grand Prix,2:59:22.7,7,1957,18
-Portuguese Grand Prix,1:37:40.958,13,1988,70
-Portuguese Grand Prix,1:41:52.145,13,1995,71
-Portuguese Grand Prix,1:35:42.304,13,1991,71
-Portuguese Grand Prix,2:11:27.80,9,1958,50
 Portuguese Grand Prix,1:34:46.659,14,1992,71
 Portuguese Grand Prix,1:37:21.900,14,1986,70
-Portuguese Grand Prix,1:22:11.014,13,1990,61
-Portuguese Grand Prix,1:37:03.906,12,1987,70
-Portuguese Grand Prix,2:00:28.006,2,1985,67
-Portuguese Grand Prix,2:19:00.03,8,1960,55
-Portuguese Grand Prix,1:41:11.753,16,1984,70
-Portuguese Grand Prix,1:45:10.1,13,1994,71
-Portuguese Grand Prix,1:36:48.546,13,1989,71
-Portuguese Grand Prix,1:32:46.309,14,1993,71
+Portuguese Grand Prix,2:11:27.80,9,1958,50
 Portuguese Grand Prix,2:11:55.41,7,1959,62
+Portuguese Grand Prix,1:32:46.309,14,1993,71
+Portuguese Grand Prix,1:41:11.753,16,1984,70
+Portuguese Grand Prix,2:19:00.03,8,1960,55
+Portuguese Grand Prix,1:37:40.958,13,1988,70
+Portuguese Grand Prix,1:37:03.906,12,1987,70
+Portuguese Grand Prix,1:45:10.1,13,1994,71
+Portuguese Grand Prix,1:35:42.304,13,1991,71
+Portuguese Grand Prix,1:41:52.145,13,1995,71
 Portuguese Grand Prix,1:40:22.915,15,1996,70
+Portuguese Grand Prix,1:36:48.546,13,1989,71
+Portuguese Grand Prix,1:22:11.014,13,1990,61
+Portuguese Grand Prix,2:00:28.006,2,1985,67
 Russian Grand Prix,1:37:11.024,15,2015,53
-Russian Grand Prix,1:32:41.997,4,2016,53
 Russian Grand Prix,1:31:50.744,16,2014,53
-San Marino Grand Prix,1:35:14.750,3,1991,61
-San Marino Grand Prix,1:31:39.776,3,2000,62
+Russian Grand Prix,1:32:41.997,4,2016,53
+Russian Grand Prix,,4,2017,
+San Marino Grand Prix,1:26:51.245,2,1989,58
+San Marino Grand Prix,1:34:25.4,4,1998,62
+San Marino Grand Prix,1:33:44.792,3,1999,62
+San Marino Grand Prix,1:36:53.679,4,1984,60
+San Marino Grand Prix,1:51:23.97,4,1981,60
+San Marino Grand Prix,1:37:52.460,4,1983,60
+San Marino Grand Prix,1:31:06.486,4,2006,62
 San Marino Grand Prix,1:30:44.817,4,2001,62
+San Marino Grand Prix,1:35:14.750,3,1991,61
 San Marino Grand Prix,1:32:41.264,2,1988,60
 San Marino Grand Prix,1:35:26.156,5,1996,63
-San Marino Grand Prix,1:31:06.486,4,2006,62
-San Marino Grand Prix,1:33:44.792,3,1999,62
-San Marino Grand Prix,1:29:10.789,4,2002,62
-San Marino Grand Prix,1:32:28.408,3,1986,60
-San Marino Grand Prix,1:36:53.679,4,1984,60
-San Marino Grand Prix,1:34:25.4,4,1998,62
-San Marino Grand Prix,1:33:20.413,4,1993,61
-San Marino Grand Prix,1:31:24.076,2,1987,59
-San Marino Grand Prix,1:26:19.670,4,2004,62
-San Marino Grand Prix,1:26:51.245,2,1989,58
-San Marino Grand Prix,1:34:35.955,3,1985,60
-San Marino Grand Prix,1:27:41.921,4,2005,62
-San Marino Grand Prix,1:41:42.522,3,1995,63
-San Marino Grand Prix,1:28:40.927,5,1992,60
-San Marino Grand Prix,1:37:52.460,4,1983,60
-San Marino Grand Prix,1:51:23.97,4,1981,60
-San Marino Grand Prix,1:28:28.642,3,1994,58
-San Marino Grand Prix,1:31:00.673,4,1997,62
-San Marino Grand Prix,1:30:55.478,3,1990,61
 San Marino Grand Prix,1:36:38.887,4,1982,60
+San Marino Grand Prix,1:32:28.408,3,1986,60
+San Marino Grand Prix,1:31:24.076,2,1987,59
+San Marino Grand Prix,1:31:39.776,3,2000,62
+San Marino Grand Prix,1:28:40.927,5,1992,60
+San Marino Grand Prix,1:31:00.673,4,1997,62
+San Marino Grand Prix,1:34:35.955,3,1985,60
+San Marino Grand Prix,1:33:20.413,4,1993,61
 San Marino Grand Prix,1:28:12.058,4,2003,62
+San Marino Grand Prix,1:29:10.789,4,2002,62
+San Marino Grand Prix,1:41:42.522,3,1995,63
+San Marino Grand Prix,1:28:28.642,3,1994,58
+San Marino Grand Prix,1:26:19.670,4,2004,62
+San Marino Grand Prix,1:30:55.478,3,1990,61
+San Marino Grand Prix,1:27:41.921,4,2005,62
 Singapore Grand Prix,1:59:13.132,13,2013,61
-Singapore Grand Prix,1:57:16.304,15,2008,61
-Singapore Grand Prix,2:00:04.795,14,2014,60
-Singapore Grand Prix,2:01:22.118,13,2015,61
 Singapore Grand Prix,1:57:53.579,15,2010,61
 Singapore Grand Prix,2:00:26.144,14,2012,59
+Singapore Grand Prix,1:57:16.304,15,2008,61
 Singapore Grand Prix,1:55:48.950,15,2016,61
-Singapore Grand Prix,1:56:06.337,14,2009,61
 Singapore Grand Prix,1:59:04.757,14,2011,61
-South African Grand Prix,1:38:45.082,1,1993,72
+Singapore Grand Prix,2:00:04.795,14,2014,60
+Singapore Grand Prix,1:56:06.337,14,2009,61
+Singapore Grand Prix,2:01:22.118,13,2015,61
+Singapore Grand Prix,,14,2017,
 South African Grand Prix,1:43:11.07,3,1973,79
-South African Grand Prix,1:41:49.96,3,1979,78
-South African Grand Prix,1:43:16.90,3,1975,78
-South African Grand Prix,2:06:46.0,1,1965,85
-South African Grand Prix,1:42:15.767,3,1978,78
-South African Grand Prix,2:08:03.3,9,1962,82
-South African Grand Prix,1:32:08.401,1,1982,77
-South African Grand Prix,1:33:25.708,15,1983,77
-South African Grand Prix,1:45:49.1,2,1972,79
-South African Grand Prix,2:05:45.9,1,1967,80
-South African Grand Prix,1:29:23.430,2,1984,75
-South African Grand Prix,1:28:22.866,15,1985,75
-South African Grand Prix,1:42:40.96,3,1974,78
-South African Grand Prix,1:47:35.5,1,1971,79
-South African Grand Prix,1:36:45.320,1,1992,72
 South African Grand Prix,1:53:56.6,1,1968,80
 South African Grand Prix,1:36:52.54,3,1980,78
-South African Grand Prix,1:42:18.4,2,1976,78
-South African Grand Prix,1:42:21.6,3,1977,78
-South African Grand Prix,1:50:39.1,1,1969,80
+South African Grand Prix,1:42:40.96,3,1974,78
+South African Grand Prix,1:45:49.1,2,1972,79
+South African Grand Prix,1:32:08.401,1,1982,77
+South African Grand Prix,2:06:46.0,1,1965,85
+South African Grand Prix,1:29:23.430,2,1984,75
+South African Grand Prix,1:42:15.767,3,1978,78
 South African Grand Prix,1:49:35.4,1,1970,80
+South African Grand Prix,1:42:18.4,2,1976,78
+South African Grand Prix,1:33:25.708,15,1983,77
+South African Grand Prix,1:36:45.320,1,1992,72
+South African Grand Prix,1:28:22.866,15,1985,75
+South African Grand Prix,1:50:39.1,1,1969,80
+South African Grand Prix,1:41:49.96,3,1979,78
+South African Grand Prix,1:47:35.5,1,1971,79
+South African Grand Prix,1:43:16.90,3,1975,78
+South African Grand Prix,2:05:45.9,1,1967,80
+South African Grand Prix,2:08:03.3,9,1962,82
+South African Grand Prix,1:38:45.082,1,1993,72
+South African Grand Prix,1:42:21.6,3,1977,78
 South African Grand Prix,2:10:36.9,10,1963,85
-Spanish Grand Prix,1:48:47.735,2,1986,72
-Spanish Grand Prix,1:32:27.685,5,1993,65
-Spanish Grand Prix,2:00:29.56,4,1974,84
-Spanish Grand Prix,1:41:12.555,5,2015,66
-Spanish Grand Prix,1:36:14.3,5,1994,65
-Spanish Grand Prix,1:56:10.674,4,1992,65
-Spanish Grand Prix,1:46:35.01,7,1981,80
-Spanish Grand Prix,1:34:13.665,5,1999,65
-Spanish Grand Prix,1:41:40.017,5,2016,66
-Spanish Grand Prix,1:33:46.933,5,2003,65
-Spanish Grand Prix,1:26:21.759,6,2006,66
-Spanish Grand Prix,1:30:29.981,5,2002,65
-Spanish Grand Prix,42:53.7,4,1975,29
-Spanish Grand Prix,1:38:41.541,14,1991,65
-Spanish Grand Prix,1:48:18.7,4,1973,75
 Spanish Grand Prix,3:13:52.1,9,1954,80
-Spanish Grand Prix,1:38:19.051,4,2008,66
-Spanish Grand Prix,1:39:11.84,5,1979,75
-Spanish Grand Prix,1:39:03.301,5,2011,66
-Spanish Grand Prix,1:34:20.507,4,1995,65
-Spanish Grand Prix,1:41:05.155,5,2014,66
-Spanish Grand Prix,2:03:41.2,3,1972,90
-Spanish Grand Prix,1:27:32.841,5,2004,66
-Spanish Grand Prix,1:48:01.461,14,1990,73
-Spanish Grand Prix,1:31:36.230,4,2007,65
-Spanish Grand Prix,1:41:47.06,7,1978,75
-Spanish Grand Prix,1:39:16.596,5,2013,66
-Spanish Grand Prix,1:47:48.264,14,1989,73
-Spanish Grand Prix,2:46:54.10,8,1951,70
-Spanish Grand Prix,1:59:49.307,7,1996,65
-Spanish Grand Prix,1:42:20.43,4,1976,75
-Spanish Grand Prix,1:49:03.4,2,1971,75
-Spanish Grand Prix,2:15:02.1,2,1968,90
-Spanish Grand Prix,1:33:55.390,5,2000,65
-Spanish Grand Prix,1:27:16.830,5,2005,66
-Spanish Grand Prix,1:30:35.896,6,1997,64
-Spanish Grand Prix,1:48:43.851,14,1988,72
+Spanish Grand Prix,1:38:41.541,14,1991,65
+Spanish Grand Prix,1:36:14.3,5,1994,65
+Spanish Grand Prix,1:48:47.735,2,1986,72
+Spanish Grand Prix,1:41:40.017,5,2016,66
+Spanish Grand Prix,2:10:58.2,2,1970,90
 Spanish Grand Prix,1:49:12.692,13,1987,72
 Spanish Grand Prix,2:16:54.0,2,1969,90
-Spanish Grand Prix,1:31:03.305,5,2001,65
-Spanish Grand Prix,1:42:.52.22,5,1977,75
-Spanish Grand Prix,1:33:38.3,5,1998,65
-Spanish Grand Prix,2:10:58.2,2,1970,90
 Spanish Grand Prix,1:35:44.101,5,2010,66
-Spanish Grand Prix,1:39:09.145,5,2012,66
+Spanish Grand Prix,1:48:18.7,4,1973,75
+Spanish Grand Prix,2:46:54.10,8,1951,70
+Spanish Grand Prix,1:42:20.43,4,1976,75
+Spanish Grand Prix,1:33:46.933,5,2003,65
+Spanish Grand Prix,1:32:27.685,5,1993,65
+Spanish Grand Prix,1:46:35.01,7,1981,80
+Spanish Grand Prix,1:39:03.301,5,2011,66
+Spanish Grand Prix,1:39:16.596,5,2013,66
+Spanish Grand Prix,1:30:29.981,5,2002,65
+Spanish Grand Prix,1:33:55.390,5,2000,65
+Spanish Grand Prix,1:41:05.155,5,2014,66
+Spanish Grand Prix,2:00:29.56,4,1974,84
 Spanish Grand Prix,1:37:19.202,5,2009,66
-Swedish Grand Prix,1:46:56.4,8,1977,72
-Swedish Grand Prix,1:46:53.729,7,1976,72
-Swedish Grand Prix,1:41:00.606,8,1978,70
+Spanish Grand Prix,2:03:41.2,3,1972,90
+Spanish Grand Prix,1:34:13.665,5,1999,65
+Spanish Grand Prix,1:34:20.507,4,1995,65
+Spanish Grand Prix,1:27:16.830,5,2005,66
+Spanish Grand Prix,1:41:12.555,5,2015,66
+Spanish Grand Prix,1:41:47.06,7,1978,75
+Spanish Grand Prix,1:27:32.841,5,2004,66
+Spanish Grand Prix,2:15:02.1,2,1968,90
+Spanish Grand Prix,1:38:19.051,4,2008,66
+Spanish Grand Prix,1:47:48.264,14,1989,73
+Spanish Grand Prix,1:59:49.307,7,1996,65
+Spanish Grand Prix,1:56:10.674,4,1992,65
+Spanish Grand Prix,1:39:11.84,5,1979,75
+Spanish Grand Prix,1:49:03.4,2,1971,75
+Spanish Grand Prix,1:42:.52.22,5,1977,75
+Spanish Grand Prix,1:48:43.851,14,1988,72
+Spanish Grand Prix,1:31:36.230,4,2007,65
+Spanish Grand Prix,1:26:21.759,6,2006,66
+Spanish Grand Prix,1:30:35.896,6,1997,64
+Spanish Grand Prix,1:39:09.145,5,2012,66
+Spanish Grand Prix,1:48:01.461,14,1990,73
+Spanish Grand Prix,1:31:03.305,5,2001,65
+Spanish Grand Prix,42:53.7,4,1975,29
+Spanish Grand Prix,1:33:38.3,5,1998,65
+Spanish Grand Prix,,5,2017,
 Swedish Grand Prix,1:59:18.319,7,1975,80
-Swedish Grand Prix,1:58:31.391,7,1974,80
+Swedish Grand Prix,1:46:53.729,7,1976,72
 Swedish Grand Prix,1:56:46.049,7,1973,80
-Swiss Grand Prix,2:02:53.7,4,1950,42
+Swedish Grand Prix,1:46:56.4,8,1977,72
+Swedish Grand Prix,1:58:31.391,7,1974,80
+Swedish Grand Prix,1:41:00.606,8,1978,70
 Swiss Grand Prix,2:07:53.64,1,1951,42
 Swiss Grand Prix,3:01:46.1,1,1952,62
 Swiss Grand Prix,3:01:34.40,8,1953,65
 Swiss Grand Prix,1:32:41.087,14,1982,80
 Swiss Grand Prix,3:00:34.5,7,1954,66
-Turkish Grand Prix,1:28:47.620,7,2010,58
+Swiss Grand Prix,2:02:53.7,4,1950,42
 Turkish Grand Prix,1:26:49.451,5,2008,58
 Turkish Grand Prix,1:24:34.454,14,2005,58
-Turkish Grand Prix,1:28:51.082,14,2006,58
-Turkish Grand Prix,1:26:24.848,7,2009,58
 Turkish Grand Prix,1:30:17.558,4,2011,58
+Turkish Grand Prix,1:28:51.082,14,2006,58
+Turkish Grand Prix,1:28:47.620,7,2010,58
 Turkish Grand Prix,1:26:42.161,12,2007,58
-United States Grand Prix,2:12:35.7,9,1959,42
-United States Grand Prix,1:57:56.84,10,1969,108
-United States Grand Prix,1:57:32.79,12,1970,108
-United States Grand Prix,1:59:20.29,11,1968,108
-United States Grand Prix,1:32:42.840,16,2001,73
-United States Grand Prix,1:40:04.785,17,2014,56
-United States Grand Prix,1:43:51.991,11,1971,59
-United States Grand Prix,1:50:52.703,16,2015,56
-United States Grand Prix,1:41:45.354,12,1972,59
+Turkish Grand Prix,1:26:24.848,7,2009,58
 United States Grand Prix,1:39:17.168,18,2013,56
-United States Grand Prix,1:41:15.779,15,1973,59
-United States Grand Prix,2:01:33.133,5,1989,75
-United States Grand Prix,1:31:08.0,16,2002,73
-United States Grand Prix,2:03:13.2,10,1967,108
-United States Grand Prix,1:36:30.883,15,2000,73
-United States Grand Prix,1:40:21.439,15,1974,59
-United States Grand Prix,1:52:32.829,1,1990,72
-United States Grand Prix,1:40:48.800,15,1978,59
-United States Grand Prix,1:35:55.269,19,2012,56
-United States Grand Prix,1:31:09.965,7,2007,73
 United States Grand Prix,2:09:40.11,8,1966,108
-United States Grand Prix,1:42:58.175,14,1975,59
-United States Grand Prix,2:20:36.1,9,1965,110
-United States Grand Prix,1:33:35.997,15,2003,73
-United States Grand Prix,2:28:52.2,10,1960,75
+United States Grand Prix,1:52:32.829,1,1990,72
+United States Grand Prix,1:40:04.785,17,2014,56
 United States Grand Prix,1:34:36.05,14,1980,59
-United States Grand Prix,2:00:47.828,1,1991,81
-United States Grand Prix,1:29:43.181,9,2005,73
 United States Grand Prix,1:42:40.742,15,1976,59
-United States Grand Prix,1:34:35.199,10,2006,73
-United States Grand Prix,2:16:38.0,9,1964,110
-United States Grand Prix,1:40:29.914,9,2004,73
+United States Grand Prix,2:03:13.2,10,1967,108
+United States Grand Prix,2:20:36.1,9,1965,110
+United States Grand Prix,1:59:20.29,11,1968,108
+United States Grand Prix,1:31:09.965,7,2007,73
 United States Grand Prix,1:52:17.734,15,1979,59
-United States Grand Prix,1:38:12.618,18,2016,56
 United States Grand Prix,2:19:22.1,8,1963,110
+United States Grand Prix,1:57:56.84,10,1969,108
+United States Grand Prix,1:31:08.0,16,2002,73
+United States Grand Prix,1:34:35.199,10,2006,73
+United States Grand Prix,1:57:32.79,12,1970,108
+United States Grand Prix,,17,2017,
+United States Grand Prix,1:42:58.175,14,1975,59
+United States Grand Prix,1:50:52.703,16,2015,56
+United States Grand Prix,1:40:48.800,15,1978,59
+United States Grand Prix,1:43:51.991,11,1971,59
 United States Grand Prix,2:07:13.0,8,1962,100
+United States Grand Prix,2:01:33.133,5,1989,75
 United States Grand Prix,2:13:45.8,8,1961,100
+United States Grand Prix,1:29:43.181,9,2005,73
+United States Grand Prix,1:35:55.269,19,2012,56
+United States Grand Prix,1:32:42.840,16,2001,73
+United States Grand Prix,1:41:45.354,12,1972,59
+United States Grand Prix,2:00:47.828,1,1991,81
+United States Grand Prix,1:40:29.914,9,2004,73
+United States Grand Prix,1:41:15.779,15,1973,59
+United States Grand Prix,2:28:52.2,10,1960,75
 United States Grand Prix,1:58:23.267,15,1977,59
+United States Grand Prix,1:36:30.883,15,2000,73
+United States Grand Prix,2:12:35.7,9,1959,42
+United States Grand Prix,1:38:12.618,18,2016,56
+United States Grand Prix,1:33:35.997,15,2003,73
+United States Grand Prix,1:40:21.439,15,1974,59
+United States Grand Prix,2:16:38.0,9,1964,110
 United States Grand Prix West,1:53:34.889,2,1983,75
-United States Grand Prix West,1:52:01.301,4,1978,80
 United States Grand Prix West,1:53:18.471,3,1976,80
+United States Grand Prix West,1:51:35.470,4,1977,80
+United States Grand Prix West,1:52:01.301,4,1978,80
 United States Grand Prix West,1:50:25.40,4,1979,80
 United States Grand Prix West,1:50:19.4,4,1980,80
 United States Grand Prix West,1:50:41.33,1,1981,80
 United States Grand Prix West,1:58:25.318,3,1982,75
-United States Grand Prix West,1:51:35.470,4,1977,80

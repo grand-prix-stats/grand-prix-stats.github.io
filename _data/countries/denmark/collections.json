@@ -1,22 +1,26 @@
 [
     {
-        "title": "List of All Formula 1® Circuits in Denmark",
+        "title": "List of All Formula 1® Circuits in Denmark by Name",
         "url": "circuits"
     },
     {
-        "title": "List of All Formula 1® Races in Denmark",
+        "title": "List of All Formula 1® Races in Denmark by Year",
         "url": "races"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Raced in Denmark",
+        "title": "List of All Formula 1® Drivers from Denmark by Surname",
+        "url": "drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced in Denmark by Number of Times",
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race in Denmark",
+        "title": "List of All Formula 1® Drivers that Have Won a Race in Denmark by Number of Times",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Denmark",
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Denmark by Number of Times",
         "url": "podium-drivers"
     }
 ]

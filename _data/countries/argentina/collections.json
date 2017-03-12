@@ -1,22 +1,26 @@
 [
     {
-        "title": "List of All Formula 1® Circuits in Argentina",
+        "title": "List of All Formula 1® Circuits in Argentina by Name",
         "url": "circuits"
     },
     {
-        "title": "List of All Formula 1® Races in Argentina",
+        "title": "List of All Formula 1® Races in Argentina by Year",
         "url": "races"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Raced in Argentina",
+        "title": "List of All Formula 1® Drivers from Argentina by Surname",
+        "url": "drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced in Argentina by Number of Times",
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race in Argentina",
+        "title": "List of All Formula 1® Drivers that Have Won a Race in Argentina by Number of Times",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Argentina",
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Argentina by Number of Times",
         "url": "podium-drivers"
     }
 ]

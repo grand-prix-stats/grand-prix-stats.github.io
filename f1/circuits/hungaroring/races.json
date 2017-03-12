@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Hungarian Grand Prix",
+        "race_duration": null,
+        "round": 11,
+        "season": 2017
+    },
+    {
         "laps_completed": 70,
         "name": "Hungarian Grand Prix",
         "race_duration": "1:40:30.115",

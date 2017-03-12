@@ -1,6 +1,7 @@
 ---
 title: List of Current Formula 1® Circuits
 layout: page
+rowCount: 20
 ---
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
@@ -26,4 +27,7 @@ layout: page
 | [Silverstone Circuit](/f1/circuits/silverstone) | Silverstone | [UK](/f1/countries/uk) | 51 | Alain Prost 🇫🇷 | 5 |
 | [Circuit of the Americas](/f1/circuits/americas) | Austin | [USA](/f1/countries/usa) | 6 | Lewis Hamilton 🇬🇧 | 4 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

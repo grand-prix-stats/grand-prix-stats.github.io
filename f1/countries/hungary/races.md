@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Hungary
+title: List of All Formula 1® Races in Hungary by Year
 layout: page
+rowCount: 32
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 11 | Hungarian Grand Prix |   |   |
 | 2016 | 11 | Hungarian Grand Prix | 70 | 1:40:30.115 |
 | 2015 | 10 | Hungarian Grand Prix | 69 | 1:46:09.985 |
 | 2014 | 11 | Hungarian Grand Prix | 70 | 1:53:05.058 |
@@ -37,4 +39,7 @@ layout: page
 | 1987 | 9 | Hungarian Grand Prix | 76 | 1:59:26.793 |
 | 1986 | 11 | Hungarian Grand Prix | 76 | 2:00:34.508 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

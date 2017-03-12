@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Brands Hatch
 layout: page
+rowCount: 14
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -20,4 +21,7 @@ layout: page
 | 1966 | 4 | British Grand Prix | 80 | 2:13:13.4 |
 | 1964 | 5 | British Grand Prix | 80 | 2:15:07.0 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

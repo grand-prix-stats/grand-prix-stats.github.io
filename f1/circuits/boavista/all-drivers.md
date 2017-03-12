@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuito da Boavista
 layout: page
+rowCount: 24
 ---
 
 | Driver | Times |
@@ -30,4 +31,7 @@ layout: page
 | Roy Salvadori 🇬🇧 | 1 |
 | Stuart Lewis-Evans 🇬🇧 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

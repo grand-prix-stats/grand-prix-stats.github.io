@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Mosport International Raceway
 layout: page
+rowCount: 90
 ---
 
 | Driver | Times |
@@ -96,4 +97,7 @@ layout: page
 | Silvio Moser 🇨🇭 | 1 |
 | Tom Jones 🇺🇸 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

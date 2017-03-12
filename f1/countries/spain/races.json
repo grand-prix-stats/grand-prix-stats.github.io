@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Spanish Grand Prix",
+        "race_duration": null,
+        "round": 5,
+        "season": 2017
+    },
+    {
         "laps_completed": 66,
         "name": "Spanish Grand Prix",
         "race_duration": "1:41:40.017",

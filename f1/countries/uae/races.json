@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Abu Dhabi Grand Prix",
+        "race_duration": null,
+        "round": 20,
+        "season": 2017
+    },
+    {
         "laps_completed": 55,
         "name": "Abu Dhabi Grand Prix",
         "race_duration": "1:38:04.013",

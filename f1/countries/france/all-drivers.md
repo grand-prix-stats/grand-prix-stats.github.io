@@ -1,6 +1,7 @@
 ---
-title: List of All Formula 1® Drivers that Have Raced in France
+title: List of All Formula 1® Drivers that Have Raced in France by Number of Times
 layout: page
+rowCount: 376
 ---
 
 | Driver | Times |
@@ -382,4 +383,7 @@ layout: page
 | Wolfgang Seidel 🇩🇪 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

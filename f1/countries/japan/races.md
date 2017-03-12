@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Japan
+title: List of All Formula 1® Races in Japan by Year
 layout: page
+rowCount: 35
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 16 | Japanese Grand Prix |   |   |
 | 2016 | 17 | Japanese Grand Prix | 53 | 1:26:43.333 |
 | 2015 | 14 | Japanese Grand Prix | 53 |   |
 | 2014 | 15 | Japanese Grand Prix | 44 | 1:51:43.021 |
@@ -40,4 +42,7 @@ layout: page
 | 1977 | 17 | Japanese Grand Prix | 73 | 1:31:51.68 |
 | 1976 | 16 | Japanese Grand Prix | 73 | 1:43:58.86 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

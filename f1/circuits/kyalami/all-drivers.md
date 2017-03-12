@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Kyalami
 layout: page
+rowCount: 165
 ---
 
 | Driver | Times |
@@ -171,4 +172,7 @@ layout: page
 | Tim Schenken 🇦🇺 | 1 |
 | Tom Belsø 🇩🇰 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

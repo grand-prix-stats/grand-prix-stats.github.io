@@ -1,22 +1,26 @@
 [
     {
-        "title": "List of All Formula 1® Circuits in Mexico",
+        "title": "List of All Formula 1® Circuits in Mexico by Name",
         "url": "circuits"
     },
     {
-        "title": "List of All Formula 1® Races in Mexico",
+        "title": "List of All Formula 1® Races in Mexico by Year",
         "url": "races"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Raced in Mexico",
+        "title": "List of All Formula 1® Drivers from Mexico by Surname",
+        "url": "drivers"
+    },
+    {
+        "title": "List of All Formula 1® Drivers that Have Raced in Mexico by Number of Times",
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race in Mexico",
+        "title": "List of All Formula 1® Drivers that Have Won a Race in Mexico by Number of Times",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Mexico",
+        "title": "List of All Formula 1® Drivers that Have Been in the Podium in Mexico by Number of Times",
         "url": "podium-drivers"
     }
 ]

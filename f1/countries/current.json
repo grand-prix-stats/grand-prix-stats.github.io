@@ -1,1 +1,102 @@
-[]
+[
+    {
+        "code": "au",
+        "flag": "🇦🇺",
+        "name": "Australia"
+    },
+    {
+        "code": "at",
+        "flag": "🇦🇹",
+        "name": "Austria"
+    },
+    {
+        "code": "az",
+        "flag": "🇦🇿",
+        "name": "Azerbaijan"
+    },
+    {
+        "code": "bh",
+        "flag": "🇧🇭",
+        "name": "Bahrain"
+    },
+    {
+        "code": "be",
+        "flag": "🇧🇪",
+        "name": "Belgium"
+    },
+    {
+        "code": "br",
+        "flag": "🇧🇷",
+        "name": "Brazil"
+    },
+    {
+        "code": "ca",
+        "flag": "🇨🇦",
+        "name": "Canada"
+    },
+    {
+        "code": "cn",
+        "flag": "🇨🇳",
+        "name": "China"
+    },
+    {
+        "code": "hu",
+        "flag": "🇭🇺",
+        "name": "Hungary"
+    },
+    {
+        "code": "it",
+        "flag": "🇮🇹",
+        "name": "Italy"
+    },
+    {
+        "code": "jp",
+        "flag": "🇯🇵",
+        "name": "Japan"
+    },
+    {
+        "code": "my",
+        "flag": "🇲🇾",
+        "name": "Malaysia"
+    },
+    {
+        "code": "mx",
+        "flag": "🇲🇽",
+        "name": "Mexico"
+    },
+    {
+        "code": "mc",
+        "flag": "🇲🇨",
+        "name": "Monaco"
+    },
+    {
+        "code": "ru",
+        "flag": "🇷🇺",
+        "name": "Russia"
+    },
+    {
+        "code": "sg",
+        "flag": "🇸🇬",
+        "name": "Singapore"
+    },
+    {
+        "code": "es",
+        "flag": "🇪🇸",
+        "name": "Spain"
+    },
+    {
+        "code": "ae",
+        "flag": "🇦🇪",
+        "name": "UAE"
+    },
+    {
+        "code": "gb",
+        "flag": "🇬🇧",
+        "name": "UK"
+    },
+    {
+        "code": "us",
+        "flag": "🇺🇸",
+        "name": "USA"
+    }
+]

@@ -1,6 +1,7 @@
 ---
-title: List of All Formula 1® Drivers that Have Raced in Azerbaijan
+title: List of All Formula 1® Drivers that Have Raced in Azerbaijan by Number of Times
 layout: page
+rowCount: 22
 ---
 
 | Driver | Times |
@@ -28,4 +29,7 @@ layout: page
 | Sergio Pérez 🇲🇽 | 1 |
 | Valtteri Bottas 🇫🇮 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

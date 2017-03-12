@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Hungaroring
 layout: page
+rowCount: 176
 ---
 
 | Driver | Times |
@@ -182,4 +183,7 @@ layout: page
 | Volker Weidler 🇩🇪 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

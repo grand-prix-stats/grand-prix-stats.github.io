@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in USA
+title: List of All Formula 1® Races in USA by Year
 layout: page
+rowCount: 68
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 17 | United States Grand Prix |   |   |
 | 2016 | 18 | United States Grand Prix | 56 | 1:38:12.618 |
 | 2015 | 16 | United States Grand Prix | 56 | 1:50:52.703 |
 | 2014 | 17 | United States Grand Prix | 56 | 1:40:04.785 |
@@ -73,4 +75,7 @@ layout: page
 | 1951 | 2 | Indianapolis 500 | 200 | 3:57:38.05 |
 | 1950 | 3 | Indianapolis 500 | 138 | 2:46:55.97 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

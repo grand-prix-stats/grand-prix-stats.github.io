@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Australian Grand Prix",
+        "race_duration": null,
+        "round": 1,
+        "season": 2017
+    },
+    {
         "laps_completed": 57,
         "name": "Australian Grand Prix",
         "race_duration": "1:48:15.565",

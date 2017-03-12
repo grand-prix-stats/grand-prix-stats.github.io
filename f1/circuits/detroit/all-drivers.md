@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Detroit Street Circuit
 layout: page
+rowCount: 67
 ---
 
 | Driver | Times |
@@ -73,4 +74,7 @@ layout: page
 | Stefano Modena 🇮🇹 | 1 |
 | Yannick Dalmas 🇫🇷 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

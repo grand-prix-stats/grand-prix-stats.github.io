@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Mexico
+title: List of All Formula 1® Races in Mexico by Year
 layout: page
+rowCount: 18
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 18 | Mexican Grand Prix |   |   |
 | 2016 | 19 | Mexican Grand Prix | 71 | 1:40:31.402 |
 | 2015 | 17 | Mexican Grand Prix | 71 | 1:42:35.038 |
 | 1992 | 2 | Mexican Grand Prix | 69 | 1:31:53.587 |
@@ -23,4 +25,7 @@ layout: page
 | 1964 | 10 | Mexican Grand Prix | 65 | 2:09:50.32 |
 | 1963 | 9 | Mexican Grand Prix | 65 | 2:09:52.1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

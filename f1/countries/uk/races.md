@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in UK
+title: List of All Formula 1® Races in UK by Year
 layout: page
+rowCount: 71
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 10 | British Grand Prix |   |   |
 | 2016 | 10 | British Grand Prix | 52 | 1:34:55.831 |
 | 2015 | 9 | British Grand Prix | 52 | 1:31:27.729 |
 | 2014 | 9 | British Grand Prix | 52 | 2:26:52.094 |
@@ -76,4 +78,7 @@ layout: page
 | 1951 | 5 | British Grand Prix | 90 | 2:42:18.2 |
 | 1950 | 1 | British Grand Prix | 70 | 2:13:23.6 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

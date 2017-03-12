@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "United States Grand Prix",
+        "race_duration": null,
+        "round": 17,
+        "season": 2017
+    },
+    {
         "laps_completed": 56,
         "name": "United States Grand Prix",
         "race_duration": "1:38:12.618",

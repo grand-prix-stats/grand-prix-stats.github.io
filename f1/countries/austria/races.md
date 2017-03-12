@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Austria
+title: List of All Formula 1® Races in Austria by Year
 layout: page
+rowCount: 30
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 9 | Austrian Grand Prix |   |   |
 | 2016 | 9 | Austrian Grand Prix | 71 | 1:27:38.107 |
 | 2015 | 8 | Austrian Grand Prix | 71 | 1:30:16.930 |
 | 2014 | 8 | Austrian Grand Prix | 71 | 1:27:54.976 |
@@ -35,4 +37,7 @@ layout: page
 | 1970 | 9 | Austrian Grand Prix | 60 | 1:42:17.3 |
 | 1964 | 7 | Austrian Grand Prix | 105 | 2:06:18.23 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

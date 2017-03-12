@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Indianapolis Motor Speedway
 layout: page
+rowCount: 19
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -25,4 +26,7 @@ layout: page
 | 1951 | 2 | Indianapolis 500 | 200 | 3:57:38.05 |
 | 1950 | 3 | Indianapolis 500 | 138 | 2:46:55.97 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

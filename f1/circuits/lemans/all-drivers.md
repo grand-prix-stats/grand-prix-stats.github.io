@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Le Mans
 layout: page
+rowCount: 15
 ---
 
 | Driver | Times |
@@ -21,4 +22,7 @@ layout: page
 | Mike Spence 🇬🇧 | 1 |
 | Pedro Rodríguez 🇲🇽 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

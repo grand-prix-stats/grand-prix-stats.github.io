@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Countries
 layout: page
+rowCount: 46
 ---
 
 | Name | Code | Flag |
@@ -52,4 +53,7 @@ layout: page
 | [USA](/f1/countries/usa) | us | 🇺🇸 |
 | [Venezuela](/f1/countries/venezuela) | ve | 🇻🇪 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

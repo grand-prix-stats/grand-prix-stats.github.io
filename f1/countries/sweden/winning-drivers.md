@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race in Sweden
+title: List of All Formula 1® Drivers that Have Won a Race in Sweden by Number of Times
 layout: page
 ---
 

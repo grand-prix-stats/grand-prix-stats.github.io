@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Adelaide Street Circuit
 layout: page
+rowCount: 89
 ---
 
 | Driver | Times |
@@ -95,4 +96,7 @@ layout: page
 | Taki Inoue 🇯🇵 | 1 |
 | Toshio Suzuki 🇯🇵 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

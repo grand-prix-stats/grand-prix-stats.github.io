@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Constructor Teams by Name
 layout: page
+rowCount: 204
 ---
 
 | Name | Country | Flag |
@@ -210,4 +211,7 @@ layout: page
 | Wolf | [Canada](/f1/countries/canada) | 🇨🇦 |
 | Zakspeed | [Germany](/f1/countries/germany) | 🇩🇪 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

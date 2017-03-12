@@ -1,10 +1,12 @@
 ---
-title: List of All Formula 1® Races in Spain
+title: List of All Formula 1® Races in Spain by Year
 layout: page
+rowCount: 54
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 5 | Spanish Grand Prix |   |   |
 | 2016 | 5 | Spanish Grand Prix | 66 | 1:41:40.017 |
 | 2015 | 5 | Spanish Grand Prix | 66 | 1:41:12.555 |
 | 2014 | 5 | Spanish Grand Prix | 66 | 1:41:05.155 |
@@ -59,4 +61,7 @@ layout: page
 | 1954 | 9 | Spanish Grand Prix | 80 | 3:13:52.1 |
 | 1951 | 8 | Spanish Grand Prix | 70 | 2:46:54.10 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

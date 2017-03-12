@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Buddh International Circuit
 layout: page
+rowCount: 3
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -9,4 +10,7 @@ layout: page
 | 2012 | 17 | Indian Grand Prix | 60 | 1:31:10.744 |
 | 2011 | 17 | Indian Grand Prix | 60 | 1:30:35.002 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

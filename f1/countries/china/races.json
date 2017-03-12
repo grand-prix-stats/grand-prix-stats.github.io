@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Chinese Grand Prix",
+        "race_duration": null,
+        "round": 2,
+        "season": 2017
+    },
+    {
         "laps_completed": 56,
         "name": "Chinese Grand Prix",
         "race_duration": "1:38:53.891",

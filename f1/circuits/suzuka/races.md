@@ -1,10 +1,12 @@
 ---
 title: List of All Formula 1® Races at Suzuka Circuit
 layout: page
+rowCount: 29
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 16 | Japanese Grand Prix |   |   |
 | 2016 | 17 | Japanese Grand Prix | 53 | 1:26:43.333 |
 | 2015 | 14 | Japanese Grand Prix | 53 |   |
 | 2014 | 15 | Japanese Grand Prix | 44 | 1:51:43.021 |
@@ -34,4 +36,7 @@ layout: page
 | 1988 | 15 | Japanese Grand Prix | 51 | 1:33:26.173 |
 | 1987 | 15 | Japanese Grand Prix | 51 | 1:32:58.072 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

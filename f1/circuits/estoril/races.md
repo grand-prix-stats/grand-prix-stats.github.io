@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autódromo do Estoril
 layout: page
+rowCount: 13
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -19,4 +20,7 @@ layout: page
 | 1985 | 2 | Portuguese Grand Prix | 67 | 2:00:28.006 |
 | 1984 | 16 | Portuguese Grand Prix | 70 | 1:41:11.753 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

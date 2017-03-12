@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Canadian Grand Prix",
+        "race_duration": null,
+        "round": 7,
+        "season": 2017
+    },
+    {
         "laps_completed": 70,
         "name": "Canadian Grand Prix",
         "race_duration": "1:31:05.296",

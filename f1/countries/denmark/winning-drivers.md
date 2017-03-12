@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race in Denmark
+title: List of All Formula 1® Drivers that Have Won a Race in Denmark by Number of Times
 layout: page
 ---
 

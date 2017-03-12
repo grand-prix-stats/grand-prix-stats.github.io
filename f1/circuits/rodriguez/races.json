@@ -1,5 +1,12 @@
 [
     {
+        "laps_completed": null,
+        "name": "Mexican Grand Prix",
+        "race_duration": null,
+        "round": 18,
+        "season": 2017
+    },
+    {
         "laps_completed": 71,
         "name": "Mexican Grand Prix",
         "race_duration": "1:40:31.402",

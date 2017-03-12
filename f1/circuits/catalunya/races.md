@@ -1,10 +1,12 @@
 ---
 title: List of All Formula 1® Races at Circuit de Catalunya
 layout: page
+rowCount: 27
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
 |--|--|--|--|--|
+| 2017 | 5 | Spanish Grand Prix |   |   |
 | 2016 | 5 | Spanish Grand Prix | 66 | 1:41:40.017 |
 | 2015 | 5 | Spanish Grand Prix | 66 | 1:41:12.555 |
 | 2014 | 5 | Spanish Grand Prix | 66 | 1:41:05.155 |
@@ -32,4 +34,7 @@ layout: page
 | 1992 | 4 | Spanish Grand Prix | 65 | 1:56:10.674 |
 | 1991 | 14 | Spanish Grand Prix | 65 | 1:38:41.541 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
