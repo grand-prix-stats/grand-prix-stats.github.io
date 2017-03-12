@@ -3,7 +3,9 @@ title: Grand Prix Stats
 layout: page
 ---
 
-Welcome to Grand Prix Stats.
+Welcome to Grand Prix Stats. This website is programmatically generated from
+Formula 1® race results. All statistics and lists of data will be automatically
+updated after each race.
 
 ### Formula 1® Statistics
 
@@ -13,3 +15,9 @@ Welcome to Grand Prix Stats.
 - [{{ site.data.totals[0].countries }} countries](/f1/countries)
 - [{{ site.data.totals[0].constructors }} constructors](/f1/constructors)
 - [{{ site.data.totals[0].drivers }} drivers](/f1/drivers)
+
+### Site Updates
+
+Don't miss any site updates, check our [Grand Prix Stats Blog](/blog) or, for
+the more technical, the site's
+[commit history on GitHub](https://github.com/grand-prix-stats/grand-prix-stats.github.io/commits/master)
