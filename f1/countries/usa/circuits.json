@@ -1,0 +1,90 @@
+[
+    {
+        "country": "USA",
+        "location": "Austin",
+        "most_wins_driver": "Lewis Hamilton 🇬🇧",
+        "name": "Circuit of the Americas",
+        "races": 6,
+        "wins": 4
+    },
+    {
+        "country": "USA",
+        "location": "California",
+        "most_wins_driver": "John Watson 🇬🇧",
+        "name": "Long Beach",
+        "races": 8,
+        "wins": 1
+    },
+    {
+        "country": "USA",
+        "location": "California",
+        "most_wins_driver": "Stirling Moss 🇬🇧",
+        "name": "Riverside International Raceway",
+        "races": 1,
+        "wins": 1
+    },
+    {
+        "country": "USA",
+        "location": "Dallas",
+        "most_wins_driver": "Keke Rosberg 🇫🇮",
+        "name": "Fair Park",
+        "races": 1,
+        "wins": 1
+    },
+    {
+        "country": "USA",
+        "location": "Detroit",
+        "most_wins_driver": "Ayrton Senna 🇧🇷",
+        "name": "Detroit Street Circuit",
+        "races": 7,
+        "wins": 3
+    },
+    {
+        "country": "USA",
+        "location": "Florida",
+        "most_wins_driver": "Bruce McLaren 🇳🇿",
+        "name": "Sebring International Raceway",
+        "races": 1,
+        "wins": 1
+    },
+    {
+        "country": "USA",
+        "location": "Indianapolis",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Indianapolis Motor Speedway",
+        "races": 19,
+        "wins": 5
+    },
+    {
+        "country": "USA",
+        "location": "Nevada",
+        "most_wins_driver": "Michele Alboreto 🇮🇹",
+        "name": "Las Vegas Street Circuit",
+        "races": 2,
+        "wins": 1
+    },
+    {
+        "country": "USA",
+        "location": "New Jersey",
+        "most_wins_driver": null,
+        "name": "Port Imperial Street Circuit",
+        "races": 0,
+        "wins": null
+    },
+    {
+        "country": "USA",
+        "location": "New York State",
+        "most_wins_driver": "Jim Clark 🇬🇧",
+        "name": "Watkins Glen",
+        "races": 20,
+        "wins": 3
+    },
+    {
+        "country": "USA",
+        "location": "Phoenix",
+        "most_wins_driver": "Ayrton Senna 🇧🇷",
+        "name": "Phoenix street circuit",
+        "races": 3,
+        "wins": 2
+    }
+]

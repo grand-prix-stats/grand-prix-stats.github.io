@@ -1,0 +1,26 @@
+[
+    {
+        "country": "Belgium",
+        "location": "Brussels",
+        "most_wins_driver": "Emerson Fittipaldi 🇧🇷",
+        "name": "Nivelles-Baulers",
+        "races": 2,
+        "wins": 2
+    },
+    {
+        "country": "Belgium",
+        "location": "Heusden-Zolder",
+        "most_wins_driver": "Niki Lauda 🇦🇹",
+        "name": "Zolder",
+        "races": 10,
+        "wins": 2
+    },
+    {
+        "country": "Belgium",
+        "location": "Spa",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Circuit de Spa-Francorchamps",
+        "races": 50,
+        "wins": 6
+    }
+]

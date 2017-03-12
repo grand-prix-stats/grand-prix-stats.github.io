@@ -1,0 +1,26 @@
+[
+    {
+        "country": "Japan",
+        "location": "Okayama",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Okayama International Circuit",
+        "races": 2,
+        "wins": 2
+    },
+    {
+        "country": "Japan",
+        "location": "Oyama",
+        "most_wins_driver": "Fernando Alonso 🇪🇸",
+        "name": "Fuji Speedway",
+        "races": 4,
+        "wins": 1
+    },
+    {
+        "country": "Japan",
+        "location": "Suzuka",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Suzuka Circuit",
+        "races": 29,
+        "wins": 6
+    }
+]

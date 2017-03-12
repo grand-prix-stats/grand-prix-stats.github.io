@@ -1,0 +1,26 @@
+[
+    {
+        "country": "Italy",
+        "location": "Imola",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Autodromo Enzo e Dino Ferrari",
+        "races": 27,
+        "wins": 7
+    },
+    {
+        "country": "Italy",
+        "location": "Monza",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Autodromo Nazionale di Monza",
+        "races": 67,
+        "wins": 5
+    },
+    {
+        "country": "Italy",
+        "location": "Pescara",
+        "most_wins_driver": "Stirling Moss 🇬🇧",
+        "name": "Pescara Circuit",
+        "races": 1,
+        "wins": 1
+    }
+]

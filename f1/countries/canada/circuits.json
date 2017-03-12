@@ -1,0 +1,26 @@
+[
+    {
+        "country": "Canada",
+        "location": "Montreal",
+        "most_wins_driver": "Michael Schumacher 🇩🇪",
+        "name": "Circuit Gilles Villeneuve",
+        "races": 38,
+        "wins": 7
+    },
+    {
+        "country": "Canada",
+        "location": "Ontario",
+        "most_wins_driver": "Jackie Stewart 🇬🇧",
+        "name": "Mosport International Raceway",
+        "races": 8,
+        "wins": 2
+    },
+    {
+        "country": "Canada",
+        "location": "Quebec",
+        "most_wins_driver": "Jacky Ickx 🇧🇪",
+        "name": "Circuit Mont-Tremblant",
+        "races": 2,
+        "wins": 1
+    }
+]
