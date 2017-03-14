@@ -4,984 +4,984 @@ layout: page
 rowCount: 976
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 2017 | 1 | Australian Grand Prix |   |   |
-| 2017 | 2 | Chinese Grand Prix |   |   |
-| 2017 | 3 | Bahrain Grand Prix |   |   |
-| 2017 | 4 | Russian Grand Prix |   |   |
-| 2017 | 5 | Spanish Grand Prix |   |   |
-| 2017 | 6 | Monaco Grand Prix |   |   |
-| 2017 | 7 | Canadian Grand Prix |   |   |
-| 2017 | 8 | Azerbaijan Grand Prix |   |   |
-| 2017 | 9 | Austrian Grand Prix |   |   |
-| 2017 | 10 | British Grand Prix |   |   |
-| 2017 | 11 | Hungarian Grand Prix |   |   |
-| 2017 | 12 | Belgian Grand Prix |   |   |
-| 2017 | 13 | Italian Grand Prix |   |   |
-| 2017 | 14 | Singapore Grand Prix |   |   |
-| 2017 | 15 | Malaysian Grand Prix |   |   |
-| 2017 | 16 | Japanese Grand Prix |   |   |
-| 2017 | 17 | United States Grand Prix |   |   |
-| 2017 | 18 | Mexican Grand Prix |   |   |
-| 2017 | 19 | Brazilian Grand Prix |   |   |
-| 2017 | 20 | Abu Dhabi Grand Prix |   |   |
-| 2016 | 1 | Australian Grand Prix | 57 | 1:48:15.565 |
-| 2016 | 2 | Bahrain Grand Prix | 57 | 1:33:34.696 |
-| 2016 | 3 | Chinese Grand Prix | 56 | 1:38:53.891 |
-| 2016 | 4 | Russian Grand Prix | 53 | 1:32:41.997 |
-| 2016 | 5 | Spanish Grand Prix | 66 | 1:41:40.017 |
-| 2016 | 6 | Monaco Grand Prix | 78 | 1:59:29.133 |
-| 2016 | 7 | Canadian Grand Prix | 70 | 1:31:05.296 |
-| 2016 | 8 | European Grand Prix | 51 | 1:32:52.366 |
-| 2016 | 9 | Austrian Grand Prix | 71 | 1:27:38.107 |
-| 2016 | 10 | British Grand Prix | 52 | 1:34:55.831 |
-| 2016 | 11 | Hungarian Grand Prix | 70 | 1:40:30.115 |
-| 2016 | 12 | German Grand Prix | 67 | 1:30:44.200 |
-| 2016 | 13 | Belgian Grand Prix | 44 | 1:44:51.058 |
-| 2016 | 14 | Italian Grand Prix | 53 | 1:17:28.089 |
-| 2016 | 15 | Singapore Grand Prix | 61 | 1:55:48.950 |
-| 2016 | 16 | Malaysian Grand Prix | 56 | 1:37:12.776 |
-| 2016 | 17 | Japanese Grand Prix | 53 | 1:26:43.333 |
-| 2016 | 18 | United States Grand Prix | 56 | 1:38:12.618 |
-| 2016 | 19 | Mexican Grand Prix | 71 | 1:40:31.402 |
-| 2016 | 20 | Brazilian Grand Prix | 71 | 3:01:01.335 |
-| 2016 | 21 | Abu Dhabi Grand Prix | 55 | 1:38:04.013 |
-| 2015 | 1 | Australian Grand Prix | 58 | 1:31:54.067 |
-| 2015 | 2 | Malaysian Grand Prix | 56 | 1:41:05.793 |
-| 2015 | 3 | Chinese Grand Prix | 56 | 1:39:42.008 |
-| 2015 | 4 | Bahrain Grand Prix | 57 | 1:35:05.809 |
-| 2015 | 5 | Spanish Grand Prix | 66 | 1:41:12.555 |
-| 2015 | 6 | Monaco Grand Prix | 78 | 1:49:18.420 |
-| 2015 | 7 | Canadian Grand Prix | 70 | 1:31:53.145 |
-| 2015 | 8 | Austrian Grand Prix | 71 | 1:30:16.930 |
-| 2015 | 9 | British Grand Prix | 52 | 1:31:27.729 |
-| 2015 | 10 | Hungarian Grand Prix | 69 | 1:46:09.985 |
-| 2015 | 11 | Belgian Grand Prix | 43 | 1:23:40.387 |
-| 2015 | 12 | Italian Grand Prix | 53 | 1:18:00.688 |
-| 2015 | 13 | Singapore Grand Prix | 61 | 2:01:22.118 |
-| 2015 | 14 | Japanese Grand Prix | 53 |   |
-| 2015 | 15 | Russian Grand Prix | 53 | 1:37:11.024 |
-| 2015 | 16 | United States Grand Prix | 56 | 1:50:52.703 |
-| 2015 | 17 | Mexican Grand Prix | 71 | 1:42:35.038 |
-| 2015 | 18 | Brazilian Grand Prix | 71 | 1:31:09.090 |
-| 2015 | 19 | Abu Dhabi Grand Prix | 55 | 1:38:30.175 |
-| 2014 | 1 | Australian Grand Prix | 57 | 1:32:58.710 |
-| 2014 | 2 | Malaysian Grand Prix | 56 | 1:40:25.974 |
-| 2014 | 3 | Bahrain Grand Prix | 57 | 1:39:42.743 |
-| 2014 | 4 | Chinese Grand Prix | 54 | 1:33:28.388 |
-| 2014 | 5 | Spanish Grand Prix | 66 | 1:41:05.155 |
-| 2014 | 6 | Monaco Grand Prix | 78 | 1:49:27.661 |
-| 2014 | 7 | Canadian Grand Prix | 70 | 1:39:12.830 |
-| 2014 | 8 | Austrian Grand Prix | 71 | 1:27:54.976 |
-| 2014 | 9 | British Grand Prix | 52 | 2:26:52.094 |
-| 2014 | 10 | German Grand Prix | 67 | 1:33:42.914 |
-| 2014 | 11 | Hungarian Grand Prix | 70 | 1:53:05.058 |
-| 2014 | 12 | Belgian Grand Prix | 44 | 1:24:36.556 |
-| 2014 | 13 | Italian Grand Prix | 53 | 1:19:10.236 |
-| 2014 | 14 | Singapore Grand Prix | 60 | 2:00:04.795 |
-| 2014 | 15 | Japanese Grand Prix | 44 | 1:51:43.021 |
-| 2014 | 16 | Russian Grand Prix | 53 | 1:31:50.744 |
-| 2014 | 17 | United States Grand Prix | 56 | 1:40:04.785 |
-| 2014 | 18 | Brazilian Grand Prix | 71 | 1:30:02.555 |
-| 2014 | 19 | Abu Dhabi Grand Prix | 55 | 1:39:02.619 |
-| 2013 | 1 | Australian Grand Prix | 58 | 1:30:03.225 |
-| 2013 | 2 | Malaysian Grand Prix | 56 | 1:38:56.681 |
-| 2013 | 3 | Chinese Grand Prix | 56 | 1:36:26.945 |
-| 2013 | 4 | Bahrain Grand Prix | 57 | 1:36:00.498 |
-| 2013 | 5 | Spanish Grand Prix | 66 | 1:39:16.596 |
-| 2013 | 6 | Monaco Grand Prix | 78 | 2:15:52.056 |
-| 2013 | 7 | Canadian Grand Prix | 70 | 1:32:09.143 |
-| 2013 | 8 | British Grand Prix | 52 | 1:32:59.456 |
-| 2013 | 9 | German Grand Prix | 60 | 1:41.14.711 |
-| 2013 | 10 | Hungarian Grand Prix | 70 | 1:42:29.445 |
-| 2013 | 11 | Belgian Grand Prix | 44 | 1:23:42.196 |
-| 2013 | 12 | Italian Grand Prix | 53 | 1:18:33.352 |
-| 2013 | 13 | Singapore Grand Prix | 61 | 1:59:13.132 |
-| 2013 | 14 | Korean Grand Prix | 55 | 1:43:13.701 |
-| 2013 | 15 | Japanese Grand Prix | 53 | 1:26:49.301 |
-| 2013 | 16 | Indian Grand Prix | 60 | 1:31:12.187 |
-| 2013 | 17 | Abu Dhabi Grand Prix | 55 | 1:38:06.106 |
-| 2013 | 18 | United States Grand Prix | 56 | 1:39:17.168 |
-| 2013 | 19 | Brazilian Grand Prix | 71 | 1:32:36.300 |
-| 2012 | 1 | Australian Grand Prix | 58 | 1:34:09.565 |
-| 2012 | 2 | Malaysian Grand Prix | 56 | 2:44:51.812 |
-| 2012 | 3 | Chinese Grand Prix | 56 | 1:36:26.929 |
-| 2012 | 4 | Bahrain Grand Prix | 57 | 1:35:10.990 |
-| 2012 | 5 | Spanish Grand Prix | 66 | 1:39:09.145 |
-| 2012 | 6 | Monaco Grand Prix | 78 | 1:46:06.557 |
-| 2012 | 7 | Canadian Grand Prix | 70 | 1:32:29.586 |
-| 2012 | 8 | European Grand Prix | 57 | 1:44:16.649 |
-| 2012 | 9 | British Grand Prix | 52 | 1:25:11.288 |
-| 2012 | 10 | German Grand Prix | 67 | 1:31:05.862 |
-| 2012 | 11 | Hungarian Grand Prix | 69 | 1:41:05.503 |
-| 2012 | 12 | Belgian Grand Prix | 44 | 1:29:08.530 |
-| 2012 | 13 | Italian Grand Prix | 53 | 1:19:41.221 |
-| 2012 | 14 | Singapore Grand Prix | 59 | 2:00:26.144 |
-| 2012 | 15 | Japanese Grand Prix | 53 | 1:28:56.242 |
-| 2012 | 16 | Korean Grand Prix | 55 | 1:36:28.651 |
-| 2012 | 17 | Indian Grand Prix | 60 | 1:31:10.744 |
-| 2012 | 18 | Abu Dhabi Grand Prix | 55 | 1:45:58.667 |
-| 2012 | 19 | United States Grand Prix | 56 | 1:35:55.269 |
-| 2012 | 20 | Brazilian Grand Prix | 71 | 1:45:22.656 |
-| 2011 | 1 | Australian Grand Prix | 58 | 1:29:30.259 |
-| 2011 | 2 | Malaysian Grand Prix | 56 | 1:37:39.832 |
-| 2011 | 3 | Chinese Grand Prix | 56 | 1:36:58.226 |
-| 2011 | 4 | Turkish Grand Prix | 58 | 1:30:17.558 |
-| 2011 | 5 | Spanish Grand Prix | 66 | 1:39:03.301 |
-| 2011 | 6 | Monaco Grand Prix | 78 | 2:09:38.373 |
-| 2011 | 7 | Canadian Grand Prix | 70 | 4:04:39.537 |
-| 2011 | 8 | European Grand Prix | 57 | 1:39:36.169 |
-| 2011 | 9 | British Grand Prix | 52 | 1:28:41.194 |
-| 2011 | 10 | German Grand Prix | 60 | 1:37:30.344 |
-| 2011 | 11 | Hungarian Grand Prix | 70 | 1:46:42.337 |
-| 2011 | 12 | Belgian Grand Prix | 44 | 1:26:44.893 |
-| 2011 | 13 | Italian Grand Prix | 53 | 1:20:46.172 |
-| 2011 | 14 | Singapore Grand Prix | 61 | 1:59:04.757 |
-| 2011 | 15 | Japanese Grand Prix | 53 | 1:30:53.427 |
-| 2011 | 16 | Korean Grand Prix | 55 | 1:38:01.994 |
-| 2011 | 17 | Indian Grand Prix | 60 | 1:30:35.002 |
-| 2011 | 18 | Abu Dhabi Grand Prix | 55 | 1:37:11.886 |
-| 2011 | 19 | Brazilian Grand Prix | 71 | 1:32:17.464 |
-| 2010 | 1 | Bahrain Grand Prix | 49 | 1:39:20.396 |
-| 2010 | 2 | Australian Grand Prix | 58 | 1:33:36.531 |
-| 2010 | 3 | Malaysian Grand Prix | 56 | 1:33:48.412 |
-| 2010 | 4 | Chinese Grand Prix | 56 | 1:46:42.163 |
-| 2010 | 5 | Spanish Grand Prix | 66 | 1:35:44.101 |
-| 2010 | 6 | Monaco Grand Prix | 78 | 1:50:13.355 |
-| 2010 | 7 | Turkish Grand Prix | 58 | 1:28:47.620 |
-| 2010 | 8 | Canadian Grand Prix | 70 | 1:33:53.456 |
-| 2010 | 9 | European Grand Prix | 57 | 1:40:29.571 |
-| 2010 | 10 | British Grand Prix | 52 | 1:24.38.200 |
-| 2010 | 11 | German Grand Prix | 67 | 1:27.38.684 |
-| 2010 | 12 | Hungarian Grand Prix | 70 | 1:41:05.571 |
-| 2010 | 13 | Belgian Grand Prix | 44 | 1:29.04.268 |
-| 2010 | 14 | Italian Grand Prix | 53 | 1:16:24.572 |
-| 2010 | 15 | Singapore Grand Prix | 61 | 1:57:53.579 |
-| 2010 | 16 | Japanese Grand Prix | 53 | 1:30:27.323 |
-| 2010 | 17 | Korean Grand Prix | 55 | 2:48:20.810 |
-| 2010 | 18 | Brazilian Grand Prix | 71 | 1:33:11.803 |
-| 2010 | 19 | Abu Dhabi Grand Prix | 55 | 1:39:36.837 |
-| 2009 | 1 | Australian Grand Prix | 58 | 1:34:15.784 |
-| 2009 | 2 | Malaysian Grand Prix | 31 | 1:10:52.092 |
-| 2009 | 3 | Chinese Grand Prix | 56 | 1:57:43.485 |
-| 2009 | 4 | Bahrain Grand Prix | 57 | 1:31:48.182 |
-| 2009 | 5 | Spanish Grand Prix | 66 | 1:37:19.202 |
-| 2009 | 6 | Monaco Grand Prix | 78 | 1:40:44.282 |
-| 2009 | 7 | Turkish Grand Prix | 58 | 1:26:24.848 |
-| 2009 | 8 | British Grand Prix | 60 | 1:22:49.328 |
-| 2009 | 9 | German Grand Prix | 60 | 1:36:43.310 |
-| 2009 | 10 | Hungarian Grand Prix | 70 | 1:38:23.876 |
-| 2009 | 11 | European Grand Prix | 57 | 1:35:51.289 |
-| 2009 | 12 | Belgian Grand Prix | 44 | 1:23:50.995 |
-| 2009 | 13 | Italian Grand Prix | 53 | 1:16:21.706 |
-| 2009 | 14 | Singapore Grand Prix | 61 | 1:56:06.337 |
-| 2009 | 15 | Japanese Grand Prix | 53 | 1:28:20.443 |
-| 2009 | 16 | Brazilian Grand Prix | 71 | 1:32:23.081 |
-| 2009 | 17 | Abu Dhabi Grand Prix | 55 | 1:34:03.414 |
-| 2008 | 1 | Australian Grand Prix | 58 | 1:34:50.616 |
-| 2008 | 2 | Malaysian Grand Prix | 56 | 1:31:18.555 |
-| 2008 | 3 | Bahrain Grand Prix | 57 | 1:31:06.970 |
-| 2008 | 4 | Spanish Grand Prix | 66 | 1:38:19.051 |
-| 2008 | 5 | Turkish Grand Prix | 58 | 1:26:49.451 |
-| 2008 | 6 | Monaco Grand Prix | 76 | 2:00:42.742 |
-| 2008 | 7 | Canadian Grand Prix | 70 | 1:36:24.227 |
-| 2008 | 8 | French Grand Prix | 70 | 1:31:50.245 |
-| 2008 | 9 | British Grand Prix | 60 | 1:39:09.440 |
-| 2008 | 10 | German Grand Prix | 67 | 1:31:20.874 |
-| 2008 | 11 | Hungarian Grand Prix | 70 | 1:37:27.067 |
-| 2008 | 12 | European Grand Prix | 57 | 1:35:32.339 |
-| 2008 | 13 | Belgian Grand Prix | 44 | 1:22:59.394 |
-| 2008 | 14 | Italian Grand Prix | 53 | 1:26:47.494 |
-| 2008 | 15 | Singapore Grand Prix | 61 | 1:57:16.304 |
-| 2008 | 16 | Japanese Grand Prix | 67 | 1:30:21.892 |
-| 2008 | 17 | Chinese Grand Prix | 56 | 1:31:57.403 |
-| 2008 | 18 | Brazilian Grand Prix | 71 | 1:34:11.435 |
-| 2007 | 1 | Australian Grand Prix | 58 | 1:25:28.770 |
-| 2007 | 2 | Malaysian Grand Prix | 56 | 1:32:14.930 |
-| 2007 | 3 | Bahrain Grand Prix | 57 | 1:33:27.515 |
-| 2007 | 4 | Spanish Grand Prix | 65 | 1:31:36.230 |
-| 2007 | 5 | Monaco Grand Prix | 78 | 1:40:29.329 |
-| 2007 | 6 | Canadian Grand Prix | 70 | 1:44:11.292 |
-| 2007 | 7 | United States Grand Prix | 73 | 1:31:09.965 |
-| 2007 | 8 | French Grand Prix | 70 | 1:30:54.200 |
-| 2007 | 9 | British Grand Prix | 59 | 1:21:43.074 |
-| 2007 | 10 | European Grand Prix | 60 | 2:06:26.358 |
-| 2007 | 11 | Hungarian Grand Prix | 70 | 1:35:52.991 |
-| 2007 | 12 | Turkish Grand Prix | 58 | 1:26:42.161 |
-| 2007 | 13 | Italian Grand Prix | 53 | 1:18:37.806 |
-| 2007 | 14 | Belgian Grand Prix | 44 | 1:20:39.066 |
-| 2007 | 15 | Japanese Grand Prix | 67 | 2:00:34.579 |
-| 2007 | 16 | Chinese Grand Prix | 56 | 1:37:58.395 |
-| 2007 | 17 | Brazilian Grand Prix | 71 | 1:28:15.270 |
-| 2006 | 1 | Bahrain Grand Prix | 57 | 1:29:46.205 |
-| 2006 | 2 | Malaysian Grand Prix | 56 | 1:30:40.529 |
-| 2006 | 3 | Australian Grand Prix | 57 | 1:34:27.870 |
-| 2006 | 4 | San Marino Grand Prix | 62 | 1:31:06.486 |
-| 2006 | 5 | European Grand Prix | 60 | 1:35:58.765 |
-| 2006 | 6 | Spanish Grand Prix | 66 | 1:26:21.759 |
-| 2006 | 7 | Monaco Grand Prix | 78 | 1:43:43.116 |
-| 2006 | 8 | British Grand Prix | 60 | 1:25:51.927 |
-| 2006 | 9 | Canadian Grand Prix | 70 | 1:34:37.308 |
-| 2006 | 10 | United States Grand Prix | 73 | 1:34:35.199 |
-| 2006 | 11 | French Grand Prix | 70 | 1:32:07.803 |
-| 2006 | 12 | German Grand Prix | 67 | 1:27:51.693 |
-| 2006 | 13 | Hungarian Grand Prix | 70 | 1:52:20.941 |
-| 2006 | 14 | Turkish Grand Prix | 58 | 1:28:51.082 |
-| 2006 | 15 | Italian Grand Prix | 53 | 1:14:51.975 |
-| 2006 | 16 | Chinese Grand Prix | 56 | 1:37:32.747 |
-| 2006 | 17 | Japanese Grand Prix | 53 | 1:23:52.413 |
-| 2006 | 18 | Brazilian Grand Prix | 71 | 1:31:53.751 |
-| 2005 | 1 | Australian Grand Prix | 57 | 1:24:17.336 |
-| 2005 | 2 | Malaysian Grand Prix | 56 | 1:31:33.736 |
-| 2005 | 3 | Bahrain Grand Prix | 57 | 1:29:18.531 |
-| 2005 | 4 | San Marino Grand Prix | 62 | 1:27:41.921 |
-| 2005 | 5 | Spanish Grand Prix | 66 | 1:27:16.830 |
-| 2005 | 6 | Monaco Grand Prix | 78 | 1:45:15.556 |
-| 2005 | 7 | European Grand Prix | 59 | 1:31:46.648 |
-| 2005 | 8 | Canadian Grand Prix | 70 | 1:32:09.290 |
-| 2005 | 9 | United States Grand Prix | 73 | 1:29:43.181 |
-| 2005 | 10 | French Grand Prix | 70 | 1:31:22.232 |
-| 2005 | 11 | British Grand Prix | 60 | 1:24:29.588 |
-| 2005 | 12 | German Grand Prix | 67 | 1:26:28.599 |
-| 2005 | 13 | Hungarian Grand Prix | 70 | 1:37:25.552 |
-| 2005 | 14 | Turkish Grand Prix | 58 | 1:24:34.454 |
-| 2005 | 15 | Italian Grand Prix | 53 | 1:14:28.659 |
-| 2005 | 16 | Belgian Grand Prix | 44 | 1:30:01.295 |
-| 2005 | 17 | Brazilian Grand Prix | 71 | 1:29:20.574 |
-| 2005 | 18 | Japanese Grand Prix | 53 | 1:29:02.212 |
-| 2005 | 19 | Chinese Grand Prix | 56 | 1:39:53.618 |
-| 2004 | 1 | Australian Grand Prix | 58 | 1:24:15.757 |
-| 2004 | 2 | Malaysian Grand Prix | 56 | 1:31:07.490 |
-| 2004 | 3 | Bahrain Grand Prix | 57 | 1:28:34.875 |
-| 2004 | 4 | San Marino Grand Prix | 62 | 1:26:19.670 |
-| 2004 | 5 | Spanish Grand Prix | 66 | 1:27:32.841 |
-| 2004 | 6 | Monaco Grand Prix | 77 | 1:45:46.601 |
-| 2004 | 7 | European Grand Prix | 60 | 1:32:35.101 |
-| 2004 | 8 | Canadian Grand Prix | 70 | 1:28:24.803 |
-| 2004 | 9 | United States Grand Prix | 73 | 1:40:29.914 |
-| 2004 | 10 | French Grand Prix | 70 | 1:30:18.133 |
-| 2004 | 11 | British Grand Prix | 60 | 1:24:42.700 |
-| 2004 | 12 | German Grand Prix | 66 | 1:23:54.848 |
-| 2004 | 13 | Hungarian Grand Prix | 70 | 1:35:26.131 |
-| 2004 | 14 | Belgian Grand Prix | 44 | 1:32:35.274 |
-| 2004 | 15 | Italian Grand Prix | 53 | 1:15:18.448 |
-| 2004 | 16 | Chinese Grand Prix | 56 | 1:29:12.420 |
-| 2004 | 17 | Japanese Grand Prix | 53 | 1:24:26.985 |
-| 2004 | 18 | Brazilian Grand Prix | 71 | 1:28:01.451 |
-| 2003 | 1 | Australian Grand Prix | 58 | 1:34:42.1 |
-| 2003 | 2 | Malaysian Grand Prix | 56 | 1:32:22.195 |
-| 2003 | 3 | Brazilian Grand Prix | 54 | 1:31:18.2 |
-| 2003 | 4 | San Marino Grand Prix | 62 | 1:28:12.058 |
-| 2003 | 5 | Spanish Grand Prix | 65 | 1:33:46.933 |
-| 2003 | 6 | Austrian Grand Prix | 69 | 1:24:04.888 |
-| 2003 | 7 | Monaco Grand Prix | 78 | 1:42:19.010 |
-| 2003 | 8 | Canadian Grand Prix | 70 | 1:31:13.591 |
-| 2003 | 9 | European Grand Prix | 60 | 1:34:43.622 |
-| 2003 | 10 | French Grand Prix | 70 | 1:30:49.213 |
-| 2003 | 11 | British Grand Prix | 60 | 1:28:37.554 |
-| 2003 | 12 | German Grand Prix | 67 | 1:28:48.769 |
-| 2003 | 13 | Hungarian Grand Prix | 70 | 1:39:01.460 |
-| 2003 | 14 | Italian Grand Prix | 53 | 1:14:19.838 |
-| 2003 | 15 | United States Grand Prix | 73 | 1:33:35.997 |
-| 2003 | 16 | Japanese Grand Prix | 53 | 1:25:11.743 |
-| 2002 | 1 | Australian Grand Prix | 58 | 1:35:36.792 |
-| 2002 | 2 | Malaysian Grand Prix | 56 | 1:34:12.912 |
-| 2002 | 3 | Brazilian Grand Prix | 71 | 1:31:43.662 |
-| 2002 | 4 | San Marino Grand Prix | 62 | 1:29:10.789 |
-| 2002 | 5 | Spanish Grand Prix | 65 | 1:30:29.981 |
-| 2002 | 6 | Austrian Grand Prix | 71 | 1:33:51.562 |
-| 2002 | 7 | Monaco Grand Prix | 78 | 1:45:39.055 |
-| 2002 | 8 | Canadian Grand Prix | 70 | 1:33:36.111 |
-| 2002 | 9 | European Grand Prix | 60 | 1:35:07.426 |
-| 2002 | 10 | British Grand Prix | 60 | 1:31:45.015 |
-| 2002 | 11 | French Grand Prix | 72 | 1:32:09.837 |
-| 2002 | 12 | German Grand Prix | 67 | 1:27:52.078 |
-| 2002 | 13 | Hungarian Grand Prix | 77 | 1:41:49.001 |
-| 2002 | 14 | Belgian Grand Prix | 44 | 1:21:20.634 |
-| 2002 | 15 | Italian Grand Prix | 53 | 1:16:19.982 |
-| 2002 | 16 | United States Grand Prix | 73 | 1:31:08.0 |
-| 2002 | 17 | Japanese Grand Prix | 53 | 1:26:59.698 |
-| 2001 | 1 | Australian Grand Prix | 58 | 1:38:26.533 |
-| 2001 | 2 | Malaysian Grand Prix | 55 | 1:47:34.801 |
-| 2001 | 3 | Brazilian Grand Prix | 71 | 1:39:00.834 |
-| 2001 | 4 | San Marino Grand Prix | 62 | 1:30:44.817 |
-| 2001 | 5 | Spanish Grand Prix | 65 | 1:31:03.305 |
-| 2001 | 6 | Austrian Grand Prix | 71 | 1:27:45.927 |
-| 2001 | 7 | Monaco Grand Prix | 78 | 1:47:22.561 |
-| 2001 | 8 | Canadian Grand Prix | 69 | 1:34:31.522 |
-| 2001 | 9 | European Grand Prix | 67 | 1:29:42.724 |
-| 2001 | 10 | French Grand Prix | 72 | 1:33:35.636 |
-| 2001 | 11 | British Grand Prix | 60 | 1:25:33.770 |
-| 2001 | 12 | German Grand Prix | 45 | 1:18:17.873 |
-| 2001 | 13 | Hungarian Grand Prix | 77 | 1:41:49.675 |
-| 2001 | 14 | Belgian Grand Prix | 36 | 1:08:05.002 |
-| 2001 | 15 | Italian Grand Prix | 53 | 1:16:58.493 |
-| 2001 | 16 | United States Grand Prix | 73 | 1:32:42.840 |
-| 2001 | 17 | Japanese Grand Prix | 53 | 1:27:33.298 |
-| 2000 | 1 | Australian Grand Prix | 58 | 1:34:01.987 |
-| 2000 | 2 | Brazilian Grand Prix | 71 | 1:31:35.271 |
-| 2000 | 3 | San Marino Grand Prix | 62 | 1:31:39.776 |
-| 2000 | 4 | British Grand Prix | 60 | 1:28:50.108 |
-| 2000 | 5 | Spanish Grand Prix | 65 | 1:33:55.390 |
-| 2000 | 6 | European Grand Prix | 67 | 1:42:00.307 |
-| 2000 | 7 | Monaco Grand Prix | 78 | 1:49:28.213 |
-| 2000 | 8 | Canadian Grand Prix | 69 | 1:41:12.313 |
-| 2000 | 9 | French Grand Prix | 72 | 1:38:05.538 |
-| 2000 | 10 | Austrian Grand Prix | 71 | 1:28:15.818 |
-| 2000 | 11 | German Grand Prix | 45 | 1:25:34.418 |
-| 2000 | 12 | Hungarian Grand Prix | 77 | 1:45:33.869 |
-| 2000 | 13 | Belgian Grand Prix | 44 | 1:28:14.494 |
-| 2000 | 14 | Italian Grand Prix | 53 | 1:27:31.638 |
-| 2000 | 15 | United States Grand Prix | 73 | 1:36:30.883 |
-| 2000 | 16 | Japanese Grand Prix | 53 | 1:29:53.435 |
-| 2000 | 17 | Malaysian Grand Prix | 56 | 1:35:54.235 |
-| 1999 | 1 | Australian Grand Prix | 57 | 1:35:01.659 |
-| 1999 | 2 | Brazilian Grand Prix | 72 | 1:36:03.785 |
-| 1999 | 3 | San Marino Grand Prix | 62 | 1:33:44.792 |
-| 1999 | 4 | Monaco Grand Prix | 78 | 1:49:31.812 |
-| 1999 | 5 | Spanish Grand Prix | 65 | 1:34:13.665 |
-| 1999 | 6 | Canadian Grand Prix | 69 | 1:41:35.727 |
-| 1999 | 7 | French Grand Prix | 72 | 1:58:24.343 |
-| 1999 | 8 | British Grand Prix | 60 | 1:32:30.144 |
-| 1999 | 9 | Austrian Grand Prix | 71 | 1:28:12.438 |
-| 1999 | 10 | German Grand Prix | 45 | 1:21:58.594 |
-| 1999 | 11 | Hungarian Grand Prix | 77 | 1:46:23.536 |
-| 1999 | 12 | Belgian Grand Prix | 44 | 1:25:43.057 |
-| 1999 | 13 | Italian Grand Prix | 53 | 1:17:02.923 |
-| 1999 | 14 | European Grand Prix | 66 | 1:41:54.314 |
-| 1999 | 15 | Malaysian Grand Prix | 56 | 1:36:38.494 |
-| 1999 | 16 | Japanese Grand Prix | 53 | 1:31:18.785 |
-| 1998 | 1 | Australian Grand Prix | 58 | 1:31:46.0 |
-| 1998 | 2 | Brazilian Grand Prix | 72 | 1:37:12.2 |
-| 1998 | 3 | Argentine Grand Prix | 72 | 1:48:36.1 |
-| 1998 | 4 | San Marino Grand Prix | 62 | 1:34:25.4 |
-| 1998 | 5 | Spanish Grand Prix | 65 | 1:33:38.3 |
-| 1998 | 6 | Monaco Grand Prix | 78 | 1:51:24.4 |
-| 1998 | 7 | Canadian Grand Prix | 69 | 1:40:57.3 |
-| 1998 | 8 | French Grand Prix | 71 | 1:34:45.0 |
-| 1998 | 9 | British Grand Prix | 60 | 1:47:02.4 |
-| 1998 | 10 | Austrian Grand Prix | 71 | 1:30:44.0 |
-| 1998 | 11 | German Grand Prix | 45 | 1:20:48.0 |
-| 1998 | 12 | Hungarian Grand Prix | 77 | 1:45:26.4 |
-| 1998 | 13 | Belgian Grand Prix | 44 | 1:43:47.407 |
-| 1998 | 14 | Italian Grand Prix | 53 | 1:17:10.3 |
-| 1998 | 15 | Luxembourg Grand Prix | 67 | 1:32:14.789 |
-| 1998 | 16 | Japanese Grand Prix | 51 | 1:27:23.4 |
-| 1997 | 1 | Australian Grand Prix | 58 | 1:30:28.718 |
-| 1997 | 2 | Brazilian Grand Prix | 72 | 1:36:06.990 |
-| 1997 | 3 | Argentine Grand Prix | 72 | 1:52:01.715 |
-| 1997 | 4 | San Marino Grand Prix | 62 | 1:31:00.673 |
-| 1997 | 5 | Monaco Grand Prix | 62 | 2:00:05.654 |
-| 1997 | 6 | Spanish Grand Prix | 64 | 1:30:35.896 |
-| 1997 | 7 | Canadian Grand Prix | 54 | 1:17:40.646 |
-| 1997 | 8 | French Grand Prix | 72 | 1:38:50.492 |
-| 1997 | 9 | British Grand Prix | 59 | 1:28:01.665 |
-| 1997 | 10 | German Grand Prix | 45 | 1:20:59.046 |
-| 1997 | 11 | Hungarian Grand Prix | 77 | 1:45:47.149 |
-| 1997 | 12 | Belgian Grand Prix | 44 | 1:33:46.717 |
-| 1997 | 13 | Italian Grand Prix | 53 | 1:17:04.609 |
-| 1997 | 14 | Austrian Grand Prix | 71 | 1:27:35.999 |
-| 1997 | 15 | Luxembourg Grand Prix | 67 | 1:31:27.843 |
-| 1997 | 16 | Japanese Grand Prix | 53 | 1:29:48.446 |
-| 1997 | 17 | European Grand Prix | 69 | 1:38:57.771 |
-| 1996 | 1 | Australian Grand Prix | 58 | 1:32:50.4 |
-| 1996 | 2 | Brazilian Grand Prix | 71 | 1:49:52.976 |
-| 1996 | 3 | Argentine Grand Prix | 72 | 1:54:55.322 |
-| 1996 | 4 | European Grand Prix | 67 | 1:33:26.473 |
-| 1996 | 5 | San Marino Grand Prix | 63 | 1:35:26.156 |
-| 1996 | 6 | Monaco Grand Prix | 75 | 2:00:45.629 |
-| 1996 | 7 | Spanish Grand Prix | 65 | 1:59:49.307 |
-| 1996 | 8 | Canadian Grand Prix | 69 | 1:36:03.4 |
-| 1996 | 9 | French Grand Prix | 72 | 1:36:29.2 |
-| 1996 | 10 | British Grand Prix | 61 | 1:33:00.874 |
-| 1996 | 11 | German Grand Prix | 45 | 1:21:43.417 |
-| 1996 | 12 | Hungarian Grand Prix | 77 | 1:46:21.134 |
-| 1996 | 13 | Belgian Grand Prix | 44 | 1:28:15.125 |
-| 1996 | 14 | Italian Grand Prix | 53 | 1:17:43.632 |
-| 1996 | 15 | Portuguese Grand Prix | 70 | 1:40:22.915 |
-| 1996 | 16 | Japanese Grand Prix | 52 | 1:32:33.791 |
-| 1995 | 1 | Brazilian Grand Prix | 71 | +1:38:34.154 |
-| 1995 | 2 | Argentine Grand Prix | 72 | 1:53:14.532 |
-| 1995 | 3 | San Marino Grand Prix | 63 | 1:41:42.522 |
-| 1995 | 4 | Spanish Grand Prix | 65 | 1:34:20.507 |
-| 1995 | 5 | Monaco Grand Prix | 78 | 1:53:11.258 |
-| 1995 | 6 | Canadian Grand Prix | 68 | 1:44:54.171 |
-| 1995 | 7 | French Grand Prix | 72 | 1:38:28.429 |
-| 1995 | 8 | British Grand Prix | 61 | 1:34:35.093 |
-| 1995 | 9 | German Grand Prix | 45 | 1:22:56.043 |
-| 1995 | 10 | Hungarian Grand Prix | 77 | 1:46:25.721 |
-| 1995 | 11 | Belgian Grand Prix | 44 | 1:36:47.875 |
-| 1995 | 12 | Italian Grand Prix | 53 | 1:18:27.916 |
-| 1995 | 13 | Portuguese Grand Prix | 71 | 1:41:52.145 |
-| 1995 | 14 | European Grand Prix | 67 | 1:39:59.044 |
-| 1995 | 15 | Pacific Grand Prix | 83 | 1:48:49.972 |
-| 1995 | 16 | Japanese Grand Prix | 53 | 1:36:52.930 |
-| 1995 | 17 | Australian Grand Prix | 81 | 1:49:15.946 |
-| 1994 | 1 | Brazilian Grand Prix | 71 | 1:35:39.2 |
-| 1994 | 2 | Pacific Grand Prix | 83 | 1:46:01.693 |
-| 1994 | 3 | San Marino Grand Prix | 58 | 1:28:28.642 |
-| 1994 | 4 | Monaco Grand Prix | 78 | 1:49:55.3 |
-| 1994 | 5 | Spanish Grand Prix | 65 | 1:36:14.3 |
-| 1994 | 6 | Canadian Grand Prix | 69 | 1:44:32.1 |
-| 1994 | 7 | French Grand Prix | 72 | 1:38:36.2 |
-| 1994 | 8 | British Grand Prix | 60 | 1:30:03.640 |
-| 1994 | 9 | German Grand Prix | 45 | 1:22:37.2 |
-| 1994 | 10 | Hungarian Grand Prix | 77 | 1.48:00.185 |
-| 1994 | 11 | Belgian Grand Prix | 44 | 1:28:47.1 |
-| 1994 | 12 | Italian Grand Prix | 53 | 1:18:03.2 |
-| 1994 | 13 | Portuguese Grand Prix | 71 | 1:45:10.1 |
-| 1994 | 14 | European Grand Prix | 69 | 1:40:27.3 |
-| 1994 | 15 | Japanese Grand Prix | 50 | 1:55:53.532 |
-| 1994 | 16 | Australian Grand Prix | 81 | 1:47:51.4 |
-| 1993 | 1 | South African Grand Prix | 72 | 1:38:45.082 |
-| 1993 | 2 | Brazilian Grand Prix | 71 | 1:51:15.485 |
-| 1993 | 3 | European Grand Prix | 76 | 1:50:46.570 |
-| 1993 | 4 | San Marino Grand Prix | 61 | 1:33:20.413 |
-| 1993 | 5 | Spanish Grand Prix | 65 | 1:32:27.685 |
-| 1993 | 6 | Monaco Grand Prix | 78 | 1:52:10.947 |
-| 1993 | 7 | Canadian Grand Prix | 69 | 1:36:41.822 |
-| 1993 | 8 | French Grand Prix | 72 | 1:38:35.241 |
-| 1993 | 9 | British Grand Prix | 59 | 1:25:38.189 |
-| 1993 | 10 | German Grand Prix | 45 | 1:18:40.885 |
-| 1993 | 11 | Hungarian Grand Prix | 77 | 1:47:39.098 |
-| 1993 | 12 | Belgian Grand Prix | 44 | 1:24:32.124 |
-| 1993 | 13 | Italian Grand Prix | 53 | 1:17:07.509 |
-| 1993 | 14 | Portuguese Grand Prix | 71 | 1:32:46.309 |
-| 1993 | 15 | Japanese Grand Prix | 53 | 1:40:27.912 |
-| 1993 | 16 | Australian Grand Prix | 79 | 1:43:27.476 |
-| 1992 | 1 | South African Grand Prix | 72 | 1:36:45.320 |
-| 1992 | 2 | Mexican Grand Prix | 69 | 1:31:53.587 |
-| 1992 | 3 | Brazilian Grand Prix | 71 | 1:36:51.856 |
-| 1992 | 4 | Spanish Grand Prix | 65 | 1:56:10.674 |
-| 1992 | 5 | San Marino Grand Prix | 60 | 1:28:40.927 |
-| 1992 | 6 | Monaco Grand Prix | 78 | 1:50:59.372 |
-| 1992 | 7 | Canadian Grand Prix | 69 | 1:37:08.299 |
-| 1992 | 8 | French Grand Prix | 69 | 1:38:08.459 |
-| 1992 | 9 | British Grand Prix | 59 | 1:25:42.991 |
-| 1992 | 10 | German Grand Prix | 45 | 1:18:22.032 |
-| 1992 | 11 | Hungarian Grand Prix | 77 | 1:46:19.216 |
-| 1992 | 12 | Belgian Grand Prix | 44 | 1:36:10.721 |
-| 1992 | 13 | Italian Grand Prix | 53 | 1:18:15.349 |
-| 1992 | 14 | Portuguese Grand Prix | 71 | 1:34:46.659 |
-| 1992 | 15 | Japanese Grand Prix | 53 | 1:33:09.533 |
-| 1992 | 16 | Australian Grand Prix | 81 | 1:46:54.786 |
-| 1991 | 1 | United States Grand Prix | 81 | 2:00:47.828 |
-| 1991 | 2 | Brazilian Grand Prix | 71 | 1:38:28.128 |
-| 1991 | 3 | San Marino Grand Prix | 61 | 1:35:14.750 |
-| 1991 | 4 | Monaco Grand Prix | 78 | 1:53:02.334 |
-| 1991 | 5 | Canadian Grand Prix | 69 | 1:38:51.490 |
-| 1991 | 6 | Mexican Grand Prix | 67 | 1:29:52.205 |
-| 1991 | 7 | French Grand Prix | 72 | 1:38:00.056 |
-| 1991 | 8 | British Grand Prix | 59 | 1:27:35.479 |
-| 1991 | 9 | German Grand Prix | 45 | 1:19:29.661 |
-| 1991 | 10 | Hungarian Grand Prix | 77 | 1:49:12.796 |
-| 1991 | 11 | Belgian Grand Prix | 44 | 1:27:17.669 |
-| 1991 | 12 | Italian Grand Prix | 53 | 1:17:54.319 |
-| 1991 | 13 | Portuguese Grand Prix | 71 | 1:35:42.304 |
-| 1991 | 14 | Spanish Grand Prix | 65 | 1:38:41.541 |
-| 1991 | 15 | Japanese Grand Prix | 53 | 1:32:10.695 |
-| 1991 | 16 | Australian Grand Prix | 14 | 24:34.899 |
-| 1990 | 1 | United States Grand Prix | 72 | 1:52:32.829 |
-| 1990 | 2 | Brazilian Grand Prix | 71 | 1:37:21.258 |
-| 1990 | 3 | San Marino Grand Prix | 61 | 1:30:55.478 |
-| 1990 | 4 | Monaco Grand Prix | 78 | 1:52:46.982 |
-| 1990 | 5 | Canadian Grand Prix | 70 | 1:42:56.400 |
-| 1990 | 6 | Mexican Grand Prix | 69 | 1:32:35.783 |
-| 1990 | 7 | French Grand Prix | 80 | 1:33:29.606 |
-| 1990 | 8 | British Grand Prix | 64 | 1:18:30.999 |
-| 1990 | 9 | German Grand Prix | 45 | 1:20:47.164 |
-| 1990 | 10 | Hungarian Grand Prix | 77 | 1:49:30.597 |
-| 1990 | 11 | Belgian Grand Prix | 44 | 1:26:31.997 |
-| 1990 | 12 | Italian Grand Prix | 53 | 1:17:57.878 |
-| 1990 | 13 | Portuguese Grand Prix | 61 | 1:22:11.014 |
-| 1990 | 14 | Spanish Grand Prix | 73 | 1:48:01.461 |
-| 1990 | 15 | Japanese Grand Prix | 53 | 1:34:36.824 |
-| 1990 | 16 | Australian Grand Prix | 81 | 1:49:44.570 |
-| 1989 | 1 | Brazilian Grand Prix | 61 | 1:38:58.744 |
-| 1989 | 2 | San Marino Grand Prix | 58 | 1:26:51.245 |
-| 1989 | 3 | Monaco Grand Prix | 77 | 1:53:33.251 |
-| 1989 | 4 | Mexican Grand Prix | 69 | 1:35:21.431 |
-| 1989 | 5 | United States Grand Prix | 75 | 2:01:33.133 |
-| 1989 | 6 | Canadian Grand Prix | 69 | 2:01:24.073 |
-| 1989 | 7 | French Grand Prix | 80 | 1:38:29.411 |
-| 1989 | 8 | British Grand Prix | 64 | 1:19:22.131 |
-| 1989 | 9 | German Grand Prix | 45 | 1:21:43.302 |
-| 1989 | 10 | Hungarian Grand Prix | 77 | 1:49:38.650 |
-| 1989 | 11 | Belgian Grand Prix | 44 | 1:40:54.196 |
-| 1989 | 12 | Italian Grand Prix | 53 | 1:19:27.550 |
-| 1989 | 13 | Portuguese Grand Prix | 71 | 1:36:48.546 |
-| 1989 | 14 | Spanish Grand Prix | 73 | 1:47:48.264 |
-| 1989 | 15 | Japanese Grand Prix | 53 | 1:35:06.277 |
-| 1989 | 16 | Australian Grand Prix | 70 | 2:00:17.421 |
-| 1988 | 1 | Brazilian Grand Prix | 60 | 1:36:06.857 |
-| 1988 | 2 | San Marino Grand Prix | 60 | 1:32:41.264 |
-| 1988 | 3 | Monaco Grand Prix | 78 | 1:57:17.077 |
-| 1988 | 4 | Mexican Grand Prix | 67 | 1:30:15.737 |
-| 1988 | 5 | Canadian Grand Prix | 69 | 1:39:46.618 |
-| 1988 | 6 | Detroit Grand Prix | 63 | 1:54:56.035 |
-| 1988 | 7 | French Grand Prix | 80 | 1:37:37.328 |
-| 1988 | 8 | British Grand Prix | 65 | 1:33:16.367 |
-| 1988 | 9 | German Grand Prix | 44 | 1:32:54.188 |
-| 1988 | 10 | Hungarian Grand Prix | 76 | 1:57:47.081 |
-| 1988 | 11 | Belgian Grand Prix | 43 | 1:28:00.549 |
-| 1988 | 12 | Italian Grand Prix | 51 | 1:17:39.744 |
-| 1988 | 13 | Portuguese Grand Prix | 70 | 1:37:40.958 |
-| 1988 | 14 | Spanish Grand Prix | 72 | 1:48:43.851 |
-| 1988 | 15 | Japanese Grand Prix | 51 | 1:33:26.173 |
-| 1988 | 16 | Australian Grand Prix | 82 | 1:53:14.676 |
-| 1987 | 1 | Brazilian Grand Prix | 61 | 1:39:45.141 |
-| 1987 | 2 | San Marino Grand Prix | 59 | 1:31:24.076 |
-| 1987 | 3 | Belgian Grand Prix | 43 | 1:27:03.217 |
-| 1987 | 4 | Monaco Grand Prix | 78 | 1:57:54.085 |
-| 1987 | 5 | Detroit Grand Prix | 63 | 1:50:16.358 |
-| 1987 | 6 | French Grand Prix | 80 | 1:37:03.839 |
-| 1987 | 7 | British Grand Prix | 65 | 1:19:11.780 |
-| 1987 | 8 | German Grand Prix | 44 | 1:21:25.091 |
-| 1987 | 9 | Hungarian Grand Prix | 76 | 1:59:26.793 |
-| 1987 | 10 | Austrian Grand Prix | 52 | 1:18:44.898 |
-| 1987 | 11 | Italian Grand Prix | 50 | 1:14:47.707 |
-| 1987 | 12 | Portuguese Grand Prix | 70 | 1:37:03.906 |
-| 1987 | 13 | Spanish Grand Prix | 72 | 1:49:12.692 |
-| 1987 | 14 | Mexican Grand Prix | 63 | 1:26:24.207 |
-| 1987 | 15 | Japanese Grand Prix | 51 | 1:32:58.072 |
-| 1987 | 16 | Australian Grand Prix | 82 | 1:52:56.144 |
-| 1986 | 1 | Brazilian Grand Prix | 61 | 1:39:32.583 |
-| 1986 | 2 | Spanish Grand Prix | 72 | 1:48:47.735 |
-| 1986 | 3 | San Marino Grand Prix | 60 | 1:32:28.408 |
-| 1986 | 4 | Monaco Grand Prix | 78 | 1:55:41.060 |
-| 1986 | 5 | Belgian Grand Prix | 43 | 1:27:57.925 |
-| 1986 | 6 | Canadian Grand Prix | 69 | 1:42:26.415 |
-| 1986 | 7 | Detroit Grand Prix | 63 | 1:51:12.847 |
-| 1986 | 8 | French Grand Prix | 80 | 1:37:19.272 |
-| 1986 | 9 | British Grand Prix | 75 | 1:30:38.471 |
-| 1986 | 10 | German Grand Prix | 44 | 1:22:08.263 |
-| 1986 | 11 | Hungarian Grand Prix | 76 | 2:00:34.508 |
-| 1986 | 12 | Austrian Grand Prix | 52 | 1:21:22.531 |
-| 1986 | 13 | Italian Grand Prix | 51 | 1:17:42.889 |
-| 1986 | 14 | Portuguese Grand Prix | 70 | 1:37:21.900 |
-| 1986 | 15 | Mexican Grand Prix | 68 | 1:33:18.700 |
-| 1986 | 16 | Australian Grand Prix | 82 | 1:54:20.388 |
-| 1985 | 1 | Brazilian Grand Prix | 61 | 1:41:26.115 |
-| 1985 | 2 | Portuguese Grand Prix | 67 | 2:00:28.006 |
-| 1985 | 3 | San Marino Grand Prix | 60 | 1:34:35.955 |
-| 1985 | 4 | Monaco Grand Prix | 78 | 1:51:58.034 |
-| 1985 | 5 | Canadian Grand Prix | 70 | 1:46:01.813 |
-| 1985 | 6 | Detroit Grand Prix | 63 | 1:55:39.851 |
-| 1985 | 7 | French Grand Prix | 53 | 1:31:46.266 |
-| 1985 | 8 | British Grand Prix | 65 | 1:18:10.436 |
-| 1985 | 9 | German Grand Prix | 67 | 1:35:31.337 |
-| 1985 | 10 | Austrian Grand Prix | 52 | 1:20:12.583 |
-| 1985 | 11 | Dutch Grand Prix | 70 | 1:32:29.263 |
-| 1985 | 12 | Italian Grand Prix | 51 | 1:17:59.451 |
-| 1985 | 13 | Belgian Grand Prix | 43 | 1:34:19.893 |
-| 1985 | 14 | European Grand Prix | 75 | 1:32:58.109 |
-| 1985 | 15 | South African Grand Prix | 75 | 1:28:22.866 |
-| 1985 | 16 | Australian Grand Prix | 82 | 2:00:40.473 |
-| 1984 | 1 | Brazilian Grand Prix | 61 | 1:42:34.492 |
-| 1984 | 2 | South African Grand Prix | 75 | 1:29:23.430 |
-| 1984 | 3 | Belgian Grand Prix | 70 | 1:36:32.048 |
-| 1984 | 4 | San Marino Grand Prix | 60 | 1:36:53.679 |
-| 1984 | 5 | French Grand Prix | 79 | 1:31:11.951 |
-| 1984 | 6 | Monaco Grand Prix | 31 | 1:01:07.740 |
-| 1984 | 7 | Canadian Grand Prix | 70 | 1:46:23.748 |
-| 1984 | 8 | Detroit Grand Prix | 63 | 1:55:41.842 |
-| 1984 | 9 | Dallas Grand Prix | 67 | 2:01:22.617 |
-| 1984 | 10 | British Grand Prix | 71 | 1:29:28.532 |
-| 1984 | 11 | German Grand Prix | 44 | 1:24:43.210 |
-| 1984 | 12 | Austrian Grand Prix | 51 | 1:21:12.851 |
-| 1984 | 13 | Dutch Grand Prix | 71 | 1:37:21.468 |
-| 1984 | 14 | Italian Grand Prix | 51 | 1:20:29.065 |
-| 1984 | 15 | European Grand Prix | 67 | 1:35:13.284 |
-| 1984 | 16 | Portuguese Grand Prix | 70 | 1:41:11.753 |
-| 1983 | 1 | Brazilian Grand Prix | 63 | 1:48:27.731 |
-| 1983 | 2 | United States Grand Prix West | 75 | 1:53:34.889 |
-| 1983 | 3 | French Grand Prix | 54 | 1:34:13.913 |
-| 1983 | 4 | San Marino Grand Prix | 60 | 1:37:52.460 |
-| 1983 | 5 | Monaco Grand Prix | 76 | 1:56:38.121 |
-| 1983 | 6 | Belgian Grand Prix | 40 | 1:27:11.502 |
-| 1983 | 7 | Detroit Grand Prix | 60 | 1:50:53.669 |
-| 1983 | 8 | Canadian Grand Prix | 70 | 1:48:31.838 |
-| 1983 | 9 | British Grand Prix | 67 | 1:24:39.780 |
-| 1983 | 10 | German Grand Prix | 45 | 1:27:10.319 |
-| 1983 | 11 | Austrian Grand Prix | 53 | 1:24:32.745 |
-| 1983 | 12 | Dutch Grand Prix | 72 | 1:38:41.950 |
-| 1983 | 13 | Italian Grand Prix | 52 | 1:23:10.880 |
-| 1983 | 14 | European Grand Prix | 76 | 1:36:45.865 |
-| 1983 | 15 | South African Grand Prix | 77 | 1:33:25.708 |
-| 1982 | 1 | South African Grand Prix | 77 | 1:32:08.401 |
-| 1982 | 2 | Brazilian Grand Prix | 63 | 1:44:33.134 |
-| 1982 | 3 | United States Grand Prix West | 75 | 1:58:25.318 |
-| 1982 | 4 | San Marino Grand Prix | 60 | 1:36:38.887 |
-| 1982 | 5 | Belgian Grand Prix | 70 | 1:35:41.995 |
-| 1982 | 6 | Monaco Grand Prix | 76 | 1:54:11.259 |
-| 1982 | 7 | Detroit Grand Prix | 62 | 1:58:41.043 |
-| 1982 | 8 | Canadian Grand Prix | 70 | 1:46:39.577 |
-| 1982 | 9 | Dutch Grand Prix | 72 | 1:38:03.254 |
-| 1982 | 10 | British Grand Prix | 76 | 1:35:33.812 |
-| 1982 | 11 | French Grand Prix | 54 | 1:33:33.217 |
-| 1982 | 12 | German Grand Prix | 45 | 1:27:25.178 |
-| 1982 | 13 | Austrian Grand Prix | 53 | 1:25:02.212 |
-| 1982 | 14 | Swiss Grand Prix | 80 | 1:32:41.087 |
-| 1982 | 15 | Italian Grand Prix | 52 | 1:22:25.734 |
-| 1982 | 16 | Caesars Palace Grand Prix | 75 | 1:41:56.888 |
-| 1981 | 1 | United States Grand Prix West | 80 | 1:50:41.33 |
-| 1981 | 2 | Brazilian Grand Prix | 62 | 2:00:23.66 |
-| 1981 | 3 | Argentine Grand Prix | 53 | 1:34:32.74 |
-| 1981 | 4 | San Marino Grand Prix | 60 | 1:51:23.97 |
-| 1981 | 5 | Belgian Grand Prix | 54 | 1:16:31.61 |
-| 1981 | 6 | Monaco Grand Prix | 76 | 1:54:23.38 |
-| 1981 | 7 | Spanish Grand Prix | 80 | 1:46:35.01 |
-| 1981 | 8 | French Grand Prix | 80 | 1:35:48.13 |
-| 1981 | 9 | British Grand Prix | 68 | 1:26:54.80 |
-| 1981 | 10 | German Grand Prix | 45 | 1:25:55.60 |
-| 1981 | 11 | Austrian Grand Prix | 53 | 1:27:36.47 |
-| 1981 | 12 | Dutch Grand Prix | 72 | 1:40:22.43 |
-| 1981 | 13 | Italian Grand Prix | 52 | 1:26:36.897 |
-| 1981 | 14 | Canadian Grand Prix | 63 | 2:01:25.20 |
-| 1981 | 15 | Caesars Palace Grand Prix | 75 | 1:44:09.077 |
-| 1980 | 1 | Argentine Grand Prix | 53 | 1:43:24.38 |
-| 1980 | 2 | Brazilian Grand Prix | 40 | 1:40:01.33 |
-| 1980 | 3 | South African Grand Prix | 78 | 1:36:52.54 |
-| 1980 | 4 | United States Grand Prix West | 80 | 1:50:19.4 |
-| 1980 | 5 | Belgian Grand Prix | 72 | 1:38:47.4 |
-| 1980 | 6 | Monaco Grand Prix | 76 | 1:55:34.365 |
-| 1980 | 7 | French Grand Prix | 54 | 1:32:43.4 |
-| 1980 | 8 | British Grand Prix | 76 | 1:34:49.228 |
-| 1980 | 9 | German Grand Prix | 45 | 1:23:59.73 |
-| 1980 | 10 | Austrian Grand Prix | 54 | 1:26:15.73 |
-| 1980 | 11 | Dutch Grand Prix | 72 | 1:38:13.83 |
-| 1980 | 12 | Italian Grand Prix | 60 | 1:38:07.52 |
-| 1980 | 13 | Canadian Grand Prix | 70 | 1:46:45.53 |
-| 1980 | 14 | United States Grand Prix | 59 | 1:34:36.05 |
-| 1979 | 1 | Argentine Grand Prix | 53 | 1:36:03.21 |
-| 1979 | 2 | Brazilian Grand Prix | 40 | 1:40:09.64 |
-| 1979 | 3 | South African Grand Prix | 78 | 1:41:49.96 |
-| 1979 | 4 | United States Grand Prix West | 80 | 1:50:25.40 |
-| 1979 | 5 | Spanish Grand Prix | 75 | 1:39:11.84 |
-| 1979 | 6 | Belgian Grand Prix | 70 | 1:39:59.53 |
-| 1979 | 7 | Monaco Grand Prix | 76 | 1:55:22.48 |
-| 1979 | 8 | French Grand Prix | 80 | 1:35:20.42 |
-| 1979 | 9 | British Grand Prix | 68 | 1:26:11.17 |
-| 1979 | 10 | German Grand Prix | 45 | 1:24:48.83 |
-| 1979 | 11 | Austrian Grand Prix | 54 | 1:27:38.01 |
-| 1979 | 12 | Dutch Grand Prix | 75 | 1:41:19.775 |
-| 1979 | 13 | Italian Grand Prix | 50 | 1:22:00.22 |
-| 1979 | 14 | Canadian Grand Prix | 72 | 1:52:06.892 |
-| 1979 | 15 | United States Grand Prix | 59 | 1:52:17.734 |
-| 1978 | 1 | Argentine Grand Prix | 52 | 1:37:04.47 |
-| 1978 | 2 | Brazilian Grand Prix | 63 | 1:49:59.86 |
-| 1978 | 3 | South African Grand Prix | 78 | 1:42:15.767 |
-| 1978 | 4 | United States Grand Prix West | 80 | 1:52:01.301 |
-| 1978 | 5 | Monaco Grand Prix | 75 | 1:55:14.66 |
-| 1978 | 6 | Belgian Grand Prix | 70 | 1:39:52.02 |
-| 1978 | 7 | Spanish Grand Prix | 75 | 1:41:47.06 |
-| 1978 | 8 | Swedish Grand Prix | 70 | 1:41:00.606 |
-| 1978 | 9 | French Grand Prix | 54 | 1:38:51.92 |
-| 1978 | 10 | British Grand Prix | 76 | 1:42:12.39 |
-| 1978 | 11 | German Grand Prix | 45 | 1:28:00.90 |
-| 1978 | 12 | Austrian Grand Prix | 54 | 1:41:21.57 |
-| 1978 | 13 | Dutch Grand Prix | 75 | 1:41:04.23 |
-| 1978 | 14 | Italian Grand Prix | 40 | 1:07:04.54 |
-| 1978 | 15 | United States Grand Prix | 59 | 1:40:48.800 |
-| 1978 | 16 | Canadian Grand Prix | 70 | 1:57:49.196 |
-| 1977 | 1 | Argentine Grand Prix | 53 | 1:40:11.19 |
-| 1977 | 2 | Brazilian Grand Prix | 40 | 1:45:07.72 |
-| 1977 | 3 | South African Grand Prix | 78 | 1:42:21.6 |
-| 1977 | 4 | United States Grand Prix West | 80 | 1:51:35.470 |
-| 1977 | 5 | Spanish Grand Prix | 75 | 1:42:.52.22 |
-| 1977 | 6 | Monaco Grand Prix | 76 | 1:57:52.77 |
-| 1977 | 7 | Belgian Grand Prix | 70 | 1:55:05.71 |
-| 1977 | 8 | Swedish Grand Prix | 72 | 1:46:56.4 |
-| 1977 | 9 | French Grand Prix | 80 | 1:39:40.13 |
-| 1977 | 10 | British Grand Prix | 68 | 1:31:46.06 |
-| 1977 | 11 | German Grand Prix | 47 | 1:31:49.3 |
-| 1977 | 12 | Austrian Grand Prix | 54 | 1:37:16.49 |
-| 1977 | 13 | Dutch Grand Prix | 75 | 1:41:45.93 |
-| 1977 | 14 | Italian Grand Prix | 52 | 1:27:50.30 |
-| 1977 | 15 | United States Grand Prix | 59 | 1:58:23.267 |
-| 1977 | 16 | Canadian Grand Prix | 80 | 1:40:00.0 |
-| 1977 | 17 | Japanese Grand Prix | 73 | 1:31:51.68 |
-| 1976 | 1 | Brazilian Grand Prix | 40 | 1:45:16.78 |
-| 1976 | 2 | South African Grand Prix | 78 | 1:42:18.4 |
-| 1976 | 3 | United States Grand Prix West | 80 | 1:53:18.471 |
-| 1976 | 4 | Spanish Grand Prix | 75 | 1:42:20.43 |
-| 1976 | 5 | Belgian Grand Prix | 70 | 1:42:53.23 |
-| 1976 | 6 | Monaco Grand Prix | 78 | 1:59:51.47 |
-| 1976 | 7 | Swedish Grand Prix | 72 | 1:46:53.729 |
-| 1976 | 8 | French Grand Prix | 54 | 1:40:58.60 |
-| 1976 | 9 | British Grand Prix | 76 | 1:44:19.66 |
-| 1976 | 10 | German Grand Prix | 14 | 1:41:42.7 |
-| 1976 | 11 | Austrian Grand Prix | 54 | 1:30:07.86 |
-| 1976 | 12 | Dutch Grand Prix | 75 | 1:44:52.09 |
-| 1976 | 13 | Italian Grand Prix | 52 | 1:30:35.6 |
-| 1976 | 14 | Canadian Grand Prix | 80 | 1:40:09.626 |
-| 1976 | 15 | United States Grand Prix | 59 | 1:42:40.742 |
-| 1976 | 16 | Japanese Grand Prix | 73 | 1:43:58.86 |
-| 1975 | 1 | Argentine Grand Prix | 53 | 1:39:26.29 |
-| 1975 | 2 | Brazilian Grand Prix | 40 | 1:44:41.17 |
-| 1975 | 3 | South African Grand Prix | 78 | 1:43:16.90 |
-| 1975 | 4 | Spanish Grand Prix | 29 | 42:53.7 |
-| 1975 | 5 | Monaco Grand Prix | 75 | 2:01:21.31 |
-| 1975 | 6 | Belgian Grand Prix | 70 | 1:43:53.98 |
-| 1975 | 7 | Swedish Grand Prix | 80 | 1:59:18.319 |
-| 1975 | 8 | Dutch Grand Prix | 75 | 1:46:57.40 |
-| 1975 | 9 | French Grand Prix | 54 | 1:40:18.84 |
-| 1975 | 10 | British Grand Prix | 56 | 1:22:05.0 |
-| 1975 | 11 | German Grand Prix | 14 | 1:41:14.1 |
-| 1975 | 12 | Austrian Grand Prix | 29 | 0:57:56.69 |
-| 1975 | 13 | Italian Grand Prix | 52 | 1:22:42.6 |
-| 1975 | 14 | United States Grand Prix | 59 | 1:42:58.175 |
-| 1974 | 1 | Argentine Grand Prix | 53 | 1:41:02.01 |
-| 1974 | 2 | Brazilian Grand Prix | 32 | 1:24:37.06 |
-| 1974 | 3 | South African Grand Prix | 78 | 1:42:40.96 |
-| 1974 | 4 | Spanish Grand Prix | 84 | 2:00:29.56 |
-| 1974 | 5 | Belgian Grand Prix | 85 | 1:44:20.57 |
-| 1974 | 6 | Monaco Grand Prix | 78 | 1:58:03.7 |
-| 1974 | 7 | Swedish Grand Prix | 80 | 1:58:31.391 |
-| 1974 | 8 | Dutch Grand Prix | 75 | 1:43:00.35 |
-| 1974 | 9 | French Grand Prix | 80 | 1:21:55.02 |
-| 1974 | 10 | British Grand Prix | 75 | 1:43:02.2 |
-| 1974 | 11 | German Grand Prix | 14 | 1:41:35.0 |
-| 1974 | 12 | Austrian Grand Prix | 54 | 1:28:44.72 |
-| 1974 | 13 | Italian Grand Prix | 52 | 1:22:56.6 |
-| 1974 | 14 | Canadian Grand Prix | 80 | 1:40:26.136 |
-| 1974 | 15 | United States Grand Prix | 59 | 1:40:21.439 |
-| 1973 | 1 | Argentine Grand Prix | 96 | 1:56:18.22 |
-| 1973 | 2 | Brazilian Grand Prix | 40 | 1:43:55.6 |
-| 1973 | 3 | South African Grand Prix | 79 | 1:43:11.07 |
-| 1973 | 4 | Spanish Grand Prix | 75 | 1:48:18.7 |
-| 1973 | 5 | Belgian Grand Prix | 70 | 1:42:13.43 |
-| 1973 | 6 | Monaco Grand Prix | 78 | 1:57:44.3 |
-| 1973 | 7 | Swedish Grand Prix | 80 | 1:56:46.049 |
-| 1973 | 8 | French Grand Prix | 54 | 1:41:36.52 |
-| 1973 | 9 | British Grand Prix | 67 | 1:29:18.5 |
-| 1973 | 10 | Dutch Grand Prix | 72 | 1:39:12.45 |
-| 1973 | 11 | German Grand Prix | 14 | 1:42:03.0 |
-| 1973 | 12 | Austrian Grand Prix | 54 | 1:28:48.78 |
-| 1973 | 13 | Italian Grand Prix | 55 | 1:29:17.0 |
-| 1973 | 14 | Canadian Grand Prix | 80 | 1:59:04.083 |
-| 1973 | 15 | United States Grand Prix | 59 | 1:41:15.779 |
-| 1972 | 1 | Argentine Grand Prix | 95 | 1:57:59.1 |
-| 1972 | 2 | South African Grand Prix | 79 | 1:45:49.1 |
-| 1972 | 3 | Spanish Grand Prix | 90 | 2:03:41.2 |
-| 1972 | 4 | Monaco Grand Prix | 80 | 2:26:55.3 |
-| 1972 | 5 | Belgian Grand Prix | 85 | 1:44:07.3 |
-| 1972 | 6 | French Grand Prix | 38 | 1:52:22.5 |
-| 1972 | 7 | British Grand Prix | 76 | 1:47:50.2 |
-| 1972 | 8 | German Grand Prix | 14 | 1:42:12.3 |
-| 1972 | 9 | Austrian Grand Prix | 54 | 29:17.3 |
-| 1972 | 10 | Italian Grand Prix | 55 | 1:29:58.4 |
-| 1972 | 11 | Canadian Grand Prix | 80 | 1:43:17.1 |
-| 1972 | 12 | United States Grand Prix | 59 | 1:41:45.354 |
-| 1971 | 1 | South African Grand Prix | 79 | 1:47:35.5 |
-| 1971 | 2 | Spanish Grand Prix | 75 | 1:49:03.4 |
-| 1971 | 3 | Monaco Grand Prix | 80 | 1:52:21.3 |
-| 1971 | 4 | Dutch Grand Prix | 70 | 1:56:20.0 |
-| 1971 | 5 | French Grand Prix | 55 | 1:46:42.3 |
-| 1971 | 6 | British Grand Prix | 68 | 1:31:31.5 |
-| 1971 | 7 | German Grand Prix | 12 | 1:29:16.3 |
-| 1971 | 8 | Austrian Grand Prix | 54 | 1:30:23.91 |
-| 1971 | 9 | Italian Grand Prix | 55 | 1:18:12.60 |
-| 1971 | 10 | Canadian Grand Prix | 64 | 1:55:13.1 |
-| 1971 | 11 | United States Grand Prix | 59 | 1:43:51.991 |
-| 1970 | 1 | South African Grand Prix | 80 | 1:49:35.4 |
-| 1970 | 2 | Spanish Grand Prix | 90 | 2:10:58.2 |
-| 1970 | 3 | Monaco Grand Prix | 80 | 1:54:37.4 |
-| 1970 | 4 | Belgian Grand Prix | 28 | 1:38:10.1 |
-| 1970 | 5 | Dutch Grand Prix | 80 | 1:50:43.4 |
-| 1970 | 6 | French Grand Prix | 38 | 1:55:57.0 |
-| 1970 | 7 | British Grand Prix | 80 | 1:57:02.0 |
-| 1970 | 8 | German Grand Prix | 50 | 1:42:00.3 |
-| 1970 | 9 | Austrian Grand Prix | 60 | 1:42:17.3 |
-| 1970 | 10 | Italian Grand Prix | 68 | 1:39:07.1 |
-| 1970 | 11 | Canadian Grand Prix | 90 | 1:21:18.4 |
-| 1970 | 12 | United States Grand Prix | 108 | 1:57:32.79 |
-| 1970 | 13 | Mexican Grand Prix | 65 | 1:53:28.3 |
-| 1969 | 1 | South African Grand Prix | 80 | 1:50:39.1 |
-| 1969 | 2 | Spanish Grand Prix | 90 | 2:16:54.0 |
-| 1969 | 3 | Monaco Grand Prix | 80 | 1:56:59.4 |
-| 1969 | 4 | Dutch Grand Prix | 90 | 2:06:42.08 |
-| 1969 | 5 | French Grand Prix | 38 | 1:56:47.4 |
-| 1969 | 6 | British Grand Prix | 84 | 1:55:55.6 |
-| 1969 | 7 | German Grand Prix | 14 | 1:49:55.4 |
-| 1969 | 8 | Italian Grand Prix | 68 | 1:39:11.26 |
-| 1969 | 9 | Canadian Grand Prix | 90 | 1:59:25.7 |
-| 1969 | 10 | United States Grand Prix | 108 | 1:57:56.84 |
-| 1969 | 11 | Mexican Grand Prix | 65 | 1:54:08.80 |
-| 1968 | 1 | South African Grand Prix | 80 | 1:53:56.6 |
-| 1968 | 2 | Spanish Grand Prix | 90 | 2:15:02.1 |
-| 1968 | 3 | Monaco Grand Prix | 80 | 2:00:32.3 |
-| 1968 | 4 | Belgian Grand Prix | 28 | 1:40:02.1 |
-| 1968 | 5 | Dutch Grand Prix | 90 | 2:46:11.2 |
-| 1968 | 6 | French Grand Prix | 60 | 2:25:40.9 |
-| 1968 | 7 | British Grand Prix | 80 | 2:01:20.3 |
-| 1968 | 8 | German Grand Prix | 14 | 2:19:03.2 |
-| 1968 | 9 | Italian Grand Prix | 68 | 1:40:14.8 |
-| 1968 | 10 | Canadian Grand Prix | 90 | 2:27:11.2 |
-| 1968 | 11 | United States Grand Prix | 108 | 1:59:20.29 |
-| 1968 | 12 | Mexican Grand Prix | 65 | 1:56:43.95 |
-| 1967 | 1 | South African Grand Prix | 80 | 2:05:45.9 |
-| 1967 | 2 | Monaco Grand Prix | 100 | 2:34:34.3 |
-| 1967 | 3 | Dutch Grand Prix | 90 | 2:14:45.1 |
-| 1967 | 4 | Belgian Grand Prix | 28 | 1:40:49.4 |
-| 1967 | 5 | French Grand Prix | 80 | 2:13:21.3 |
-| 1967 | 6 | British Grand Prix | 80 | 1:59:25.6 |
-| 1967 | 7 | German Grand Prix | 15 | 2:05:55.7 |
-| 1967 | 8 | Canadian Grand Prix | 90 | 2:40:40.0 |
-| 1967 | 9 | Italian Grand Prix | 68 | 1:43:45.0 |
-| 1967 | 10 | United States Grand Prix | 108 | 2:03:13.2 |
-| 1967 | 11 | Mexican Grand Prix | 65 | 1:59:28.70 |
-| 1966 | 1 | Monaco Grand Prix | 100 | 2:33:10.5 |
-| 1966 | 2 | Belgian Grand Prix | 28 | 2:09:11.3 |
-| 1966 | 3 | French Grand Prix | 48 | 1:48:31.3 |
-| 1966 | 4 | British Grand Prix | 80 | 2:13:13.4 |
-| 1966 | 5 | Dutch Grand Prix | 90 | 2:20:32.5 |
-| 1966 | 6 | German Grand Prix | 15 | 2:27:03.0 |
-| 1966 | 7 | Italian Grand Prix | 68 | 1:47:14.8 |
-| 1966 | 8 | United States Grand Prix | 108 | 2:09:40.11 |
-| 1966 | 9 | Mexican Grand Prix | 65 | 2:06:35.34 |
-| 1965 | 1 | South African Grand Prix | 85 | 2:06:46.0 |
-| 1965 | 2 | Monaco Grand Prix | 100 | 2:37:39.6 |
-| 1965 | 3 | Belgian Grand Prix | 32 | 2:23:34.8 |
-| 1965 | 4 | French Grand Prix | 40 | 2:41:38.4 |
-| 1965 | 5 | British Grand Prix | 80 | 2:05:25.4 |
-| 1965 | 6 | Dutch Grand Prix | 80 | 2:03:59.1 |
-| 1965 | 7 | German Grand Prix | 15 | 2:07:52.4 |
-| 1965 | 8 | Italian Grand Prix | 76 | 2:04:52.8 |
-| 1965 | 9 | United States Grand Prix | 110 | 2:20:36.1 |
-| 1965 | 10 | Mexican Grand Prix | 65 | 2:08:32.10 |
-| 1964 | 1 | Monaco Grand Prix | 100 | 2:41:19.5 |
-| 1964 | 2 | Dutch Grand Prix | 80 | 2:07:35.4 |
-| 1964 | 3 | Belgian Grand Prix | 32 | 2:06:40.5 |
-| 1964 | 4 | French Grand Prix | 57 | 2:07:49.1 |
-| 1964 | 5 | British Grand Prix | 80 | 2:15:07.0 |
-| 1964 | 6 | German Grand Prix | 15 | 2:12:04.8 |
-| 1964 | 7 | Austrian Grand Prix | 105 | 2:06:18.23 |
-| 1964 | 8 | Italian Grand Prix | 78 | 2:10:51.8 |
-| 1964 | 9 | United States Grand Prix | 110 | 2:16:38.0 |
-| 1964 | 10 | Mexican Grand Prix | 65 | 2:09:50.32 |
-| 1963 | 1 | Monaco Grand Prix | 100 | 2:41:49.7 |
-| 1963 | 2 | Belgian Grand Prix | 32 | 2:27:47.6 |
-| 1963 | 3 | Dutch Grand Prix | 80 | 2:08:13.7 |
-| 1963 | 4 | French Grand Prix | 53 | 2:10:54.3 |
-| 1963 | 5 | British Grand Prix | 82 | 2:14:09.6 |
-| 1963 | 6 | German Grand Prix | 15 | 2:13:06.8 |
-| 1963 | 7 | Italian Grand Prix | 86 | 2:24:19.6 |
-| 1963 | 8 | United States Grand Prix | 110 | 2:19:22.1 |
-| 1963 | 9 | Mexican Grand Prix | 65 | 2:09:52.1 |
-| 1963 | 10 | South African Grand Prix | 85 | 2:10:36.9 |
-| 1962 | 1 | Dutch Grand Prix | 80 | 2:11:02.1 |
-| 1962 | 2 | Monaco Grand Prix | 100 | 2:46:29.7 |
-| 1962 | 3 | Belgian Grand Prix | 32 | 2:07:32.3 |
-| 1962 | 4 | French Grand Prix | 54 | 2:07:05.5 |
-| 1962 | 5 | British Grand Prix | 75 | 2:26:20.8 |
-| 1962 | 6 | German Grand Prix | 15 | 2:38:45.3 |
-| 1962 | 7 | Italian Grand Prix | 86 | 2:29:08.4 |
-| 1962 | 8 | United States Grand Prix | 100 | 2:07:13.0 |
-| 1962 | 9 | South African Grand Prix | 82 | 2:08:03.3 |
-| 1961 | 1 | Monaco Grand Prix | 100 | 2:45:50.1 |
-| 1961 | 2 | Dutch Grand Prix | 75 | 2:01:52.1 |
-| 1961 | 3 | Belgian Grand Prix | 30 | 2:03:03.8 |
-| 1961 | 4 | French Grand Prix | 52 | 2:14:17.5 |
-| 1961 | 5 | British Grand Prix | 75 | 2:40:53.6 |
-| 1961 | 6 | German Grand Prix | 15 | 2:18:12.4 |
-| 1961 | 7 | Italian Grand Prix | 43 | 2:03:13.0 |
-| 1961 | 8 | United States Grand Prix | 100 | 2:13:45.8 |
-| 1960 | 1 | Argentine Grand Prix | 80 | 2:17:49.5 |
-| 1960 | 2 | Monaco Grand Prix | 100 | 2:53:45.5 |
-| 1960 | 3 | Indianapolis 500 | 200 | 3:36:11.36 |
-| 1960 | 4 | Dutch Grand Prix | 75 | 2:01:47.2 |
-| 1960 | 5 | Belgian Grand Prix | 36 | 2:21:37.3 |
-| 1960 | 6 | French Grand Prix | 50 | 1:57:24.9 |
-| 1960 | 7 | British Grand Prix | 77 | 2:04:24.3 |
-| 1960 | 8 | Portuguese Grand Prix | 55 | 2:19:00.03 |
-| 1960 | 9 | Italian Grand Prix | 50 | 2:21:09.2 |
-| 1960 | 10 | United States Grand Prix | 75 | 2:28:52.2 |
-| 1959 | 1 | Monaco Grand Prix | 100 | 2:55:51.3 |
-| 1959 | 2 | Indianapolis 500 | 200 | 3:40:49.20 |
-| 1959 | 3 | Dutch Grand Prix | 75 | 2:05:26.8 |
-| 1959 | 4 | French Grand Prix | 50 | 2:01:26.5 |
-| 1959 | 5 | British Grand Prix | 75 | 2:30:11.6 |
-| 1959 | 6 | German Grand Prix | 60 | 2:09:31.6 |
-| 1959 | 7 | Portuguese Grand Prix | 62 | 2:11:55.41 |
-| 1959 | 8 | Italian Grand Prix | 72 | 2:04:05.4 |
-| 1959 | 9 | United States Grand Prix | 42 | 2:12:35.7 |
-| 1958 | 1 | Argentine Grand Prix | 80 | 2:19:33.7 |
-| 1958 | 2 | Monaco Grand Prix | 100 | 2:52:27.9 |
-| 1958 | 3 | Dutch Grand Prix | 75 | 2:04:49.2 |
-| 1958 | 4 | Indianapolis 500 | 200 | 3:44:13.80 |
-| 1958 | 5 | Belgian Grand Prix | 24 | 1:37:06.3 |
-| 1958 | 6 | French Grand Prix | 50 | 2:03:21.3 |
-| 1958 | 7 | British Grand Prix | 75 | 2:09:04.2 |
-| 1958 | 8 | German Grand Prix | 15 | 2:21:15.0 |
-| 1958 | 9 | Portuguese Grand Prix | 50 | 2:11:27.80 |
-| 1958 | 10 | Italian Grand Prix | 70 | 2:03:47.8 |
-| 1958 | 11 | Moroccan Grand Prix | 53 | 2:09:15.1 |
-| 1957 | 1 | Argentine Grand Prix | 100 | 3:00:55.9 |
-| 1957 | 2 | Monaco Grand Prix | 105 | 3:10:12.8 |
-| 1957 | 3 | Indianapolis 500 | 200 | 3:41:14.25 |
-| 1957 | 4 | French Grand Prix | 77 | 3:07:46.4 |
-| 1957 | 5 | British Grand Prix | 90 | 3:06:37.8 |
-| 1957 | 6 | German Grand Prix | 22 | 3:30:38.3 |
-| 1957 | 7 | Pescara Grand Prix | 18 | 2:59:22.7 |
-| 1957 | 8 | Italian Grand Prix | 87 | 2:35:03.9 |
-| 1956 | 1 | Argentine Grand Prix | 98 | 3:00:03.7 |
-| 1956 | 2 | Monaco Grand Prix | 100 | 3:00:32.9 |
-| 1956 | 3 | Indianapolis 500 | 200 | 3:53:28.84 |
-| 1956 | 4 | Belgian Grand Prix | 36 | 2:40:00.3 |
-| 1956 | 5 | French Grand Prix | 61 | 2:34:23.4 |
-| 1956 | 6 | British Grand Prix | 101 | 2:59:47.0 |
-| 1956 | 7 | German Grand Prix | 22 | 3:38:43.7 |
-| 1956 | 8 | Italian Grand Prix | 50 | 2:23:41.3 |
-| 1955 | 1 | Argentine Grand Prix | 96 | 3:00:38.6 |
-| 1955 | 2 | Monaco Grand Prix | 100 | 2:58:09.8 |
-| 1955 | 3 | Indianapolis 500 | 200 | 3:53:59.53 |
-| 1955 | 4 | Belgian Grand Prix | 36 | 2:39:29.0 |
-| 1955 | 5 | Dutch Grand Prix | 100 | 2:54:23.8 |
-| 1955 | 6 | British Grand Prix | 90 | 3:07:21.2 |
-| 1955 | 7 | Italian Grand Prix | 50 | 2:25:04.4 |
-| 1954 | 1 | Argentine Grand Prix | 87 | 3:00:55.8 |
-| 1954 | 2 | Indianapolis 500 | 200 | 3:49:17.27 |
-| 1954 | 3 | Belgian Grand Prix | 36 | 2:44:42.4 |
-| 1954 | 4 | French Grand Prix | 61 | 2:42:47.9 |
-| 1954 | 5 | British Grand Prix | 90 | 2:56:14.0 |
-| 1954 | 6 | German Grand Prix | 22 | 3:45:45.8 |
-| 1954 | 7 | Swiss Grand Prix | 66 | 3:00:34.5 |
-| 1954 | 8 | Italian Grand Prix | 80 | 2:47:47.9 |
-| 1954 | 9 | Spanish Grand Prix | 80 | 3:13:52.1 |
-| 1953 | 1 | Argentine Grand Prix | 97 | 3:01:04.6 |
-| 1953 | 2 | Indianapolis 500 | 200 | 3:53:01.69 |
-| 1953 | 3 | Dutch Grand Prix | 90 | 2:53:35.8 |
-| 1953 | 4 | Belgian Grand Prix | 36 | 2:48:30.3 |
-| 1953 | 5 | French Grand Prix | 60 | 2:44:18.6 |
-| 1953 | 6 | British Grand Prix | 90 | 2:50:00.0 |
-| 1953 | 7 | German Grand Prix | 18 | 3:02:25.0 |
-| 1953 | 8 | Swiss Grand Prix | 65 | 3:01:34.40 |
-| 1953 | 9 | Italian Grand Prix | 80 | 2:49:45.9 |
-| 1952 | 1 | Swiss Grand Prix | 62 | 3:01:46.1 |
-| 1952 | 2 | Indianapolis 500 | 200 | 3:52:41.88 |
-| 1952 | 3 | Belgian Grand Prix | 36 | 3:03:46.3 |
-| 1952 | 4 | French Grand Prix | 77 | 3:00:00.0 |
-| 1952 | 5 | British Grand Prix | 85 | 2:46:11.0 |
-| 1952 | 6 | German Grand Prix | 18 | 3:06:13.3 |
-| 1952 | 7 | Dutch Grand Prix | 90 | 2:53:28.5 |
-| 1952 | 8 | Italian Grand Prix | 80 | 2:50:45.6 |
-| 1951 | 1 | Swiss Grand Prix | 42 | 2:07:53.64 |
-| 1951 | 2 | Indianapolis 500 | 200 | 3:57:38.05 |
-| 1951 | 3 | Belgian Grand Prix | 36 | 2:45:46.2 |
-| 1951 | 4 | French Grand Prix | 77 | 3:22:11.0 |
-| 1951 | 5 | British Grand Prix | 90 | 2:42:18.2 |
-| 1951 | 6 | German Grand Prix | 20 | 3:23:03.3 |
-| 1951 | 7 | Italian Grand Prix | 80 | 2:42:39.3 |
-| 1951 | 8 | Spanish Grand Prix | 70 | 2:46:54.10 |
-| 1950 | 1 | British Grand Prix | 70 | 2:13:23.6 |
-| 1950 | 2 | Monaco Grand Prix | 100 | 3:13:18.7 |
-| 1950 | 3 | Indianapolis 500 | 138 | 2:46:55.97 |
-| 1950 | 4 | Swiss Grand Prix | 42 | 2:02:53.7 |
-| 1950 | 5 | Belgian Grand Prix | 35 | 2:47:26.0 |
-| 1950 | 6 | French Grand Prix | 64 | 2:57:52.8 |
-| 1950 | 7 | Italian Grand Prix | 80 | 2:51:17.4 |
+| Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|
+| 2017 | 20 | Abu Dhabi Grand Prix | 2017-11-26 |   |   |   |   |
+| 2017 | 19 | Brazilian Grand Prix | 2017-11-12 |   |   |   |   |
+| 2017 | 18 | Mexican Grand Prix | 2017-10-29 |   |   |   |   |
+| 2017 | 17 | United States Grand Prix | 2017-10-22 |   |   |   |   |
+| 2017 | 16 | Japanese Grand Prix | 2017-10-08 |   |   |   |   |
+| 2017 | 15 | Malaysian Grand Prix | 2017-10-01 |   |   |   |   |
+| 2017 | 14 | Singapore Grand Prix | 2017-09-17 |   |   |   |   |
+| 2017 | 13 | Italian Grand Prix | 2017-09-03 |   |   |   |   |
+| 2017 | 12 | Belgian Grand Prix | 2017-08-27 |   |   |   |   |
+| 2017 | 11 | Hungarian Grand Prix | 2017-07-30 |   |   |   |   |
+| 2017 | 10 | British Grand Prix | 2017-07-16 |   |   |   |   |
+| 2017 | 9 | Austrian Grand Prix | 2017-07-09 |   |   |   |   |
+| 2017 | 8 | Azerbaijan Grand Prix | 2017-06-25 |   |   |   |   |
+| 2017 | 7 | Canadian Grand Prix | 2017-06-11 |   |   |   |   |
+| 2017 | 6 | Monaco Grand Prix | 2017-05-28 |   |   |   |   |
+| 2017 | 5 | Spanish Grand Prix | 2017-05-14 |   |   |   |   |
+| 2017 | 4 | Russian Grand Prix | 2017-04-30 |   |   |   |   |
+| 2017 | 3 | Bahrain Grand Prix | 2017-04-16 |   |   |   |   |
+| 2017 | 2 | Chinese Grand Prix | 2017-04-09 |   |   |   |   |
+| 2017 | 1 | Australian Grand Prix | 2017-03-26 |   |   |   |   |
+| 2016 | 21 | Abu Dhabi Grand Prix | 2016-11-27 | 55 | 1:38:04.013 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 20 | Brazilian Grand Prix | 2016-11-13 | 71 | 3:01:01.335 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 19 | Mexican Grand Prix | 2016-10-30 | 71 | 1:40:31.402 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 18 | United States Grand Prix | 2016-10-23 | 56 | 1:38:12.618 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 17 | Japanese Grand Prix | 2016-10-09 | 53 | 1:26:43.333 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 16 | Malaysian Grand Prix | 2016-10-02 | 56 | 1:37:12.776 | Daniel Ricciardo 🇦🇺 | Red Bull 🇦🇹 |
+| 2016 | 15 | Singapore Grand Prix | 2016-09-18 | 61 | 1:55:48.950 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 14 | Italian Grand Prix | 2016-09-04 | 53 | 1:17:28.089 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 13 | Belgian Grand Prix | 2016-08-28 | 44 | 1:44:51.058 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 12 | German Grand Prix | 2016-07-31 | 67 | 1:30:44.200 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 11 | Hungarian Grand Prix | 2016-07-24 | 70 | 1:40:30.115 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 10 | British Grand Prix | 2016-07-10 | 52 | 1:34:55.831 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 9 | Austrian Grand Prix | 2016-07-03 | 71 | 1:27:38.107 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 8 | European Grand Prix | 2016-06-19 | 51 | 1:32:52.366 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 7 | Canadian Grand Prix | 2016-06-12 | 70 | 1:31:05.296 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 6 | Monaco Grand Prix | 2016-05-29 | 78 | 1:59:29.133 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2016 | 5 | Spanish Grand Prix | 2016-05-15 | 66 | 1:41:40.017 | Max Verstappen 🇳🇱 | Red Bull 🇦🇹 |
+| 2016 | 4 | Russian Grand Prix | 2016-05-01 | 53 | 1:32:41.997 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 3 | Chinese Grand Prix | 2016-04-17 | 56 | 1:38:53.891 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 2 | Bahrain Grand Prix | 2016-04-03 | 57 | 1:33:34.696 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2016 | 1 | Australian Grand Prix | 2016-03-20 | 57 | 1:48:15.565 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 19 | Abu Dhabi Grand Prix | 2015-11-29 | 55 | 1:38:30.175 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 18 | Brazilian Grand Prix | 2015-11-15 | 71 | 1:31:09.090 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 17 | Mexican Grand Prix | 2015-11-01 | 71 | 1:42:35.038 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 16 | United States Grand Prix | 2015-10-25 | 56 | 1:50:52.703 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 15 | Russian Grand Prix | 2015-10-11 | 53 | 1:37:11.024 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 14 | Japanese Grand Prix | 2015-09-27 | 53 |   | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 13 | Singapore Grand Prix | 2015-09-20 | 61 | 2:01:22.118 | Sebastian Vettel 🇩🇪 | Ferrari 🇮🇹 |
+| 2015 | 12 | Italian Grand Prix | 2015-09-06 | 53 | 1:18:00.688 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 11 | Belgian Grand Prix | 2015-08-23 | 43 | 1:23:40.387 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 10 | Hungarian Grand Prix | 2015-07-26 | 69 | 1:46:09.985 | Sebastian Vettel 🇩🇪 | Ferrari 🇮🇹 |
+| 2015 | 9 | British Grand Prix | 2015-07-05 | 52 | 1:31:27.729 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 8 | Austrian Grand Prix | 2015-06-21 | 71 | 1:30:16.930 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 7 | Canadian Grand Prix | 2015-06-07 | 70 | 1:31:53.145 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 6 | Monaco Grand Prix | 2015-05-24 | 78 | 1:49:18.420 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 5 | Spanish Grand Prix | 2015-05-10 | 66 | 1:41:12.555 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2015 | 4 | Bahrain Grand Prix | 2015-04-19 | 57 | 1:35:05.809 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 3 | Chinese Grand Prix | 2015-04-12 | 56 | 1:39:42.008 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 2 | Malaysian Grand Prix | 2015-03-29 | 56 | 1:41:05.793 | Sebastian Vettel 🇩🇪 | Ferrari 🇮🇹 |
+| 2015 | 1 | Australian Grand Prix | 2015-03-15 | 58 | 1:31:54.067 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 19 | Abu Dhabi Grand Prix | 2014-11-23 | 55 | 1:39:02.619 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 18 | Brazilian Grand Prix | 2014-11-09 | 71 | 1:30:02.555 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2014 | 17 | United States Grand Prix | 2014-11-02 | 56 | 1:40:04.785 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 16 | Russian Grand Prix | 2014-10-12 | 53 | 1:31:50.744 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 15 | Japanese Grand Prix | 2014-10-05 | 44 | 1:51:43.021 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 14 | Singapore Grand Prix | 2014-09-21 | 60 | 2:00:04.795 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 13 | Italian Grand Prix | 2014-09-07 | 53 | 1:19:10.236 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 12 | Belgian Grand Prix | 2014-08-24 | 44 | 1:24:36.556 | Daniel Ricciardo 🇦🇺 | Red Bull 🇦🇹 |
+| 2014 | 11 | Hungarian Grand Prix | 2014-07-27 | 70 | 1:53:05.058 | Daniel Ricciardo 🇦🇺 | Red Bull 🇦🇹 |
+| 2014 | 10 | German Grand Prix | 2014-07-20 | 67 | 1:33:42.914 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2014 | 9 | British Grand Prix | 2014-07-06 | 52 | 2:26:52.094 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 8 | Austrian Grand Prix | 2014-06-22 | 71 | 1:27:54.976 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2014 | 7 | Canadian Grand Prix | 2014-06-08 | 70 | 1:39:12.830 | Daniel Ricciardo 🇦🇺 | Red Bull 🇦🇹 |
+| 2014 | 6 | Monaco Grand Prix | 2014-05-25 | 78 | 1:49:27.661 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2014 | 5 | Spanish Grand Prix | 2014-05-11 | 66 | 1:41:05.155 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 4 | Chinese Grand Prix | 2014-04-20 | 54 | 1:33:28.388 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 3 | Bahrain Grand Prix | 2014-04-06 | 57 | 1:39:42.743 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 2 | Malaysian Grand Prix | 2014-03-30 | 56 | 1:40:25.974 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2014 | 1 | Australian Grand Prix | 2014-03-16 | 57 | 1:32:58.710 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2013 | 19 | Brazilian Grand Prix | 2013-11-24 | 71 | 1:32:36.300 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 18 | United States Grand Prix | 2013-11-17 | 56 | 1:39:17.168 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 17 | Abu Dhabi Grand Prix | 2013-11-03 | 55 | 1:38:06.106 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 16 | Indian Grand Prix | 2013-10-27 | 60 | 1:31:12.187 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 15 | Japanese Grand Prix | 2013-10-13 | 53 | 1:26:49.301 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 14 | Korean Grand Prix | 2013-10-06 | 55 | 1:43:13.701 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 13 | Singapore Grand Prix | 2013-09-22 | 61 | 1:59:13.132 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 12 | Italian Grand Prix | 2013-09-08 | 53 | 1:18:33.352 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 11 | Belgian Grand Prix | 2013-08-25 | 44 | 1:23:42.196 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 10 | Hungarian Grand Prix | 2013-07-28 | 70 | 1:42:29.445 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2013 | 9 | German Grand Prix | 2013-07-07 | 60 | 1:41.14.711 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 8 | British Grand Prix | 2013-06-30 | 52 | 1:32:59.456 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2013 | 7 | Canadian Grand Prix | 2013-06-09 | 70 | 1:32:09.143 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 6 | Monaco Grand Prix | 2013-05-26 | 78 | 2:15:52.056 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2013 | 5 | Spanish Grand Prix | 2013-05-12 | 66 | 1:39:16.596 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2013 | 4 | Bahrain Grand Prix | 2013-04-21 | 57 | 1:36:00.498 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 3 | Chinese Grand Prix | 2013-04-14 | 56 | 1:36:26.945 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2013 | 2 | Malaysian Grand Prix | 2013-03-24 | 56 | 1:38:56.681 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2013 | 1 | Australian Grand Prix | 2013-03-17 | 58 | 1:30:03.225 | Kimi Räikkönen 🇫🇮 | Lotus F1 🇬🇧 |
+| 2012 | 20 | Brazilian Grand Prix | 2012-11-25 | 71 | 1:45:22.656 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2012 | 19 | United States Grand Prix | 2012-11-18 | 56 | 1:35:55.269 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2012 | 18 | Abu Dhabi Grand Prix | 2012-11-04 | 55 | 1:45:58.667 | Kimi Räikkönen 🇫🇮 | Lotus F1 🇬🇧 |
+| 2012 | 17 | Indian Grand Prix | 2012-10-28 | 60 | 1:31:10.744 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2012 | 16 | Korean Grand Prix | 2012-10-14 | 55 | 1:36:28.651 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2012 | 15 | Japanese Grand Prix | 2012-10-07 | 53 | 1:28:56.242 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2012 | 14 | Singapore Grand Prix | 2012-09-23 | 59 | 2:00:26.144 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2012 | 13 | Italian Grand Prix | 2012-09-09 | 53 | 1:19:41.221 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2012 | 12 | Belgian Grand Prix | 2012-09-02 | 44 | 1:29:08.530 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2012 | 11 | Hungarian Grand Prix | 2012-07-29 | 69 | 1:41:05.503 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2012 | 10 | German Grand Prix | 2012-07-22 | 67 | 1:31:05.862 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2012 | 9 | British Grand Prix | 2012-07-08 | 52 | 1:25:11.288 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2012 | 8 | European Grand Prix | 2012-06-24 | 57 | 1:44:16.649 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2012 | 7 | Canadian Grand Prix | 2012-06-10 | 70 | 1:32:29.586 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2012 | 6 | Monaco Grand Prix | 2012-05-27 | 78 | 1:46:06.557 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2012 | 5 | Spanish Grand Prix | 2012-05-13 | 66 | 1:39:09.145 | Pastor Maldonado 🇻🇪 | Williams 🇬🇧 |
+| 2012 | 4 | Bahrain Grand Prix | 2012-04-22 | 57 | 1:35:10.990 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2012 | 3 | Chinese Grand Prix | 2012-04-15 | 56 | 1:36:26.929 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2012 | 2 | Malaysian Grand Prix | 2012-03-25 | 56 | 2:44:51.812 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2012 | 1 | Australian Grand Prix | 2012-03-18 | 58 | 1:34:09.565 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 19 | Brazilian Grand Prix | 2011-11-27 | 71 | 1:32:17.464 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2011 | 18 | Abu Dhabi Grand Prix | 2011-11-13 | 55 | 1:37:11.886 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 17 | Indian Grand Prix | 2011-10-30 | 60 | 1:30:35.002 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 16 | Korean Grand Prix | 2011-10-16 | 55 | 1:38:01.994 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 15 | Japanese Grand Prix | 2011-10-09 | 53 | 1:30:53.427 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 14 | Singapore Grand Prix | 2011-09-25 | 61 | 1:59:04.757 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 13 | Italian Grand Prix | 2011-09-11 | 53 | 1:20:46.172 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 12 | Belgian Grand Prix | 2011-08-28 | 44 | 1:26:44.893 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 11 | Hungarian Grand Prix | 2011-07-31 | 70 | 1:46:42.337 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 10 | German Grand Prix | 2011-07-24 | 60 | 1:37:30.344 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 9 | British Grand Prix | 2011-07-10 | 52 | 1:28:41.194 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2011 | 8 | European Grand Prix | 2011-06-26 | 57 | 1:39:36.169 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 7 | Canadian Grand Prix | 2011-06-12 | 70 | 4:04:39.537 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 6 | Monaco Grand Prix | 2011-05-29 | 78 | 2:09:38.373 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 5 | Spanish Grand Prix | 2011-05-22 | 66 | 1:39:03.301 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 4 | Turkish Grand Prix | 2011-05-08 | 58 | 1:30:17.558 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 3 | Chinese Grand Prix | 2011-04-17 | 56 | 1:36:58.226 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2011 | 2 | Malaysian Grand Prix | 2011-04-10 | 56 | 1:37:39.832 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 1 | Australian Grand Prix | 2011-03-27 | 58 | 1:29:30.259 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2010 | 19 | Abu Dhabi Grand Prix | 2010-11-14 | 55 | 1:39:36.837 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2010 | 18 | Brazilian Grand Prix | 2010-11-07 | 71 | 1:33:11.803 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2010 | 17 | Korean Grand Prix | 2010-10-24 | 55 | 2:48:20.810 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2010 | 16 | Japanese Grand Prix | 2010-10-10 | 53 | 1:30:27.323 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2010 | 15 | Singapore Grand Prix | 2010-09-26 | 61 | 1:57:53.579 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2010 | 14 | Italian Grand Prix | 2010-09-12 | 53 | 1:16:24.572 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2010 | 13 | Belgian Grand Prix | 2010-08-29 | 44 | 1:29.04.268 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2010 | 12 | Hungarian Grand Prix | 2010-08-01 | 70 | 1:41:05.571 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2010 | 11 | German Grand Prix | 2010-07-25 | 67 | 1:27.38.684 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2010 | 10 | British Grand Prix | 2010-07-11 | 52 | 1:24.38.200 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2010 | 9 | European Grand Prix | 2010-06-27 | 57 | 1:40:29.571 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2010 | 8 | Canadian Grand Prix | 2010-06-13 | 70 | 1:33:53.456 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2010 | 7 | Turkish Grand Prix | 2010-05-30 | 58 | 1:28:47.620 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2010 | 6 | Monaco Grand Prix | 2010-05-16 | 78 | 1:50:13.355 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2010 | 5 | Spanish Grand Prix | 2010-05-09 | 66 | 1:35:44.101 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2010 | 4 | Chinese Grand Prix | 2010-04-18 | 56 | 1:46:42.163 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2010 | 3 | Malaysian Grand Prix | 2010-04-04 | 56 | 1:33:48.412 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2010 | 2 | Australian Grand Prix | 2010-03-28 | 58 | 1:33:36.531 | Jenson Button 🇬🇧 | McLaren 🇬🇧 |
+| 2010 | 1 | Bahrain Grand Prix | 2010-03-14 | 49 | 1:39:20.396 | Fernando Alonso 🇪🇸 | Ferrari 🇮🇹 |
+| 2009 | 17 | Abu Dhabi Grand Prix | 2009-11-01 | 55 | 1:34:03.414 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2009 | 16 | Brazilian Grand Prix | 2009-10-18 | 71 | 1:32:23.081 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2009 | 15 | Japanese Grand Prix | 2009-10-04 | 53 | 1:28:20.443 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2009 | 14 | Singapore Grand Prix | 2009-09-27 | 61 | 1:56:06.337 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2009 | 13 | Italian Grand Prix | 2009-09-13 | 53 | 1:16:21.706 | Rubens Barrichello 🇧🇷 | Brawn 🇬🇧 |
+| 2009 | 12 | Belgian Grand Prix | 2009-08-30 | 44 | 1:23:50.995 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2009 | 11 | European Grand Prix | 2009-08-23 | 57 | 1:35:51.289 | Rubens Barrichello 🇧🇷 | Brawn 🇬🇧 |
+| 2009 | 10 | Hungarian Grand Prix | 2009-07-26 | 70 | 1:38:23.876 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2009 | 9 | German Grand Prix | 2009-07-12 | 60 | 1:36:43.310 | Mark Webber 🇦🇺 | Red Bull 🇦🇹 |
+| 2009 | 8 | British Grand Prix | 2009-06-21 | 60 | 1:22:49.328 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2009 | 7 | Turkish Grand Prix | 2009-06-07 | 58 | 1:26:24.848 | Jenson Button 🇬🇧 | Brawn 🇬🇧 |
+| 2009 | 6 | Monaco Grand Prix | 2009-05-24 | 78 | 1:40:44.282 | Jenson Button 🇬🇧 | Brawn 🇬🇧 |
+| 2009 | 5 | Spanish Grand Prix | 2009-05-10 | 66 | 1:37:19.202 | Jenson Button 🇬🇧 | Brawn 🇬🇧 |
+| 2009 | 4 | Bahrain Grand Prix | 2009-04-26 | 57 | 1:31:48.182 | Jenson Button 🇬🇧 | Brawn 🇬🇧 |
+| 2009 | 3 | Chinese Grand Prix | 2009-04-19 | 56 | 1:57:43.485 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2009 | 2 | Malaysian Grand Prix | 2009-04-05 | 31 | 1:10:52.092 | Jenson Button 🇬🇧 | Brawn 🇬🇧 |
+| 2009 | 1 | Australian Grand Prix | 2009-03-29 | 58 | 1:34:15.784 | Jenson Button 🇬🇧 | Brawn 🇬🇧 |
+| 2008 | 18 | Brazilian Grand Prix | 2008-11-02 | 71 | 1:34:11.435 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2008 | 17 | Chinese Grand Prix | 2008-10-19 | 56 | 1:31:57.403 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2008 | 16 | Japanese Grand Prix | 2008-10-12 | 67 | 1:30:21.892 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2008 | 15 | Singapore Grand Prix | 2008-09-28 | 61 | 1:57:16.304 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2008 | 14 | Italian Grand Prix | 2008-09-14 | 53 | 1:26:47.494 | Sebastian Vettel 🇩🇪 | Toro Rosso 🇮🇹 |
+| 2008 | 13 | Belgian Grand Prix | 2008-09-07 | 44 | 1:22:59.394 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2008 | 12 | European Grand Prix | 2008-08-24 | 57 | 1:35:32.339 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2008 | 11 | Hungarian Grand Prix | 2008-08-03 | 70 | 1:37:27.067 | Heikki Kovalainen 🇫🇮 | McLaren 🇬🇧 |
+| 2008 | 10 | German Grand Prix | 2008-07-20 | 67 | 1:31:20.874 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2008 | 9 | British Grand Prix | 2008-07-06 | 60 | 1:39:09.440 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2008 | 8 | French Grand Prix | 2008-06-22 | 70 | 1:31:50.245 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2008 | 7 | Canadian Grand Prix | 2008-06-08 | 70 | 1:36:24.227 | Robert Kubica 🇵🇱 | BMW Sauber 🇩🇪 |
+| 2008 | 6 | Monaco Grand Prix | 2008-05-25 | 76 | 2:00:42.742 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2008 | 5 | Turkish Grand Prix | 2008-05-11 | 58 | 1:26:49.451 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2008 | 4 | Spanish Grand Prix | 2008-04-27 | 66 | 1:38:19.051 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2008 | 3 | Bahrain Grand Prix | 2008-04-06 | 57 | 1:31:06.970 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2008 | 2 | Malaysian Grand Prix | 2008-03-23 | 56 | 1:31:18.555 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2008 | 1 | Australian Grand Prix | 2008-03-16 | 58 | 1:34:50.616 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2007 | 17 | Brazilian Grand Prix | 2007-10-21 | 71 | 1:28:15.270 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2007 | 16 | Chinese Grand Prix | 2007-10-07 | 56 | 1:37:58.395 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2007 | 15 | Japanese Grand Prix | 2007-09-30 | 67 | 2:00:34.579 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2007 | 14 | Belgian Grand Prix | 2007-09-16 | 44 | 1:20:39.066 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2007 | 13 | Italian Grand Prix | 2007-09-09 | 53 | 1:18:37.806 | Fernando Alonso 🇪🇸 | McLaren 🇬🇧 |
+| 2007 | 12 | Turkish Grand Prix | 2007-08-26 | 58 | 1:26:42.161 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2007 | 11 | Hungarian Grand Prix | 2007-08-05 | 70 | 1:35:52.991 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2007 | 10 | European Grand Prix | 2007-07-22 | 60 | 2:06:26.358 | Fernando Alonso 🇪🇸 | McLaren 🇬🇧 |
+| 2007 | 9 | British Grand Prix | 2007-07-08 | 59 | 1:21:43.074 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2007 | 8 | French Grand Prix | 2007-07-01 | 70 | 1:30:54.200 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2007 | 7 | United States Grand Prix | 2007-06-17 | 73 | 1:31:09.965 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2007 | 6 | Canadian Grand Prix | 2007-06-10 | 70 | 1:44:11.292 | Lewis Hamilton 🇬🇧 | McLaren 🇬🇧 |
+| 2007 | 5 | Monaco Grand Prix | 2007-05-27 | 78 | 1:40:29.329 | Fernando Alonso 🇪🇸 | McLaren 🇬🇧 |
+| 2007 | 4 | Spanish Grand Prix | 2007-05-13 | 65 | 1:31:36.230 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2007 | 3 | Bahrain Grand Prix | 2007-04-15 | 57 | 1:33:27.515 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2007 | 2 | Malaysian Grand Prix | 2007-04-08 | 56 | 1:32:14.930 | Fernando Alonso 🇪🇸 | McLaren 🇬🇧 |
+| 2007 | 1 | Australian Grand Prix | 2007-03-18 | 58 | 1:25:28.770 | Kimi Räikkönen 🇫🇮 | Ferrari 🇮🇹 |
+| 2006 | 18 | Brazilian Grand Prix | 2006-10-22 | 71 | 1:31:53.751 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2006 | 17 | Japanese Grand Prix | 2006-10-08 | 53 | 1:23:52.413 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2006 | 16 | Chinese Grand Prix | 2006-10-01 | 56 | 1:37:32.747 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 15 | Italian Grand Prix | 2006-09-10 | 53 | 1:14:51.975 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 14 | Turkish Grand Prix | 2006-08-27 | 58 | 1:28:51.082 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
+| 2006 | 13 | Hungarian Grand Prix | 2006-08-06 | 70 | 1:52:20.941 | Jenson Button 🇬🇧 | Honda 🇯🇵 |
+| 2006 | 12 | German Grand Prix | 2006-07-30 | 67 | 1:27:51.693 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 11 | French Grand Prix | 2006-07-16 | 70 | 1:32:07.803 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 10 | United States Grand Prix | 2006-07-02 | 73 | 1:34:35.199 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 9 | Canadian Grand Prix | 2006-06-25 | 70 | 1:34:37.308 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2006 | 8 | British Grand Prix | 2006-06-11 | 60 | 1:25:51.927 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2006 | 7 | Monaco Grand Prix | 2006-05-28 | 78 | 1:43:43.116 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2006 | 6 | Spanish Grand Prix | 2006-05-14 | 66 | 1:26:21.759 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2006 | 5 | European Grand Prix | 2006-05-07 | 60 | 1:35:58.765 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 4 | San Marino Grand Prix | 2006-04-23 | 62 | 1:31:06.486 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2006 | 3 | Australian Grand Prix | 2006-04-02 | 57 | 1:34:27.870 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2006 | 2 | Malaysian Grand Prix | 2006-03-19 | 56 | 1:30:40.529 | Giancarlo Fisichella 🇮🇹 | Renault 🇫🇷 |
+| 2006 | 1 | Bahrain Grand Prix | 2006-03-12 | 57 | 1:29:46.205 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 19 | Chinese Grand Prix | 2005-10-16 | 56 | 1:39:53.618 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 18 | Japanese Grand Prix | 2005-10-09 | 53 | 1:29:02.212 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 17 | Brazilian Grand Prix | 2005-09-25 | 71 | 1:29:20.574 | Juan Pablo Montoya 🇨🇴 | McLaren 🇬🇧 |
+| 2005 | 16 | Belgian Grand Prix | 2005-09-11 | 44 | 1:30:01.295 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 15 | Italian Grand Prix | 2005-09-04 | 53 | 1:14:28.659 | Juan Pablo Montoya 🇨🇴 | McLaren 🇬🇧 |
+| 2005 | 14 | Turkish Grand Prix | 2005-08-21 | 58 | 1:24:34.454 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 13 | Hungarian Grand Prix | 2005-07-31 | 70 | 1:37:25.552 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 12 | German Grand Prix | 2005-07-24 | 67 | 1:26:28.599 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 11 | British Grand Prix | 2005-07-10 | 60 | 1:24:29.588 | Juan Pablo Montoya 🇨🇴 | McLaren 🇬🇧 |
+| 2005 | 10 | French Grand Prix | 2005-07-03 | 70 | 1:31:22.232 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 9 | United States Grand Prix | 2005-06-19 | 73 | 1:29:43.181 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2005 | 8 | Canadian Grand Prix | 2005-06-12 | 70 | 1:32:09.290 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 7 | European Grand Prix | 2005-05-29 | 59 | 1:31:46.648 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 6 | Monaco Grand Prix | 2005-05-22 | 78 | 1:45:15.556 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 5 | Spanish Grand Prix | 2005-05-08 | 66 | 1:27:16.830 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2005 | 4 | San Marino Grand Prix | 2005-04-24 | 62 | 1:27:41.921 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 3 | Bahrain Grand Prix | 2005-04-03 | 57 | 1:29:18.531 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 2 | Malaysian Grand Prix | 2005-03-20 | 56 | 1:31:33.736 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2005 | 1 | Australian Grand Prix | 2005-03-06 | 57 | 1:24:17.336 | Giancarlo Fisichella 🇮🇹 | Renault 🇫🇷 |
+| 2004 | 18 | Brazilian Grand Prix | 2004-10-24 | 71 | 1:28:01.451 | Juan Pablo Montoya 🇨🇴 | Williams 🇬🇧 |
+| 2004 | 17 | Japanese Grand Prix | 2004-10-10 | 53 | 1:24:26.985 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 16 | Chinese Grand Prix | 2004-09-26 | 56 | 1:29:12.420 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2004 | 15 | Italian Grand Prix | 2004-09-12 | 53 | 1:15:18.448 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2004 | 14 | Belgian Grand Prix | 2004-08-29 | 44 | 1:32:35.274 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2004 | 13 | Hungarian Grand Prix | 2004-08-15 | 70 | 1:35:26.131 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 12 | German Grand Prix | 2004-07-25 | 66 | 1:23:54.848 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 11 | British Grand Prix | 2004-07-11 | 60 | 1:24:42.700 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 10 | French Grand Prix | 2004-07-04 | 70 | 1:30:18.133 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 9 | United States Grand Prix | 2004-06-20 | 73 | 1:40:29.914 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 8 | Canadian Grand Prix | 2004-06-13 | 70 | 1:28:24.803 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 7 | European Grand Prix | 2004-05-30 | 60 | 1:32:35.101 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 6 | Monaco Grand Prix | 2004-05-23 | 77 | 1:45:46.601 | Jarno Trulli 🇮🇹 | Renault 🇫🇷 |
+| 2004 | 5 | Spanish Grand Prix | 2004-05-09 | 66 | 1:27:32.841 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 4 | San Marino Grand Prix | 2004-04-25 | 62 | 1:26:19.670 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 3 | Bahrain Grand Prix | 2004-04-04 | 57 | 1:28:34.875 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 2 | Malaysian Grand Prix | 2004-03-21 | 56 | 1:31:07.490 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2004 | 1 | Australian Grand Prix | 2004-03-07 | 58 | 1:24:15.757 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 16 | Japanese Grand Prix | 2003-10-12 | 53 | 1:25:11.743 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2003 | 15 | United States Grand Prix | 2003-09-28 | 73 | 1:33:35.997 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 14 | Italian Grand Prix | 2003-09-14 | 53 | 1:14:19.838 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 13 | Hungarian Grand Prix | 2003-08-24 | 70 | 1:39:01.460 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
+| 2003 | 12 | German Grand Prix | 2003-08-03 | 67 | 1:28:48.769 | Juan Pablo Montoya 🇨🇴 | Williams 🇬🇧 |
+| 2003 | 11 | British Grand Prix | 2003-07-20 | 60 | 1:28:37.554 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2003 | 10 | French Grand Prix | 2003-07-06 | 70 | 1:30:49.213 | Ralf Schumacher 🇩🇪 | Williams 🇬🇧 |
+| 2003 | 9 | European Grand Prix | 2003-06-29 | 60 | 1:34:43.622 | Ralf Schumacher 🇩🇪 | Williams 🇬🇧 |
+| 2003 | 8 | Canadian Grand Prix | 2003-06-15 | 70 | 1:31:13.591 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 7 | Monaco Grand Prix | 2003-06-01 | 78 | 1:42:19.010 | Juan Pablo Montoya 🇨🇴 | Williams 🇬🇧 |
+| 2003 | 6 | Austrian Grand Prix | 2003-05-18 | 69 | 1:24:04.888 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 5 | Spanish Grand Prix | 2003-05-04 | 65 | 1:33:46.933 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 4 | San Marino Grand Prix | 2003-04-20 | 62 | 1:28:12.058 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2003 | 3 | Brazilian Grand Prix | 2003-04-06 | 54 | 1:31:18.2 | Giancarlo Fisichella 🇮🇹 | Jordan 🇮🇪 |
+| 2003 | 2 | Malaysian Grand Prix | 2003-03-23 | 56 | 1:32:22.195 | Kimi Räikkönen 🇫🇮 | McLaren 🇬🇧 |
+| 2003 | 1 | Australian Grand Prix | 2003-03-09 | 58 | 1:34:42.1 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2002 | 17 | Japanese Grand Prix | 2002-10-13 | 53 | 1:26:59.698 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 16 | United States Grand Prix | 2002-09-29 | 73 | 1:31:08.0 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2002 | 15 | Italian Grand Prix | 2002-09-15 | 53 | 1:16:19.982 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2002 | 14 | Belgian Grand Prix | 2002-09-01 | 44 | 1:21:20.634 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 13 | Hungarian Grand Prix | 2002-08-18 | 77 | 1:41:49.001 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2002 | 12 | German Grand Prix | 2002-07-28 | 67 | 1:27:52.078 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 11 | French Grand Prix | 2002-07-21 | 72 | 1:32:09.837 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 10 | British Grand Prix | 2002-07-07 | 60 | 1:31:45.015 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 9 | European Grand Prix | 2002-06-23 | 60 | 1:35:07.426 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2002 | 8 | Canadian Grand Prix | 2002-06-09 | 70 | 1:33:36.111 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 7 | Monaco Grand Prix | 2002-05-26 | 78 | 1:45:39.055 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2002 | 6 | Austrian Grand Prix | 2002-05-12 | 71 | 1:33:51.562 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 5 | Spanish Grand Prix | 2002-04-28 | 65 | 1:30:29.981 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 4 | San Marino Grand Prix | 2002-04-14 | 62 | 1:29:10.789 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 3 | Brazilian Grand Prix | 2002-03-31 | 71 | 1:31:43.662 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2002 | 2 | Malaysian Grand Prix | 2002-03-17 | 56 | 1:34:12.912 | Ralf Schumacher 🇩🇪 | Williams 🇬🇧 |
+| 2002 | 1 | Australian Grand Prix | 2002-03-03 | 58 | 1:35:36.792 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 17 | Japanese Grand Prix | 2001-10-14 | 53 | 1:27:33.298 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 16 | United States Grand Prix | 2001-09-30 | 73 | 1:32:42.840 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 2001 | 15 | Italian Grand Prix | 2001-09-16 | 53 | 1:16:58.493 | Juan Pablo Montoya 🇨🇴 | Williams 🇬🇧 |
+| 2001 | 14 | Belgian Grand Prix | 2001-09-02 | 36 | 1:08:05.002 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 13 | Hungarian Grand Prix | 2001-08-19 | 77 | 1:41:49.675 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 12 | German Grand Prix | 2001-07-29 | 45 | 1:18:17.873 | Ralf Schumacher 🇩🇪 | Williams 🇬🇧 |
+| 2001 | 11 | British Grand Prix | 2001-07-15 | 60 | 1:25:33.770 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 2001 | 10 | French Grand Prix | 2001-07-01 | 72 | 1:33:35.636 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 9 | European Grand Prix | 2001-06-24 | 67 | 1:29:42.724 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 8 | Canadian Grand Prix | 2001-06-10 | 69 | 1:34:31.522 | Ralf Schumacher 🇩🇪 | Williams 🇬🇧 |
+| 2001 | 7 | Monaco Grand Prix | 2001-05-27 | 78 | 1:47:22.561 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 6 | Austrian Grand Prix | 2001-05-13 | 71 | 1:27:45.927 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2001 | 5 | Spanish Grand Prix | 2001-04-29 | 65 | 1:31:03.305 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 4 | San Marino Grand Prix | 2001-04-15 | 62 | 1:30:44.817 | Ralf Schumacher 🇩🇪 | Williams 🇬🇧 |
+| 2001 | 3 | Brazilian Grand Prix | 2001-04-01 | 71 | 1:39:00.834 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2001 | 2 | Malaysian Grand Prix | 2001-03-18 | 55 | 1:47:34.801 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2001 | 1 | Australian Grand Prix | 2001-03-04 | 58 | 1:38:26.533 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 17 | Malaysian Grand Prix | 2000-10-22 | 56 | 1:35:54.235 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 16 | Japanese Grand Prix | 2000-10-08 | 53 | 1:29:53.435 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 15 | United States Grand Prix | 2000-09-24 | 73 | 1:36:30.883 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 14 | Italian Grand Prix | 2000-09-10 | 53 | 1:27:31.638 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 13 | Belgian Grand Prix | 2000-08-27 | 44 | 1:28:14.494 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 2000 | 12 | Hungarian Grand Prix | 2000-08-13 | 77 | 1:45:33.869 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 2000 | 11 | German Grand Prix | 2000-07-30 | 45 | 1:25:34.418 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
+| 2000 | 10 | Austrian Grand Prix | 2000-07-16 | 71 | 1:28:15.818 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 2000 | 9 | French Grand Prix | 2000-07-02 | 72 | 1:38:05.538 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2000 | 8 | Canadian Grand Prix | 2000-06-18 | 69 | 1:41:12.313 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 7 | Monaco Grand Prix | 2000-06-04 | 78 | 1:49:28.213 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2000 | 6 | European Grand Prix | 2000-05-21 | 67 | 1:42:00.307 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 5 | Spanish Grand Prix | 2000-05-07 | 65 | 1:33:55.390 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 2000 | 4 | British Grand Prix | 2000-04-23 | 60 | 1:28:50.108 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 2000 | 3 | San Marino Grand Prix | 2000-04-09 | 62 | 1:31:39.776 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 2 | Brazilian Grand Prix | 2000-03-26 | 71 | 1:31:35.271 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 2000 | 1 | Australian Grand Prix | 2000-03-12 | 58 | 1:34:01.987 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1999 | 16 | Japanese Grand Prix | 1999-10-31 | 53 | 1:31:18.785 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1999 | 15 | Malaysian Grand Prix | 1999-10-17 | 56 | 1:36:38.494 | Eddie Irvine 🇬🇧 | Ferrari 🇮🇹 |
+| 1999 | 14 | European Grand Prix | 1999-09-26 | 66 | 1:41:54.314 | Johnny Herbert 🇬🇧 | Stewart 🇬🇧 |
+| 1999 | 13 | Italian Grand Prix | 1999-09-12 | 53 | 1:17:02.923 | Heinz-Harald Frentzen 🇩🇪 | Jordan 🇮🇪 |
+| 1999 | 12 | Belgian Grand Prix | 1999-08-29 | 44 | 1:25:43.057 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 1999 | 11 | Hungarian Grand Prix | 1999-08-15 | 77 | 1:46:23.536 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1999 | 10 | German Grand Prix | 1999-08-01 | 45 | 1:21:58.594 | Eddie Irvine 🇬🇧 | Ferrari 🇮🇹 |
+| 1999 | 9 | Austrian Grand Prix | 1999-07-25 | 71 | 1:28:12.438 | Eddie Irvine 🇬🇧 | Ferrari 🇮🇹 |
+| 1999 | 8 | British Grand Prix | 1999-07-11 | 60 | 1:32:30.144 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 1999 | 7 | French Grand Prix | 1999-06-27 | 72 | 1:58:24.343 | Heinz-Harald Frentzen 🇩🇪 | Jordan 🇮🇪 |
+| 1999 | 6 | Canadian Grand Prix | 1999-06-13 | 69 | 1:41:35.727 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1999 | 5 | Spanish Grand Prix | 1999-05-30 | 65 | 1:34:13.665 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1999 | 4 | Monaco Grand Prix | 1999-05-16 | 78 | 1:49:31.812 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1999 | 3 | San Marino Grand Prix | 1999-05-02 | 62 | 1:33:44.792 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1999 | 2 | Brazilian Grand Prix | 1999-04-11 | 72 | 1:36:03.785 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1999 | 1 | Australian Grand Prix | 1999-03-07 | 57 | 1:35:01.659 | Eddie Irvine 🇬🇧 | Ferrari 🇮🇹 |
+| 1998 | 16 | Japanese Grand Prix | 1998-11-01 | 51 | 1:27:23.4 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 15 | Luxembourg Grand Prix | 1998-09-27 | 67 | 1:32:14.789 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 14 | Italian Grand Prix | 1998-09-13 | 53 | 1:17:10.3 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1998 | 13 | Belgian Grand Prix | 1998-08-30 | 44 | 1:43:47.407 | Damon Hill 🇬🇧 | Jordan 🇮🇪 |
+| 1998 | 12 | Hungarian Grand Prix | 1998-08-16 | 77 | 1:45:26.4 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1998 | 11 | German Grand Prix | 1998-08-02 | 45 | 1:20:48.0 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 10 | Austrian Grand Prix | 1998-07-26 | 71 | 1:30:44.0 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 9 | British Grand Prix | 1998-07-12 | 60 | 1:47:02.4 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1998 | 8 | French Grand Prix | 1998-06-28 | 71 | 1:34:45.0 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1998 | 7 | Canadian Grand Prix | 1998-06-07 | 69 | 1:40:57.3 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1998 | 6 | Monaco Grand Prix | 1998-05-24 | 78 | 1:51:24.4 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 5 | Spanish Grand Prix | 1998-05-10 | 65 | 1:33:38.3 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 4 | San Marino Grand Prix | 1998-04-26 | 62 | 1:34:25.4 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 1998 | 3 | Argentine Grand Prix | 1998-04-12 | 72 | 1:48:36.1 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1998 | 2 | Brazilian Grand Prix | 1998-03-29 | 72 | 1:37:12.2 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1998 | 1 | Australian Grand Prix | 1998-03-08 | 58 | 1:31:46.0 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1997 | 17 | European Grand Prix | 1997-10-26 | 69 | 1:38:57.771 | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| 1997 | 16 | Japanese Grand Prix | 1997-10-12 | 53 | 1:29:48.446 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1997 | 15 | Luxembourg Grand Prix | 1997-09-28 | 67 | 1:31:27.843 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 14 | Austrian Grand Prix | 1997-09-21 | 71 | 1:27:35.999 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 13 | Italian Grand Prix | 1997-09-07 | 53 | 1:17:04.609 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 1997 | 12 | Belgian Grand Prix | 1997-08-24 | 44 | 1:33:46.717 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1997 | 11 | Hungarian Grand Prix | 1997-08-10 | 77 | 1:45:47.149 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 10 | German Grand Prix | 1997-07-27 | 45 | 1:20:59.046 | Gerhard Berger 🇦🇹 | Benetton 🇮🇹 |
+| 1997 | 9 | British Grand Prix | 1997-07-13 | 59 | 1:28:01.665 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 8 | French Grand Prix | 1997-06-29 | 72 | 1:38:50.492 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1997 | 7 | Canadian Grand Prix | 1997-06-15 | 54 | 1:17:40.646 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1997 | 6 | Spanish Grand Prix | 1997-05-25 | 64 | 1:30:35.896 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 5 | Monaco Grand Prix | 1997-05-11 | 62 | 2:00:05.654 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1997 | 4 | San Marino Grand Prix | 1997-04-27 | 62 | 1:31:00.673 | Heinz-Harald Frentzen 🇩🇪 | Williams 🇬🇧 |
+| 1997 | 3 | Argentine Grand Prix | 1997-04-13 | 72 | 1:52:01.715 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 2 | Brazilian Grand Prix | 1997-03-30 | 72 | 1:36:06.990 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1997 | 1 | Australian Grand Prix | 1997-03-09 | 58 | 1:30:28.718 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| 1996 | 16 | Japanese Grand Prix | 1996-10-13 | 52 | 1:32:33.791 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 15 | Portuguese Grand Prix | 1996-09-22 | 70 | 1:40:22.915 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1996 | 14 | Italian Grand Prix | 1996-09-08 | 53 | 1:17:43.632 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1996 | 13 | Belgian Grand Prix | 1996-08-25 | 44 | 1:28:15.125 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1996 | 12 | Hungarian Grand Prix | 1996-08-11 | 77 | 1:46:21.134 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1996 | 11 | German Grand Prix | 1996-07-28 | 45 | 1:21:43.417 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 10 | British Grand Prix | 1996-07-14 | 61 | 1:33:00.874 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1996 | 9 | French Grand Prix | 1996-06-30 | 72 | 1:36:29.2 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 8 | Canadian Grand Prix | 1996-06-16 | 69 | 1:36:03.4 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 7 | Spanish Grand Prix | 1996-06-02 | 65 | 1:59:49.307 | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| 1996 | 6 | Monaco Grand Prix | 1996-05-19 | 75 | 2:00:45.629 | Olivier Panis 🇫🇷 | Ligier 🇫🇷 |
+| 1996 | 5 | San Marino Grand Prix | 1996-05-05 | 63 | 1:35:26.156 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 4 | European Grand Prix | 1996-04-28 | 67 | 1:33:26.473 | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
+| 1996 | 3 | Argentine Grand Prix | 1996-04-07 | 72 | 1:54:55.322 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 2 | Brazilian Grand Prix | 1996-03-31 | 71 | 1:49:52.976 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1996 | 1 | Australian Grand Prix | 1996-03-10 | 58 | 1:32:50.4 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1995 | 17 | Australian Grand Prix | 1995-11-12 | 81 | 1:49:15.946 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1995 | 16 | Japanese Grand Prix | 1995-10-29 | 53 | 1:36:52.930 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 15 | Pacific Grand Prix | 1995-10-22 | 83 | 1:48:49.972 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 14 | European Grand Prix | 1995-10-01 | 67 | 1:39:59.044 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 13 | Portuguese Grand Prix | 1995-09-24 | 71 | 1:41:52.145 | David Coulthard 🇬🇧 | Williams 🇬🇧 |
+| 1995 | 12 | Italian Grand Prix | 1995-09-10 | 53 | 1:18:27.916 | Johnny Herbert 🇬🇧 | Benetton 🇮🇹 |
+| 1995 | 11 | Belgian Grand Prix | 1995-08-27 | 44 | 1:36:47.875 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 10 | Hungarian Grand Prix | 1995-08-13 | 77 | 1:46:25.721 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1995 | 9 | German Grand Prix | 1995-07-30 | 45 | 1:22:56.043 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 8 | British Grand Prix | 1995-07-16 | 61 | 1:34:35.093 | Johnny Herbert 🇬🇧 | Benetton 🇮🇹 |
+| 1995 | 7 | French Grand Prix | 1995-07-02 | 72 | 1:38:28.429 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 6 | Canadian Grand Prix | 1995-06-11 | 68 | 1:44:54.171 | Jean Alesi 🇫🇷 | Ferrari 🇮🇹 |
+| 1995 | 5 | Monaco Grand Prix | 1995-05-28 | 78 | 1:53:11.258 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 4 | Spanish Grand Prix | 1995-05-14 | 65 | 1:34:20.507 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1995 | 3 | San Marino Grand Prix | 1995-04-30 | 63 | 1:41:42.522 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1995 | 2 | Argentine Grand Prix | 1995-04-09 | 72 | 1:53:14.532 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1995 | 1 | Brazilian Grand Prix | 1995-03-26 | 71 | +1:38:34.154 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 16 | Australian Grand Prix | 1994-11-13 | 81 | 1:47:51.4 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 15 | Japanese Grand Prix | 1994-11-06 | 50 | 1:55:53.532 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 14 | European Grand Prix | 1994-10-16 | 69 | 1:40:27.3 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 13 | Portuguese Grand Prix | 1994-09-25 | 71 | 1:45:10.1 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 12 | Italian Grand Prix | 1994-09-11 | 53 | 1:18:03.2 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 11 | Belgian Grand Prix | 1994-08-28 | 44 | 1:28:47.1 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 10 | Hungarian Grand Prix | 1994-08-14 | 77 | 1.48:00.185 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 9 | German Grand Prix | 1994-07-31 | 45 | 1:22:37.2 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
+| 1994 | 8 | British Grand Prix | 1994-07-10 | 60 | 1:30:03.640 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 7 | French Grand Prix | 1994-07-03 | 72 | 1:38:36.2 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 6 | Canadian Grand Prix | 1994-06-12 | 69 | 1:44:32.1 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 5 | Spanish Grand Prix | 1994-05-29 | 65 | 1:36:14.3 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 4 | Monaco Grand Prix | 1994-05-15 | 78 | 1:49:55.3 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 3 | San Marino Grand Prix | 1994-05-01 | 58 | 1:28:28.642 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 2 | Pacific Grand Prix | 1994-04-17 | 83 | 1:46:01.693 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1994 | 1 | Brazilian Grand Prix | 1994-03-27 | 71 | 1:35:39.2 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1993 | 16 | Australian Grand Prix | 1993-11-07 | 79 | 1:43:27.476 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1993 | 15 | Japanese Grand Prix | 1993-10-24 | 53 | 1:40:27.912 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1993 | 14 | Portuguese Grand Prix | 1993-09-26 | 71 | 1:32:46.309 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1993 | 13 | Italian Grand Prix | 1993-09-12 | 53 | 1:17:07.509 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1993 | 12 | Belgian Grand Prix | 1993-08-29 | 44 | 1:24:32.124 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1993 | 11 | Hungarian Grand Prix | 1993-08-15 | 77 | 1:47:39.098 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1993 | 10 | German Grand Prix | 1993-07-25 | 45 | 1:18:40.885 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1993 | 9 | British Grand Prix | 1993-07-11 | 59 | 1:25:38.189 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1993 | 8 | French Grand Prix | 1993-07-04 | 72 | 1:38:35.241 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1993 | 7 | Canadian Grand Prix | 1993-06-13 | 69 | 1:36:41.822 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1993 | 6 | Monaco Grand Prix | 1993-05-23 | 78 | 1:52:10.947 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1993 | 5 | Spanish Grand Prix | 1993-05-09 | 65 | 1:32:27.685 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1993 | 4 | San Marino Grand Prix | 1993-04-25 | 61 | 1:33:20.413 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1993 | 3 | European Grand Prix | 1993-04-11 | 76 | 1:50:46.570 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1993 | 2 | Brazilian Grand Prix | 1993-03-28 | 71 | 1:51:15.485 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1993 | 1 | South African Grand Prix | 1993-03-14 | 72 | 1:38:45.082 | Alain Prost 🇫🇷 | Williams 🇬🇧 |
+| 1992 | 16 | Australian Grand Prix | 1992-11-08 | 81 | 1:46:54.786 | Gerhard Berger 🇦🇹 | McLaren 🇬🇧 |
+| 1992 | 15 | Japanese Grand Prix | 1992-10-25 | 53 | 1:33:09.533 | Riccardo Patrese 🇮🇹 | Williams 🇬🇧 |
+| 1992 | 14 | Portuguese Grand Prix | 1992-09-27 | 71 | 1:34:46.659 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 13 | Italian Grand Prix | 1992-09-13 | 53 | 1:18:15.349 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1992 | 12 | Belgian Grand Prix | 1992-08-30 | 44 | 1:36:10.721 | Michael Schumacher 🇩🇪 | Benetton 🇮🇹 |
+| 1992 | 11 | Hungarian Grand Prix | 1992-08-16 | 77 | 1:46:19.216 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1992 | 10 | German Grand Prix | 1992-07-26 | 45 | 1:18:22.032 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 9 | British Grand Prix | 1992-07-12 | 59 | 1:25:42.991 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 8 | French Grand Prix | 1992-07-05 | 69 | 1:38:08.459 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 7 | Canadian Grand Prix | 1992-06-14 | 69 | 1:37:08.299 | Gerhard Berger 🇦🇹 | McLaren 🇬🇧 |
+| 1992 | 6 | Monaco Grand Prix | 1992-05-31 | 78 | 1:50:59.372 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1992 | 5 | San Marino Grand Prix | 1992-05-17 | 60 | 1:28:40.927 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 4 | Spanish Grand Prix | 1992-05-03 | 65 | 1:56:10.674 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 3 | Brazilian Grand Prix | 1992-04-05 | 71 | 1:36:51.856 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 2 | Mexican Grand Prix | 1992-03-22 | 69 | 1:31:53.587 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1992 | 1 | South African Grand Prix | 1992-03-01 | 72 | 1:36:45.320 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1991 | 16 | Australian Grand Prix | 1991-11-03 | 14 | 24:34.899 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1991 | 15 | Japanese Grand Prix | 1991-10-20 | 53 | 1:32:10.695 | Gerhard Berger 🇦🇹 | McLaren 🇬🇧 |
+| 1991 | 14 | Spanish Grand Prix | 1991-09-29 | 65 | 1:38:41.541 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1991 | 13 | Portuguese Grand Prix | 1991-09-22 | 71 | 1:35:42.304 | Riccardo Patrese 🇮🇹 | Williams 🇬🇧 |
+| 1991 | 12 | Italian Grand Prix | 1991-09-08 | 53 | 1:17:54.319 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1991 | 11 | Belgian Grand Prix | 1991-08-25 | 44 | 1:27:17.669 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1991 | 10 | Hungarian Grand Prix | 1991-08-11 | 77 | 1:49:12.796 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1991 | 9 | German Grand Prix | 1991-07-28 | 45 | 1:19:29.661 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1991 | 8 | British Grand Prix | 1991-07-14 | 59 | 1:27:35.479 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1991 | 7 | French Grand Prix | 1991-07-07 | 72 | 1:38:00.056 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1991 | 6 | Mexican Grand Prix | 1991-06-16 | 67 | 1:29:52.205 | Riccardo Patrese 🇮🇹 | Williams 🇬🇧 |
+| 1991 | 5 | Canadian Grand Prix | 1991-06-02 | 69 | 1:38:51.490 | Nelson Piquet 🇧🇷 | Benetton 🇮🇹 |
+| 1991 | 4 | Monaco Grand Prix | 1991-05-12 | 78 | 1:53:02.334 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1991 | 3 | San Marino Grand Prix | 1991-04-28 | 61 | 1:35:14.750 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1991 | 2 | Brazilian Grand Prix | 1991-03-24 | 71 | 1:38:28.128 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1991 | 1 | United States Grand Prix | 1991-03-10 | 81 | 2:00:47.828 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 16 | Australian Grand Prix | 1990-11-04 | 81 | 1:49:44.570 | Nelson Piquet 🇧🇷 | Benetton 🇮🇹 |
+| 1990 | 15 | Japanese Grand Prix | 1990-10-21 | 53 | 1:34:36.824 | Nelson Piquet 🇧🇷 | Benetton 🇮🇹 |
+| 1990 | 14 | Spanish Grand Prix | 1990-09-30 | 73 | 1:48:01.461 | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
+| 1990 | 13 | Portuguese Grand Prix | 1990-09-23 | 61 | 1:22:11.014 | Nigel Mansell 🇬🇧 | Ferrari 🇮🇹 |
+| 1990 | 12 | Italian Grand Prix | 1990-09-09 | 53 | 1:17:57.878 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 11 | Belgian Grand Prix | 1990-08-26 | 44 | 1:26:31.997 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 10 | Hungarian Grand Prix | 1990-08-12 | 77 | 1:49:30.597 | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
+| 1990 | 9 | German Grand Prix | 1990-07-29 | 45 | 1:20:47.164 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 8 | British Grand Prix | 1990-07-15 | 64 | 1:18:30.999 | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
+| 1990 | 7 | French Grand Prix | 1990-07-08 | 80 | 1:33:29.606 | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
+| 1990 | 6 | Mexican Grand Prix | 1990-06-24 | 69 | 1:32:35.783 | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
+| 1990 | 5 | Canadian Grand Prix | 1990-06-10 | 70 | 1:42:56.400 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 4 | Monaco Grand Prix | 1990-05-27 | 78 | 1:52:46.982 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 3 | San Marino Grand Prix | 1990-05-13 | 61 | 1:30:55.478 | Riccardo Patrese 🇮🇹 | Williams 🇬🇧 |
+| 1990 | 2 | Brazilian Grand Prix | 1990-03-25 | 71 | 1:37:21.258 | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
+| 1990 | 1 | United States Grand Prix | 1990-03-11 | 72 | 1:52:32.829 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 16 | Australian Grand Prix | 1989-11-05 | 70 | 2:00:17.421 | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
+| 1989 | 15 | Japanese Grand Prix | 1989-10-22 | 53 | 1:35:06.277 | Alessandro Nannini 🇮🇹 | Benetton 🇮🇹 |
+| 1989 | 14 | Spanish Grand Prix | 1989-10-01 | 73 | 1:47:48.264 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 13 | Portuguese Grand Prix | 1989-09-24 | 71 | 1:36:48.546 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
+| 1989 | 12 | Italian Grand Prix | 1989-09-10 | 53 | 1:19:27.550 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1989 | 11 | Belgian Grand Prix | 1989-08-27 | 44 | 1:40:54.196 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 10 | Hungarian Grand Prix | 1989-08-13 | 77 | 1:49:38.650 | Nigel Mansell 🇬🇧 | Ferrari 🇮🇹 |
+| 1989 | 9 | German Grand Prix | 1989-07-30 | 45 | 1:21:43.302 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 8 | British Grand Prix | 1989-07-16 | 64 | 1:19:22.131 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1989 | 7 | French Grand Prix | 1989-07-09 | 80 | 1:38:29.411 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1989 | 6 | Canadian Grand Prix | 1989-06-18 | 69 | 2:01:24.073 | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
+| 1989 | 5 | United States Grand Prix | 1989-06-04 | 75 | 2:01:33.133 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1989 | 4 | Mexican Grand Prix | 1989-05-28 | 69 | 1:35:21.431 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 3 | Monaco Grand Prix | 1989-05-07 | 77 | 1:53:33.251 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 2 | San Marino Grand Prix | 1989-04-23 | 58 | 1:26:51.245 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1989 | 1 | Brazilian Grand Prix | 1989-03-26 | 61 | 1:38:58.744 | Nigel Mansell 🇬🇧 | Ferrari 🇮🇹 |
+| 1988 | 16 | Australian Grand Prix | 1988-11-13 | 82 | 1:53:14.676 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1988 | 15 | Japanese Grand Prix | 1988-10-30 | 51 | 1:33:26.173 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 14 | Spanish Grand Prix | 1988-10-02 | 72 | 1:48:43.851 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1988 | 13 | Portuguese Grand Prix | 1988-09-25 | 70 | 1:37:40.958 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1988 | 12 | Italian Grand Prix | 1988-09-11 | 51 | 1:17:39.744 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
+| 1988 | 11 | Belgian Grand Prix | 1988-08-28 | 43 | 1:28:00.549 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 10 | Hungarian Grand Prix | 1988-08-07 | 76 | 1:57:47.081 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 9 | German Grand Prix | 1988-07-24 | 44 | 1:32:54.188 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 8 | British Grand Prix | 1988-07-10 | 65 | 1:33:16.367 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 7 | French Grand Prix | 1988-07-03 | 80 | 1:37:37.328 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1988 | 6 | Detroit Grand Prix | 1988-06-19 | 63 | 1:54:56.035 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 5 | Canadian Grand Prix | 1988-06-12 | 69 | 1:39:46.618 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 4 | Mexican Grand Prix | 1988-05-29 | 67 | 1:30:15.737 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1988 | 3 | Monaco Grand Prix | 1988-05-15 | 78 | 1:57:17.077 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1988 | 2 | San Marino Grand Prix | 1988-05-01 | 60 | 1:32:41.264 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1988 | 1 | Brazilian Grand Prix | 1988-04-03 | 60 | 1:36:06.857 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1987 | 16 | Australian Grand Prix | 1987-11-15 | 82 | 1:52:56.144 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
+| 1987 | 15 | Japanese Grand Prix | 1987-11-01 | 51 | 1:32:58.072 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
+| 1987 | 14 | Mexican Grand Prix | 1987-10-18 | 63 | 1:26:24.207 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1987 | 13 | Spanish Grand Prix | 1987-09-27 | 72 | 1:49:12.692 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1987 | 12 | Portuguese Grand Prix | 1987-09-20 | 70 | 1:37:03.906 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1987 | 11 | Italian Grand Prix | 1987-09-06 | 50 | 1:14:47.707 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1987 | 10 | Austrian Grand Prix | 1987-06-18 | 52 | 1:18:44.898 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1987 | 9 | Hungarian Grand Prix | 1987-08-09 | 76 | 1:59:26.793 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1987 | 8 | German Grand Prix | 1987-07-26 | 44 | 1:21:25.091 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1987 | 7 | British Grand Prix | 1987-07-12 | 65 | 1:19:11.780 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1987 | 6 | French Grand Prix | 1987-07-05 | 80 | 1:37:03.839 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1987 | 5 | Detroit Grand Prix | 1987-06-21 | 63 | 1:50:16.358 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
+| 1987 | 4 | Monaco Grand Prix | 1987-05-31 | 78 | 1:57:54.085 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
+| 1987 | 3 | Belgian Grand Prix | 1987-05-17 | 43 | 1:27:03.217 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1987 | 2 | San Marino Grand Prix | 1987-05-03 | 59 | 1:31:24.076 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1987 | 1 | Brazilian Grand Prix | 1987-04-12 | 61 | 1:39:45.141 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1986 | 16 | Australian Grand Prix | 1986-10-26 | 82 | 1:54:20.388 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1986 | 15 | Mexican Grand Prix | 1986-10-12 | 68 | 1:33:18.700 | Gerhard Berger 🇦🇹 | Benetton 🇮🇹 |
+| 1986 | 14 | Portuguese Grand Prix | 1986-09-21 | 70 | 1:37:21.900 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1986 | 13 | Italian Grand Prix | 1986-09-07 | 51 | 1:17:42.889 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1986 | 12 | Austrian Grand Prix | 1986-08-17 | 52 | 1:21:22.531 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1986 | 11 | Hungarian Grand Prix | 1986-08-10 | 76 | 2:00:34.508 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1986 | 10 | German Grand Prix | 1986-07-27 | 44 | 1:22:08.263 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1986 | 9 | British Grand Prix | 1986-07-13 | 75 | 1:30:38.471 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1986 | 8 | French Grand Prix | 1986-07-06 | 80 | 1:37:19.272 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1986 | 7 | Detroit Grand Prix | 1986-06-22 | 63 | 1:51:12.847 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
+| 1986 | 6 | Canadian Grand Prix | 1986-06-15 | 69 | 1:42:26.415 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1986 | 5 | Belgian Grand Prix | 1986-05-25 | 43 | 1:27:57.925 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1986 | 4 | Monaco Grand Prix | 1986-05-11 | 78 | 1:55:41.060 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1986 | 3 | San Marino Grand Prix | 1986-04-27 | 60 | 1:32:28.408 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1986 | 2 | Spanish Grand Prix | 1986-04-13 | 72 | 1:48:47.735 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
+| 1986 | 1 | Brazilian Grand Prix | 1986-03-23 | 61 | 1:39:32.583 | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| 1985 | 16 | Australian Grand Prix | 1985-11-03 | 82 | 2:00:40.473 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
+| 1985 | 15 | South African Grand Prix | 1985-10-19 | 75 | 1:28:22.866 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1985 | 14 | European Grand Prix | 1985-10-06 | 75 | 1:32:58.109 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1985 | 13 | Belgian Grand Prix | 1985-09-15 | 43 | 1:34:19.893 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
+| 1985 | 12 | Italian Grand Prix | 1985-09-08 | 51 | 1:17:59.451 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1985 | 11 | Dutch Grand Prix | 1985-08-25 | 70 | 1:32:29.263 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1985 | 10 | Austrian Grand Prix | 1985-08-18 | 52 | 1:20:12.583 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1985 | 9 | German Grand Prix | 1985-08-04 | 67 | 1:35:31.337 | Michele Alboreto 🇮🇹 | Ferrari 🇮🇹 |
+| 1985 | 8 | British Grand Prix | 1985-07-21 | 65 | 1:18:10.436 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1985 | 7 | French Grand Prix | 1985-07-07 | 53 | 1:31:46.266 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1985 | 6 | Detroit Grand Prix | 1985-06-23 | 63 | 1:55:39.851 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
+| 1985 | 5 | Canadian Grand Prix | 1985-06-16 | 70 | 1:46:01.813 | Michele Alboreto 🇮🇹 | Ferrari 🇮🇹 |
+| 1985 | 4 | Monaco Grand Prix | 1985-05-19 | 78 | 1:51:58.034 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1985 | 3 | San Marino Grand Prix | 1985-05-05 | 60 | 1:34:35.955 | Elio de Angelis 🇮🇹 | Team Lotus 🇬🇧 |
+| 1985 | 2 | Portuguese Grand Prix | 1985-04-21 | 67 | 2:00:28.006 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
+| 1985 | 1 | Brazilian Grand Prix | 1985-04-07 | 61 | 1:41:26.115 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 16 | Portuguese Grand Prix | 1984-10-21 | 70 | 1:41:11.753 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 15 | European Grand Prix | 1984-10-07 | 67 | 1:35:13.284 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 14 | Italian Grand Prix | 1984-09-09 | 51 | 1:20:29.065 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1984 | 13 | Dutch Grand Prix | 1984-08-26 | 71 | 1:37:21.468 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 12 | Austrian Grand Prix | 1984-08-19 | 51 | 1:21:12.851 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1984 | 11 | German Grand Prix | 1984-08-05 | 44 | 1:24:43.210 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 10 | British Grand Prix | 1984-07-22 | 71 | 1:29:28.532 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1984 | 9 | Dallas Grand Prix | 1984-07-08 | 67 | 2:01:22.617 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
+| 1984 | 8 | Detroit Grand Prix | 1984-06-24 | 63 | 1:55:41.842 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1984 | 7 | Canadian Grand Prix | 1984-06-17 | 70 | 1:46:23.748 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1984 | 6 | Monaco Grand Prix | 1984-06-03 | 31 | 1:01:07.740 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 5 | French Grand Prix | 1984-05-20 | 79 | 1:31:11.951 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1984 | 4 | San Marino Grand Prix | 1984-05-06 | 60 | 1:36:53.679 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1984 | 3 | Belgian Grand Prix | 1984-04-29 | 70 | 1:36:32.048 | Michele Alboreto 🇮🇹 | Ferrari 🇮🇹 |
+| 1984 | 2 | South African Grand Prix | 1984-04-07 | 75 | 1:29:23.430 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1984 | 1 | Brazilian Grand Prix | 1984-03-25 | 61 | 1:42:34.492 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1983 | 15 | South African Grand Prix | 1983-10-15 | 77 | 1:33:25.708 | Riccardo Patrese 🇮🇹 | Brabham 🇬🇧 |
+| 1983 | 14 | European Grand Prix | 1983-09-25 | 76 | 1:36:45.865 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1983 | 13 | Italian Grand Prix | 1983-09-11 | 52 | 1:23:10.880 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1983 | 12 | Dutch Grand Prix | 1983-08-28 | 72 | 1:38:41.950 | René Arnoux 🇫🇷 | Ferrari 🇮🇹 |
+| 1983 | 11 | Austrian Grand Prix | 1983-08-14 | 53 | 1:24:32.745 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1983 | 10 | German Grand Prix | 1983-08-07 | 45 | 1:27:10.319 | René Arnoux 🇫🇷 | Ferrari 🇮🇹 |
+| 1983 | 9 | British Grand Prix | 1983-07-16 | 67 | 1:24:39.780 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1983 | 8 | Canadian Grand Prix | 1983-06-12 | 70 | 1:48:31.838 | René Arnoux 🇫🇷 | Ferrari 🇮🇹 |
+| 1983 | 7 | Detroit Grand Prix | 1983-06-05 | 60 | 1:50:53.669 | Michele Alboreto 🇮🇹 | Tyrrell 🇬🇧 |
+| 1983 | 6 | Belgian Grand Prix | 1983-05-22 | 40 | 1:27:11.502 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1983 | 5 | Monaco Grand Prix | 1983-05-15 | 76 | 1:56:38.121 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
+| 1983 | 4 | San Marino Grand Prix | 1983-05-01 | 60 | 1:37:52.460 | Patrick Tambay 🇫🇷 | Ferrari 🇮🇹 |
+| 1983 | 3 | French Grand Prix | 1983-04-17 | 54 | 1:34:13.913 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1983 | 2 | United States Grand Prix West | 1983-03-27 | 75 | 1:53:34.889 | John Watson 🇬🇧 | McLaren 🇬🇧 |
+| 1983 | 1 | Brazilian Grand Prix | 1983-03-13 | 63 | 1:48:27.731 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1982 | 16 | Caesars Palace Grand Prix | 1982-09-25 | 75 | 1:41:56.888 | Michele Alboreto 🇮🇹 | Tyrrell 🇬🇧 |
+| 1982 | 15 | Italian Grand Prix | 1982-09-12 | 52 | 1:22:25.734 | René Arnoux 🇫🇷 | Renault 🇫🇷 |
+| 1982 | 14 | Swiss Grand Prix | 1982-08-29 | 80 | 1:32:41.087 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
+| 1982 | 13 | Austrian Grand Prix | 1982-08-15 | 53 | 1:25:02.212 | Elio de Angelis 🇮🇹 | Team Lotus 🇬🇧 |
+| 1982 | 12 | German Grand Prix | 1982-08-08 | 45 | 1:27:25.178 | Patrick Tambay 🇫🇷 | Ferrari 🇮🇹 |
+| 1982 | 11 | French Grand Prix | 1982-07-25 | 54 | 1:33:33.217 | René Arnoux 🇫🇷 | Renault 🇫🇷 |
+| 1982 | 10 | British Grand Prix | 1982-07-18 | 76 | 1:35:33.812 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1982 | 9 | Dutch Grand Prix | 1982-07-03 | 72 | 1:38:03.254 | Didier Pironi 🇫🇷 | Ferrari 🇮🇹 |
+| 1982 | 8 | Canadian Grand Prix | 1982-06-13 | 70 | 1:46:39.577 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1982 | 7 | Detroit Grand Prix | 1982-06-06 | 62 | 1:58:41.043 | John Watson 🇬🇧 | McLaren 🇬🇧 |
+| 1982 | 6 | Monaco Grand Prix | 1982-05-23 | 76 | 1:54:11.259 | Riccardo Patrese 🇮🇹 | Brabham 🇬🇧 |
+| 1982 | 5 | Belgian Grand Prix | 1982-05-09 | 70 | 1:35:41.995 | John Watson 🇬🇧 | McLaren 🇬🇧 |
+| 1982 | 4 | San Marino Grand Prix | 1982-04-25 | 60 | 1:36:38.887 | Didier Pironi 🇫🇷 | Ferrari 🇮🇹 |
+| 1982 | 3 | United States Grand Prix West | 1982-04-04 | 75 | 1:58:25.318 | Niki Lauda 🇦🇹 | McLaren 🇬🇧 |
+| 1982 | 2 | Brazilian Grand Prix | 1982-03-21 | 63 | 1:44:33.134 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1982 | 1 | South African Grand Prix | 1982-01-23 | 77 | 1:32:08.401 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1981 | 15 | Caesars Palace Grand Prix | 1981-10-17 | 75 | 1:44:09.077 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1981 | 14 | Canadian Grand Prix | 1981-09-27 | 63 | 2:01:25.20 | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
+| 1981 | 13 | Italian Grand Prix | 1981-09-13 | 52 | 1:26:36.897 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1981 | 12 | Dutch Grand Prix | 1981-08-30 | 72 | 1:40:22.43 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1981 | 11 | Austrian Grand Prix | 1981-08-16 | 53 | 1:27:36.47 | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
+| 1981 | 10 | German Grand Prix | 1981-08-02 | 45 | 1:25:55.60 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1981 | 9 | British Grand Prix | 1981-07-18 | 68 | 1:26:54.80 | John Watson 🇬🇧 | McLaren 🇬🇧 |
+| 1981 | 8 | French Grand Prix | 1981-07-05 | 80 | 1:35:48.13 | Alain Prost 🇫🇷 | Renault 🇫🇷 |
+| 1981 | 7 | Spanish Grand Prix | 1981-06-21 | 80 | 1:46:35.01 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
+| 1981 | 6 | Monaco Grand Prix | 1981-05-31 | 76 | 1:54:23.38 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
+| 1981 | 5 | Belgian Grand Prix | 1981-05-17 | 54 | 1:16:31.61 | Carlos Reutemann 🇦🇷 | Williams 🇬🇧 |
+| 1981 | 4 | San Marino Grand Prix | 1981-05-03 | 60 | 1:51:23.97 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1981 | 3 | Argentine Grand Prix | 1981-04-12 | 53 | 1:34:32.74 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1981 | 2 | Brazilian Grand Prix | 1981-03-29 | 62 | 2:00:23.66 | Carlos Reutemann 🇦🇷 | Williams 🇬🇧 |
+| 1981 | 1 | United States Grand Prix West | 1981-03-15 | 80 | 1:50:41.33 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1980 | 14 | United States Grand Prix | 1980-10-05 | 59 | 1:34:36.05 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1980 | 13 | Canadian Grand Prix | 1980-09-28 | 70 | 1:46:45.53 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1980 | 12 | Italian Grand Prix | 1980-09-14 | 60 | 1:38:07.52 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1980 | 11 | Dutch Grand Prix | 1980-08-31 | 72 | 1:38:13.83 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1980 | 10 | Austrian Grand Prix | 1980-08-17 | 54 | 1:26:15.73 | Jean-Pierre Jabouille 🇫🇷 | Renault 🇫🇷 |
+| 1980 | 9 | German Grand Prix | 1980-08-10 | 45 | 1:23:59.73 | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
+| 1980 | 8 | British Grand Prix | 1980-07-13 | 76 | 1:34:49.228 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1980 | 7 | French Grand Prix | 1980-06-29 | 54 | 1:32:43.4 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1980 | 6 | Monaco Grand Prix | 1980-05-18 | 76 | 1:55:34.365 | Carlos Reutemann 🇦🇷 | Williams 🇬🇧 |
+| 1980 | 5 | Belgian Grand Prix | 1980-05-04 | 72 | 1:38:47.4 | Didier Pironi 🇫🇷 | Ligier 🇫🇷 |
+| 1980 | 4 | United States Grand Prix West | 1980-03-30 | 80 | 1:50:19.4 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| 1980 | 3 | South African Grand Prix | 1980-03-01 | 78 | 1:36:52.54 | René Arnoux 🇫🇷 | Renault 🇫🇷 |
+| 1980 | 2 | Brazilian Grand Prix | 1980-01-27 | 40 | 1:40:01.33 | René Arnoux 🇫🇷 | Renault 🇫🇷 |
+| 1980 | 1 | Argentine Grand Prix | 1980-01-13 | 53 | 1:43:24.38 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1979 | 15 | United States Grand Prix | 1979-10-07 | 59 | 1:52:17.734 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
+| 1979 | 14 | Canadian Grand Prix | 1979-09-30 | 72 | 1:52:06.892 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1979 | 13 | Italian Grand Prix | 1979-09-09 | 50 | 1:22:00.22 | Jody Scheckter 🇿🇦 | Ferrari 🇮🇹 |
+| 1979 | 12 | Dutch Grand Prix | 1979-08-26 | 75 | 1:41:19.775 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1979 | 11 | Austrian Grand Prix | 1979-08-12 | 54 | 1:27:38.01 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1979 | 10 | German Grand Prix | 1979-07-29 | 45 | 1:24:48.83 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| 1979 | 9 | British Grand Prix | 1979-07-14 | 68 | 1:26:11.17 | Clay Regazzoni 🇨🇭 | Williams 🇬🇧 |
+| 1979 | 8 | French Grand Prix | 1979-07-01 | 80 | 1:35:20.42 | Jean-Pierre Jabouille 🇫🇷 | Renault 🇫🇷 |
+| 1979 | 7 | Monaco Grand Prix | 1979-05-27 | 76 | 1:55:22.48 | Jody Scheckter 🇿🇦 | Ferrari 🇮🇹 |
+| 1979 | 6 | Belgian Grand Prix | 1979-05-13 | 70 | 1:39:59.53 | Jody Scheckter 🇿🇦 | Ferrari 🇮🇹 |
+| 1979 | 5 | Spanish Grand Prix | 1979-04-29 | 75 | 1:39:11.84 | Patrick Depailler 🇫🇷 | Ligier 🇫🇷 |
+| 1979 | 4 | United States Grand Prix West | 1979-04-08 | 80 | 1:50:25.40 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
+| 1979 | 3 | South African Grand Prix | 1979-03-03 | 78 | 1:41:49.96 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
+| 1979 | 2 | Brazilian Grand Prix | 1979-02-04 | 40 | 1:40:09.64 | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
+| 1979 | 1 | Argentine Grand Prix | 1979-01-21 | 53 | 1:36:03.21 | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
+| 1978 | 16 | Canadian Grand Prix | 1978-10-08 | 70 | 1:57:49.196 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
+| 1978 | 15 | United States Grand Prix | 1978-10-01 | 59 | 1:40:48.800 | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
+| 1978 | 14 | Italian Grand Prix | 1978-09-10 | 40 | 1:07:04.54 | Niki Lauda 🇦🇹 | Brabham 🇬🇧 |
+| 1978 | 13 | Dutch Grand Prix | 1978-08-27 | 75 | 1:41:04.23 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1978 | 12 | Austrian Grand Prix | 1978-08-13 | 54 | 1:41:21.57 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1978 | 11 | German Grand Prix | 1978-07-30 | 45 | 1:28:00.90 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1978 | 10 | British Grand Prix | 1978-07-16 | 76 | 1:42:12.39 | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
+| 1978 | 9 | French Grand Prix | 1978-07-02 | 54 | 1:38:51.92 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1978 | 8 | Swedish Grand Prix | 1978-06-17 | 70 | 1:41:00.606 | Niki Lauda 🇦🇹 | Brabham 🇬🇧 |
+| 1978 | 7 | Spanish Grand Prix | 1978-06-04 | 75 | 1:41:47.06 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1978 | 6 | Belgian Grand Prix | 1978-05-21 | 70 | 1:39:52.02 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1978 | 5 | Monaco Grand Prix | 1978-05-07 | 75 | 1:55:14.66 | Patrick Depailler 🇫🇷 | Tyrrell 🇬🇧 |
+| 1978 | 4 | United States Grand Prix West | 1978-04-02 | 80 | 1:52:01.301 | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
+| 1978 | 3 | South African Grand Prix | 1978-03-04 | 78 | 1:42:15.767 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1978 | 2 | Brazilian Grand Prix | 1978-01-29 | 63 | 1:49:59.86 | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
+| 1978 | 1 | Argentine Grand Prix | 1978-01-15 | 52 | 1:37:04.47 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1977 | 17 | Japanese Grand Prix | 1977-10-23 | 73 | 1:31:51.68 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1977 | 16 | Canadian Grand Prix | 1977-10-09 | 80 | 1:40:00.0 | Jody Scheckter 🇿🇦 | Wolf 🇨🇦 |
+| 1977 | 15 | United States Grand Prix | 1977-10-02 | 59 | 1:58:23.267 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1977 | 14 | Italian Grand Prix | 1977-09-11 | 52 | 1:27:50.30 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1977 | 13 | Dutch Grand Prix | 1977-08-28 | 75 | 1:41:45.93 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1977 | 12 | Austrian Grand Prix | 1977-08-14 | 54 | 1:37:16.49 | Alan Jones 🇦🇺 | Shadow 🇬🇧 |
+| 1977 | 11 | German Grand Prix | 1977-07-31 | 47 | 1:31:49.3 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1977 | 10 | British Grand Prix | 1977-07-16 | 68 | 1:31:46.06 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1977 | 9 | French Grand Prix | 1977-07-03 | 80 | 1:39:40.13 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1977 | 8 | Swedish Grand Prix | 1977-06-19 | 72 | 1:46:56.4 | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
+| 1977 | 7 | Belgian Grand Prix | 1977-06-05 | 70 | 1:55:05.71 | Gunnar Nilsson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1977 | 6 | Monaco Grand Prix | 1977-05-22 | 76 | 1:57:52.77 | Jody Scheckter 🇿🇦 | Wolf 🇨🇦 |
+| 1977 | 5 | Spanish Grand Prix | 1977-05-08 | 75 | 1:42:.52.22 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1977 | 4 | United States Grand Prix West | 1977-04-03 | 80 | 1:51:35.470 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1977 | 3 | South African Grand Prix | 1977-03-05 | 78 | 1:42:21.6 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1977 | 2 | Brazilian Grand Prix | 1977-01-23 | 40 | 1:45:07.72 | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
+| 1977 | 1 | Argentine Grand Prix | 1977-01-09 | 53 | 1:40:11.19 | Jody Scheckter 🇿🇦 | Wolf 🇨🇦 |
+| 1976 | 16 | Japanese Grand Prix | 1976-10-24 | 73 | 1:43:58.86 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| 1976 | 15 | United States Grand Prix | 1976-10-10 | 59 | 1:42:40.742 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1976 | 14 | Canadian Grand Prix | 1976-10-03 | 80 | 1:40:09.626 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1976 | 13 | Italian Grand Prix | 1976-09-12 | 52 | 1:30:35.6 | Ronnie Peterson 🇸🇪 | March 🇬🇧 |
+| 1976 | 12 | Dutch Grand Prix | 1976-08-29 | 75 | 1:44:52.09 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1976 | 11 | Austrian Grand Prix | 1976-08-15 | 54 | 1:30:07.86 | John Watson 🇬🇧 | Penske 🇺🇸 |
+| 1976 | 10 | German Grand Prix | 1976-08-01 | 14 | 1:41:42.7 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1976 | 9 | British Grand Prix | 1976-07-18 | 76 | 1:44:19.66 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1976 | 8 | French Grand Prix | 1976-07-04 | 54 | 1:40:58.60 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1976 | 7 | Swedish Grand Prix | 1976-06-13 | 72 | 1:46:53.729 | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
+| 1976 | 6 | Monaco Grand Prix | 1976-05-30 | 78 | 1:59:51.47 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1976 | 5 | Belgian Grand Prix | 1976-05-16 | 70 | 1:42:53.23 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1976 | 4 | Spanish Grand Prix | 1976-05-02 | 75 | 1:42:20.43 | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| 1976 | 3 | United States Grand Prix West | 1976-03-28 | 80 | 1:53:18.471 | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
+| 1976 | 2 | South African Grand Prix | 1976-03-06 | 78 | 1:42:18.4 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1976 | 1 | Brazilian Grand Prix | 1976-01-25 | 40 | 1:45:16.78 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1975 | 14 | United States Grand Prix | 1975-10-05 | 59 | 1:42:58.175 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1975 | 13 | Italian Grand Prix | 1975-09-07 | 52 | 1:22:42.6 | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
+| 1975 | 12 | Austrian Grand Prix | 1975-08-17 | 29 | 0:57:56.69 | Vittorio Brambilla 🇮🇹 | March 🇬🇧 |
+| 1975 | 11 | German Grand Prix | 1975-08-03 | 14 | 1:41:14.1 | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
+| 1975 | 10 | British Grand Prix | 1975-07-19 | 56 | 1:22:05.0 | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| 1975 | 9 | French Grand Prix | 1975-07-06 | 54 | 1:40:18.84 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1975 | 8 | Dutch Grand Prix | 1975-06-22 | 75 | 1:46:57.40 | James Hunt 🇬🇧 | Hesketh 🇬🇧 |
+| 1975 | 7 | Swedish Grand Prix | 1975-06-08 | 80 | 1:59:18.319 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1975 | 6 | Belgian Grand Prix | 1975-05-25 | 70 | 1:43:53.98 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1975 | 5 | Monaco Grand Prix | 1975-05-11 | 75 | 2:01:21.31 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1975 | 4 | Spanish Grand Prix | 1975-04-27 | 29 | 42:53.7 | Jochen Mass 🇩🇪 | McLaren 🇬🇧 |
+| 1975 | 3 | South African Grand Prix | 1975-03-01 | 78 | 1:43:16.90 | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
+| 1975 | 2 | Brazilian Grand Prix | 1975-01-26 | 40 | 1:44:41.17 | Carlos Pace 🇧🇷 | Brabham 🇬🇧 |
+| 1975 | 1 | Argentine Grand Prix | 1975-01-12 | 53 | 1:39:26.29 | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| 1974 | 15 | United States Grand Prix | 1974-10-06 | 59 | 1:40:21.439 | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
+| 1974 | 14 | Canadian Grand Prix | 1974-09-22 | 80 | 1:40:26.136 | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| 1974 | 13 | Italian Grand Prix | 1974-09-08 | 52 | 1:22:56.6 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1974 | 12 | Austrian Grand Prix | 1974-08-18 | 54 | 1:28:44.72 | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
+| 1974 | 11 | German Grand Prix | 1974-08-04 | 14 | 1:41:35.0 | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
+| 1974 | 10 | British Grand Prix | 1974-07-20 | 75 | 1:43:02.2 | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
+| 1974 | 9 | French Grand Prix | 1974-07-07 | 80 | 1:21:55.02 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1974 | 8 | Dutch Grand Prix | 1974-06-23 | 75 | 1:43:00.35 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1974 | 7 | Swedish Grand Prix | 1974-06-09 | 80 | 1:58:31.391 | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
+| 1974 | 6 | Monaco Grand Prix | 1974-05-26 | 78 | 1:58:03.7 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1974 | 5 | Belgian Grand Prix | 1974-05-12 | 85 | 1:44:20.57 | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| 1974 | 4 | Spanish Grand Prix | 1974-04-28 | 84 | 2:00:29.56 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| 1974 | 3 | South African Grand Prix | 1974-03-30 | 78 | 1:42:40.96 | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
+| 1974 | 2 | Brazilian Grand Prix | 1974-01-27 | 32 | 1:24:37.06 | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| 1974 | 1 | Argentine Grand Prix | 1974-01-13 | 53 | 1:41:02.01 | Denny Hulme 🇳🇿 | McLaren 🇬🇧 |
+| 1973 | 15 | United States Grand Prix | 1973-10-07 | 59 | 1:41:15.779 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1973 | 14 | Canadian Grand Prix | 1973-09-23 | 80 | 1:59:04.083 | Peter Revson 🇺🇸 | McLaren 🇬🇧 |
+| 1973 | 13 | Italian Grand Prix | 1973-09-09 | 55 | 1:29:17.0 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1973 | 12 | Austrian Grand Prix | 1973-08-19 | 54 | 1:28:48.78 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1973 | 11 | German Grand Prix | 1973-08-05 | 14 | 1:42:03.0 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1973 | 10 | Dutch Grand Prix | 1973-07-29 | 72 | 1:39:12.45 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1973 | 9 | British Grand Prix | 1973-07-14 | 67 | 1:29:18.5 | Peter Revson 🇺🇸 | McLaren 🇬🇧 |
+| 1973 | 8 | French Grand Prix | 1973-07-01 | 54 | 1:41:36.52 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
+| 1973 | 7 | Swedish Grand Prix | 1973-06-17 | 80 | 1:56:46.049 | Denny Hulme 🇳🇿 | McLaren 🇬🇧 |
+| 1973 | 6 | Monaco Grand Prix | 1973-06-03 | 78 | 1:57:44.3 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1973 | 5 | Belgian Grand Prix | 1973-05-20 | 70 | 1:42:13.43 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1973 | 4 | Spanish Grand Prix | 1973-04-29 | 75 | 1:48:18.7 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1973 | 3 | South African Grand Prix | 1973-03-03 | 79 | 1:43:11.07 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1973 | 2 | Brazilian Grand Prix | 1973-02-11 | 40 | 1:43:55.6 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1973 | 1 | Argentine Grand Prix | 1973-01-28 | 96 | 1:56:18.22 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1972 | 12 | United States Grand Prix | 1972-10-08 | 59 | 1:41:45.354 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1972 | 11 | Canadian Grand Prix | 1972-09-24 | 80 | 1:43:17.1 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1972 | 10 | Italian Grand Prix | 1972-09-10 | 55 | 1:29:58.4 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1972 | 9 | Austrian Grand Prix | 1972-08-13 | 54 | 29:17.3 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1972 | 8 | German Grand Prix | 1972-07-30 | 14 | 1:42:12.3 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| 1972 | 7 | British Grand Prix | 1972-07-15 | 76 | 1:47:50.2 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1972 | 6 | French Grand Prix | 1972-07-02 | 38 | 1:52:22.5 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1972 | 5 | Belgian Grand Prix | 1972-06-04 | 85 | 1:44:07.3 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1972 | 4 | Monaco Grand Prix | 1972-05-14 | 80 | 2:26:55.3 | Jean-Pierre Beltoise 🇫🇷 | BRM 🇬🇧 |
+| 1972 | 3 | Spanish Grand Prix | 1972-05-01 | 90 | 2:03:41.2 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1972 | 2 | South African Grand Prix | 1972-03-04 | 79 | 1:45:49.1 | Denny Hulme 🇳🇿 | McLaren 🇬🇧 |
+| 1972 | 1 | Argentine Grand Prix | 1972-01-23 | 95 | 1:57:59.1 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 11 | United States Grand Prix | 1971-10-03 | 59 | 1:43:51.991 | François Cevert 🇫🇷 | Tyrrell 🇬🇧 |
+| 1971 | 10 | Canadian Grand Prix | 1971-09-19 | 64 | 1:55:13.1 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 9 | Italian Grand Prix | 1971-09-05 | 55 | 1:18:12.60 | Peter Gethin 🇬🇧 | BRM 🇬🇧 |
+| 1971 | 8 | Austrian Grand Prix | 1971-08-15 | 54 | 1:30:23.91 | Jo Siffert 🇨🇭 | BRM 🇬🇧 |
+| 1971 | 7 | German Grand Prix | 1971-08-01 | 12 | 1:29:16.3 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 6 | British Grand Prix | 1971-07-17 | 68 | 1:31:31.5 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 5 | French Grand Prix | 1971-07-04 | 55 | 1:46:42.3 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 4 | Dutch Grand Prix | 1971-06-20 | 70 | 1:56:20.0 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| 1971 | 3 | Monaco Grand Prix | 1971-05-23 | 80 | 1:52:21.3 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 2 | Spanish Grand Prix | 1971-04-18 | 75 | 1:49:03.4 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| 1971 | 1 | South African Grand Prix | 1971-03-06 | 79 | 1:47:35.5 | Mario Andretti 🇺🇸 | Ferrari 🇮🇹 |
+| 1970 | 13 | Mexican Grand Prix | 1970-10-25 | 65 | 1:53:28.3 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| 1970 | 12 | United States Grand Prix | 1970-10-04 | 108 | 1:57:32.79 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
+| 1970 | 11 | Canadian Grand Prix | 1970-09-20 | 90 | 1:21:18.4 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| 1970 | 10 | Italian Grand Prix | 1970-09-06 | 68 | 1:39:07.1 | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
+| 1970 | 9 | Austrian Grand Prix | 1970-08-16 | 60 | 1:42:17.3 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| 1970 | 8 | German Grand Prix | 1970-08-02 | 50 | 1:42:00.3 | Jochen Rindt 🇦🇹 | Team Lotus 🇬🇧 |
+| 1970 | 7 | British Grand Prix | 1970-07-18 | 80 | 1:57:02.0 | Jochen Rindt 🇦🇹 | Team Lotus 🇬🇧 |
+| 1970 | 6 | French Grand Prix | 1970-07-05 | 38 | 1:55:57.0 | Jochen Rindt 🇦🇹 | Team Lotus 🇬🇧 |
+| 1970 | 5 | Dutch Grand Prix | 1970-06-21 | 80 | 1:50:43.4 | Jochen Rindt 🇦🇹 | Team Lotus 🇬🇧 |
+| 1970 | 4 | Belgian Grand Prix | 1970-06-07 | 28 | 1:38:10.1 | Pedro Rodríguez 🇲🇽 | BRM 🇬🇧 |
+| 1970 | 3 | Monaco Grand Prix | 1970-05-10 | 80 | 1:54:37.4 | Jochen Rindt 🇦🇹 | Team Lotus 🇬🇧 |
+| 1970 | 2 | Spanish Grand Prix | 1970-04-19 | 90 | 2:10:58.2 | Jackie Stewart 🇬🇧 | March 🇬🇧 |
+| 1970 | 1 | South African Grand Prix | 1970-03-07 | 80 | 1:49:35.4 | Jack Brabham 🇦🇺 | Brabham 🇬🇧 |
+| 1969 | 11 | Mexican Grand Prix | 1969-10-19 | 65 | 1:54:08.80 | Denny Hulme 🇳🇿 | McLaren-Ford 🇬🇧 |
+| 1969 | 10 | United States Grand Prix | 1969-10-05 | 108 | 1:57:56.84 | Jochen Rindt 🇦🇹 | Lotus-Ford 🇬🇧 |
+| 1969 | 9 | Canadian Grand Prix | 1969-09-20 | 90 | 1:59:25.7 | Jacky Ickx 🇧🇪 | Brabham-Ford 🇬🇧 |
+| 1969 | 8 | Italian Grand Prix | 1969-09-07 | 68 | 1:39:11.26 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1969 | 7 | German Grand Prix | 1969-08-03 | 14 | 1:49:55.4 | Jacky Ickx 🇧🇪 | Brabham-Ford 🇬🇧 |
+| 1969 | 6 | British Grand Prix | 1969-07-19 | 84 | 1:55:55.6 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1969 | 5 | French Grand Prix | 1969-07-06 | 38 | 1:56:47.4 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1969 | 4 | Dutch Grand Prix | 1969-06-21 | 90 | 2:06:42.08 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1969 | 3 | Monaco Grand Prix | 1969-05-18 | 80 | 1:56:59.4 | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1969 | 2 | Spanish Grand Prix | 1969-05-04 | 90 | 2:16:54.0 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1969 | 1 | South African Grand Prix | 1969-03-01 | 80 | 1:50:39.1 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1968 | 12 | Mexican Grand Prix | 1968-11-03 | 65 | 1:56:43.95 | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1968 | 11 | United States Grand Prix | 1968-10-06 | 108 | 1:59:20.29 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1968 | 10 | Canadian Grand Prix | 1968-09-22 | 90 | 2:27:11.2 | Denny Hulme 🇳🇿 | McLaren-Ford 🇬🇧 |
+| 1968 | 9 | Italian Grand Prix | 1968-09-08 | 68 | 1:40:14.8 | Denny Hulme 🇳🇿 | McLaren-Ford 🇬🇧 |
+| 1968 | 8 | German Grand Prix | 1968-08-04 | 14 | 2:19:03.2 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1968 | 7 | British Grand Prix | 1968-07-20 | 80 | 2:01:20.3 | Jo Siffert 🇨🇭 | Lotus-Ford 🇬🇧 |
+| 1968 | 6 | French Grand Prix | 1968-07-07 | 60 | 2:25:40.9 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| 1968 | 5 | Dutch Grand Prix | 1968-06-23 | 90 | 2:46:11.2 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
+| 1968 | 4 | Belgian Grand Prix | 1968-06-09 | 28 | 1:40:02.1 | Bruce McLaren 🇳🇿 | McLaren-Ford 🇬🇧 |
+| 1968 | 3 | Monaco Grand Prix | 1968-05-26 | 80 | 2:00:32.3 | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1968 | 2 | Spanish Grand Prix | 1968-05-12 | 90 | 2:15:02.1 | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1968 | 1 | South African Grand Prix | 1968-01-01 | 80 | 1:53:56.6 | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1967 | 11 | Mexican Grand Prix | 1967-10-22 | 65 | 1:59:28.70 | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1967 | 10 | United States Grand Prix | 1967-10-01 | 108 | 2:03:13.2 | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1967 | 9 | Italian Grand Prix | 1967-09-10 | 68 | 1:43:45.0 | John Surtees 🇬🇧 | Honda 🇯🇵 |
+| 1967 | 8 | Canadian Grand Prix | 1967-08-27 | 90 | 2:40:40.0 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1967 | 7 | German Grand Prix | 1967-08-06 | 15 | 2:05:55.7 | Denny Hulme 🇳🇿 | Brabham-Repco 🇬🇧 |
+| 1967 | 6 | British Grand Prix | 1967-07-15 | 80 | 1:59:25.6 | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1967 | 5 | French Grand Prix | 1967-07-02 | 80 | 2:13:21.3 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1967 | 4 | Belgian Grand Prix | 1967-06-18 | 28 | 1:40:49.4 | Dan Gurney 🇺🇸 | Eagle-Weslake 🇺🇸 |
+| 1967 | 3 | Dutch Grand Prix | 1967-06-04 | 90 | 2:14:45.1 | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
+| 1967 | 2 | Monaco Grand Prix | 1967-05-07 | 100 | 2:34:34.3 | Denny Hulme 🇳🇿 | Brabham-Repco 🇬🇧 |
+| 1967 | 1 | South African Grand Prix | 1967-01-02 | 80 | 2:05:45.9 | Pedro Rodríguez 🇲🇽 | Cooper-Maserati 🇬🇧 |
+| 1966 | 9 | Mexican Grand Prix | 1966-10-23 | 65 | 2:06:35.34 | John Surtees 🇬🇧 | Cooper-Maserati 🇬🇧 |
+| 1966 | 8 | United States Grand Prix | 1966-10-02 | 108 | 2:09:40.11 | Jim Clark 🇬🇧 | Lotus-BRM 🇬🇧 |
+| 1966 | 7 | Italian Grand Prix | 1966-09-04 | 68 | 1:47:14.8 | Ludovico Scarfiotti 🇮🇹 | Ferrari 🇮🇹 |
+| 1966 | 6 | German Grand Prix | 1966-08-07 | 15 | 2:27:03.0 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1966 | 5 | Dutch Grand Prix | 1966-07-24 | 90 | 2:20:32.5 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1966 | 4 | British Grand Prix | 1966-07-16 | 80 | 2:13:13.4 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1966 | 3 | French Grand Prix | 1966-07-03 | 48 | 1:48:31.3 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1966 | 2 | Belgian Grand Prix | 1966-06-12 | 28 | 2:09:11.3 | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
+| 1966 | 1 | Monaco Grand Prix | 1966-05-22 | 100 | 2:33:10.5 | Jackie Stewart 🇬🇧 | BRM 🇬🇧 |
+| 1965 | 10 | Mexican Grand Prix | 1965-10-24 | 65 | 2:08:32.10 | Richie Ginther 🇺🇸 | Honda 🇯🇵 |
+| 1965 | 9 | United States Grand Prix | 1965-10-03 | 110 | 2:20:36.1 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1965 | 8 | Italian Grand Prix | 1965-09-12 | 76 | 2:04:52.8 | Jackie Stewart 🇬🇧 | BRM 🇬🇧 |
+| 1965 | 7 | German Grand Prix | 1965-08-01 | 15 | 2:07:52.4 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1965 | 6 | Dutch Grand Prix | 1965-07-18 | 80 | 2:03:59.1 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1965 | 5 | British Grand Prix | 1965-07-10 | 80 | 2:05:25.4 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1965 | 4 | French Grand Prix | 1965-06-27 | 40 | 2:41:38.4 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1965 | 3 | Belgian Grand Prix | 1965-06-13 | 32 | 2:23:34.8 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1965 | 2 | Monaco Grand Prix | 1965-05-30 | 100 | 2:37:39.6 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1965 | 1 | South African Grand Prix | 1965-01-01 | 85 | 2:06:46.0 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1964 | 10 | Mexican Grand Prix | 1964-10-25 | 65 | 2:09:50.32 | Dan Gurney 🇺🇸 | Brabham-Climax 🇬🇧 |
+| 1964 | 9 | United States Grand Prix | 1964-10-04 | 110 | 2:16:38.0 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1964 | 8 | Italian Grand Prix | 1964-09-06 | 78 | 2:10:51.8 | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
+| 1964 | 7 | Austrian Grand Prix | 1964-08-23 | 105 | 2:06:18.23 | Lorenzo Bandini 🇮🇹 | Ferrari 🇮🇹 |
+| 1964 | 6 | German Grand Prix | 1964-08-02 | 15 | 2:12:04.8 | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
+| 1964 | 5 | British Grand Prix | 1964-07-11 | 80 | 2:15:07.0 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1964 | 4 | French Grand Prix | 1964-06-28 | 57 | 2:07:49.1 | Dan Gurney 🇺🇸 | Brabham-Climax 🇬🇧 |
+| 1964 | 3 | Belgian Grand Prix | 1964-06-14 | 32 | 2:06:40.5 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1964 | 2 | Dutch Grand Prix | 1964-05-24 | 80 | 2:07:35.4 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1964 | 1 | Monaco Grand Prix | 1964-05-10 | 100 | 2:41:19.5 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1963 | 10 | South African Grand Prix | 1963-12-28 | 85 | 2:10:36.9 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 9 | Mexican Grand Prix | 1963-10-27 | 65 | 2:09:52.1 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 8 | United States Grand Prix | 1963-10-06 | 110 | 2:19:22.1 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1963 | 7 | Italian Grand Prix | 1963-09-08 | 86 | 2:24:19.6 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 6 | German Grand Prix | 1963-08-04 | 15 | 2:13:06.8 | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
+| 1963 | 5 | British Grand Prix | 1963-07-20 | 82 | 2:14:09.6 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 4 | French Grand Prix | 1963-06-30 | 53 | 2:10:54.3 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 3 | Dutch Grand Prix | 1963-06-23 | 80 | 2:08:13.7 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 2 | Belgian Grand Prix | 1963-06-09 | 32 | 2:27:47.6 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1963 | 1 | Monaco Grand Prix | 1963-05-26 | 100 | 2:41:49.7 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1962 | 9 | South African Grand Prix | 1962-12-29 | 82 | 2:08:03.3 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1962 | 8 | United States Grand Prix | 1962-10-07 | 100 | 2:07:13.0 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1962 | 7 | Italian Grand Prix | 1962-09-16 | 86 | 2:29:08.4 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1962 | 6 | German Grand Prix | 1962-08-05 | 15 | 2:38:45.3 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1962 | 5 | British Grand Prix | 1962-07-21 | 75 | 2:26:20.8 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1962 | 4 | French Grand Prix | 1962-07-08 | 54 | 2:07:05.5 | Dan Gurney 🇺🇸 | Porsche 🇩🇪 |
+| 1962 | 3 | Belgian Grand Prix | 1962-06-17 | 32 | 2:07:32.3 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1962 | 2 | Monaco Grand Prix | 1962-06-03 | 100 | 2:46:29.7 | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
+| 1962 | 1 | Dutch Grand Prix | 1962-05-20 | 80 | 2:11:02.1 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| 1961 | 8 | United States Grand Prix | 1961-10-08 | 100 | 2:13:45.8 | Innes Ireland 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1961 | 7 | Italian Grand Prix | 1961-09-10 | 43 | 2:03:13.0 | Phil Hill 🇺🇸 | Ferrari 🇮🇹 |
+| 1961 | 6 | German Grand Prix | 1961-08-06 | 15 | 2:18:12.4 | Stirling Moss 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1961 | 5 | British Grand Prix | 1961-07-15 | 75 | 2:40:53.6 | Wolfgang von Trips 🇩🇪 | Ferrari 🇮🇹 |
+| 1961 | 4 | French Grand Prix | 1961-07-02 | 52 | 2:14:17.5 | Giancarlo Baghetti 🇮🇹 | Ferrari 🇮🇹 |
+| 1961 | 3 | Belgian Grand Prix | 1961-06-18 | 30 | 2:03:03.8 | Phil Hill 🇺🇸 | Ferrari 🇮🇹 |
+| 1961 | 2 | Dutch Grand Prix | 1961-05-22 | 75 | 2:01:52.1 | Wolfgang von Trips 🇩🇪 | Ferrari 🇮🇹 |
+| 1961 | 1 | Monaco Grand Prix | 1961-05-14 | 100 | 2:45:50.1 | Stirling Moss 🇬🇧 | Lotus-Climax 🇬🇧 |
+| 1960 | 10 | United States Grand Prix | 1960-11-20 | 75 | 2:28:52.2 | Stirling Moss 🇬🇧 | Team Lotus 🇬🇧 |
+| 1960 | 9 | Italian Grand Prix | 1960-09-04 | 50 | 2:21:09.2 | Phil Hill 🇺🇸 | Ferrari 🇮🇹 |
+| 1960 | 8 | Portuguese Grand Prix | 1960-08-14 | 55 | 2:19:00.03 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1960 | 7 | British Grand Prix | 1960-07-16 | 77 | 2:04:24.3 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1960 | 6 | French Grand Prix | 1960-07-03 | 50 | 1:57:24.9 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1960 | 5 | Belgian Grand Prix | 1960-06-19 | 36 | 2:21:37.3 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1960 | 4 | Dutch Grand Prix | 1960-06-06 | 75 | 2:01:47.2 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1960 | 3 | Indianapolis 500 | 1960-05-30 | 200 | 3:36:11.36 | Jim Rathmann 🇺🇸 | Watson 🇺🇸 |
+| 1960 | 2 | Monaco Grand Prix | 1960-05-29 | 100 | 2:53:45.5 | Stirling Moss 🇬🇧 | Team Lotus 🇬🇧 |
+| 1960 | 1 | Argentine Grand Prix | 1960-02-07 | 80 | 2:17:49.5 | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
+| 1959 | 9 | United States Grand Prix | 1959-12-12 | 42 | 2:12:35.7 | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
+| 1959 | 8 | Italian Grand Prix | 1959-09-13 | 72 | 2:04:05.4 | Stirling Moss 🇬🇧 | Cooper-Climax 🇬🇧 |
+| 1959 | 7 | Portuguese Grand Prix | 1959-08-23 | 62 | 2:11:55.41 | Stirling Moss 🇬🇧 | Cooper-Climax 🇬🇧 |
+| 1959 | 6 | German Grand Prix | 1959-08-02 | 60 | 2:09:31.6 | Tony Brooks 🇬🇧 | Ferrari 🇮🇹 |
+| 1959 | 5 | British Grand Prix | 1959-07-18 | 75 | 2:30:11.6 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1959 | 4 | French Grand Prix | 1959-07-05 | 50 | 2:01:26.5 | Tony Brooks 🇬🇧 | Ferrari 🇮🇹 |
+| 1959 | 3 | Dutch Grand Prix | 1959-05-31 | 75 | 2:05:26.8 | Jo Bonnier 🇸🇪 | BRM 🇬🇧 |
+| 1959 | 2 | Indianapolis 500 | 1959-05-30 | 200 | 3:40:49.20 | Rodger Ward 🇺🇸 | Watson 🇺🇸 |
+| 1959 | 1 | Monaco Grand Prix | 1959-05-10 | 100 | 2:55:51.3 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1958 | 11 | Moroccan Grand Prix | 1958-10-19 | 53 | 2:09:15.1 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 10 | Italian Grand Prix | 1958-09-07 | 70 | 2:03:47.8 | Tony Brooks 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 9 | Portuguese Grand Prix | 1958-08-24 | 50 | 2:11:27.80 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 8 | German Grand Prix | 1958-08-03 | 15 | 2:21:15.0 | Tony Brooks 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 7 | British Grand Prix | 1958-07-19 | 75 | 2:09:04.2 | Peter Collins 🇬🇧 | Ferrari 🇮🇹 |
+| 1958 | 6 | French Grand Prix | 1958-07-06 | 50 | 2:03:21.3 | Mike Hawthorn 🇬🇧 | Ferrari 🇮🇹 |
+| 1958 | 5 | Belgian Grand Prix | 1958-06-15 | 24 | 1:37:06.3 | Tony Brooks 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 4 | Indianapolis 500 | 1958-05-30 | 200 | 3:44:13.80 | Jimmy Bryan 🇺🇸 | Epperly 🇺🇸 |
+| 1958 | 3 | Dutch Grand Prix | 1958-05-26 | 75 | 2:04:49.2 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 2 | Monaco Grand Prix | 1958-05-18 | 100 | 2:52:27.9 | Maurice Trintignant 🇫🇷 | Cooper 🇬🇧 |
+| 1958 | 1 | Argentine Grand Prix | 1958-01-19 | 80 | 2:19:33.7 | Stirling Moss 🇬🇧 | Cooper 🇬🇧 |
+| 1957 | 8 | Italian Grand Prix | 1957-09-08 | 87 | 2:35:03.9 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1957 | 7 | Pescara Grand Prix | 1957-08-18 | 18 | 2:59:22.7 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1957 | 6 | German Grand Prix | 1957-08-04 | 22 | 3:30:38.3 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1957 | 5 | British Grand Prix | 1957-07-20 | 90 | 3:06:37.8 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1957 | 4 | French Grand Prix | 1957-07-07 | 77 | 3:07:46.4 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1957 | 3 | Indianapolis 500 | 1957-05-30 | 200 | 3:41:14.25 | Sam Hanks 🇺🇸 | Epperly 🇺🇸 |
+| 1957 | 2 | Monaco Grand Prix | 1957-05-19 | 105 | 3:10:12.8 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1957 | 1 | Argentine Grand Prix | 1957-01-13 | 100 | 3:00:55.9 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1956 | 8 | Italian Grand Prix | 1956-09-02 | 50 | 2:23:41.3 | Stirling Moss 🇬🇧 | Maserati 🇮🇹 |
+| 1956 | 7 | German Grand Prix | 1956-08-05 | 22 | 3:38:43.7 | Juan Fangio 🇦🇷 | Ferrari 🇮🇹 |
+| 1956 | 6 | British Grand Prix | 1956-07-14 | 101 | 2:59:47.0 | Juan Fangio 🇦🇷 | Ferrari 🇮🇹 |
+| 1956 | 5 | French Grand Prix | 1956-07-01 | 61 | 2:34:23.4 | Peter Collins 🇬🇧 | Ferrari 🇮🇹 |
+| 1956 | 4 | Belgian Grand Prix | 1956-06-03 | 36 | 2:40:00.3 | Peter Collins 🇬🇧 | Ferrari 🇮🇹 |
+| 1956 | 3 | Indianapolis 500 | 1956-05-30 | 200 | 3:53:28.84 | Pat Flaherty 🇺🇸 | Watson 🇺🇸 |
+| 1956 | 2 | Monaco Grand Prix | 1956-05-13 | 100 | 3:00:32.9 | Stirling Moss 🇬🇧 | Maserati 🇮🇹 |
+| 1956 | 1 | Argentine Grand Prix | 1956-01-22 | 98 | 3:00:03.7 | Juan Fangio 🇦🇷 | Ferrari 🇮🇹 |
+| 1955 | 7 | Italian Grand Prix | 1955-09-11 | 50 | 2:25:04.4 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1955 | 6 | British Grand Prix | 1955-07-16 | 90 | 3:07:21.2 | Stirling Moss 🇬🇧 | Mercedes 🇩🇪 |
+| 1955 | 5 | Dutch Grand Prix | 1955-06-19 | 100 | 2:54:23.8 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1955 | 4 | Belgian Grand Prix | 1955-06-05 | 36 | 2:39:29.0 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1955 | 3 | Indianapolis 500 | 1955-05-30 | 200 | 3:53:59.53 | Bob Sweikert 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| 1955 | 2 | Monaco Grand Prix | 1955-05-22 | 100 | 2:58:09.8 | Maurice Trintignant 🇫🇷 | Ferrari 🇮🇹 |
+| 1955 | 1 | Argentine Grand Prix | 1955-01-16 | 96 | 3:00:38.6 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1954 | 9 | Spanish Grand Prix | 1954-10-24 | 80 | 3:13:52.1 | Mike Hawthorn 🇬🇧 | Ferrari 🇮🇹 |
+| 1954 | 8 | Italian Grand Prix | 1954-09-05 | 80 | 2:47:47.9 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1954 | 7 | Swiss Grand Prix | 1954-08-22 | 66 | 3:00:34.5 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1954 | 6 | German Grand Prix | 1954-08-01 | 22 | 3:45:45.8 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1954 | 5 | British Grand Prix | 1954-07-17 | 90 | 2:56:14.0 | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
+| 1954 | 4 | French Grand Prix | 1954-07-04 | 61 | 2:42:47.9 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1954 | 3 | Belgian Grand Prix | 1954-06-20 | 36 | 2:44:42.4 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1954 | 2 | Indianapolis 500 | 1954-05-31 | 200 | 3:49:17.27 | Bill Vukovich 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| 1954 | 1 | Argentine Grand Prix | 1954-01-17 | 87 | 3:00:55.8 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1953 | 9 | Italian Grand Prix | 1953-09-13 | 80 | 2:49:45.9 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| 1953 | 8 | Swiss Grand Prix | 1953-08-23 | 65 | 3:01:34.40 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1953 | 7 | German Grand Prix | 1953-08-02 | 18 | 3:02:25.0 | Nino Farina 🇮🇹 | Ferrari 🇮🇹 |
+| 1953 | 6 | British Grand Prix | 1953-07-18 | 90 | 2:50:00.0 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1953 | 5 | French Grand Prix | 1953-07-05 | 60 | 2:44:18.6 | Mike Hawthorn 🇬🇧 | Ferrari 🇮🇹 |
+| 1953 | 4 | Belgian Grand Prix | 1953-06-21 | 36 | 2:48:30.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1953 | 3 | Dutch Grand Prix | 1953-06-07 | 90 | 2:53:35.8 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1953 | 2 | Indianapolis 500 | 1953-05-30 | 200 | 3:53:01.69 | Bill Vukovich 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| 1953 | 1 | Argentine Grand Prix | 1953-01-18 | 97 | 3:01:04.6 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 8 | Italian Grand Prix | 1952-09-07 | 80 | 2:50:45.6 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 7 | Dutch Grand Prix | 1952-08-17 | 90 | 2:53:28.5 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 6 | German Grand Prix | 1952-08-03 | 18 | 3:06:13.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 5 | British Grand Prix | 1952-07-19 | 85 | 2:46:11.0 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 4 | French Grand Prix | 1952-07-06 | 77 | 3:00:00.0 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 3 | Belgian Grand Prix | 1952-06-22 | 36 | 3:03:46.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 2 | Indianapolis 500 | 1952-05-30 | 200 | 3:52:41.88 | Troy Ruttman 🇺🇸 | Kuzma 🇺🇸 |
+| 1952 | 1 | Swiss Grand Prix | 1952-05-18 | 62 | 3:01:46.1 | Piero Taruffi 🇮🇹 | Ferrari 🇮🇹 |
+| 1951 | 8 | Spanish Grand Prix | 1951-10-28 | 70 | 2:46:54.10 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1951 | 7 | Italian Grand Prix | 1951-09-16 | 80 | 2:42:39.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1951 | 6 | German Grand Prix | 1951-07-29 | 20 | 3:23:03.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1951 | 5 | British Grand Prix | 1951-07-14 | 90 | 2:42:18.2 | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
+| 1951 | 4 | French Grand Prix | 1951-07-01 | 77 | 3:22:11.0 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1951 | 3 | Belgian Grand Prix | 1951-06-17 | 36 | 2:45:46.2 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| 1951 | 2 | Indianapolis 500 | 1951-05-30 | 200 | 3:57:38.05 | Lee Wallard 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| 1951 | 1 | Swiss Grand Prix | 1951-05-27 | 42 | 2:07:53.64 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1950 | 7 | Italian Grand Prix | 1950-09-03 | 80 | 2:51:17.4 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| 1950 | 6 | French Grand Prix | 1950-07-02 | 64 | 2:57:52.8 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1950 | 5 | Belgian Grand Prix | 1950-06-18 | 35 | 2:47:26.0 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1950 | 4 | Swiss Grand Prix | 1950-06-04 | 42 | 2:02:53.7 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| 1950 | 3 | Indianapolis 500 | 1950-05-30 | 138 | 2:46:55.97 | Johnnie Parsons 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| 1950 | 2 | Monaco Grand Prix | 1950-05-21 | 100 | 3:13:18.7 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1950 | 1 | British Grand Prix | 1950-05-13 | 70 | 2:13:23.6 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 
 #### Table Summary
 
