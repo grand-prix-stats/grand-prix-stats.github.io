@@ -25,14 +25,14 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Ayrton Senna 🇧🇷",
-        "Gerhard Berger 🇦🇹",
-        "Damon Hill 🇬🇧",
-        "Keke Rosberg 🇫🇮",
-        "Nelson Piquet 🇧🇷",
-        "Nigel Mansell 🇬🇧",
-        "Thierry Boutsen 🇧🇪"
+        "Alain Prost",
+        "Ayrton Senna",
+        "Gerhard Berger",
+        "Damon Hill",
+        "Keke Rosberg",
+        "Nelson Piquet",
+        "Nigel Mansell",
+        "Thierry Boutsen"
     ]
 };
 var options = {

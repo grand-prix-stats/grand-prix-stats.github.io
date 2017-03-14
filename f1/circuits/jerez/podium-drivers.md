@@ -28,17 +28,17 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Nigel Mansell 🇬🇧",
-        "Alessandro Nannini 🇮🇹",
-        "Ayrton Senna 🇧🇷",
-        "Mika Häkkinen 🇫🇮",
-        "Damon Hill 🇬🇧",
-        "David Coulthard 🇬🇧",
-        "Gerhard Berger 🇦🇹",
-        "Jacques Villeneuve 🇨🇦",
-        "Michael Schumacher 🇩🇪",
-        "Stefan Johansson 🇸🇪"
+        "Alain Prost",
+        "Nigel Mansell",
+        "Alessandro Nannini",
+        "Ayrton Senna",
+        "Mika Häkkinen",
+        "Damon Hill",
+        "David Coulthard",
+        "Gerhard Berger",
+        "Jacques Villeneuve",
+        "Michael Schumacher",
+        "Stefan Johansson"
     ]
 };
 var options = {

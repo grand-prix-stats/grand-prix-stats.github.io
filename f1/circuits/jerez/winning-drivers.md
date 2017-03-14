@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Ayrton Senna 🇧🇷",
-        "Michael Schumacher 🇩🇪",
-        "Mika Häkkinen 🇫🇮",
-        "Nigel Mansell 🇬🇧"
+        "Alain Prost",
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Mika Häkkinen",
+        "Nigel Mansell"
     ]
 };
 var options = {

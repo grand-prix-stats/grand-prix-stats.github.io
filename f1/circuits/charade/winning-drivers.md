@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Jackie Stewart 🇬🇧",
-        "Jim Clark 🇬🇧",
-        "Jochen Rindt 🇦🇹"
+        "Jackie Stewart",
+        "Jim Clark",
+        "Jochen Rindt"
     ]
 };
 var options = {

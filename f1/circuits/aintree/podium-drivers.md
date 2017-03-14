@@ -30,19 +30,19 @@ var data = {
         }
     ],
     "labels": [
-        "Stirling Moss 🇬🇧",
-        "Bruce McLaren 🇳🇿",
-        "Jack Brabham 🇦🇺",
-        "Jim Clark 🇬🇧",
-        "John Surtees 🇬🇧",
-        "Juan Fangio 🇦🇷",
-        "Karl Kling 🇩🇪",
-        "Luigi Musso 🇮🇹",
-        "Mike Hawthorn 🇬🇧",
-        "Phil Hill 🇺🇸",
-        "Richie Ginther 🇺🇸",
-        "Tony Brooks 🇬🇧",
-        "Wolfgang von Trips 🇩🇪"
+        "Stirling Moss",
+        "Bruce McLaren",
+        "Jack Brabham",
+        "Jim Clark",
+        "John Surtees",
+        "Juan Fangio",
+        "Karl Kling",
+        "Luigi Musso",
+        "Mike Hawthorn",
+        "Phil Hill",
+        "Richie Ginther",
+        "Tony Brooks",
+        "Wolfgang von Trips"
     ]
 };
 var options = {

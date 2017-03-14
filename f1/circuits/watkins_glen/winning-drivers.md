@@ -30,19 +30,19 @@ var data = {
         }
     ],
     "labels": [
-        "Graham Hill 🇬🇧",
-        "Jim Clark 🇬🇧",
-        "Carlos Reutemann 🇦🇷",
-        "Jackie Stewart 🇬🇧",
-        "James Hunt 🇬🇧",
-        "Alan Jones 🇦🇺",
-        "Emerson Fittipaldi 🇧🇷",
-        "François Cevert 🇫🇷",
-        "Gilles Villeneuve 🇨🇦",
-        "Innes Ireland 🇬🇧",
-        "Jochen Rindt 🇦🇹",
-        "Niki Lauda 🇦🇹",
-        "Ronnie Peterson 🇸🇪"
+        "Graham Hill",
+        "Jim Clark",
+        "Carlos Reutemann",
+        "Jackie Stewart",
+        "James Hunt",
+        "Alan Jones",
+        "Emerson Fittipaldi",
+        "François Cevert",
+        "Gilles Villeneuve",
+        "Innes Ireland",
+        "Jochen Rindt",
+        "Niki Lauda",
+        "Ronnie Peterson"
     ]
 };
 var options = {

@@ -25,14 +25,14 @@ var data = {
         }
     ],
     "labels": [
-        "Mario Andretti 🇺🇸",
-        "Emerson Fittipaldi 🇧🇷",
-        "Gilles Villeneuve 🇨🇦",
-        "Graham Hill 🇬🇧",
-        "Jackie Stewart 🇬🇧",
-        "James Hunt 🇬🇧",
-        "Niki Lauda 🇦🇹",
-        "Patrick Depailler 🇫🇷"
+        "Mario Andretti",
+        "Emerson Fittipaldi",
+        "Gilles Villeneuve",
+        "Graham Hill",
+        "Jackie Stewart",
+        "James Hunt",
+        "Niki Lauda",
+        "Patrick Depailler"
     ]
 };
 var options = {

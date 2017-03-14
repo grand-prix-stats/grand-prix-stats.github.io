@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Dan Gurney 🇺🇸",
-        "Masten Gregory 🇺🇸",
-        "Stirling Moss 🇬🇧"
+        "Dan Gurney",
+        "Masten Gregory",
+        "Stirling Moss"
     ]
 };
 var options = {

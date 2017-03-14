@@ -27,16 +27,16 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher 🇩🇪",
-        "Nigel Mansell 🇬🇧",
-        "Alain Prost 🇫🇷",
-        "Damon Hill 🇬🇧",
-        "David Coulthard 🇬🇧",
-        "Felipe Massa 🇧🇷",
-        "Fernando Alonso 🇪🇸",
-        "Heinz-Harald Frentzen 🇩🇪",
-        "Kimi Räikkönen 🇫🇮",
-        "Ralf Schumacher 🇩🇪"
+        "Michael Schumacher",
+        "Nigel Mansell",
+        "Alain Prost",
+        "Damon Hill",
+        "David Coulthard",
+        "Felipe Massa",
+        "Fernando Alonso",
+        "Heinz-Harald Frentzen",
+        "Kimi Räikkönen",
+        "Ralf Schumacher"
     ]
 };
 var options = {

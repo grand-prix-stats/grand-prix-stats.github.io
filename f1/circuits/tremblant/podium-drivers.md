@@ -23,12 +23,12 @@ var data = {
         }
     ],
     "labels": [
-        "Bruce McLaren 🇳🇿",
-        "Chris Amon 🇳🇿",
-        "Clay Regazzoni 🇨🇭",
-        "Denny Hulme 🇳🇿",
-        "Jacky Ickx 🇧🇪",
-        "Pedro Rodríguez 🇲🇽"
+        "Bruce McLaren",
+        "Chris Amon",
+        "Clay Regazzoni",
+        "Denny Hulme",
+        "Jacky Ickx",
+        "Pedro Rodríguez"
     ]
 };
 var options = {

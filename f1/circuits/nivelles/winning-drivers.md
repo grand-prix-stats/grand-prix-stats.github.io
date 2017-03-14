@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Emerson Fittipaldi 🇧🇷"
+        "Emerson Fittipaldi"
     ]
 };
 var options = {

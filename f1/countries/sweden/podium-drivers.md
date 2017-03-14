@@ -29,18 +29,18 @@ var data = {
         }
     ],
     "labels": [
-        "Niki Lauda 🇦🇹",
-        "Carlos Reutemann 🇦🇷",
-        "Jody Scheckter 🇿🇦",
-        "Patrick Depailler 🇫🇷",
-        "Ronnie Peterson 🇸🇪",
-        "Clay Regazzoni 🇨🇭",
-        "Denny Hulme 🇳🇿",
-        "François Cevert 🇫🇷",
-        "Jacques Laffite 🇫🇷",
-        "James Hunt 🇬🇧",
-        "Jochen Mass 🇩🇪",
-        "Riccardo Patrese 🇮🇹"
+        "Niki Lauda",
+        "Carlos Reutemann",
+        "Jody Scheckter",
+        "Patrick Depailler",
+        "Ronnie Peterson",
+        "Clay Regazzoni",
+        "Denny Hulme",
+        "François Cevert",
+        "Jacques Laffite",
+        "James Hunt",
+        "Jochen Mass",
+        "Riccardo Patrese"
     ]
 };
 var options = {

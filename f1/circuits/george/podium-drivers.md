@@ -23,12 +23,12 @@ var data = {
         }
     ],
     "labels": [
-        "Graham Hill 🇬🇧",
-        "Jim Clark 🇬🇧",
-        "Bruce McLaren 🇳🇿",
-        "Dan Gurney 🇺🇸",
-        "John Surtees 🇬🇧",
-        "Tony Maggs 🇿🇦"
+        "Graham Hill",
+        "Jim Clark",
+        "Bruce McLaren",
+        "Dan Gurney",
+        "John Surtees",
+        "Tony Maggs"
     ]
 };
 var options = {

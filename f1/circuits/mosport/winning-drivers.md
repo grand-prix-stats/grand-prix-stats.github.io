@@ -24,13 +24,13 @@ var data = {
         }
     ],
     "labels": [
-        "Jackie Stewart 🇬🇧",
-        "Emerson Fittipaldi 🇧🇷",
-        "Jack Brabham 🇦🇺",
-        "Jacky Ickx 🇧🇪",
-        "James Hunt 🇬🇧",
-        "Jody Scheckter 🇿🇦",
-        "Peter Revson 🇺🇸"
+        "Jackie Stewart",
+        "Emerson Fittipaldi",
+        "Jack Brabham",
+        "Jacky Ickx",
+        "James Hunt",
+        "Jody Scheckter",
+        "Peter Revson"
     ]
 };
 var options = {

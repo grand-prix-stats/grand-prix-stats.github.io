@@ -23,12 +23,12 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Jean-Pierre Jabouille 🇫🇷",
-        "Keke Rosberg 🇫🇮",
-        "Mario Andretti 🇺🇸",
-        "Niki Lauda 🇦🇹",
-        "Ronnie Peterson 🇸🇪"
+        "Alain Prost",
+        "Jean-Pierre Jabouille",
+        "Keke Rosberg",
+        "Mario Andretti",
+        "Niki Lauda",
+        "Ronnie Peterson"
     ]
 };
 var options = {

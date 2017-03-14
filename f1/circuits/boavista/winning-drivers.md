@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Jack Brabham 🇦🇺",
-        "Stirling Moss 🇬🇧"
+        "Jack Brabham",
+        "Stirling Moss"
     ]
 };
 var options = {

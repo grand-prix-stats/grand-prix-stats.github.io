@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Jack Brabham 🇦🇺"
+        "Jack Brabham"
     ]
 };
 var options = {

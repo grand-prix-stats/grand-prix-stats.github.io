@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Jody Scheckter 🇿🇦",
-        "Niki Lauda 🇦🇹",
-        "Denny Hulme 🇳🇿",
-        "Jacques Laffite 🇫🇷"
+        "Jody Scheckter",
+        "Niki Lauda",
+        "Denny Hulme",
+        "Jacques Laffite"
     ]
 };
 var options = {

@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Tony Brooks 🇬🇧"
+        "Tony Brooks"
     ]
 };
 var options = {

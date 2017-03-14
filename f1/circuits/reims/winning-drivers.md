@@ -25,14 +25,14 @@ var data = {
         }
     ],
     "labels": [
-        "Juan Fangio 🇦🇷",
-        "Jack Brabham 🇦🇺",
-        "Mike Hawthorn 🇬🇧",
-        "Giancarlo Baghetti 🇮🇹",
-        "Jim Clark 🇬🇧",
-        "Luigi Fagioli 🇮🇹",
-        "Peter Collins 🇬🇧",
-        "Tony Brooks 🇬🇧"
+        "Juan Fangio",
+        "Jack Brabham",
+        "Mike Hawthorn",
+        "Giancarlo Baghetti",
+        "Jim Clark",
+        "Luigi Fagioli",
+        "Peter Collins",
+        "Tony Brooks"
     ]
 };
 var options = {

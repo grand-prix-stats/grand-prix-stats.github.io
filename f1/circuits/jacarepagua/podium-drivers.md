@@ -34,23 +34,23 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Nelson Piquet 🇧🇷",
-        "Carlos Reutemann 🇦🇷",
-        "Elio de Angelis 🇮🇹",
-        "Nigel Mansell 🇬🇧",
-        "Niki Lauda 🇦🇹",
-        "Alan Jones 🇦🇺",
-        "Ayrton Senna 🇧🇷",
-        "Emerson Fittipaldi 🇧🇷",
-        "Gerhard Berger 🇦🇹",
-        "Jacques Laffite 🇫🇷",
-        "John Watson 🇬🇧",
-        "Keke Rosberg 🇫🇮",
-        "Maurício Gugelmin 🇧🇷",
-        "Michele Alboreto 🇮🇹",
-        "Riccardo Patrese 🇮🇹",
-        "Stefan Johansson 🇸🇪"
+        "Alain Prost",
+        "Nelson Piquet",
+        "Carlos Reutemann",
+        "Elio de Angelis",
+        "Nigel Mansell",
+        "Niki Lauda",
+        "Alan Jones",
+        "Ayrton Senna",
+        "Emerson Fittipaldi",
+        "Gerhard Berger",
+        "Jacques Laffite",
+        "John Watson",
+        "Keke Rosberg",
+        "Maurício Gugelmin",
+        "Michele Alboreto",
+        "Riccardo Patrese",
+        "Stefan Johansson"
     ]
 };
 var options = {

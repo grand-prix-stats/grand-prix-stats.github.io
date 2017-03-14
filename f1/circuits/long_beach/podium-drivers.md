@@ -31,20 +31,20 @@ var data = {
         }
     ],
     "labels": [
-        "Niki Lauda 🇦🇹",
-        "Alan Jones 🇦🇺",
-        "Carlos Reutemann 🇦🇷",
-        "Jody Scheckter 🇿🇦",
-        "Mario Andretti 🇺🇸",
-        "Nelson Piquet 🇧🇷",
-        "Patrick Depailler 🇫🇷",
-        "Riccardo Patrese 🇮🇹",
-        "Clay Regazzoni 🇨🇭",
-        "Emerson Fittipaldi 🇧🇷",
-        "Gilles Villeneuve 🇨🇦",
-        "John Watson 🇬🇧",
-        "Keke Rosberg 🇫🇮",
-        "René Arnoux 🇫🇷"
+        "Niki Lauda",
+        "Alan Jones",
+        "Carlos Reutemann",
+        "Jody Scheckter",
+        "Mario Andretti",
+        "Nelson Piquet",
+        "Patrick Depailler",
+        "Riccardo Patrese",
+        "Clay Regazzoni",
+        "Emerson Fittipaldi",
+        "Gilles Villeneuve",
+        "John Watson",
+        "Keke Rosberg",
+        "René Arnoux"
     ]
 };
 var options = {

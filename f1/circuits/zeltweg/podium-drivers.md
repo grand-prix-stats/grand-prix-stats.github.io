@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Bob Anderson 🇬🇧",
-        "Lorenzo Bandini 🇮🇹",
-        "Richie Ginther 🇺🇸"
+        "Bob Anderson",
+        "Lorenzo Bandini",
+        "Richie Ginther"
     ]
 };
 var options = {

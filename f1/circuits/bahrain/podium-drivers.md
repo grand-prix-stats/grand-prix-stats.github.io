@@ -30,19 +30,19 @@ var data = {
         }
     ],
     "labels": [
-        "Kimi Räikkönen 🇫🇮",
-        "Lewis Hamilton 🇬🇧",
-        "Felipe Massa 🇧🇷",
-        "Fernando Alonso 🇪🇸",
-        "Nico Rosberg 🇩🇪",
-        "Sebastian Vettel 🇩🇪",
-        "Jarno Trulli 🇮🇹",
-        "Jenson Button 🇬🇧",
-        "Michael Schumacher 🇩🇪",
-        "Romain Grosjean 🇫🇷",
-        "Robert Kubica 🇵🇱",
-        "Rubens Barrichello 🇧🇷",
-        "Sergio Pérez 🇲🇽"
+        "Kimi Räikkönen",
+        "Lewis Hamilton",
+        "Felipe Massa",
+        "Fernando Alonso",
+        "Nico Rosberg",
+        "Sebastian Vettel",
+        "Jarno Trulli",
+        "Jenson Button",
+        "Michael Schumacher",
+        "Romain Grosjean",
+        "Robert Kubica",
+        "Rubens Barrichello",
+        "Sergio Pérez"
     ]
 };
 var options = {

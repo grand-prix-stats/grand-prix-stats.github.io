@@ -27,16 +27,16 @@ var data = {
         }
     ],
     "labels": [
-        "Jackie Stewart 🇬🇧",
-        "Jacky Ickx 🇧🇪",
-        "Bruce McLaren 🇳🇿",
-        "Carlos Reutemann 🇦🇷",
-        "Chris Amon 🇳🇿",
-        "Emerson Fittipaldi 🇧🇷",
-        "François Cevert 🇫🇷",
-        "George Follmer 🇺🇸",
-        "Jean-Pierre Beltoise 🇫🇷",
-        "Jochen Mass 🇩🇪"
+        "Jackie Stewart",
+        "Jacky Ickx",
+        "Bruce McLaren",
+        "Carlos Reutemann",
+        "Chris Amon",
+        "Emerson Fittipaldi",
+        "François Cevert",
+        "George Follmer",
+        "Jean-Pierre Beltoise",
+        "Jochen Mass"
     ]
 };
 var options = {

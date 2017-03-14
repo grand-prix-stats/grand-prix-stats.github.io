@@ -26,15 +26,15 @@ var data = {
         }
     ],
     "labels": [
-        "Sebastian Vettel 🇩🇪",
-        "Fernando Alonso 🇪🇸",
-        "Lewis Hamilton 🇬🇧",
-        "Daniel Ricciardo 🇦🇺",
-        "Jenson Button 🇬🇧",
-        "Kimi Räikkönen 🇫🇮",
-        "Mark Webber 🇦🇺",
-        "Nico Rosberg 🇩🇪",
-        "Timo Glock 🇩🇪"
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Lewis Hamilton",
+        "Daniel Ricciardo",
+        "Jenson Button",
+        "Kimi Räikkönen",
+        "Mark Webber",
+        "Nico Rosberg",
+        "Timo Glock"
     ]
 };
 var options = {

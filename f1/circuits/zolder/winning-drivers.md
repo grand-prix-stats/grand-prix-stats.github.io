@@ -26,15 +26,15 @@ var data = {
         }
     ],
     "labels": [
-        "Niki Lauda 🇦🇹",
-        "Carlos Reutemann 🇦🇷",
-        "Didier Pironi 🇫🇷",
-        "Gunnar Nilsson 🇸🇪",
-        "Jackie Stewart 🇬🇧",
-        "Jody Scheckter 🇿🇦",
-        "John Watson 🇬🇧",
-        "Mario Andretti 🇺🇸",
-        "Michele Alboreto 🇮🇹"
+        "Niki Lauda",
+        "Carlos Reutemann",
+        "Didier Pironi",
+        "Gunnar Nilsson",
+        "Jackie Stewart",
+        "Jody Scheckter",
+        "John Watson",
+        "Mario Andretti",
+        "Michele Alboreto"
     ]
 };
 var options = {

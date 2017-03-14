@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Jackie Stewart 🇬🇧",
-        "Emerson Fittipaldi 🇧🇷",
-        "Jochen Mass 🇩🇪"
+        "Jackie Stewart",
+        "Emerson Fittipaldi",
+        "Jochen Mass"
     ]
 };
 var options = {

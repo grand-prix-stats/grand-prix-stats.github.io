@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Ayrton Senna 🇧🇷",
-        "Damon Hill 🇬🇧"
+        "Alain Prost",
+        "Ayrton Senna",
+        "Damon Hill"
     ]
 };
 var options = {

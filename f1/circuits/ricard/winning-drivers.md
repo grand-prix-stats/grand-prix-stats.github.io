@@ -27,16 +27,16 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Nigel Mansell 🇬🇧",
-        "Alan Jones 🇦🇺",
-        "Jackie Stewart 🇬🇧",
-        "James Hunt 🇬🇧",
-        "Mario Andretti 🇺🇸",
-        "Nelson Piquet 🇧🇷",
-        "Niki Lauda 🇦🇹",
-        "René Arnoux 🇫🇷",
-        "Ronnie Peterson 🇸🇪"
+        "Alain Prost",
+        "Nigel Mansell",
+        "Alan Jones",
+        "Jackie Stewart",
+        "James Hunt",
+        "Mario Andretti",
+        "Nelson Piquet",
+        "Niki Lauda",
+        "René Arnoux",
+        "Ronnie Peterson"
     ]
 };
 var options = {

@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Harry Schell 🇺🇸",
-        "Juan Fangio 🇦🇷",
-        "Stirling Moss 🇬🇧"
+        "Harry Schell",
+        "Juan Fangio",
+        "Stirling Moss"
     ]
 };
 var options = {

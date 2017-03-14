@@ -30,19 +30,19 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Ayrton Senna 🇧🇷",
-        "John Watson 🇬🇧",
-        "Keke Rosberg 🇫🇮",
-        "Michele Alboreto 🇮🇹",
-        "Nelson Piquet 🇧🇷",
-        "Didier Pironi 🇫🇷",
-        "Eddie Cheever 🇺🇸",
-        "Elio de Angelis 🇮🇹",
-        "Jacques Laffite 🇫🇷",
-        "Stefan Johansson 🇸🇪",
-        "Teo Fabi 🇮🇹",
-        "Thierry Boutsen 🇧🇪"
+        "Alain Prost",
+        "Ayrton Senna",
+        "John Watson",
+        "Keke Rosberg",
+        "Michele Alboreto",
+        "Nelson Piquet",
+        "Didier Pironi",
+        "Eddie Cheever",
+        "Elio de Angelis",
+        "Jacques Laffite",
+        "Stefan Johansson",
+        "Teo Fabi",
+        "Thierry Boutsen"
     ]
 };
 var options = {

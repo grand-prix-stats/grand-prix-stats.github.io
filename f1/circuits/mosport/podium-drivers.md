@@ -34,23 +34,23 @@ var data = {
         }
     ],
     "labels": [
-        "Denny Hulme 🇳🇿",
-        "Emerson Fittipaldi 🇧🇷",
-        "Jack Brabham 🇦🇺",
-        "Jackie Stewart 🇬🇧",
-        "Patrick Depailler 🇫🇷",
-        "Peter Revson 🇺🇸",
-        "Ronnie Peterson 🇸🇪",
-        "Clay Regazzoni 🇨🇭",
-        "Dan Gurney 🇺🇸",
-        "Jackie Oliver 🇬🇧",
-        "Jacky Ickx 🇧🇪",
-        "James Hunt 🇬🇧",
-        "Jochen Mass 🇩🇪",
-        "Jochen Rindt 🇦🇹",
-        "Jody Scheckter 🇿🇦",
-        "Mario Andretti 🇺🇸",
-        "Mark Donohue 🇺🇸"
+        "Denny Hulme",
+        "Emerson Fittipaldi",
+        "Jack Brabham",
+        "Jackie Stewart",
+        "Patrick Depailler",
+        "Peter Revson",
+        "Ronnie Peterson",
+        "Clay Regazzoni",
+        "Dan Gurney",
+        "Jackie Oliver",
+        "Jacky Ickx",
+        "James Hunt",
+        "Jochen Mass",
+        "Jochen Rindt",
+        "Jody Scheckter",
+        "Mario Andretti",
+        "Mark Donohue"
     ]
 };
 var options = {

@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Dan Gurney 🇺🇸",
-        "Alberto Ascari 🇮🇹",
-        "Jacky Ickx 🇧🇪",
-        "Juan Fangio 🇦🇷"
+        "Dan Gurney",
+        "Alberto Ascari",
+        "Jacky Ickx",
+        "Juan Fangio"
     ]
 };
 var options = {

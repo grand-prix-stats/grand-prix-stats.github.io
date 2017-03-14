@@ -28,17 +28,17 @@ var data = {
         }
     ],
     "labels": [
-        "Nino Farina 🇮🇹",
-        "Juan Fangio 🇦🇷",
-        "Piero Taruffi 🇮🇹",
-        "Alberto Ascari 🇮🇹",
-        "Hans Herrmann 🇩🇪",
-        "Jean Behra 🇫🇷",
-        "José Froilán González 🇦🇷",
-        "Louis Rosier 🇫🇷",
-        "Luigi Fagioli 🇮🇹",
-        "Mike Hawthorn 🇬🇧",
-        "Rudi Fischer 🇨🇭"
+        "Nino Farina",
+        "Juan Fangio",
+        "Piero Taruffi",
+        "Alberto Ascari",
+        "Hans Herrmann",
+        "Jean Behra",
+        "José Froilán González",
+        "Louis Rosier",
+        "Luigi Fagioli",
+        "Mike Hawthorn",
+        "Rudi Fischer"
     ]
 };
 var options = {

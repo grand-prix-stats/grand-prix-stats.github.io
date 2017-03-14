@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Alan Jones 🇦🇺",
-        "Michele Alboreto 🇮🇹"
+        "Alan Jones",
+        "Michele Alboreto"
     ]
 };
 var options = {

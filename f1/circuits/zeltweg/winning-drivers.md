@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Lorenzo Bandini 🇮🇹"
+        "Lorenzo Bandini"
     ]
 };
 var options = {

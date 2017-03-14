@@ -28,17 +28,17 @@ var data = {
         }
     ],
     "labels": [
-        "Niki Lauda 🇦🇹",
-        "Nigel Mansell 🇬🇧",
-        "Alan Jones 🇦🇺",
-        "Carlos Reutemann 🇦🇷",
-        "Emerson Fittipaldi 🇧🇷",
-        "Jack Brabham 🇦🇺",
-        "Jim Clark 🇬🇧",
-        "Jo Siffert 🇨🇭",
-        "Jochen Rindt 🇦🇹",
-        "Jody Scheckter 🇿🇦",
-        "Nelson Piquet 🇧🇷"
+        "Niki Lauda",
+        "Nigel Mansell",
+        "Alan Jones",
+        "Carlos Reutemann",
+        "Emerson Fittipaldi",
+        "Jack Brabham",
+        "Jim Clark",
+        "Jo Siffert",
+        "Jochen Rindt",
+        "Jody Scheckter",
+        "Nelson Piquet"
     ]
 };
 var options = {

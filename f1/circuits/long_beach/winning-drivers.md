@@ -25,14 +25,14 @@ var data = {
         }
     ],
     "labels": [
-        "Alan Jones 🇦🇺",
-        "Carlos Reutemann 🇦🇷",
-        "Clay Regazzoni 🇨🇭",
-        "Gilles Villeneuve 🇨🇦",
-        "John Watson 🇬🇧",
-        "Mario Andretti 🇺🇸",
-        "Nelson Piquet 🇧🇷",
-        "Niki Lauda 🇦🇹"
+        "Alan Jones",
+        "Carlos Reutemann",
+        "Clay Regazzoni",
+        "Gilles Villeneuve",
+        "John Watson",
+        "Mario Andretti",
+        "Nelson Piquet",
+        "Niki Lauda"
     ]
 };
 var options = {

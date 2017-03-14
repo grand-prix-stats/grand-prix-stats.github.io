@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Stirling Moss 🇬🇧"
+        "Stirling Moss"
     ]
 };
 var options = {

@@ -34,23 +34,23 @@ var data = {
         }
     ],
     "labels": [
-        "Lewis Hamilton 🇬🇧",
-        "Michael Schumacher 🇩🇪",
-        "Ayrton Senna 🇧🇷",
-        "Damon Hill 🇬🇧",
-        "Jacques Villeneuve 🇨🇦",
-        "Jenson Button 🇬🇧",
-        "Mika Häkkinen 🇫🇮",
-        "Nelson Piquet 🇧🇷",
-        "Daniel Ricciardo 🇦🇺",
-        "Fernando Alonso 🇪🇸",
-        "Heikki Kovalainen 🇫🇮",
-        "Kimi Räikkönen 🇫🇮",
-        "Mark Webber 🇦🇺",
-        "Nigel Mansell 🇬🇧",
-        "Rubens Barrichello 🇧🇷",
-        "Sebastian Vettel 🇩🇪",
-        "Thierry Boutsen 🇧🇪"
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Damon Hill",
+        "Jacques Villeneuve",
+        "Jenson Button",
+        "Mika Häkkinen",
+        "Nelson Piquet",
+        "Daniel Ricciardo",
+        "Fernando Alonso",
+        "Heikki Kovalainen",
+        "Kimi Räikkönen",
+        "Mark Webber",
+        "Nigel Mansell",
+        "Rubens Barrichello",
+        "Sebastian Vettel",
+        "Thierry Boutsen"
     ]
 };
 var options = {

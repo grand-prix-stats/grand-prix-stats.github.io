@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Nico Rosberg 🇩🇪",
-        "Sebastian Vettel 🇩🇪",
-        "Sergio Pérez 🇲🇽"
+        "Nico Rosberg",
+        "Sebastian Vettel",
+        "Sergio Pérez"
     ]
 };
 var options = {

@@ -32,21 +32,21 @@ var data = {
         }
     ],
     "labels": [
-        "Niki Lauda 🇦🇹",
-        "Alain Prost 🇫🇷",
-        "Jackie Stewart 🇬🇧",
-        "Nigel Mansell 🇬🇧",
-        "Carlos Reutemann 🇦🇷",
-        "Denny Hulme 🇳🇿",
-        "Gilles Villeneuve 🇨🇦",
-        "Jack Brabham 🇦🇺",
-        "Jim Clark 🇬🇧",
-        "Jody Scheckter 🇿🇦",
-        "Mario Andretti 🇺🇸",
-        "Pedro Rodríguez 🇲🇽",
-        "René Arnoux 🇫🇷",
-        "Riccardo Patrese 🇮🇹",
-        "Ronnie Peterson 🇸🇪"
+        "Niki Lauda",
+        "Alain Prost",
+        "Jackie Stewart",
+        "Nigel Mansell",
+        "Carlos Reutemann",
+        "Denny Hulme",
+        "Gilles Villeneuve",
+        "Jack Brabham",
+        "Jim Clark",
+        "Jody Scheckter",
+        "Mario Andretti",
+        "Pedro Rodríguez",
+        "René Arnoux",
+        "Riccardo Patrese",
+        "Ronnie Peterson"
     ]
 };
 var options = {

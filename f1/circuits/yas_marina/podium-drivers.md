@@ -26,15 +26,15 @@ var data = {
         }
     ],
     "labels": [
-        "Lewis Hamilton 🇬🇧",
-        "Sebastian Vettel 🇩🇪",
-        "Jenson Button 🇬🇧",
-        "Nico Rosberg 🇩🇪",
-        "Fernando Alonso 🇪🇸",
-        "Kimi Räikkönen 🇫🇮",
-        "Mark Webber 🇦🇺",
-        "Felipe Massa 🇧🇷",
-        "Valtteri Bottas 🇫🇮"
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Jenson Button",
+        "Nico Rosberg",
+        "Fernando Alonso",
+        "Kimi Räikkönen",
+        "Mark Webber",
+        "Felipe Massa",
+        "Valtteri Bottas"
     ]
 };
 var options = {

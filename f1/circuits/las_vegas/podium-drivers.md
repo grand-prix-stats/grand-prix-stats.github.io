@@ -23,12 +23,12 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Alan Jones 🇦🇺",
-        "Bruno Giacomelli 🇮🇹",
-        "Eddie Cheever 🇺🇸",
-        "John Watson 🇬🇧",
-        "Michele Alboreto 🇮🇹"
+        "Alain Prost",
+        "Alan Jones",
+        "Bruno Giacomelli",
+        "Eddie Cheever",
+        "John Watson",
+        "Michele Alboreto"
     ]
 };
 var options = {

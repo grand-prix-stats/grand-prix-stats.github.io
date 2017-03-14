@@ -35,24 +35,24 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Gerhard Berger 🇦🇹",
-        "Ayrton Senna 🇧🇷",
-        "Nelson Piquet 🇧🇷",
-        "Nigel Mansell 🇬🇧",
-        "Damon Hill 🇬🇧",
-        "Martin Brundle 🇬🇧",
-        "Thierry Boutsen 🇧🇪",
-        "Alessandro Nannini 🇮🇹",
-        "Gianni Morbidelli 🇮🇹",
-        "Jacques Laffite 🇫🇷",
-        "Keke Rosberg 🇫🇮",
-        "Michael Schumacher 🇩🇪",
-        "Michele Alboreto 🇮🇹",
-        "Olivier Panis 🇫🇷",
-        "Philippe Streiff 🇫🇷",
-        "Riccardo Patrese 🇮🇹",
-        "Stefan Johansson 🇸🇪"
+        "Alain Prost",
+        "Gerhard Berger",
+        "Ayrton Senna",
+        "Nelson Piquet",
+        "Nigel Mansell",
+        "Damon Hill",
+        "Martin Brundle",
+        "Thierry Boutsen",
+        "Alessandro Nannini",
+        "Gianni Morbidelli",
+        "Jacques Laffite",
+        "Keke Rosberg",
+        "Michael Schumacher",
+        "Michele Alboreto",
+        "Olivier Panis",
+        "Philippe Streiff",
+        "Riccardo Patrese",
+        "Stefan Johansson"
     ]
 };
 var options = {

@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Juan Fangio 🇦🇷",
-        "Mike Hawthorn 🇬🇧"
+        "Juan Fangio",
+        "Mike Hawthorn"
     ]
 };
 var options = {

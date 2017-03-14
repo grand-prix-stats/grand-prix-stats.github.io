@@ -31,20 +31,20 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher 🇩🇪",
-        "Bill Vukovich 🇺🇸",
-        "Bob Sweikert 🇺🇸",
-        "Jim Rathmann 🇺🇸",
-        "Jimmy Bryan 🇺🇸",
-        "Johnnie Parsons 🇺🇸",
-        "Lee Wallard 🇺🇸",
-        "Lewis Hamilton 🇬🇧",
-        "Mika Häkkinen 🇫🇮",
-        "Pat Flaherty 🇺🇸",
-        "Rodger Ward 🇺🇸",
-        "Rubens Barrichello 🇧🇷",
-        "Sam Hanks 🇺🇸",
-        "Troy Ruttman 🇺🇸"
+        "Michael Schumacher",
+        "Bill Vukovich",
+        "Bob Sweikert",
+        "Jim Rathmann",
+        "Jimmy Bryan",
+        "Johnnie Parsons",
+        "Lee Wallard",
+        "Lewis Hamilton",
+        "Mika Häkkinen",
+        "Pat Flaherty",
+        "Rodger Ward",
+        "Rubens Barrichello",
+        "Sam Hanks",
+        "Troy Ruttman"
     ]
 };
 var options = {

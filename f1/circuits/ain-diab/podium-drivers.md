@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Mike Hawthorn 🇬🇧",
-        "Phil Hill 🇺🇸",
-        "Stirling Moss 🇬🇧"
+        "Mike Hawthorn",
+        "Phil Hill",
+        "Stirling Moss"
     ]
 };
 var options = {

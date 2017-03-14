@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Dan Gurney 🇺🇸",
-        "Phil Hill 🇺🇸",
-        "Tony Brooks 🇬🇧"
+        "Dan Gurney",
+        "Phil Hill",
+        "Tony Brooks"
     ]
 };
 var options = {

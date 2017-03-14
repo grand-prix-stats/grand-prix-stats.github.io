@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Denny Hulme 🇳🇿",
-        "Jacky Ickx 🇧🇪"
+        "Denny Hulme",
+        "Jacky Ickx"
     ]
 };
 var options = {

@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Felipe Massa 🇧🇷",
-        "Jenson Button 🇬🇧",
-        "Kimi Räikkönen 🇫🇮",
-        "Lewis Hamilton 🇬🇧",
-        "Sebastian Vettel 🇩🇪"
+        "Felipe Massa",
+        "Jenson Button",
+        "Kimi Räikkönen",
+        "Lewis Hamilton",
+        "Sebastian Vettel"
     ]
 };
 var options = {

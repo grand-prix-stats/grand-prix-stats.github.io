@@ -23,12 +23,12 @@ var data = {
         }
     ],
     "labels": [
-        "Sebastian Vettel 🇩🇪",
-        "Fernando Alonso 🇪🇸",
-        "Jenson Button 🇬🇧",
-        "Mark Webber 🇦🇺",
-        "Nico Rosberg 🇩🇪",
-        "Romain Grosjean 🇫🇷"
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Jenson Button",
+        "Mark Webber",
+        "Nico Rosberg",
+        "Romain Grosjean"
     ]
 };
 var options = {

@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher 🇩🇪",
-        "Damon Hill 🇬🇧",
-        "David Coulthard 🇬🇧",
-        "Gerhard Berger 🇦🇹",
-        "Rubens Barrichello 🇧🇷"
+        "Michael Schumacher",
+        "Damon Hill",
+        "David Coulthard",
+        "Gerhard Berger",
+        "Rubens Barrichello"
     ]
 };
 var options = {

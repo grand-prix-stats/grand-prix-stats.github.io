@@ -31,20 +31,20 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher 🇩🇪",
-        "Alain Prost 🇫🇷",
-        "Ayrton Senna 🇧🇷",
-        "Damon Hill 🇬🇧",
-        "Nelson Piquet 🇧🇷",
-        "Nigel Mansell 🇬🇧",
-        "David Coulthard 🇬🇧",
-        "Didier Pironi 🇫🇷",
-        "Elio de Angelis 🇮🇹",
-        "Fernando Alonso 🇪🇸",
-        "Heinz-Harald Frentzen 🇩🇪",
-        "Patrick Tambay 🇫🇷",
-        "Ralf Schumacher 🇩🇪",
-        "Riccardo Patrese 🇮🇹"
+        "Michael Schumacher",
+        "Alain Prost",
+        "Ayrton Senna",
+        "Damon Hill",
+        "Nelson Piquet",
+        "Nigel Mansell",
+        "David Coulthard",
+        "Didier Pironi",
+        "Elio de Angelis",
+        "Fernando Alonso",
+        "Heinz-Harald Frentzen",
+        "Patrick Tambay",
+        "Ralf Schumacher",
+        "Riccardo Patrese"
     ]
 };
 var options = {

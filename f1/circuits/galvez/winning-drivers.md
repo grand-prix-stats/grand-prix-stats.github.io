@@ -33,22 +33,22 @@ var data = {
         }
     ],
     "labels": [
-        "Juan Fangio 🇦🇷",
-        "Damon Hill 🇬🇧",
-        "Emerson Fittipaldi 🇧🇷",
-        "Alan Jones 🇦🇺",
-        "Alberto Ascari 🇮🇹",
-        "Bruce McLaren 🇳🇿",
-        "Denny Hulme 🇳🇿",
-        "Jackie Stewart 🇬🇧",
-        "Jacques Laffite 🇫🇷",
-        "Jacques Villeneuve 🇨🇦",
-        "Jody Scheckter 🇿🇦",
-        "Luigi Musso 🇮🇹",
-        "Mario Andretti 🇺🇸",
-        "Michael Schumacher 🇩🇪",
-        "Nelson Piquet 🇧🇷",
-        "Stirling Moss 🇬🇧"
+        "Juan Fangio",
+        "Damon Hill",
+        "Emerson Fittipaldi",
+        "Alan Jones",
+        "Alberto Ascari",
+        "Bruce McLaren",
+        "Denny Hulme",
+        "Jackie Stewart",
+        "Jacques Laffite",
+        "Jacques Villeneuve",
+        "Jody Scheckter",
+        "Luigi Musso",
+        "Mario Andretti",
+        "Michael Schumacher",
+        "Nelson Piquet",
+        "Stirling Moss"
     ]
 };
 var options = {

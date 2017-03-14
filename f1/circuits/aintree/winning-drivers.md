@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Stirling Moss 🇬🇧",
-        "Jack Brabham 🇦🇺",
-        "Jim Clark 🇬🇧",
-        "Tony Brooks 🇬🇧",
-        "Wolfgang von Trips 🇩🇪"
+        "Stirling Moss",
+        "Jack Brabham",
+        "Jim Clark",
+        "Tony Brooks",
+        "Wolfgang von Trips"
     ]
 };
 var options = {

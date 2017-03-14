@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Ayrton Senna 🇧🇷",
-        "Alain Prost 🇫🇷"
+        "Ayrton Senna",
+        "Alain Prost"
     ]
 };
 var options = {

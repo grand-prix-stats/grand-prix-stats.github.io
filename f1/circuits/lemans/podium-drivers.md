@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Denny Hulme 🇳🇿",
-        "Jack Brabham 🇦🇺",
-        "Jackie Stewart 🇬🇧"
+        "Denny Hulme",
+        "Jack Brabham",
+        "Jackie Stewart"
     ]
 };
 var options = {

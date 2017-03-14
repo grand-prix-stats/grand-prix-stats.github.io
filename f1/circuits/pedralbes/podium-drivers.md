@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Juan Fangio 🇦🇷",
-        "José Froilán González 🇦🇷",
-        "Luigi Musso 🇮🇹",
-        "Mike Hawthorn 🇬🇧",
-        "Nino Farina 🇮🇹"
+        "Juan Fangio",
+        "José Froilán González",
+        "Luigi Musso",
+        "Mike Hawthorn",
+        "Nino Farina"
     ]
 };
 var options = {

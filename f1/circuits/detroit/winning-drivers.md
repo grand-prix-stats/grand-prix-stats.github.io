@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Ayrton Senna 🇧🇷",
-        "John Watson 🇬🇧",
-        "Keke Rosberg 🇫🇮",
-        "Michele Alboreto 🇮🇹",
-        "Nelson Piquet 🇧🇷"
+        "Ayrton Senna",
+        "John Watson",
+        "Keke Rosberg",
+        "Michele Alboreto",
+        "Nelson Piquet"
     ]
 };
 var options = {

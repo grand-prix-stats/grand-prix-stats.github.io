@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Sebastian Vettel 🇩🇪",
-        "Fernando Alonso 🇪🇸"
+        "Sebastian Vettel",
+        "Fernando Alonso"
     ]
 };
 var options = {

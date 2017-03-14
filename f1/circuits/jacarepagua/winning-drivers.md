@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Carlos Reutemann 🇦🇷",
-        "Nelson Piquet 🇧🇷",
-        "Nigel Mansell 🇬🇧"
+        "Alain Prost",
+        "Carlos Reutemann",
+        "Nelson Piquet",
+        "Nigel Mansell"
     ]
 };
 var options = {

@@ -22,11 +22,11 @@ var data = {
         }
     ],
     "labels": [
-        "Emerson Fittipaldi 🇧🇷",
-        "Denny Hulme 🇳🇿",
-        "François Cevert 🇫🇷",
-        "Jody Scheckter 🇿🇦",
-        "Niki Lauda 🇦🇹"
+        "Emerson Fittipaldi",
+        "Denny Hulme",
+        "François Cevert",
+        "Jody Scheckter",
+        "Niki Lauda"
     ]
 };
 var options = {

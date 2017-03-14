@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Bruce McLaren 🇳🇿",
-        "Maurice Trintignant 🇫🇷",
-        "Tony Brooks 🇬🇧"
+        "Bruce McLaren",
+        "Maurice Trintignant",
+        "Tony Brooks"
     ]
 };
 var options = {

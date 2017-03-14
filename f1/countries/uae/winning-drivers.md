@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Lewis Hamilton 🇬🇧",
-        "Sebastian Vettel 🇩🇪",
-        "Kimi Räikkönen 🇫🇮",
-        "Nico Rosberg 🇩🇪"
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Kimi Räikkönen",
+        "Nico Rosberg"
     ]
 };
 var options = {

@@ -24,13 +24,13 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Ayrton Senna 🇧🇷",
-        "Eddie Cheever 🇺🇸",
-        "Jean Alesi 🇫🇷",
-        "Nelson Piquet 🇧🇷",
-        "Riccardo Patrese 🇮🇹",
-        "Thierry Boutsen 🇧🇪"
+        "Alain Prost",
+        "Ayrton Senna",
+        "Eddie Cheever",
+        "Jean Alesi",
+        "Nelson Piquet",
+        "Riccardo Patrese",
+        "Thierry Boutsen"
     ]
 };
 var options = {

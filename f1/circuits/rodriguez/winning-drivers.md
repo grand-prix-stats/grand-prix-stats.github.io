@@ -31,20 +31,20 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Jim Clark 🇬🇧",
-        "Nigel Mansell 🇬🇧",
-        "Ayrton Senna 🇧🇷",
-        "Dan Gurney 🇺🇸",
-        "Denny Hulme 🇳🇿",
-        "Gerhard Berger 🇦🇹",
-        "Graham Hill 🇬🇧",
-        "Jacky Ickx 🇧🇪",
-        "John Surtees 🇬🇧",
-        "Lewis Hamilton 🇬🇧",
-        "Nico Rosberg 🇩🇪",
-        "Riccardo Patrese 🇮🇹",
-        "Richie Ginther 🇺🇸"
+        "Alain Prost",
+        "Jim Clark",
+        "Nigel Mansell",
+        "Ayrton Senna",
+        "Dan Gurney",
+        "Denny Hulme",
+        "Gerhard Berger",
+        "Graham Hill",
+        "Jacky Ickx",
+        "John Surtees",
+        "Lewis Hamilton",
+        "Nico Rosberg",
+        "Riccardo Patrese",
+        "Richie Ginther"
     ]
 };
 var options = {

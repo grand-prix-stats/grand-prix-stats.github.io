@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Nico Rosberg 🇩🇪",
-        "Lewis Hamilton 🇬🇧"
+        "Nico Rosberg",
+        "Lewis Hamilton"
     ]
 };
 var options = {

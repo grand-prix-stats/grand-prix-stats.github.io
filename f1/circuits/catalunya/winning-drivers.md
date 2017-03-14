@@ -33,22 +33,22 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher 🇩🇪",
-        "Mika Häkkinen 🇫🇮",
-        "Fernando Alonso 🇪🇸",
-        "Kimi Räikkönen 🇫🇮",
-        "Nigel Mansell 🇬🇧",
-        "Alain Prost 🇫🇷",
-        "Damon Hill 🇬🇧",
-        "Felipe Massa 🇧🇷",
-        "Jacques Villeneuve 🇨🇦",
-        "Jenson Button 🇬🇧",
-        "Lewis Hamilton 🇬🇧",
-        "Mark Webber 🇦🇺",
-        "Max Verstappen 🇳🇱",
-        "Nico Rosberg 🇩🇪",
-        "Pastor Maldonado 🇻🇪",
-        "Sebastian Vettel 🇩🇪"
+        "Michael Schumacher",
+        "Mika Häkkinen",
+        "Fernando Alonso",
+        "Kimi Räikkönen",
+        "Nigel Mansell",
+        "Alain Prost",
+        "Damon Hill",
+        "Felipe Massa",
+        "Jacques Villeneuve",
+        "Jenson Button",
+        "Lewis Hamilton",
+        "Mark Webber",
+        "Max Verstappen",
+        "Nico Rosberg",
+        "Pastor Maldonado",
+        "Sebastian Vettel"
     ]
 };
 var options = {

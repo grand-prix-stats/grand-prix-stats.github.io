@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Keke Rosberg 🇫🇮"
+        "Keke Rosberg"
     ]
 };
 var options = {

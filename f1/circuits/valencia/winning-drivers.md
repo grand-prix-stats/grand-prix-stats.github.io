@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Sebastian Vettel 🇩🇪",
-        "Felipe Massa 🇧🇷",
-        "Fernando Alonso 🇪🇸",
-        "Rubens Barrichello 🇧🇷"
+        "Sebastian Vettel",
+        "Felipe Massa",
+        "Fernando Alonso",
+        "Rubens Barrichello"
     ]
 };
 var options = {

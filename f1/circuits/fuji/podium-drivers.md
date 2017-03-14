@@ -26,15 +26,15 @@ var data = {
         }
     ],
     "labels": [
-        "James Hunt 🇬🇧",
-        "Kimi Räikkönen 🇫🇮",
-        "Patrick Depailler 🇫🇷",
-        "Carlos Reutemann 🇦🇷",
-        "Fernando Alonso 🇪🇸",
-        "Heikki Kovalainen 🇫🇮",
-        "Lewis Hamilton 🇬🇧",
-        "Mario Andretti 🇺🇸",
-        "Robert Kubica 🇵🇱"
+        "James Hunt",
+        "Kimi Räikkönen",
+        "Patrick Depailler",
+        "Carlos Reutemann",
+        "Fernando Alonso",
+        "Heikki Kovalainen",
+        "Lewis Hamilton",
+        "Mario Andretti",
+        "Robert Kubica"
     ]
 };
 var options = {

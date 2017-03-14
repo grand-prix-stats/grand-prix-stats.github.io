@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Juan Fangio 🇦🇷",
-        "Alberto Ascari 🇮🇹",
-        "Nino Farina 🇮🇹",
-        "Piero Taruffi 🇮🇹"
+        "Juan Fangio",
+        "Alberto Ascari",
+        "Nino Farina",
+        "Piero Taruffi"
     ]
 };
 var options = {

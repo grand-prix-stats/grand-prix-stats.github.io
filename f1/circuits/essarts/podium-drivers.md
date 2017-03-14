@@ -31,20 +31,20 @@ var data = {
         }
     ],
     "labels": [
-        "Dan Gurney 🇺🇸",
-        "Alberto Ascari 🇮🇹",
-        "Graham Hill 🇬🇧",
-        "Jack Brabham 🇦🇺",
-        "Jackie Stewart 🇬🇧",
-        "Jacky Ickx 🇧🇪",
-        "John Surtees 🇬🇧",
-        "Juan Fangio 🇦🇷",
-        "Luigi Musso 🇮🇹",
-        "Nino Farina 🇮🇹",
-        "Peter Collins 🇬🇧",
-        "Piero Taruffi 🇮🇹",
-        "Richie Ginther 🇺🇸",
-        "Tony Maggs 🇿🇦"
+        "Dan Gurney",
+        "Alberto Ascari",
+        "Graham Hill",
+        "Jack Brabham",
+        "Jackie Stewart",
+        "Jacky Ickx",
+        "John Surtees",
+        "Juan Fangio",
+        "Luigi Musso",
+        "Nino Farina",
+        "Peter Collins",
+        "Piero Taruffi",
+        "Richie Ginther",
+        "Tony Maggs"
     ]
 };
 var options = {

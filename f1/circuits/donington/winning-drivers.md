@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Ayrton Senna 🇧🇷"
+        "Ayrton Senna"
     ]
 };
 var options = {

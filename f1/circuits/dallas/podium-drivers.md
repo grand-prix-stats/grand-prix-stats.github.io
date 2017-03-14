@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Elio de Angelis 🇮🇹",
-        "Keke Rosberg 🇫🇮",
-        "René Arnoux 🇫🇷"
+        "Elio de Angelis",
+        "Keke Rosberg",
+        "René Arnoux"
     ]
 };
 var options = {

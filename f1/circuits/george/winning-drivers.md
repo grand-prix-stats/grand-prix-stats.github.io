@@ -19,8 +19,8 @@ var data = {
         }
     ],
     "labels": [
-        "Jim Clark 🇬🇧",
-        "Graham Hill 🇬🇧"
+        "Jim Clark",
+        "Graham Hill"
     ]
 };
 var options = {

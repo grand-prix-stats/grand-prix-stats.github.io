@@ -21,10 +21,10 @@ var data = {
         }
     ],
     "labels": [
-        "Fernando Alonso 🇪🇸",
-        "James Hunt 🇬🇧",
-        "Lewis Hamilton 🇬🇧",
-        "Mario Andretti 🇺🇸"
+        "Fernando Alonso",
+        "James Hunt",
+        "Lewis Hamilton",
+        "Mario Andretti"
     ]
 };
 var options = {

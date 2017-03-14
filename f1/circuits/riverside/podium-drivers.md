@@ -20,9 +20,9 @@ var data = {
         }
     ],
     "labels": [
-        "Bruce McLaren 🇳🇿",
-        "Innes Ireland 🇬🇧",
-        "Stirling Moss 🇬🇧"
+        "Bruce McLaren",
+        "Innes Ireland",
+        "Stirling Moss"
     ]
 };
 var options = {

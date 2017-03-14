@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher 🇩🇪"
+        "Michael Schumacher"
     ]
 };
 var options = {

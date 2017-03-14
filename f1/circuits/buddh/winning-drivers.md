@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Sebastian Vettel 🇩🇪"
+        "Sebastian Vettel"
     ]
 };
 var options = {

@@ -31,20 +31,20 @@ var data = {
         }
     ],
     "labels": [
-        "Niki Lauda 🇦🇹",
-        "Alain Prost 🇫🇷",
-        "John Watson 🇬🇧",
-        "Clay Regazzoni 🇨🇭",
-        "Gilles Villeneuve 🇨🇦",
-        "James Hunt 🇬🇧",
-        "Jean-Pierre Jabouille 🇫🇷",
-        "Keke Rosberg 🇫🇮",
-        "Mario Andretti 🇺🇸",
-        "Nelson Piquet 🇧🇷",
-        "Nigel Mansell 🇬🇧",
-        "Patrick Tambay 🇫🇷",
-        "René Arnoux 🇫🇷",
-        "Ronnie Peterson 🇸🇪"
+        "Niki Lauda",
+        "Alain Prost",
+        "John Watson",
+        "Clay Regazzoni",
+        "Gilles Villeneuve",
+        "James Hunt",
+        "Jean-Pierre Jabouille",
+        "Keke Rosberg",
+        "Mario Andretti",
+        "Nelson Piquet",
+        "Nigel Mansell",
+        "Patrick Tambay",
+        "René Arnoux",
+        "Ronnie Peterson"
     ]
 };
 var options = {

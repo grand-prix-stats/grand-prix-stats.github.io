@@ -24,13 +24,13 @@ var data = {
         }
     ],
     "labels": [
-        "Sebastian Vettel 🇩🇪",
-        "Fernando Alonso 🇪🇸",
-        "Lewis Hamilton 🇬🇧",
-        "Mark Webber 🇦🇺",
-        "Felipe Massa 🇧🇷",
-        "Kimi Räikkönen 🇫🇮",
-        "Romain Grosjean 🇫🇷"
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Lewis Hamilton",
+        "Mark Webber",
+        "Felipe Massa",
+        "Kimi Räikkönen",
+        "Romain Grosjean"
     ]
 };
 var options = {

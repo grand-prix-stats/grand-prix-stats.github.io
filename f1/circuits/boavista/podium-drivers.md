@@ -23,12 +23,12 @@ var data = {
         }
     ],
     "labels": [
-        "Bruce McLaren 🇳🇿",
-        "Jack Brabham 🇦🇺",
-        "Jim Clark 🇬🇧",
-        "Mike Hawthorn 🇬🇧",
-        "Stirling Moss 🇬🇧",
-        "Stuart Lewis-Evans 🇬🇧"
+        "Bruce McLaren",
+        "Jack Brabham",
+        "Jim Clark",
+        "Mike Hawthorn",
+        "Stirling Moss",
+        "Stuart Lewis-Evans"
     ]
 };
 var options = {

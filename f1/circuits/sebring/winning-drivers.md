@@ -18,7 +18,7 @@ var data = {
         }
     ],
     "labels": [
-        "Bruce McLaren 🇳🇿"
+        "Bruce McLaren"
     ]
 };
 var options = {

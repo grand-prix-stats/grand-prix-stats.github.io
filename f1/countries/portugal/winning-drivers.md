@@ -28,17 +28,17 @@ var data = {
         }
     ],
     "labels": [
-        "Alain Prost 🇫🇷",
-        "Nigel Mansell 🇬🇧",
-        "Stirling Moss 🇬🇧",
-        "Ayrton Senna 🇧🇷",
-        "Damon Hill 🇬🇧",
-        "David Coulthard 🇬🇧",
-        "Gerhard Berger 🇦🇹",
-        "Jack Brabham 🇦🇺",
-        "Jacques Villeneuve 🇨🇦",
-        "Michael Schumacher 🇩🇪",
-        "Riccardo Patrese 🇮🇹"
+        "Alain Prost",
+        "Nigel Mansell",
+        "Stirling Moss",
+        "Ayrton Senna",
+        "Damon Hill",
+        "David Coulthard",
+        "Gerhard Berger",
+        "Jack Brabham",
+        "Jacques Villeneuve",
+        "Michael Schumacher",
+        "Riccardo Patrese"
     ]
 };
 var options = {

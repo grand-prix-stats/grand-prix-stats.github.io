@@ -26,15 +26,15 @@ var data = {
         }
     ],
     "labels": [
-        "Jackie Stewart 🇬🇧",
-        "Chris Amon 🇳🇿",
-        "Emerson Fittipaldi 🇧🇷",
-        "Jack Brabham 🇦🇺",
-        "Jacky Ickx 🇧🇪",
-        "Jean-Pierre Beltoise 🇫🇷",
-        "Jim Clark 🇬🇧",
-        "Jochen Rindt 🇦🇹",
-        "John Surtees 🇬🇧"
+        "Jackie Stewart",
+        "Chris Amon",
+        "Emerson Fittipaldi",
+        "Jack Brabham",
+        "Jacky Ickx",
+        "Jean-Pierre Beltoise",
+        "Jim Clark",
+        "Jochen Rindt",
+        "John Surtees"
     ]
 };
 var options = {
