@@ -4,8 +4,8 @@ layout: page
 ---
 
 Welcome to Grand Prix Stats. This website is programmatically generated from
-Formula 1® race results. All statistics and lists of data will be automatically
-updated after each race.
+Formula 1® race results. All statistics and lists of data are automatically
+updated after each race weekend.
 
 ### Formula 1® Statistics
 

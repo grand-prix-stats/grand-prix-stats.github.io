@@ -63,7 +63,7 @@ rowCount: 73
 | [Scandinavian Raceway](/f1/circuits/anderstorp) | Anderstorp | [Sweden](/f1/countries/sweden) | 6 | Niki Lauda 🇦🇹 | 2 |
 | [Circuit Bremgarten](/f1/circuits/bremgarten) | Bern | [Switzerland](/f1/countries/switzerland) | 5 | Juan Fangio 🇦🇷 | 2 |
 | [Istanbul Park](/f1/circuits/istanbul) | Istanbul | [Turkey](/f1/countries/turkey) | 7 | Felipe Massa 🇧🇷 | 3 |
-| [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | Sebastian Vettel 🇩🇪 | 3 |
+| [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | Lewis Hamilton 🇬🇧 | 3 |
 | [Donington Park](/f1/circuits/donington) | Castle Donington | [UK](/f1/countries/uk) | 1 | Ayrton Senna 🇧🇷 | 1 |
 | [Brands Hatch](/f1/circuits/brands_hatch) | Kent | [UK](/f1/countries/uk) | 14 | Niki Lauda 🇦🇹 | 3 |
 | [Aintree](/f1/circuits/aintree) | Liverpool | [UK](/f1/countries/uk) | 5 | Stirling Moss 🇬🇧 | 2 |

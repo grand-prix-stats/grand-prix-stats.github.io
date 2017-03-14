@@ -23,7 +23,7 @@ rowCount: 20
 | [Sochi International Street Circuit](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | Lewis Hamilton 🇬🇧 | 2 |
 | [Marina Bay Street Circuit](/f1/circuits/marina_bay) | Marina Bay | [Singapore](/f1/countries/singapore) | 10 | Sebastian Vettel 🇩🇪 | 4 |
 | [Circuit de Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | Michael Schumacher 🇩🇪 | 6 |
-| [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | Sebastian Vettel 🇩🇪 | 3 |
+| [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | Lewis Hamilton 🇬🇧 | 3 |
 | [Silverstone Circuit](/f1/circuits/silverstone) | Silverstone | [UK](/f1/countries/uk) | 51 | Alain Prost 🇫🇷 | 5 |
 | [Circuit of the Americas](/f1/circuits/americas) | Austin | [USA](/f1/countries/usa) | 6 | Lewis Hamilton 🇬🇧 | 4 |
 
