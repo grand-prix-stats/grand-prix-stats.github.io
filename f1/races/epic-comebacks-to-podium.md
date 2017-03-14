@@ -1,6 +1,7 @@
 ---
 title: Epic Comeback Formula 1® Races from 16th+ on Grid to the Podium
 layout: page
+rowCount: 33
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -116,7 +117,7 @@ new Chart("chart", {
 
 The drivers on this list of epic comeback races started the race outside of the top fifteen (this is, 16th or lower in the grid) and yet, they managed to reach one of the three podium positions.
 
-#### Data Table
+### Data Table
 
 | # | Driver | Positions Gained | Grid | Final Position | Year | Round | Race |
 |--|--|--|--|--|--|--|--|
@@ -154,4 +155,7 @@ The drivers on this list of epic comeback races started the race outside of the 
 | 32. | Mark Webber 🇦🇺 | 15 | 18th | 3rd | 2011 | 3 | Chinese Grand Prix |
 | 33. | Michael Schumacher 🇩🇪 | 15 | 16th | 1st | 1995 | 11 | Belgian Grand Prix |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

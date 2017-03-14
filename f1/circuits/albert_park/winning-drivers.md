@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Won a Race at Albert Park Grand Prix Circuit
 layout: page
+rowCount: 12
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -74,7 +75,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
@@ -91,4 +92,7 @@ new Chart("chart", {
 | 11. | Mika Häkkinen 🇫🇮 | 1 |
 | 12. | Sebastian Vettel 🇩🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

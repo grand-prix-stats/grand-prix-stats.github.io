@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Won a Race at Red Bull Ring
 layout: page
+rowCount: 2
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -54,11 +55,14 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
 | 1. | Nico Rosberg 🇩🇪 | 2 |
 | 2. | Lewis Hamilton 🇬🇧 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,6 +1,7 @@
 ---
 title: Epic Comeback Formula 1® Races from 11th+ on Grid to Win the Race
 layout: page
+rowCount: 25
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -100,7 +101,7 @@ new Chart("chart", {
 
 The drivers on this list of epic comeback races started the race outside of the top ten (this is, 11th or lower in the grid) and yet, they managed to reach the top podium position and win the race.
 
-#### Data Table
+### Data Table
 
 | # | Driver | Positions Gained | Grid | Final Position | Year | Round | Race |
 |--|--|--|--|--|--|--|--|
@@ -130,4 +131,7 @@ The drivers on this list of epic comeback races started the race outside of the 
 | 24. | Peter Gethin 🇬🇧 | 10 | 11th | 1st | 1971 | 9 | Italian Grand Prix |
 | 25. | Fernando Alonso 🇪🇸 | 10 | 11th | 1st | 2012 | 8 | European Grand Prix |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

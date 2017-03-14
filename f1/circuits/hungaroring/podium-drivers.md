@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Been in the Podium at Hungaroring
 layout: page
+rowCount: 33
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -116,7 +117,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
@@ -154,4 +155,7 @@ new Chart("chart", {
 | 32. | Romain Grosjean 🇫🇷 | 1 |
 | 33. | Timo Glock 🇩🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

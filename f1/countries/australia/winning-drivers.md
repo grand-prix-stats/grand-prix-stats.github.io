@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Won a Race in Australia by Number of Times
 layout: page
+rowCount: 19
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -88,7 +89,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
@@ -112,4 +113,7 @@ new Chart("chart", {
 | 18. | Sebastian Vettel 🇩🇪 | 1 |
 | 19. | Thierry Boutsen 🇧🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

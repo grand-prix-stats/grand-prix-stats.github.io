@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Been in the Podium in Germany by Number of Times
 layout: page
+rowCount: 84
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -218,7 +219,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
@@ -307,4 +308,7 @@ new Chart("chart", {
 | 83. | Valtteri Bottas 🇫🇮 | 1 |
 | 84. | Wolfgang von Trips 🇩🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

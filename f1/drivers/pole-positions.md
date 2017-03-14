@@ -1,6 +1,7 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Pole Positions
 layout: page
+rowCount: 102
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -254,7 +255,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Pole Positions |
 |--|--|--|
@@ -361,4 +362,7 @@ new Chart("chart", {
 | 101. | Walt Faulkner 🇺🇸 | 1 |
 | 102. | Wolfgang von Trips 🇩🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

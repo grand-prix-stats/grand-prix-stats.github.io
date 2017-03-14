@@ -1,6 +1,7 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Wins in Last Round
 layout: page
+rowCount: 45
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -140,7 +141,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Wins Last Round |
 |--|--|--|
@@ -190,4 +191,7 @@ new Chart("chart", {
 | 44. | Rubens Barrichello 🇧🇷 | 1 |
 | 45. | Thierry Boutsen 🇧🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

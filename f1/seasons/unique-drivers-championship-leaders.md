@@ -1,6 +1,7 @@
 ---
 title: List of Formula 1® Seasons by Number of Driver's Championship Leaders
 layout: page
+rowCount: 67
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -184,7 +185,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Year | Drivers Championship Leaders |
 |--|--|--|
@@ -256,4 +257,7 @@ new Chart("chart", {
 | 66. | 2015 | 1 |
 | 67. | 1959 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,6 +1,7 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Wins in Round 1
 layout: page
+rowCount: 35
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -120,7 +121,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Wins Round 1 |
 |--|--|--|
@@ -160,4 +161,7 @@ new Chart("chart", {
 | 34. | Piero Taruffi 🇮🇹 | 1 |
 | 35. | Sebastian Vettel 🇩🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

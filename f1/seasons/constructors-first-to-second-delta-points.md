@@ -1,6 +1,7 @@
 ---
 title: List of Formula 1® Seasons by 1st to 2nd Point Difference in Constructor's Championship
 layout: page
+rowCount: 59
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -168,7 +169,7 @@ new Chart("chart", {
 
 This chart shows the differnece in points between champion and runner-up. The seasons where the difference is smaller indicate close battles between two constructor teams. The seaons where the different is larger indicate a greater dominance by the champion constructor team. However, the point different is affected by the changes in the point system over the years. A more accurate depiction of this analysis would be the [List of Formula 1® Seasons by 1st to 2nd Point Percentage Difference in Constructor's Championship](/f1/seasons/constructors-first-to-second-delta-percentage)
 
-#### Data Table
+### Data Table
 
 | # | Year | Constructors First To Second Delta Points | Champion | Second |
 |--|--|--|--|--|
@@ -232,4 +233,7 @@ This chart shows the differnece in points between champion and runner-up. The se
 | 58. | 2014 | 296.0 | Mercedes 🇩🇪 | Red Bull 🇦🇹 |
 | 59. | 2016 | 297.0 | Mercedes 🇩🇪 | Red Bull 🇦🇹 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

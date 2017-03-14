@@ -1,6 +1,7 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Finishes in Points
 layout: page
+rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -11,8 +12,129 @@ var data = {
             "backgroundColor": "#f3a935",
             "borderColor": "#f68639",
             "borderWidth": 1,
-            "data": [],
-            "label": "Finishes In Points"
+            "data": [
+                221.0,
+                188.0,
+                171.0,
+                162.0,
+                152.0,
+                152.0,
+                141.0,
+                140.0,
+                133.0,
+                128.0,
+                121.0,
+                112.0,
+                100.0,
+                96.0,
+                94.0,
+                90.0,
+                83.0,
+                82.0,
+                73.0,
+                73.0,
+                73.0,
+                72.0,
+                70.0,
+                70.0,
+                66.0,
+                66.0,
+                63.0,
+                62.0,
+                61.0,
+                59.0,
+                59.0,
+                57.0,
+                57.0,
+                57.0,
+                56.0,
+                56.0,
+                53.0,
+                53.0,
+                53.0,
+                52.0,
+                50.0,
+                50.0,
+                47.0,
+                47.0,
+                46.0,
+                46.0,
+                44.0,
+                43.0,
+                42.0,
+                42.0,
+                41.0,
+                40.0,
+                40.0,
+                40.0,
+                40.0,
+                39.0,
+                39.0,
+                38.0,
+                38.0,
+                36.0,
+                35.0,
+                34.0,
+                32.0,
+                31.0,
+                30.0,
+                29.0,
+                29.0,
+                29.0,
+                29.0,
+                29.0,
+                28.0,
+                28.0,
+                28.0,
+                28.0,
+                27.0,
+                27.0,
+                26.0,
+                26.0,
+                26.0,
+                26.0,
+                25.0,
+                24.0,
+                22.0,
+                22.0,
+                22.0,
+                21.0,
+                21.0,
+                21.0,
+                20.0,
+                20.0,
+                20.0,
+                19.0,
+                19.0,
+                19.0,
+                17.0,
+                17.0,
+                16.0,
+                16.0,
+                15.0,
+                15.0,
+                15.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                14.0,
+                13.0,
+                13.0,
+                12.0,
+                12.0,
+                12.0,
+                12.0,
+                12.0,
+                11.0
+            ],
+            "label": "Finished In Points"
         }
     ],
     "labels": [
@@ -169,129 +291,132 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
-| # | Driver | Finishes In Points |
+| # | Driver | Finished In Points |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 |   |
-| 2. | Fernando Alonso 🇪🇸 |   |
-| 3. | Kimi Räikkönen 🇫🇮 |   |
-| 4. | Jenson Button 🇬🇧 |   |
-| 5. | Felipe Massa 🇧🇷 |   |
-| 6. | Lewis Hamilton 🇬🇧 |   |
-| 7. | Sebastian Vettel 🇩🇪 |   |
-| 8. | Rubens Barrichello 🇧🇷 |   |
-| 9. | Nico Rosberg 🇩🇪 |   |
-| 10. | Alain Prost 🇫🇷 |   |
-| 11. | David Coulthard 🇬🇧 |   |
-| 12. | Mark Webber 🇦🇺 |   |
-| 13. | Nelson Piquet 🇧🇷 |   |
-| 14. | Ayrton Senna 🇧🇷 |   |
-| 15. | Gerhard Berger 🇦🇹 |   |
-| 16. | Ralf Schumacher 🇩🇪 |   |
-| 17. | Mika Häkkinen 🇫🇮 |   |
-| 18. | Nigel Mansell 🇬🇧 |   |
-| 19. | Giancarlo Fisichella 🇮🇹 |   |
-| 20. | Niki Lauda 🇦🇹 |   |
-| 21. | Riccardo Patrese 🇮🇹 |   |
-| 22. | Jarno Trulli 🇮🇹 |   |
-| 23. | Jean Alesi 🇫🇷 |   |
-| 24. | Nick Heidfeld 🇩🇪 |   |
-| 25. | Carlos Reutemann 🇦🇷 |   |
-| 26. | Nico Hülkenberg 🇩🇪 |   |
-| 27. | Sergio Pérez 🇲🇽 |   |
-| 28. | Daniel Ricciardo 🇦🇺 |   |
-| 29. | Denny Hulme 🇳🇿 |   |
-| 30. | Graham Hill 🇬🇧 |   |
-| 31. | Jacques Laffite 🇫🇷 |   |
-| 32. | Emerson Fittipaldi 🇧🇷 |   |
-| 33. | Jackie Stewart 🇬🇧 |   |
-| 34. | Juan Pablo Montoya 🇨🇴 |   |
-| 35. | Damon Hill 🇬🇧 |   |
-| 36. | Heinz-Harald Frentzen 🇩🇪 |   |
-| 37. | Jack Brabham 🇦🇺 |   |
-| 38. | Jacques Villeneuve 🇨🇦 |   |
-| 39. | Jody Scheckter 🇿🇦 |   |
-| 40. | Clay Regazzoni 🇨🇭 |   |
-| 41. | Bruce McLaren 🇳🇿 |   |
-| 42. | Eddie Irvine 🇬🇧 |   |
-| 43. | John Watson 🇬🇧 |   |
-| 44. | Michele Alboreto 🇮🇹 |   |
-| 45. | Robert Kubica 🇵🇱 |   |
-| 46. | Valtteri Bottas 🇫🇮 |   |
-| 47. | Juan Fangio 🇦🇷 |   |
-| 48. | Elio de Angelis 🇮🇹 |   |
-| 49. | René Arnoux 🇫🇷 |   |
-| 50. | Ronnie Peterson 🇸🇪 |   |
-| 51. | Thierry Boutsen 🇧🇪 |   |
-| 52. | Jacky Ickx 🇧🇪 |   |
-| 53. | Jim Clark 🇬🇧 |   |
-| 54. | John Surtees 🇬🇧 |   |
-| 55. | Romain Grosjean 🇫🇷 |   |
-| 56. | Alan Jones 🇦🇺 |   |
-| 57. | Martin Brundle 🇬🇧 |   |
-| 58. | Keke Rosberg 🇫🇮 |   |
-| 59. | Mario Andretti 🇺🇸 |   |
-| 60. | Patrick Depailler 🇫🇷 |   |
-| 61. | James Hunt 🇬🇧 |   |
-| 62. | Stirling Moss 🇬🇧 |   |
-| 63. | Patrick Tambay 🇫🇷 |   |
-| 64. | Dan Gurney 🇺🇸 |   |
-| 65. | Derek Warwick 🇬🇧 |   |
-| 66. | Chris Amon 🇳🇿 |   |
-| 67. | Didier Pironi 🇫🇷 |   |
-| 68. | Heikki Kovalainen 🇫🇮 |   |
-| 69. | Johnny Herbert 🇬🇧 |   |
-| 70. | Olivier Panis 🇫🇷 |   |
-| 71. | Adrian Sutil 🇩🇪 |   |
-| 72. | Jochen Mass 🇩🇪 |   |
-| 73. | Mike Hawthorn 🇬🇧 |   |
-| 74. | Richie Ginther 🇺🇸 |   |
-| 75. | Kamui Kobayashi 🇯🇵 |   |
-| 76. | Max Verstappen 🇳🇱 |   |
-| 77. | Jean-Pierre Beltoise 🇫🇷 |   |
-| 78. | Nino Farina 🇮🇹 |   |
-| 79. | Paul di Resta 🇬🇧 |   |
-| 80. | Stefan Johansson 🇸🇪 |   |
-| 81. | Eddie Cheever 🇺🇸 |   |
-| 82. | Daniil Kvyat 🇷🇺 |   |
-| 83. | Alberto Ascari 🇮🇹 |   |
-| 84. | Andrea de Cesaris 🇮🇹 |   |
-| 85. | Pedro Rodríguez 🇲🇽 |   |
-| 86. | Gilles Villeneuve 🇨🇦 |   |
-| 87. | Jochen Rindt 🇦🇹 |   |
-| 88. | Maurice Trintignant 🇫🇷 |   |
-| 89. | Jo Bonnier 🇸🇪 |   |
-| 90. | Jo Siffert 🇨🇭 |   |
-| 91. | Phil Hill 🇺🇸 |   |
-| 92. | Alessandro Nannini 🇮🇹 |   |
-| 93. | François Cevert 🇫🇷 |   |
-| 94. | José Froilán González 🇦🇷 |   |
-| 95. | Carlos Sainz 🇪🇸 |   |
-| 96. | Lorenzo Bandini 🇮🇹 |   |
-| 97. | Carlos Pace 🇧🇷 |   |
-| 98. | Mika Salo 🇫🇮 |   |
-| 99. | Jean Behra 🇫🇷 |   |
-| 100. | Sébastien Buemi 🇨🇭 |   |
-| 101. | Tony Brooks 🇬🇧 |   |
-| 102. | Alexander Wurz 🇦🇹 |   |
-| 103. | Innes Ireland 🇬🇧 |   |
-| 104. | Jean-Éric Vergne 🇫🇷 |   |
-| 105. | Jean-Pierre Jarier 🇫🇷 |   |
-| 106. | Kevin Magnussen 🇩🇰 |   |
-| 107. | Luigi Villoresi 🇮🇹 |   |
-| 108. | Pastor Maldonado 🇻🇪 |   |
-| 109. | Peter Revson 🇺🇸 |   |
-| 110. | Takuma Sato 🇯🇵 |   |
-| 111. | Timo Glock 🇩🇪 |   |
-| 112. | Wolfgang von Trips 🇩🇪 |   |
-| 113. | Mark Blundell 🇬🇧 |   |
-| 114. | Vitaly Petrov 🇷🇺 |   |
-| 115. | Hans-Joachim Stuck 🇩🇪 |   |
-| 116. | Harry Schell 🇺🇸 |   |
-| 117. | Ivan Capelli 🇮🇹 |   |
-| 118. | Mike Spence 🇬🇧 |   |
-| 119. | Pedro de la Rosa 🇪🇸 |   |
-| 120. | Bruno Senna 🇧🇷 |   |
+| 1. | Michael Schumacher 🇩🇪 | 221 |
+| 2. | Fernando Alonso 🇪🇸 | 188 |
+| 3. | Kimi Räikkönen 🇫🇮 | 171 |
+| 4. | Jenson Button 🇬🇧 | 162 |
+| 5. | Felipe Massa 🇧🇷 | 152 |
+| 6. | Lewis Hamilton 🇬🇧 | 152 |
+| 7. | Sebastian Vettel 🇩🇪 | 141 |
+| 8. | Rubens Barrichello 🇧🇷 | 140 |
+| 9. | Nico Rosberg 🇩🇪 | 133 |
+| 10. | Alain Prost 🇫🇷 | 128 |
+| 11. | David Coulthard 🇬🇧 | 121 |
+| 12. | Mark Webber 🇦🇺 | 112 |
+| 13. | Nelson Piquet 🇧🇷 | 100 |
+| 14. | Ayrton Senna 🇧🇷 | 96 |
+| 15. | Gerhard Berger 🇦🇹 | 94 |
+| 16. | Ralf Schumacher 🇩🇪 | 90 |
+| 17. | Mika Häkkinen 🇫🇮 | 83 |
+| 18. | Nigel Mansell 🇬🇧 | 82 |
+| 19. | Giancarlo Fisichella 🇮🇹 | 73 |
+| 20. | Niki Lauda 🇦🇹 | 73 |
+| 21. | Riccardo Patrese 🇮🇹 | 73 |
+| 22. | Jarno Trulli 🇮🇹 | 72 |
+| 23. | Jean Alesi 🇫🇷 | 70 |
+| 24. | Nick Heidfeld 🇩🇪 | 70 |
+| 25. | Carlos Reutemann 🇦🇷 | 66 |
+| 26. | Nico Hülkenberg 🇩🇪 | 66 |
+| 27. | Sergio Pérez 🇲🇽 | 63 |
+| 28. | Daniel Ricciardo 🇦🇺 | 62 |
+| 29. | Denny Hulme 🇳🇿 | 61 |
+| 30. | Graham Hill 🇬🇧 | 59 |
+| 31. | Jacques Laffite 🇫🇷 | 59 |
+| 32. | Emerson Fittipaldi 🇧🇷 | 57 |
+| 33. | Jackie Stewart 🇬🇧 | 57 |
+| 34. | Juan Pablo Montoya 🇨🇴 | 57 |
+| 35. | Damon Hill 🇬🇧 | 56 |
+| 36. | Heinz-Harald Frentzen 🇩🇪 | 56 |
+| 37. | Jack Brabham 🇦🇺 | 53 |
+| 38. | Jacques Villeneuve 🇨🇦 | 53 |
+| 39. | Jody Scheckter 🇿🇦 | 53 |
+| 40. | Clay Regazzoni 🇨🇭 | 52 |
+| 41. | Bruce McLaren 🇳🇿 | 50 |
+| 42. | Eddie Irvine 🇬🇧 | 50 |
+| 43. | John Watson 🇬🇧 | 47 |
+| 44. | Michele Alboreto 🇮🇹 | 47 |
+| 45. | Robert Kubica 🇵🇱 | 46 |
+| 46. | Valtteri Bottas 🇫🇮 | 46 |
+| 47. | Juan Fangio 🇦🇷 | 44 |
+| 48. | Elio de Angelis 🇮🇹 | 43 |
+| 49. | René Arnoux 🇫🇷 | 42 |
+| 50. | Ronnie Peterson 🇸🇪 | 42 |
+| 51. | Thierry Boutsen 🇧🇪 | 41 |
+| 52. | Jacky Ickx 🇧🇪 | 40 |
+| 53. | Jim Clark 🇬🇧 | 40 |
+| 54. | John Surtees 🇬🇧 | 40 |
+| 55. | Romain Grosjean 🇫🇷 | 40 |
+| 56. | Alan Jones 🇦🇺 | 39 |
+| 57. | Martin Brundle 🇬🇧 | 39 |
+| 58. | Keke Rosberg 🇫🇮 | 38 |
+| 59. | Mario Andretti 🇺🇸 | 38 |
+| 60. | Patrick Depailler 🇫🇷 | 36 |
+| 61. | James Hunt 🇬🇧 | 35 |
+| 62. | Stirling Moss 🇬🇧 | 34 |
+| 63. | Patrick Tambay 🇫🇷 | 32 |
+| 64. | Dan Gurney 🇺🇸 | 31 |
+| 65. | Derek Warwick 🇬🇧 | 30 |
+| 66. | Chris Amon 🇳🇿 | 29 |
+| 67. | Didier Pironi 🇫🇷 | 29 |
+| 68. | Heikki Kovalainen 🇫🇮 | 29 |
+| 69. | Johnny Herbert 🇬🇧 | 29 |
+| 70. | Olivier Panis 🇫🇷 | 29 |
+| 71. | Adrian Sutil 🇩🇪 | 28 |
+| 72. | Jochen Mass 🇩🇪 | 28 |
+| 73. | Mike Hawthorn 🇬🇧 | 28 |
+| 74. | Richie Ginther 🇺🇸 | 28 |
+| 75. | Kamui Kobayashi 🇯🇵 | 27 |
+| 76. | Max Verstappen 🇳🇱 | 27 |
+| 77. | Jean-Pierre Beltoise 🇫🇷 | 26 |
+| 78. | Nino Farina 🇮🇹 | 26 |
+| 79. | Paul di Resta 🇬🇧 | 26 |
+| 80. | Stefan Johansson 🇸🇪 | 26 |
+| 81. | Eddie Cheever 🇺🇸 | 25 |
+| 82. | Daniil Kvyat 🇷🇺 | 24 |
+| 83. | Alberto Ascari 🇮🇹 | 22 |
+| 84. | Andrea de Cesaris 🇮🇹 | 22 |
+| 85. | Pedro Rodríguez 🇲🇽 | 22 |
+| 86. | Gilles Villeneuve 🇨🇦 | 21 |
+| 87. | Jochen Rindt 🇦🇹 | 21 |
+| 88. | Maurice Trintignant 🇫🇷 | 21 |
+| 89. | Jo Bonnier 🇸🇪 | 20 |
+| 90. | Jo Siffert 🇨🇭 | 20 |
+| 91. | Phil Hill 🇺🇸 | 20 |
+| 92. | Alessandro Nannini 🇮🇹 | 19 |
+| 93. | François Cevert 🇫🇷 | 19 |
+| 94. | José Froilán González 🇦🇷 | 19 |
+| 95. | Carlos Sainz 🇪🇸 | 17 |
+| 96. | Lorenzo Bandini 🇮🇹 | 17 |
+| 97. | Carlos Pace 🇧🇷 | 16 |
+| 98. | Mika Salo 🇫🇮 | 16 |
+| 99. | Jean Behra 🇫🇷 | 15 |
+| 100. | Sébastien Buemi 🇨🇭 | 15 |
+| 101. | Tony Brooks 🇬🇧 | 15 |
+| 102. | Alexander Wurz 🇦🇹 | 14 |
+| 103. | Innes Ireland 🇬🇧 | 14 |
+| 104. | Jean-Éric Vergne 🇫🇷 | 14 |
+| 105. | Jean-Pierre Jarier 🇫🇷 | 14 |
+| 106. | Kevin Magnussen 🇩🇰 | 14 |
+| 107. | Luigi Villoresi 🇮🇹 | 14 |
+| 108. | Pastor Maldonado 🇻🇪 | 14 |
+| 109. | Peter Revson 🇺🇸 | 14 |
+| 110. | Takuma Sato 🇯🇵 | 14 |
+| 111. | Timo Glock 🇩🇪 | 14 |
+| 112. | Wolfgang von Trips 🇩🇪 | 14 |
+| 113. | Mark Blundell 🇬🇧 | 13 |
+| 114. | Vitaly Petrov 🇷🇺 | 13 |
+| 115. | Hans-Joachim Stuck 🇩🇪 | 12 |
+| 116. | Harry Schell 🇺🇸 | 12 |
+| 117. | Ivan Capelli 🇮🇹 | 12 |
+| 118. | Mike Spence 🇬🇧 | 12 |
+| 119. | Pedro de la Rosa 🇪🇸 | 12 |
+| 120. | Bruno Senna 🇧🇷 | 11 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Been in the Podium in Rhodesia by Number of Times
 layout: page
+rowCount: 0
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -37,8 +38,11 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

@@ -1,6 +1,7 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Wins
 layout: page
+rowCount: 106
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -262,7 +263,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Wins |
 |--|--|--|
@@ -373,4 +374,7 @@ new Chart("chart", {
 | 105. | Troy Ruttman 🇺🇸 | 1 |
 | 106. | Vittorio Brambilla 🇮🇹 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

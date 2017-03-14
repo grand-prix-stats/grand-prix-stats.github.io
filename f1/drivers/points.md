@@ -1,6 +1,7 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Points
 layout: page
+rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -290,7 +291,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Points |
 |--|--|--|
@@ -415,4 +416,7 @@ new Chart("chart", {
 | 119. | Mark Blundell 🇬🇧 | 32.0 |
 | 120. | Jean-Pierre Jarier 🇫🇷 | 31.5 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

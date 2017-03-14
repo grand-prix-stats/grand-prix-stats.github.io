@@ -1,6 +1,7 @@
 ---
 title: List of Formula 1® Seasons by 1st to 3rd Point Difference in Driver's Championship
 layout: page
+rowCount: 67
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -184,7 +185,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Year | Drivers First To Third Delta Points |
 |--|--|--|
@@ -256,4 +257,7 @@ new Chart("chart", {
 | 66. | 2014 | 146.0 |
 | 67. | 2013 | 198.0 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

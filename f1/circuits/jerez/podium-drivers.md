@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Been in the Podium at Circuito de Jerez
 layout: page
+rowCount: 11
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -72,7 +73,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
@@ -88,4 +89,7 @@ new Chart("chart", {
 | 10. | Michael Schumacher 🇩🇪 | 1 |
 | 11. | Stefan Johansson 🇸🇪 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

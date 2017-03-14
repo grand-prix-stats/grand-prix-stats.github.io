@@ -1,6 +1,7 @@
 ---
 title: List of Formula 1® Seasons by Number of Constructor's Championship Leaders
 layout: page
+rowCount: 59
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -168,7 +169,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Year | Constructors Championship Leaders |
 |--|--|--|
@@ -232,4 +233,7 @@ new Chart("chart", {
 | 58. | 2015 | 1 |
 | 59. | 2016 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

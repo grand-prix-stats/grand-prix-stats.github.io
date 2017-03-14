@@ -1,6 +1,7 @@
 ---
 title: List of Formula 1® Seasons by 1st to 3rd Point Difference in Constructor's Championship
 layout: page
+rowCount: 59
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -168,7 +169,7 @@ new Chart("chart", {
 
 This chart shows the differnece in points between champion and third. The seasons where the difference is smaller indicate close battles between two constructor teams. The seaons where the different is larger indicate a greater dominance by the champion constructor team. However, the point different is affected by the changes in the point system over the years. A more accurate depiction of this analysis would be the [List of Formula 1® Seasons by 1st to 2nd Point Percentage Difference in Constructor's Championship](/f1/seasons/constructors-first-to-third-delta-percentage)
 
-#### Data Table
+### Data Table
 
 | # | Year | Constructors First To Third Delta Points | Champion | Third |
 |--|--|--|--|--|
@@ -232,4 +233,7 @@ This chart shows the differnece in points between champion and third. The season
 | 58. | 2014 | 381.0 | Mercedes 🇩🇪 | Williams 🇬🇧 |
 | 59. | 2015 | 446.0 | Mercedes 🇩🇪 | Williams 🇬🇧 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

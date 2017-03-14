@@ -1,6 +1,7 @@
 ---
 title: Point Percentage of Constructor's Champion per Formula 1® Season
 layout: page
+rowCount: 68
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -188,7 +189,7 @@ This chart showcases the dominance of the Constructor's Championship winner by d
 
 $$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
 
-#### Data Table
+### Data Table
 
 | Year | Point Percentage |
 |--|--|
@@ -261,4 +262,7 @@ $$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
 | 2016 | 36.07% |
 | 2017 | 0.00% |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

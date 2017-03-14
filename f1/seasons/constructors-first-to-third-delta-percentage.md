@@ -1,6 +1,7 @@
 ---
 title: List of Formula 1® Seasons by 1st to 3rd Point Percentage Difference in Constructor's Championship
 layout: page
+rowCount: 59
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -168,7 +169,7 @@ new Chart("chart", {
 
 This chart shows the percentage of points between constructor team champion and third. 100% means the third finished with the same number of points as the champion. 50% means the third finished with half the points of the champion. The seasons where the percentage is closer to 100% indicate close battles between two constructor teams. The seasons where the percentage is lower indicate a greater dominance by the champion constructor team.
 
-#### Data Table
+### Data Table
 
 | # | Year | Constructors First To Third Delta Percentage | Champion | Third |
 |--|--|--|--|--|
@@ -232,4 +233,7 @@ This chart shows the percentage of points between constructor team champion and 
 | 58. | 2000 | 21.18% | Ferrari 🇮🇹 | Williams 🇬🇧 |
 | 59. | 1988 | 19.60% | McLaren 🇬🇧 | Benetton 🇮🇹 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

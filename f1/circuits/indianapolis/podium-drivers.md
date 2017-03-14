@@ -1,6 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Been in the Podium at Indianapolis Motor Speedway
 layout: page
+rowCount: 37
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -124,7 +125,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Times |
 |--|--|--|
@@ -166,4 +167,7 @@ new Chart("chart", {
 | 36. | Tony Bettenhausen 🇺🇸 | 1 |
 | 37. | Troy Ruttman 🇺🇸 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

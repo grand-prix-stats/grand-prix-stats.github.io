@@ -1,6 +1,7 @@
 ---
 title: Number of Participating Constructors per Formula 1® Season
 layout: page
+rowCount: 68
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -186,7 +187,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | Year | Constructors |
 |--|--|
@@ -259,4 +260,7 @@ new Chart("chart", {
 | 2016 | 11 |
 | 2017 | 0 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|

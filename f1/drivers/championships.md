@@ -1,6 +1,7 @@
 ---
-title: Rank of Formula 1® Driver Champions by Number of Championships
+title: Rank of Formula 1® Drivers by Number of Championships
 layout: page
+rowCount: 33
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -116,7 +117,7 @@ new Chart("chart", {
 
 
 
-#### Data Table
+### Data Table
 
 | # | Driver | Championships |
 |--|--|--|
@@ -154,4 +155,7 @@ new Chart("chart", {
 | 32. | Nino Farina 🇮🇹 | 1 |
 | 33. | Phil Hill 🇺🇸 | 1 |
 
-<small>Download Data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})</small>
+#### Table Summary
+
+|**Row Count**|{{ page.rowCount }}|
+|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
