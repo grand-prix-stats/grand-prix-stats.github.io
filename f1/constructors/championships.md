@@ -34,23 +34,23 @@ var data = {
         }
     ],
     "labels": [
-        "Ferrari 🇮🇹",
-        "Williams 🇬🇧",
-        "McLaren 🇬🇧",
-        "Red Bull 🇦🇹",
-        "Team Lotus 🇬🇧",
-        "Mercedes 🇩🇪",
-        "Brabham-Repco 🇬🇧",
-        "Cooper-Climax 🇬🇧",
-        "Lotus-Climax 🇬🇧",
-        "Renault 🇫🇷",
-        "Benetton 🇮🇹",
-        "Brawn 🇬🇧",
-        "BRM 🇬🇧",
-        "Lotus-Ford 🇬🇧",
-        "Matra-Ford 🇫🇷",
-        "Tyrrell 🇬🇧",
-        "Vanwall 🇬🇧"
+        "Ferrari",
+        "Williams",
+        "McLaren",
+        "Red Bull",
+        "Team Lotus",
+        "Mercedes",
+        "Brabham-Repco",
+        "Cooper-Climax",
+        "Lotus-Climax",
+        "Renault",
+        "Benetton",
+        "Brawn",
+        "BRM",
+        "Lotus-Ford",
+        "Matra-Ford",
+        "Tyrrell",
+        "Vanwall"
     ]
 };
 var options = {
