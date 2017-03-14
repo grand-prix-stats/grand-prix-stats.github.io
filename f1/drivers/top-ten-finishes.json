@@ -1,0 +1,482 @@
+[
+    {
+        "driver": "Michael Schumacher 🇩🇪",
+        "top_10_finishes": 226
+    },
+    {
+        "driver": "Fernando Alonso 🇪🇸",
+        "top_10_finishes": 195
+    },
+    {
+        "driver": "Kimi Räikkönen 🇫🇮",
+        "top_10_finishes": 183
+    },
+    {
+        "driver": "Jenson Button 🇬🇧",
+        "top_10_finishes": 180
+    },
+    {
+        "driver": "Felipe Massa 🇧🇷",
+        "top_10_finishes": 174
+    },
+    {
+        "driver": "Rubens Barrichello 🇧🇷",
+        "top_10_finishes": 172
+    },
+    {
+        "driver": "Lewis Hamilton 🇬🇧",
+        "top_10_finishes": 155
+    },
+    {
+        "driver": "David Coulthard 🇬🇧",
+        "top_10_finishes": 146
+    },
+    {
+        "driver": "Nico Rosberg 🇩🇪",
+        "top_10_finishes": 144
+    },
+    {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "top_10_finishes": 142
+    },
+    {
+        "driver": "Alain Prost 🇫🇷",
+        "top_10_finishes": 138
+    },
+    {
+        "driver": "Mark Webber 🇦🇺",
+        "top_10_finishes": 132
+    },
+    {
+        "driver": "Nelson Piquet 🇧🇷",
+        "top_10_finishes": 115
+    },
+    {
+        "driver": "Gerhard Berger 🇦🇹",
+        "top_10_finishes": 112
+    },
+    {
+        "driver": "Giancarlo Fisichella 🇮🇹",
+        "top_10_finishes": 112
+    },
+    {
+        "driver": "Riccardo Patrese 🇮🇹",
+        "top_10_finishes": 108
+    },
+    {
+        "driver": "Jarno Trulli 🇮🇹",
+        "top_10_finishes": 106
+    },
+    {
+        "driver": "Jean Alesi 🇫🇷",
+        "top_10_finishes": 106
+    },
+    {
+        "driver": "Ralf Schumacher 🇩🇪",
+        "top_10_finishes": 105
+    },
+    {
+        "driver": "Ayrton Senna 🇧🇷",
+        "top_10_finishes": 104
+    },
+    {
+        "driver": "Nick Heidfeld 🇩🇪",
+        "top_10_finishes": 101
+    },
+    {
+        "driver": "Mika Häkkinen 🇫🇮",
+        "top_10_finishes": 96
+    },
+    {
+        "driver": "Nigel Mansell 🇬🇧",
+        "top_10_finishes": 90
+    },
+    {
+        "driver": "Carlos Reutemann 🇦🇷",
+        "top_10_finishes": 86
+    },
+    {
+        "driver": "Graham Hill 🇬🇧",
+        "top_10_finishes": 86
+    },
+    {
+        "driver": "Jacques Villeneuve 🇨🇦",
+        "top_10_finishes": 86
+    },
+    {
+        "driver": "Heinz-Harald Frentzen 🇩🇪",
+        "top_10_finishes": 82
+    },
+    {
+        "driver": "Niki Lauda 🇦🇹",
+        "top_10_finishes": 81
+    },
+    {
+        "driver": "Jacques Laffite 🇫🇷",
+        "top_10_finishes": 80
+    },
+    {
+        "driver": "Thierry Boutsen 🇧🇪",
+        "top_10_finishes": 79
+    },
+    {
+        "driver": "Eddie Irvine 🇬🇧",
+        "top_10_finishes": 76
+    },
+    {
+        "driver": "Emerson Fittipaldi 🇧🇷",
+        "top_10_finishes": 76
+    },
+    {
+        "driver": "John Watson 🇬🇧",
+        "top_10_finishes": 75
+    },
+    {
+        "driver": "Michele Alboreto 🇮🇹",
+        "top_10_finishes": 74
+    },
+    {
+        "driver": "Denny Hulme 🇳🇿",
+        "top_10_finishes": 72
+    },
+    {
+        "driver": "Clay Regazzoni 🇨🇭",
+        "top_10_finishes": 71
+    },
+    {
+        "driver": "Damon Hill 🇬🇧",
+        "top_10_finishes": 70
+    },
+    {
+        "driver": "Johnny Herbert 🇬🇧",
+        "top_10_finishes": 70
+    },
+    {
+        "driver": "Martin Brundle 🇬🇧",
+        "top_10_finishes": 69
+    },
+    {
+        "driver": "Jody Scheckter 🇿🇦",
+        "top_10_finishes": 68
+    },
+    {
+        "driver": "René Arnoux 🇫🇷",
+        "top_10_finishes": 68
+    },
+    {
+        "driver": "Jack Brabham 🇦🇺",
+        "top_10_finishes": 67
+    },
+    {
+        "driver": "Nico Hülkenberg 🇩🇪",
+        "top_10_finishes": 66
+    },
+    {
+        "driver": "Olivier Panis 🇫🇷",
+        "top_10_finishes": 65
+    },
+    {
+        "driver": "Sergio Pérez 🇲🇽",
+        "top_10_finishes": 63
+    },
+    {
+        "driver": "Daniel Ricciardo 🇦🇺",
+        "top_10_finishes": 62
+    },
+    {
+        "driver": "Jackie Stewart 🇬🇧",
+        "top_10_finishes": 61
+    },
+    {
+        "driver": "Ronnie Peterson 🇸🇪",
+        "top_10_finishes": 60
+    },
+    {
+        "driver": "Bruce McLaren 🇳🇿",
+        "top_10_finishes": 58
+    },
+    {
+        "driver": "Juan Pablo Montoya 🇨🇴",
+        "top_10_finishes": 58
+    },
+    {
+        "driver": "Jacky Ickx 🇧🇪",
+        "top_10_finishes": 56
+    },
+    {
+        "driver": "Derek Warwick 🇬🇧",
+        "top_10_finishes": 55
+    },
+    {
+        "driver": "Mario Andretti 🇺🇸",
+        "top_10_finishes": 55
+    },
+    {
+        "driver": "Alan Jones 🇦🇺",
+        "top_10_finishes": 54
+    },
+    {
+        "driver": "Elio de Angelis 🇮🇹",
+        "top_10_finishes": 54
+    },
+    {
+        "driver": "Andrea de Cesaris 🇮🇹",
+        "top_10_finishes": 52
+    },
+    {
+        "driver": "Keke Rosberg 🇫🇮",
+        "top_10_finishes": 52
+    },
+    {
+        "driver": "Patrick Tambay 🇫🇷",
+        "top_10_finishes": 52
+    },
+    {
+        "driver": "Robert Kubica 🇵🇱",
+        "top_10_finishes": 51
+    },
+    {
+        "driver": "John Surtees 🇬🇧",
+        "top_10_finishes": 50
+    },
+    {
+        "driver": "Jochen Mass 🇩🇪",
+        "top_10_finishes": 48
+    },
+    {
+        "driver": "Mika Salo 🇫🇮",
+        "top_10_finishes": 48
+    },
+    {
+        "driver": "Patrick Depailler 🇫🇷",
+        "top_10_finishes": 48
+    },
+    {
+        "driver": "Jim Clark 🇬🇧",
+        "top_10_finishes": 46
+    },
+    {
+        "driver": "Valtteri Bottas 🇫🇮",
+        "top_10_finishes": 46
+    },
+    {
+        "driver": "James Hunt 🇬🇧",
+        "top_10_finishes": 45
+    },
+    {
+        "driver": "Jo Siffert 🇨🇭",
+        "top_10_finishes": 45
+    },
+    {
+        "driver": "Jo Bonnier 🇸🇪",
+        "top_10_finishes": 44
+    },
+    {
+        "driver": "Eddie Cheever 🇺🇸",
+        "top_10_finishes": 43
+    },
+    {
+        "driver": "Jean-Pierre Beltoise 🇫🇷",
+        "top_10_finishes": 43
+    },
+    {
+        "driver": "Jean-Pierre Jarier 🇫🇷",
+        "top_10_finishes": 43
+    },
+    {
+        "driver": "Juan Fangio 🇦🇷",
+        "top_10_finishes": 43
+    },
+    {
+        "driver": "Chris Amon 🇳🇿",
+        "top_10_finishes": 42
+    },
+    {
+        "driver": "Dan Gurney 🇺🇸",
+        "top_10_finishes": 41
+    },
+    {
+        "driver": "Didier Pironi 🇫🇷",
+        "top_10_finishes": 40
+    },
+    {
+        "driver": "Romain Grosjean 🇫🇷",
+        "top_10_finishes": 40
+    },
+    {
+        "driver": "Maurice Trintignant 🇫🇷",
+        "top_10_finishes": 39
+    },
+    {
+        "driver": "Stefan Johansson 🇸🇪",
+        "top_10_finishes": 38
+    },
+    {
+        "driver": "Marc Surer 🇨🇭",
+        "top_10_finishes": 37
+    },
+    {
+        "driver": "Pierluigi Martini 🇮🇹",
+        "top_10_finishes": 37
+    },
+    {
+        "driver": "Heikki Kovalainen 🇫🇮",
+        "top_10_finishes": 36
+    },
+    {
+        "driver": "Stirling Moss 🇬🇧",
+        "top_10_finishes": 36
+    },
+    {
+        "driver": "Alexander Wurz 🇦🇹",
+        "top_10_finishes": 35
+    },
+    {
+        "driver": "Richie Ginther 🇺🇸",
+        "top_10_finishes": 35
+    },
+    {
+        "driver": "Gilles Villeneuve 🇨🇦",
+        "top_10_finishes": 34
+    },
+    {
+        "driver": "Mike Hawthorn 🇬🇧",
+        "top_10_finishes": 33
+    },
+    {
+        "driver": "Adrian Sutil 🇩🇪",
+        "top_10_finishes": 30
+    },
+    {
+        "driver": "Jonathan Palmer 🇬🇧",
+        "top_10_finishes": 30
+    },
+    {
+        "driver": "Phil Hill 🇺🇸",
+        "top_10_finishes": 30
+    },
+    {
+        "driver": "Carlos Pace 🇧🇷",
+        "top_10_finishes": 29
+    },
+    {
+        "driver": "François Cevert 🇫🇷",
+        "top_10_finishes": 28
+    },
+    {
+        "driver": "Harry Schell 🇺🇸",
+        "top_10_finishes": 28
+    },
+    {
+        "driver": "Kamui Kobayashi 🇯🇵",
+        "top_10_finishes": 28
+    },
+    {
+        "driver": "Pedro Rodríguez 🇲🇽",
+        "top_10_finishes": 28
+    },
+    {
+        "driver": "Max Verstappen 🇳🇱",
+        "top_10_finishes": 27
+    },
+    {
+        "driver": "Nino Farina 🇮🇹",
+        "top_10_finishes": 27
+    },
+    {
+        "driver": "Satoru Nakajima 🇯🇵",
+        "top_10_finishes": 27
+    },
+    {
+        "driver": "Lorenzo Bandini 🇮🇹",
+        "top_10_finishes": 26
+    },
+    {
+        "driver": "Paul di Resta 🇬🇧",
+        "top_10_finishes": 26
+    },
+    {
+        "driver": "Pedro Diniz 🇧🇷",
+        "top_10_finishes": 26
+    },
+    {
+        "driver": "Philippe Alliot 🇫🇷",
+        "top_10_finishes": 26
+    },
+    {
+        "driver": "Jean Behra 🇫🇷",
+        "top_10_finishes": 25
+    },
+    {
+        "driver": "Louis Rosier 🇫🇷",
+        "top_10_finishes": 25
+    },
+    {
+        "driver": "Mark Blundell 🇬🇧",
+        "top_10_finishes": 25
+    },
+    {
+        "driver": "Vittorio Brambilla 🇮🇹",
+        "top_10_finishes": 25
+    },
+    {
+        "driver": "Alessandro Nannini 🇮🇹",
+        "top_10_finishes": 24
+    },
+    {
+        "driver": "Daniil Kvyat 🇷🇺",
+        "top_10_finishes": 24
+    },
+    {
+        "driver": "Érik Comas 🇫🇷",
+        "top_10_finishes": 24
+    },
+    {
+        "driver": "Jos Verstappen 🇳🇱",
+        "top_10_finishes": 24
+    },
+    {
+        "driver": "Innes Ireland 🇬🇧",
+        "top_10_finishes": 23
+    },
+    {
+        "driver": "Takuma Sato 🇯🇵",
+        "top_10_finishes": 23
+    },
+    {
+        "driver": "Alberto Ascari 🇮🇹",
+        "top_10_finishes": 22
+    },
+    {
+        "driver": "Ivan Capelli 🇮🇹",
+        "top_10_finishes": 22
+    },
+    {
+        "driver": "Jochen Rindt 🇦🇹",
+        "top_10_finishes": 22
+    },
+    {
+        "driver": "Mike Hailwood 🇬🇧",
+        "top_10_finishes": 22
+    },
+    {
+        "driver": "Jyrki Järvilehto 🇫🇮",
+        "top_10_finishes": 21
+    },
+    {
+        "driver": "Maurício Gugelmin 🇧🇷",
+        "top_10_finishes": 21
+    },
+    {
+        "driver": "Philippe Streiff 🇫🇷",
+        "top_10_finishes": 21
+    },
+    {
+        "driver": "Timo Glock 🇩🇪",
+        "top_10_finishes": 21
+    },
+    {
+        "driver": "Pedro de la Rosa 🇪🇸",
+        "top_10_finishes": 20
+    }
+]
