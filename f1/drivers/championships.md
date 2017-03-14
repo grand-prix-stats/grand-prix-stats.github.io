@@ -119,41 +119,41 @@ new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Championships |
-|--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 7 |
-| 2. | Juan Fangio 🇦🇷 | 5 |
-| 3. | Alain Prost 🇫🇷 | 4 |
-| 4. | Sebastian Vettel 🇩🇪 | 4 |
-| 5. | Ayrton Senna 🇧🇷 | 3 |
-| 6. | Jack Brabham 🇦🇺 | 3 |
-| 7. | Jackie Stewart 🇬🇧 | 3 |
-| 8. | Lewis Hamilton 🇬🇧 | 3 |
-| 9. | Nelson Piquet 🇧🇷 | 3 |
-| 10. | Niki Lauda 🇦🇹 | 3 |
-| 11. | Alberto Ascari 🇮🇹 | 2 |
-| 12. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 13. | Fernando Alonso 🇪🇸 | 2 |
-| 14. | Graham Hill 🇬🇧 | 2 |
-| 15. | Jim Clark 🇬🇧 | 2 |
-| 16. | Mika Häkkinen 🇫🇮 | 2 |
-| 17. | Alan Jones 🇦🇺 | 1 |
-| 18. | Damon Hill 🇬🇧 | 1 |
-| 19. | Denny Hulme 🇳🇿 | 1 |
-| 20. | Jacques Villeneuve 🇨🇦 | 1 |
-| 21. | James Hunt 🇬🇧 | 1 |
-| 22. | Jenson Button 🇬🇧 | 1 |
-| 23. | Jochen Rindt 🇦🇹 | 1 |
-| 24. | Jody Scheckter 🇿🇦 | 1 |
-| 25. | John Surtees 🇬🇧 | 1 |
-| 26. | Keke Rosberg 🇫🇮 | 1 |
-| 27. | Kimi Räikkönen 🇫🇮 | 1 |
-| 28. | Mario Andretti 🇺🇸 | 1 |
-| 29. | Mike Hawthorn 🇬🇧 | 1 |
-| 30. | Nico Rosberg 🇩🇪 | 1 |
-| 31. | Nigel Mansell 🇬🇧 | 1 |
-| 32. | Nino Farina 🇮🇹 | 1 |
-| 33. | Phil Hill 🇺🇸 | 1 |
+| # | Driver | Championships | % Of Total Seasons |
+|--|--|--|--|
+| 1. | Michael Schumacher 🇩🇪 | 7 | 36.84% |
+| 2. | Juan Fangio 🇦🇷 | 5 | 62.50% |
+| 3. | Alain Prost 🇫🇷 | 4 | 30.77% |
+| 4. | Sebastian Vettel 🇩🇪 | 4 | 40.00% |
+| 5. | Ayrton Senna 🇧🇷 | 3 | 27.27% |
+| 6. | Jack Brabham 🇦🇺 | 3 | 18.75% |
+| 7. | Jackie Stewart 🇬🇧 | 3 | 33.33% |
+| 8. | Lewis Hamilton 🇬🇧 | 3 | 30.00% |
+| 9. | Nelson Piquet 🇧🇷 | 3 | 21.43% |
+| 10. | Niki Lauda 🇦🇹 | 3 | 23.08% |
+| 11. | Alberto Ascari 🇮🇹 | 2 | 33.33% |
+| 12. | Emerson Fittipaldi 🇧🇷 | 2 | 18.18% |
+| 13. | Fernando Alonso 🇪🇸 | 2 | 13.33% |
+| 14. | Graham Hill 🇬🇧 | 2 | 11.11% |
+| 15. | Jim Clark 🇬🇧 | 2 | 22.22% |
+| 16. | Mika Häkkinen 🇫🇮 | 2 | 18.18% |
+| 17. | Alan Jones 🇦🇺 | 1 | 10.00% |
+| 18. | Damon Hill 🇬🇧 | 1 | 12.50% |
+| 19. | Denny Hulme 🇳🇿 | 1 | 10.00% |
+| 20. | Jacques Villeneuve 🇨🇦 | 1 | 9.09% |
+| 21. | James Hunt 🇬🇧 | 1 | 14.29% |
+| 22. | Jenson Button 🇬🇧 | 1 | 5.88% |
+| 23. | Jochen Rindt 🇦🇹 | 1 | 14.29% |
+| 24. | Jody Scheckter 🇿🇦 | 1 | 11.11% |
+| 25. | John Surtees 🇬🇧 | 1 | 7.69% |
+| 26. | Keke Rosberg 🇫🇮 | 1 | 11.11% |
+| 27. | Kimi Räikkönen 🇫🇮 | 1 | 7.14% |
+| 28. | Mario Andretti 🇺🇸 | 1 | 7.14% |
+| 29. | Mike Hawthorn 🇬🇧 | 1 | 14.29% |
+| 30. | Nico Rosberg 🇩🇪 | 1 | 9.09% |
+| 31. | Nigel Mansell 🇬🇧 | 1 | 6.67% |
+| 32. | Nino Farina 🇮🇹 | 1 | 16.67% |
+| 33. | Phil Hill 🇺🇸 | 1 | 12.50% |
 
 #### Table Summary
 

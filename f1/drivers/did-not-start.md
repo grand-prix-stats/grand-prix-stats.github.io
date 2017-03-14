@@ -293,128 +293,128 @@ new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Did Not Start |
-|--|--|--|
-| 1. | Gabriele Tarquini 🇮🇹 | 40 |
-| 2. | Bertrand Gachot 🇧🇪 | 37 |
-| 3. | Piercarlo Ghinzani 🇮🇹 | 35 |
-| 4. | Roberto Moreno 🇧🇷 | 32 |
-| 5. | Arturo Merzario 🇮🇹 | 27 |
-| 6. | Nicola Larini 🇮🇹 | 26 |
-| 7. | Yannick Dalmas 🇫🇷 | 26 |
-| 8. | Eric van de Poele 🇧🇪 | 24 |
-| 9. | Stefan Johansson 🇸🇪 | 24 |
-| 10. | Aguri Suzuki 🇯🇵 | 23 |
-| 11. | Bernd Schneider 🇩🇪 | 23 |
-| 12. | Michele Alboreto 🇮🇹 | 21 |
-| 13. | Olivier Grouillard 🇫🇷 | 21 |
-| 14. | Paul Belmondo 🇫🇷 | 19 |
-| 15. | Alex Caffi 🇮🇹 | 18 |
-| 16. | Jan Lammers 🇳🇱 | 18 |
-| 17. | Brian Henton 🇬🇧 | 17 |
-| 18. | Hector Rebaque 🇲🇽 | 17 |
-| 19. | Pierre-Henri Raphanel 🇫🇷 | 16 |
-| 20. | Derek Daly 🇮🇪 | 15 |
-| 21. | Gregor Foitek 🇨🇭 | 15 |
-| 22. | René Arnoux 🇫🇷 | 15 |
-| 23. | Beppe Gabbiani 🇮🇹 | 14 |
-| 24. | Claudio Langes 🇮🇹 | 14 |
-| 25. | Derek Warwick 🇬🇧 | 14 |
-| 26. | Keke Rosberg 🇫🇮 | 14 |
-| 27. | Bruno Giacomelli 🇮🇹 | 13 |
-| 28. | Chico Serra 🇧🇷 | 13 |
-| 29. | Eliseo Salazar 🇨🇱 | 13 |
-| 30. | Julian Bailey 🇬🇧 | 13 |
-| 31. | Oscar Larrauri 🇦🇷 | 13 |
-| 32. | Pedro Chaves 🇵🇹 | 13 |
-| 33. | Emilio de Villota 🇪🇸 | 12 |
-| 34. | Fabrizio Barbazza 🇮🇹 | 12 |
-| 35. | Rupert Keegan 🇬🇧 | 12 |
-| 36. | Christian Danner 🇩🇪 | 11 |
-| 37. | Eddie Cheever 🇺🇸 | 11 |
-| 38. | Stefano Modena 🇮🇹 | 11 |
-| 39. | Alex Ribeiro 🇧🇷 | 10 |
-| 40. | Harald Ertl 🇦🇹 | 10 |
-| 41. | Ian Burgess 🇬🇧 | 10 |
-| 42. | Volker Weidler 🇩🇪 | 10 |
-| 43. | Brett Lunger 🇺🇸 | 8 |
-| 44. | Jochen Mass 🇩🇪 | 8 |
-| 45. | Jyrki Järvilehto 🇫🇮 | 8 |
-| 46. | Andrea Chiesa 🇨🇭 | 7 |
-| 47. | Chris Amon 🇳🇿 | 7 |
-| 48. | Clay Regazzoni 🇨🇭 | 7 |
-| 49. | Dave Kennedy 🇮🇪 | 7 |
-| 50. | Geoff Lees 🇬🇧 | 7 |
-| 51. | Hans-Joachim Stuck 🇩🇪 | 7 |
-| 52. | Joachim Winkelhock 🇩🇪 | 7 |
-| 53. | Manfred Winkelhock 🇩🇪 | 7 |
-| 54. | Martin Brundle 🇬🇧 | 7 |
-| 55. | Masten Gregory 🇺🇸 | 7 |
-| 56. | Perry McCarthy 🇬🇧 | 7 |
-| 57. | Raul Boesel 🇧🇷 | 7 |
-| 58. | Roberto Guerrero 🇨🇴 | 7 |
-| 59. | Rolf Stommelen 🇩🇪 | 7 |
-| 60. | Teo Fabi 🇮🇹 | 7 |
-| 61. | André Pilette 🇧🇪 | 6 |
-| 62. | Andrea de Cesaris 🇮🇹 | 6 |
-| 63. | Corrado Fabi 🇮🇹 | 6 |
-| 64. | Damon Hill 🇬🇧 | 6 |
-| 65. | David Brabham 🇦🇺 | 6 |
-| 66. | Enrico Bertaggia 🇮🇹 | 6 |
-| 67. | Ian Ashley 🇬🇧 | 6 |
-| 68. | Jacky Ickx 🇧🇪 | 6 |
-| 69. | Jean-Pierre Jabouille 🇫🇷 | 6 |
-| 70. | Kenny Acheson 🇬🇧 | 6 |
-| 71. | Luis Pérez-Sala 🇪🇸 | 6 |
-| 72. | Marc Surer 🇨🇭 | 6 |
-| 73. | Paolo Barilla 🇮🇹 | 6 |
-| 74. | Philippe Alliot 🇫🇷 | 6 |
-| 75. | Satoru Nakajima 🇯🇵 | 6 |
-| 76. | Silvio Moser 🇨🇭 | 6 |
-| 77. | Tony Trimmer 🇬🇧 | 6 |
-| 78. | Andrea de Adamich 🇮🇹 | 5 |
-| 79. | Derek Bell 🇬🇧 | 5 |
-| 80. | Giancarlo Baghetti 🇮🇹 | 5 |
-| 81. | Guy Edwards 🇬🇧 | 5 |
-| 82. | Innes Ireland 🇬🇧 | 5 |
-| 83. | Jean-Pierre Jarier 🇫🇷 | 5 |
-| 84. | Johnny Cecotto 🇻🇪 | 5 |
-| 85. | Leo Kinnunen 🇫🇮 | 5 |
-| 86. | Maurício Gugelmin 🇧🇷 | 5 |
-| 87. | Mauro Baldi 🇮🇹 | 5 |
-| 88. | Mike Wilds 🇬🇧 | 5 |
-| 89. | Patrick Tambay 🇫🇷 | 5 |
-| 90. | Riccardo Paletti 🇮🇹 | 5 |
-| 91. | Slim Borgudd 🇸🇪 | 5 |
-| 92. | Tony Marsh 🇬🇧 | 5 |
-| 93. | Adrián Campos 🇪🇸 | 4 |
-| 94. | Boy Lunger 🇳🇱 | 4 |
-| 95. | Conny Andersson 🇸🇪 | 4 |
-| 96. | Emerson Fittipaldi 🇧🇷 | 4 |
-| 97. | Érik Comas 🇫🇷 | 4 |
-| 98. | Ian Raby 🇬🇧 | 4 |
-| 99. | Jo Bonnier 🇸🇪 | 4 |
-| 100. | Jo Siffert 🇨🇭 | 4 |
-| 101. | Jonathan Palmer 🇬🇧 | 4 |
-| 102. | Keith Greene 🇬🇧 | 4 |
-| 103. | Larry Perkins 🇦🇺 | 4 |
-| 104. | Lella Lombardi 🇮🇹 | 4 |
-| 105. | Luigi Piotti 🇮🇹 | 4 |
-| 106. | Michael Bartels 🇩🇪 | 4 |
-| 107. | Michael Bleekemolen 🇳🇱 | 4 |
-| 108. | Nasif Estéfano 🇦🇷 | 4 |
-| 109. | Nigel Mansell 🇬🇧 | 4 |
-| 110. | Pete Lovely 🇺🇸 | 4 |
-| 111. | Peter Arundell 🇬🇧 | 4 |
-| 112. | Phil Hill 🇺🇸 | 4 |
-| 113. | Pierluigi Martini 🇮🇹 | 4 |
-| 114. | Roy Salvadori 🇬🇧 | 4 |
-| 115. | Siegfried Stohr 🇮🇹 | 4 |
-| 116. | Tony Settember 🇺🇸 | 4 |
-| 117. | Vittorio Brambilla 🇮🇹 | 4 |
-| 118. | Alberto Colombo 🇮🇹 | 3 |
-| 119. | Alex Soler-Roig 🇪🇸 | 3 |
-| 120. | Carel Godin de Beaufort 🇳🇱 | 3 |
+| # | Driver | Did Not Start | % Of Total Participations |
+|--|--|--|--|
+| 1. | Gabriele Tarquini 🇮🇹 | 40 | 51.28% |
+| 2. | Bertrand Gachot 🇧🇪 | 37 | 44.05% |
+| 3. | Piercarlo Ghinzani 🇮🇹 | 35 | 31.53% |
+| 4. | Roberto Moreno 🇧🇷 | 32 | 43.24% |
+| 5. | Arturo Merzario 🇮🇹 | 27 | 32.14% |
+| 6. | Nicola Larini 🇮🇹 | 26 | 34.67% |
+| 7. | Yannick Dalmas 🇫🇷 | 26 | 52.00% |
+| 8. | Eric van de Poele 🇧🇪 | 24 | 82.76% |
+| 9. | Stefan Johansson 🇸🇪 | 24 | 23.30% |
+| 10. | Aguri Suzuki 🇯🇵 | 23 | 26.14% |
+| 11. | Bernd Schneider 🇩🇪 | 23 | 71.88% |
+| 12. | Michele Alboreto 🇮🇹 | 21 | 9.77% |
+| 13. | Olivier Grouillard 🇫🇷 | 21 | 33.87% |
+| 14. | Paul Belmondo 🇫🇷 | 19 | 70.37% |
+| 15. | Alex Caffi 🇮🇹 | 18 | 24.00% |
+| 16. | Jan Lammers 🇳🇱 | 18 | 43.90% |
+| 17. | Brian Henton 🇬🇧 | 17 | 45.95% |
+| 18. | Hector Rebaque 🇲🇽 | 17 | 29.31% |
+| 19. | Pierre-Henri Raphanel 🇫🇷 | 16 | 94.12% |
+| 20. | Derek Daly 🇮🇪 | 15 | 23.44% |
+| 21. | Gregor Foitek 🇨🇭 | 15 | 68.18% |
+| 22. | René Arnoux 🇫🇷 | 15 | 9.15% |
+| 23. | Beppe Gabbiani 🇮🇹 | 14 | 82.35% |
+| 24. | Claudio Langes 🇮🇹 | 14 | 100.00% |
+| 25. | Derek Warwick 🇬🇧 | 14 | 8.64% |
+| 26. | Keke Rosberg 🇫🇮 | 14 | 10.94% |
+| 27. | Bruno Giacomelli 🇮🇹 | 13 | 15.85% |
+| 28. | Chico Serra 🇧🇷 | 13 | 40.62% |
+| 29. | Eliseo Salazar 🇨🇱 | 13 | 35.14% |
+| 30. | Julian Bailey 🇬🇧 | 13 | 65.00% |
+| 31. | Oscar Larrauri 🇦🇷 | 13 | 61.90% |
+| 32. | Pedro Chaves 🇵🇹 | 13 | 100.00% |
+| 33. | Emilio de Villota 🇪🇸 | 12 | 85.71% |
+| 34. | Fabrizio Barbazza 🇮🇹 | 12 | 60.00% |
+| 35. | Rupert Keegan 🇬🇧 | 12 | 32.43% |
+| 36. | Christian Danner 🇩🇪 | 11 | 23.40% |
+| 37. | Eddie Cheever 🇺🇸 | 11 | 7.69% |
+| 38. | Stefano Modena 🇮🇹 | 11 | 13.58% |
+| 39. | Alex Ribeiro 🇧🇷 | 10 | 50.00% |
+| 40. | Harald Ertl 🇦🇹 | 10 | 34.48% |
+| 41. | Ian Burgess 🇬🇧 | 10 | 38.46% |
+| 42. | Volker Weidler 🇩🇪 | 10 | 100.00% |
+| 43. | Brett Lunger 🇺🇸 | 8 | 19.05% |
+| 44. | Jochen Mass 🇩🇪 | 8 | 7.02% |
+| 45. | Jyrki Järvilehto 🇫🇮 | 8 | 11.43% |
+| 46. | Andrea Chiesa 🇨🇭 | 7 | 70.00% |
+| 47. | Chris Amon 🇳🇿 | 7 | 6.60% |
+| 48. | Clay Regazzoni 🇨🇭 | 7 | 5.07% |
+| 49. | Dave Kennedy 🇮🇪 | 7 | 100.00% |
+| 50. | Geoff Lees 🇬🇧 | 7 | 58.33% |
+| 51. | Hans-Joachim Stuck 🇩🇪 | 7 | 8.64% |
+| 52. | Joachim Winkelhock 🇩🇪 | 7 | 100.00% |
+| 53. | Manfred Winkelhock 🇩🇪 | 7 | 12.73% |
+| 54. | Martin Brundle 🇬🇧 | 7 | 4.24% |
+| 55. | Masten Gregory 🇺🇸 | 7 | 15.56% |
+| 56. | Perry McCarthy 🇬🇧 | 7 | 100.00% |
+| 57. | Raul Boesel 🇧🇷 | 7 | 23.33% |
+| 58. | Roberto Guerrero 🇨🇴 | 7 | 24.14% |
+| 59. | Rolf Stommelen 🇩🇪 | 7 | 11.48% |
+| 60. | Teo Fabi 🇮🇹 | 7 | 10.00% |
+| 61. | André Pilette 🇧🇪 | 6 | 40.00% |
+| 62. | Andrea de Cesaris 🇮🇹 | 6 | 2.80% |
+| 63. | Corrado Fabi 🇮🇹 | 6 | 31.58% |
+| 64. | Damon Hill 🇬🇧 | 6 | 4.92% |
+| 65. | David Brabham 🇦🇺 | 6 | 20.00% |
+| 66. | Enrico Bertaggia 🇮🇹 | 6 | 100.00% |
+| 67. | Ian Ashley 🇬🇧 | 6 | 54.55% |
+| 68. | Jacky Ickx 🇧🇪 | 6 | 4.96% |
+| 69. | Jean-Pierre Jabouille 🇫🇷 | 6 | 10.91% |
+| 70. | Kenny Acheson 🇬🇧 | 6 | 66.67% |
+| 71. | Luis Pérez-Sala 🇪🇸 | 6 | 18.75% |
+| 72. | Marc Surer 🇨🇭 | 6 | 6.82% |
+| 73. | Paolo Barilla 🇮🇹 | 6 | 40.00% |
+| 74. | Philippe Alliot 🇫🇷 | 6 | 5.22% |
+| 75. | Satoru Nakajima 🇯🇵 | 6 | 7.50% |
+| 76. | Silvio Moser 🇨🇭 | 6 | 33.33% |
+| 77. | Tony Trimmer 🇬🇧 | 6 | 100.00% |
+| 78. | Andrea de Adamich 🇮🇹 | 5 | 14.29% |
+| 79. | Derek Bell 🇬🇧 | 5 | 35.71% |
+| 80. | Giancarlo Baghetti 🇮🇹 | 5 | 19.23% |
+| 81. | Guy Edwards 🇬🇧 | 5 | 31.25% |
+| 82. | Innes Ireland 🇬🇧 | 5 | 9.09% |
+| 83. | Jean-Pierre Jarier 🇫🇷 | 5 | 3.50% |
+| 84. | Johnny Cecotto 🇻🇪 | 5 | 21.74% |
+| 85. | Leo Kinnunen 🇫🇮 | 5 | 83.33% |
+| 86. | Maurício Gugelmin 🇧🇷 | 5 | 6.25% |
+| 87. | Mauro Baldi 🇮🇹 | 5 | 12.20% |
+| 88. | Mike Wilds 🇬🇧 | 5 | 62.50% |
+| 89. | Patrick Tambay 🇫🇷 | 5 | 4.10% |
+| 90. | Riccardo Paletti 🇮🇹 | 5 | 62.50% |
+| 91. | Slim Borgudd 🇸🇪 | 5 | 33.33% |
+| 92. | Tony Marsh 🇬🇧 | 5 | 55.56% |
+| 93. | Adrián Campos 🇪🇸 | 4 | 19.05% |
+| 94. | Boy Lunger 🇳🇱 | 4 | 57.14% |
+| 95. | Conny Andersson 🇸🇪 | 4 | 80.00% |
+| 96. | Emerson Fittipaldi 🇧🇷 | 4 | 2.68% |
+| 97. | Érik Comas 🇫🇷 | 4 | 6.35% |
+| 98. | Ian Raby 🇬🇧 | 4 | 57.14% |
+| 99. | Jo Bonnier 🇸🇪 | 4 | 3.67% |
+| 100. | Jo Siffert 🇨🇭 | 4 | 4.00% |
+| 101. | Jonathan Palmer 🇬🇧 | 4 | 4.55% |
+| 102. | Keith Greene 🇬🇧 | 4 | 57.14% |
+| 103. | Larry Perkins 🇦🇺 | 4 | 26.67% |
+| 104. | Lella Lombardi 🇮🇹 | 4 | 23.53% |
+| 105. | Luigi Piotti 🇮🇹 | 4 | 44.44% |
+| 106. | Michael Bartels 🇩🇪 | 4 | 100.00% |
+| 107. | Michael Bleekemolen 🇳🇱 | 4 | 80.00% |
+| 108. | Nasif Estéfano 🇦🇷 | 4 | 80.00% |
+| 109. | Nigel Mansell 🇬🇧 | 4 | 2.08% |
+| 110. | Pete Lovely 🇺🇸 | 4 | 36.36% |
+| 111. | Peter Arundell 🇬🇧 | 4 | 26.67% |
+| 112. | Phil Hill 🇺🇸 | 4 | 7.69% |
+| 113. | Pierluigi Martini 🇮🇹 | 4 | 3.25% |
+| 114. | Roy Salvadori 🇬🇧 | 4 | 7.84% |
+| 115. | Siegfried Stohr 🇮🇹 | 4 | 30.77% |
+| 116. | Tony Settember 🇺🇸 | 4 | 40.00% |
+| 117. | Vittorio Brambilla 🇮🇹 | 4 | 5.13% |
+| 118. | Alberto Colombo 🇮🇹 | 3 | 100.00% |
+| 119. | Alex Soler-Roig 🇪🇸 | 3 | 33.33% |
+| 120. | Carel Godin de Beaufort 🇳🇱 | 3 | 9.68% |
 
 #### Table Summary
 

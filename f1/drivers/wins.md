@@ -265,114 +265,114 @@ new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Wins |
-|--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 91 |
-| 2. | Lewis Hamilton 🇬🇧 | 53 |
-| 3. | Alain Prost 🇫🇷 | 51 |
-| 4. | Sebastian Vettel 🇩🇪 | 42 |
-| 5. | Ayrton Senna 🇧🇷 | 41 |
-| 6. | Fernando Alonso 🇪🇸 | 32 |
-| 7. | Nigel Mansell 🇬🇧 | 31 |
-| 8. | Jackie Stewart 🇬🇧 | 27 |
-| 9. | Jim Clark 🇬🇧 | 25 |
-| 10. | Niki Lauda 🇦🇹 | 25 |
-| 11. | Juan Fangio 🇦🇷 | 24 |
-| 12. | Nelson Piquet 🇧🇷 | 23 |
-| 13. | Nico Rosberg 🇩🇪 | 23 |
-| 14. | Damon Hill 🇬🇧 | 22 |
-| 15. | Kimi Räikkönen 🇫🇮 | 20 |
-| 16. | Mika Häkkinen 🇫🇮 | 20 |
-| 17. | Stirling Moss 🇬🇧 | 16 |
-| 18. | Jenson Button 🇬🇧 | 15 |
-| 19. | Emerson Fittipaldi 🇧🇷 | 14 |
-| 20. | Graham Hill 🇬🇧 | 14 |
-| 21. | Jack Brabham 🇦🇺 | 14 |
-| 22. | Alberto Ascari 🇮🇹 | 13 |
-| 23. | David Coulthard 🇬🇧 | 13 |
-| 24. | Alan Jones 🇦🇺 | 12 |
-| 25. | Carlos Reutemann 🇦🇷 | 12 |
-| 26. | Mario Andretti 🇺🇸 | 12 |
-| 27. | Felipe Massa 🇧🇷 | 11 |
-| 28. | Jacques Villeneuve 🇨🇦 | 11 |
-| 29. | Rubens Barrichello 🇧🇷 | 11 |
-| 30. | Gerhard Berger 🇦🇹 | 10 |
-| 31. | James Hunt 🇬🇧 | 10 |
-| 32. | Jody Scheckter 🇿🇦 | 10 |
-| 33. | Ronnie Peterson 🇸🇪 | 10 |
-| 34. | Mark Webber 🇦🇺 | 9 |
-| 35. | Denny Hulme 🇳🇿 | 8 |
-| 36. | Jacky Ickx 🇧🇪 | 8 |
-| 37. | Juan Pablo Montoya 🇨🇴 | 7 |
-| 38. | René Arnoux 🇫🇷 | 7 |
-| 39. | Gilles Villeneuve 🇨🇦 | 6 |
-| 40. | Jacques Laffite 🇫🇷 | 6 |
-| 41. | Jochen Rindt 🇦🇹 | 6 |
-| 42. | John Surtees 🇬🇧 | 6 |
-| 43. | Ralf Schumacher 🇩🇪 | 6 |
-| 44. | Riccardo Patrese 🇮🇹 | 6 |
-| 45. | Tony Brooks 🇬🇧 | 6 |
-| 46. | Clay Regazzoni 🇨🇭 | 5 |
-| 47. | John Watson 🇬🇧 | 5 |
-| 48. | Keke Rosberg 🇫🇮 | 5 |
-| 49. | Michele Alboreto 🇮🇹 | 5 |
-| 50. | Nino Farina 🇮🇹 | 5 |
-| 51. | Bruce McLaren 🇳🇿 | 4 |
-| 52. | Dan Gurney 🇺🇸 | 4 |
-| 53. | Daniel Ricciardo 🇦🇺 | 4 |
-| 54. | Eddie Irvine 🇬🇧 | 4 |
-| 55. | Didier Pironi 🇫🇷 | 3 |
-| 56. | Giancarlo Fisichella 🇮🇹 | 3 |
-| 57. | Heinz-Harald Frentzen 🇩🇪 | 3 |
-| 58. | Johnny Herbert 🇬🇧 | 3 |
-| 59. | Mike Hawthorn 🇬🇧 | 3 |
-| 60. | Peter Collins 🇬🇧 | 3 |
-| 61. | Phil Hill 🇺🇸 | 3 |
-| 62. | Thierry Boutsen 🇧🇪 | 3 |
-| 63. | Bill Vukovich 🇺🇸 | 2 |
-| 64. | Elio de Angelis 🇮🇹 | 2 |
-| 65. | Jean-Pierre Jabouille 🇫🇷 | 2 |
-| 66. | Jo Siffert 🇨🇭 | 2 |
-| 67. | José Froilán González 🇦🇷 | 2 |
-| 68. | Maurice Trintignant 🇫🇷 | 2 |
-| 69. | Patrick Depailler 🇫🇷 | 2 |
-| 70. | Patrick Tambay 🇫🇷 | 2 |
-| 71. | Pedro Rodríguez 🇲🇽 | 2 |
-| 72. | Peter Revson 🇺🇸 | 2 |
-| 73. | Wolfgang von Trips 🇩🇪 | 2 |
-| 74. | Alessandro Nannini 🇮🇹 | 1 |
-| 75. | Bob Sweikert 🇺🇸 | 1 |
-| 76. | Carlos Pace 🇧🇷 | 1 |
-| 77. | François Cevert 🇫🇷 | 1 |
-| 78. | Giancarlo Baghetti 🇮🇹 | 1 |
-| 79. | Gunnar Nilsson 🇸🇪 | 1 |
-| 80. | Heikki Kovalainen 🇫🇮 | 1 |
-| 81. | Innes Ireland 🇬🇧 | 1 |
-| 82. | Jarno Trulli 🇮🇹 | 1 |
-| 83. | Jean Alesi 🇫🇷 | 1 |
-| 84. | Jean-Pierre Beltoise 🇫🇷 | 1 |
-| 85. | Jim Rathmann 🇺🇸 | 1 |
-| 86. | Jimmy Bryan 🇺🇸 | 1 |
-| 87. | Jo Bonnier 🇸🇪 | 1 |
-| 88. | Jochen Mass 🇩🇪 | 1 |
-| 89. | Johnnie Parsons 🇺🇸 | 1 |
-| 90. | Lee Wallard 🇺🇸 | 1 |
-| 91. | Lorenzo Bandini 🇮🇹 | 1 |
-| 92. | Ludovico Scarfiotti 🇮🇹 | 1 |
-| 93. | Luigi Fagioli 🇮🇹 | 1 |
-| 94. | Luigi Musso 🇮🇹 | 1 |
-| 95. | Max Verstappen 🇳🇱 | 1 |
-| 96. | Olivier Panis 🇫🇷 | 1 |
-| 97. | Pastor Maldonado 🇻🇪 | 1 |
-| 98. | Pat Flaherty 🇺🇸 | 1 |
-| 99. | Peter Gethin 🇬🇧 | 1 |
-| 100. | Piero Taruffi 🇮🇹 | 1 |
-| 101. | Richie Ginther 🇺🇸 | 1 |
-| 102. | Robert Kubica 🇵🇱 | 1 |
-| 103. | Rodger Ward 🇺🇸 | 1 |
-| 104. | Sam Hanks 🇺🇸 | 1 |
-| 105. | Troy Ruttman 🇺🇸 | 1 |
-| 106. | Vittorio Brambilla 🇮🇹 | 1 |
+| # | Driver | Wins | % Of Total Participations |
+|--|--|--|--|
+| 1. | Michael Schumacher 🇩🇪 | 91 | 29.55% |
+| 2. | Lewis Hamilton 🇬🇧 | 53 | 28.19% |
+| 3. | Alain Prost 🇫🇷 | 51 | 25.25% |
+| 4. | Sebastian Vettel 🇩🇪 | 42 | 23.46% |
+| 5. | Ayrton Senna 🇧🇷 | 41 | 25.31% |
+| 6. | Fernando Alonso 🇪🇸 | 32 | 11.68% |
+| 7. | Nigel Mansell 🇬🇧 | 31 | 16.15% |
+| 8. | Jackie Stewart 🇬🇧 | 27 | 27.00% |
+| 9. | Jim Clark 🇬🇧 | 25 | 34.72% |
+| 10. | Niki Lauda 🇦🇹 | 25 | 14.37% |
+| 11. | Juan Fangio 🇦🇷 | 24 | 41.38% |
+| 12. | Nelson Piquet 🇧🇷 | 23 | 11.11% |
+| 13. | Nico Rosberg 🇩🇪 | 23 | 11.17% |
+| 14. | Damon Hill 🇬🇧 | 22 | 18.03% |
+| 15. | Kimi Räikkönen 🇫🇮 | 20 | 7.91% |
+| 16. | Mika Häkkinen 🇫🇮 | 20 | 12.12% |
+| 17. | Stirling Moss 🇬🇧 | 16 | 21.92% |
+| 18. | Jenson Button 🇬🇧 | 15 | 4.87% |
+| 19. | Emerson Fittipaldi 🇧🇷 | 14 | 9.40% |
+| 20. | Graham Hill 🇬🇧 | 14 | 7.82% |
+| 21. | Jack Brabham 🇦🇺 | 14 | 10.85% |
+| 22. | Alberto Ascari 🇮🇹 | 13 | 36.11% |
+| 23. | David Coulthard 🇬🇧 | 13 | 5.26% |
+| 24. | Alan Jones 🇦🇺 | 12 | 10.26% |
+| 25. | Carlos Reutemann 🇦🇷 | 12 | 8.22% |
+| 26. | Mario Andretti 🇺🇸 | 12 | 9.30% |
+| 27. | Felipe Massa 🇧🇷 | 11 | 4.37% |
+| 28. | Jacques Villeneuve 🇨🇦 | 11 | 6.67% |
+| 29. | Rubens Barrichello 🇧🇷 | 11 | 3.37% |
+| 30. | Gerhard Berger 🇦🇹 | 10 | 4.76% |
+| 31. | James Hunt 🇬🇧 | 10 | 10.75% |
+| 32. | Jody Scheckter 🇿🇦 | 10 | 8.85% |
+| 33. | Ronnie Peterson 🇸🇪 | 10 | 8.13% |
+| 34. | Mark Webber 🇦🇺 | 9 | 4.15% |
+| 35. | Denny Hulme 🇳🇿 | 8 | 7.14% |
+| 36. | Jacky Ickx 🇧🇪 | 8 | 6.61% |
+| 37. | Juan Pablo Montoya 🇨🇴 | 7 | 7.37% |
+| 38. | René Arnoux 🇫🇷 | 7 | 4.27% |
+| 39. | Gilles Villeneuve 🇨🇦 | 6 | 8.82% |
+| 40. | Jacques Laffite 🇫🇷 | 6 | 3.33% |
+| 41. | Jochen Rindt 🇦🇹 | 6 | 9.68% |
+| 42. | John Surtees 🇬🇧 | 6 | 5.36% |
+| 43. | Ralf Schumacher 🇩🇪 | 6 | 3.33% |
+| 44. | Riccardo Patrese 🇮🇹 | 6 | 2.33% |
+| 45. | Tony Brooks 🇬🇧 | 6 | 14.63% |
+| 46. | Clay Regazzoni 🇨🇭 | 5 | 3.62% |
+| 47. | John Watson 🇬🇧 | 5 | 3.25% |
+| 48. | Keke Rosberg 🇫🇮 | 5 | 3.91% |
+| 49. | Michele Alboreto 🇮🇹 | 5 | 2.33% |
+| 50. | Nino Farina 🇮🇹 | 5 | 13.51% |
+| 51. | Bruce McLaren 🇳🇿 | 4 | 3.88% |
+| 52. | Dan Gurney 🇺🇸 | 4 | 4.60% |
+| 53. | Daniel Ricciardo 🇦🇺 | 4 | 3.67% |
+| 54. | Eddie Irvine 🇬🇧 | 4 | 2.72% |
+| 55. | Didier Pironi 🇫🇷 | 3 | 4.17% |
+| 56. | Giancarlo Fisichella 🇮🇹 | 3 | 1.30% |
+| 57. | Heinz-Harald Frentzen 🇩🇪 | 3 | 1.89% |
+| 58. | Johnny Herbert 🇬🇧 | 3 | 1.82% |
+| 59. | Mike Hawthorn 🇬🇧 | 3 | 6.25% |
+| 60. | Peter Collins 🇬🇧 | 3 | 8.11% |
+| 61. | Phil Hill 🇺🇸 | 3 | 5.77% |
+| 62. | Thierry Boutsen 🇧🇪 | 3 | 1.83% |
+| 63. | Bill Vukovich 🇺🇸 | 2 | 40.00% |
+| 64. | Elio de Angelis 🇮🇹 | 2 | 1.82% |
+| 65. | Jean-Pierre Jabouille 🇫🇷 | 2 | 3.64% |
+| 66. | Jo Siffert 🇨🇭 | 2 | 2.00% |
+| 67. | José Froilán González 🇦🇷 | 2 | 6.90% |
+| 68. | Maurice Trintignant 🇫🇷 | 2 | 2.30% |
+| 69. | Patrick Depailler 🇫🇷 | 2 | 2.11% |
+| 70. | Patrick Tambay 🇫🇷 | 2 | 1.64% |
+| 71. | Pedro Rodríguez 🇲🇽 | 2 | 3.70% |
+| 72. | Peter Revson 🇺🇸 | 2 | 6.45% |
+| 73. | Wolfgang von Trips 🇩🇪 | 2 | 7.14% |
+| 74. | Alessandro Nannini 🇮🇹 | 1 | 1.30% |
+| 75. | Bob Sweikert 🇺🇸 | 1 | 20.00% |
+| 76. | Carlos Pace 🇧🇷 | 1 | 1.37% |
+| 77. | François Cevert 🇫🇷 | 1 | 2.13% |
+| 78. | Giancarlo Baghetti 🇮🇹 | 1 | 3.85% |
+| 79. | Gunnar Nilsson 🇸🇪 | 1 | 3.12% |
+| 80. | Heikki Kovalainen 🇫🇮 | 1 | 0.89% |
+| 81. | Innes Ireland 🇬🇧 | 1 | 1.82% |
+| 82. | Jarno Trulli 🇮🇹 | 1 | 0.39% |
+| 83. | Jean Alesi 🇫🇷 | 1 | 0.50% |
+| 84. | Jean-Pierre Beltoise 🇫🇷 | 1 | 1.15% |
+| 85. | Jim Rathmann 🇺🇸 | 1 | 8.33% |
+| 86. | Jimmy Bryan 🇺🇸 | 1 | 11.11% |
+| 87. | Jo Bonnier 🇸🇪 | 1 | 0.92% |
+| 88. | Jochen Mass 🇩🇪 | 1 | 0.88% |
+| 89. | Johnnie Parsons 🇺🇸 | 1 | 10.00% |
+| 90. | Lee Wallard 🇺🇸 | 1 | 50.00% |
+| 91. | Lorenzo Bandini 🇮🇹 | 1 | 2.27% |
+| 92. | Ludovico Scarfiotti 🇮🇹 | 1 | 7.69% |
+| 93. | Luigi Fagioli 🇮🇹 | 1 | 12.50% |
+| 94. | Luigi Musso 🇮🇹 | 1 | 3.85% |
+| 95. | Max Verstappen 🇳🇱 | 1 | 2.50% |
+| 96. | Olivier Panis 🇫🇷 | 1 | 0.63% |
+| 97. | Pastor Maldonado 🇻🇪 | 1 | 1.04% |
+| 98. | Pat Flaherty 🇺🇸 | 1 | 16.67% |
+| 99. | Peter Gethin 🇬🇧 | 1 | 3.33% |
+| 100. | Piero Taruffi 🇮🇹 | 1 | 5.56% |
+| 101. | Richie Ginther 🇺🇸 | 1 | 1.85% |
+| 102. | Robert Kubica 🇵🇱 | 1 | 1.32% |
+| 103. | Rodger Ward 🇺🇸 | 1 | 8.33% |
+| 104. | Sam Hanks 🇺🇸 | 1 | 11.11% |
+| 105. | Troy Ruttman 🇺🇸 | 1 | 11.11% |
+| 106. | Vittorio Brambilla 🇮🇹 | 1 | 1.28% |
 
 #### Table Summary
 
