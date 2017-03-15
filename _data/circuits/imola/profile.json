@@ -2,6 +2,17 @@
     "circuitId": 21,
     "circuitRef": "imola",
     "country": "Italy",
+    "country_code": "it",
+    "country_flag": "🇮🇹",
+    "lat": 44.3438987731934,
+    "lng": 11.7166996002197,
     "location": "Imola",
-    "name": "Autodromo Enzo e Dino Ferrari"
+    "name": "Autodromo Enzo e Dino Ferrari",
+    "podium_constructors": 13,
+    "podium_drivers": 33,
+    "races": 27,
+    "total_constructors": 52,
+    "total_drivers": 171,
+    "winning_constructors": 7,
+    "winning_drivers": 14
 }

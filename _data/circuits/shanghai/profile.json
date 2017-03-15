@@ -2,6 +2,17 @@
     "circuitId": 17,
     "circuitRef": "shanghai",
     "country": "China",
+    "country_code": "cn",
+    "country_flag": "🇨🇳",
+    "lat": 31.3388996124268,
+    "lng": 121.220001220703,
     "location": "Shanghai",
-    "name": "Shanghai International Circuit"
+    "name": "Shanghai International Circuit",
+    "podium_constructors": 9,
+    "podium_drivers": 13,
+    "races": 14,
+    "total_constructors": 28,
+    "total_drivers": 73,
+    "winning_constructors": 5,
+    "winning_drivers": 8
 }

@@ -2,6 +2,17 @@
     "circuitId": 15,
     "circuitRef": "marina_bay",
     "country": "Singapore",
+    "country_code": "sg",
+    "country_flag": "🇸🇬",
+    "lat": 1.29139995574951,
+    "lng": 103.863998413086,
     "location": "Marina Bay",
-    "name": "Marina Bay Street Circuit"
+    "name": "Marina Bay Street Circuit",
+    "podium_constructors": 8,
+    "podium_drivers": 9,
+    "races": 10,
+    "total_constructors": 21,
+    "total_drivers": 56,
+    "winning_constructors": 5,
+    "winning_drivers": 4
 }

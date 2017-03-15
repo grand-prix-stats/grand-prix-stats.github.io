@@ -2,6 +2,17 @@
     "circuitId": 24,
     "circuitRef": "yas_marina",
     "country": "UAE",
+    "country_code": "ae",
+    "country_flag": "🇦🇪",
+    "lat": 24.4671993255615,
+    "lng": 54.603099822998,
     "location": "Abu Dhabi",
-    "name": "Yas Marina Circuit"
+    "name": "Yas Marina Circuit",
+    "podium_constructors": 7,
+    "podium_drivers": 9,
+    "races": 9,
+    "total_constructors": 20,
+    "total_drivers": 53,
+    "winning_constructors": 4,
+    "winning_drivers": 4
 }

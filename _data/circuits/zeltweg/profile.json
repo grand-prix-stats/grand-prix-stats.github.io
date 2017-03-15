@@ -2,6 +2,17 @@
     "circuitId": 57,
     "circuitRef": "zeltweg",
     "country": "Austria",
+    "country_code": "at",
+    "country_flag": "🇦🇹",
+    "lat": 47.2038993835449,
+    "lng": 14.7477998733521,
     "location": "Styria",
-    "name": "Zeltweg"
+    "name": "Zeltweg",
+    "podium_constructors": 3,
+    "podium_drivers": 3,
+    "races": 1,
+    "total_constructors": 8,
+    "total_drivers": 20,
+    "winning_constructors": 1,
+    "winning_drivers": 1
 }

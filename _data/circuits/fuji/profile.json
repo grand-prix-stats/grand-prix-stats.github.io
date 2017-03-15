@@ -2,6 +2,17 @@
     "circuitId": 16,
     "circuitRef": "fuji",
     "country": "Japan",
+    "country_code": "jp",
+    "country_flag": "🇯🇵",
+    "lat": 35.3717002868652,
+    "lng": 138.927001953125,
     "location": "Oyama",
-    "name": "Fuji Speedway"
+    "name": "Fuji Speedway",
+    "podium_constructors": 6,
+    "podium_drivers": 9,
+    "races": 4,
+    "total_constructors": 27,
+    "total_drivers": 58,
+    "winning_constructors": 3,
+    "winning_drivers": 4
 }

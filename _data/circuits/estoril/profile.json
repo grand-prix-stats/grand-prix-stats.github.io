@@ -2,6 +2,17 @@
     "circuitId": 27,
     "circuitRef": "estoril",
     "country": "Portugal",
+    "country_code": "pt",
+    "country_flag": "🇵🇹",
+    "lat": 38.7505989074707,
+    "lng": -9.39416980743408,
     "location": "Estoril",
-    "name": "Autódromo do Estoril"
+    "name": "Autódromo do Estoril",
+    "podium_constructors": 9,
+    "podium_drivers": 18,
+    "races": 13,
+    "total_constructors": 37,
+    "total_drivers": 101,
+    "winning_constructors": 5,
+    "winning_drivers": 9
 }

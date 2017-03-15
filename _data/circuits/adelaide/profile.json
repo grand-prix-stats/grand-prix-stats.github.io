@@ -2,6 +2,17 @@
     "circuitId": 29,
     "circuitRef": "adelaide",
     "country": "Australia",
+    "country_code": "au",
+    "country_flag": "🇦🇺",
+    "lat": -34.9272003173828,
+    "lng": 138.617004394531,
     "location": "Adelaide",
-    "name": "Adelaide Street Circuit"
+    "name": "Adelaide Street Circuit",
+    "podium_constructors": 7,
+    "podium_drivers": 18,
+    "races": 11,
+    "total_constructors": 33,
+    "total_drivers": 89,
+    "winning_constructors": 4,
+    "winning_drivers": 8
 }

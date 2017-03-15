@@ -2,6 +2,17 @@
     "circuitId": 12,
     "circuitRef": "valencia",
     "country": "Spain",
+    "country_code": "es",
+    "country_flag": "🇪🇸",
+    "lat": 39.4589004516602,
+    "lng": -0.331667006015778,
     "location": "Valencia",
-    "name": "Valencia Street Circuit"
+    "name": "Valencia Street Circuit",
+    "podium_constructors": 7,
+    "podium_drivers": 10,
+    "races": 5,
+    "total_constructors": 19,
+    "total_drivers": 41,
+    "winning_constructors": 3,
+    "winning_drivers": 4
 }

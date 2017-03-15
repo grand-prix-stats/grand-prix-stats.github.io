@@ -2,6 +2,17 @@
     "circuitId": 22,
     "circuitRef": "suzuka",
     "country": "Japan",
+    "country_code": "jp",
+    "country_flag": "🇯🇵",
+    "lat": 34.8431015014648,
+    "lng": 136.541000366211,
     "location": "Suzuka",
-    "name": "Suzuka Circuit"
+    "name": "Suzuka Circuit",
+    "podium_constructors": 13,
+    "podium_drivers": 35,
+    "races": 29,
+    "total_constructors": 53,
+    "total_drivers": 161,
+    "winning_constructors": 7,
+    "winning_drivers": 15
 }

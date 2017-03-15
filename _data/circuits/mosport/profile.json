@@ -2,6 +2,17 @@
     "circuitId": 48,
     "circuitRef": "mosport",
     "country": "Canada",
+    "country_code": "ca",
+    "country_flag": "🇨🇦",
+    "lat": 44.0480995178223,
+    "lng": -78.6755981445312,
     "location": "Ontario",
-    "name": "Mosport International Raceway"
+    "name": "Mosport International Raceway",
+    "podium_constructors": 11,
+    "podium_drivers": 17,
+    "races": 8,
+    "total_constructors": 34,
+    "total_drivers": 90,
+    "winning_constructors": 5,
+    "winning_drivers": 7
 }

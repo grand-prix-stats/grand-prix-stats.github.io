@@ -2,6 +2,17 @@
     "circuitId": 9,
     "circuitRef": "silverstone",
     "country": "UK",
+    "country_code": "gb",
+    "country_flag": "🇬🇧",
+    "lat": 52.0786018371582,
+    "lng": -1.01693999767303,
     "location": "Silverstone",
-    "name": "Silverstone Circuit"
+    "name": "Silverstone Circuit",
+    "podium_constructors": 26,
+    "podium_drivers": 71,
+    "races": 51,
+    "total_constructors": 120,
+    "total_drivers": 404,
+    "winning_constructors": 13,
+    "winning_drivers": 30
 }

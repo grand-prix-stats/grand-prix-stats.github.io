@@ -2,6 +2,17 @@
     "circuitId": 35,
     "circuitRef": "yeongam",
     "country": "Korea",
+    "country_code": "kr",
+    "country_flag": "🇰🇷",
+    "lat": 34.7332992553711,
+    "lng": 126.416999816895,
     "location": "Yeongam County",
-    "name": "Korean International Circuit"
+    "name": "Korean International Circuit",
+    "podium_constructors": 4,
+    "podium_drivers": 7,
+    "races": 4,
+    "total_constructors": 15,
+    "total_drivers": 40,
+    "winning_constructors": 2,
+    "winning_drivers": 2
 }

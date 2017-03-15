@@ -2,6 +2,17 @@
     "circuitId": 71,
     "circuitRef": "sochi",
     "country": "Russia",
+    "country_code": "ru",
+    "country_flag": "🇷🇺",
+    "lat": 43.4057006835938,
+    "lng": 39.9578018188477,
     "location": "Sochi",
-    "name": "Sochi International Street Circuit"
+    "name": "Sochi International Street Circuit",
+    "podium_constructors": 4,
+    "podium_drivers": 6,
+    "races": 4,
+    "total_constructors": 14,
+    "total_drivers": 29,
+    "winning_constructors": 1,
+    "winning_drivers": 2
 }

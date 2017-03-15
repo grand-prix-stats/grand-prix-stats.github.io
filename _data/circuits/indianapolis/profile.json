@@ -2,6 +2,17 @@
     "circuitId": 19,
     "circuitRef": "indianapolis",
     "country": "USA",
+    "country_code": "us",
+    "country_flag": "🇺🇸",
+    "lat": 39.7949981689453,
+    "lng": -86.2347030639648,
     "location": "Indianapolis",
-    "name": "Indianapolis Motor Speedway"
+    "name": "Indianapolis Motor Speedway",
+    "podium_constructors": 13,
+    "podium_drivers": 37,
+    "races": 19,
+    "total_constructors": 53,
+    "total_drivers": 161,
+    "winning_constructors": 6,
+    "winning_drivers": 14
 }

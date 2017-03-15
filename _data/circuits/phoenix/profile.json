@@ -2,6 +2,17 @@
     "circuitId": 33,
     "circuitRef": "phoenix",
     "country": "USA",
+    "country_code": "us",
+    "country_flag": "🇺🇸",
+    "lat": 33.4478988647461,
+    "lng": -112.074996948242,
     "location": "Phoenix",
-    "name": "Phoenix street circuit"
+    "name": "Phoenix street circuit",
+    "podium_constructors": 6,
+    "podium_drivers": 7,
+    "races": 3,
+    "total_constructors": 26,
+    "total_drivers": 54,
+    "winning_constructors": 1,
+    "winning_drivers": 2
 }

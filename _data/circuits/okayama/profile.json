@@ -2,6 +2,17 @@
     "circuitId": 28,
     "circuitRef": "okayama",
     "country": "Japan",
+    "country_code": "jp",
+    "country_flag": "🇯🇵",
+    "lat": 34.9150009155273,
+    "lng": 134.220993041992,
     "location": "Okayama",
-    "name": "Okayama International Circuit"
+    "name": "Okayama International Circuit",
+    "podium_constructors": 4,
+    "podium_drivers": 5,
+    "races": 2,
+    "total_constructors": 15,
+    "total_drivers": 39,
+    "winning_constructors": 1,
+    "winning_drivers": 1
 }

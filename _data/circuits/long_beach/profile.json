@@ -2,6 +2,17 @@
     "circuitId": 43,
     "circuitRef": "long_beach",
     "country": "USA",
+    "country_code": "us",
+    "country_flag": "🇺🇸",
+    "lat": 33.7650985717773,
+    "lng": -118.189002990723,
     "location": "California",
-    "name": "Long Beach"
+    "name": "Long Beach",
+    "podium_constructors": 9,
+    "podium_drivers": 14,
+    "races": 8,
+    "total_constructors": 26,
+    "total_drivers": 76,
+    "winning_constructors": 5,
+    "winning_drivers": 8
 }

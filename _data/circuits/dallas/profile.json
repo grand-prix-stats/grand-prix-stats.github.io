@@ -2,6 +2,17 @@
     "circuitId": 42,
     "circuitRef": "dallas",
     "country": "USA",
+    "country_code": "us",
+    "country_flag": "🇺🇸",
+    "lat": 32.777400970459,
+    "lng": -96.7586975097656,
     "location": "Dallas",
-    "name": "Fair Park"
+    "name": "Fair Park",
+    "podium_constructors": 3,
+    "podium_drivers": 3,
+    "races": 1,
+    "total_constructors": 15,
+    "total_drivers": 26,
+    "winning_constructors": 1,
+    "winning_drivers": 1
 }

@@ -2,6 +2,17 @@
     "circuitId": 10,
     "circuitRef": "hockenheimring",
     "country": "Germany",
+    "country_code": "de",
+    "country_flag": "🇩🇪",
+    "lat": 49.3278007507324,
+    "lng": 8.56583023071289,
     "location": "Hockenheim",
-    "name": "Hockenheimring"
+    "name": "Hockenheimring",
+    "podium_constructors": 16,
+    "podium_drivers": 51,
+    "races": 35,
+    "total_constructors": 76,
+    "total_drivers": 250,
+    "winning_constructors": 9,
+    "winning_drivers": 22
 }

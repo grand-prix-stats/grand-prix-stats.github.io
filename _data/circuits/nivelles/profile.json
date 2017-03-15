@@ -2,6 +2,17 @@
     "circuitId": 50,
     "circuitRef": "nivelles",
     "country": "Belgium",
+    "country_code": "be",
+    "country_flag": "🇧🇪",
+    "lat": 50.6211013793945,
+    "lng": 4.32694005966187,
     "location": "Brussels",
-    "name": "Nivelles-Baulers"
+    "name": "Nivelles-Baulers",
+    "podium_constructors": 4,
+    "podium_drivers": 5,
+    "races": 2,
+    "total_constructors": 17,
+    "total_drivers": 44,
+    "winning_constructors": 2,
+    "winning_drivers": 1
 }

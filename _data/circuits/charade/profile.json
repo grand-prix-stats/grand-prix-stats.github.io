@@ -2,6 +2,17 @@
     "circuitId": 51,
     "circuitRef": "charade",
     "country": "France",
+    "country_code": "fr",
+    "country_flag": "🇫🇷",
+    "lat": 45.747200012207,
+    "lng": 3.03888988494873,
     "location": "Clermont-Ferrand",
-    "name": "Charade Circuit"
+    "name": "Charade Circuit",
+    "podium_constructors": 10,
+    "podium_drivers": 9,
+    "races": 4,
+    "total_constructors": 21,
+    "total_drivers": 50,
+    "winning_constructors": 4,
+    "winning_drivers": 3
 }

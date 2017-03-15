@@ -2,6 +2,17 @@
     "circuitId": 73,
     "circuitRef": "BAK",
     "country": "Azerbaijan",
+    "country_code": "az",
+    "country_flag": "🇦🇿",
+    "lat": 40.372501373291,
+    "lng": 49.8532981872559,
     "location": "Baku",
-    "name": "Baku City Circuit"
+    "name": "Baku City Circuit",
+    "podium_constructors": 3,
+    "podium_drivers": 3,
+    "races": 2,
+    "total_constructors": 11,
+    "total_drivers": 22,
+    "winning_constructors": 1,
+    "winning_drivers": 1
 }

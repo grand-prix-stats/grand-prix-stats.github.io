@@ -2,6 +2,17 @@
     "circuitId": 55,
     "circuitRef": "reims",
     "country": "France",
+    "country_code": "fr",
+    "country_flag": "🇫🇷",
+    "lat": 49.2541999816895,
+    "lng": 3.93083000183105,
     "location": "Reims",
-    "name": "Reims-Gueux"
+    "name": "Reims-Gueux",
+    "podium_constructors": 10,
+    "podium_drivers": 26,
+    "races": 11,
+    "total_constructors": 35,
+    "total_drivers": 112,
+    "winning_constructors": 6,
+    "winning_drivers": 8
 }

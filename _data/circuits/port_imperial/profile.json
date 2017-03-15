@@ -2,6 +2,17 @@
     "circuitId": 72,
     "circuitRef": "port_imperial",
     "country": "USA",
+    "country_code": "us",
+    "country_flag": "🇺🇸",
+    "lat": 40.7769012451172,
+    "lng": -74.011100769043,
     "location": "New Jersey",
-    "name": "Port Imperial Street Circuit"
+    "name": "Port Imperial Street Circuit",
+    "podium_constructors": 0,
+    "podium_drivers": 0,
+    "races": 0,
+    "total_constructors": 0,
+    "total_drivers": 0,
+    "winning_constructors": 0,
+    "winning_drivers": 0
 }

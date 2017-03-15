@@ -2,6 +2,17 @@
     "circuitId": 34,
     "circuitRef": "ricard",
     "country": "France",
+    "country_code": "fr",
+    "country_flag": "🇫🇷",
+    "lat": 43.2505989074707,
+    "lng": 5.79166984558105,
     "location": "Le Castellet",
-    "name": "Circuit Paul Ricard"
+    "name": "Circuit Paul Ricard",
+    "podium_constructors": 12,
+    "podium_drivers": 24,
+    "races": 14,
+    "total_constructors": 49,
+    "total_drivers": 141,
+    "winning_constructors": 7,
+    "winning_drivers": 10
 }

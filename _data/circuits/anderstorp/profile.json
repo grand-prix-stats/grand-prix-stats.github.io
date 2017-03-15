@@ -2,6 +2,17 @@
     "circuitId": 47,
     "circuitRef": "anderstorp",
     "country": "Sweden",
+    "country_code": "se",
+    "country_flag": "🇸🇪",
+    "lat": 57.2653007507324,
+    "lng": 13.6042003631592,
     "location": "Anderstorp",
-    "name": "Scandinavian Raceway"
+    "name": "Scandinavian Raceway",
+    "podium_constructors": 8,
+    "podium_drivers": 12,
+    "races": 6,
+    "total_constructors": 29,
+    "total_drivers": 72,
+    "winning_constructors": 5,
+    "winning_drivers": 4
 }

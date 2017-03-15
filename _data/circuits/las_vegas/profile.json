@@ -2,6 +2,17 @@
     "circuitId": 44,
     "circuitRef": "las_vegas",
     "country": "USA",
+    "country_code": "us",
+    "country_flag": "🇺🇸",
+    "lat": 36.1161994934082,
+    "lng": -115.174003601074,
     "location": "Nevada",
-    "name": "Las Vegas Street Circuit"
+    "name": "Las Vegas Street Circuit",
+    "podium_constructors": 6,
+    "podium_drivers": 6,
+    "races": 2,
+    "total_constructors": 17,
+    "total_drivers": 38,
+    "winning_constructors": 2,
+    "winning_drivers": 2
 }

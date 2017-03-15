@@ -2,6 +2,17 @@
     "circuitId": 58,
     "circuitRef": "aintree",
     "country": "UK",
+    "country_code": "gb",
+    "country_flag": "🇬🇧",
+    "lat": 53.4768981933594,
+    "lng": -2.94056010246277,
     "location": "Liverpool",
-    "name": "Aintree"
+    "name": "Aintree",
+    "podium_constructors": 7,
+    "podium_drivers": 13,
+    "races": 5,
+    "total_constructors": 22,
+    "total_drivers": 77,
+    "winning_constructors": 5,
+    "winning_drivers": 5
 }

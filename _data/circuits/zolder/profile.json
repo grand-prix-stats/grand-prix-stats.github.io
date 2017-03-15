@@ -2,6 +2,17 @@
     "circuitId": 40,
     "circuitRef": "zolder",
     "country": "Belgium",
+    "country_code": "be",
+    "country_flag": "🇧🇪",
+    "lat": 50.9893989562988,
+    "lng": 5.25693988800049,
     "location": "Heusden-Zolder",
-    "name": "Zolder"
+    "name": "Zolder",
+    "podium_constructors": 8,
+    "podium_drivers": 20,
+    "races": 10,
+    "total_constructors": 36,
+    "total_drivers": 104,
+    "winning_constructors": 6,
+    "winning_drivers": 9
 }

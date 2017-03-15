@@ -2,6 +2,17 @@
     "circuitId": 38,
     "circuitRef": "brands_hatch",
     "country": "UK",
+    "country_code": "gb",
+    "country_flag": "🇬🇧",
+    "lat": 51.3568992614746,
+    "lng": 0.263056010007858,
     "location": "Kent",
-    "name": "Brands Hatch"
+    "name": "Brands Hatch",
+    "podium_constructors": 14,
+    "podium_drivers": 25,
+    "races": 14,
+    "total_constructors": 60,
+    "total_drivers": 145,
+    "winning_constructors": 9,
+    "winning_drivers": 11
 }

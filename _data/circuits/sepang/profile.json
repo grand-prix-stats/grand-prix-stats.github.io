@@ -2,6 +2,17 @@
     "circuitId": 2,
     "circuitRef": "sepang",
     "country": "Malaysia",
+    "country_code": "my",
+    "country_flag": "🇲🇾",
+    "lat": 2.76082992553711,
+    "lng": 101.737998962402,
     "location": "Kuala Lumpur",
-    "name": "Sepang International Circuit"
+    "name": "Sepang International Circuit",
+    "podium_constructors": 12,
+    "podium_drivers": 23,
+    "races": 19,
+    "total_constructors": 32,
+    "total_drivers": 96,
+    "winning_constructors": 7,
+    "winning_drivers": 10
 }

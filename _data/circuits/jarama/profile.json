@@ -2,6 +2,17 @@
     "circuitId": 45,
     "circuitRef": "jarama",
     "country": "Spain",
+    "country_code": "es",
+    "country_flag": "🇪🇸",
+    "lat": 40.6170997619629,
+    "lng": -3.58558011054993,
     "location": "Madrid",
-    "name": "Jarama"
+    "name": "Jarama",
+    "podium_constructors": 9,
+    "podium_drivers": 19,
+    "races": 9,
+    "total_constructors": 42,
+    "total_drivers": 102,
+    "winning_constructors": 6,
+    "winning_drivers": 8
 }
