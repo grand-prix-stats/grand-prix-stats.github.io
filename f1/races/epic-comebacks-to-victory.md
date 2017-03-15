@@ -9,8 +9,60 @@ rowCount: 25
 var data = {
     "datasets": [
         {
-            "backgroundColor": "#f3a935",
-            "borderColor": "#f68639",
+            "backgroundColor": [
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935"
+            ],
+            "borderColor": [
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639"
+            ],
             "borderWidth": 1,
             "data": [
                 21.0,
@@ -92,12 +144,24 @@ var options = {
     chart.options.scales.xAxes[0].ticks.display = size.width > 800;
   }
 };
-new Chart("chart", {
+var chart = new Chart("chart", {
     data: data,
     type: 'bar',
     options: options
 });
 </script>
+
+<!-- div id="chart-navigation">
+<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
+<button onclick="window.location = chart.toBase64Image();">Hello</button>
+<button onclick="window.location = chart.toBase64Image();">Hello</button>
+<select>
+<option>one</option>
+<option>two</option>
+<option>three</option>
+</select>
+</div -->
+
 
 The drivers on this list of epic comeback races started the race outside of the top ten (this is, 11th or lower in the grid) and yet, they managed to reach the top podium position and win the race.
 

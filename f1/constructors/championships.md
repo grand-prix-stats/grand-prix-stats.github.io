@@ -9,8 +9,44 @@ rowCount: 17
 var data = {
     "datasets": [
         {
-            "backgroundColor": "#f3a935",
-            "borderColor": "#f68639",
+            "backgroundColor": [
+                "EB212E",
+                "FFF8F6",
+                "AAAAAA",
+                "381ea0",
+                "09630C",
+                "3da48e",
+                "243F73",
+                "273027",
+                "025839",
+                "F6CF00",
+                "73C2FB",
+                "E2F833",
+                "144D44",
+                "025839",
+                "3FB2B3",
+                "274B72",
+                "336667"
+            ],
+            "borderColor": [
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444",
+                "444444"
+            ],
             "borderWidth": 1,
             "data": [
                 16.0,
@@ -76,12 +112,24 @@ var options = {
     chart.options.scales.xAxes[0].ticks.display = size.width > 800;
   }
 };
-new Chart("chart", {
+var chart = new Chart("chart", {
     data: data,
     type: 'bar',
     options: options
 });
 </script>
+
+<!-- div id="chart-navigation">
+<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
+<button onclick="window.location = chart.toBase64Image();">Hello</button>
+<button onclick="window.location = chart.toBase64Image();">Hello</button>
+<select>
+<option>one</option>
+<option>two</option>
+<option>three</option>
+</select>
+</div -->
+
 
 
 

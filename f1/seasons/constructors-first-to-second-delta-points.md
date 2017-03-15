@@ -9,8 +9,128 @@ rowCount: 59
 var data = {
     "datasets": [
         {
-            "backgroundColor": "#f3a935",
-            "borderColor": "#f68639",
+            "backgroundColor": [
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935",
+                "#f3a935"
+            ],
+            "borderColor": [
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639",
+                "#f68639"
+            ],
             "borderWidth": 1,
             "data": [
                 3.0,
@@ -160,12 +280,24 @@ var options = {
     chart.options.scales.xAxes[0].ticks.display = size.width > 800;
   }
 };
-new Chart("chart", {
+var chart = new Chart("chart", {
     data: data,
     type: 'bar',
     options: options
 });
 </script>
+
+<!-- div id="chart-navigation">
+<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
+<button onclick="window.location = chart.toBase64Image();">Hello</button>
+<button onclick="window.location = chart.toBase64Image();">Hello</button>
+<select>
+<option>one</option>
+<option>two</option>
+<option>three</option>
+</select>
+</div -->
+
 
 This chart shows the differnece in points between champion and runner-up. The seasons where the difference is smaller indicate close battles between two constructor teams. The seaons where the different is larger indicate a greater dominance by the champion constructor team. However, the point different is affected by the changes in the point system over the years. A more accurate depiction of this analysis would be the [List of Formula 1® Seasons by 1st to 2nd Point Percentage Difference in Constructor's Championship](/f1/seasons/constructors-first-to-second-delta-percentage)
 
