@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Constructor Team Champions by Number of Championships
+title: Rank of Formula 1® Constructor Teams by Number of Championships
 layout: page
 rowCount: 17
 ---
@@ -135,25 +135,25 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Team Constructor | Championships |
-|--|--|--|
-| 1. | Ferrari 🇮🇹 | 16 |
-| 2. | Williams 🇬🇧 | 9 |
-| 3. | McLaren 🇬🇧 | 8 |
-| 4. | Red Bull 🇦🇹 | 4 |
-| 5. | Team Lotus 🇬🇧 | 4 |
-| 6. | Mercedes 🇩🇪 | 3 |
-| 7. | Brabham-Repco 🇬🇧 | 2 |
-| 8. | Cooper-Climax 🇬🇧 | 2 |
-| 9. | Lotus-Climax 🇬🇧 | 2 |
-| 10. | Renault 🇫🇷 | 2 |
-| 11. | Benetton 🇮🇹 | 1 |
-| 12. | Brawn 🇬🇧 | 1 |
-| 13. | BRM 🇬🇧 | 1 |
-| 14. | Lotus-Ford 🇬🇧 | 1 |
-| 15. | Matra-Ford 🇫🇷 | 1 |
-| 16. | Tyrrell 🇬🇧 | 1 |
-| 17. | Vanwall 🇬🇧 | 1 |
+| # | Constructor | Championships | % Of Total Seasons |
+|--|--|--|--|
+| 1. | Ferrari 🇮🇹 | 16 | 23.88% |
+| 2. | Williams 🇬🇧 | 9 | 21.95% |
+| 3. | McLaren 🇬🇧 | 8 | 17.02% |
+| 4. | Red Bull 🇦🇹 | 4 | 33.33% |
+| 5. | Team Lotus 🇬🇧 | 4 | 13.79% |
+| 6. | Mercedes 🇩🇪 | 3 | 33.33% |
+| 7. | Brabham-Repco 🇬🇧 | 2 | 50.00% |
+| 8. | Cooper-Climax 🇬🇧 | 2 | 22.22% |
+| 9. | Lotus-Climax 🇬🇧 | 2 | 28.57% |
+| 10. | Renault 🇫🇷 | 2 | 10.00% |
+| 11. | Benetton 🇮🇹 | 1 | 6.25% |
+| 12. | Brawn 🇬🇧 | 1 | 100.00% |
+| 13. | BRM 🇬🇧 | 1 | 4.35% |
+| 14. | Lotus-Ford 🇬🇧 | 1 | 16.67% |
+| 15. | Matra-Ford 🇫🇷 | 1 | 50.00% |
+| 16. | Tyrrell 🇬🇧 | 1 | 3.45% |
+| 17. | Vanwall 🇬🇧 | 1 | 14.29% |
 
 #### Table Summary
 
