@@ -1,93 +1,132 @@
 [
     {
+        "date": "2017-04-16",
         "laps_completed": null,
         "name": "Bahrain Grand Prix",
         "race_duration": null,
         "round": 3,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2016-04-03",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:33:34.696",
         "round": 2,
-        "season": 2016
+        "season": 2016,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
+        "date": "2015-04-19",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:35:05.809",
         "round": 4,
-        "season": 2015
+        "season": 2015,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
+        "date": "2014-04-06",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:39:42.743",
         "round": 3,
-        "season": 2014
+        "season": 2014,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
+        "date": "2013-04-21",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:36:00.498",
         "round": 4,
-        "season": 2013
+        "season": 2013,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2012-04-22",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:35:10.990",
         "round": 4,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2010-03-14",
         "laps_completed": 49,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:39:20.396",
         "round": 1,
-        "season": 2010
+        "season": 2010,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "date": "2009-04-26",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:31:48.182",
         "round": 4,
-        "season": 2009
+        "season": 2009,
+        "winning_constructor": "Brawn 🇬🇧",
+        "winning_driver": "Jenson Button 🇬🇧"
     },
     {
+        "date": "2008-04-06",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:31:06.970",
         "round": 3,
-        "season": 2008
+        "season": 2008,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Felipe Massa 🇧🇷"
     },
     {
+        "date": "2007-04-15",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:33:27.515",
         "round": 3,
-        "season": 2007
+        "season": 2007,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Felipe Massa 🇧🇷"
     },
     {
+        "date": "2006-03-12",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:29:46.205",
         "round": 1,
-        "season": 2006
+        "season": 2006,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "date": "2005-04-03",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:29:18.531",
         "round": 3,
-        "season": 2005
+        "season": 2005,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "date": "2004-04-04",
         "laps_completed": 57,
         "name": "Bahrain Grand Prix",
         "race_duration": "1:28:34.875",
         "round": 3,
-        "season": 2004
+        "season": 2004,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     }
 ]

@@ -1,5 +1,5 @@
-name,race_duration,round,season,laps_completed
-Korean Grand Prix,1:43:13.701,14,2013,55
-Korean Grand Prix,1:36:28.651,16,2012,55
-Korean Grand Prix,1:38:01.994,16,2011,55
-Korean Grand Prix,2:48:20.810,17,2010,55
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Korean Grand Prix,1:43:13.701,14,55,Red Bull 🇦🇹,2013-10-06,Sebastian Vettel 🇩🇪,2013
+Korean Grand Prix,1:36:28.651,16,55,Red Bull 🇦🇹,2012-10-14,Sebastian Vettel 🇩🇪,2012
+Korean Grand Prix,1:38:01.994,16,55,Red Bull 🇦🇹,2011-10-16,Sebastian Vettel 🇩🇪,2011
+Korean Grand Prix,2:48:20.810,17,55,Ferrari 🇮🇹,2010-10-24,Fernando Alonso 🇪🇸,2010

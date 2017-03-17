@@ -1,8 +1,8 @@
-name,race_duration,round,season,laps_completed
-Detroit Grand Prix,1:54:56.035,6,1988,63
-Detroit Grand Prix,1:50:16.358,5,1987,63
-Detroit Grand Prix,1:51:12.847,7,1986,63
-Detroit Grand Prix,1:55:39.851,6,1985,63
-Detroit Grand Prix,1:55:41.842,8,1984,63
-Detroit Grand Prix,1:50:53.669,7,1983,60
-Detroit Grand Prix,1:58:41.043,7,1982,62
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Detroit Grand Prix,1:54:56.035,6,63,McLaren 🇬🇧,1988-06-19,Ayrton Senna 🇧🇷,1988
+Detroit Grand Prix,1:50:16.358,5,63,Team Lotus 🇬🇧,1987-06-21,Ayrton Senna 🇧🇷,1987
+Detroit Grand Prix,1:51:12.847,7,63,Team Lotus 🇬🇧,1986-06-22,Ayrton Senna 🇧🇷,1986
+Detroit Grand Prix,1:55:39.851,6,63,Williams 🇬🇧,1985-06-23,Keke Rosberg 🇫🇮,1985
+Detroit Grand Prix,1:55:41.842,8,63,Brabham 🇬🇧,1984-06-24,Nelson Piquet 🇧🇷,1984
+Detroit Grand Prix,1:50:53.669,7,60,Tyrrell 🇬🇧,1983-06-05,Michele Alboreto 🇮🇹,1983
+Detroit Grand Prix,1:58:41.043,7,62,McLaren 🇬🇧,1982-06-06,John Watson 🇬🇧,1982

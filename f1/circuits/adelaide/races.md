@@ -4,19 +4,19 @@ layout: page
 rowCount: 11
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 1995 | 17 | Australian Grand Prix | 81 | 1:49:15.946 |
-| 1994 | 16 | Australian Grand Prix | 81 | 1:47:51.4 |
-| 1993 | 16 | Australian Grand Prix | 79 | 1:43:27.476 |
-| 1992 | 16 | Australian Grand Prix | 81 | 1:46:54.786 |
-| 1991 | 16 | Australian Grand Prix | 14 | 24:34.899 |
-| 1990 | 16 | Australian Grand Prix | 81 | 1:49:44.570 |
-| 1989 | 16 | Australian Grand Prix | 70 | 2:00:17.421 |
-| 1988 | 16 | Australian Grand Prix | 82 | 1:53:14.676 |
-| 1987 | 16 | Australian Grand Prix | 82 | 1:52:56.144 |
-| 1986 | 16 | Australian Grand Prix | 82 | 1:54:20.388 |
-| 1985 | 16 | Australian Grand Prix | 82 | 2:00:40.473 |
+| Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|
+| 1995 | 17 | Australian Grand Prix | 1995-11-12 | 81 | 1:49:15.946 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| 1994 | 16 | Australian Grand Prix | 1994-11-13 | 81 | 1:47:51.4 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| 1993 | 16 | Australian Grand Prix | 1993-11-07 | 79 | 1:43:27.476 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1992 | 16 | Australian Grand Prix | 1992-11-08 | 81 | 1:46:54.786 | Gerhard Berger 🇦🇹 | McLaren 🇬🇧 |
+| 1991 | 16 | Australian Grand Prix | 1991-11-03 | 14 | 24:34.899 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1990 | 16 | Australian Grand Prix | 1990-11-04 | 81 | 1:49:44.570 | Nelson Piquet 🇧🇷 | Benetton 🇮🇹 |
+| 1989 | 16 | Australian Grand Prix | 1989-11-05 | 70 | 2:00:17.421 | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
+| 1988 | 16 | Australian Grand Prix | 1988-11-13 | 82 | 1:53:14.676 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1987 | 16 | Australian Grand Prix | 1987-11-15 | 82 | 1:52:56.144 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
+| 1986 | 16 | Australian Grand Prix | 1986-10-26 | 82 | 1:54:20.388 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| 1985 | 16 | Australian Grand Prix | 1985-11-03 | 82 | 2:00:40.473 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
 
 #### Table Summary
 

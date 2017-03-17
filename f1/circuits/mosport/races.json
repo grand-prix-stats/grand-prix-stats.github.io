@@ -1,58 +1,82 @@
 [
     {
+        "date": "1977-10-09",
         "laps_completed": 80,
         "name": "Canadian Grand Prix",
         "race_duration": "1:40:00.0",
         "round": 16,
-        "season": 1977
+        "season": 1977,
+        "winning_constructor": "Wolf 🇨🇦",
+        "winning_driver": "Jody Scheckter 🇿🇦"
     },
     {
+        "date": "1976-10-03",
         "laps_completed": 80,
         "name": "Canadian Grand Prix",
         "race_duration": "1:40:09.626",
         "round": 14,
-        "season": 1976
+        "season": 1976,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "James Hunt 🇬🇧"
     },
     {
+        "date": "1974-09-22",
         "laps_completed": 80,
         "name": "Canadian Grand Prix",
         "race_duration": "1:40:26.136",
         "round": 14,
-        "season": 1974
+        "season": 1974,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
     },
     {
+        "date": "1973-09-23",
         "laps_completed": 80,
         "name": "Canadian Grand Prix",
         "race_duration": "1:59:04.083",
         "round": 14,
-        "season": 1973
+        "season": 1973,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Peter Revson 🇺🇸"
     },
     {
+        "date": "1972-09-24",
         "laps_completed": 80,
         "name": "Canadian Grand Prix",
         "race_duration": "1:43:17.1",
         "round": 11,
-        "season": 1972
+        "season": 1972,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1971-09-19",
         "laps_completed": 64,
         "name": "Canadian Grand Prix",
         "race_duration": "1:55:13.1",
         "round": 10,
-        "season": 1971
+        "season": 1971,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1969-09-20",
         "laps_completed": 90,
         "name": "Canadian Grand Prix",
         "race_duration": "1:59:25.7",
         "round": 9,
-        "season": 1969
+        "season": 1969,
+        "winning_constructor": "Brabham-Ford 🇬🇧",
+        "winning_driver": "Jacky Ickx 🇧🇪"
     },
     {
+        "date": "1967-08-27",
         "laps_completed": 90,
         "name": "Canadian Grand Prix",
         "race_duration": "2:40:40.0",
         "round": 8,
-        "season": 1967
+        "season": 1967,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
     }
 ]

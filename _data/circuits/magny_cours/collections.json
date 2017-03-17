@@ -8,11 +8,31 @@
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race at Circuit de Nevers Magny-Cours",
+        "title": "Rank of Formula 1® Drivers by Number of Wins at Circuit de Nevers Magny-Cours",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Circuit de Nevers Magny-Cours",
+        "title": "Rank of Formula 1® Drivers by Number of Podiums at Circuit de Nevers Magny-Cours",
         "url": "podium-drivers"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Fastest Laps at Circuit de Nevers Magny-Cours",
+        "url": "fastest-laps"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Laps Led at Circuit de Nevers Magny-Cours",
+        "url": "laps-led"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Starts from P1 at Circuit de Nevers Magny-Cours",
+        "url": "starts-from-p1"
+    },
+    {
+        "title": "Rank of Grid Position by Number of Wins at Circuit de Nevers Magny-Cours",
+        "url": "grid-position-wins"
+    },
+    {
+        "title": "Number of Wins by Grid Position at Circuit de Nevers Magny-Cours",
+        "url": "grid-position-wins-list"
     }
 ]

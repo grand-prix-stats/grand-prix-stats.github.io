@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Been in the Podium at Autódromo José Carlos Pace
+title: Rank of Formula 1® Drivers by Number of Podiums at Autódromo José Carlos Pace
 layout: page
 rowCount: 44
 ---
@@ -148,7 +148,7 @@ var data = {
                 1.0,
                 1.0
             ],
-            "label": "Times"
+            "label": "Number Of Podiums"
         }
     ],
     "labels": [
@@ -243,7 +243,7 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Times |
+| # | Driver | Number Of Podiums |
 |--|--|--|
 | 1. | Michael Schumacher 🇩🇪 | 10 |
 | 2. | Fernando Alonso 🇪🇸 | 8 |

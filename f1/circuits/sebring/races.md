@@ -4,9 +4,9 @@ layout: page
 rowCount: 1
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 1959 | 9 | United States Grand Prix | 42 | 2:12:35.7 |
+| Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|
+| 1959 | 9 | United States Grand Prix | 1959-12-12 | 42 | 2:12:35.7 | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
 
 #### Table Summary
 

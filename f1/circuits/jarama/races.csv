@@ -1,10 +1,10 @@
-name,race_duration,round,season,laps_completed
-Spanish Grand Prix,1:46:35.01,7,1981,80
-Spanish Grand Prix,1:39:11.84,5,1979,75
-Spanish Grand Prix,1:41:47.06,7,1978,75
-Spanish Grand Prix,1:42:.52.22,5,1977,75
-Spanish Grand Prix,1:42:20.43,4,1976,75
-Spanish Grand Prix,2:00:29.56,4,1974,84
-Spanish Grand Prix,2:03:41.2,3,1972,90
-Spanish Grand Prix,2:10:58.2,2,1970,90
-Spanish Grand Prix,2:15:02.1,2,1968,90
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Spanish Grand Prix,1:46:35.01,7,80,Ferrari 🇮🇹,1981-06-21,Gilles Villeneuve 🇨🇦,1981
+Spanish Grand Prix,1:39:11.84,5,75,Ligier 🇫🇷,1979-04-29,Patrick Depailler 🇫🇷,1979
+Spanish Grand Prix,1:41:47.06,7,75,Team Lotus 🇬🇧,1978-06-04,Mario Andretti 🇺🇸,1978
+Spanish Grand Prix,1:42:.52.22,5,75,Team Lotus 🇬🇧,1977-05-08,Mario Andretti 🇺🇸,1977
+Spanish Grand Prix,1:42:20.43,4,75,McLaren 🇬🇧,1976-05-02,James Hunt 🇬🇧,1976
+Spanish Grand Prix,2:00:29.56,4,84,Ferrari 🇮🇹,1974-04-28,Niki Lauda 🇦🇹,1974
+Spanish Grand Prix,2:03:41.2,3,90,Team Lotus 🇬🇧,1972-05-01,Emerson Fittipaldi 🇧🇷,1972
+Spanish Grand Prix,2:10:58.2,2,90,March 🇬🇧,1970-04-19,Jackie Stewart 🇬🇧,1970
+Spanish Grand Prix,2:15:02.1,2,90,Lotus-Ford 🇬🇧,1968-05-12,Graham Hill 🇬🇧,1968

@@ -1,7 +1,7 @@
-name,race_duration,round,season,laps_completed
-United States Grand Prix,,17,2017,
-United States Grand Prix,1:38:12.618,18,2016,56
-United States Grand Prix,1:50:52.703,16,2015,56
-United States Grand Prix,1:40:04.785,17,2014,56
-United States Grand Prix,1:39:17.168,18,2013,56
-United States Grand Prix,1:35:55.269,19,2012,56
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+United States Grand Prix,,17,,,2017-10-22,,2017
+United States Grand Prix,1:38:12.618,18,56,Mercedes 🇩🇪,2016-10-23,Lewis Hamilton 🇬🇧,2016
+United States Grand Prix,1:50:52.703,16,56,Mercedes 🇩🇪,2015-10-25,Lewis Hamilton 🇬🇧,2015
+United States Grand Prix,1:40:04.785,17,56,Mercedes 🇩🇪,2014-11-02,Lewis Hamilton 🇬🇧,2014
+United States Grand Prix,1:39:17.168,18,56,Red Bull 🇦🇹,2013-11-17,Sebastian Vettel 🇩🇪,2013
+United States Grand Prix,1:35:55.269,19,56,McLaren 🇬🇧,2012-11-18,Lewis Hamilton 🇬🇧,2012

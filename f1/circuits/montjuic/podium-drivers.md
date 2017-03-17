@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Been in the Podium at Montjuïc
+title: Rank of Formula 1® Drivers by Number of Podiums at Montjuïc
 layout: page
 rowCount: 10
 ---
@@ -46,7 +46,7 @@ var data = {
                 1.0,
                 1.0
             ],
-            "label": "Times"
+            "label": "Number Of Podiums"
         }
     ],
     "labels": [
@@ -107,7 +107,7 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Times |
+| # | Driver | Number Of Podiums |
 |--|--|--|
 | 1. | Jackie Stewart 🇬🇧 | 2 |
 | 2. | Jacky Ickx 🇧🇪 | 2 |

@@ -1,3 +1,3 @@
-name,race_duration,round,season,laps_completed
-Belgian Grand Prix,1:44:20.57,5,1974,85
-Belgian Grand Prix,1:44:07.3,5,1972,85
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Belgian Grand Prix,1:44:20.57,5,85,McLaren 🇬🇧,1974-05-12,Emerson Fittipaldi 🇧🇷,1974
+Belgian Grand Prix,1:44:07.3,5,85,Team Lotus 🇬🇧,1972-06-04,Emerson Fittipaldi 🇧🇷,1972

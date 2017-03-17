@@ -1,142 +1,202 @@
 [
     {
+        "date": "2017-03-26",
         "laps_completed": null,
         "name": "Australian Grand Prix",
         "race_duration": null,
         "round": 1,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-04-09",
         "laps_completed": null,
         "name": "Chinese Grand Prix",
         "race_duration": null,
         "round": 2,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-04-16",
         "laps_completed": null,
         "name": "Bahrain Grand Prix",
         "race_duration": null,
         "round": 3,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-04-30",
         "laps_completed": null,
         "name": "Russian Grand Prix",
         "race_duration": null,
         "round": 4,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-05-14",
         "laps_completed": null,
         "name": "Spanish Grand Prix",
         "race_duration": null,
         "round": 5,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-05-28",
         "laps_completed": null,
         "name": "Monaco Grand Prix",
         "race_duration": null,
         "round": 6,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-06-11",
         "laps_completed": null,
         "name": "Canadian Grand Prix",
         "race_duration": null,
         "round": 7,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-06-25",
         "laps_completed": null,
         "name": "Azerbaijan Grand Prix",
         "race_duration": null,
         "round": 8,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-07-09",
         "laps_completed": null,
         "name": "Austrian Grand Prix",
         "race_duration": null,
         "round": 9,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-07-16",
         "laps_completed": null,
         "name": "British Grand Prix",
         "race_duration": null,
         "round": 10,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-07-30",
         "laps_completed": null,
         "name": "Hungarian Grand Prix",
         "race_duration": null,
         "round": 11,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-08-27",
         "laps_completed": null,
         "name": "Belgian Grand Prix",
         "race_duration": null,
         "round": 12,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-09-03",
         "laps_completed": null,
         "name": "Italian Grand Prix",
         "race_duration": null,
         "round": 13,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-09-17",
         "laps_completed": null,
         "name": "Singapore Grand Prix",
         "race_duration": null,
         "round": 14,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-10-01",
         "laps_completed": null,
         "name": "Malaysian Grand Prix",
         "race_duration": null,
         "round": 15,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-10-08",
         "laps_completed": null,
         "name": "Japanese Grand Prix",
         "race_duration": null,
         "round": 16,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-10-22",
         "laps_completed": null,
         "name": "United States Grand Prix",
         "race_duration": null,
         "round": 17,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-10-29",
         "laps_completed": null,
         "name": "Mexican Grand Prix",
         "race_duration": null,
         "round": 18,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-11-12",
         "laps_completed": null,
         "name": "Brazilian Grand Prix",
         "race_duration": null,
         "round": 19,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2017-11-26",
         "laps_completed": null,
         "name": "Abu Dhabi Grand Prix",
         "race_duration": null,
         "round": 20,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     }
 ]

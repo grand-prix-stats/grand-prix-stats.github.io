@@ -4,9 +4,9 @@ layout: page
 rowCount: 1
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 1993 | 3 | European Grand Prix | 76 | 1:50:46.570 |
+| Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|
+| 1993 | 3 | European Grand Prix | 1993-04-11 | 76 | 1:50:46.570 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
 
 #### Table Summary
 

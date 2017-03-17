@@ -1,30 +1,42 @@
 [
     {
+        "date": "1972-07-02",
         "laps_completed": 38,
         "name": "French Grand Prix",
         "race_duration": "1:52:22.5",
         "round": 6,
-        "season": 1972
+        "season": 1972,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1970-07-05",
         "laps_completed": 38,
         "name": "French Grand Prix",
         "race_duration": "1:55:57.0",
         "round": 6,
-        "season": 1970
+        "season": 1970,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Jochen Rindt 🇦🇹"
     },
     {
+        "date": "1969-07-06",
         "laps_completed": 38,
         "name": "French Grand Prix",
         "race_duration": "1:56:47.4",
         "round": 5,
-        "season": 1969
+        "season": 1969,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1965-06-27",
         "laps_completed": 40,
         "name": "French Grand Prix",
         "race_duration": "2:41:38.4",
         "round": 4,
-        "season": 1965
+        "season": 1965,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
     }
 ]

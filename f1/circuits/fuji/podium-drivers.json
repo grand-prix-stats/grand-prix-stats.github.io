@@ -1,38 +1,38 @@
 [
     {
         "driver": "James Hunt 🇬🇧",
-        "times": 2
+        "number_of_podiums": 2
     },
     {
         "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 2
+        "number_of_podiums": 2
     },
     {
         "driver": "Patrick Depailler 🇫🇷",
-        "times": 2
+        "number_of_podiums": 2
     },
     {
         "driver": "Carlos Reutemann 🇦🇷",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Fernando Alonso 🇪🇸",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Heikki Kovalainen 🇫🇮",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Mario Andretti 🇺🇸",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Robert Kubica 🇵🇱",
-        "times": 1
+        "number_of_podiums": 1
     }
 ]

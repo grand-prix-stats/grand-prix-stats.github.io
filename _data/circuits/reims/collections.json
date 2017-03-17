@@ -8,11 +8,31 @@
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race at Reims-Gueux",
+        "title": "Rank of Formula 1® Drivers by Number of Wins at Reims-Gueux",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Reims-Gueux",
+        "title": "Rank of Formula 1® Drivers by Number of Podiums at Reims-Gueux",
         "url": "podium-drivers"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Fastest Laps at Reims-Gueux",
+        "url": "fastest-laps"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Laps Led at Reims-Gueux",
+        "url": "laps-led"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Starts from P1 at Reims-Gueux",
+        "url": "starts-from-p1"
+    },
+    {
+        "title": "Rank of Grid Position by Number of Wins at Reims-Gueux",
+        "url": "grid-position-wins"
+    },
+    {
+        "title": "Number of Wins by Grid Position at Reims-Gueux",
+        "url": "grid-position-wins-list"
     }
 ]

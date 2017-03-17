@@ -1,9 +1,12 @@
 [
     {
+        "date": "1957-08-18",
         "laps_completed": 18,
         "name": "Pescara Grand Prix",
         "race_duration": "2:59:22.7",
         "round": 7,
-        "season": 1957
+        "season": 1957,
+        "winning_constructor": "Vanwall 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
     }
 ]

@@ -8,11 +8,31 @@
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race at Nivelles-Baulers",
+        "title": "Rank of Formula 1® Drivers by Number of Wins at Nivelles-Baulers",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Nivelles-Baulers",
+        "title": "Rank of Formula 1® Drivers by Number of Podiums at Nivelles-Baulers",
         "url": "podium-drivers"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Fastest Laps at Nivelles-Baulers",
+        "url": "fastest-laps"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Laps Led at Nivelles-Baulers",
+        "url": "laps-led"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Starts from P1 at Nivelles-Baulers",
+        "url": "starts-from-p1"
+    },
+    {
+        "title": "Rank of Grid Position by Number of Wins at Nivelles-Baulers",
+        "url": "grid-position-wins"
+    },
+    {
+        "title": "Number of Wins by Grid Position at Nivelles-Baulers",
+        "url": "grid-position-wins-list"
     }
 ]

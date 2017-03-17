@@ -1,21 +1,21 @@
-name,race_duration,round,season,laps_completed
-Abu Dhabi Grand Prix,,20,2017,
-Australian Grand Prix,,1,2017,
-Austrian Grand Prix,,9,2017,
-Azerbaijan Grand Prix,,8,2017,
-Bahrain Grand Prix,,3,2017,
-Belgian Grand Prix,,12,2017,
-Brazilian Grand Prix,,19,2017,
-British Grand Prix,,10,2017,
-Canadian Grand Prix,,7,2017,
-Chinese Grand Prix,,2,2017,
-Hungarian Grand Prix,,11,2017,
-Italian Grand Prix,,13,2017,
-Japanese Grand Prix,,16,2017,
-Malaysian Grand Prix,,15,2017,
-Mexican Grand Prix,,18,2017,
-Monaco Grand Prix,,6,2017,
-Russian Grand Prix,,4,2017,
-Singapore Grand Prix,,14,2017,
-Spanish Grand Prix,,5,2017,
-United States Grand Prix,,17,2017,
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Abu Dhabi Grand Prix,,20,,,2017-11-26,,2017
+Australian Grand Prix,,1,,,2017-03-26,,2017
+Austrian Grand Prix,,9,,,2017-07-09,,2017
+Azerbaijan Grand Prix,,8,,,2017-06-25,,2017
+Bahrain Grand Prix,,3,,,2017-04-16,,2017
+Belgian Grand Prix,,12,,,2017-08-27,,2017
+Brazilian Grand Prix,,19,,,2017-11-12,,2017
+British Grand Prix,,10,,,2017-07-16,,2017
+Canadian Grand Prix,,7,,,2017-06-11,,2017
+Chinese Grand Prix,,2,,,2017-04-09,,2017
+Hungarian Grand Prix,,11,,,2017-07-30,,2017
+Italian Grand Prix,,13,,,2017-09-03,,2017
+Japanese Grand Prix,,16,,,2017-10-08,,2017
+Malaysian Grand Prix,,15,,,2017-10-01,,2017
+Mexican Grand Prix,,18,,,2017-10-29,,2017
+Monaco Grand Prix,,6,,,2017-05-28,,2017
+Russian Grand Prix,,4,,,2017-04-30,,2017
+Singapore Grand Prix,,14,,,2017-09-17,,2017
+Spanish Grand Prix,,5,,,2017-05-14,,2017
+United States Grand Prix,,17,,,2017-10-22,,2017

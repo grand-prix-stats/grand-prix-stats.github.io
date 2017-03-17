@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Been in the Podium at Scandinavian Raceway
+title: Rank of Formula 1® Drivers by Number of Podiums at Scandinavian Raceway
 layout: page
 rowCount: 12
 ---
@@ -52,7 +52,7 @@ var data = {
                 1.0,
                 1.0
             ],
-            "label": "Times"
+            "label": "Number Of Podiums"
         }
     ],
     "labels": [
@@ -115,7 +115,7 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Times |
+| # | Driver | Number Of Podiums |
 |--|--|--|
 | 1. | Niki Lauda 🇦🇹 | 3 |
 | 2. | Carlos Reutemann 🇦🇷 | 2 |

@@ -1,23 +1,32 @@
 [
     {
+        "date": "1991-03-10",
         "laps_completed": 81,
         "name": "United States Grand Prix",
         "race_duration": "2:00:47.828",
         "round": 1,
-        "season": 1991
+        "season": 1991,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1990-03-11",
         "laps_completed": 72,
         "name": "United States Grand Prix",
         "race_duration": "1:52:32.829",
         "round": 1,
-        "season": 1990
+        "season": 1990,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1989-06-04",
         "laps_completed": 75,
         "name": "United States Grand Prix",
         "race_duration": "2:01:33.133",
         "round": 5,
-        "season": 1989
+        "season": 1989,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     }
 ]

@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race at Circuit de Spa-Francorchamps
+title: Rank of Formula 1® Drivers by Number of Wins at Circuit de Spa-Francorchamps
 layout: page
 rowCount: 26
 ---
@@ -94,7 +94,7 @@ var data = {
                 1.0,
                 1.0
             ],
-            "label": "Times"
+            "label": "Number Of Wins"
         }
     ],
     "labels": [
@@ -171,7 +171,7 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Times |
+| # | Driver | Number Of Wins |
 |--|--|--|
 | 1. | Michael Schumacher 🇩🇪 | 6 |
 | 2. | Ayrton Senna 🇧🇷 | 5 |

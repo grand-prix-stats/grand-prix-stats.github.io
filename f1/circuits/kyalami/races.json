@@ -1,142 +1,202 @@
 [
     {
+        "date": "1993-03-14",
         "laps_completed": 72,
         "name": "South African Grand Prix",
         "race_duration": "1:38:45.082",
         "round": 1,
-        "season": 1993
+        "season": 1993,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1992-03-01",
         "laps_completed": 72,
         "name": "South African Grand Prix",
         "race_duration": "1:36:45.320",
         "round": 1,
-        "season": 1992
+        "season": 1992,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "date": "1985-10-19",
         "laps_completed": 75,
         "name": "South African Grand Prix",
         "race_duration": "1:28:22.866",
         "round": 15,
-        "season": 1985
+        "season": 1985,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "date": "1984-04-07",
         "laps_completed": 75,
         "name": "South African Grand Prix",
         "race_duration": "1:29:23.430",
         "round": 2,
-        "season": 1984
+        "season": 1984,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "date": "1983-10-15",
         "laps_completed": 77,
         "name": "South African Grand Prix",
         "race_duration": "1:33:25.708",
         "round": 15,
-        "season": 1983
+        "season": 1983,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Riccardo Patrese 🇮🇹"
     },
     {
+        "date": "1982-01-23",
         "laps_completed": 77,
         "name": "South African Grand Prix",
         "race_duration": "1:32:08.401",
         "round": 1,
-        "season": 1982
+        "season": 1982,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1980-03-01",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:36:52.54",
         "round": 3,
-        "season": 1980
+        "season": 1980,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "René Arnoux 🇫🇷"
     },
     {
+        "date": "1979-03-03",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:41:49.96",
         "round": 3,
-        "season": 1979
+        "season": 1979,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gilles Villeneuve 🇨🇦"
     },
     {
+        "date": "1978-03-04",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:42:15.767",
         "round": 3,
-        "season": 1978
+        "season": 1978,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
     },
     {
+        "date": "1977-03-05",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:42:21.6",
         "round": 3,
-        "season": 1977
+        "season": 1977,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "date": "1976-03-06",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:42:18.4",
         "round": 2,
-        "season": 1976
+        "season": 1976,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "date": "1975-03-01",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:43:16.90",
         "round": 3,
-        "season": 1975
+        "season": 1975,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jody Scheckter 🇿🇦"
     },
     {
+        "date": "1974-03-30",
         "laps_completed": 78,
         "name": "South African Grand Prix",
         "race_duration": "1:42:40.96",
         "round": 3,
-        "season": 1974
+        "season": 1974,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
     },
     {
+        "date": "1973-03-03",
         "laps_completed": 79,
         "name": "South African Grand Prix",
         "race_duration": "1:43:11.07",
         "round": 3,
-        "season": 1973
+        "season": 1973,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1972-03-04",
         "laps_completed": 79,
         "name": "South African Grand Prix",
         "race_duration": "1:45:49.1",
         "round": 2,
-        "season": 1972
+        "season": 1972,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
     },
     {
+        "date": "1971-03-06",
         "laps_completed": 79,
         "name": "South African Grand Prix",
         "race_duration": "1:47:35.5",
         "round": 1,
-        "season": 1971
+        "season": 1971,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Mario Andretti 🇺🇸"
     },
     {
+        "date": "1970-03-07",
         "laps_completed": 80,
         "name": "South African Grand Prix",
         "race_duration": "1:49:35.4",
         "round": 1,
-        "season": 1970
+        "season": 1970,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
     },
     {
+        "date": "1969-03-01",
         "laps_completed": 80,
         "name": "South African Grand Prix",
         "race_duration": "1:50:39.1",
         "round": 1,
-        "season": 1969
+        "season": 1969,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1968-01-01",
         "laps_completed": 80,
         "name": "South African Grand Prix",
         "race_duration": "1:53:56.6",
         "round": 1,
-        "season": 1968
+        "season": 1968,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
     },
     {
+        "date": "1967-01-02",
         "laps_completed": 80,
         "name": "South African Grand Prix",
         "race_duration": "2:05:45.9",
         "round": 1,
-        "season": 1967
+        "season": 1967,
+        "winning_constructor": "Cooper-Maserati 🇬🇧",
+        "winning_driver": "Pedro Rodríguez 🇲🇽"
     }
 ]

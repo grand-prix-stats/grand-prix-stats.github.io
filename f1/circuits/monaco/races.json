@@ -1,450 +1,642 @@
 [
     {
+        "date": "2017-05-28",
         "laps_completed": null,
         "name": "Monaco Grand Prix",
         "race_duration": null,
         "round": 6,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2016-05-29",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:59:29.133",
         "round": 6,
-        "season": 2016
+        "season": 2016,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
+        "date": "2015-05-24",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:49:18.420",
         "round": 6,
-        "season": 2015
+        "season": 2015,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
+        "date": "2014-05-25",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:49:27.661",
         "round": 6,
-        "season": 2014
+        "season": 2014,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
+        "date": "2013-05-26",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "2:15:52.056",
         "round": 6,
-        "season": 2013
+        "season": 2013,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
+        "date": "2012-05-27",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:46:06.557",
         "round": 6,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Mark Webber 🇦🇺"
     },
     {
+        "date": "2011-05-29",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "2:09:38.373",
         "round": 6,
-        "season": 2011
+        "season": 2011,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2010-05-16",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:50:13.355",
         "round": 6,
-        "season": 2010
+        "season": 2010,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Mark Webber 🇦🇺"
     },
     {
+        "date": "2009-05-24",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:40:44.282",
         "round": 6,
-        "season": 2009
+        "season": 2009,
+        "winning_constructor": "Brawn 🇬🇧",
+        "winning_driver": "Jenson Button 🇬🇧"
     },
     {
+        "date": "2008-05-25",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "2:00:42.742",
         "round": 6,
-        "season": 2008
+        "season": 2008,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
+        "date": "2007-05-27",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:40:29.329",
         "round": 5,
-        "season": 2007
+        "season": 2007,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "date": "2006-05-28",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:43:43.116",
         "round": 7,
-        "season": 2006
+        "season": 2006,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "date": "2005-05-22",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:45:15.556",
         "round": 6,
-        "season": 2005
+        "season": 2005,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Kimi Räikkönen 🇫🇮"
     },
     {
+        "date": "2004-05-23",
         "laps_completed": 77,
         "name": "Monaco Grand Prix",
         "race_duration": "1:45:46.601",
         "round": 6,
-        "season": 2004
+        "season": 2004,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Jarno Trulli 🇮🇹"
     },
     {
+        "date": "2003-06-01",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:42:19.010",
         "round": 7,
-        "season": 2003
+        "season": 2003,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Juan Pablo Montoya 🇨🇴"
     },
     {
+        "date": "2002-05-26",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:45:39.055",
         "round": 7,
-        "season": 2002
+        "season": 2002,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "David Coulthard 🇬🇧"
     },
     {
+        "date": "2001-05-27",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:47:22.561",
         "round": 7,
-        "season": 2001
+        "season": 2001,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "date": "2000-06-04",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:49:28.213",
         "round": 7,
-        "season": 2000
+        "season": 2000,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "David Coulthard 🇬🇧"
     },
     {
+        "date": "1999-05-16",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:49:31.812",
         "round": 4,
-        "season": 1999
+        "season": 1999,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "date": "1998-05-24",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:51:24.4",
         "round": 6,
-        "season": 1998
+        "season": 1998,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
     },
     {
+        "date": "1997-05-11",
         "laps_completed": 62,
         "name": "Monaco Grand Prix",
         "race_duration": "2:00:05.654",
         "round": 5,
-        "season": 1997
+        "season": 1997,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "date": "1996-05-19",
         "laps_completed": 75,
         "name": "Monaco Grand Prix",
         "race_duration": "2:00:45.629",
         "round": 6,
-        "season": 1996
+        "season": 1996,
+        "winning_constructor": "Ligier 🇫🇷",
+        "winning_driver": "Olivier Panis 🇫🇷"
     },
     {
+        "date": "1995-05-28",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:53:11.258",
         "round": 5,
-        "season": 1995
+        "season": 1995,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "date": "1994-05-15",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:49:55.3",
         "round": 4,
-        "season": 1994
+        "season": 1994,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "date": "1993-05-23",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:52:10.947",
         "round": 6,
-        "season": 1993
+        "season": 1993,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1992-05-31",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:50:59.372",
         "round": 6,
-        "season": 1992
+        "season": 1992,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1991-05-12",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:53:02.334",
         "round": 4,
-        "season": 1991
+        "season": 1991,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1990-05-27",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:52:46.982",
         "round": 4,
-        "season": 1990
+        "season": 1990,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1989-05-07",
         "laps_completed": 77,
         "name": "Monaco Grand Prix",
         "race_duration": "1:53:33.251",
         "round": 3,
-        "season": 1989
+        "season": 1989,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1988-05-15",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:57:17.077",
         "round": 3,
-        "season": 1988
+        "season": 1988,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1987-05-31",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:57:54.085",
         "round": 4,
-        "season": 1987
+        "season": 1987,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1986-05-11",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:55:41.060",
         "round": 4,
-        "season": 1986
+        "season": 1986,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1985-05-19",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:51:58.034",
         "round": 4,
-        "season": 1985
+        "season": 1985,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1984-06-03",
         "laps_completed": 31,
         "name": "Monaco Grand Prix",
         "race_duration": "1:01:07.740",
         "round": 6,
-        "season": 1984
+        "season": 1984,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1983-05-15",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "1:56:38.121",
         "round": 5,
-        "season": 1983
+        "season": 1983,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Keke Rosberg 🇫🇮"
     },
     {
+        "date": "1982-05-23",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "1:54:11.259",
         "round": 6,
-        "season": 1982
+        "season": 1982,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Riccardo Patrese 🇮🇹"
     },
     {
+        "date": "1981-05-31",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "1:54:23.38",
         "round": 6,
-        "season": 1981
+        "season": 1981,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gilles Villeneuve 🇨🇦"
     },
     {
+        "date": "1980-05-18",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "1:55:34.365",
         "round": 6,
-        "season": 1980
+        "season": 1980,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
     },
     {
+        "date": "1979-05-27",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "1:55:22.48",
         "round": 7,
-        "season": 1979
+        "season": 1979,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Jody Scheckter 🇿🇦"
     },
     {
+        "date": "1978-05-07",
         "laps_completed": 75,
         "name": "Monaco Grand Prix",
         "race_duration": "1:55:14.66",
         "round": 5,
-        "season": 1978
+        "season": 1978,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Patrick Depailler 🇫🇷"
     },
     {
+        "date": "1977-05-22",
         "laps_completed": 76,
         "name": "Monaco Grand Prix",
         "race_duration": "1:57:52.77",
         "round": 6,
-        "season": 1977
+        "season": 1977,
+        "winning_constructor": "Wolf 🇨🇦",
+        "winning_driver": "Jody Scheckter 🇿🇦"
     },
     {
+        "date": "1976-05-30",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:59:51.47",
         "round": 6,
-        "season": 1976
+        "season": 1976,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "date": "1975-05-11",
         "laps_completed": 75,
         "name": "Monaco Grand Prix",
         "race_duration": "2:01:21.31",
         "round": 5,
-        "season": 1975
+        "season": 1975,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "date": "1974-05-26",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:58:03.7",
         "round": 6,
-        "season": 1974
+        "season": 1974,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
     },
     {
+        "date": "1973-06-03",
         "laps_completed": 78,
         "name": "Monaco Grand Prix",
         "race_duration": "1:57:44.3",
         "round": 6,
-        "season": 1973
+        "season": 1973,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1972-05-14",
         "laps_completed": 80,
         "name": "Monaco Grand Prix",
         "race_duration": "2:26:55.3",
         "round": 4,
-        "season": 1972
+        "season": 1972,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Jean-Pierre Beltoise 🇫🇷"
     },
     {
+        "date": "1971-05-23",
         "laps_completed": 80,
         "name": "Monaco Grand Prix",
         "race_duration": "1:52:21.3",
         "round": 3,
-        "season": 1971
+        "season": 1971,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1970-05-10",
         "laps_completed": 80,
         "name": "Monaco Grand Prix",
         "race_duration": "1:54:37.4",
         "round": 3,
-        "season": 1970
+        "season": 1970,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Jochen Rindt 🇦🇹"
     },
     {
+        "date": "1969-05-18",
         "laps_completed": 80,
         "name": "Monaco Grand Prix",
         "race_duration": "1:56:59.4",
         "round": 3,
-        "season": 1969
+        "season": 1969,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
     },
     {
+        "date": "1968-05-26",
         "laps_completed": 80,
         "name": "Monaco Grand Prix",
         "race_duration": "2:00:32.3",
         "round": 3,
-        "season": 1968
+        "season": 1968,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
     },
     {
+        "date": "1967-05-07",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:34:34.3",
         "round": 2,
-        "season": 1967
+        "season": 1967,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
     },
     {
+        "date": "1966-05-22",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:33:10.5",
         "round": 1,
-        "season": 1966
+        "season": 1966,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1965-05-30",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:37:39.6",
         "round": 2,
-        "season": 1965
+        "season": 1965,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
     },
     {
+        "date": "1964-05-10",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:41:19.5",
         "round": 1,
-        "season": 1964
+        "season": 1964,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
     },
     {
+        "date": "1963-05-26",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:41:49.7",
         "round": 1,
-        "season": 1963
+        "season": 1963,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
     },
     {
+        "date": "1962-06-03",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:46:29.7",
         "round": 2,
-        "season": 1962
+        "season": 1962,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Bruce McLaren 🇳🇿"
     },
     {
+        "date": "1961-05-14",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:45:50.1",
         "round": 1,
-        "season": 1961
+        "season": 1961,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
     },
     {
+        "date": "1960-05-29",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:53:45.5",
         "round": 2,
-        "season": 1960
+        "season": 1960,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
     },
     {
+        "date": "1959-05-10",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:55:51.3",
         "round": 1,
-        "season": 1959
+        "season": 1959,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
     },
     {
+        "date": "1958-05-18",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:52:27.9",
         "round": 2,
-        "season": 1958
+        "season": 1958,
+        "winning_constructor": "Cooper 🇬🇧",
+        "winning_driver": "Maurice Trintignant 🇫🇷"
     },
     {
+        "date": "1957-05-19",
         "laps_completed": 105,
         "name": "Monaco Grand Prix",
         "race_duration": "3:10:12.8",
         "round": 2,
-        "season": 1957
+        "season": 1957,
+        "winning_constructor": "Maserati 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
     },
     {
+        "date": "1956-05-13",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "3:00:32.9",
         "round": 2,
-        "season": 1956
+        "season": 1956,
+        "winning_constructor": "Maserati 🇮🇹",
+        "winning_driver": "Stirling Moss 🇬🇧"
     },
     {
+        "date": "1955-05-22",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "2:58:09.8",
         "round": 2,
-        "season": 1955
+        "season": 1955,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Maurice Trintignant 🇫🇷"
     },
     {
+        "date": "1950-05-21",
         "laps_completed": 100,
         "name": "Monaco Grand Prix",
         "race_duration": "3:13:18.7",
         "round": 2,
-        "season": 1950
+        "season": 1950,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
     }
 ]

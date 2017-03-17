@@ -8,11 +8,31 @@
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race at Suzuka Circuit",
+        "title": "Rank of Formula 1® Drivers by Number of Wins at Suzuka Circuit",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Suzuka Circuit",
+        "title": "Rank of Formula 1® Drivers by Number of Podiums at Suzuka Circuit",
         "url": "podium-drivers"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Fastest Laps at Suzuka Circuit",
+        "url": "fastest-laps"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Laps Led at Suzuka Circuit",
+        "url": "laps-led"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Starts from P1 at Suzuka Circuit",
+        "url": "starts-from-p1"
+    },
+    {
+        "title": "Rank of Grid Position by Number of Wins at Suzuka Circuit",
+        "url": "grid-position-wins"
+    },
+    {
+        "title": "Number of Wins by Grid Position at Suzuka Circuit",
+        "url": "grid-position-wins-list"
     }
 ]

@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Been in the Podium at Circuit de Nevers Magny-Cours
+title: Rank of Formula 1® Drivers by Number of Podiums at Circuit de Nevers Magny-Cours
 layout: page
 rowCount: 22
 ---
@@ -82,7 +82,7 @@ var data = {
                 1.0,
                 1.0
             ],
-            "label": "Times"
+            "label": "Number Of Podiums"
         }
     ],
     "labels": [
@@ -155,7 +155,7 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Times |
+| # | Driver | Number Of Podiums |
 |--|--|--|
 | 1. | Michael Schumacher 🇩🇪 | 11 |
 | 2. | Damon Hill 🇬🇧 | 4 |

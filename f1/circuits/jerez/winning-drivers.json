@@ -1,22 +1,22 @@
 [
     {
         "driver": "Alain Prost 🇫🇷",
-        "times": 2
+        "number_of_wins": 2
     },
     {
         "driver": "Ayrton Senna 🇧🇷",
-        "times": 2
+        "number_of_wins": 2
     },
     {
         "driver": "Michael Schumacher 🇩🇪",
-        "times": 1
+        "number_of_wins": 1
     },
     {
         "driver": "Mika Häkkinen 🇫🇮",
-        "times": 1
+        "number_of_wins": 1
     },
     {
         "driver": "Nigel Mansell 🇬🇧",
-        "times": 1
+        "number_of_wins": 1
     }
 ]

@@ -1,30 +1,42 @@
 [
     {
+        "date": "2013-10-06",
         "laps_completed": 55,
         "name": "Korean Grand Prix",
         "race_duration": "1:43:13.701",
         "round": 14,
-        "season": 2013
+        "season": 2013,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2012-10-14",
         "laps_completed": 55,
         "name": "Korean Grand Prix",
         "race_duration": "1:36:28.651",
         "round": 16,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2011-10-16",
         "laps_completed": 55,
         "name": "Korean Grand Prix",
         "race_duration": "1:38:01.994",
         "round": 16,
-        "season": 2011
+        "season": 2011,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2010-10-24",
         "laps_completed": 55,
         "name": "Korean Grand Prix",
         "race_duration": "2:48:20.810",
         "round": 17,
-        "season": 2010
+        "season": 2010,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     }
 ]

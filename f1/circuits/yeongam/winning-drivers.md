@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Won a Race at Korean International Circuit
+title: Rank of Formula 1® Drivers by Number of Wins at Korean International Circuit
 layout: page
 rowCount: 2
 ---
@@ -22,7 +22,7 @@ var data = {
                 3.0,
                 1.0
             ],
-            "label": "Times"
+            "label": "Number Of Wins"
         }
     ],
     "labels": [
@@ -75,7 +75,7 @@ var chart = new Chart("chart", {
 
 ### Data Table
 
-| # | Driver | Times |
+| # | Driver | Number Of Wins |
 |--|--|--|
 | 1. | Sebastian Vettel 🇩🇪 | 3 |
 | 2. | Fernando Alonso 🇪🇸 | 1 |

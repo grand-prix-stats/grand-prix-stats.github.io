@@ -1,44 +1,62 @@
 [
     {
+        "date": "1984-05-20",
         "laps_completed": 79,
         "name": "French Grand Prix",
         "race_duration": "1:31:11.951",
         "round": 5,
-        "season": 1984
+        "season": 1984,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "date": "1982-08-29",
         "laps_completed": 80,
         "name": "Swiss Grand Prix",
         "race_duration": "1:32:41.087",
         "round": 14,
-        "season": 1982
+        "season": 1982,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Keke Rosberg 🇫🇮"
     },
     {
+        "date": "1981-07-05",
         "laps_completed": 80,
         "name": "French Grand Prix",
         "race_duration": "1:35:48.13",
         "round": 8,
-        "season": 1981
+        "season": 1981,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1979-07-01",
         "laps_completed": 80,
         "name": "French Grand Prix",
         "race_duration": "1:35:20.42",
         "round": 8,
-        "season": 1979
+        "season": 1979,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Jean-Pierre Jabouille 🇫🇷"
     },
     {
+        "date": "1977-07-03",
         "laps_completed": 80,
         "name": "French Grand Prix",
         "race_duration": "1:39:40.13",
         "round": 9,
-        "season": 1977
+        "season": 1977,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
     },
     {
+        "date": "1974-07-07",
         "laps_completed": 80,
         "name": "French Grand Prix",
         "race_duration": "1:21:55.02",
         "round": 9,
-        "season": 1974
+        "season": 1974,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
     }
 ]

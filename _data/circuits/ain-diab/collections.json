@@ -8,11 +8,31 @@
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race at Ain Diab",
+        "title": "Rank of Formula 1® Drivers by Number of Wins at Ain Diab",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Ain Diab",
+        "title": "Rank of Formula 1® Drivers by Number of Podiums at Ain Diab",
         "url": "podium-drivers"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Fastest Laps at Ain Diab",
+        "url": "fastest-laps"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Laps Led at Ain Diab",
+        "url": "laps-led"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Starts from P1 at Ain Diab",
+        "url": "starts-from-p1"
+    },
+    {
+        "title": "Rank of Grid Position by Number of Wins at Ain Diab",
+        "url": "grid-position-wins"
+    },
+    {
+        "title": "Number of Wins by Grid Position at Ain Diab",
+        "url": "grid-position-wins-list"
     }
 ]

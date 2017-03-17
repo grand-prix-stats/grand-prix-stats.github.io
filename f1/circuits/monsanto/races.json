@@ -1,9 +1,12 @@
 [
     {
+        "date": "1959-08-23",
         "laps_completed": 62,
         "name": "Portuguese Grand Prix",
         "race_duration": "2:11:55.41",
         "round": 7,
-        "season": 1959
+        "season": 1959,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
     }
 ]

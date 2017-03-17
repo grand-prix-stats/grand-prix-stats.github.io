@@ -4,9 +4,9 @@ layout: page
 rowCount: 1
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 1959 | 6 | German Grand Prix | 60 | 2:09:31.6 |
+| Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|
+| 1959 | 6 | German Grand Prix | 1959-08-02 | 60 | 2:09:31.6 | Tony Brooks 🇬🇧 | Ferrari 🇮🇹 |
 
 #### Table Summary
 

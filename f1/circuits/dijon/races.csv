@@ -1,7 +1,7 @@
-name,race_duration,round,season,laps_completed
-French Grand Prix,1:31:11.951,5,1984,79
-French Grand Prix,1:35:48.13,8,1981,80
-French Grand Prix,1:35:20.42,8,1979,80
-French Grand Prix,1:39:40.13,9,1977,80
-French Grand Prix,1:21:55.02,9,1974,80
-Swiss Grand Prix,1:32:41.087,14,1982,80
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+French Grand Prix,1:31:11.951,5,79,McLaren 🇬🇧,1984-05-20,Niki Lauda 🇦🇹,1984
+French Grand Prix,1:35:48.13,8,80,Renault 🇫🇷,1981-07-05,Alain Prost 🇫🇷,1981
+French Grand Prix,1:35:20.42,8,80,Renault 🇫🇷,1979-07-01,Jean-Pierre Jabouille 🇫🇷,1979
+French Grand Prix,1:39:40.13,9,80,Team Lotus 🇬🇧,1977-07-03,Mario Andretti 🇺🇸,1977
+French Grand Prix,1:21:55.02,9,80,Team Lotus 🇬🇧,1974-07-07,Ronnie Peterson 🇸🇪,1974
+Swiss Grand Prix,1:32:41.087,14,80,Williams 🇬🇧,1982-08-29,Keke Rosberg 🇫🇮,1982

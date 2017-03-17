@@ -1,23 +1,32 @@
 [
     {
+        "date": "2013-10-27",
         "laps_completed": 60,
         "name": "Indian Grand Prix",
         "race_duration": "1:31:12.187",
         "round": 16,
-        "season": 2013
+        "season": 2013,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2012-10-28",
         "laps_completed": 60,
         "name": "Indian Grand Prix",
         "race_duration": "1:31:10.744",
         "round": 17,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2011-10-30",
         "laps_completed": 60,
         "name": "Indian Grand Prix",
         "race_duration": "1:30:35.002",
         "round": 17,
-        "season": 2011
+        "season": 2011,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     }
 ]

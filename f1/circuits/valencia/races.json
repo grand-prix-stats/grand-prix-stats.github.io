@@ -1,37 +1,52 @@
 [
     {
+        "date": "2012-06-24",
         "laps_completed": 57,
         "name": "European Grand Prix",
         "race_duration": "1:44:16.649",
         "round": 8,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "date": "2011-06-26",
         "laps_completed": 57,
         "name": "European Grand Prix",
         "race_duration": "1:39:36.169",
         "round": 8,
-        "season": 2011
+        "season": 2011,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2010-06-27",
         "laps_completed": 57,
         "name": "European Grand Prix",
         "race_duration": "1:40:29.571",
         "round": 9,
-        "season": 2010
+        "season": 2010,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "date": "2009-08-23",
         "laps_completed": 57,
         "name": "European Grand Prix",
         "race_duration": "1:35:51.289",
         "round": 11,
-        "season": 2009
+        "season": 2009,
+        "winning_constructor": "Brawn 🇬🇧",
+        "winning_driver": "Rubens Barrichello 🇧🇷"
     },
     {
+        "date": "2008-08-24",
         "laps_completed": 57,
         "name": "European Grand Prix",
         "race_duration": "1:35:32.339",
         "round": 12,
-        "season": 2008
+        "season": 2008,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Felipe Massa 🇧🇷"
     }
 ]

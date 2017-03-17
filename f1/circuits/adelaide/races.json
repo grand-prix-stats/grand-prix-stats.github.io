@@ -1,79 +1,112 @@
 [
     {
+        "date": "1995-11-12",
         "laps_completed": 81,
         "name": "Australian Grand Prix",
         "race_duration": "1:49:15.946",
         "round": 17,
-        "season": 1995
+        "season": 1995,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Damon Hill 🇬🇧"
     },
     {
+        "date": "1994-11-13",
         "laps_completed": 81,
         "name": "Australian Grand Prix",
         "race_duration": "1:47:51.4",
         "round": 16,
-        "season": 1994
+        "season": 1994,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "date": "1993-11-07",
         "laps_completed": 79,
         "name": "Australian Grand Prix",
         "race_duration": "1:43:27.476",
         "round": 16,
-        "season": 1993
+        "season": 1993,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1992-11-08",
         "laps_completed": 81,
         "name": "Australian Grand Prix",
         "race_duration": "1:46:54.786",
         "round": 16,
-        "season": 1992
+        "season": 1992,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Gerhard Berger 🇦🇹"
     },
     {
+        "date": "1991-11-03",
         "laps_completed": 14,
         "name": "Australian Grand Prix",
         "race_duration": "24:34.899",
         "round": 16,
-        "season": 1991
+        "season": 1991,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1990-11-04",
         "laps_completed": 81,
         "name": "Australian Grand Prix",
         "race_duration": "1:49:44.570",
         "round": 16,
-        "season": 1990
+        "season": 1990,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Nelson Piquet 🇧🇷"
     },
     {
+        "date": "1989-11-05",
         "laps_completed": 70,
         "name": "Australian Grand Prix",
         "race_duration": "2:00:17.421",
         "round": 16,
-        "season": 1989
+        "season": 1989,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Thierry Boutsen 🇧🇪"
     },
     {
+        "date": "1988-11-13",
         "laps_completed": 82,
         "name": "Australian Grand Prix",
         "race_duration": "1:53:14.676",
         "round": 16,
-        "season": 1988
+        "season": 1988,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1987-11-15",
         "laps_completed": 82,
         "name": "Australian Grand Prix",
         "race_duration": "1:52:56.144",
         "round": 16,
-        "season": 1987
+        "season": 1987,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gerhard Berger 🇦🇹"
     },
     {
+        "date": "1986-10-26",
         "laps_completed": 82,
         "name": "Australian Grand Prix",
         "race_duration": "1:54:20.388",
         "round": 16,
-        "season": 1986
+        "season": 1986,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1985-11-03",
         "laps_completed": 82,
         "name": "Australian Grand Prix",
         "race_duration": "2:00:40.473",
         "round": 16,
-        "season": 1985
+        "season": 1985,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Keke Rosberg 🇫🇮"
     }
 ]

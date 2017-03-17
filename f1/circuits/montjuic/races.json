@@ -1,30 +1,42 @@
 [
     {
+        "date": "1975-04-27",
         "laps_completed": 29,
         "name": "Spanish Grand Prix",
         "race_duration": "42:53.7",
         "round": 4,
-        "season": 1975
+        "season": 1975,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Jochen Mass 🇩🇪"
     },
     {
+        "date": "1973-04-29",
         "laps_completed": 75,
         "name": "Spanish Grand Prix",
         "race_duration": "1:48:18.7",
         "round": 4,
-        "season": 1973
+        "season": 1973,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
     },
     {
+        "date": "1971-04-18",
         "laps_completed": 75,
         "name": "Spanish Grand Prix",
         "race_duration": "1:49:03.4",
         "round": 2,
-        "season": 1971
+        "season": 1971,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "date": "1969-05-04",
         "laps_completed": 90,
         "name": "Spanish Grand Prix",
         "race_duration": "2:16:54.0",
         "round": 2,
-        "season": 1969
+        "season": 1969,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     }
 ]

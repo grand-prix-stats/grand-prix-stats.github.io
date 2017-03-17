@@ -199,8 +199,8 @@ var data = {
     "labels": [
         "2006",
         "1999",
-        "2005",
         "2000",
+        "2005",
         "1964",
         "1982",
         "2010",
@@ -307,8 +307,8 @@ This chart shows the percentage of points between constructor team champion and 
 |--|--|--|--|--|
 | 1. | 2006 | 97.57% | Renault 🇫🇷 | Ferrari 🇮🇹 |
 | 2. | 1999 | 96.88% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
-| 3. | 2005 | 95.29% | Renault 🇫🇷 | McLaren 🇬🇧 |
-| 4. | 2000 | 95.29% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
+| 3. | 2000 | 95.29% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
+| 4. | 2005 | 95.29% | Renault 🇫🇷 | McLaren 🇬🇧 |
 | 5. | 1964 | 93.33% | Ferrari 🇮🇹 | BRM 🇬🇧 |
 | 6. | 1982 | 93.24% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
 | 7. | 2010 | 91.16% | Red Bull 🇦🇹 | McLaren 🇬🇧 |

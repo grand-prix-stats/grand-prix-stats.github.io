@@ -1,37 +1,52 @@
 [
     {
+        "date": "1962-07-21",
         "laps_completed": 75,
         "name": "British Grand Prix",
         "race_duration": "2:26:20.8",
         "round": 5,
-        "season": 1962
+        "season": 1962,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
     },
     {
+        "date": "1961-07-15",
         "laps_completed": 75,
         "name": "British Grand Prix",
         "race_duration": "2:40:53.6",
         "round": 5,
-        "season": 1961
+        "season": 1961,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Wolfgang von Trips 🇩🇪"
     },
     {
+        "date": "1959-07-18",
         "laps_completed": 75,
         "name": "British Grand Prix",
         "race_duration": "2:30:11.6",
         "round": 5,
-        "season": 1959
+        "season": 1959,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
     },
     {
+        "date": "1957-07-20",
         "laps_completed": 90,
         "name": "British Grand Prix",
         "race_duration": "3:06:37.8",
         "round": 5,
-        "season": 1957
+        "season": 1957,
+        "winning_constructor": "Vanwall 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
     },
     {
+        "date": "1955-07-16",
         "laps_completed": 90,
         "name": "British Grand Prix",
         "race_duration": "3:07:21.2",
         "round": 6,
-        "season": 1955
+        "season": 1955,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Stirling Moss 🇬🇧"
     }
 ]

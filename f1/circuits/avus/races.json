@@ -1,9 +1,12 @@
 [
     {
+        "date": "1959-08-02",
         "laps_completed": 60,
         "name": "German Grand Prix",
         "race_duration": "2:09:31.6",
         "round": 6,
-        "season": 1959
+        "season": 1959,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Tony Brooks 🇬🇧"
     }
 ]

@@ -1,72 +1,102 @@
 [
     {
+        "date": "1989-03-26",
         "laps_completed": 61,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:38:58.744",
         "round": 1,
-        "season": 1989
+        "season": 1989,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "date": "1988-04-03",
         "laps_completed": 60,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:36:06.857",
         "round": 1,
-        "season": 1988
+        "season": 1988,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1987-04-12",
         "laps_completed": 61,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:39:45.141",
         "round": 1,
-        "season": 1987
+        "season": 1987,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1986-03-23",
         "laps_completed": 61,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:39:32.583",
         "round": 1,
-        "season": 1986
+        "season": 1986,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nelson Piquet 🇧🇷"
     },
     {
+        "date": "1985-04-07",
         "laps_completed": 61,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:41:26.115",
         "round": 1,
-        "season": 1985
+        "season": 1985,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1984-03-25",
         "laps_completed": 61,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:42:34.492",
         "round": 1,
-        "season": 1984
+        "season": 1984,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1983-03-13",
         "laps_completed": 63,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:48:27.731",
         "round": 1,
-        "season": 1983
+        "season": 1983,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Nelson Piquet 🇧🇷"
     },
     {
+        "date": "1982-03-21",
         "laps_completed": 63,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:44:33.134",
         "round": 2,
-        "season": 1982
+        "season": 1982,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1981-03-29",
         "laps_completed": 62,
         "name": "Brazilian Grand Prix",
         "race_duration": "2:00:23.66",
         "round": 2,
-        "season": 1981
+        "season": 1981,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
     },
     {
+        "date": "1978-01-29",
         "laps_completed": 63,
         "name": "Brazilian Grand Prix",
         "race_duration": "1:49:59.86",
         "round": 2,
-        "season": 1978
+        "season": 1978,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
     }
 ]

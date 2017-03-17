@@ -1,9 +1,9 @@
-name,race_duration,round,season,laps_completed
-Canadian Grand Prix,1:40:00.0,16,1977,80
-Canadian Grand Prix,1:40:09.626,14,1976,80
-Canadian Grand Prix,1:40:26.136,14,1974,80
-Canadian Grand Prix,1:59:04.083,14,1973,80
-Canadian Grand Prix,1:43:17.1,11,1972,80
-Canadian Grand Prix,1:55:13.1,10,1971,64
-Canadian Grand Prix,1:59:25.7,9,1969,90
-Canadian Grand Prix,2:40:40.0,8,1967,90
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Canadian Grand Prix,1:40:00.0,16,80,Wolf 🇨🇦,1977-10-09,Jody Scheckter 🇿🇦,1977
+Canadian Grand Prix,1:40:09.626,14,80,McLaren 🇬🇧,1976-10-03,James Hunt 🇬🇧,1976
+Canadian Grand Prix,1:40:26.136,14,80,McLaren 🇬🇧,1974-09-22,Emerson Fittipaldi 🇧🇷,1974
+Canadian Grand Prix,1:59:04.083,14,80,McLaren 🇬🇧,1973-09-23,Peter Revson 🇺🇸,1973
+Canadian Grand Prix,1:43:17.1,11,80,Tyrrell 🇬🇧,1972-09-24,Jackie Stewart 🇬🇧,1972
+Canadian Grand Prix,1:55:13.1,10,64,Tyrrell 🇬🇧,1971-09-19,Jackie Stewart 🇬🇧,1971
+Canadian Grand Prix,1:59:25.7,9,90,Brabham-Ford 🇬🇧,1969-09-20,Jacky Ickx 🇧🇪,1969
+Canadian Grand Prix,2:40:40.0,8,90,Brabham-Repco 🇬🇧,1967-08-27,Jack Brabham 🇦🇺,1967

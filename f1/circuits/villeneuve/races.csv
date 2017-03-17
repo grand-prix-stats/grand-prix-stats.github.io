@@ -1,39 +1,39 @@
-name,race_duration,round,season,laps_completed
-Canadian Grand Prix,,7,2017,
-Canadian Grand Prix,1:31:05.296,7,2016,70
-Canadian Grand Prix,1:31:53.145,7,2015,70
-Canadian Grand Prix,1:39:12.830,7,2014,70
-Canadian Grand Prix,1:32:09.143,7,2013,70
-Canadian Grand Prix,1:32:29.586,7,2012,70
-Canadian Grand Prix,4:04:39.537,7,2011,70
-Canadian Grand Prix,1:33:53.456,8,2010,70
-Canadian Grand Prix,1:36:24.227,7,2008,70
-Canadian Grand Prix,1:44:11.292,6,2007,70
-Canadian Grand Prix,1:32:09.290,8,2005,70
-Canadian Grand Prix,1:28:24.803,8,2004,70
-Canadian Grand Prix,1:31:13.591,8,2003,70
-Canadian Grand Prix,1:33:36.111,8,2002,70
-Canadian Grand Prix,1:34:31.522,8,2001,69
-Canadian Grand Prix,1:41:12.313,8,2000,69
-Canadian Grand Prix,1:41:35.727,6,1999,69
-Canadian Grand Prix,1:40:57.3,7,1998,69
-Canadian Grand Prix,1:17:40.646,7,1997,54
-Canadian Grand Prix,1:36:03.4,8,1996,69
-Canadian Grand Prix,1:44:54.171,6,1995,68
-Canadian Grand Prix,1:44:32.1,6,1994,69
-Canadian Grand Prix,1:36:41.822,7,1993,69
-Canadian Grand Prix,1:37:08.299,7,1992,69
-Canadian Grand Prix,1:38:51.490,5,1991,69
-Canadian Grand Prix,1:42:56.400,5,1990,70
-Canadian Grand Prix,2:01:24.073,6,1989,69
-Canadian Grand Prix,1:39:46.618,5,1988,69
-Canadian Grand Prix,1:42:26.415,6,1986,69
-Canadian Grand Prix,1:46:01.813,5,1985,70
-Canadian Grand Prix,1:46:23.748,7,1984,70
-Canadian Grand Prix,1:48:31.838,8,1983,70
-Canadian Grand Prix,1:46:39.577,8,1982,70
-Canadian Grand Prix,2:01:25.20,14,1981,63
-Canadian Grand Prix,1:46:45.53,13,1980,70
-Canadian Grand Prix,1:52:06.892,14,1979,72
-Canadian Grand Prix,1:57:49.196,16,1978,70
-Canadian Grand Prix,1:34:37.308,9,2006,70
+name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
+Canadian Grand Prix,,7,,,2017-06-11,,2017
+Canadian Grand Prix,1:31:05.296,7,70,Mercedes 🇩🇪,2016-06-12,Lewis Hamilton 🇬🇧,2016
+Canadian Grand Prix,1:31:53.145,7,70,Mercedes 🇩🇪,2015-06-07,Lewis Hamilton 🇬🇧,2015
+Canadian Grand Prix,1:39:12.830,7,70,Red Bull 🇦🇹,2014-06-08,Daniel Ricciardo 🇦🇺,2014
+Canadian Grand Prix,1:32:09.143,7,70,Red Bull 🇦🇹,2013-06-09,Sebastian Vettel 🇩🇪,2013
+Canadian Grand Prix,1:32:29.586,7,70,McLaren 🇬🇧,2012-06-10,Lewis Hamilton 🇬🇧,2012
+Canadian Grand Prix,4:04:39.537,7,70,McLaren 🇬🇧,2011-06-12,Jenson Button 🇬🇧,2011
+Canadian Grand Prix,1:33:53.456,8,70,McLaren 🇬🇧,2010-06-13,Lewis Hamilton 🇬🇧,2010
+Canadian Grand Prix,1:36:24.227,7,70,BMW Sauber 🇩🇪,2008-06-08,Robert Kubica 🇵🇱,2008
+Canadian Grand Prix,1:44:11.292,6,70,McLaren 🇬🇧,2007-06-10,Lewis Hamilton 🇬🇧,2007
+Canadian Grand Prix,1:32:09.290,8,70,McLaren 🇬🇧,2005-06-12,Kimi Räikkönen 🇫🇮,2005
+Canadian Grand Prix,1:28:24.803,8,70,Ferrari 🇮🇹,2004-06-13,Michael Schumacher 🇩🇪,2004
+Canadian Grand Prix,1:31:13.591,8,70,Ferrari 🇮🇹,2003-06-15,Michael Schumacher 🇩🇪,2003
+Canadian Grand Prix,1:33:36.111,8,70,Ferrari 🇮🇹,2002-06-09,Michael Schumacher 🇩🇪,2002
+Canadian Grand Prix,1:34:31.522,8,69,Williams 🇬🇧,2001-06-10,Ralf Schumacher 🇩🇪,2001
+Canadian Grand Prix,1:41:12.313,8,69,Ferrari 🇮🇹,2000-06-18,Michael Schumacher 🇩🇪,2000
+Canadian Grand Prix,1:41:35.727,6,69,McLaren 🇬🇧,1999-06-13,Mika Häkkinen 🇫🇮,1999
+Canadian Grand Prix,1:40:57.3,7,69,Ferrari 🇮🇹,1998-06-07,Michael Schumacher 🇩🇪,1998
+Canadian Grand Prix,1:17:40.646,7,54,Ferrari 🇮🇹,1997-06-15,Michael Schumacher 🇩🇪,1997
+Canadian Grand Prix,1:36:03.4,8,69,Williams 🇬🇧,1996-06-16,Damon Hill 🇬🇧,1996
+Canadian Grand Prix,1:44:54.171,6,68,Ferrari 🇮🇹,1995-06-11,Jean Alesi 🇫🇷,1995
+Canadian Grand Prix,1:44:32.1,6,69,Benetton 🇮🇹,1994-06-12,Michael Schumacher 🇩🇪,1994
+Canadian Grand Prix,1:36:41.822,7,69,Williams 🇬🇧,1993-06-13,Alain Prost 🇫🇷,1993
+Canadian Grand Prix,1:37:08.299,7,69,McLaren 🇬🇧,1992-06-14,Gerhard Berger 🇦🇹,1992
+Canadian Grand Prix,1:38:51.490,5,69,Benetton 🇮🇹,1991-06-02,Nelson Piquet 🇧🇷,1991
+Canadian Grand Prix,1:42:56.400,5,70,McLaren 🇬🇧,1990-06-10,Ayrton Senna 🇧🇷,1990
+Canadian Grand Prix,2:01:24.073,6,69,Williams 🇬🇧,1989-06-18,Thierry Boutsen 🇧🇪,1989
+Canadian Grand Prix,1:39:46.618,5,69,McLaren 🇬🇧,1988-06-12,Ayrton Senna 🇧🇷,1988
+Canadian Grand Prix,1:42:26.415,6,69,Williams 🇬🇧,1986-06-15,Nigel Mansell 🇬🇧,1986
+Canadian Grand Prix,1:46:01.813,5,70,Ferrari 🇮🇹,1985-06-16,Michele Alboreto 🇮🇹,1985
+Canadian Grand Prix,1:46:23.748,7,70,Brabham 🇬🇧,1984-06-17,Nelson Piquet 🇧🇷,1984
+Canadian Grand Prix,1:48:31.838,8,70,Ferrari 🇮🇹,1983-06-12,René Arnoux 🇫🇷,1983
+Canadian Grand Prix,1:46:39.577,8,70,Brabham 🇬🇧,1982-06-13,Nelson Piquet 🇧🇷,1982
+Canadian Grand Prix,2:01:25.20,14,63,Ligier 🇫🇷,1981-09-27,Jacques Laffite 🇫🇷,1981
+Canadian Grand Prix,1:46:45.53,13,70,Williams 🇬🇧,1980-09-28,Alan Jones 🇦🇺,1980
+Canadian Grand Prix,1:52:06.892,14,72,Williams 🇬🇧,1979-09-30,Alan Jones 🇦🇺,1979
+Canadian Grand Prix,1:57:49.196,16,70,Ferrari 🇮🇹,1978-10-08,Gilles Villeneuve 🇨🇦,1978
+Canadian Grand Prix,1:34:37.308,9,70,Renault 🇫🇷,2006-06-25,Fernando Alonso 🇪🇸,2006

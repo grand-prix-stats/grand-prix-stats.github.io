@@ -1,9 +1,12 @@
 [
     {
+        "date": "1967-07-02",
         "laps_completed": 80,
         "name": "French Grand Prix",
         "race_duration": "2:13:21.3",
         "round": 5,
-        "season": 1967
+        "season": 1967,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
     }
 ]

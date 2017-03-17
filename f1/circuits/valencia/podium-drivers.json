@@ -1,42 +1,42 @@
 [
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "times": 3
+        "number_of_podiums": 3
     },
     {
         "driver": "Fernando Alonso 🇪🇸",
-        "times": 2
+        "number_of_podiums": 2
     },
     {
         "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 2
+        "number_of_podiums": 2
     },
     {
         "driver": "Sebastian Vettel 🇩🇪",
-        "times": 2
+        "number_of_podiums": 2
     },
     {
         "driver": "Felipe Massa 🇧🇷",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Jenson Button 🇬🇧",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Mark Webber 🇦🇺",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Michael Schumacher 🇩🇪",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Robert Kubica 🇵🇱",
-        "times": 1
+        "number_of_podiums": 1
     },
     {
         "driver": "Rubens Barrichello 🇧🇷",
-        "times": 1
+        "number_of_podiums": 1
     }
 ]

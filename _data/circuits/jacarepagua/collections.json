@@ -8,11 +8,31 @@
         "url": "all-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Won a Race at Autódromo Internacional Nelson Piquet",
+        "title": "Rank of Formula 1® Drivers by Number of Wins at Autódromo Internacional Nelson Piquet",
         "url": "winning-drivers"
     },
     {
-        "title": "List of All Formula 1® Drivers that Have Been in the Podium at Autódromo Internacional Nelson Piquet",
+        "title": "Rank of Formula 1® Drivers by Number of Podiums at Autódromo Internacional Nelson Piquet",
         "url": "podium-drivers"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Fastest Laps at Autódromo Internacional Nelson Piquet",
+        "url": "fastest-laps"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Laps Led at Autódromo Internacional Nelson Piquet",
+        "url": "laps-led"
+    },
+    {
+        "title": "Rank of Formula 1® Drivers by Number of Starts from P1 at Autódromo Internacional Nelson Piquet",
+        "url": "starts-from-p1"
+    },
+    {
+        "title": "Rank of Grid Position by Number of Wins at Autódromo Internacional Nelson Piquet",
+        "url": "grid-position-wins"
+    },
+    {
+        "title": "Number of Wins by Grid Position at Autódromo Internacional Nelson Piquet",
+        "url": "grid-position-wins-list"
     }
 ]

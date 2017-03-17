@@ -1,16 +1,22 @@
 [
     {
+        "date": "2017-06-25",
         "laps_completed": null,
         "name": "Azerbaijan Grand Prix",
         "race_duration": null,
         "round": 8,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "date": "2016-06-19",
         "laps_completed": 51,
         "name": "European Grand Prix",
         "race_duration": "1:32:52.366",
         "round": 8,
-        "season": 2016
+        "season": 2016,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Nico Rosberg 🇩🇪"
     }
 ]

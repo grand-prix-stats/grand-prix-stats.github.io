@@ -4,10 +4,10 @@ layout: page
 rowCount: 2
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 1954 | 9 | Spanish Grand Prix | 80 | 3:13:52.1 |
-| 1951 | 8 | Spanish Grand Prix | 70 | 2:46:54.10 |
+| Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|
+| 1954 | 9 | Spanish Grand Prix | 1954-10-24 | 80 | 3:13:52.1 | Mike Hawthorn 🇬🇧 | Ferrari 🇮🇹 |
+| 1951 | 8 | Spanish Grand Prix | 1951-10-28 | 70 | 2:46:54.10 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
 
 #### Table Summary
 

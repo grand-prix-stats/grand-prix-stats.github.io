@@ -1,51 +1,72 @@
 [
     {
+        "date": "1997-10-26",
         "laps_completed": 69,
         "name": "European Grand Prix",
         "race_duration": "1:38:57.771",
         "round": 17,
-        "season": 1997
+        "season": 1997,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
     },
     {
+        "date": "1994-10-16",
         "laps_completed": 69,
         "name": "European Grand Prix",
         "race_duration": "1:40:27.3",
         "round": 14,
-        "season": 1994
+        "season": 1994,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "date": "1990-09-30",
         "laps_completed": 73,
         "name": "Spanish Grand Prix",
         "race_duration": "1:48:01.461",
         "round": 14,
-        "season": 1990
+        "season": 1990,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1989-10-01",
         "laps_completed": 73,
         "name": "Spanish Grand Prix",
         "race_duration": "1:47:48.264",
         "round": 14,
-        "season": 1989
+        "season": 1989,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "date": "1988-10-02",
         "laps_completed": 72,
         "name": "Spanish Grand Prix",
         "race_duration": "1:48:43.851",
         "round": 14,
-        "season": 1988
+        "season": 1988,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "date": "1987-09-27",
         "laps_completed": 72,
         "name": "Spanish Grand Prix",
         "race_duration": "1:49:12.692",
         "round": 13,
-        "season": 1987
+        "season": 1987,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "date": "1986-04-13",
         "laps_completed": 72,
         "name": "Spanish Grand Prix",
         "race_duration": "1:48:47.735",
         "round": 2,
-        "season": 1986
+        "season": 1986,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     }
 ]
