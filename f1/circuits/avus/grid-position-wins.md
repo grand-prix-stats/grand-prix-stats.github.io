@@ -1,7 +1,6 @@
 ---
 title: Rank of Grid Position by Number of Wins at AVUS
 layout: page
-rowCount: 15
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -111,18 +110,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -145,7 +132,17 @@ var chart = new Chart("chart", {
 | 14. | 14 | 0 |
 | 15. | 15 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 15.000 |
+| **Total Sum** | 1.000 |
+| **Mean (Average)** | 0.067 |
+| **Maximum** | 1.000 |
+| **75th Percentile** | 0.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 0.062 |
+| **Standard Deviation** | 0.249 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

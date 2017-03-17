@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of Races Finished
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Moore 🇺🇸 | 3 | 100.00% |
 | 120. | OSCA 🇮🇹 | 3 | 37.50% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 12841.000 |
+| **Mean (Average)** | 107.008 |
+| **Maximum** | 1463.000 |
+| **75th Percentile** | 102.000 |
+| **Median** | 39.000 |
+| **25th Percentile** | 9.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 41742.358 |
+| **Standard Deviation** | 204.309 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

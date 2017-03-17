@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Belgium by Number of Times
 layout: page
-rowCount: 380
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -387,7 +387,17 @@ rowCount: 380
 | Will Stevens 🇬🇧 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 380.000 |
+| **Total Sum** | 1437.000 |
+| **Mean (Average)** | 3.782 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 11.823 |
+| **Standard Deviation** | 3.439 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

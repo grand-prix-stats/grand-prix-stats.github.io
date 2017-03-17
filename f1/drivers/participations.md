@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Participations
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Mark Blundell 🇬🇧 | 63 |
 | 120. | Jochen Rindt 🇦🇹 | 62 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 15698.000 |
+| **Mean (Average)** | 130.817 |
+| **Maximum** | 326.000 |
+| **75th Percentile** | 165.000 |
+| **Median** | 112.000 |
+| **25th Percentile** | 84.000 |
+| **Minimum** | 62.000 |
+| **Variance** | 3531.766 |
+| **Standard Deviation** | 59.429 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

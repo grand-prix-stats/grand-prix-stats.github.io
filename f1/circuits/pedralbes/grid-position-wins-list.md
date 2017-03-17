@@ -1,7 +1,6 @@
 ---
 title: Number of Wins by Grid Position at Circuit de Pedralbes
 layout: page
-rowCount: 21
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -135,47 +134,45 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
 
-| # | Grid Position | Number Of Wins |
-|--|--|--|
-| 1. | 1 | 0 |
-| 2. | 2 | 1 |
-| 3. | 3 | 1 |
-| 4. | 4 | 0 |
-| 5. | 5 | 0 |
-| 6. | 6 | 0 |
-| 7. | 7 | 0 |
-| 8. | 8 | 0 |
-| 9. | 9 | 0 |
-| 10. | 10 | 0 |
-| 11. | 11 | 0 |
-| 12. | 12 | 0 |
-| 13. | 13 | 0 |
-| 14. | 14 | 0 |
-| 15. | 15 | 0 |
-| 16. | 16 | 0 |
-| 17. | 17 | 0 |
-| 18. | 18 | 0 |
-| 19. | 19 | 0 |
-| 20. | 20 | 0 |
-| 21. | 21 | 0 |
+| Grid Position | Number Of Wins |
+|--|--|
+| 1 | 0 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 0 |
+| 5 | 0 |
+| 6 | 0 |
+| 7 | 0 |
+| 8 | 0 |
+| 9 | 0 |
+| 10 | 0 |
+| 11 | 0 |
+| 12 | 0 |
+| 13 | 0 |
+| 14 | 0 |
+| 15 | 0 |
+| 16 | 0 |
+| 17 | 0 |
+| 18 | 0 |
+| 19 | 0 |
+| 20 | 0 |
+| 21 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 21.000 |
+| **Total Sum** | 2.000 |
+| **Mean (Average)** | 0.095 |
+| **Maximum** | 1.000 |
+| **75th Percentile** | 0.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 0.086 |
+| **Standard Deviation** | 0.294 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Yas Marina Circuit
 layout: page
-rowCount: 9
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -16,7 +16,17 @@ rowCount: 9
 | 2010 | 19 | Abu Dhabi Grand Prix | 2010-11-14 | 55 | 1:39:36.837 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
 | 2009 | 17 | Abu Dhabi Grand Prix | 2009-11-01 | 55 | 1:34:03.414 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 9.000 |
+| **Total Sum** | 168.000 |
+| **Mean (Average)** | 18.667 |
+| **Maximum** | 21.000 |
+| **75th Percentile** | 19.000 |
+| **Median** | 19.000 |
+| **25th Percentile** | 18.000 |
+| **Minimum** | 17.000 |
+| **Variance** | 1.556 |
+| **Standard Deviation** | 1.247 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

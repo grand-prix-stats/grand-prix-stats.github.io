@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Jarama
 layout: page
-rowCount: 102
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -109,7 +109,17 @@ rowCount: 102
 | Tom Pryce 🇬🇧 | 1 |
 | Wilson Fittipaldi 🇧🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 102.000 |
+| **Total Sum** | 236.000 |
+| **Mean (Average)** | 2.314 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.705 |
+| **Standard Deviation** | 1.645 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

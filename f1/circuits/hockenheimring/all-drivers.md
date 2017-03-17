@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Hockenheimring
 layout: page
-rowCount: 250
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -257,7 +257,17 @@ rowCount: 250
 | Volker Weidler 🇩🇪 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 250.000 |
+| **Total Sum** | 895.000 |
+| **Mean (Average)** | 3.580 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 11.724 |
+| **Standard Deviation** | 3.424 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

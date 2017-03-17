@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Circuit of the Americas
 layout: page
-rowCount: 5
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -71,18 +70,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -95,7 +82,17 @@ var chart = new Chart("chart", {
 | 4. | Daniel Ricciardo 🇦🇺 | 7 |
 | 5. | Romain Grosjean 🇫🇷 | 2 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 5.000 |
+| **Total Sum** | 280.000 |
+| **Mean (Average)** | 56.000 |
+| **Maximum** | 129.000 |
+| **75th Percentile** | 98.000 |
+| **Median** | 44.000 |
+| **25th Percentile** | 7.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 2510.800 |
+| **Standard Deviation** | 50.108 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

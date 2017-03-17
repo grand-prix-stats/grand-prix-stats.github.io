@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Brands Hatch
 layout: page
-rowCount: 145
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -152,7 +152,17 @@ rowCount: 145
 | Vic Elford 🇬🇧 | 1 |
 | Wilson Fittipaldi 🇧🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 145.000 |
+| **Total Sum** | 374.000 |
+| **Mean (Average)** | 2.579 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 3.044 |
+| **Standard Deviation** | 1.745 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

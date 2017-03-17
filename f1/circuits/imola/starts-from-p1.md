@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Starts from P1 at Autodromo Enzo e Dino Ferrari
 layout: page
-rowCount: 12
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -99,18 +98,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -130,7 +117,17 @@ var chart = new Chart("chart", {
 | 11. | Nelson Piquet 🇧🇷 | 1 |
 | 12. | Nigel Mansell 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 12.000 |
+| **Total Sum** | 27.000 |
+| **Mean (Average)** | 2.250 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 4.354 |
+| **Standard Deviation** | 2.087 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at AVUS
 layout: page
-rowCount: 15
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -22,7 +22,17 @@ rowCount: 15
 | Stirling Moss 🇬🇧 | 1 |
 | Tony Brooks 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 15.000 |
+| **Total Sum** | 15.000 |
+| **Mean (Average)** | 1.000 |
+| **Maximum** | 1.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.000 |
+| **Standard Deviation** | 0.000 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

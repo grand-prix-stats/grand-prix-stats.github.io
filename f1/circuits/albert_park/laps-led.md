@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Albert Park Grand Prix Circuit
 layout: page
-rowCount: 20
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -131,18 +130,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -170,7 +157,17 @@ var chart = new Chart("chart", {
 | 19. | Felipe Massa 🇧🇷 | 3 |
 | 20. | Rubens Barrichello 🇧🇷 | 2 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 20.000 |
+| **Total Sum** | 1213.000 |
+| **Mean (Average)** | 60.650 |
+| **Maximum** | 198.000 |
+| **75th Percentile** | 99.000 |
+| **Median** | 54.000 |
+| **25th Percentile** | 11.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 2819.028 |
+| **Standard Deviation** | 53.095 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

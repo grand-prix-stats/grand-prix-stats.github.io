@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Silverstone Circuit
 layout: page
-rowCount: 24
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -147,18 +146,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -190,7 +177,17 @@ var chart = new Chart("chart", {
 | 23. | Nick Heidfeld 🇩🇪 | 1 |
 | 24. | Valtteri Bottas 🇫🇮 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 24.000 |
+| **Total Sum** | 1203.000 |
+| **Mean (Average)** | 50.125 |
+| **Maximum** | 192.000 |
+| **75th Percentile** | 90.000 |
+| **Median** | 35.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 3110.609 |
+| **Standard Deviation** | 55.773 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

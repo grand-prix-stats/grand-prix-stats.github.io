@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Charade Circuit
 layout: page
-rowCount: 4
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -11,7 +11,17 @@ rowCount: 4
 | 1969 | 5 | French Grand Prix | 1969-07-06 | 38 | 1:56:47.4 | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
 | 1965 | 4 | French Grand Prix | 1965-06-27 | 40 | 2:41:38.4 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 4.000 |
+| **Total Sum** | 21.000 |
+| **Mean (Average)** | 5.250 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 6.000 |
+| **25th Percentile** | 5.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 0.688 |
+| **Standard Deviation** | 0.829 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

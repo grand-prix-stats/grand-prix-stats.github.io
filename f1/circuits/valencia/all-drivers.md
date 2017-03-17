@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Valencia Street Circuit
 layout: page
-rowCount: 41
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -48,7 +48,17 @@ rowCount: 41
 | Nelson Piquet Jr. 🇧🇷 | 1 |
 | Sébastien Bourdais 🇫🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 41.000 |
+| **Total Sum** | 112.000 |
+| **Mean (Average)** | 2.732 |
+| **Maximum** | 5.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.050 |
+| **Standard Deviation** | 1.432 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

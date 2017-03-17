@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Starts from P1 at Circuit Mont-Tremblant
 layout: page
-rowCount: 2
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -59,18 +58,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -80,7 +67,17 @@ var chart = new Chart("chart", {
 | 1. | Jackie Stewart 🇬🇧 | 1 |
 | 2. | Jochen Rindt 🇦🇹 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 2.000 |
+| **Total Sum** | 2.000 |
+| **Mean (Average)** | 1.000 |
+| **Maximum** | 1.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.000 |
+| **Standard Deviation** | 0.000 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

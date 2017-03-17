@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Brands Hatch
 layout: page
-rowCount: 14
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -21,7 +21,17 @@ rowCount: 14
 | 1966 | 4 | British Grand Prix | 1966-07-16 | 80 | 2:13:13.4 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
 | 1964 | 5 | British Grand Prix | 1964-07-11 | 80 | 2:15:07.0 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 14.000 |
+| **Total Sum** | 124.000 |
+| **Mean (Average)** | 8.857 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 10.000 |
+| **Median** | 9.000 |
+| **25th Percentile** | 7.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 7.694 |
+| **Standard Deviation** | 2.774 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of DNF (Did Not Finish)
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | BMW 🇩🇪 | 3 | 50.00% |
 | 120. | Emeryson 🇬🇧 | 3 | 27.27% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 8785.000 |
+| **Mean (Average)** | 73.208 |
+| **Maximum** | 618.000 |
+| **75th Percentile** | 75.000 |
+| **Median** | 34.000 |
+| **25th Percentile** | 11.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 11447.748 |
+| **Standard Deviation** | 106.994 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of Podiums
 layout: page
-rowCount: 72
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -339,18 +338,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -430,7 +417,17 @@ var chart = new Chart("chart", {
 | 71. | Shadow-Ford 🇬🇧 | 1 | 3.85% |
 | 72. | Toro Rosso 🇮🇹 | 1 | 0.24% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 72.000 |
+| **Total Sum** | 2889.000 |
+| **Mean (Average)** | 40.125 |
+| **Maximum** | 718.000 |
+| **75th Percentile** | 25.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 11296.832 |
+| **Standard Deviation** | 106.287 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in UK by Year
 layout: page
-rowCount: 71
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -78,7 +78,17 @@ rowCount: 71
 | 1951 | 5 | British Grand Prix | 90 | 2:42:18.2 |
 | 1950 | 1 | British Grand Prix | 70 | 2:13:23.6 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 71.000 |
+| **Total Sum** | 562.000 |
+| **Mean (Average)** | 7.915 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 9.000 |
+| **Median** | 8.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 5.542 |
+| **Standard Deviation** | 2.354 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuit de Monaco
 layout: page
-rowCount: 389
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -396,7 +396,17 @@ rowCount: 389
 | Will Stevens 🇬🇧 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 389.000 |
+| **Total Sum** | 1523.000 |
+| **Mean (Average)** | 3.915 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 14.057 |
+| **Standard Deviation** | 3.749 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

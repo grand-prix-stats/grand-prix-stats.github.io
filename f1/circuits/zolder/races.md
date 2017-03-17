@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Zolder
 layout: page
-rowCount: 10
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -17,7 +17,17 @@ rowCount: 10
 | 1975 | 6 | Belgian Grand Prix | 1975-05-25 | 70 | 1:43:53.98 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
 | 1973 | 5 | Belgian Grand Prix | 1973-05-20 | 70 | 1:42:13.43 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 10.000 |
+| **Total Sum** | 53.000 |
+| **Mean (Average)** | 5.300 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 5.000 |
+| **25th Percentile** | 5.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 1.010 |
+| **Standard Deviation** | 1.005 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

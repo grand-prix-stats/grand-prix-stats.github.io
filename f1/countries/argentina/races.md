@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Argentina by Year
 layout: page
-rowCount: 20
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -27,7 +27,17 @@ rowCount: 20
 | 1954 | 1 | Argentine Grand Prix | 87 | 3:00:55.8 |
 | 1953 | 1 | Argentine Grand Prix | 97 | 3:01:04.6 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 20.000 |
+| **Total Sum** | 29.000 |
+| **Mean (Average)** | 1.450 |
+| **Maximum** | 3.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.648 |
+| **Standard Deviation** | 0.805 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

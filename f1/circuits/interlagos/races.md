@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autódromo José Carlos Pace
 layout: page
-rowCount: 35
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -42,7 +42,17 @@ rowCount: 35
 | 1974 | 2 | Brazilian Grand Prix | 1974-01-27 | 32 | 1:24:37.06 | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
 | 1973 | 2 | Brazilian Grand Prix | 1973-02-11 | 40 | 1:43:55.6 | Emerson Fittipaldi 🇧🇷 | Team Lotus 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 35.000 |
+| **Total Sum** | 298.000 |
+| **Mean (Average)** | 8.514 |
+| **Maximum** | 20.000 |
+| **75th Percentile** | 18.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 63.393 |
+| **Standard Deviation** | 7.962 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

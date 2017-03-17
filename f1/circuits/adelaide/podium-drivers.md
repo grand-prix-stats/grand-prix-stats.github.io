@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Podiums at Adelaide Street Circuit
 layout: page
-rowCount: 18
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -123,18 +122,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -160,7 +147,17 @@ var chart = new Chart("chart", {
 | 17. | Riccardo Patrese 🇮🇹 | 1 |
 | 18. | Stefan Johansson 🇸🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 18.000 |
+| **Total Sum** | 33.000 |
+| **Mean (Average)** | 1.833 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.139 |
+| **Standard Deviation** | 1.067 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

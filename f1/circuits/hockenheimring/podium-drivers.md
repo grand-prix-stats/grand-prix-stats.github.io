@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Podiums at Hockenheimring
 layout: page
-rowCount: 51
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -255,18 +254,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -325,7 +312,17 @@ var chart = new Chart("chart", {
 | 50. | Stefan Johansson 🇸🇪 | 1 |
 | 51. | Valtteri Bottas 🇫🇮 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 51.000 |
+| **Total Sum** | 105.000 |
+| **Mean (Average)** | 2.059 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.134 |
+| **Standard Deviation** | 1.461 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

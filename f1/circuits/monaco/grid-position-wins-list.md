@@ -1,7 +1,6 @@
 ---
 title: Number of Wins by Grid Position at Circuit de Monaco
 layout: page
-rowCount: 27
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -159,53 +158,51 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
 
-| # | Grid Position | Number Of Wins |
-|--|--|--|
-| 1. | 1 | 28 |
-| 2. | 2 | 14 |
-| 3. | 3 | 11 |
-| 4. | 4 | 3 |
-| 5. | 5 | 4 |
-| 6. | 6 | 0 |
-| 7. | 7 | 0 |
-| 8. | 8 | 1 |
-| 9. | 9 | 1 |
-| 10. | 10 | 0 |
-| 11. | 11 | 0 |
-| 12. | 12 | 0 |
-| 13. | 13 | 0 |
-| 14. | 14 | 1 |
-| 15. | 15 | 0 |
-| 16. | 16 | 0 |
-| 17. | 17 | 0 |
-| 18. | 18 | 0 |
-| 19. | 19 | 0 |
-| 20. | 20 | 0 |
-| 21. | 21 | 0 |
-| 22. | 22 | 0 |
-| 23. | 23 | 0 |
-| 24. | 24 | 0 |
-| 25. | 25 | 0 |
-| 26. | 26 | 0 |
-| 27. | 27 | 0 |
+| Grid Position | Number Of Wins |
+|--|--|
+| 1 | 28 |
+| 2 | 14 |
+| 3 | 11 |
+| 4 | 3 |
+| 5 | 4 |
+| 6 | 0 |
+| 7 | 0 |
+| 8 | 1 |
+| 9 | 1 |
+| 10 | 0 |
+| 11 | 0 |
+| 12 | 0 |
+| 13 | 0 |
+| 14 | 1 |
+| 15 | 0 |
+| 16 | 0 |
+| 17 | 0 |
+| 18 | 0 |
+| 19 | 0 |
+| 20 | 0 |
+| 21 | 0 |
+| 22 | 0 |
+| 23 | 0 |
+| 24 | 0 |
+| 25 | 0 |
+| 26 | 0 |
+| 27 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 27.000 |
+| **Total Sum** | 63.000 |
+| **Mean (Average)** | 2.333 |
+| **Maximum** | 28.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 36.370 |
+| **Standard Deviation** | 6.031 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

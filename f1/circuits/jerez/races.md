@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuito de Jerez
 layout: page
-rowCount: 7
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -14,7 +14,17 @@ rowCount: 7
 | 1987 | 13 | Spanish Grand Prix | 1987-09-27 | 72 | 1:49:12.692 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
 | 1986 | 2 | Spanish Grand Prix | 1986-04-13 | 72 | 1:48:47.735 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 7.000 |
+| **Total Sum** | 88.000 |
+| **Mean (Average)** | 12.571 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 14.000 |
+| **25th Percentile** | 13.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 19.959 |
+| **Standard Deviation** | 4.468 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Okayama International Circuit
 layout: page
-rowCount: 39
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -46,7 +46,17 @@ rowCount: 39
 | Roland Ratzenberger 🇦🇹 | 1 |
 | Taki Inoue 🇯🇵 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 39.000 |
+| **Total Sum** | 52.000 |
+| **Mean (Average)** | 1.333 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.222 |
+| **Standard Deviation** | 0.471 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

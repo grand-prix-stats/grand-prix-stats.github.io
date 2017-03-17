@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers from Venezuela by Surname
 layout: page
-rowCount: 3
+rowCount: {{rowCount}}
 ---
 
 | Forename | Surname | Country | Flag |
@@ -10,7 +10,17 @@ rowCount: 3
 | Ettore | Chimeri | [Venezuela](/f1/countries/venezuela) | 🇻🇪 |
 | Pastor | Maldonado | [Venezuela](/f1/countries/venezuela) | 🇻🇪 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

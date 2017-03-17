@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of Finishes in Points
 layout: page
-rowCount: 100
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -451,18 +450,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -570,7 +557,17 @@ var chart = new Chart("chart", {
 | 99. | Trevis 🇺🇸 | 1 | 16.67% |
 | 100. | Zakspeed 🇩🇪 | 1 | 0.75% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 100.000 |
+| **Total Sum** | 6478.000 |
+| **Mean (Average)** | 64.780 |
+| **Maximum** | 1173.000 |
+| **75th Percentile** | 50.000 |
+| **Median** | 13.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 25978.872 |
+| **Standard Deviation** | 161.180 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

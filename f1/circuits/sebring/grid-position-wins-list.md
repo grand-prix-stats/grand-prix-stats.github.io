@@ -1,7 +1,6 @@
 ---
 title: Number of Wins by Grid Position at Sebring International Raceway
 layout: page
-rowCount: 17
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -119,43 +118,41 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
 
-| # | Grid Position | Number Of Wins |
-|--|--|--|
-| 1. | 1 | 0 |
-| 2. | 2 | 0 |
-| 3. | 3 | 0 |
-| 4. | 4 | 0 |
-| 5. | 5 | 0 |
-| 6. | 6 | 0 |
-| 7. | 8 | 0 |
-| 8. | 9 | 0 |
-| 9. | 10 | 1 |
-| 10. | 11 | 0 |
-| 11. | 12 | 0 |
-| 12. | 13 | 0 |
-| 13. | 14 | 0 |
-| 14. | 15 | 0 |
-| 15. | 16 | 0 |
-| 16. | 17 | 0 |
-| 17. | 19 | 0 |
+| Grid Position | Number Of Wins |
+|--|--|
+| 1 | 0 |
+| 2 | 0 |
+| 3 | 0 |
+| 4 | 0 |
+| 5 | 0 |
+| 6 | 0 |
+| 8 | 0 |
+| 9 | 0 |
+| 10 | 1 |
+| 11 | 0 |
+| 12 | 0 |
+| 13 | 0 |
+| 14 | 0 |
+| 15 | 0 |
+| 16 | 0 |
+| 17 | 0 |
+| 19 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 17.000 |
+| **Total Sum** | 1.000 |
+| **Mean (Average)** | 0.059 |
+| **Maximum** | 1.000 |
+| **75th Percentile** | 0.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 0.055 |
+| **Standard Deviation** | 0.235 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

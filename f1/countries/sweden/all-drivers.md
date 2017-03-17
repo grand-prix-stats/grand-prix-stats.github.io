@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Sweden by Number of Times
 layout: page
-rowCount: 72
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -79,7 +79,17 @@ rowCount: 72
 | Tony Brise 🇬🇧 | 1 |
 | Torsten Palm 🇸🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 72.000 |
+| **Total Sum** | 159.000 |
+| **Mean (Average)** | 2.208 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.720 |
+| **Standard Deviation** | 1.649 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

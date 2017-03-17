@@ -1,7 +1,6 @@
 ---
 title: Rank of Grid Position by Number of Wins at Autódromo do Estoril
 layout: page
-rowCount: 28
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -163,18 +162,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -210,7 +197,17 @@ var chart = new Chart("chart", {
 | 27. | 27 | 0 |
 | 28. | 29 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 28.000 |
+| **Total Sum** | 13.000 |
+| **Mean (Average)** | 0.464 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 0.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 2.034 |
+| **Standard Deviation** | 1.426 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

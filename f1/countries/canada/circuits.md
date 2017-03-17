@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Circuits in Canada by Name
 layout: page
-rowCount: 3
+rowCount: {{rowCount}}
 ---
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
@@ -10,7 +10,17 @@ rowCount: 3
 | [Mosport International Raceway](/f1/circuits/mosport) | Ontario | [Canada](/f1/countries/canada) | 8 | Jackie Stewart 🇬🇧 | 2 |
 | [Circuit Mont-Tremblant](/f1/circuits/tremblant) | Quebec | [Canada](/f1/countries/canada) | 2 | Jacky Ickx 🇧🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

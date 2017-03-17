@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Red Bull Ring
 layout: page
-rowCount: 30
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -37,7 +37,17 @@ rowCount: 30
 | Roberto Merhi 🇪🇸 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 30.000 |
+| **Total Sum** | 64.000 |
+| **Mean (Average)** | 2.133 |
+| **Maximum** | 3.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.782 |
+| **Standard Deviation** | 0.884 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Shanghai International Circuit
 layout: page
-rowCount: 14
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -21,7 +21,17 @@ rowCount: 14
 | 2005 | 19 | Chinese Grand Prix | 2005-10-16 | 56 | 1:39:53.618 | Fernando Alonso 🇪🇸 | Renault 🇫🇷 |
 | 2004 | 16 | Chinese Grand Prix | 2004-09-26 | 56 | 1:29:12.420 | Rubens Barrichello 🇧🇷 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 14.000 |
+| **Total Sum** | 112.000 |
+| **Mean (Average)** | 8.000 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 16.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 43.714 |
+| **Standard Deviation** | 6.612 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

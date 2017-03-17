@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of Pole Positions
 layout: page
-rowCount: 47
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -239,18 +238,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -305,7 +292,17 @@ var chart = new Chart("chart", {
 | 46. | Toro Rosso 🇮🇹 | 1 | 0.24% |
 | 47. | Wolf 🇨🇦 | 1 | 1.27% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 47.000 |
+| **Total Sum** | 966.000 |
+| **Mean (Average)** | 20.553 |
+| **Maximum** | 213.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1788.332 |
+| **Standard Deviation** | 42.289 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

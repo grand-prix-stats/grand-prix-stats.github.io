@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Bahrain International Circuit
 layout: page
-rowCount: 73
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -80,7 +80,17 @@ rowCount: 73
 | Yuji Ide 🇯🇵 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 73.000 |
+| **Total Sum** | 260.000 |
+| **Mean (Average)** | 3.562 |
+| **Maximum** | 12.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 8.301 |
+| **Standard Deviation** | 2.881 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

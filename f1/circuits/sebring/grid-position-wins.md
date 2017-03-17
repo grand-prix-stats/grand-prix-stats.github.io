@@ -1,7 +1,6 @@
 ---
 title: Rank of Grid Position by Number of Wins at Sebring International Raceway
 layout: page
-rowCount: 17
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -119,18 +118,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -155,7 +142,17 @@ var chart = new Chart("chart", {
 | 16. | 17 | 0 |
 | 17. | 19 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 17.000 |
+| **Total Sum** | 1.000 |
+| **Mean (Average)** | 0.059 |
+| **Maximum** | 1.000 |
+| **75th Percentile** | 0.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 0.055 |
+| **Standard Deviation** | 0.235 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

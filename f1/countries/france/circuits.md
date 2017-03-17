@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Circuits in France by Name
 layout: page
-rowCount: 7
+rowCount: {{rowCount}}
 ---
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
@@ -14,7 +14,17 @@ rowCount: 7
 | [Reims-Gueux](/f1/circuits/reims) | Reims | [France](/f1/countries/france) | 11 | Juan Fangio 🇦🇷 | 3 |
 | [Rouen-Les-Essarts](/f1/circuits/essarts) | Rouen | [France](/f1/countries/france) | 5 | Dan Gurney 🇺🇸 | 2 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

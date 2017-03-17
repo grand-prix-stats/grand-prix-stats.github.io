@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Suzuka Circuit
 layout: page
-rowCount: 161
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -168,7 +168,17 @@ rowCount: 161
 | Will Stevens 🇬🇧 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 161.000 |
+| **Total Sum** | 671.000 |
+| **Mean (Average)** | 4.168 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 12.624 |
+| **Standard Deviation** | 3.553 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

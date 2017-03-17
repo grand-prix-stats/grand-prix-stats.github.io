@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Fuji Speedway
 layout: page
-rowCount: 58
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -65,7 +65,17 @@ rowCount: 58
 | Tony Trimmer 🇬🇧 | 1 |
 | Vitantonio Liuzzi 🇮🇹 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 58.000 |
+| **Total Sum** | 91.000 |
+| **Mean (Average)** | 1.569 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.245 |
+| **Standard Deviation** | 0.495 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

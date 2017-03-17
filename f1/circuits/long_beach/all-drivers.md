@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Long Beach
 layout: page
-rowCount: 76
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -83,7 +83,17 @@ rowCount: 76
 | Teo Fabi 🇮🇹 | 1 |
 | Tom Pryce 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 76.000 |
+| **Total Sum** | 220.000 |
+| **Mean (Average)** | 2.895 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 4.226 |
+| **Standard Deviation** | 2.056 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

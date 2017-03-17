@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Reims-Gueux
 layout: page
-rowCount: 11
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -18,7 +18,17 @@ rowCount: 11
 | 1951 | 4 | French Grand Prix | 1951-07-01 | 77 | 3:22:11.0 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
 | 1950 | 6 | French Grand Prix | 1950-07-02 | 64 | 2:57:52.8 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 11.000 |
+| **Total Sum** | 51.000 |
+| **Mean (Average)** | 4.636 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 0.959 |
+| **Standard Deviation** | 0.979 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

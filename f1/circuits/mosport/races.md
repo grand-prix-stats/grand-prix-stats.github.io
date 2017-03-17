@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Mosport International Raceway
 layout: page
-rowCount: 8
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -15,7 +15,17 @@ rowCount: 8
 | 1969 | 9 | Canadian Grand Prix | 1969-09-20 | 90 | 1:59:25.7 | Jacky Ickx 🇧🇪 | Brabham-Ford 🇬🇧 |
 | 1967 | 8 | Canadian Grand Prix | 1967-08-27 | 90 | 2:40:40.0 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 8.000 |
+| **Total Sum** | 96.000 |
+| **Mean (Average)** | 12.000 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 14.000 |
+| **25th Percentile** | 10.000 |
+| **Minimum** | 8.000 |
+| **Variance** | 7.250 |
+| **Standard Deviation** | 2.693 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

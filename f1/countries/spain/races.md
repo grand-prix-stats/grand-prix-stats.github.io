@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Spain by Year
 layout: page
-rowCount: 54
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -61,7 +61,17 @@ rowCount: 54
 | 1954 | 9 | Spanish Grand Prix | 80 | 3:13:52.1 |
 | 1951 | 8 | Spanish Grand Prix | 70 | 2:46:54.10 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 54.000 |
+| **Total Sum** | 348.000 |
+| **Mean (Average)** | 6.444 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 8.000 |
+| **Median** | 5.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 13.247 |
+| **Standard Deviation** | 3.640 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

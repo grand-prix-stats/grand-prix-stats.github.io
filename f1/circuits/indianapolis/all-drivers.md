@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Indianapolis Motor Speedway
 layout: page
-rowCount: 161
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -168,7 +168,17 @@ rowCount: 161
 | Wayne Weiler 🇺🇸 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 161.000 |
+| **Total Sum** | 573.000 |
+| **Mean (Average)** | 3.559 |
+| **Maximum** | 13.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 7.526 |
+| **Standard Deviation** | 2.743 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

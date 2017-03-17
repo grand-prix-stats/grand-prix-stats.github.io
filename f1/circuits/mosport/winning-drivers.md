@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Wins at Mosport International Raceway
 layout: page
-rowCount: 7
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -79,18 +78,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -105,7 +92,17 @@ var chart = new Chart("chart", {
 | 6. | Jody Scheckter 🇿🇦 | 1 |
 | 7. | Peter Revson 🇺🇸 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 7.000 |
+| **Total Sum** | 8.000 |
+| **Mean (Average)** | 1.143 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.122 |
+| **Standard Deviation** | 0.350 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

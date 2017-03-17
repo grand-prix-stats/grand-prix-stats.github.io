@@ -1,7 +1,6 @@
 ---
 title: List of Formula 1® Seasons by 1st to 2nd Point Percentage Difference in Constructor's Championship
 layout: page
-rowCount: 59
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -287,18 +286,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 This chart shows the percentage of points between constructor team champion and runner-up. 100% means the runner-up finished with the same number of points as the champion. 50% means the runner-up finished with half the points of the champion. The seasons where the percentage is closer to 100% indicate close battles between two constructor teams. The seasons where the percentage is lower indicate a greater dominance by the champion constructor team.
 
 ### Data Table
@@ -365,7 +352,17 @@ This chart shows the percentage of points between constructor team champion and 
 | 58. | 1996 | 40.00% | Williams 🇬🇧 | Ferrari 🇮🇹 |
 | 59. | 1988 | 32.66% | McLaren 🇬🇧 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

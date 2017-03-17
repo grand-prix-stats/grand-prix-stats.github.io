@@ -1,7 +1,6 @@
 ---
 title: Rank of Grid Position by Number of Wins at Yas Marina Circuit
 layout: page
-rowCount: 24
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -147,18 +146,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -190,7 +177,17 @@ var chart = new Chart("chart", {
 | 23. | 23 | 0 |
 | 24. | 24 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 24.000 |
+| **Total Sum** | 8.000 |
+| **Mean (Average)** | 0.333 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 0.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 0.972 |
+| **Standard Deviation** | 0.986 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

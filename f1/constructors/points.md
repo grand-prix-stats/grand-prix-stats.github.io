@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of Points
 layout: page
-rowCount: 100
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -451,18 +450,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -570,7 +557,17 @@ var chart = new Chart("chart", {
 | 99. | Tecno 🇮🇹 | 1.0 |
 | 100. | Trevis 🇺🇸 | 1.0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 100.000 |
+| **Total Sum** | 36054.550 |
+| **Mean (Average)** | 360.546 |
+| **Maximum** | 7561.770 |
+| **75th Percentile** | 209.000 |
+| **Median** | 37.000 |
+| **25th Percentile** | 8.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1140344.061 |
+| **Standard Deviation** | 1067.869 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

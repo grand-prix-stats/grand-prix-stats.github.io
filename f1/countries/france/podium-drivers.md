@@ -1,7 +1,6 @@
 ---
 title: List of All Formula 1® Drivers that Have Been in the Podium in France by Number of Times
 layout: page
-rowCount: 81
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -375,18 +374,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -475,7 +462,17 @@ var chart = new Chart("chart", {
 | 80. | Tony Brooks 🇬🇧 | 1 |
 | 81. | Wolfgang von Trips 🇩🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 81.000 |
+| **Total Sum** | 179.000 |
+| **Mean (Average)** | 2.210 |
+| **Maximum** | 12.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 3.845 |
+| **Standard Deviation** | 1.961 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

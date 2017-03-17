@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Autódromo do Estoril
 layout: page
-rowCount: 101
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -108,7 +108,17 @@ rowCount: 101
 | Stefan Bellof 🇩🇪 | 1 |
 | Taki Inoue 🇯🇵 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 101.000 |
+| **Total Sum** | 367.000 |
+| **Mean (Average)** | 3.634 |
+| **Maximum** | 13.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 8.094 |
+| **Standard Deviation** | 2.845 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

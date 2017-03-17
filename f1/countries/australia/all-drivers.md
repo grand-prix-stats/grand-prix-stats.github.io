@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Australia by Number of Times
 layout: page
-rowCount: 174
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -181,7 +181,17 @@ rowCount: 174
 | Yuji Ide 🇯🇵 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 174.000 |
+| **Total Sum** | 768.000 |
+| **Mean (Average)** | 4.414 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 15.633 |
+| **Standard Deviation** | 3.954 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

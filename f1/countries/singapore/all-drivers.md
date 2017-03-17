@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Singapore by Number of Times
 layout: page
-rowCount: 56
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -63,7 +63,17 @@ rowCount: 56
 | Sébastien Bourdais 🇫🇷 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 56.000 |
+| **Total Sum** | 198.000 |
+| **Mean (Average)** | 3.536 |
+| **Maximum** | 9.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 6.070 |
+| **Standard Deviation** | 2.464 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Rouen-Les-Essarts
 layout: page
-rowCount: 66
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -73,7 +73,17 @@ rowCount: 66
 | Vic Elford 🇬🇧 | 1 |
 | Yves Cabantous 🇫🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 66.000 |
+| **Total Sum** | 94.000 |
+| **Mean (Average)** | 1.424 |
+| **Maximum** | 5.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.669 |
+| **Standard Deviation** | 0.818 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

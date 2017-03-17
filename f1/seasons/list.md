@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Seasons
 layout: page
-rowCount: 68
+rowCount: {{rowCount}}
 ---
 
 | Year | Rounds | Drivers Champion | Drivers Champion Points | Drivers Second | Drivers Second Points | Drivers Third | Drivers Third Points | Constructors Champion | Constructors Champion Points | Constructors Second | Constructors Second Points | Constructors Third | Constructors Third Points |
@@ -75,7 +75,17 @@ rowCount: 68
 | 1951 | 8 | Juan Fangio 🇦🇷 | 31.0 | Alberto Ascari 🇮🇹 | 25.0 | José Froilán González 🇦🇷 | 24.0 |   |   |   |   |   |   |
 | 1950 | 7 | Nino Farina 🇮🇹 | 30.0 | Juan Fangio 🇦🇷 | 27.0 | Luigi Fagioli 🇮🇹 | 24.0 |   |   |   |   |   |   |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 68.000 |
+| **Total Sum** | 976.000 |
+| **Mean (Average)** | 14.353 |
+| **Maximum** | 21.000 |
+| **75th Percentile** | 17.000 |
+| **Median** | 16.000 |
+| **25th Percentile** | 11.000 |
+| **Minimum** | 7.000 |
+| **Variance** | 14.287 |
+| **Standard Deviation** | 3.780 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

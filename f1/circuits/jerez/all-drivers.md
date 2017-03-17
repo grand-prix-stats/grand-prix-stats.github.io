@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuito de Jerez
 layout: page
-rowCount: 87
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -94,7 +94,17 @@ rowCount: 87
 | Shinji Nakano 🇯🇵 | 1 |
 | Tarso Marques 🇧🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 87.000 |
+| **Total Sum** | 204.000 |
+| **Mean (Average)** | 2.345 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.318 |
+| **Standard Deviation** | 1.522 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

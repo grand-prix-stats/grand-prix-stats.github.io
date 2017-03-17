@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Sepang International Circuit
 layout: page
-rowCount: 96
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -103,7 +103,17 @@ rowCount: 96
 | Yuji Ide 🇯🇵 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 96.000 |
+| **Total Sum** | 392.000 |
+| **Mean (Average)** | 4.083 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 14.618 |
+| **Standard Deviation** | 3.823 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

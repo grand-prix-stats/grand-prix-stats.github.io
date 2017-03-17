@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Shanghai International Circuit
 layout: page
-rowCount: 73
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -80,7 +80,17 @@ rowCount: 73
 | Will Stevens 🇬🇧 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 73.000 |
+| **Total Sum** | 282.000 |
+| **Mean (Average)** | 3.863 |
+| **Maximum** | 13.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 10.310 |
+| **Standard Deviation** | 3.211 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

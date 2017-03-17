@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Valencia Street Circuit
 layout: page
-rowCount: 5
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -12,7 +12,17 @@ rowCount: 5
 | 2009 | 11 | European Grand Prix | 2009-08-23 | 57 | 1:35:51.289 | Rubens Barrichello 🇧🇷 | Brawn 🇬🇧 |
 | 2008 | 12 | European Grand Prix | 2008-08-24 | 57 | 1:35:32.339 | Felipe Massa 🇧🇷 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 5.000 |
+| **Total Sum** | 48.000 |
+| **Mean (Average)** | 9.600 |
+| **Maximum** | 12.000 |
+| **75th Percentile** | 11.000 |
+| **Median** | 9.000 |
+| **25th Percentile** | 8.000 |
+| **Minimum** | 8.000 |
+| **Variance** | 2.640 |
+| **Standard Deviation** | 1.625 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

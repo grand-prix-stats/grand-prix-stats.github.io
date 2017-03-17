@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Autodromo Enzo e Dino Ferrari
 layout: page
-rowCount: 171
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -178,7 +178,17 @@ rowCount: 171
 | Yuji Ide 🇯🇵 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 171.000 |
+| **Total Sum** | 695.000 |
+| **Mean (Average)** | 4.064 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 12.703 |
+| **Standard Deviation** | 3.564 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

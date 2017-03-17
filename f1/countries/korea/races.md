@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Korea by Year
 layout: page
-rowCount: 4
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -11,7 +11,17 @@ rowCount: 4
 | 2011 | 16 | Korean Grand Prix | 55 | 1:38:01.994 |
 | 2010 | 17 | Korean Grand Prix | 55 | 2:48:20.810 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 4.000 |
+| **Total Sum** | 63.000 |
+| **Mean (Average)** | 15.750 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 17.000 |
+| **Median** | 16.000 |
+| **25th Percentile** | 16.000 |
+| **Minimum** | 14.000 |
+| **Variance** | 1.188 |
+| **Standard Deviation** | 1.090 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

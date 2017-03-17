@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autodromo Enzo e Dino Ferrari
 layout: page
-rowCount: 27
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -34,7 +34,17 @@ rowCount: 27
 | 1981 | 4 | San Marino Grand Prix | 1981-05-03 | 60 | 1:51:23.97 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
 | 1980 | 12 | Italian Grand Prix | 1980-09-14 | 60 | 1:38:07.52 | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 27.000 |
+| **Total Sum** | 104.000 |
+| **Mean (Average)** | 3.852 |
+| **Maximum** | 12.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 3.163 |
+| **Standard Deviation** | 1.779 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

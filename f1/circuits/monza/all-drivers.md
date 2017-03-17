@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Autodromo Nazionale di Monza
 layout: page
-rowCount: 453
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -460,7 +460,17 @@ rowCount: 453
 | Vic Wilson 🇬🇧 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 453.000 |
+| **Total Sum** | 1676.000 |
+| **Mean (Average)** | 3.700 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 12.351 |
+| **Standard Deviation** | 3.514 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

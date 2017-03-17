@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Charade Circuit
 layout: page
-rowCount: 50
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -57,7 +57,17 @@ rowCount: 50
 | Vic Elford 🇬🇧 | 1 |
 | Wilson Fittipaldi 🇧🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 50.000 |
+| **Total Sum** | 78.000 |
+| **Mean (Average)** | 1.560 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.886 |
+| **Standard Deviation** | 0.941 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

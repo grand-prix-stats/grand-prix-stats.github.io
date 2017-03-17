@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Albert Park Grand Prix Circuit
 layout: page
-rowCount: 22
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -29,7 +29,17 @@ rowCount: 22
 | 1997 | 1 | Australian Grand Prix | 1997-03-09 | 58 | 1:30:28.718 | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
 | 1996 | 1 | Australian Grand Prix | 1996-03-10 | 58 | 1:32:50.4 | Damon Hill 🇬🇧 | Williams 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 22.000 |
+| **Total Sum** | 25.000 |
+| **Mean (Average)** | 1.136 |
+| **Maximum** | 3.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.209 |
+| **Standard Deviation** | 0.457 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

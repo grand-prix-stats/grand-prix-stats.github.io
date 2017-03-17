@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Silverstone Circuit
 layout: page
-rowCount: 51
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -58,7 +58,17 @@ rowCount: 51
 | 1951 | 5 | British Grand Prix | 1951-07-14 | 90 | 2:42:18.2 | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
 | 1950 | 1 | British Grand Prix | 1950-05-13 | 70 | 2:13:23.6 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 51.000 |
+| **Total Sum** | 409.000 |
+| **Mean (Average)** | 8.020 |
+| **Maximum** | 11.000 |
+| **75th Percentile** | 9.000 |
+| **Median** | 8.000 |
+| **25th Percentile** | 7.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 4.137 |
+| **Standard Deviation** | 2.034 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

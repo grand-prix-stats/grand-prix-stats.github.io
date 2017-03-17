@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in France by Year
 layout: page
-rowCount: 59
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -66,7 +66,17 @@ rowCount: 59
 | 1951 | 4 | French Grand Prix | 77 | 3:22:11.0 |
 | 1950 | 6 | French Grand Prix | 64 | 2:57:52.8 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 59.000 |
+| **Total Sum** | 410.000 |
+| **Mean (Average)** | 6.949 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 8.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 5.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 5.438 |
+| **Standard Deviation** | 2.332 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in USA by Year
 layout: page
-rowCount: 68
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -75,7 +75,17 @@ rowCount: 68
 | 1951 | 2 | Indianapolis 500 | 200 | 3:57:38.05 |
 | 1950 | 3 | Indianapolis 500 | 138 | 2:46:55.97 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 68.000 |
+| **Total Sum** | 602.000 |
+| **Mean (Average)** | 8.853 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 15.000 |
+| **Median** | 9.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 28.272 |
+| **Standard Deviation** | 5.317 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

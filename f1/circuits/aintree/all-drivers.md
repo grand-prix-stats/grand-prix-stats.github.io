@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Aintree
 layout: page
-rowCount: 77
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -84,7 +84,17 @@ rowCount: 77
 | Tony Shelly 🇳🇿 | 1 |
 | Wolfgang von Trips 🇩🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 77.000 |
+| **Total Sum** | 138.000 |
+| **Mean (Average)** | 1.792 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.333 |
+| **Standard Deviation** | 1.155 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

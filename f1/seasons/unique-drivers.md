@@ -1,7 +1,6 @@
 ---
 title: Number of Participating Drivers per Formula 1® Season
 layout: page
-rowCount: 68
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -323,18 +322,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -410,7 +397,17 @@ var chart = new Chart("chart", {
 | 2016 | 24 |
 | 2017 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 68.000 |
+| **Total Sum** | 3034.000 |
+| **Mean (Average)** | 44.618 |
+| **Maximum** | 108.000 |
+| **75th Percentile** | 54.000 |
+| **Median** | 39.000 |
+| **25th Percentile** | 27.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 540.413 |
+| **Standard Deviation** | 23.247 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

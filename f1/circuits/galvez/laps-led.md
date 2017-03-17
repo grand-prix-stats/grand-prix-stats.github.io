@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Autódromo Juan y Oscar Gálvez
 layout: page
-rowCount: 6
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -75,18 +74,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -100,7 +87,17 @@ var chart = new Chart("chart", {
 | 5. | Eddie Irvine 🇬🇧 | 6 |
 | 6. | David Coulthard 🇬🇧 | 4 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 6.000 |
+| **Total Sum** | 216.000 |
+| **Mean (Average)** | 36.000 |
+| **Maximum** | 72.000 |
+| **75th Percentile** | 66.000 |
+| **Median** | 54.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 821.333 |
+| **Standard Deviation** | 28.659 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

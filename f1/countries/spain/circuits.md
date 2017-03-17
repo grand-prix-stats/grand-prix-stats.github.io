@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Circuits in Spain by Name
 layout: page
-rowCount: 6
+rowCount: {{rowCount}}
 ---
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
@@ -13,7 +13,17 @@ rowCount: 6
 | [Circuit de Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | Michael Schumacher 🇩🇪 | 6 |
 | [Valencia Street Circuit](/f1/circuits/valencia) | Valencia | [Spain](/f1/countries/spain) | 5 | Sebastian Vettel 🇩🇪 | 2 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

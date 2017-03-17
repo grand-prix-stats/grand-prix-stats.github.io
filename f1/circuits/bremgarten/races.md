@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit Bremgarten
 layout: page
-rowCount: 5
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -12,7 +12,17 @@ rowCount: 5
 | 1951 | 1 | Swiss Grand Prix | 1951-05-27 | 42 | 2:07:53.64 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
 | 1950 | 4 | Swiss Grand Prix | 1950-06-04 | 42 | 2:02:53.7 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 5.000 |
+| **Total Sum** | 21.000 |
+| **Mean (Average)** | 4.200 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 7.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 8.560 |
+| **Standard Deviation** | 2.926 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

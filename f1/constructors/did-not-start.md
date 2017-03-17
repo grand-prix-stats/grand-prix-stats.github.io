@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of DNS (Did Not Start)
 layout: page
-rowCount: 116
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -515,18 +514,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -650,7 +637,17 @@ var chart = new Chart("chart", {
 | 115. | Token 🇬🇧 | 1 | 25.00% |
 | 116. | Vanwall 🇬🇧 | 1 | 1.41% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 116.000 |
+| **Total Sum** | 1536.000 |
+| **Mean (Average)** | 13.241 |
+| **Maximum** | 83.000 |
+| **75th Percentile** | 22.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 319.838 |
+| **Standard Deviation** | 17.884 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

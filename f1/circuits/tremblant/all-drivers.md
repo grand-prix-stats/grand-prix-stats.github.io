@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuit Mont-Tremblant
 layout: page
-rowCount: 29
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -36,7 +36,17 @@ rowCount: 29
 | Tim Schenken 🇦🇺 | 1 |
 | Vic Elford 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 29.000 |
+| **Total Sum** | 41.000 |
+| **Mean (Average)** | 1.414 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.243 |
+| **Standard Deviation** | 0.493 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

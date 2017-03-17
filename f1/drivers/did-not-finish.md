@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of DNF (Did Not Finish)
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Innes Ireland 🇬🇧 | 24 | 43.64% |
 | 120. | Philippe Streiff 🇫🇷 | 24 | 44.44% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 6005.000 |
+| **Mean (Average)** | 50.042 |
+| **Maximum** | 137.000 |
+| **75th Percentile** | 62.000 |
+| **Median** | 46.000 |
+| **25th Percentile** | 34.000 |
+| **Minimum** | 24.000 |
+| **Variance** | 439.323 |
+| **Standard Deviation** | 20.960 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Nivelles-Baulers
 layout: page
-rowCount: 44
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -51,7 +51,17 @@ rowCount: 44
 | Vittorio Brambilla 🇮🇹 | 1 |
 | Wilson Fittipaldi 🇧🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 44.000 |
+| **Total Sum** | 57.000 |
+| **Mean (Average)** | 1.295 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.208 |
+| **Standard Deviation** | 0.456 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit Paul Ricard
 layout: page
-rowCount: 14
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -21,7 +21,17 @@ rowCount: 14
 | 1973 | 8 | French Grand Prix | 1973-07-01 | 54 | 1:41:36.52 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
 | 1971 | 5 | French Grand Prix | 1971-07-04 | 55 | 1:46:42.3 | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 14.000 |
+| **Total Sum** | 102.000 |
+| **Mean (Average)** | 7.286 |
+| **Maximum** | 11.000 |
+| **75th Percentile** | 8.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 7.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 3.347 |
+| **Standard Deviation** | 1.829 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

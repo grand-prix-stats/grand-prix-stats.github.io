@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Wins
 layout: page
-rowCount: 106
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -475,18 +474,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -600,7 +587,17 @@ var chart = new Chart("chart", {
 | 105. | Troy Ruttman 🇺🇸 | 1 | 11.11% |
 | 106. | Vittorio Brambilla 🇮🇹 | 1 | 1.28% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 106.000 |
+| **Total Sum** | 959.000 |
+| **Mean (Average)** | 9.047 |
+| **Maximum** | 91.000 |
+| **75th Percentile** | 11.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 177.743 |
+| **Standard Deviation** | 13.332 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

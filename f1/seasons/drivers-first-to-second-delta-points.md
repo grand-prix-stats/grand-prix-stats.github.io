@@ -1,7 +1,6 @@
 ---
 title: List of Formula 1® Seasons by 1st to 2nd Point Difference in Driver's Championship
 layout: page
-rowCount: 67
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -319,18 +318,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -405,7 +392,17 @@ var chart = new Chart("chart", {
 | 66. | 2011 | 122.0 |
 | 67. | 2013 | 155.0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 67.000 |
+| **Total Sum** | 1260.360 |
+| **Mean (Average)** | 18.811 |
+| **Maximum** | 155.000 |
+| **75th Percentile** | 20.000 |
+| **Median** | 12.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 0.500 |
+| **Variance** | 700.044 |
+| **Standard Deviation** | 26.458 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

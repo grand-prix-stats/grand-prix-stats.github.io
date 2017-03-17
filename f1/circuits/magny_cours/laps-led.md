@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Circuit de Nevers Magny-Cours
 layout: page
-rowCount: 14
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -107,18 +106,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -140,7 +127,17 @@ var chart = new Chart("chart", {
 | 13. | Jarno Trulli 🇮🇹 | 2 |
 | 14. | Eddie Irvine 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 14.000 |
+| **Total Sum** | 923.000 |
+| **Mean (Average)** | 65.929 |
+| **Maximum** | 339.000 |
+| **75th Percentile** | 87.000 |
+| **Median** | 46.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 7034.638 |
+| **Standard Deviation** | 83.873 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

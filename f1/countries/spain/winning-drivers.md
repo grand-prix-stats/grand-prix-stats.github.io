@@ -1,7 +1,6 @@
 ---
 title: List of All Formula 1® Drivers that Have Won a Race in Spain by Number of Times
 layout: page
-rowCount: 29
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -167,18 +166,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -215,7 +202,17 @@ var chart = new Chart("chart", {
 | 28. | Patrick Depailler 🇫🇷 | 1 |
 | 29. | Rubens Barrichello 🇧🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 29.000 |
+| **Total Sum** | 53.000 |
+| **Mean (Average)** | 1.828 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.729 |
+| **Standard Deviation** | 1.315 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

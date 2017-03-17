@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Autódromo do Estoril
 layout: page
-rowCount: 3
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -63,18 +62,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -85,7 +72,17 @@ var chart = new Chart("chart", {
 | 2. | Jacques Villeneuve 🇨🇦 | 24 |
 | 3. | Jean Alesi 🇫🇷 | 4 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 3.000 |
+| **Total Sum** | 70.000 |
+| **Mean (Average)** | 23.333 |
+| **Maximum** | 42.000 |
+| **75th Percentile** | 42.000 |
+| **Median** | 24.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 240.889 |
+| **Standard Deviation** | 15.521 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

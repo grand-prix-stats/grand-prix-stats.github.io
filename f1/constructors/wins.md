@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of Wins
 layout: page
-rowCount: 44
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -227,18 +226,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -290,7 +277,17 @@ var chart = new Chart("chart", {
 | 43. | Stewart 🇬🇧 | 1 | 1.02% |
 | 44. | Toro Rosso 🇮🇹 | 1 | 0.24% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 44.000 |
+| **Total Sum** | 959.000 |
+| **Mean (Average)** | 21.795 |
+| **Maximum** | 225.000 |
+| **75th Percentile** | 22.000 |
+| **Median** | 5.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1999.935 |
+| **Standard Deviation** | 44.721 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

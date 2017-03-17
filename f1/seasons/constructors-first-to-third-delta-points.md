@@ -1,7 +1,6 @@
 ---
 title: List of Formula 1® Seasons by 1st to 3rd Point Difference in Constructor's Championship
 layout: page
-rowCount: 59
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -287,18 +286,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 This chart shows the differnece in points between champion and third. The seasons where the difference is smaller indicate close battles between two constructor teams. The seaons where the different is larger indicate a greater dominance by the champion constructor team. However, the point different is affected by the changes in the point system over the years. A more accurate depiction of this analysis would be the [List of Formula 1® Seasons by 1st to 2nd Point Percentage Difference in Constructor's Championship](/f1/seasons/constructors-first-to-third-delta-percentage)
 
 ### Data Table
@@ -365,7 +352,17 @@ This chart shows the differnece in points between champion and third. The season
 | 58. | 2014 | 381.0 | Mercedes 🇩🇪 | Williams 🇬🇧 |
 | 59. | 2015 | 446.0 | Mercedes 🇩🇪 | Williams 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 59.000 |
+| **Total Sum** | 4867.500 |
+| **Mean (Average)** | 82.500 |
+| **Maximum** | 446.000 |
+| **75th Percentile** | 99.000 |
+| **Median** | 52.000 |
+| **25th Percentile** | 21.000 |
+| **Minimum** | 8.000 |
+| **Variance** | 8436.305 |
+| **Standard Deviation** | 91.849 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

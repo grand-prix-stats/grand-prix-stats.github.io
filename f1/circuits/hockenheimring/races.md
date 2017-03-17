@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Hockenheimring
 layout: page
-rowCount: 35
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -42,7 +42,17 @@ rowCount: 35
 | 1977 | 11 | German Grand Prix | 1977-07-31 | 47 | 1:31:49.3 | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
 | 1970 | 8 | German Grand Prix | 1970-08-02 | 50 | 1:42:00.3 | Jochen Rindt 🇦🇹 | Team Lotus 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 35.000 |
+| **Total Sum** | 362.000 |
+| **Mean (Average)** | 10.343 |
+| **Maximum** | 12.000 |
+| **75th Percentile** | 11.000 |
+| **Median** | 10.000 |
+| **25th Percentile** | 9.000 |
+| **Minimum** | 8.000 |
+| **Variance** | 1.425 |
+| **Standard Deviation** | 1.194 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

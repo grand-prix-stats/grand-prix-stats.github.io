@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of DNS (Did Not Start)
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Alex Soler-Roig 🇪🇸 | 3 | 33.33% |
 | 120. | Carel Godin de Beaufort 🇳🇱 | 3 | 9.68% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 1167.000 |
+| **Mean (Average)** | 9.725 |
+| **Maximum** | 40.000 |
+| **75th Percentile** | 13.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 5.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 57.449 |
+| **Standard Deviation** | 7.580 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

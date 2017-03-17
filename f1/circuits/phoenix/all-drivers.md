@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Phoenix street circuit
 layout: page
-rowCount: 54
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -61,7 +61,17 @@ rowCount: 54
 | René Arnoux 🇫🇷 | 1 |
 | Volker Weidler 🇩🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 54.000 |
+| **Total Sum** | 108.000 |
+| **Mean (Average)** | 2.000 |
+| **Maximum** | 3.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.778 |
+| **Standard Deviation** | 0.882 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

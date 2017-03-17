@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Adelaide Street Circuit
 layout: page
-rowCount: 11
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -18,7 +18,17 @@ rowCount: 11
 | 1986 | 16 | Australian Grand Prix | 1986-10-26 | 82 | 1:54:20.388 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
 | 1985 | 16 | Australian Grand Prix | 1985-11-03 | 82 | 2:00:40.473 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 11.000 |
+| **Total Sum** | 177.000 |
+| **Mean (Average)** | 16.091 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 16.000 |
+| **Median** | 16.000 |
+| **25th Percentile** | 16.000 |
+| **Minimum** | 16.000 |
+| **Variance** | 0.083 |
+| **Standard Deviation** | 0.287 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

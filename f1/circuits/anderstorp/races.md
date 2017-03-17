@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Scandinavian Raceway
 layout: page
-rowCount: 6
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -13,7 +13,17 @@ rowCount: 6
 | 1974 | 7 | Swedish Grand Prix | 1974-06-09 | 80 | 1:58:31.391 | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
 | 1973 | 7 | Swedish Grand Prix | 1973-06-17 | 80 | 1:56:46.049 | Denny Hulme 🇳🇿 | McLaren 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 6.000 |
+| **Total Sum** | 44.000 |
+| **Mean (Average)** | 7.333 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 8.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 7.000 |
+| **Minimum** | 7.000 |
+| **Variance** | 0.222 |
+| **Standard Deviation** | 0.471 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

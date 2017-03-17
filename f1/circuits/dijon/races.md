@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Dijon-Prenois
 layout: page
-rowCount: 6
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -13,7 +13,17 @@ rowCount: 6
 | 1977 | 9 | French Grand Prix | 1977-07-03 | 80 | 1:39:40.13 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
 | 1974 | 9 | French Grand Prix | 1974-07-07 | 80 | 1:21:55.02 | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 6.000 |
+| **Total Sum** | 53.000 |
+| **Mean (Average)** | 8.833 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 9.000 |
+| **Median** | 9.000 |
+| **25th Percentile** | 8.000 |
+| **Minimum** | 5.000 |
+| **Variance** | 7.139 |
+| **Standard Deviation** | 2.672 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

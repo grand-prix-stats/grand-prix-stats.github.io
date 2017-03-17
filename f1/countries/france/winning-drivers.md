@@ -1,7 +1,6 @@
 ---
 title: List of All Formula 1® Drivers that Have Won a Race in France by Number of Times
 layout: page
-rowCount: 32
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -179,18 +178,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -230,7 +217,17 @@ var chart = new Chart("chart", {
 | 31. | René Arnoux 🇫🇷 | 1 |
 | 32. | Tony Brooks 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 32.000 |
+| **Total Sum** | 60.000 |
+| **Mean (Average)** | 1.875 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.547 |
+| **Standard Deviation** | 1.596 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

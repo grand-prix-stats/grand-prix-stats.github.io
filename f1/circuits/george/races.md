@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Prince George Circuit
 layout: page
-rowCount: 3
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -10,7 +10,17 @@ rowCount: 3
 | 1963 | 10 | South African Grand Prix | 1963-12-28 | 85 | 2:10:36.9 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
 | 1962 | 9 | South African Grand Prix | 1962-12-29 | 82 | 2:08:03.3 | Graham Hill 🇬🇧 | BRM 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 3.000 |
+| **Total Sum** | 20.000 |
+| **Mean (Average)** | 6.667 |
+| **Maximum** | 10.000 |
+| **75th Percentile** | 10.000 |
+| **Median** | 9.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 16.222 |
+| **Standard Deviation** | 4.028 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

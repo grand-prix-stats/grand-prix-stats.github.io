@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Finishes in the Top 10
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Timo Glock 🇩🇪 | 21 | 22.11% |
 | 120. | Pedro de la Rosa 🇪🇸 | 20 | 18.69% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 7517.000 |
+| **Mean (Average)** | 62.642 |
+| **Maximum** | 226.000 |
+| **75th Percentile** | 79.000 |
+| **Median** | 50.000 |
+| **25th Percentile** | 29.000 |
+| **Minimum** | 20.000 |
+| **Variance** | 1851.197 |
+| **Standard Deviation** | 43.026 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

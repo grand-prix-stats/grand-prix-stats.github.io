@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Finishes in Points
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Pedro de la Rosa 🇪🇸 | 12 | 11.21% |
 | 120. | Bruno Senna 🇧🇷 | 11 | 23.91% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 5809.000 |
+| **Mean (Average)** | 48.408 |
+| **Maximum** | 221.000 |
+| **75th Percentile** | 59.000 |
+| **Median** | 36.000 |
+| **25th Percentile** | 20.000 |
+| **Minimum** | 11.000 |
+| **Variance** | 1707.542 |
+| **Standard Deviation** | 41.322 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

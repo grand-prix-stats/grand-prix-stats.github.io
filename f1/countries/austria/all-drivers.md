@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Austria by Number of Times
 layout: page
-rowCount: 227
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -234,7 +234,17 @@ rowCount: 227
 | Vern Schuppan 🇦🇺 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 227.000 |
+| **Total Sum** | 721.000 |
+| **Mean (Average)** | 3.176 |
+| **Maximum** | 12.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 6.454 |
+| **Standard Deviation** | 2.540 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

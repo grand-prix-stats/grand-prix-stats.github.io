@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Circuit de Nevers Magny-Cours
 layout: page
-rowCount: 115
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -122,7 +122,17 @@ rowCount: 115
 | Timo Glock 🇩🇪 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 115.000 |
+| **Total Sum** | 420.000 |
+| **Mean (Average)** | 3.652 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 11.949 |
+| **Standard Deviation** | 3.457 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

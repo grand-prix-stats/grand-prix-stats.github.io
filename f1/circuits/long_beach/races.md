@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Long Beach
 layout: page
-rowCount: 8
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -15,7 +15,17 @@ rowCount: 8
 | 1977 | 4 | United States Grand Prix West | 1977-04-03 | 80 | 1:51:35.470 | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
 | 1976 | 3 | United States Grand Prix West | 1976-03-28 | 80 | 1:53:18.471 | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 8.000 |
+| **Total Sum** | 25.000 |
+| **Mean (Average)** | 3.125 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.109 |
+| **Standard Deviation** | 1.053 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

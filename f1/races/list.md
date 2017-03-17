@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races
 layout: page
-rowCount: 976
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -983,7 +983,17 @@ rowCount: 976
 | 1950 | 2 | Monaco Grand Prix | 1950-05-21 | 100 | 3:13:18.7 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
 | 1950 | 1 | British Grand Prix | 1950-05-13 | 70 | 2:13:23.6 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 976.000 |
+| **Total Sum** | 7978.000 |
+| **Mean (Average)** | 8.174 |
+| **Maximum** | 21.000 |
+| **75th Percentile** | 12.000 |
+| **Median** | 8.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 23.392 |
+| **Standard Deviation** | 4.837 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

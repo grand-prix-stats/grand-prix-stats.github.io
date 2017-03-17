@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Watkins Glen
 layout: page
-rowCount: 148
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -155,7 +155,17 @@ rowCount: 148
 | Vic Elford 🇬🇧 | 1 |
 | Warwick Brown 🇦🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 148.000 |
+| **Total Sum** | 483.000 |
+| **Mean (Average)** | 3.264 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 8.154 |
+| **Standard Deviation** | 2.855 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

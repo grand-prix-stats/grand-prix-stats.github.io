@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Monaco by Year
 layout: page
-rowCount: 64
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -71,7 +71,17 @@ rowCount: 64
 | 1955 | 2 | Monaco Grand Prix | 100 | 2:58:09.8 |
 | 1950 | 2 | Monaco Grand Prix | 100 | 3:13:18.7 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 64.000 |
+| **Total Sum** | 289.000 |
+| **Mean (Average)** | 4.516 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 5.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 3.531 |
+| **Standard Deviation** | 1.879 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

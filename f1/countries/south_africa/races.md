@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in South Africa by Year
 layout: page
-rowCount: 23
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -30,7 +30,17 @@ rowCount: 23
 | 1963 | 10 | South African Grand Prix | 85 | 2:10:36.9 |
 | 1962 | 9 | South African Grand Prix | 82 | 2:08:03.3 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 23.000 |
+| **Total Sum** | 85.000 |
+| **Mean (Average)** | 3.696 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 17.429 |
+| **Standard Deviation** | 4.175 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

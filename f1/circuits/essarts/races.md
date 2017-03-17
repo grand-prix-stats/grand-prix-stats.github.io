@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Rouen-Les-Essarts
 layout: page
-rowCount: 5
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -12,7 +12,17 @@ rowCount: 5
 | 1957 | 4 | French Grand Prix | 1957-07-07 | 77 | 3:07:46.4 | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
 | 1952 | 4 | French Grand Prix | 1952-07-06 | 77 | 3:00:00.0 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 5.000 |
+| **Total Sum** | 22.000 |
+| **Mean (Average)** | 4.400 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 0.640 |
+| **Standard Deviation** | 0.800 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

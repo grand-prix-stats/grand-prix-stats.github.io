@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Switzerland by Number of Times
 layout: page
-rowCount: 54
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -61,7 +61,17 @@ rowCount: 54
 | Toni Ulmen 🇩🇪 | 1 |
 | Umberto Maglioli 🇮🇹 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 54.000 |
+| **Total Sum** | 100.000 |
+| **Mean (Average)** | 1.852 |
+| **Maximum** | 5.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.163 |
+| **Standard Deviation** | 1.079 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

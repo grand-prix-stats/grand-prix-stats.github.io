@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Germany by Year
 layout: page
-rowCount: 76
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -83,7 +83,17 @@ rowCount: 76
 | 1952 | 6 | German Grand Prix | 18 | 3:06:13.3 |
 | 1951 | 6 | German Grand Prix | 20 | 3:23:03.3 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 76.000 |
+| **Total Sum** | 707.000 |
+| **Mean (Average)** | 9.303 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 11.000 |
+| **Median** | 9.000 |
+| **25th Percentile** | 7.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 5.974 |
+| **Standard Deviation** | 2.444 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

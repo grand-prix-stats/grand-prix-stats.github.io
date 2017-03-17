@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autódromo Internacional Nelson Piquet
 layout: page
-rowCount: 10
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -17,7 +17,17 @@ rowCount: 10
 | 1981 | 2 | Brazilian Grand Prix | 1981-03-29 | 62 | 2:00:23.66 | Carlos Reutemann 🇦🇷 | Williams 🇬🇧 |
 | 1978 | 2 | Brazilian Grand Prix | 1978-01-29 | 63 | 1:49:59.86 | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 10.000 |
+| **Total Sum** | 13.000 |
+| **Mean (Average)** | 1.300 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.210 |
+| **Standard Deviation** | 0.458 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

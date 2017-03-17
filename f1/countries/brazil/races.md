@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Brazil by Year
 layout: page
-rowCount: 45
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -52,7 +52,17 @@ rowCount: 45
 | 1974 | 2 | Brazilian Grand Prix | 32 | 1:24:37.06 |
 | 1973 | 2 | Brazilian Grand Prix | 40 | 1:43:55.6 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 45.000 |
+| **Total Sum** | 311.000 |
+| **Mean (Average)** | 6.911 |
+| **Maximum** | 20.000 |
+| **75th Percentile** | 17.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 58.348 |
+| **Standard Deviation** | 7.639 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

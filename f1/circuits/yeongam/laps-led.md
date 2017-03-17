@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Korean International Circuit
 layout: page
-rowCount: 2
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -59,18 +58,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -80,7 +67,17 @@ var chart = new Chart("chart", {
 | 1. | Sebastian Vettel 🇩🇪 | 208 |
 | 2. | Fernando Alonso 🇪🇸 | 12 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 2.000 |
+| **Total Sum** | 220.000 |
+| **Mean (Average)** | 110.000 |
+| **Maximum** | 208.000 |
+| **75th Percentile** | 208.000 |
+| **Median** | 208.000 |
+| **25th Percentile** | 12.000 |
+| **Minimum** | 12.000 |
+| **Variance** | 9604.000 |
+| **Standard Deviation** | 98.000 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Italy by Year
 layout: page
-rowCount: 95
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -102,7 +102,17 @@ rowCount: 95
 | 1951 | 7 | Italian Grand Prix | 80 | 2:42:39.3 |
 | 1950 | 7 | Italian Grand Prix | 80 | 2:51:17.4 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 95.000 |
+| **Total Sum** | 882.000 |
+| **Mean (Average)** | 9.284 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 13.000 |
+| **Median** | 10.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 17.635 |
+| **Standard Deviation** | 4.199 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

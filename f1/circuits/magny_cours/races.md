@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit de Nevers Magny-Cours
 layout: page
-rowCount: 18
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -25,7 +25,17 @@ rowCount: 18
 | 1992 | 8 | French Grand Prix | 1992-07-05 | 69 | 1:38:08.459 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
 | 1991 | 7 | French Grand Prix | 1991-07-07 | 72 | 1:38:00.056 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 18.000 |
+| **Total Sum** | 156.000 |
+| **Mean (Average)** | 8.667 |
+| **Maximum** | 11.000 |
+| **75th Percentile** | 10.000 |
+| **Median** | 8.000 |
+| **25th Percentile** | 8.000 |
+| **Minimum** | 7.000 |
+| **Variance** | 1.778 |
+| **Standard Deviation** | 1.333 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

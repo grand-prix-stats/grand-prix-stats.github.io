@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Circuits in USA by Name
 layout: page
-rowCount: 11
+rowCount: {{rowCount}}
 ---
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
@@ -18,7 +18,17 @@ rowCount: 11
 | [Watkins Glen](/f1/circuits/watkins_glen) | New York State | [USA](/f1/countries/usa) | 20 | Jim Clark 🇬🇧 | 3 |
 | [Phoenix street circuit](/f1/circuits/phoenix) | Phoenix | [USA](/f1/countries/usa) | 3 | Ayrton Senna 🇧🇷 | 2 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

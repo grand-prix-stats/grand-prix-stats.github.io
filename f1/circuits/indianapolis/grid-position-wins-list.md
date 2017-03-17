@@ -1,7 +1,6 @@
 ---
 title: Number of Wins by Grid Position at Indianapolis Motor Speedway
 layout: page
-rowCount: 33
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -183,59 +182,57 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
 
-| # | Grid Position | Number Of Wins |
-|--|--|--|
-| 1. | 1 | 5 |
-| 2. | 2 | 4 |
-| 3. | 3 | 0 |
-| 4. | 4 | 1 |
-| 5. | 5 | 2 |
-| 6. | 6 | 1 |
-| 7. | 7 | 3 |
-| 8. | 8 | 0 |
-| 9. | 9 | 0 |
-| 10. | 10 | 0 |
-| 11. | 11 | 0 |
-| 12. | 12 | 0 |
-| 13. | 13 | 1 |
-| 14. | 14 | 1 |
-| 15. | 15 | 0 |
-| 16. | 16 | 0 |
-| 17. | 17 | 0 |
-| 18. | 18 | 0 |
-| 19. | 19 | 1 |
-| 20. | 20 | 0 |
-| 21. | 21 | 0 |
-| 22. | 22 | 0 |
-| 23. | 23 | 0 |
-| 24. | 24 | 0 |
-| 25. | 25 | 0 |
-| 26. | 26 | 0 |
-| 27. | 27 | 0 |
-| 28. | 28 | 0 |
-| 29. | 29 | 0 |
-| 30. | 30 | 0 |
-| 31. | 31 | 0 |
-| 32. | 32 | 0 |
-| 33. | 33 | 0 |
+| Grid Position | Number Of Wins |
+|--|--|
+| 1 | 5 |
+| 2 | 4 |
+| 3 | 0 |
+| 4 | 1 |
+| 5 | 2 |
+| 6 | 1 |
+| 7 | 3 |
+| 8 | 0 |
+| 9 | 0 |
+| 10 | 0 |
+| 11 | 0 |
+| 12 | 0 |
+| 13 | 1 |
+| 14 | 1 |
+| 15 | 0 |
+| 16 | 0 |
+| 17 | 0 |
+| 18 | 0 |
+| 19 | 1 |
+| 20 | 0 |
+| 21 | 0 |
+| 22 | 0 |
+| 23 | 0 |
+| 24 | 0 |
+| 25 | 0 |
+| 26 | 0 |
+| 27 | 0 |
+| 28 | 0 |
+| 29 | 0 |
+| 30 | 0 |
+| 31 | 0 |
+| 32 | 0 |
+| 33 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 33.000 |
+| **Total Sum** | 19.000 |
+| **Mean (Average)** | 0.576 |
+| **Maximum** | 5.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 1.456 |
+| **Standard Deviation** | 1.207 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

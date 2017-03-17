@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autódromo do Estoril
 layout: page
-rowCount: 13
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -20,7 +20,17 @@ rowCount: 13
 | 1985 | 2 | Portuguese Grand Prix | 1985-04-21 | 67 | 2:00:28.006 | Ayrton Senna 🇧🇷 | Team Lotus 🇬🇧 |
 | 1984 | 16 | Portuguese Grand Prix | 1984-10-21 | 70 | 1:41:11.753 | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 13.000 |
+| **Total Sum** | 165.000 |
+| **Mean (Average)** | 12.692 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 13.000 |
+| **25th Percentile** | 13.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 10.521 |
+| **Standard Deviation** | 3.244 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

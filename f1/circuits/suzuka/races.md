@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Suzuka Circuit
 layout: page
-rowCount: 29
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -36,7 +36,17 @@ rowCount: 29
 | 1988 | 15 | Japanese Grand Prix | 1988-10-30 | 51 | 1:33:26.173 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
 | 1987 | 15 | Japanese Grand Prix | 1987-11-01 | 51 | 1:32:58.072 | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 29.000 |
+| **Total Sum** | 456.000 |
+| **Mean (Average)** | 15.724 |
+| **Maximum** | 18.000 |
+| **75th Percentile** | 16.000 |
+| **Median** | 16.000 |
+| **25th Percentile** | 15.000 |
+| **Minimum** | 14.000 |
+| **Variance** | 0.820 |
+| **Standard Deviation** | 0.906 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

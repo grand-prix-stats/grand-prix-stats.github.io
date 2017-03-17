@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Kyalami
 layout: page
-rowCount: 20
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -27,7 +27,17 @@ rowCount: 20
 | 1968 | 1 | South African Grand Prix | 1968-01-01 | 80 | 1:53:56.6 | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
 | 1967 | 1 | South African Grand Prix | 1967-01-02 | 80 | 2:05:45.9 | Pedro Rodríguez 🇲🇽 | Cooper-Maserati 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 20.000 |
+| **Total Sum** | 65.000 |
+| **Mean (Average)** | 3.250 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 16.087 |
+| **Standard Deviation** | 4.011 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

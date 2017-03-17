@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Detroit Street Circuit
 layout: page
-rowCount: 7
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -14,7 +14,17 @@ rowCount: 7
 | 1983 | 7 | Detroit Grand Prix | 1983-06-05 | 60 | 1:50:53.669 | Michele Alboreto 🇮🇹 | Tyrrell 🇬🇧 |
 | 1982 | 7 | Detroit Grand Prix | 1982-06-06 | 62 | 1:58:41.043 | John Watson 🇬🇧 | McLaren 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 7.000 |
+| **Total Sum** | 46.000 |
+| **Mean (Average)** | 6.571 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 7.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 5.000 |
+| **Variance** | 0.816 |
+| **Standard Deviation** | 0.904 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

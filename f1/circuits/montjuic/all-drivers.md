@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Montjuïc
 layout: page
-rowCount: 52
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -59,7 +59,17 @@ rowCount: 52
 | Tony Brise 🇬🇧 | 1 |
 | Vittorio Brambilla 🇮🇹 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 52.000 |
+| **Total Sum** | 83.000 |
+| **Mean (Average)** | 1.596 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.625 |
+| **Standard Deviation** | 0.791 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

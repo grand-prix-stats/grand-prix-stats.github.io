@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Belgium by Year
 layout: page
-rowCount: 62
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -69,7 +69,17 @@ rowCount: 62
 | 1951 | 3 | Belgian Grand Prix | 36 | 2:45:46.2 |
 | 1950 | 5 | Belgian Grand Prix | 35 | 2:47:26.0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 62.000 |
+| **Total Sum** | 500.000 |
+| **Mean (Average)** | 8.065 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 12.000 |
+| **Median** | 6.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 17.867 |
+| **Standard Deviation** | 4.227 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

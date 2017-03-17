@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit Gilles Villeneuve
 layout: page
-rowCount: 38
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -45,7 +45,17 @@ rowCount: 38
 | 1979 | 14 | Canadian Grand Prix | 1979-09-30 | 72 | 1:52:06.892 | Alan Jones 🇦🇺 | Williams 🇬🇧 |
 | 1978 | 16 | Canadian Grand Prix | 1978-10-08 | 70 | 1:57:49.196 | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 38.000 |
+| **Total Sum** | 293.000 |
+| **Mean (Average)** | 7.711 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 8.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 5.000 |
+| **Variance** | 6.100 |
+| **Standard Deviation** | 2.470 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

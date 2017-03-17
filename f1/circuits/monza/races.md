@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Autodromo Nazionale di Monza
 layout: page
-rowCount: 67
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -74,7 +74,17 @@ rowCount: 67
 | 1951 | 7 | Italian Grand Prix | 1951-09-16 | 80 | 2:42:39.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
 | 1950 | 7 | Italian Grand Prix | 1950-09-03 | 80 | 2:51:17.4 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 67.000 |
+| **Total Sum** | 771.000 |
+| **Mean (Average)** | 11.507 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 13.000 |
+| **Median** | 13.000 |
+| **25th Percentile** | 9.000 |
+| **Minimum** | 7.000 |
+| **Variance** | 6.817 |
+| **Standard Deviation** | 2.611 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

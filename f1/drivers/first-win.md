@@ -1,7 +1,7 @@
 ---
 title: List of Formula 1® Drivers by First Win
 layout: page
-rowCount: 106
+rowCount: {{rowCount}}
 ---
 
 | Driver | First Win |
@@ -113,7 +113,17 @@ rowCount: 106
 | Juan Fangio 🇦🇷 | 1950-05-21 |
 | Nino Farina 🇮🇹 | 1950-05-13 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

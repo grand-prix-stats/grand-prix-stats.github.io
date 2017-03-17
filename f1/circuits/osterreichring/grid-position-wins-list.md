@@ -1,7 +1,6 @@
 ---
 title: Number of Wins by Grid Position at A1-Ring
 layout: page
-rowCount: 28
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -163,54 +162,52 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
 
-| # | Grid Position | Number Of Wins |
-|--|--|--|
-| 1. | 1 | 7 |
-| 2. | 2 | 6 |
-| 3. | 3 | 4 |
-| 4. | 4 | 2 |
-| 5. | 5 | 2 |
-| 6. | 6 | 0 |
-| 7. | 7 | 2 |
-| 8. | 8 | 1 |
-| 9. | 9 | 0 |
-| 10. | 10 | 0 |
-| 11. | 11 | 0 |
-| 12. | 12 | 0 |
-| 13. | 13 | 0 |
-| 14. | 14 | 1 |
-| 15. | 15 | 0 |
-| 16. | 16 | 0 |
-| 17. | 17 | 0 |
-| 18. | 18 | 0 |
-| 19. | 19 | 0 |
-| 20. | 20 | 0 |
-| 21. | 21 | 0 |
-| 22. | 22 | 0 |
-| 23. | 23 | 0 |
-| 24. | 24 | 0 |
-| 25. | 25 | 0 |
-| 26. | 26 | 0 |
-| 27. | 27 | 0 |
-| 28. | 28 | 0 |
+| Grid Position | Number Of Wins |
+|--|--|
+| 1 | 7 |
+| 2 | 6 |
+| 3 | 4 |
+| 4 | 2 |
+| 5 | 2 |
+| 6 | 0 |
+| 7 | 2 |
+| 8 | 1 |
+| 9 | 0 |
+| 10 | 0 |
+| 11 | 0 |
+| 12 | 0 |
+| 13 | 0 |
+| 14 | 1 |
+| 15 | 0 |
+| 16 | 0 |
+| 17 | 0 |
+| 18 | 0 |
+| 19 | 0 |
+| 20 | 0 |
+| 21 | 0 |
+| 22 | 0 |
+| 23 | 0 |
+| 24 | 0 |
+| 25 | 0 |
+| 26 | 0 |
+| 27 | 0 |
+| 28 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 28.000 |
+| **Total Sum** | 25.000 |
+| **Mean (Average)** | 0.893 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 3.310 |
+| **Standard Deviation** | 1.819 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

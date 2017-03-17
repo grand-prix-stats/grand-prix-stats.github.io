@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Fuji Speedway
 layout: page
-rowCount: 11
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -95,18 +94,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -125,7 +112,17 @@ var chart = new Chart("chart", {
 | 10. | Sébastien Bourdais 🇫🇷 | 3 |
 | 11. | Giancarlo Fisichella 🇮🇹 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 11.000 |
+| **Total Sum** | 134.000 |
+| **Mean (Average)** | 12.182 |
+| **Maximum** | 55.000 |
+| **75th Percentile** | 18.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 260.694 |
+| **Standard Deviation** | 16.146 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

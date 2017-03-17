@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Bahrain by Year
 layout: page
-rowCount: 13
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -20,7 +20,17 @@ rowCount: 13
 | 2005 | 3 | Bahrain Grand Prix | 57 | 1:29:18.531 |
 | 2004 | 3 | Bahrain Grand Prix | 57 | 1:28:34.875 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 13.000 |
+| **Total Sum** | 38.000 |
+| **Mean (Average)** | 2.923 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.994 |
+| **Standard Deviation** | 0.997 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

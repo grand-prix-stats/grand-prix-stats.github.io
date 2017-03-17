@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Malaysia by Year
 layout: page
-rowCount: 19
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -26,7 +26,17 @@ rowCount: 19
 | 2000 | 17 | Malaysian Grand Prix | 56 | 1:35:54.235 |
 | 1999 | 15 | Malaysian Grand Prix | 56 | 1:36:38.494 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 19.000 |
+| **Total Sum** | 94.000 |
+| **Mean (Average)** | 4.947 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 31.313 |
+| **Standard Deviation** | 5.596 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

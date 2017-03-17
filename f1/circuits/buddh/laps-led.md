@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Buddh International Circuit
 layout: page
-rowCount: 3
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -63,18 +62,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -85,7 +72,17 @@ var chart = new Chart("chart", {
 | 2. | Mark Webber 🇦🇺 | 21 |
 | 3. | Felipe Massa 🇧🇷 | 6 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 3.000 |
+| **Total Sum** | 180.000 |
+| **Mean (Average)** | 60.000 |
+| **Maximum** | 153.000 |
+| **75th Percentile** | 153.000 |
+| **Median** | 21.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 6.000 |
+| **Variance** | 4362.000 |
+| **Standard Deviation** | 66.045 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

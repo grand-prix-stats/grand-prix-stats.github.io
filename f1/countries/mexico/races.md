@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Mexico by Year
 layout: page
-rowCount: 18
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -25,7 +25,17 @@ rowCount: 18
 | 1964 | 10 | Mexican Grand Prix | 65 | 2:09:50.32 |
 | 1963 | 9 | Mexican Grand Prix | 65 | 2:09:52.1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 18.000 |
+| **Total Sum** | 190.000 |
+| **Mean (Average)** | 10.556 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 11.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 23.025 |
+| **Standard Deviation** | 4.798 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

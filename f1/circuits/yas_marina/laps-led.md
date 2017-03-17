@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Yas Marina Circuit
 layout: page
-rowCount: 9
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -87,18 +86,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -115,7 +102,17 @@ var chart = new Chart("chart", {
 | 8. | Daniel Ricciardo 🇦🇺 | 1 |
 | 9. | Mark Webber 🇦🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 9.000 |
+| **Total Sum** | 440.000 |
+| **Mean (Average)** | 48.889 |
+| **Maximum** | 181.000 |
+| **75th Percentile** | 47.000 |
+| **Median** | 15.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 3927.877 |
+| **Standard Deviation** | 62.673 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

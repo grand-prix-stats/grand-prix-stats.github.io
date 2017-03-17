@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Circuit de Catalunya
 layout: page
-rowCount: 21
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -135,18 +134,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -175,7 +162,17 @@ var chart = new Chart("chart", {
 | 20. | Giancarlo Fisichella 🇮🇹 | 1 |
 | 21. | Jean Alesi 🇫🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 21.000 |
+| **Total Sum** | 1376.000 |
+| **Mean (Average)** | 65.524 |
+| **Maximum** | 319.000 |
+| **75th Percentile** | 76.000 |
+| **Median** | 41.000 |
+| **25th Percentile** | 8.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 5602.249 |
+| **Standard Deviation** | 74.848 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

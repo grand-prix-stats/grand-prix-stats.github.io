@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit de Catalunya
 layout: page
-rowCount: 27
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -34,7 +34,17 @@ rowCount: 27
 | 1992 | 4 | Spanish Grand Prix | 1992-05-03 | 65 | 1:56:10.674 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
 | 1991 | 14 | Spanish Grand Prix | 1991-09-29 | 65 | 1:38:41.541 | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 27.000 |
+| **Total Sum** | 144.000 |
+| **Mean (Average)** | 5.333 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 5.000 |
+| **25th Percentile** | 5.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 3.259 |
+| **Standard Deviation** | 1.805 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

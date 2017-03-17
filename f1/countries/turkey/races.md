@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Turkey by Year
 layout: page
-rowCount: 7
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -14,7 +14,17 @@ rowCount: 7
 | 2006 | 14 | Turkish Grand Prix | 58 | 1:28:51.082 |
 | 2005 | 14 | Turkish Grand Prix | 58 | 1:24:34.454 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 7.000 |
+| **Total Sum** | 63.000 |
+| **Mean (Average)** | 9.000 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 7.000 |
+| **25th Percentile** | 5.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 15.429 |
+| **Standard Deviation** | 3.928 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

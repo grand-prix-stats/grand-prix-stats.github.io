@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers from USA by Surname
 layout: page
-rowCount: 158
+rowCount: {{rowCount}}
 ---
 
 | Forename | Surname | Country | Flag |
@@ -165,7 +165,17 @@ rowCount: 158
 | Chuck | Weyant | [USA](/f1/countries/usa) | 🇺🇸 |
 | Dempsey | Wilson | [USA](/f1/countries/usa) | 🇺🇸 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

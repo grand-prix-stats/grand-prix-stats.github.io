@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Autodromo Enzo e Dino Ferrari
 layout: page
-rowCount: 12
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -99,18 +98,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -130,7 +117,17 @@ var chart = new Chart("chart", {
 | 11. | Rubens Barrichello 🇧🇷 | 3 |
 | 12. | Juan Pablo Montoya 🇨🇴 | 2 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 12.000 |
+| **Total Sum** | 683.000 |
+| **Mean (Average)** | 56.917 |
+| **Maximum** | 261.000 |
+| **75th Percentile** | 77.000 |
+| **Median** | 43.000 |
+| **25th Percentile** | 13.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 4616.243 |
+| **Standard Deviation** | 67.943 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Germany by Number of Times
 layout: page
-rowCount: 438
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -445,7 +445,17 @@ rowCount: 438
 | Volker Weidler 🇩🇪 | 1 |
 | Yves Cabantous 🇫🇷 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 438.000 |
+| **Total Sum** | 1866.000 |
+| **Mean (Average)** | 4.260 |
+| **Maximum** | 31.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 23.553 |
+| **Standard Deviation** | 4.853 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

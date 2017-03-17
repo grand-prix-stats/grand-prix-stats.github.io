@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Reims-Gueux
 layout: page
-rowCount: 112
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -119,7 +119,17 @@ rowCount: 112
 | Troy Ruttman 🇺🇸 | 1 |
 | Wolfgang Seidel 🇩🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 112.000 |
+| **Total Sum** | 254.000 |
+| **Mean (Average)** | 2.268 |
+| **Maximum** | 9.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.857 |
+| **Standard Deviation** | 1.690 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

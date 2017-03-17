@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit Park Zandvoort
 layout: page
-rowCount: 30
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -37,7 +37,17 @@ rowCount: 30
 | 1953 | 3 | Dutch Grand Prix | 1953-06-07 | 90 | 2:53:35.8 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
 | 1952 | 7 | Dutch Grand Prix | 1952-08-17 | 90 | 2:53:28.5 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 30.000 |
+| **Total Sum** | 209.000 |
+| **Mean (Average)** | 6.967 |
+| **Maximum** | 13.000 |
+| **75th Percentile** | 11.000 |
+| **Median** | 6.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 15.499 |
+| **Standard Deviation** | 3.937 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

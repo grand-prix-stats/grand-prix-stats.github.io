@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Autódromo Internacional Nelson Piquet
 layout: page
-rowCount: 97
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -104,7 +104,17 @@ rowCount: 97
 | Vittorio Brambilla 🇮🇹 | 1 |
 | Volker Weidler 🇩🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 97.000 |
+| **Total Sum** | 286.000 |
+| **Mean (Average)** | 2.948 |
+| **Maximum** | 10.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 5.863 |
+| **Standard Deviation** | 2.421 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

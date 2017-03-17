@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Australia by Year
 layout: page
-rowCount: 33
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -40,7 +40,17 @@ rowCount: 33
 | 1986 | 16 | Australian Grand Prix | 82 | 1:54:20.388 |
 | 1985 | 16 | Australian Grand Prix | 82 | 2:00:40.473 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 33.000 |
+| **Total Sum** | 202.000 |
+| **Mean (Average)** | 6.121 |
+| **Maximum** | 17.000 |
+| **75th Percentile** | 16.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 49.864 |
+| **Standard Deviation** | 7.061 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Podiums at Circuit de Pedralbes
 layout: page
-rowCount: 5
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -71,18 +70,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -95,7 +82,17 @@ var chart = new Chart("chart", {
 | 4. | Mike Hawthorn 🇬🇧 | 1 |
 | 5. | Nino Farina 🇮🇹 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 5.000 |
+| **Total Sum** | 6.000 |
+| **Mean (Average)** | 1.200 |
+| **Maximum** | 2.000 |
+| **75th Percentile** | 1.000 |
+| **Median** | 1.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 0.160 |
+| **Standard Deviation** | 0.400 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

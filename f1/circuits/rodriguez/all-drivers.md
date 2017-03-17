@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Autódromo Hermanos Rodríguez
 layout: page
-rowCount: 154
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -161,7 +161,17 @@ rowCount: 154
 | Walt Hansgen 🇺🇸 | 1 |
 | Will Stevens 🇬🇧 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 154.000 |
+| **Total Sum** | 418.000 |
+| **Mean (Average)** | 2.714 |
+| **Maximum** | 8.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 4.074 |
+| **Standard Deviation** | 2.018 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

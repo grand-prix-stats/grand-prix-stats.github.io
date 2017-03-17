@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Watkins Glen
 layout: page
-rowCount: 20
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -27,7 +27,17 @@ rowCount: 20
 | 1962 | 8 | United States Grand Prix | 1962-10-07 | 100 | 2:07:13.0 | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
 | 1961 | 8 | United States Grand Prix | 1961-10-08 | 100 | 2:13:45.8 | Innes Ireland 🇬🇧 | Lotus-Climax 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 20.000 |
+| **Total Sum** | 234.000 |
+| **Mean (Average)** | 11.700 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 15.000 |
+| **Median** | 12.000 |
+| **25th Percentile** | 9.000 |
+| **Minimum** | 8.000 |
+| **Variance** | 7.610 |
+| **Standard Deviation** | 2.759 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

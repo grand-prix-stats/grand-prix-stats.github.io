@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Singapore by Year
 layout: page
-rowCount: 10
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -17,7 +17,17 @@ rowCount: 10
 | 2009 | 14 | Singapore Grand Prix | 61 | 1:56:06.337 |
 | 2008 | 15 | Singapore Grand Prix | 61 | 1:57:16.304 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 10.000 |
+| **Total Sum** | 141.000 |
+| **Mean (Average)** | 14.100 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 15.000 |
+| **Median** | 14.000 |
+| **25th Percentile** | 14.000 |
+| **Minimum** | 13.000 |
+| **Variance** | 0.490 |
+| **Standard Deviation** | 0.700 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

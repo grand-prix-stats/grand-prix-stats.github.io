@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Japan by Number of Times
 layout: page
-rowCount: 198
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -205,7 +205,17 @@ rowCount: 198
 | Will Stevens 🇬🇧 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 198.000 |
+| **Total Sum** | 814.000 |
+| **Mean (Average)** | 4.111 |
+| **Maximum** | 21.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 15.846 |
+| **Standard Deviation** | 3.981 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

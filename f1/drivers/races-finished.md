@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Races Finished
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Érik Comas 🇫🇷 | 32 | 50.79% |
 | 120. | Max Chilton 🇬🇧 | 32 | 91.43% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 9538.000 |
+| **Mean (Average)** | 79.483 |
+| **Maximum** | 242.000 |
+| **75th Percentile** | 97.000 |
+| **Median** | 64.000 |
+| **25th Percentile** | 45.000 |
+| **Minimum** | 32.000 |
+| **Variance** | 2333.116 |
+| **Standard Deviation** | 48.302 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Indianapolis Motor Speedway
 layout: page
-rowCount: 19
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -26,7 +26,17 @@ rowCount: 19
 | 1951 | 2 | Indianapolis 500 | 1951-05-30 | 200 | 3:57:38.05 | Lee Wallard 🇺🇸 | Kurtis Kraft 🇺🇸 |
 | 1950 | 3 | Indianapolis 500 | 1950-05-30 | 138 | 2:46:55.97 | Johnnie Parsons 🇺🇸 | Kurtis Kraft 🇺🇸 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 19.000 |
+| **Total Sum** | 126.000 |
+| **Mean (Average)** | 6.632 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 10.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 2.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 27.285 |
+| **Standard Deviation** | 5.224 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

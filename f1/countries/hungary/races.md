@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Hungary by Year
 layout: page
-rowCount: 32
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -39,7 +39,17 @@ rowCount: 32
 | 1987 | 9 | Hungarian Grand Prix | 76 | 1:59:26.793 |
 | 1986 | 11 | Hungarian Grand Prix | 76 | 2:00:34.508 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 32.000 |
+| **Total Sum** | 357.000 |
+| **Mean (Average)** | 11.156 |
+| **Maximum** | 13.000 |
+| **75th Percentile** | 12.000 |
+| **Median** | 11.000 |
+| **25th Percentile** | 10.000 |
+| **Minimum** | 9.000 |
+| **Variance** | 1.257 |
+| **Standard Deviation** | 1.121 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

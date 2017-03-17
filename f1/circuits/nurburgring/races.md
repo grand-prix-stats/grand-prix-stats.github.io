@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Nürburgring
 layout: page
-rowCount: 40
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -47,7 +47,17 @@ rowCount: 40
 | 1952 | 6 | German Grand Prix | 1952-08-03 | 18 | 3:06:13.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
 | 1951 | 6 | German Grand Prix | 1951-07-29 | 20 | 3:23:03.3 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 40.000 |
+| **Total Sum** | 339.000 |
+| **Mean (Average)** | 8.475 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 10.000 |
+| **Median** | 8.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 4.000 |
+| **Variance** | 8.199 |
+| **Standard Deviation** | 2.863 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Nürburgring
 layout: page
-rowCount: 346
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -353,7 +353,17 @@ rowCount: 346
 | Yves Cabantous 🇫🇷 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 346.000 |
+| **Total Sum** | 956.000 |
+| **Mean (Average)** | 2.763 |
+| **Maximum** | 15.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 6.822 |
+| **Standard Deviation** | 2.612 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

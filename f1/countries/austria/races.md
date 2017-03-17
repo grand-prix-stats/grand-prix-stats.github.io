@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Austria by Year
 layout: page
-rowCount: 30
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -37,7 +37,17 @@ rowCount: 30
 | 1970 | 9 | Austrian Grand Prix | 60 | 1:42:17.3 |
 | 1964 | 7 | Austrian Grand Prix | 105 | 2:06:18.23 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 30.000 |
+| **Total Sum** | 299.000 |
+| **Mean (Average)** | 9.967 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 12.000 |
+| **Median** | 10.000 |
+| **25th Percentile** | 9.000 |
+| **Minimum** | 6.000 |
+| **Variance** | 4.366 |
+| **Standard Deviation** | 2.089 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

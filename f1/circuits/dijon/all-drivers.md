@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Dijon-Prenois
 layout: page
-rowCount: 83
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -90,7 +90,17 @@ rowCount: 83
 | Tommy Byrne 🇮🇪 | 1 |
 | Vern Schuppan 🇦🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 83.000 |
+| **Total Sum** | 171.000 |
+| **Mean (Average)** | 2.060 |
+| **Maximum** | 5.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.502 |
+| **Standard Deviation** | 1.226 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

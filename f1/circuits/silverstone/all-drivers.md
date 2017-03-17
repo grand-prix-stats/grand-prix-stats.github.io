@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Silverstone Circuit
 layout: page
-rowCount: 404
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -411,7 +411,17 @@ rowCount: 404
 | Yves Cabantous 🇫🇷 | 1 |
 | Zsolt Baumgartner 🇭🇺 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 404.000 |
+| **Total Sum** | 1256.000 |
+| **Mean (Average)** | 3.109 |
+| **Maximum** | 19.000 |
+| **75th Percentile** | 4.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 9.691 |
+| **Standard Deviation** | 3.113 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

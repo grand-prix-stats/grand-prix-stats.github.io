@@ -1,12 +1,13 @@
 ---
 title: List of All Formula 1® Races at Port Imperial Street Circuit
 layout: page
-rowCount: 0
+rowCount: {{rowCount}}
 ---
 
 
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

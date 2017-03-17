@@ -1,14 +1,24 @@
 ---
 title: List of All Formula 1® Circuits in Malaysia by Name
 layout: page
-rowCount: 1
+rowCount: {{rowCount}}
 ---
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
 | [Sepang International Circuit](/f1/circuits/sepang) | Kuala Lumpur | [Malaysia](/f1/countries/malaysia) | 19 | Sebastian Vettel 🇩🇪 | 4 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

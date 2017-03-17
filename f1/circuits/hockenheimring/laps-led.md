@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Laps Led at Hockenheimring
 layout: page
-rowCount: 21
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -135,18 +134,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -175,7 +162,17 @@ var chart = new Chart("chart", {
 | 20. | Heikki Kovalainen 🇫🇮 | 1 |
 | 21. | Mika Salo 🇫🇮 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 21.000 |
+| **Total Sum** | 939.000 |
+| **Mean (Average)** | 44.714 |
+| **Maximum** | 173.000 |
+| **75th Percentile** | 69.000 |
+| **Median** | 20.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 2344.014 |
+| **Standard Deviation** | 48.415 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

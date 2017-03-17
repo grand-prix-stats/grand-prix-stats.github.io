@@ -1,7 +1,6 @@
 ---
 title: Number of Wins by Grid Position at Autodromo Nazionale di Monza
 layout: page
-rowCount: 32
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -179,58 +178,56 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
 
-| # | Grid Position | Number Of Wins |
-|--|--|--|
-| 1. | 1 | 23 |
-| 2. | 2 | 12 |
-| 3. | 3 | 11 |
-| 4. | 4 | 8 |
-| 5. | 5 | 2 |
-| 6. | 6 | 4 |
-| 7. | 7 | 2 |
-| 8. | 8 | 2 |
-| 9. | 9 | 1 |
-| 10. | 10 | 0 |
-| 11. | 11 | 1 |
-| 12. | 12 | 0 |
-| 13. | 13 | 0 |
-| 14. | 14 | 0 |
-| 15. | 15 | 0 |
-| 16. | 16 | 0 |
-| 17. | 17 | 0 |
-| 18. | 18 | 0 |
-| 19. | 19 | 0 |
-| 20. | 20 | 0 |
-| 21. | 21 | 0 |
-| 22. | 22 | 0 |
-| 23. | 23 | 0 |
-| 24. | 24 | 0 |
-| 25. | 25 | 0 |
-| 26. | 26 | 0 |
-| 27. | 27 | 0 |
-| 28. | 28 | 0 |
-| 29. | 29 | 0 |
-| 30. | 30 | 0 |
-| 31. | 31 | 0 |
-| 32. | 32 | 0 |
+| Grid Position | Number Of Wins |
+|--|--|
+| 1 | 23 |
+| 2 | 12 |
+| 3 | 11 |
+| 4 | 8 |
+| 5 | 2 |
+| 6 | 4 |
+| 7 | 2 |
+| 8 | 2 |
+| 9 | 1 |
+| 10 | 0 |
+| 11 | 1 |
+| 12 | 0 |
+| 13 | 0 |
+| 14 | 0 |
+| 15 | 0 |
+| 16 | 0 |
+| 17 | 0 |
+| 18 | 0 |
+| 19 | 0 |
+| 20 | 0 |
+| 21 | 0 |
+| 22 | 0 |
+| 23 | 0 |
+| 24 | 0 |
+| 25 | 0 |
+| 26 | 0 |
+| 27 | 0 |
+| 28 | 0 |
+| 29 | 0 |
+| 30 | 0 |
+| 31 | 0 |
+| 32 | 0 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 32.000 |
+| **Total Sum** | 66.000 |
+| **Mean (Average)** | 2.062 |
+| **Maximum** | 23.000 |
+| **75th Percentile** | 2.000 |
+| **Median** | 0.000 |
+| **25th Percentile** | 0.000 |
+| **Minimum** | 0.000 |
+| **Variance** | 23.496 |
+| **Standard Deviation** | 4.847 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

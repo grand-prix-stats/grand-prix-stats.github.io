@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Italy by Number of Times
 layout: page
-rowCount: 469
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -476,7 +476,17 @@ rowCount: 469
 | Will Stevens 🇬🇧 | 1 |
 | Yuji Ide 🇯🇵 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 469.000 |
+| **Total Sum** | 2387.000 |
+| **Mean (Average)** | 5.090 |
+| **Maximum** | 33.000 |
+| **75th Percentile** | 6.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 34.359 |
+| **Standard Deviation** | 5.862 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced at Korean International Circuit
 layout: page
-rowCount: 40
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -47,7 +47,17 @@ rowCount: 40
 | Sakon Yamamoto 🇯🇵 | 1 |
 | Valtteri Bottas 🇫🇮 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 40.000 |
+| **Total Sum** | 94.000 |
+| **Mean (Average)** | 2.350 |
+| **Maximum** | 4.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.177 |
+| **Standard Deviation** | 1.085 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

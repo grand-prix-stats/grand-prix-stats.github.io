@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Portugal by Year
 layout: page
-rowCount: 16
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -23,7 +23,17 @@ rowCount: 16
 | 1959 | 7 | Portuguese Grand Prix | 62 | 2:11:55.41 |
 | 1958 | 9 | Portuguese Grand Prix | 50 | 2:11:27.80 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 16.000 |
+| **Total Sum** | 189.000 |
+| **Mean (Average)** | 11.812 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 14.000 |
+| **Median** | 13.000 |
+| **25th Percentile** | 12.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 12.027 |
+| **Standard Deviation** | 3.468 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

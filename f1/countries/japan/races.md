@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races in Japan by Year
 layout: page
-rowCount: 35
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Laps Completed | Race Duration |
@@ -42,7 +42,17 @@ rowCount: 35
 | 1977 | 17 | Japanese Grand Prix | 73 | 1:31:51.68 |
 | 1976 | 16 | Japanese Grand Prix | 73 | 1:43:58.86 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 35.000 |
+| **Total Sum** | 537.000 |
+| **Mean (Average)** | 15.343 |
+| **Maximum** | 18.000 |
+| **75th Percentile** | 16.000 |
+| **Median** | 16.000 |
+| **25th Percentile** | 15.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 5.997 |
+| **Standard Deviation** | 2.449 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

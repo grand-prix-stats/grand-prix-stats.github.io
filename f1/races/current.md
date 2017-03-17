@@ -1,7 +1,7 @@
 ---
 title: List of Current Formula 1® Races
 layout: page
-rowCount: 20
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -27,7 +27,17 @@ rowCount: 20
 | 2017 | 19 | Brazilian Grand Prix | 2017-11-12 |   |   |   |   |
 | 2017 | 20 | Abu Dhabi Grand Prix | 2017-11-26 |   |   |   |   |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 20.000 |
+| **Total Sum** | 210.000 |
+| **Mean (Average)** | 10.500 |
+| **Maximum** | 20.000 |
+| **75th Percentile** | 16.000 |
+| **Median** | 11.000 |
+| **25th Percentile** | 6.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 33.250 |
+| **Standard Deviation** | 5.766 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

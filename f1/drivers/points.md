@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Points
 layout: page
-rowCount: 120
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -531,18 +530,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -670,7 +657,17 @@ var chart = new Chart("chart", {
 | 119. | Mark Blundell 🇬🇧 | 32.0 |
 | 120. | Jean-Pierre Jarier 🇫🇷 | 31.5 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 120.000 |
+| **Total Sum** | 34314.580 |
+| **Mean (Average)** | 285.955 |
+| **Maximum** | 2247.000 |
+| **75th Percentile** | 281.000 |
+| **Median** | 141.000 |
+| **25th Percentile** | 71.000 |
+| **Minimum** | 31.500 |
+| **Variance** | 166540.395 |
+| **Standard Deviation** | 408.094 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Drivers that Have Raced in Netherlands by Number of Times
 layout: page
-rowCount: 215
+rowCount: {{rowCount}}
 ---
 
 | Driver | Times |
@@ -222,7 +222,17 @@ rowCount: 215
 | Vic Elford 🇬🇧 | 1 |
 | Wolfgang Seidel 🇩🇪 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 215.000 |
+| **Total Sum** | 687.000 |
+| **Mean (Average)** | 3.195 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 7.953 |
+| **Standard Deviation** | 2.820 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

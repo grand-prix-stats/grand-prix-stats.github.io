@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Circuit de Spa-Francorchamps
 layout: page
-rowCount: 50
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -57,7 +57,17 @@ rowCount: 50
 | 1951 | 3 | Belgian Grand Prix | 1951-06-17 | 36 | 2:45:46.2 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 | 1950 | 5 | Belgian Grand Prix | 1950-06-18 | 35 | 2:47:26.0 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 50.000 |
+| **Total Sum** | 437.000 |
+| **Mean (Average)** | 8.740 |
+| **Maximum** | 16.000 |
+| **75th Percentile** | 12.000 |
+| **Median** | 11.000 |
+| **25th Percentile** | 4.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 19.592 |
+| **Standard Deviation** | 4.426 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

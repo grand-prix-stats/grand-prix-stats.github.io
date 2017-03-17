@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at A1-Ring
 layout: page
-rowCount: 25
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -32,7 +32,17 @@ rowCount: 25
 | 1971 | 8 | Austrian Grand Prix | 1971-08-15 | 54 | 1:30:23.91 | Jo Siffert 🇨🇭 | BRM 🇬🇧 |
 | 1970 | 9 | Austrian Grand Prix | 1970-08-16 | 60 | 1:42:17.3 | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 25.000 |
+| **Total Sum** | 258.000 |
+| **Mean (Average)** | 10.320 |
+| **Maximum** | 14.000 |
+| **75th Percentile** | 12.000 |
+| **Median** | 11.000 |
+| **25th Percentile** | 9.000 |
+| **Minimum** | 6.000 |
+| **Variance** | 4.378 |
+| **Standard Deviation** | 2.092 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

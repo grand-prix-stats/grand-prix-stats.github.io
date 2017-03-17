@@ -1,7 +1,6 @@
 ---
 title: List of Formula 1® Seasons by Number of Driver's Championship Leaders
 layout: page
-rowCount: 67
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -319,18 +318,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -405,7 +392,17 @@ var chart = new Chart("chart", {
 | 66. | 2015 | 1 |
 | 67. | 1959 | 1 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 67.000 |
+| **Total Sum** | 153.000 |
+| **Mean (Average)** | 2.284 |
+| **Maximum** | 6.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 1.000 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.069 |
+| **Standard Deviation** | 1.034 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

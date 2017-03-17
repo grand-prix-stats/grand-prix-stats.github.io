@@ -1,7 +1,6 @@
 ---
 title: Point Percentage of Driver's Champion per Formula 1® Season
 layout: page
-rowCount: 68
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -323,18 +322,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 This chart showcases the dominance of the Driver's Championship winner by displaying the percentage of points earned at the end of the season. Years with a greater percentage indicate a greater dominance. This percentage is calculated as:
 
 $$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
@@ -412,7 +399,17 @@ $$ \mathbf{100 \cdot \frac{EarnedPoints}{TotalPoints}} $$
 | 2016 | 18.15% |
 | 2017 | 0.00% |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 0.000 |
+| **Total Sum** | 0.000 |
+| **Mean (Average)** | nan |
+| **Maximum** | N/A |
+| **75th Percentile** | N/A |
+| **Median** | N/A |
+| **25th Percentile** | N/A |
+| **Minimum** | N/A |
+| **Variance** | nan |
+| **Standard Deviation** | nan |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

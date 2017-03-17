@@ -1,7 +1,7 @@
 ---
 title: List of All Formula 1® Races at Jarama
 layout: page
-rowCount: 9
+rowCount: {{rowCount}}
 ---
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
@@ -16,7 +16,17 @@ rowCount: 9
 | 1970 | 2 | Spanish Grand Prix | 1970-04-19 | 90 | 2:10:58.2 | Jackie Stewart 🇬🇧 | March 🇬🇧 |
 | 1968 | 2 | Spanish Grand Prix | 1968-05-12 | 90 | 2:15:02.1 | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 9.000 |
+| **Total Sum** | 39.000 |
+| **Mean (Average)** | 4.333 |
+| **Maximum** | 7.000 |
+| **75th Percentile** | 5.000 |
+| **Median** | 4.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 2.000 |
+| **Variance** | 3.111 |
+| **Standard Deviation** | 1.764 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

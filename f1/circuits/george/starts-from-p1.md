@@ -1,7 +1,6 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Starts from P1 at Prince George Circuit
 layout: page
-rowCount: 1
 ---
 
 <canvas id="chart" width="400" height="180"></canvas>
@@ -55,18 +54,6 @@ var chart = new Chart("chart", {
 });
 </script>
 
-<!-- div id="chart-navigation">
-<button onclick="window.location = chart.toBase64Image();">Save as Image</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<button onclick="window.location = chart.toBase64Image();">Hello</button>
-<select>
-<option>one</option>
-<option>two</option>
-<option>three</option>
-</select>
-</div -->
-
-
 
 
 ### Data Table
@@ -75,7 +62,17 @@ var chart = new Chart("chart", {
 |--|--|--|
 | 1. | Jim Clark 🇬🇧 | 3 |
 
-#### Table Summary
+#### Statistic Summary
 
-|**Row Count**|{{ page.rowCount }}|
-|**Download**|[json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})|
+| **Row Count** | 1.000 |
+| **Total Sum** | 3.000 |
+| **Mean (Average)** | 3.000 |
+| **Maximum** | 3.000 |
+| **75th Percentile** | 3.000 |
+| **Median** | 3.000 |
+| **25th Percentile** | 3.000 |
+| **Minimum** | 3.000 |
+| **Variance** | 0.000 |
+| **Standard Deviation** | 0.000 |
+
+Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
