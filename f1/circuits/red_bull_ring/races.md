@@ -6,10 +6,10 @@ rowCount: {{rowCount}}
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 2017 | 9 | Austrian Grand Prix | 2017-07-09 |   |   |   |   |
-| 2016 | 9 | Austrian Grand Prix | 2016-07-03 | 71 | 1:27:38.107 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
-| 2015 | 8 | Austrian Grand Prix | 2015-06-21 | 71 | 1:30:16.930 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
-| 2014 | 8 | Austrian Grand Prix | 2014-06-22 | 71 | 1:27:54.976 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2017 | 9 | 2017 Austrian Grand Prix 🇦🇹 | 2017-07-09 |   |   |   |   |
+| 2016 | 9 | 2016 Austrian Grand Prix 🇦🇹 | 2016-07-03 | 71 | 1:27:38.107 | Lewis Hamilton 🇬🇧 | Mercedes 🇩🇪 |
+| 2015 | 8 | 2015 Austrian Grand Prix 🇦🇹 | 2015-06-21 | 71 | 1:30:16.930 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
+| 2014 | 8 | 2014 Austrian Grand Prix 🇦🇹 | 2014-06-22 | 71 | 1:27:54.976 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
 
 #### Statistic Summary
 

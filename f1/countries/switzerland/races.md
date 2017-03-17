@@ -4,13 +4,13 @@ layout: page
 rowCount: {{rowCount}}
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 1954 | 7 | Swiss Grand Prix | 66 | 3:00:34.5 |
-| 1953 | 8 | Swiss Grand Prix | 65 | 3:01:34.40 |
-| 1952 | 1 | Swiss Grand Prix | 62 | 3:01:46.1 |
-| 1951 | 1 | Swiss Grand Prix | 42 | 2:07:53.64 |
-| 1950 | 4 | Swiss Grand Prix | 42 | 2:02:53.7 |
+| Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|--|
+| 1954 | 7 | 1954 Swiss Grand Prix 🇨🇭 | [Circuit Bremgarten](/f1/circuits/bremgarten) | 1954-08-22 | 66 | 3:00:34.5 | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| 1953 | 8 | 1953 Swiss Grand Prix 🇨🇭 | [Circuit Bremgarten](/f1/circuits/bremgarten) | 1953-08-23 | 65 | 3:01:34.40 | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| 1952 | 1 | 1952 Swiss Grand Prix 🇨🇭 | [Circuit Bremgarten](/f1/circuits/bremgarten) | 1952-05-18 | 62 | 3:01:46.1 | Piero Taruffi 🇮🇹 | Ferrari 🇮🇹 |
+| 1951 | 1 | 1951 Swiss Grand Prix 🇨🇭 | [Circuit Bremgarten](/f1/circuits/bremgarten) | 1951-05-27 | 42 | 2:07:53.64 | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | [Circuit Bremgarten](/f1/circuits/bremgarten) | 1950-06-04 | 42 | 2:02:53.7 | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
 
 #### Statistic Summary
 

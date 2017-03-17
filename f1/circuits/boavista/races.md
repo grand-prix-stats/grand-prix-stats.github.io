@@ -6,8 +6,8 @@ rowCount: {{rowCount}}
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1960 | 8 | Portuguese Grand Prix | 1960-08-14 | 55 | 2:19:00.03 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
-| 1958 | 9 | Portuguese Grand Prix | 1958-08-24 | 50 | 2:11:27.80 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1960 | 8 | 1960 Portuguese Grand Prix 🇵🇹 | 1960-08-14 | 55 | 2:19:00.03 | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
+| 1958 | 9 | 1958 Portuguese Grand Prix 🇵🇹 | 1958-08-24 | 50 | 2:11:27.80 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
 
 #### Statistic Summary
 

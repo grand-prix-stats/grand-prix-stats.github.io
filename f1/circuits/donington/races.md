@@ -6,7 +6,7 @@ rowCount: {{rowCount}}
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1993 | 3 | European Grand Prix | 1993-04-11 | 76 | 1:50:46.570 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| 1993 | 3 | 1993 European Grand Prix 🇬🇧 | 1993-04-11 | 76 | 1:50:46.570 | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
 
 #### Statistic Summary
 

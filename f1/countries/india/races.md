@@ -4,11 +4,11 @@ layout: page
 rowCount: {{rowCount}}
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 2013 | 16 | Indian Grand Prix | 60 | 1:31:12.187 |
-| 2012 | 17 | Indian Grand Prix | 60 | 1:31:10.744 |
-| 2011 | 17 | Indian Grand Prix | 60 | 1:30:35.002 |
+| Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|--|
+| 2013 | 16 | 2013 Indian Grand Prix 🇮🇳 | [Buddh International Circuit](/f1/circuits/buddh) | 2013-10-27 | 60 | 1:31:12.187 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2012 | 17 | 2012 Indian Grand Prix 🇮🇳 | [Buddh International Circuit](/f1/circuits/buddh) | 2012-10-28 | 60 | 1:31:10.744 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
+| 2011 | 17 | 2011 Indian Grand Prix 🇮🇳 | [Buddh International Circuit](/f1/circuits/buddh) | 2011-10-30 | 60 | 1:30:35.002 | Sebastian Vettel 🇩🇪 | Red Bull 🇦🇹 |
 
 #### Statistic Summary
 

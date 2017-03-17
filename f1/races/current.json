@@ -1,8 +1,9 @@
 [
     {
+        "circuit": "Albert Park Grand Prix Circuit",
         "date": "2017-03-26",
         "laps_completed": null,
-        "name": "Australian Grand Prix",
+        "name": "2017 Australian Grand Prix 🇦🇺",
         "race_duration": null,
         "round": 1,
         "season": 2017,
@@ -10,9 +11,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Shanghai International Circuit",
         "date": "2017-04-09",
         "laps_completed": null,
-        "name": "Chinese Grand Prix",
+        "name": "2017 Chinese Grand Prix 🇨🇳",
         "race_duration": null,
         "round": 2,
         "season": 2017,
@@ -20,9 +22,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Bahrain International Circuit",
         "date": "2017-04-16",
         "laps_completed": null,
-        "name": "Bahrain Grand Prix",
+        "name": "2017 Bahrain Grand Prix 🇧🇭",
         "race_duration": null,
         "round": 3,
         "season": 2017,
@@ -30,9 +33,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Sochi International Street Circuit",
         "date": "2017-04-30",
         "laps_completed": null,
-        "name": "Russian Grand Prix",
+        "name": "2017 Russian Grand Prix 🇷🇺",
         "race_duration": null,
         "round": 4,
         "season": 2017,
@@ -40,9 +44,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Circuit de Catalunya",
         "date": "2017-05-14",
         "laps_completed": null,
-        "name": "Spanish Grand Prix",
+        "name": "2017 Spanish Grand Prix 🇪🇸",
         "race_duration": null,
         "round": 5,
         "season": 2017,
@@ -50,9 +55,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Circuit de Monaco",
         "date": "2017-05-28",
         "laps_completed": null,
-        "name": "Monaco Grand Prix",
+        "name": "2017 Monaco Grand Prix 🇲🇨",
         "race_duration": null,
         "round": 6,
         "season": 2017,
@@ -60,9 +66,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Circuit Gilles Villeneuve",
         "date": "2017-06-11",
         "laps_completed": null,
-        "name": "Canadian Grand Prix",
+        "name": "2017 Canadian Grand Prix 🇨🇦",
         "race_duration": null,
         "round": 7,
         "season": 2017,
@@ -70,9 +77,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Baku City Circuit",
         "date": "2017-06-25",
         "laps_completed": null,
-        "name": "Azerbaijan Grand Prix",
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
         "race_duration": null,
         "round": 8,
         "season": 2017,
@@ -80,9 +88,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Red Bull Ring",
         "date": "2017-07-09",
         "laps_completed": null,
-        "name": "Austrian Grand Prix",
+        "name": "2017 Austrian Grand Prix 🇦🇹",
         "race_duration": null,
         "round": 9,
         "season": 2017,
@@ -90,9 +99,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Silverstone Circuit",
         "date": "2017-07-16",
         "laps_completed": null,
-        "name": "British Grand Prix",
+        "name": "2017 British Grand Prix 🇬🇧",
         "race_duration": null,
         "round": 10,
         "season": 2017,
@@ -100,9 +110,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Hungaroring",
         "date": "2017-07-30",
         "laps_completed": null,
-        "name": "Hungarian Grand Prix",
+        "name": "2017 Hungarian Grand Prix 🇭🇺",
         "race_duration": null,
         "round": 11,
         "season": 2017,
@@ -110,9 +121,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Circuit de Spa-Francorchamps",
         "date": "2017-08-27",
         "laps_completed": null,
-        "name": "Belgian Grand Prix",
+        "name": "2017 Belgian Grand Prix 🇧🇪",
         "race_duration": null,
         "round": 12,
         "season": 2017,
@@ -120,9 +132,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Autodromo Nazionale di Monza",
         "date": "2017-09-03",
         "laps_completed": null,
-        "name": "Italian Grand Prix",
+        "name": "2017 Italian Grand Prix 🇮🇹",
         "race_duration": null,
         "round": 13,
         "season": 2017,
@@ -130,9 +143,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Marina Bay Street Circuit",
         "date": "2017-09-17",
         "laps_completed": null,
-        "name": "Singapore Grand Prix",
+        "name": "2017 Singapore Grand Prix 🇸🇬",
         "race_duration": null,
         "round": 14,
         "season": 2017,
@@ -140,9 +154,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Sepang International Circuit",
         "date": "2017-10-01",
         "laps_completed": null,
-        "name": "Malaysian Grand Prix",
+        "name": "2017 Malaysian Grand Prix 🇲🇾",
         "race_duration": null,
         "round": 15,
         "season": 2017,
@@ -150,9 +165,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Suzuka Circuit",
         "date": "2017-10-08",
         "laps_completed": null,
-        "name": "Japanese Grand Prix",
+        "name": "2017 Japanese Grand Prix 🇯🇵",
         "race_duration": null,
         "round": 16,
         "season": 2017,
@@ -160,9 +176,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Circuit of the Americas",
         "date": "2017-10-22",
         "laps_completed": null,
-        "name": "United States Grand Prix",
+        "name": "2017 United States Grand Prix 🇺🇸",
         "race_duration": null,
         "round": 17,
         "season": 2017,
@@ -170,9 +187,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Autódromo Hermanos Rodríguez",
         "date": "2017-10-29",
         "laps_completed": null,
-        "name": "Mexican Grand Prix",
+        "name": "2017 Mexican Grand Prix 🇲🇽",
         "race_duration": null,
         "round": 18,
         "season": 2017,
@@ -180,9 +198,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Autódromo José Carlos Pace",
         "date": "2017-11-12",
         "laps_completed": null,
-        "name": "Brazilian Grand Prix",
+        "name": "2017 Brazilian Grand Prix 🇧🇷",
         "race_duration": null,
         "round": 19,
         "season": 2017,
@@ -190,9 +209,10 @@
         "winning_driver": null
     },
     {
+        "circuit": "Yas Marina Circuit",
         "date": "2017-11-26",
         "laps_completed": null,
-        "name": "Abu Dhabi Grand Prix",
+        "name": "2017 Abu Dhabi Grand Prix 🇦🇪",
         "race_duration": null,
         "round": 20,
         "season": 2017,

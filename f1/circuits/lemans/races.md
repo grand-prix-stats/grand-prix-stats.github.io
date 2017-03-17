@@ -6,7 +6,7 @@ rowCount: {{rowCount}}
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1967 | 5 | French Grand Prix | 1967-07-02 | 80 | 2:13:21.3 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
+| 1967 | 5 | 1967 French Grand Prix 🇫🇷 | 1967-07-02 | 80 | 2:13:21.3 | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
 
 #### Statistic Summary
 

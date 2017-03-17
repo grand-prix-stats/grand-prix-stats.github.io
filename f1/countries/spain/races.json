@@ -1,380 +1,596 @@
 [
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2017-05-14",
         "laps_completed": null,
-        "name": "Spanish Grand Prix",
+        "name": "2017 Spanish Grand Prix 🇪🇸",
         "race_duration": null,
         "round": 5,
-        "season": 2017
+        "season": 2017,
+        "winning_constructor": null,
+        "winning_driver": null
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2016-05-15",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2016 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:41:40.017",
         "round": 5,
-        "season": 2016
+        "season": 2016,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Max Verstappen 🇳🇱"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2015-05-10",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2015 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:41:12.555",
         "round": 5,
-        "season": 2015
+        "season": 2015,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2014-05-11",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2014 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:41:05.155",
         "round": 5,
-        "season": 2014
+        "season": 2014,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2013-05-12",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2013 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:39:16.596",
         "round": 5,
-        "season": 2013
+        "season": 2013,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2012-05-13",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2012 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:39:09.145",
         "round": 5,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Pastor Maldonado 🇻🇪"
     },
     {
+        "circuit": "Valencia Street Circuit",
+        "date": "2012-06-24",
         "laps_completed": 57,
-        "name": "European Grand Prix",
+        "name": "2012 European Grand Prix 🇪🇸",
         "race_duration": "1:44:16.649",
         "round": 8,
-        "season": 2012
+        "season": 2012,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2011-05-22",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2011 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:39:03.301",
         "round": 5,
-        "season": 2011
+        "season": 2011,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "circuit": "Valencia Street Circuit",
+        "date": "2011-06-26",
         "laps_completed": 57,
-        "name": "European Grand Prix",
+        "name": "2011 European Grand Prix 🇪🇸",
         "race_duration": "1:39:36.169",
         "round": 8,
-        "season": 2011
+        "season": 2011,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2010-05-09",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2010 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:35:44.101",
         "round": 5,
-        "season": 2010
+        "season": 2010,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Mark Webber 🇦🇺"
     },
     {
+        "circuit": "Valencia Street Circuit",
+        "date": "2010-06-27",
         "laps_completed": 57,
-        "name": "European Grand Prix",
+        "name": "2010 European Grand Prix 🇪🇸",
         "race_duration": "1:40:29.571",
         "round": 9,
-        "season": 2010
+        "season": 2010,
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2009-05-10",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2009 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:37:19.202",
         "round": 5,
-        "season": 2009
+        "season": 2009,
+        "winning_constructor": "Brawn 🇬🇧",
+        "winning_driver": "Jenson Button 🇬🇧"
     },
     {
+        "circuit": "Valencia Street Circuit",
+        "date": "2009-08-23",
         "laps_completed": 57,
-        "name": "European Grand Prix",
+        "name": "2009 European Grand Prix 🇪🇸",
         "race_duration": "1:35:51.289",
         "round": 11,
-        "season": 2009
+        "season": 2009,
+        "winning_constructor": "Brawn 🇬🇧",
+        "winning_driver": "Rubens Barrichello 🇧🇷"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2008-04-27",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2008 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:38:19.051",
         "round": 4,
-        "season": 2008
+        "season": 2008,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Kimi Räikkönen 🇫🇮"
     },
     {
+        "circuit": "Valencia Street Circuit",
+        "date": "2008-08-24",
         "laps_completed": 57,
-        "name": "European Grand Prix",
+        "name": "2008 European Grand Prix 🇪🇸",
         "race_duration": "1:35:32.339",
         "round": 12,
-        "season": 2008
+        "season": 2008,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Felipe Massa 🇧🇷"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2007-05-13",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "2007 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:31:36.230",
         "round": 4,
-        "season": 2007
+        "season": 2007,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Felipe Massa 🇧🇷"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2006-05-14",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2006 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:26:21.759",
         "round": 6,
-        "season": 2006
+        "season": 2006,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2005-05-08",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2005 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:27:16.830",
         "round": 5,
-        "season": 2005
+        "season": 2005,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Kimi Räikkönen 🇫🇮"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2004-05-09",
         "laps_completed": 66,
-        "name": "Spanish Grand Prix",
+        "name": "2004 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:27:32.841",
         "round": 5,
-        "season": 2004
+        "season": 2004,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2003-05-04",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "2003 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:33:46.933",
         "round": 5,
-        "season": 2003
+        "season": 2003,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2002-04-28",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "2002 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:30:29.981",
         "round": 5,
-        "season": 2002
+        "season": 2002,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2001-04-29",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "2001 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:31:03.305",
         "round": 5,
-        "season": 2001
+        "season": 2001,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "2000-05-07",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "2000 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:33:55.390",
         "round": 5,
-        "season": 2000
+        "season": 2000,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1999-05-30",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1999 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:34:13.665",
         "round": 5,
-        "season": 1999
+        "season": 1999,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1998-05-10",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1998 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:33:38.3",
         "round": 5,
-        "season": 1998
+        "season": 1998,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1997-05-25",
         "laps_completed": 64,
-        "name": "Spanish Grand Prix",
+        "name": "1997 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:30:35.896",
         "round": 6,
-        "season": 1997
+        "season": 1997,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Jacques Villeneuve 🇨🇦"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1997-10-26",
         "laps_completed": 69,
-        "name": "European Grand Prix",
+        "name": "1997 European Grand Prix 🇪🇸",
         "race_duration": "1:38:57.771",
         "round": 17,
-        "season": 1997
+        "season": 1997,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1996-06-02",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1996 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:59:49.307",
         "round": 7,
-        "season": 1996
+        "season": 1996,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1995-05-14",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1995 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:34:20.507",
         "round": 4,
-        "season": 1995
+        "season": 1995,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1994-05-29",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1994 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:36:14.3",
         "round": 5,
-        "season": 1994
+        "season": 1994,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Damon Hill 🇬🇧"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1994-10-16",
         "laps_completed": 69,
-        "name": "European Grand Prix",
+        "name": "1994 European Grand Prix 🇪🇸",
         "race_duration": "1:40:27.3",
         "round": 14,
-        "season": 1994
+        "season": 1994,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1993-05-09",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1993 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:32:27.685",
         "round": 5,
-        "season": 1993
+        "season": 1993,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1992-05-03",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1992 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:56:10.674",
         "round": 4,
-        "season": 1992
+        "season": 1992,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "circuit": "Circuit de Catalunya",
+        "date": "1991-09-29",
         "laps_completed": 65,
-        "name": "Spanish Grand Prix",
+        "name": "1991 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:38:41.541",
         "round": 14,
-        "season": 1991
+        "season": 1991,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1990-09-30",
         "laps_completed": 73,
-        "name": "Spanish Grand Prix",
+        "name": "1990 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:48:01.461",
         "round": 14,
-        "season": 1990
+        "season": 1990,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1989-10-01",
         "laps_completed": 73,
-        "name": "Spanish Grand Prix",
+        "name": "1989 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:47:48.264",
         "round": 14,
-        "season": 1989
+        "season": 1989,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1988-10-02",
         "laps_completed": 72,
-        "name": "Spanish Grand Prix",
+        "name": "1988 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:48:43.851",
         "round": 14,
-        "season": 1988
+        "season": 1988,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Alain Prost 🇫🇷"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1987-09-27",
         "laps_completed": 72,
-        "name": "Spanish Grand Prix",
+        "name": "1987 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:49:12.692",
         "round": 13,
-        "season": 1987
+        "season": 1987,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
+        "circuit": "Circuito de Jerez",
+        "date": "1986-04-13",
         "laps_completed": 72,
-        "name": "Spanish Grand Prix",
+        "name": "1986 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:48:47.735",
         "round": 2,
-        "season": 1986
+        "season": 1986,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
     },
     {
+        "circuit": "Jarama",
+        "date": "1981-06-21",
         "laps_completed": 80,
-        "name": "Spanish Grand Prix",
+        "name": "1981 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:46:35.01",
         "round": 7,
-        "season": 1981
+        "season": 1981,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gilles Villeneuve 🇨🇦"
     },
     {
+        "circuit": "Jarama",
+        "date": "1979-04-29",
         "laps_completed": 75,
-        "name": "Spanish Grand Prix",
+        "name": "1979 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:39:11.84",
         "round": 5,
-        "season": 1979
+        "season": 1979,
+        "winning_constructor": "Ligier 🇫🇷",
+        "winning_driver": "Patrick Depailler 🇫🇷"
     },
     {
+        "circuit": "Jarama",
+        "date": "1978-06-04",
         "laps_completed": 75,
-        "name": "Spanish Grand Prix",
+        "name": "1978 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:41:47.06",
         "round": 7,
-        "season": 1978
+        "season": 1978,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
     },
     {
+        "circuit": "Jarama",
+        "date": "1977-05-08",
         "laps_completed": 75,
-        "name": "Spanish Grand Prix",
+        "name": "1977 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:42:.52.22",
         "round": 5,
-        "season": 1977
+        "season": 1977,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
     },
     {
+        "circuit": "Jarama",
+        "date": "1976-05-02",
         "laps_completed": 75,
-        "name": "Spanish Grand Prix",
+        "name": "1976 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:42:20.43",
         "round": 4,
-        "season": 1976
+        "season": 1976,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "James Hunt 🇬🇧"
     },
     {
+        "circuit": "Montjuïc",
+        "date": "1975-04-27",
         "laps_completed": 29,
-        "name": "Spanish Grand Prix",
+        "name": "1975 Spanish Grand Prix 🇪🇸",
         "race_duration": "42:53.7",
         "round": 4,
-        "season": 1975
+        "season": 1975,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Jochen Mass 🇩🇪"
     },
     {
+        "circuit": "Jarama",
+        "date": "1974-04-28",
         "laps_completed": 84,
-        "name": "Spanish Grand Prix",
+        "name": "1974 Spanish Grand Prix 🇪🇸",
         "race_duration": "2:00:29.56",
         "round": 4,
-        "season": 1974
+        "season": 1974,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
     },
     {
+        "circuit": "Montjuïc",
+        "date": "1973-04-29",
         "laps_completed": 75,
-        "name": "Spanish Grand Prix",
+        "name": "1973 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:48:18.7",
         "round": 4,
-        "season": 1973
+        "season": 1973,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
     },
     {
+        "circuit": "Jarama",
+        "date": "1972-05-01",
         "laps_completed": 90,
-        "name": "Spanish Grand Prix",
+        "name": "1972 Spanish Grand Prix 🇪🇸",
         "race_duration": "2:03:41.2",
         "round": 3,
-        "season": 1972
+        "season": 1972,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
     },
     {
+        "circuit": "Montjuïc",
+        "date": "1971-04-18",
         "laps_completed": 75,
-        "name": "Spanish Grand Prix",
+        "name": "1971 Spanish Grand Prix 🇪🇸",
         "race_duration": "1:49:03.4",
         "round": 2,
-        "season": 1971
+        "season": 1971,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "circuit": "Jarama",
+        "date": "1970-04-19",
         "laps_completed": 90,
-        "name": "Spanish Grand Prix",
+        "name": "1970 Spanish Grand Prix 🇪🇸",
         "race_duration": "2:10:58.2",
         "round": 2,
-        "season": 1970
+        "season": 1970,
+        "winning_constructor": "March 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "circuit": "Montjuïc",
+        "date": "1969-05-04",
         "laps_completed": 90,
-        "name": "Spanish Grand Prix",
+        "name": "1969 Spanish Grand Prix 🇪🇸",
         "race_duration": "2:16:54.0",
         "round": 2,
-        "season": 1969
+        "season": 1969,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
     },
     {
+        "circuit": "Jarama",
+        "date": "1968-05-12",
         "laps_completed": 90,
-        "name": "Spanish Grand Prix",
+        "name": "1968 Spanish Grand Prix 🇪🇸",
         "race_duration": "2:15:02.1",
         "round": 2,
-        "season": 1968
+        "season": 1968,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
     },
     {
+        "circuit": "Circuit de Pedralbes",
+        "date": "1954-10-24",
         "laps_completed": 80,
-        "name": "Spanish Grand Prix",
+        "name": "1954 Spanish Grand Prix 🇪🇸",
         "race_duration": "3:13:52.1",
         "round": 9,
-        "season": 1954
+        "season": 1954,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Mike Hawthorn 🇬🇧"
     },
     {
+        "circuit": "Circuit de Pedralbes",
+        "date": "1951-10-28",
         "laps_completed": 70,
-        "name": "Spanish Grand Prix",
+        "name": "1951 Spanish Grand Prix 🇪🇸",
         "race_duration": "2:46:54.10",
         "round": 8,
-        "season": 1951
+        "season": 1951,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
     }
 ]

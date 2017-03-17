@@ -4,10 +4,10 @@ layout: page
 rowCount: {{rowCount}}
 ---
 
-| Season | Round | Name | Laps Completed | Race Duration |
-|--|--|--|--|--|
-| 2017 | 8 | Azerbaijan Grand Prix |   |   |
-| 2016 | 8 | European Grand Prix | 51 | 1:32:52.366 |
+| Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
+|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 |   |   |   |   |
+| 2016 | 8 | 2016 European Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2016-06-19 | 51 | 1:32:52.366 | Nico Rosberg 🇩🇪 | Mercedes 🇩🇪 |
 
 #### Statistic Summary
 

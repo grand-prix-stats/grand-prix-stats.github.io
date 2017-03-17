@@ -6,7 +6,7 @@ rowCount: {{rowCount}}
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1957 | 7 | Pescara Grand Prix | 1957-08-18 | 18 | 2:59:22.7 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1957 | 7 | 1957 Pescara Grand Prix 🇮🇹 | 1957-08-18 | 18 | 2:59:22.7 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
 
 #### Statistic Summary
 
