@@ -18,6 +18,7 @@ updated after each race weekend.
 - [{{ site.data.totals[0].countries }} countries](/f1/countries)
 - [{{ site.data.totals[0].constructors }} constructors](/f1/constructors)
 - [{{ site.data.totals[0].drivers }} drivers](/f1/drivers)
+- [{{ site.pages | size }} pages](/directory)
 
 ### Site Updates
 
