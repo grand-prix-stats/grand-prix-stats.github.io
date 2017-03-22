@@ -77,15 +77,16 @@ rowCount: {{rowCount}}
 
 #### Statistic Summary
 
-| **Row Count** | 68.000 |
-| **Total Sum** | 976.000 |
-| **Mean (Average)** | 14.353 |
-| **Maximum** | 21.000 |
-| **75th Percentile** | 17.000 |
-| **Median** | 16.000 |
-| **25th Percentile** | 11.000 |
-| **Minimum** | 7.000 |
-| **Variance** | 14.287 |
-| **Standard Deviation** | 3.780 |
+| **Column** | **Rounds** | **Drivers Champion** | **Drivers Champion Points** | **Drivers Second** | **Drivers Second Points** | **Drivers Third** | **Drivers Third Points** | **Constructors Champion** | **Constructors Champion Points** | **Constructors Second** | **Constructors Second Points** | **Constructors Third** | **Constructors Third Points** |
+| **Row Count** | 68 |  | 67 |  | 67 |  | 67 |  | 59 |  | 59 |  | 59 |
+| **Total Sum** | 976.000 |  | 6709.000 |  | 5448.640 |  | 4319.140 |  | 10393.000 |  | 7298.000 |  | 5525.500 |
+| **Mean μ (Average)** | 14.353 |  | 100.134 |  | 81.323 |  | 64.465 |  | 176.153 |  | 123.695 |  | 93.653 |
+| **Maximum** | 21.000 |  | 397.000 |  | 380.000 |  | 278.000 |  | 765.000 |  | 497.000 |  | 398.000 |
+| **75th Percentile** | 17.000 |  | 100.000 |  | 86.000 |  | 62.000 |  | 175.000 |  | 125.000 |  | 73.000 |
+| **Median** | 16.000 |  | 72.000 |  | 55.000 |  | 43.000 |  | 123.000 |  | 79.000 |  | 60.000 |
+| **25th Percentile** | 11.000 |  | 45.000 |  | 37.000 |  | 29.000 |  | 72.500 |  | 52.000 |  | 45.000 |
+| **Minimum** | 7.000 |  | 30.000 |  | 23.000 |  | 12.000 |  | 40.000 |  | 31.000 |  | 18.000 |
+| **Variance** | 14.287 |  | 8629.661 |  | 6090.994 |  | 3995.134 |  | 31096.172 |  | 14337.797 |  | 9978.731 |
+| **Standard Deviation σ** | 3.780 |  | 92.896 |  | 78.045 |  | 63.207 |  | 176.341 |  | 119.741 |  | 99.894 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

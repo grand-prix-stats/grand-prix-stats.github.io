@@ -198,15 +198,16 @@ rowCount: {{rowCount}}
 
 #### Statistic Summary
 
-| **Row Count** | 189.000 |
+| **Column** | **Times** |
+| **Row Count** | 189 |
 | **Total Sum** | 581.000 |
-| **Mean (Average)** | 3.074 |
+| **Mean μ (Average)** | 3.074 |
 | **Maximum** | 12.000 |
 | **75th Percentile** | 4.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
 | **Variance** | 6.767 |
-| **Standard Deviation** | 2.601 |
+| **Standard Deviation σ** | 2.601 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

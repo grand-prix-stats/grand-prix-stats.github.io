@@ -9,26 +9,26 @@ var data = {
     "datasets": [
         {
             "backgroundColor": [
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935"
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D"
             ],
             "borderColor": [
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639"
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
@@ -104,15 +104,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 9.000 |
+| **Column** | **Number Of Laps Led** |
+| **Row Count** | 9 |
 | **Total Sum** | 440.000 |
-| **Mean (Average)** | 48.889 |
+| **Mean μ (Average)** | 48.889 |
 | **Maximum** | 181.000 |
 | **75th Percentile** | 47.000 |
 | **Median** | 15.000 |
 | **25th Percentile** | 3.000 |
 | **Minimum** | 1.000 |
 | **Variance** | 3927.877 |
-| **Standard Deviation** | 62.673 |
+| **Standard Deviation σ** | 62.673 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

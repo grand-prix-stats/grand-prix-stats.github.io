@@ -10,12 +10,12 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "AAAAAA",
-                "FFF8F6",
-                "3da48e",
-                "381ea0",
+                "E96E30",
+                "EAE4ED",
+                "18A19B",
+                "121D32",
                 "09630C",
-                "F6CF00",
+                "FDE139",
                 "73C2FB",
                 "243F73",
                 "274B72",
@@ -52,9 +52,16 @@ var data = {
                 "DDDDDD",
                 "FA9B27",
                 "FFFFFF",
-                "0C00A3"
+                "2039C3"
             ],
             "borderColor": [
+                "16191A",
+                "0D1D20",
+                "082957",
+                "D7D7D5",
+                "FDCC2F",
+                "444444",
+                "424B52",
                 "444444",
                 "444444",
                 "444444",
@@ -91,14 +98,7 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444"
+                "FC181D"
             ],
             "borderWidth": 1,
             "data": [
@@ -279,15 +279,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 44.000 |
-| **Total Sum** | 959.000 |
-| **Mean (Average)** | 21.795 |
-| **Maximum** | 225.000 |
-| **75th Percentile** | 22.000 |
-| **Median** | 5.000 |
-| **25th Percentile** | 2.000 |
-| **Minimum** | 1.000 |
-| **Variance** | 1999.935 |
-| **Standard Deviation** | 44.721 |
+| **Column** | **Wins** | **% Of Total Participations** |
+| **Row Count** | 44 | 44 |
+| **Total Sum** | 959.000 | 253.200 |
+| **Mean μ (Average)** | 21.795 | 5.755 |
+| **Maximum** | 225.000 | 23.530 |
+| **75th Percentile** | 22.000 | 9.520 |
+| **Median** | 5.000 | 3.470 |
+| **25th Percentile** | 2.000 | 1.490 |
+| **Minimum** | 1.000 | 0.240 |
+| **Variance** | 1999.935 | 34.724 |
+| **Standard Deviation σ** | 44.721 | 5.893 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

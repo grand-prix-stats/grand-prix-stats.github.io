@@ -9,46 +9,46 @@ var data = {
     "datasets": [
         {
             "backgroundColor": [
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935",
-                "#f3a935"
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D"
             ],
             "borderColor": [
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639",
-                "#f68639"
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
+                "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
@@ -154,15 +154,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 19.000 |
+| **Column** | **Number Of Laps Led** |
+| **Row Count** | 19 |
 | **Total Sum** | 827.000 |
-| **Mean (Average)** | 43.526 |
+| **Mean μ (Average)** | 43.526 |
 | **Maximum** | 180.000 |
 | **75th Percentile** | 55.000 |
 | **Median** | 26.000 |
 | **25th Percentile** | 7.000 |
 | **Minimum** | 1.000 |
 | **Variance** | 2467.407 |
-| **Standard Deviation** | 49.673 |
+| **Standard Deviation σ** | 49.673 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

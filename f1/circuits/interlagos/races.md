@@ -44,15 +44,16 @@ rowCount: {{rowCount}}
 
 #### Statistic Summary
 
-| **Row Count** | 35.000 |
-| **Total Sum** | 298.000 |
-| **Mean (Average)** | 8.514 |
-| **Maximum** | 20.000 |
-| **75th Percentile** | 18.000 |
-| **Median** | 3.000 |
-| **25th Percentile** | 2.000 |
-| **Minimum** | 1.000 |
-| **Variance** | 63.393 |
-| **Standard Deviation** | 7.962 |
+| **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
+| **Row Count** | 35 |  |  | 34 |  |  |  |
+| **Total Sum** | 298.000 |  |  | 2175.000 |  |  |  |
+| **Mean μ (Average)** | 8.514 |  |  | 63.971 |  |  |  |
+| **Maximum** | 20.000 |  |  | 72.000 |  |  |  |
+| **75th Percentile** | 18.000 |  |  | 71.000 |  |  |  |
+| **Median** | 3.000 |  |  | 71.000 |  |  |  |
+| **25th Percentile** | 2.000 |  |  | 71.000 |  |  |  |
+| **Minimum** | 1.000 |  |  | 32.000 |  |  |  |
+| **Variance** | 63.393 |  |  | 173.499 |  |  |  |
+| **Standard Deviation σ** | 7.962 |  |  | 13.172 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

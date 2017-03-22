@@ -10,10 +10,10 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "AAAAAA",
-                "FFF8F6",
+                "E96E30",
+                "EAE4ED",
                 "144D44",
-                "381ea0",
+                "121D32",
                 "243F73",
                 "025839",
                 "09630C",
@@ -25,10 +25,15 @@ var data = {
                 "0F5DBB",
                 "025839",
                 "AAAAAA",
-                "3da48e",
-                "F6CF00"
+                "18A19B",
+                "FDE139"
             ],
             "borderColor": [
+                "16191A",
+                "0D1D20",
+                "082957",
+                "444444",
+                "FDCC2F",
                 "444444",
                 "444444",
                 "444444",
@@ -40,13 +45,8 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444"
+                "D7D7D5",
+                "424B52"
             ],
             "borderWidth": 1,
             "data": [
@@ -149,15 +149,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 18.000 |
-| **Total Sum** | 59.000 |
-| **Mean (Average)** | 3.278 |
-| **Maximum** | 16.000 |
-| **75th Percentile** | 3.000 |
-| **Median** | 2.000 |
-| **25th Percentile** | 1.000 |
-| **Minimum** | 1.000 |
-| **Variance** | 17.645 |
-| **Standard Deviation** | 4.201 |
+| **Column** | **Subchampionships** | **% Of Total Seasons** |
+| **Row Count** | 18 | 18 |
+| **Total Sum** | 59.000 | 279.770 |
+| **Mean μ (Average)** | 3.278 | 15.543 |
+| **Maximum** | 16.000 | 28.570 |
+| **75th Percentile** | 3.000 | 23.880 |
+| **Median** | 2.000 | 16.670 |
+| **25th Percentile** | 1.000 | 6.900 |
+| **Minimum** | 1.000 | 4.760 |
+| **Variance** | 17.645 | 62.089 |
+| **Standard Deviation σ** | 4.201 | 7.880 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

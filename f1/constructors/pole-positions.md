@@ -10,12 +10,12 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "AAAAAA",
-                "FFF8F6",
-                "3da48e",
+                "E96E30",
+                "EAE4ED",
+                "18A19B",
                 "09630C",
-                "381ea0",
-                "F6CF00",
+                "121D32",
+                "FDE139",
                 "025839",
                 "243F73",
                 "025839",
@@ -47,17 +47,24 @@ var data = {
                 "888888",
                 "1A2446",
                 "888888",
-                "C35503",
+                "F6AFC1",
                 "888888",
                 "888888",
                 "DDDDDD",
                 "888888",
                 "FFFFFF",
                 "888888",
-                "0C00A3",
+                "2039C3",
                 "A3805E"
             ],
             "borderColor": [
+                "16191A",
+                "0D1D20",
+                "082957",
+                "D7D7D5",
+                "444444",
+                "FDCC2F",
+                "424B52",
                 "444444",
                 "444444",
                 "444444",
@@ -89,21 +96,14 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
+                "C81625",
                 "444444",
                 "444444",
                 "444444",
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
+                "FC181D",
                 "444444"
             ],
             "borderWidth": 1,
@@ -294,15 +294,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 47.000 |
-| **Total Sum** | 966.000 |
-| **Mean (Average)** | 20.553 |
-| **Maximum** | 213.000 |
-| **75th Percentile** | 14.000 |
-| **Median** | 3.000 |
-| **25th Percentile** | 1.000 |
-| **Minimum** | 1.000 |
-| **Variance** | 1788.332 |
-| **Standard Deviation** | 42.289 |
+| **Column** | **Pole Positions** | **% Of Total Participations** |
+| **Row Count** | 47 | 47 |
+| **Total Sum** | 966.000 | 287.950 |
+| **Mean μ (Average)** | 20.553 | 6.127 |
+| **Maximum** | 213.000 | 33.330 |
+| **75th Percentile** | 14.000 | 9.780 |
+| **Median** | 3.000 | 2.880 |
+| **25th Percentile** | 1.000 | 1.070 |
+| **Minimum** | 1.000 | 0.170 |
+| **Variance** | 1788.332 | 45.309 |
+| **Standard Deviation σ** | 42.289 | 6.731 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

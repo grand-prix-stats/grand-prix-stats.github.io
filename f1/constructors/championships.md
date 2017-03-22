@@ -10,15 +10,15 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "FFF8F6",
-                "AAAAAA",
-                "381ea0",
+                "EAE4ED",
+                "E96E30",
+                "121D32",
                 "09630C",
-                "3da48e",
+                "18A19B",
                 "243F73",
                 "273027",
                 "025839",
-                "F6CF00",
+                "FDE139",
                 "73C2FB",
                 "E2F833",
                 "144D44",
@@ -28,16 +28,16 @@ var data = {
                 "336667"
             ],
             "borderColor": [
+                "16191A",
+                "082957",
+                "0D1D20",
+                "FDCC2F",
+                "444444",
+                "D7D7D5",
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
+                "424B52",
                 "444444",
                 "444444",
                 "444444",
@@ -144,15 +144,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 17.000 |
-| **Total Sum** | 59.000 |
-| **Mean (Average)** | 3.471 |
-| **Maximum** | 16.000 |
-| **75th Percentile** | 4.000 |
-| **Median** | 2.000 |
-| **25th Percentile** | 1.000 |
-| **Minimum** | 1.000 |
-| **Variance** | 15.308 |
-| **Standard Deviation** | 3.913 |
+| **Column** | **Championships** | **% Of Total Seasons** |
+| **Row Count** | 17 | 17 |
+| **Total Sum** | 59.000 | 449.100 |
+| **Mean μ (Average)** | 3.471 | 26.418 |
+| **Maximum** | 16.000 | 100.000 |
+| **75th Percentile** | 4.000 | 33.330 |
+| **Median** | 2.000 | 21.950 |
+| **25th Percentile** | 1.000 | 13.790 |
+| **Minimum** | 1.000 | 3.450 |
+| **Variance** | 15.308 | 520.675 |
+| **Standard Deviation σ** | 3.913 | 22.818 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

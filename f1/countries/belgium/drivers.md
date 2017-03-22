@@ -32,15 +32,16 @@ rowCount: {{rowCount}}
 
 #### Statistic Summary
 
-| **Row Count** | 0.000 |
-| **Total Sum** | 0.000 |
-| **Mean (Average)** | nan |
-| **Maximum** | N/A |
-| **75th Percentile** | N/A |
-| **Median** | N/A |
-| **25th Percentile** | N/A |
-| **Minimum** | N/A |
-| **Variance** | nan |
-| **Standard Deviation** | nan |
+| **Column** | **Surname** | **Country** | **Flag** |
+| **Row Count** |  |  |  |
+| **Total Sum** |  |  |  |
+| **Mean μ (Average)** |  |  |  |
+| **Maximum** |  |  |  |
+| **75th Percentile** |  |  |  |
+| **Median** |  |  |  |
+| **25th Percentile** |  |  |  |
+| **Minimum** |  |  |  |
+| **Variance** |  |  |  |
+| **Standard Deviation σ** |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

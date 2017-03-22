@@ -12,15 +12,16 @@ rowCount: {{rowCount}}
 
 #### Statistic Summary
 
-| **Row Count** | 0.000 |
-| **Total Sum** | 0.000 |
-| **Mean (Average)** | nan |
-| **Maximum** | N/A |
-| **75th Percentile** | N/A |
-| **Median** | N/A |
-| **25th Percentile** | N/A |
-| **Minimum** | N/A |
-| **Variance** | nan |
-| **Standard Deviation** | nan |
+| **Column** | **Location** | **Country** | **Races** | **Most Wins Driver** | **Wins** |
+| **Row Count** |  |  | 3 |  | 3 |
+| **Total Sum** |  |  | 76.000 |  | 10.000 |
+| **Mean μ (Average)** |  |  | 25.333 |  | 3.333 |
+| **Maximum** |  |  | 40.000 |  | 5.000 |
+| **75th Percentile** |  |  | 40.000 |  | 5.000 |
+| **Median** |  |  | 35.000 |  | 4.000 |
+| **25th Percentile** |  |  | 1.000 |  | 1.000 |
+| **Minimum** |  |  | 1.000 |  | 1.000 |
+| **Variance** |  |  | 300.222 |  | 2.889 |
+| **Standard Deviation σ** |  |  | 17.327 |  | 1.700 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

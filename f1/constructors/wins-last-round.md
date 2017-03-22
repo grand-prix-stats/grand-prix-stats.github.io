@@ -10,10 +10,10 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "AAAAAA",
-                "FFF8F6",
-                "3da48e",
-                "381ea0",
+                "E96E30",
+                "EAE4ED",
+                "18A19B",
+                "121D32",
                 "09630C",
                 "274B72",
                 "B21827",
@@ -29,9 +29,14 @@ var data = {
                 "1A2446",
                 "FFFFFF",
                 "AAAAAA",
-                "F6CF00"
+                "FDE139"
             ],
             "borderColor": [
+                "16191A",
+                "0D1D20",
+                "082957",
+                "D7D7D5",
+                "FDCC2F",
                 "444444",
                 "444444",
                 "444444",
@@ -47,12 +52,7 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444"
+                "424B52"
             ],
             "borderWidth": 1,
             "data": [
@@ -164,15 +164,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 21.000 |
+| **Column** | **Wins Last Round** |
+| **Row Count** | 21 |
 | **Total Sum** | 67.000 |
-| **Mean (Average)** | 3.190 |
+| **Mean μ (Average)** | 3.190 |
 | **Maximum** | 14.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
 | **Variance** | 11.868 |
-| **Standard Deviation** | 3.445 |
+| **Standard Deviation σ** | 3.445 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

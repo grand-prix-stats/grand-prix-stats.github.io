@@ -10,13 +10,13 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "AAAAAA",
-                "FFF8F6",
-                "381ea0",
-                "3da48e",
+                "E96E30",
+                "EAE4ED",
+                "121D32",
+                "18A19B",
                 "09630C",
                 "73C2FB",
-                "F6CF00",
+                "FDE139",
                 "243F73",
                 "274B72",
                 "144D44",
@@ -40,7 +40,7 @@ var data = {
                 "D70028",
                 "A3805E",
                 "243F73",
-                "204FE0",
+                "0736A5",
                 "07316F",
                 "FFFFFF",
                 "FFA500",
@@ -50,7 +50,7 @@ var data = {
                 "888888",
                 "FA9B27",
                 "DBC75F",
-                "C35503",
+                "F6AFC1",
                 "888888",
                 "DDDDDD",
                 "FFFFFF",
@@ -80,11 +80,17 @@ var data = {
                 "888888",
                 "888888",
                 "888888",
-                "0C00A3"
+                "2039C3"
             ],
             "borderColor": [
+                "16191A",
+                "0D1D20",
+                "082957",
+                "FDCC2F",
+                "D7D7D5",
                 "444444",
                 "444444",
+                "424B52",
                 "444444",
                 "444444",
                 "444444",
@@ -108,6 +114,7 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
+                "A17A5D",
                 "444444",
                 "444444",
                 "444444",
@@ -117,6 +124,7 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
+                "C81625",
                 "444444",
                 "444444",
                 "444444",
@@ -146,15 +154,7 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444"
+                "FC181D"
             ],
             "borderWidth": 1,
             "data": [
@@ -419,15 +419,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 72.000 |
-| **Total Sum** | 2889.000 |
-| **Mean (Average)** | 40.125 |
-| **Maximum** | 718.000 |
-| **75th Percentile** | 25.000 |
-| **Median** | 7.000 |
-| **25th Percentile** | 2.000 |
-| **Minimum** | 1.000 |
-| **Variance** | 11296.832 |
-| **Standard Deviation** | 106.287 |
+| **Column** | **Podiums** | **% Of Total Participations** |
+| **Row Count** | 72 | 72 |
+| **Total Sum** | 2889.000 | 799.330 |
+| **Mean μ (Average)** | 40.125 | 11.102 |
+| **Maximum** | 718.000 | 44.120 |
+| **75th Percentile** | 25.000 | 16.230 |
+| **Median** | 7.000 | 8.410 |
+| **25th Percentile** | 2.000 | 2.440 |
+| **Minimum** | 1.000 | 0.240 |
+| **Variance** | 11296.832 | 111.148 |
+| **Standard Deviation σ** | 106.287 | 10.543 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

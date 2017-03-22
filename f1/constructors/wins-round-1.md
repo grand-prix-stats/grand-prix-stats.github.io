@@ -10,11 +10,11 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "AAAAAA",
-                "FFF8F6",
+                "E96E30",
+                "EAE4ED",
                 "144D44",
-                "3da48e",
-                "F6CF00",
+                "18A19B",
+                "FDE139",
                 "B21827",
                 "73C2FB",
                 "243F73",
@@ -29,11 +29,17 @@ var data = {
                 "F6CA46",
                 "025839",
                 "3FB2B3",
-                "381ea0",
+                "121D32",
                 "274B72",
                 "A3805E"
             ],
             "borderColor": [
+                "16191A",
+                "0D1D20",
+                "082957",
+                "444444",
+                "D7D7D5",
+                "424B52",
                 "444444",
                 "444444",
                 "444444",
@@ -48,13 +54,7 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
-                "444444",
+                "FDCC2F",
                 "444444",
                 "444444"
             ],
@@ -174,15 +174,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 23.000 |
+| **Column** | **Wins Round 1** |
+| **Row Count** | 23 |
 | **Total Sum** | 68.000 |
-| **Mean (Average)** | 2.957 |
+| **Mean μ (Average)** | 2.957 |
 | **Maximum** | 14.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
 | **Variance** | 12.129 |
-| **Standard Deviation** | 3.483 |
+| **Standard Deviation σ** | 3.483 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

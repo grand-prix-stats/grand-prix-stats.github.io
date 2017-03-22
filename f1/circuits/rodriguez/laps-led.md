@@ -9,14 +9,14 @@ var data = {
     "datasets": [
         {
             "backgroundColor": [
-                "#f3a935",
-                "#f3a935",
-                "#f3a935"
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D"
             ],
             "borderColor": [
-                "#f68639",
-                "#f68639",
-                "#f68639"
+                "#1D181E",
+                "#1D181E",
+                "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
@@ -74,15 +74,16 @@ var chart = new Chart("chart", {
 
 #### Statistic Summary
 
-| **Row Count** | 3.000 |
+| **Column** | **Number Of Laps Led** |
+| **Row Count** | 3 |
 | **Total Sum** | 142.000 |
-| **Mean (Average)** | 47.333 |
+| **Mean μ (Average)** | 47.333 |
 | **Maximum** | 68.000 |
 | **75th Percentile** | 68.000 |
 | **Median** | 62.000 |
 | **25th Percentile** | 12.000 |
 | **Minimum** | 12.000 |
 | **Variance** | 630.222 |
-| **Standard Deviation** | 25.104 |
+| **Standard Deviation σ** | 25.104 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
