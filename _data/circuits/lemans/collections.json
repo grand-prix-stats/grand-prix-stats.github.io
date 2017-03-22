@@ -34,5 +34,9 @@
     {
         "title": "Number of Wins by Grid Position at Le Mans",
         "url": "grid-position-wins-list"
+    },
+    {
+        "title": "Number of Races by Round at Le Mans",
+        "url": "number-races-by-round"
     }
 ]

@@ -34,5 +34,9 @@
     {
         "title": "Number of Wins by Grid Position at Watkins Glen",
         "url": "grid-position-wins-list"
+    },
+    {
+        "title": "Number of Races by Round at Watkins Glen",
+        "url": "number-races-by-round"
     }
 ]

@@ -1,7 +1,11 @@
 ---
 title: Rank of Formula 1® Seasons by 1st to 3rd Point Percentage in Constructor's Championship
 layout: page
+collectionName: 
+collectionId: 
 ---
+
+
 
 <canvas id="chart" width="400" height="180"></canvas>
 <script>

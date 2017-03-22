@@ -34,5 +34,9 @@
     {
         "title": "Number of Wins by Grid Position at Hungaroring",
         "url": "grid-position-wins-list"
+    },
+    {
+        "title": "Number of Races by Round at Hungaroring",
+        "url": "number-races-by-round"
     }
 ]

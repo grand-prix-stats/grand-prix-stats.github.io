@@ -34,5 +34,9 @@
     {
         "title": "Number of Wins by Grid Position at Las Vegas Street Circuit",
         "url": "grid-position-wins-list"
+    },
+    {
+        "title": "Number of Races by Round at Las Vegas Street Circuit",
+        "url": "number-races-by-round"
     }
 ]

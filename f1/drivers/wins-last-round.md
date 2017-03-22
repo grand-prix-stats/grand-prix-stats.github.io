@@ -1,7 +1,11 @@
 ---
 title: Rank of Formula 1® Drivers by Number of Wins in Last Round
 layout: page
+collectionName: 
+collectionId: 
 ---
+
+
 
 <canvas id="chart" width="400" height="180"></canvas>
 <script>

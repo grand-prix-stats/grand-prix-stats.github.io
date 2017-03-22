@@ -1,7 +1,11 @@
 ---
 title: Point Percentage of Constructor's Champion per Formula 1® Season
 layout: page
+collectionName: 
+collectionId: 
 ---
+
+
 
 <canvas id="chart" width="400" height="180"></canvas>
 <script>

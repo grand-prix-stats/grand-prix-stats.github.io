@@ -1,7 +1,11 @@
 ---
 title: Rank of Formula 1® Constructor Teams by Number of DNF (Did Not Finish)
 layout: page
+collectionName: 
+collectionId: 
 ---
+
+
 
 <canvas id="chart" width="400" height="180"></canvas>
 <script>

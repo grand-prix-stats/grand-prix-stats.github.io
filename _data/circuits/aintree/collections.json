@@ -34,5 +34,9 @@
     {
         "title": "Number of Wins by Grid Position at Aintree",
         "url": "grid-position-wins-list"
+    },
+    {
+        "title": "Number of Races by Round at Aintree",
+        "url": "number-races-by-round"
     }
 ]

@@ -34,5 +34,9 @@
     {
         "title": "Number of Wins by Grid Position at Phoenix street circuit",
         "url": "grid-position-wins-list"
+    },
+    {
+        "title": "Number of Races by Round at Phoenix street circuit",
+        "url": "number-races-by-round"
     }
 ]

@@ -1,7 +1,11 @@
 ---
 title: Epic Comeback Formula 1® Races from 16th+ on Grid to the Podium
 layout: page
+collectionName: 
+collectionId: 
 ---
+
+
 
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
