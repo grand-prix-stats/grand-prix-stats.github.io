@@ -1,6 +1,9 @@
 ---
 title: Grand Prix Stats
 layout: page
+redirect_from:
+- f1
+- f1/index.html
 ---
 
 Welcome to Grand Prix Stats. This website is programmatically generated from
