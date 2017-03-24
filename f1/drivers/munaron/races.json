@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1960-09-04",
+        "final_position": "R",
+        "grid": 8,
+        "laps_completed": 27,
+        "name": "1960 Italian Grand Prix 🇮🇹",
+        "round": 9,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1960-07-16",
+        "final_position": "15",
+        "grid": 25,
+        "laps_completed": 70,
+        "name": "1960 British Grand Prix 🇬🇧",
+        "round": 7,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-07-03",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 16,
+        "name": "1960 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-02-07",
+        "final_position": "13",
+        "grid": 19,
+        "laps_completed": 72,
+        "name": "1960 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Bruce McLaren 🇳🇿"
+    }
+]

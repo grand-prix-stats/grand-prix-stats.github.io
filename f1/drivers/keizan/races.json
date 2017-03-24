@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1975-03-01",
+        "final_position": "13",
+        "grid": 22,
+        "laps_completed": 76,
+        "name": "1975 South African Grand Prix 🇿🇦",
+        "round": 3,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jody Scheckter 🇿🇦"
+    },
+    {
+        "date": "1974-03-30",
+        "final_position": "14",
+        "grid": 24,
+        "laps_completed": 76,
+        "name": "1974 South African Grand Prix 🇿🇦",
+        "round": 3,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1973-03-03",
+        "final_position": "N",
+        "grid": 22,
+        "laps_completed": 67,
+        "name": "1973 South African Grand Prix 🇿🇦",
+        "round": 3,
+        "season": 1973,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    }
+]

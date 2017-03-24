@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1973-07-29",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 7,
+        "name": "1973 Dutch Grand Prix 🇳🇱",
+        "round": 10,
+        "season": 1973,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1973-07-14",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 0,
+        "name": "1973 British Grand Prix 🇬🇧",
+        "round": 9,
+        "season": 1973,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Peter Revson 🇺🇸"
+    }
+]

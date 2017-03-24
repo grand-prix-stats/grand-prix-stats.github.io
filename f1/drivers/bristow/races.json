@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1960-06-19",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 19,
+        "name": "1960 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-06-06",
+        "final_position": "R",
+        "grid": 7,
+        "laps_completed": 9,
+        "name": "1960 Dutch Grand Prix 🇳🇱",
+        "round": 4,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-05-29",
+        "final_position": "R",
+        "grid": 4,
+        "laps_completed": 17,
+        "name": "1960 Monaco Grand Prix 🇲🇨",
+        "round": 2,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1959-07-18",
+        "final_position": "10",
+        "grid": 16,
+        "laps_completed": 70,
+        "name": "1959 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1959,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    }
+]

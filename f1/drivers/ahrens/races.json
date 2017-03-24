@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1968-08-04",
+        "final_position": "12",
+        "grid": 17,
+        "laps_completed": 13,
+        "name": "1968 German Grand Prix 🇩🇪",
+        "round": 8,
+        "season": 1968,
+        "time": null,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1967-08-06",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 4,
+        "name": "1967 German Grand Prix 🇩🇪",
+        "round": 7,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
+    }
+]

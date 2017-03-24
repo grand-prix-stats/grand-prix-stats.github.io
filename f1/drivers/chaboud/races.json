@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1951-07-01",
+        "final_position": "8",
+        "grid": 14,
+        "laps_completed": 69,
+        "name": "1951 French Grand Prix 🇫🇷",
+        "round": 4,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1950-07-02",
+        "final_position": "5",
+        "grid": 4,
+        "laps_completed": 59,
+        "name": "1950 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1950-06-18",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 22,
+        "name": "1950 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    }
+]

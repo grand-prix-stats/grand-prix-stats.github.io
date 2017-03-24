@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1952-08-17",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 27,
+        "name": "1952 Dutch Grand Prix 🇳🇱",
+        "round": 7,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1952-07-19",
+        "final_position": "9",
+        "grid": 5,
+        "laps_completed": 82,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    }
+]

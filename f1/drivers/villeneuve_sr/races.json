@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1983-06-12",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1983 Canadian Grand Prix 🇨🇦",
+        "round": 8,
+        "season": 1983,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "René Arnoux 🇫🇷"
+    },
+    {
+        "date": "1981-10-17",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1981 Caesars Palace Grand Prix 🇺🇸",
+        "round": 15,
+        "season": 1981,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Alan Jones 🇦🇺"
+    },
+    {
+        "date": "1981-09-27",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1981 Canadian Grand Prix 🇨🇦",
+        "round": 14,
+        "season": 1981,
+        "time": null,
+        "winning_constructor": "Ligier 🇫🇷",
+        "winning_driver": "Jacques Laffite 🇫🇷"
+    }
+]

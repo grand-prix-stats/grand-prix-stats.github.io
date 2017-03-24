@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1951-09-16",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 9,
+        "name": "1951 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1951-07-29",
+        "final_position": "9",
+        "grid": 19,
+        "laps_completed": 18,
+        "name": "1951 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1951-06-17",
+        "final_position": "8",
+        "grid": 13,
+        "laps_completed": 32,
+        "name": "1951 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1950-09-03",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 29,
+        "name": "1950 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1950-07-02",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 36,
+        "name": "1950 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1950-06-18",
+        "final_position": "7",
+        "grid": 10,
+        "laps_completed": 33,
+        "name": "1950 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    }
+]

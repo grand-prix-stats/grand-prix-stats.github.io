@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1951-07-01",
+        "final_position": "9",
+        "grid": 19,
+        "laps_completed": 66,
+        "name": "1951 French Grand Prix 🇫🇷",
+        "round": 4,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1951-05-27",
+        "final_position": "14",
+        "grid": 21,
+        "laps_completed": 31,
+        "name": "1951 Swiss Grand Prix 🇨🇭",
+        "round": 1,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1950-09-03",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 42,
+        "name": "1950 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    }
+]

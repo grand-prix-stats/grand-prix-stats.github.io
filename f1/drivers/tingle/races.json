@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1969-03-01",
+        "final_position": "8",
+        "grid": 17,
+        "laps_completed": 73,
+        "name": "1969 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1969,
+        "time": null,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1968-01-01",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 35,
+        "name": "1968 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1968,
+        "time": null,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1967-01-02",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 56,
+        "name": "1967 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Cooper-Maserati 🇬🇧",
+        "winning_driver": "Pedro Rodríguez 🇲🇽"
+    },
+    {
+        "date": "1965-01-01",
+        "final_position": "13",
+        "grid": 20,
+        "laps_completed": 73,
+        "name": "1965 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1963-12-28",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 2,
+        "name": "1963 South African Grand Prix 🇿🇦",
+        "round": 10,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1962-12-29",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 South African Grand Prix 🇿🇦",
+        "round": 9,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    }
+]

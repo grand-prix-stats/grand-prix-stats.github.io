@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1962-09-16",
+        "final_position": "14",
+        "grid": 11,
+        "laps_completed": 63,
+        "name": "1962 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-08-05",
+        "final_position": "6",
+        "grid": 10,
+        "laps_completed": 15,
+        "name": "1962 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1962,
+        "time": "+1:23.8",
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-06-17",
+        "final_position": "4",
+        "grid": 7,
+        "laps_completed": 32,
+        "name": "1962 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1962,
+        "time": "+2:06.6",
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1962-06-03",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Monaco Grand Prix 🇲🇨",
+        "round": 2,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Bruce McLaren 🇳🇿"
+    },
+    {
+        "date": "1962-05-20",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 73,
+        "name": "1962 Dutch Grand Prix 🇳🇱",
+        "round": 1,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1961-09-10",
+        "final_position": "R",
+        "grid": 2,
+        "laps_completed": 13,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    }
+]

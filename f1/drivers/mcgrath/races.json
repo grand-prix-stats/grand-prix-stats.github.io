@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1955-05-30",
+        "final_position": "R",
+        "grid": 3,
+        "laps_completed": 54,
+        "name": "1955 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1955,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bob Sweikert 🇺🇸"
+    },
+    {
+        "date": "1954-05-31",
+        "final_position": "3",
+        "grid": 1,
+        "laps_completed": 200,
+        "name": "1954 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1954,
+        "time": "+1:19.73",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1953-05-30",
+        "final_position": "5",
+        "grid": 3,
+        "laps_completed": 200,
+        "name": "1953 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1953,
+        "time": "+7:49.64",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1952-05-30",
+        "final_position": "11",
+        "grid": 3,
+        "laps_completed": 200,
+        "name": "1952 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1952,
+        "time": "+14:21.72",
+        "winning_constructor": "Kuzma 🇺🇸",
+        "winning_driver": "Troy Ruttman 🇺🇸"
+    },
+    {
+        "date": "1951-05-30",
+        "final_position": "3",
+        "grid": 3,
+        "laps_completed": 200,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1951,
+        "time": "+2:51.39",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Lee Wallard 🇺🇸"
+    },
+    {
+        "date": "1950-05-30",
+        "final_position": "14",
+        "grid": 6,
+        "laps_completed": 131,
+        "name": "1950 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Johnnie Parsons 🇺🇸"
+    }
+]

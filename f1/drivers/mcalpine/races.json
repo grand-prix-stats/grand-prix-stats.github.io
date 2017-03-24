@@ -1,0 +1,86 @@
+[
+    {
+        "date": "1955-07-16",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 30,
+        "name": "1955 British Grand Prix 🇬🇧",
+        "round": 6,
+        "season": 1955,
+        "time": null,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1953-09-13",
+        "final_position": "N",
+        "grid": 18,
+        "laps_completed": 56,
+        "name": "1953 Italian Grand Prix 🇮🇹",
+        "round": 9,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Maserati 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1953-08-02",
+        "final_position": "13",
+        "grid": 16,
+        "laps_completed": 16,
+        "name": "1953 German Grand Prix 🇩🇪",
+        "round": 7,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1953-07-18",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 0,
+        "name": "1953 British Grand Prix 🇬🇧",
+        "round": 6,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1953-06-07",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 63,
+        "name": "1953 Dutch Grand Prix 🇳🇱",
+        "round": 3,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1952-09-07",
+        "final_position": "R",
+        "grid": 2,
+        "laps_completed": 4,
+        "name": "1952 Italian Grand Prix 🇮🇹",
+        "round": 8,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1952-07-19",
+        "final_position": "16",
+        "grid": 17,
+        "laps_completed": 79,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    }
+]

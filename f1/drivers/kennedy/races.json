@@ -1,0 +1,86 @@
+[
+    {
+        "date": "1980-06-29",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 French Grand Prix 🇫🇷",
+        "round": 7,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Alan Jones 🇦🇺"
+    },
+    {
+        "date": "1980-05-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 Monaco Grand Prix 🇲🇨",
+        "round": 6,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1980-05-04",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Ligier 🇫🇷",
+        "winning_driver": "Didier Pironi 🇫🇷"
+    },
+    {
+        "date": "1980-03-30",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 United States Grand Prix West 🇺🇸",
+        "round": 4,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Nelson Piquet 🇧🇷"
+    },
+    {
+        "date": "1980-03-01",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 South African Grand Prix 🇿🇦",
+        "round": 3,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "René Arnoux 🇫🇷"
+    },
+    {
+        "date": "1980-01-27",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 Brazilian Grand Prix 🇧🇷",
+        "round": 2,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "René Arnoux 🇫🇷"
+    },
+    {
+        "date": "1980-01-13",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1980,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Alan Jones 🇦🇺"
+    }
+]

@@ -1,8 +1,11 @@
 ---
 title: List of All Formula 1® Seasons
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Year | Rounds | Drivers Champion | Drivers Champion Points | Drivers Second | Drivers Second Points | Drivers Third | Drivers Third Points | Constructors Champion | Constructors Champion Points | Constructors Second | Constructors Second Points | Constructors Third | Constructors Third Points |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|

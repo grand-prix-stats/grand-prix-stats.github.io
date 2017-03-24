@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1950-09-03",
+        "final_position": "R",
+        "grid": 8,
+        "laps_completed": 48,
+        "name": "1950 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1950-07-02",
+        "final_position": "R",
+        "grid": 16,
+        "laps_completed": 4,
+        "name": "1950 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1950-06-18",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 20,
+        "name": "1950 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1950-06-04",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 19,
+        "name": "1950 Swiss Grand Prix 🇨🇭",
+        "round": 4,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1950-05-21",
+        "final_position": "4",
+        "grid": 9,
+        "laps_completed": 97,
+        "name": "1950 Monaco Grand Prix 🇲🇨",
+        "round": 2,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    }
+]

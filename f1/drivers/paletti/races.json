@@ -1,0 +1,98 @@
+[
+    {
+        "date": "1982-06-13",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 0,
+        "name": "1982 Canadian Grand Prix 🇨🇦",
+        "round": 8,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Nelson Piquet 🇧🇷"
+    },
+    {
+        "date": "1982-06-06",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 0,
+        "name": "1982 Detroit Grand Prix 🇺🇸",
+        "round": 7,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "John Watson 🇬🇧"
+    },
+    {
+        "date": "1982-05-23",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 Monaco Grand Prix 🇲🇨",
+        "round": 6,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Riccardo Patrese 🇮🇹"
+    },
+    {
+        "date": "1982-05-09",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "John Watson 🇬🇧"
+    },
+    {
+        "date": "1982-04-25",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 7,
+        "name": "1982 San Marino Grand Prix 🇮🇹",
+        "round": 4,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Didier Pironi 🇫🇷"
+    },
+    {
+        "date": "1982-04-04",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 United States Grand Prix West 🇺🇸",
+        "round": 3,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1982-03-21",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 Brazilian Grand Prix 🇧🇷",
+        "round": 2,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Alain Prost 🇫🇷"
+    },
+    {
+        "date": "1982-01-23",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Alain Prost 🇫🇷"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1967-08-06",
+        "final_position": "7",
+        "grid": 20,
+        "laps_completed": 15,
+        "name": "1967 German Grand Prix 🇩🇪",
+        "round": 7,
+        "season": 1967,
+        "time": "+8:47.9",
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
+    },
+    {
+        "date": "1967-07-15",
+        "final_position": "9",
+        "grid": 15,
+        "laps_completed": 76,
+        "name": "1967 British Grand Prix 🇬🇧",
+        "round": 6,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    }
+]

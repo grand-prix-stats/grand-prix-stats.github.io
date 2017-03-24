@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1953-08-02",
+        "final_position": "R",
+        "grid": 30,
+        "laps_completed": 2,
+        "name": "1953 German Grand Prix 🇩🇪",
+        "round": 7,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1952-08-03",
+        "final_position": "R",
+        "grid": 30,
+        "laps_completed": 5,
+        "name": "1952 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    }
+]

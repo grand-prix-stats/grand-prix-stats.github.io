@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1974-10-06",
+        "final_position": "W",
+        "grid": 26,
+        "laps_completed": 25,
+        "name": "1974 United States Grand Prix 🇺🇸",
+        "round": 15,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1974-09-08",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
+    },
+    {
+        "date": "1974-07-07",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 French Grand Prix 🇫🇷",
+        "round": 9,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
+    }
+]

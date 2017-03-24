@@ -1,0 +1,110 @@
+[
+    {
+        "date": "1962-08-05",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-07-08",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 French Grand Prix 🇫🇷",
+        "round": 4,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Porsche 🇩🇪",
+        "winning_driver": "Dan Gurney 🇺🇸"
+    },
+    {
+        "date": "1962-06-17",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1962-06-03",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Monaco Grand Prix 🇲🇨",
+        "round": 2,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Bruce McLaren 🇳🇿"
+    },
+    {
+        "date": "1961-08-06",
+        "final_position": "15",
+        "grid": 20,
+        "laps_completed": 13,
+        "name": "1961 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1961-07-15",
+        "final_position": "R",
+        "grid": 27,
+        "laps_completed": 25,
+        "name": "1961 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Wolfgang von Trips 🇩🇪"
+    },
+    {
+        "date": "1961-06-18",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1958-08-03",
+        "final_position": "8",
+        "grid": 14,
+        "laps_completed": 15,
+        "name": "1958 German Grand Prix 🇩🇪",
+        "round": 8,
+        "season": 1958,
+        "time": "+7:09.9",
+        "winning_constructor": "Vanwall 🇬🇧",
+        "winning_driver": "Tony Brooks 🇬🇧"
+    },
+    {
+        "date": "1957-08-04",
+        "final_position": "15",
+        "grid": 22,
+        "laps_completed": 17,
+        "name": "1957 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1957,
+        "time": null,
+        "winning_constructor": "Maserati 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1963-08-04",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1963 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1961-09-10",
+        "final_position": "10",
+        "grid": 27,
+        "laps_completed": 40,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1961-07-15",
+        "final_position": "R",
+        "grid": 29,
+        "laps_completed": 12,
+        "name": "1961 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Wolfgang von Trips 🇩🇪"
+    },
+    {
+        "date": "1959-07-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1959 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1959,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    }
+]

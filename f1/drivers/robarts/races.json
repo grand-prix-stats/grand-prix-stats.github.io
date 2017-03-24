@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1974-06-09",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Swedish Grand Prix 🇸🇪",
+        "round": 7,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jody Scheckter 🇿🇦"
+    },
+    {
+        "date": "1974-03-30",
+        "final_position": "17",
+        "grid": 23,
+        "laps_completed": 74,
+        "name": "1974 South African Grand Prix 🇿🇦",
+        "round": 3,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1974-01-27",
+        "final_position": "15",
+        "grid": 24,
+        "laps_completed": 30,
+        "name": "1974 Brazilian Grand Prix 🇧🇷",
+        "round": 2,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1974-01-13",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 36,
+        "name": "1974 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
+    }
+]

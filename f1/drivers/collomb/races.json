@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1964-05-10",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1964 Monaco Grand Prix 🇲🇨",
+        "round": 1,
+        "season": 1964,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1963-08-04",
+        "final_position": "10",
+        "grid": 21,
+        "laps_completed": 10,
+        "name": "1963 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1963-05-26",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1963 Monaco Grand Prix 🇲🇨",
+        "round": 1,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-08-05",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 2,
+        "name": "1962 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1961-08-06",
+        "final_position": "N",
+        "grid": 26,
+        "laps_completed": 11,
+        "name": "1961 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1961-07-02",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 6,
+        "name": "1961 French Grand Prix 🇫🇷",
+        "round": 4,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Giancarlo Baghetti 🇮🇹"
+    }
+]

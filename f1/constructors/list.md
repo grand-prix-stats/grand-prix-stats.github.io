@@ -1,8 +1,11 @@
 ---
 title: List of All Formula 1® Constructor Teams by Name
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Name | Seasons | Country | First Race | Last Race | First Win | Last Win | Wins | Podiums | Top Ten | Poles | Titles |
 |--|--|--|--|--|--|--|--|--|--|--|--|

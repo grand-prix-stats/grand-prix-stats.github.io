@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1992-04-05",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 Brazilian Grand Prix 🇧🇷",
+        "round": 3,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-03-22",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 Mexican Grand Prix 🇲🇽",
+        "round": 2,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-03-01",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    }
+]

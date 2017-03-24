@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1978-04-02",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 United States Grand Prix West 🇺🇸",
+        "round": 4,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1978-03-04",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 South African Grand Prix 🇿🇦",
+        "round": 3,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
+    },
+    {
+        "date": "1978-01-29",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 0,
+        "name": "1978 Brazilian Grand Prix 🇧🇷",
+        "round": 2,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1978-01-15",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 28,
+        "name": "1978 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
+    },
+    {
+        "date": "1977-09-11",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1977 Italian Grand Prix 🇮🇹",
+        "round": 14,
+        "season": 1977,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
+    }
+]

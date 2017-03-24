@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1955-05-30",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 56,
+        "name": "1955 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1955,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bob Sweikert 🇺🇸"
+    },
+    {
+        "date": "1954-05-31",
+        "final_position": "1",
+        "grid": 19,
+        "laps_completed": 200,
+        "name": "1954 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1954,
+        "time": "3:49:17.27",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1953-05-30",
+        "final_position": "1",
+        "grid": 1,
+        "laps_completed": 200,
+        "name": "1953 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1953,
+        "time": "3:53:01.69",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1952-05-30",
+        "final_position": "17",
+        "grid": 8,
+        "laps_completed": 191,
+        "name": "1952 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Kuzma 🇺🇸",
+        "winning_driver": "Troy Ruttman 🇺🇸"
+    },
+    {
+        "date": "1951-05-30",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 29,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Lee Wallard 🇺🇸"
+    }
+]

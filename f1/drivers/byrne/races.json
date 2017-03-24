@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1982-09-25",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 39,
+        "name": "1982 Caesars Palace Grand Prix 🇺🇸",
+        "round": 16,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Michele Alboreto 🇮🇹"
+    },
+    {
+        "date": "1982-09-12",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 Italian Grand Prix 🇮🇹",
+        "round": 15,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "René Arnoux 🇫🇷"
+    },
+    {
+        "date": "1982-08-29",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 Swiss Grand Prix 🇫🇷",
+        "round": 14,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Keke Rosberg 🇫🇮"
+    },
+    {
+        "date": "1982-08-15",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 28,
+        "name": "1982 Austrian Grand Prix 🇦🇹",
+        "round": 13,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Elio de Angelis 🇮🇹"
+    },
+    {
+        "date": "1982-08-08",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1982 German Grand Prix 🇩🇪",
+        "round": 12,
+        "season": 1982,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Patrick Tambay 🇫🇷"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1966-06-12",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1966 Belgian Grand Prix 🇧🇪",
+        "round": 2,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1960-09-04",
+        "final_position": "R",
+        "grid": 16,
+        "laps_completed": 23,
+        "name": "1960 Italian Grand Prix 🇮🇹",
+        "round": 9,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    }
+]

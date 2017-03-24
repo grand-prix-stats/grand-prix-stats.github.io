@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1978-01-29",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 Brazilian Grand Prix 🇧🇷",
+        "round": 2,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1978-01-15",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
+    },
+    {
+        "date": "1976-07-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1976 British Grand Prix 🇬🇧",
+        "round": 9,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    }
+]

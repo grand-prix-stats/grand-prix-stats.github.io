@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1962-08-05",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 4,
+        "name": "1962 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-06-17",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1976-09-12",
+        "final_position": "18",
+        "grid": 21,
+        "laps_completed": 49,
+        "name": "1976 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "March 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
+    },
+    {
+        "date": "1976-08-29",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1976 Dutch Grand Prix 🇳🇱",
+        "round": 12,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "James Hunt 🇬🇧"
+    },
+    {
+        "date": "1976-08-15",
+        "final_position": "11",
+        "grid": 23,
+        "laps_completed": 51,
+        "name": "1976 Austrian Grand Prix 🇦🇹",
+        "round": 11,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "Penske 🇺🇸",
+        "winning_driver": "John Watson 🇬🇧"
+    },
+    {
+        "date": "1976-08-01",
+        "final_position": "14",
+        "grid": 26,
+        "laps_completed": 13,
+        "name": "1976 German Grand Prix 🇩🇪",
+        "round": 10,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "James Hunt 🇬🇧"
+    }
+]

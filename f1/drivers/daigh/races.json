@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1960-11-20",
+        "final_position": "10",
+        "grid": 18,
+        "laps_completed": 70,
+        "name": "1960 United States Grand Prix 🇺🇸",
+        "round": 10,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1960-07-16",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 58,
+        "name": "1960 British Grand Prix 🇬🇧",
+        "round": 7,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-07-03",
+        "final_position": "W",
+        "grid": 23,
+        "laps_completed": 0,
+        "name": "1960 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-06-19",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 16,
+        "name": "1960 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-06-06",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1960 Dutch Grand Prix 🇳🇱",
+        "round": 4,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Cooper-Climax 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1960-05-29",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1960 Monaco Grand Prix 🇲🇨",
+        "round": 2,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    }
+]

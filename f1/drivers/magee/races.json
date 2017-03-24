@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1976-07-04",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1976 French Grand Prix 🇫🇷",
+        "round": 8,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "James Hunt 🇬🇧"
+    },
+    {
+        "date": "1975-06-08",
+        "final_position": "14",
+        "grid": 22,
+        "laps_completed": 78,
+        "name": "1975 Swedish Grand Prix 🇸🇪",
+        "round": 7,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    }
+]

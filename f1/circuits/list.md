@@ -1,8 +1,11 @@
 ---
 title: List of All Formula 1® Circuits
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|

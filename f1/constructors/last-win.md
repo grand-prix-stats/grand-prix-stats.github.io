@@ -1,8 +1,11 @@
 ---
 title: List of Formula 1® Constructor Teams by Last Win
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Constructor | Last Win |
 |--|--|

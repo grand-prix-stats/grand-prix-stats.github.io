@@ -1,0 +1,122 @@
+[
+    {
+        "date": "1994-08-14",
+        "final_position": "9",
+        "grid": 25,
+        "laps_completed": 75,
+        "name": "1994 Hungarian Grand Prix 🇭🇺",
+        "round": 10,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1994-07-31",
+        "final_position": "7",
+        "grid": 24,
+        "laps_completed": 44,
+        "name": "1994 German Grand Prix 🇩🇪",
+        "round": 9,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gerhard Berger 🇦🇹"
+    },
+    {
+        "date": "1994-07-10",
+        "final_position": "14",
+        "grid": 24,
+        "laps_completed": 58,
+        "name": "1994 British Grand Prix 🇬🇧",
+        "round": 8,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Damon Hill 🇬🇧"
+    },
+    {
+        "date": "1994-07-03",
+        "final_position": "R",
+        "grid": 25,
+        "laps_completed": 36,
+        "name": "1994 French Grand Prix 🇫🇷",
+        "round": 7,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1994-06-12",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 57,
+        "name": "1994 Canadian Grand Prix 🇨🇦",
+        "round": 6,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1994-05-29",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 0,
+        "name": "1994 Spanish Grand Prix 🇪🇸",
+        "round": 5,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Damon Hill 🇬🇧"
+    },
+    {
+        "date": "1994-05-15",
+        "final_position": "8",
+        "grid": 18,
+        "laps_completed": 76,
+        "name": "1994 Monaco Grand Prix 🇲🇨",
+        "round": 4,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1994-05-01",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 17,
+        "name": "1994 San Marino Grand Prix 🇮🇹",
+        "round": 3,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1994-04-17",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 14,
+        "name": "1994 Pacific Grand Prix 🇯🇵",
+        "round": 2,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1994-03-27",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 2,
+        "name": "1994 Brazilian Grand Prix 🇧🇷",
+        "round": 1,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    }
+]

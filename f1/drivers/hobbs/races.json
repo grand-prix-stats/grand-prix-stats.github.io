@@ -1,0 +1,86 @@
+[
+    {
+        "date": "1974-09-08",
+        "final_position": "9",
+        "grid": 23,
+        "laps_completed": 51,
+        "name": "1974 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
+    },
+    {
+        "date": "1974-08-18",
+        "final_position": "7",
+        "grid": 17,
+        "laps_completed": 53,
+        "name": "1974 Austrian Grand Prix 🇦🇹",
+        "round": 12,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1971-10-03",
+        "final_position": "10",
+        "grid": 22,
+        "laps_completed": 58,
+        "name": "1971 United States Grand Prix 🇺🇸",
+        "round": 11,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "François Cevert 🇫🇷"
+    },
+    {
+        "date": "1968-09-08",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 42,
+        "name": "1968 Italian Grand Prix 🇮🇹",
+        "round": 9,
+        "season": 1968,
+        "time": null,
+        "winning_constructor": "McLaren-Ford 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
+    },
+    {
+        "date": "1967-08-27",
+        "final_position": "9",
+        "grid": 12,
+        "laps_completed": 85,
+        "name": "1967 Canadian Grand Prix 🇨🇦",
+        "round": 8,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1967-08-06",
+        "final_position": "10",
+        "grid": 22,
+        "laps_completed": 13,
+        "name": "1967 German Grand Prix 🇩🇪",
+        "round": 7,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
+    },
+    {
+        "date": "1967-07-15",
+        "final_position": "8",
+        "grid": 14,
+        "laps_completed": 77,
+        "name": "1967 British Grand Prix 🇬🇧",
+        "round": 6,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    }
+]

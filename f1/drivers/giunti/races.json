@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1970-09-06",
+        "final_position": "R",
+        "grid": 15,
+        "laps_completed": 14,
+        "name": "1970 Italian Grand Prix 🇮🇹",
+        "round": 10,
+        "season": 1970,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Clay Regazzoni 🇨🇭"
+    },
+    {
+        "date": "1970-08-16",
+        "final_position": "7",
+        "grid": 5,
+        "laps_completed": 59,
+        "name": "1970 Austrian Grand Prix 🇦🇹",
+        "round": 9,
+        "season": 1970,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Jacky Ickx 🇧🇪"
+    },
+    {
+        "date": "1970-07-05",
+        "final_position": "14",
+        "grid": 11,
+        "laps_completed": 35,
+        "name": "1970 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1970,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Jochen Rindt 🇦🇹"
+    },
+    {
+        "date": "1970-06-07",
+        "final_position": "4",
+        "grid": 8,
+        "laps_completed": 28,
+        "name": "1970 Belgian Grand Prix 🇧🇪",
+        "round": 4,
+        "season": 1970,
+        "time": "+2:38.5",
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Pedro Rodríguez 🇲🇽"
+    }
+]

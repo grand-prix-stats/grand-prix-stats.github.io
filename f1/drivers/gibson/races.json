@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1958-08-03",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 2,
+        "name": "1958 German Grand Prix 🇩🇪",
+        "round": 8,
+        "season": 1958,
+        "time": null,
+        "winning_constructor": "Vanwall 🇬🇧",
+        "winning_driver": "Tony Brooks 🇬🇧"
+    },
+    {
+        "date": "1957-08-04",
+        "final_position": "R",
+        "grid": 24,
+        "laps_completed": 3,
+        "name": "1957 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1957,
+        "time": null,
+        "winning_constructor": "Maserati 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    }
+]

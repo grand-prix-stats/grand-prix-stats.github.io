@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1963-07-20",
+        "final_position": "13",
+        "grid": 23,
+        "laps_completed": 74,
+        "name": "1963 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1963-05-26",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1963 Monaco Grand Prix 🇲🇨",
+        "round": 1,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-07-21",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1962-06-17",
+        "final_position": "11",
+        "grid": 19,
+        "laps_completed": 16,
+        "name": "1962 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1961-08-06",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    }
+]

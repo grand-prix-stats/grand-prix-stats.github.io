@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1993-09-26",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 8,
+        "name": "1993 Portuguese Grand Prix 🇵🇹",
+        "round": 14,
+        "season": 1993,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1992-11-08",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 55,
+        "name": "1992 Australian Grand Prix 🇦🇺",
+        "round": 16,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Gerhard Berger 🇦🇹"
+    },
+    {
+        "date": "1992-10-25",
+        "final_position": "13",
+        "grid": 26,
+        "laps_completed": 51,
+        "name": "1992 Japanese Grand Prix 🇯🇵",
+        "round": 15,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Riccardo Patrese 🇮🇹"
+    },
+    {
+        "date": "1992-09-27",
+        "final_position": "11",
+        "grid": 23,
+        "laps_completed": 68,
+        "name": "1992 Portuguese Grand Prix 🇵🇹",
+        "round": 14,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-09-13",
+        "final_position": "R",
+        "grid": 24,
+        "laps_completed": 17,
+        "name": "1992 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
+    },
+    {
+        "date": "1992-08-30",
+        "final_position": "12",
+        "grid": 21,
+        "laps_completed": 43,
+        "name": "1992 Belgian Grand Prix 🇧🇪",
+        "round": 12,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    }
+]

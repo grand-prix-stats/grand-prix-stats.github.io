@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1953-08-23",
+        "final_position": "8",
+        "grid": 19,
+        "laps_completed": 51,
+        "name": "1953 Swiss Grand Prix 🇨🇭",
+        "round": 8,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1952-05-18",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 1,
+        "name": "1952 Swiss Grand Prix 🇨🇭",
+        "round": 1,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Piero Taruffi 🇮🇹"
+    }
+]

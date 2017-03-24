@@ -1,0 +1,86 @@
+[
+    {
+        "date": "1995-10-01",
+        "final_position": "12",
+        "grid": 17,
+        "laps_completed": 64,
+        "name": "1995 European Grand Prix 🇩🇪",
+        "round": 14,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1995-09-24",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 0,
+        "name": "1995 Portuguese Grand Prix 🇵🇹",
+        "round": 13,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "David Coulthard 🇬🇧"
+    },
+    {
+        "date": "1995-09-10",
+        "final_position": "7",
+        "grid": 15,
+        "laps_completed": 52,
+        "name": "1995 Italian Grand Prix 🇮🇹",
+        "round": 12,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Johnny Herbert 🇬🇧"
+    },
+    {
+        "date": "1995-08-27",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 20,
+        "name": "1995 Belgian Grand Prix 🇧🇪",
+        "round": 11,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1995-08-13",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 45,
+        "name": "1995 Hungarian Grand Prix 🇭🇺",
+        "round": 10,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Damon Hill 🇬🇧"
+    },
+    {
+        "date": "1995-07-30",
+        "final_position": "R",
+        "grid": 15,
+        "laps_completed": 0,
+        "name": "1995 German Grand Prix 🇩🇪",
+        "round": 9,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1995-07-16",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 28,
+        "name": "1995 British Grand Prix 🇬🇧",
+        "round": 8,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Johnny Herbert 🇬🇧"
+    }
+]

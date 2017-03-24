@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1955-05-30",
+        "final_position": "R",
+        "grid": 24,
+        "laps_completed": 168,
+        "name": "1955 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1955,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bob Sweikert 🇺🇸"
+    },
+    {
+        "date": "1954-05-31",
+        "final_position": "11",
+        "grid": 27,
+        "laps_completed": 200,
+        "name": "1954 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1954,
+        "time": "+8:22.19",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1953-05-30",
+        "final_position": "2",
+        "grid": 12,
+        "laps_completed": 200,
+        "name": "1953 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1953,
+        "time": "+3:30.87",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1952-05-30",
+        "final_position": "5",
+        "grid": 20,
+        "laps_completed": 200,
+        "name": "1952 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1952,
+        "time": "+8:40.15",
+        "winning_constructor": "Kuzma 🇺🇸",
+        "winning_driver": "Troy Ruttman 🇺🇸"
+    }
+]

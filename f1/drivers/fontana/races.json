@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1997-10-26",
+        "final_position": "14",
+        "grid": 18,
+        "laps_completed": 68,
+        "name": "1997 European Grand Prix 🇪🇸",
+        "round": 17,
+        "season": 1997,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
+    },
+    {
+        "date": "1997-07-27",
+        "final_position": "9",
+        "grid": 18,
+        "laps_completed": 44,
+        "name": "1997 German Grand Prix 🇩🇪",
+        "round": 10,
+        "season": 1997,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Gerhard Berger 🇦🇹"
+    },
+    {
+        "date": "1997-07-13",
+        "final_position": "9",
+        "grid": 14,
+        "laps_completed": 58,
+        "name": "1997 British Grand Prix 🇬🇧",
+        "round": 9,
+        "season": 1997,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Jacques Villeneuve 🇨🇦"
+    },
+    {
+        "date": "1997-06-29",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 40,
+        "name": "1997 French Grand Prix 🇫🇷",
+        "round": 8,
+        "season": 1997,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1950-06-04",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 19,
+        "name": "1950 Swiss Grand Prix 🇨🇭",
+        "round": 4,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1950-05-13",
+        "final_position": "R",
+        "grid": 7,
+        "laps_completed": 8,
+        "name": "1950 British Grand Prix 🇬🇧",
+        "round": 1,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    }
+]

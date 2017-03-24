@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1995-10-01",
+        "final_position": "15",
+        "grid": 24,
+        "laps_completed": 60,
+        "name": "1995 European Grand Prix 🇩🇪",
+        "round": 14,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Benetton 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "1995-09-24",
+        "final_position": "R",
+        "grid": 24,
+        "laps_completed": 14,
+        "name": "1995 Portuguese Grand Prix 🇵🇹",
+        "round": 13,
+        "season": 1995,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "David Coulthard 🇬🇧"
+    },
+    {
+        "date": "1994-11-13",
+        "final_position": "R",
+        "grid": 25,
+        "laps_completed": 56,
+        "name": "1994 Australian Grand Prix 🇦🇺",
+        "round": 16,
+        "season": 1994,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    }
+]

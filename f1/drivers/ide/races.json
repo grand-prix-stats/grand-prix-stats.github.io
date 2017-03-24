@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2006-04-23",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 23,
+        "name": "2006 San Marino Grand Prix 🇮🇹",
+        "round": 4,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "2006-04-02",
+        "final_position": "13",
+        "grid": 22,
+        "laps_completed": 54,
+        "name": "2006 Australian Grand Prix 🇦🇺",
+        "round": 3,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
+    },
+    {
+        "date": "2006-03-19",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 33,
+        "name": "2006 Malaysian Grand Prix 🇲🇾",
+        "round": 2,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Giancarlo Fisichella 🇮🇹"
+    },
+    {
+        "date": "2006-03-12",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 35,
+        "name": "2006 Bahrain Grand Prix 🇧🇭",
+        "round": 1,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
+    }
+]

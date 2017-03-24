@@ -1,8 +1,11 @@
 ---
 title: List of Current Formula 1® Races
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|

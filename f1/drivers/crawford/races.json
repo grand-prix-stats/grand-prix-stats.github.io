@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1975-09-07",
+        "final_position": "13",
+        "grid": 25,
+        "laps_completed": 46,
+        "name": "1975 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Clay Regazzoni 🇨🇭"
+    },
+    {
+        "date": "1975-07-19",
+        "final_position": "R",
+        "grid": 25,
+        "laps_completed": 28,
+        "name": "1975 British Grand Prix 🇬🇧",
+        "round": 10,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    }
+]

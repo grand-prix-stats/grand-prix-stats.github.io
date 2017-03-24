@@ -1,0 +1,86 @@
+[
+    {
+        "date": "1964-08-02",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 3,
+        "name": "1964 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1964,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1961-09-10",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1961-08-06",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1960-09-04",
+        "final_position": "7",
+        "grid": 12,
+        "laps_completed": 47,
+        "name": "1960 Italian Grand Prix 🇮🇹",
+        "round": 9,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1958-08-03",
+        "final_position": "6",
+        "grid": 13,
+        "laps_completed": 15,
+        "name": "1958 German Grand Prix 🇩🇪",
+        "round": 8,
+        "season": 1958,
+        "time": "+6:32.4",
+        "winning_constructor": "Vanwall 🇬🇧",
+        "winning_driver": "Tony Brooks 🇬🇧"
+    },
+    {
+        "date": "1957-08-04",
+        "final_position": "12",
+        "grid": 12,
+        "laps_completed": 21,
+        "name": "1957 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1957,
+        "time": null,
+        "winning_constructor": "Maserati 🇮🇹",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1953-08-02",
+        "final_position": "R",
+        "grid": 24,
+        "laps_completed": 12,
+        "name": "1953 German Grand Prix 🇩🇪",
+        "round": 7,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    }
+]

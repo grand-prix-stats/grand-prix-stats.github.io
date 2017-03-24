@@ -1,0 +1,86 @@
+[
+    {
+        "date": "2006-07-16",
+        "final_position": "16",
+        "grid": 20,
+        "laps_completed": 67,
+        "name": "2006 French Grand Prix 🇫🇷",
+        "round": 11,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "2006-07-02",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 0,
+        "name": "2006 United States Grand Prix 🇺🇸",
+        "round": 10,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "2006-06-25",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 2,
+        "name": "2006 Canadian Grand Prix 🇨🇦",
+        "round": 9,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
+    },
+    {
+        "date": "2006-06-11",
+        "final_position": "18",
+        "grid": 21,
+        "laps_completed": 57,
+        "name": "2006 British Grand Prix 🇬🇧",
+        "round": 8,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
+    },
+    {
+        "date": "2006-05-28",
+        "final_position": "16",
+        "grid": 20,
+        "laps_completed": 75,
+        "name": "2006 Monaco Grand Prix 🇲🇨",
+        "round": 7,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
+    },
+    {
+        "date": "2006-05-14",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 10,
+        "name": "2006 Spanish Grand Prix 🇪🇸",
+        "round": 6,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Renault 🇫🇷",
+        "winning_driver": "Fernando Alonso 🇪🇸"
+    },
+    {
+        "date": "2006-05-07",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 29,
+        "name": "2006 European Grand Prix 🇩🇪",
+        "round": 5,
+        "season": 2006,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    }
+]

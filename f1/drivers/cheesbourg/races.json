@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1959-05-30",
+        "final_position": "R",
+        "grid": 30,
+        "laps_completed": 147,
+        "name": "1959 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1959,
+        "time": null,
+        "winning_constructor": "Watson 🇺🇸",
+        "winning_driver": "Rodger Ward 🇺🇸"
+    },
+    {
+        "date": "1958-05-30",
+        "final_position": "10",
+        "grid": 33,
+        "laps_completed": 200,
+        "name": "1958 Indianapolis 500 🇺🇸",
+        "round": 4,
+        "season": 1958,
+        "time": "+8:03.59",
+        "winning_constructor": "Epperly 🇺🇸",
+        "winning_driver": "Jimmy Bryan 🇺🇸"
+    },
+    {
+        "date": "1957-05-30",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 81,
+        "name": "1957 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1957,
+        "time": null,
+        "winning_constructor": "Epperly 🇺🇸",
+        "winning_driver": "Sam Hanks 🇺🇸"
+    }
+]

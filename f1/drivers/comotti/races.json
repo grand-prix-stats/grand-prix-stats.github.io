@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1952-07-06",
+        "final_position": "12",
+        "grid": 16,
+        "laps_completed": 63,
+        "name": "1952 French Grand Prix 🇫🇷",
+        "round": 4,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1950-09-03",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 15,
+        "name": "1950 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    }
+]

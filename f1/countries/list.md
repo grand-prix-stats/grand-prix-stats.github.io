@@ -1,8 +1,11 @@
 ---
 title: List of All Formula 1® Countries
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Name | Code | Flag |
 |--|--|--|

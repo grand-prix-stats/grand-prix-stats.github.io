@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1965-01-01",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1965 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1963-12-28",
+        "final_position": "11",
+        "grid": 18,
+        "laps_completed": 78,
+        "name": "1963 South African Grand Prix 🇿🇦",
+        "round": 10,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1962-12-29",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 62,
+        "name": "1962 South African Grand Prix 🇿🇦",
+        "round": 9,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    }
+]

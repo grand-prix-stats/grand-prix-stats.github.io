@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1970-03-07",
+        "final_position": "11",
+        "grid": 21,
+        "laps_completed": 75,
+        "name": "1970 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1970,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1969-03-01",
+        "final_position": "N",
+        "grid": 16,
+        "laps_completed": 67,
+        "name": "1969 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1969,
+        "time": null,
+        "winning_constructor": "Matra-Ford 🇫🇷",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1965-01-01",
+        "final_position": "10",
+        "grid": 17,
+        "laps_completed": 79,
+        "name": "1965 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1963-12-28",
+        "final_position": "R",
+        "grid": 16,
+        "laps_completed": 53,
+        "name": "1963 South African Grand Prix 🇿🇦",
+        "round": 10,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    }
+]

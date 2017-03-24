@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1960-05-30",
+        "final_position": "16",
+        "grid": 21,
+        "laps_completed": 194,
+        "name": "1960 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1960,
+        "time": null,
+        "winning_constructor": "Watson 🇺🇸",
+        "winning_driver": "Jim Rathmann 🇺🇸"
+    },
+    {
+        "date": "1959-05-30",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 85,
+        "name": "1959 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1959,
+        "time": null,
+        "winning_constructor": "Watson 🇺🇸",
+        "winning_driver": "Rodger Ward 🇺🇸"
+    }
+]

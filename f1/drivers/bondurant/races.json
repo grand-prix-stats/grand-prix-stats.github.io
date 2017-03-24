@@ -1,0 +1,110 @@
+[
+    {
+        "date": "1966-10-23",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 24,
+        "name": "1966 Mexican Grand Prix 🇲🇽",
+        "round": 9,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Cooper-Maserati 🇬🇧",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1966-10-02",
+        "final_position": "D",
+        "grid": 16,
+        "laps_completed": 5,
+        "name": "1966 United States Grand Prix 🇺🇸",
+        "round": 8,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Lotus-BRM 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1966-09-04",
+        "final_position": "7",
+        "grid": 18,
+        "laps_completed": 65,
+        "name": "1966 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Ludovico Scarfiotti 🇮🇹"
+    },
+    {
+        "date": "1966-08-07",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 3,
+        "name": "1966 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1966-07-16",
+        "final_position": "9",
+        "grid": 14,
+        "laps_completed": 76,
+        "name": "1966 British Grand Prix 🇬🇧",
+        "round": 4,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    },
+    {
+        "date": "1966-06-12",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 0,
+        "name": "1966 Belgian Grand Prix 🇧🇪",
+        "round": 2,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1966-05-22",
+        "final_position": "4",
+        "grid": 16,
+        "laps_completed": 95,
+        "name": "1966 Monaco Grand Prix 🇲🇨",
+        "round": 1,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1965-10-24",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 29,
+        "name": "1965 Mexican Grand Prix 🇲🇽",
+        "round": 10,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "Honda 🇯🇵",
+        "winning_driver": "Richie Ginther 🇺🇸"
+    },
+    {
+        "date": "1965-10-03",
+        "final_position": "9",
+        "grid": 14,
+        "laps_completed": 106,
+        "name": "1965 United States Grand Prix 🇺🇸",
+        "round": 9,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    }
+]

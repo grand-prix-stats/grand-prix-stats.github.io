@@ -1,0 +1,122 @@
+[
+    {
+        "date": "1992-07-26",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 German Grand Prix 🇩🇪",
+        "round": 10,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-07-12",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 British Grand Prix 🇬🇧",
+        "round": 9,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-07-05",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 0,
+        "name": "1992 French Grand Prix 🇫🇷",
+        "round": 8,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-06-14",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 Canadian Grand Prix 🇨🇦",
+        "round": 7,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Gerhard Berger 🇦🇹"
+    },
+    {
+        "date": "1992-05-31",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 Monaco Grand Prix 🇲🇨",
+        "round": 6,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Ayrton Senna 🇧🇷"
+    },
+    {
+        "date": "1992-05-17",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 San Marino Grand Prix 🇮🇹",
+        "round": 5,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-05-03",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 22,
+        "name": "1992 Spanish Grand Prix 🇪🇸",
+        "round": 4,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-04-05",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 Brazilian Grand Prix 🇧🇷",
+        "round": 3,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-03-22",
+        "final_position": "R",
+        "grid": 23,
+        "laps_completed": 37,
+        "name": "1992 Mexican Grand Prix 🇲🇽",
+        "round": 2,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    },
+    {
+        "date": "1992-03-01",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1992 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1992,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Nigel Mansell 🇬🇧"
+    }
+]

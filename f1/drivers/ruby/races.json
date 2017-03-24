@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1961-10-08",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 76,
+        "name": "1961 United States Grand Prix 🇺🇸",
+        "round": 8,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Innes Ireland 🇬🇧"
+    },
+    {
+        "date": "1960-05-30",
+        "final_position": "7",
+        "grid": 12,
+        "laps_completed": 200,
+        "name": "1960 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1960,
+        "time": "+4:25.59",
+        "winning_constructor": "Watson 🇺🇸",
+        "winning_driver": "Jim Rathmann 🇺🇸"
+    }
+]

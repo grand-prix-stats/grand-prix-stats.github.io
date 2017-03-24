@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1974-09-22",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 33,
+        "name": "1974 Canadian Grand Prix 🇨🇦",
+        "round": 14,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1967-08-27",
+        "final_position": "D",
+        "grid": 16,
+        "laps_completed": 69,
+        "name": "1967 Canadian Grand Prix 🇨🇦",
+        "round": 8,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    }
+]

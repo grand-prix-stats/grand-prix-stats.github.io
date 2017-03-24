@@ -3,8 +3,8 @@ title: Formula 1® Drivers
 layout: page
 ---
 
-- [List of Current Formula 1® Drivers by Surname](current)
-- [List of All Formula 1® Drivers by Surname](list)
+- [List of Current Formula 1® Drivers by Name](current)
+- [List of All Formula 1® Drivers by Name](list)
 - [List of Formula 1® Drivers by First Win](first-win)
 - [List of Formula 1® Drivers by Last Win](last-win)
 - [Rank of Formula 1® Drivers by Number of Championships](championships)

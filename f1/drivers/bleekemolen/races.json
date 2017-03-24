@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1978-10-08",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 Canadian Grand Prix 🇨🇦",
+        "round": 16,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gilles Villeneuve 🇨🇦"
+    },
+    {
+        "date": "1978-10-01",
+        "final_position": "R",
+        "grid": 25,
+        "laps_completed": 43,
+        "name": "1978 United States Grand Prix 🇺🇸",
+        "round": 15,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1978-09-10",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 Italian Grand Prix 🇮🇹",
+        "round": 14,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1978-08-27",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1978 Dutch Grand Prix 🇳🇱",
+        "round": 13,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Mario Andretti 🇺🇸"
+    },
+    {
+        "date": "1977-08-28",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1977 Dutch Grand Prix 🇳🇱",
+        "round": 13,
+        "season": 1977,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    }
+]

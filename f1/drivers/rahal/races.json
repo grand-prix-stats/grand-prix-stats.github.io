@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1978-10-08",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 16,
+        "name": "1978 Canadian Grand Prix 🇨🇦",
+        "round": 16,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Gilles Villeneuve 🇨🇦"
+    },
+    {
+        "date": "1978-10-01",
+        "final_position": "12",
+        "grid": 20,
+        "laps_completed": 58,
+        "name": "1978 United States Grand Prix 🇺🇸",
+        "round": 15,
+        "season": 1978,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    }
+]

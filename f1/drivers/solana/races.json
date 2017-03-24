@@ -1,0 +1,98 @@
+[
+    {
+        "date": "1968-11-03",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 14,
+        "name": "1968 Mexican Grand Prix 🇲🇽",
+        "round": 12,
+        "season": 1968,
+        "time": null,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1967-10-22",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 12,
+        "name": "1967 Mexican Grand Prix 🇲🇽",
+        "round": 11,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1967-10-01",
+        "final_position": "R",
+        "grid": 7,
+        "laps_completed": 7,
+        "name": "1967 United States Grand Prix 🇺🇸",
+        "round": 10,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Lotus-Ford 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1966-10-23",
+        "final_position": "R",
+        "grid": 15,
+        "laps_completed": 9,
+        "name": "1966 Mexican Grand Prix 🇲🇽",
+        "round": 9,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Cooper-Maserati 🇬🇧",
+        "winning_driver": "John Surtees 🇬🇧"
+    },
+    {
+        "date": "1965-10-24",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 55,
+        "name": "1965 Mexican Grand Prix 🇲🇽",
+        "round": 10,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "Honda 🇯🇵",
+        "winning_driver": "Richie Ginther 🇺🇸"
+    },
+    {
+        "date": "1965-10-03",
+        "final_position": "12",
+        "grid": 17,
+        "laps_completed": 95,
+        "name": "1965 United States Grand Prix 🇺🇸",
+        "round": 9,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1964-10-25",
+        "final_position": "10",
+        "grid": 14,
+        "laps_completed": 63,
+        "name": "1964 Mexican Grand Prix 🇲🇽",
+        "round": 10,
+        "season": 1964,
+        "time": null,
+        "winning_constructor": "Brabham-Climax 🇬🇧",
+        "winning_driver": "Dan Gurney 🇺🇸"
+    },
+    {
+        "date": "1963-10-27",
+        "final_position": "11",
+        "grid": 11,
+        "laps_completed": 57,
+        "name": "1963 Mexican Grand Prix 🇲🇽",
+        "round": 9,
+        "season": 1963,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    }
+]

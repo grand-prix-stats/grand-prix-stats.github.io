@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1955-05-30",
+        "final_position": "3",
+        "grid": 10,
+        "laps_completed": 200,
+        "name": "1955 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1955,
+        "time": "+3:32.36",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bob Sweikert 🇺🇸"
+    },
+    {
+        "date": "1954-05-31",
+        "final_position": "11",
+        "grid": 27,
+        "laps_completed": 200,
+        "name": "1954 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1954,
+        "time": "+8:22.19",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1954-05-31",
+        "final_position": "R",
+        "grid": 10,
+        "laps_completed": 191,
+        "name": "1954 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1954,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1953-05-30",
+        "final_position": "10",
+        "grid": 32,
+        "laps_completed": 193,
+        "name": "1953 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bill Vukovich 🇺🇸"
+    },
+    {
+        "date": "1951-05-30",
+        "final_position": "R",
+        "grid": 27,
+        "laps_completed": 110,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Lee Wallard 🇺🇸"
+    },
+    {
+        "date": "1950-05-30",
+        "final_position": "17",
+        "grid": 27,
+        "laps_completed": 128,
+        "name": "1950 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Johnnie Parsons 🇺🇸"
+    }
+]

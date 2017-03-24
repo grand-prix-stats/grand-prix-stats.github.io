@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1966-09-04",
+        "final_position": "9",
+        "grid": 20,
+        "laps_completed": 63,
+        "name": "1966 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1966,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Ludovico Scarfiotti 🇮🇹"
+    },
+    {
+        "date": "1965-09-12",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 37,
+        "name": "1965 Italian Grand Prix 🇮🇹",
+        "round": 8,
+        "season": 1965,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1964-09-06",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1964 Italian Grand Prix 🇮🇹",
+        "round": 8,
+        "season": 1964,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "John Surtees 🇬🇧"
+    }
+]

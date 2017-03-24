@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1959-05-30",
+        "final_position": "R",
+        "grid": 28,
+        "laps_completed": 163,
+        "name": "1959 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1959,
+        "time": null,
+        "winning_constructor": "Watson 🇺🇸",
+        "winning_driver": "Rodger Ward 🇺🇸"
+    },
+    {
+        "date": "1958-05-30",
+        "final_position": "11",
+        "grid": 21,
+        "laps_completed": 200,
+        "name": "1958 Indianapolis 500 🇺🇸",
+        "round": 4,
+        "season": 1958,
+        "time": "+9:14.20",
+        "winning_constructor": "Epperly 🇺🇸",
+        "winning_driver": "Jimmy Bryan 🇺🇸"
+    },
+    {
+        "date": "1957-05-30",
+        "final_position": "R",
+        "grid": 8,
+        "laps_completed": 75,
+        "name": "1957 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1957,
+        "time": null,
+        "winning_constructor": "Epperly 🇺🇸",
+        "winning_driver": "Sam Hanks 🇺🇸"
+    },
+    {
+        "date": "1956-05-30",
+        "final_position": "14",
+        "grid": 28,
+        "laps_completed": 195,
+        "name": "1956 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1956,
+        "time": null,
+        "winning_constructor": "Watson 🇺🇸",
+        "winning_driver": "Pat Flaherty 🇺🇸"
+    },
+    {
+        "date": "1955-05-30",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 54,
+        "name": "1955 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1955,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Bob Sweikert 🇺🇸"
+    }
+]

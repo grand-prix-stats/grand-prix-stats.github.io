@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1952-05-30",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 34,
+        "name": "1952 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Kuzma 🇺🇸",
+        "winning_driver": "Troy Ruttman 🇺🇸"
+    },
+    {
+        "date": "1951-05-30",
+        "final_position": "5",
+        "grid": 29,
+        "laps_completed": 200,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1951,
+        "time": "+4:52.23",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Lee Wallard 🇺🇸"
+    }
+]

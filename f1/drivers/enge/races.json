@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2001-10-14",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 42,
+        "name": "2001 Japanese Grand Prix 🇯🇵",
+        "round": 17,
+        "season": 2001,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Michael Schumacher 🇩🇪"
+    },
+    {
+        "date": "2001-09-30",
+        "final_position": "14",
+        "grid": 21,
+        "laps_completed": 72,
+        "name": "2001 United States Grand Prix 🇺🇸",
+        "round": 16,
+        "season": 2001,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Mika Häkkinen 🇫🇮"
+    },
+    {
+        "date": "2001-09-16",
+        "final_position": "12",
+        "grid": 20,
+        "laps_completed": 52,
+        "name": "2001 Italian Grand Prix 🇮🇹",
+        "round": 15,
+        "season": 2001,
+        "time": null,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Juan Pablo Montoya 🇨🇴"
+    }
+]

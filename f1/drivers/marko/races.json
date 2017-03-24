@@ -1,0 +1,110 @@
+[
+    {
+        "date": "1972-07-02",
+        "final_position": "R",
+        "grid": 6,
+        "laps_completed": 8,
+        "name": "1972 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1972-06-04",
+        "final_position": "10",
+        "grid": 23,
+        "laps_completed": 83,
+        "name": "1972 Belgian Grand Prix 🇧🇪",
+        "round": 5,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1972-05-14",
+        "final_position": "8",
+        "grid": 17,
+        "laps_completed": 77,
+        "name": "1972 Monaco Grand Prix 🇲🇨",
+        "round": 4,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Jean-Pierre Beltoise 🇫🇷"
+    },
+    {
+        "date": "1972-03-04",
+        "final_position": "14",
+        "grid": 23,
+        "laps_completed": 76,
+        "name": "1972 South African Grand Prix 🇿🇦",
+        "round": 2,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Denny Hulme 🇳🇿"
+    },
+    {
+        "date": "1972-01-23",
+        "final_position": "10",
+        "grid": 19,
+        "laps_completed": 93,
+        "name": "1972 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1971-10-03",
+        "final_position": "13",
+        "grid": 16,
+        "laps_completed": 57,
+        "name": "1971 United States Grand Prix 🇺🇸",
+        "round": 11,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "François Cevert 🇫🇷"
+    },
+    {
+        "date": "1971-09-19",
+        "final_position": "12",
+        "grid": 19,
+        "laps_completed": 60,
+        "name": "1971 Canadian Grand Prix 🇨🇦",
+        "round": 10,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1971-09-05",
+        "final_position": "R",
+        "grid": 12,
+        "laps_completed": 3,
+        "name": "1971 Italian Grand Prix 🇮🇹",
+        "round": 9,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Peter Gethin 🇬🇧"
+    },
+    {
+        "date": "1971-08-15",
+        "final_position": "11",
+        "grid": 17,
+        "laps_completed": 52,
+        "name": "1971 Austrian Grand Prix 🇦🇹",
+        "round": 8,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Jo Siffert 🇨🇭"
+    }
+]

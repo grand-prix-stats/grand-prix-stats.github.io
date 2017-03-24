@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1955-01-16",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 1,
+        "name": "1955 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1955,
+        "time": null,
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Juan Fangio 🇦🇷"
+    },
+    {
+        "date": "1953-01-18",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 21,
+        "name": "1953 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1953,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    }
+]

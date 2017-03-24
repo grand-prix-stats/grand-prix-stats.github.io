@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1975-06-08",
+        "final_position": "10",
+        "grid": 21,
+        "laps_completed": 78,
+        "name": "1975 Swedish Grand Prix 🇸🇪",
+        "round": 7,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-05-11",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1975 Monaco Grand Prix 🇲🇨",
+        "round": 5,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    }
+]

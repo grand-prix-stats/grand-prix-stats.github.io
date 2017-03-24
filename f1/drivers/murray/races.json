@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1952-07-19",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 14,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1952,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Alberto Ascari 🇮🇹"
+    },
+    {
+        "date": "1951-07-14",
+        "final_position": "R",
+        "grid": 15,
+        "laps_completed": 45,
+        "name": "1951 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1951,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "José Froilán González 🇦🇷"
+    },
+    {
+        "date": "1950-09-03",
+        "final_position": "R",
+        "grid": 24,
+        "laps_completed": 56,
+        "name": "1950 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    },
+    {
+        "date": "1950-05-13",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 44,
+        "name": "1950 British Grand Prix 🇬🇧",
+        "round": 1,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Alfa Romeo 🇮🇹",
+        "winning_driver": "Nino Farina 🇮🇹"
+    }
+]

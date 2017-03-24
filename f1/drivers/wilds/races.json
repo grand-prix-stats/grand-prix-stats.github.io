@@ -1,0 +1,98 @@
+[
+    {
+        "date": "1976-07-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1976 British Grand Prix 🇬🇧",
+        "round": 9,
+        "season": 1976,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-01-26",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 22,
+        "name": "1975 Brazilian Grand Prix 🇧🇷",
+        "round": 2,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Pace 🇧🇷"
+    },
+    {
+        "date": "1975-01-12",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 24,
+        "name": "1975 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1974-10-06",
+        "final_position": "N",
+        "grid": 22,
+        "laps_completed": 50,
+        "name": "1974 United States Grand Prix 🇺🇸",
+        "round": 15,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1974-09-22",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Canadian Grand Prix 🇨🇦",
+        "round": 14,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1974-09-08",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Ronnie Peterson 🇸🇪"
+    },
+    {
+        "date": "1974-08-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Austrian Grand Prix 🇦🇹",
+        "round": 12,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1974-07-20",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 British Grand Prix 🇬🇧",
+        "round": 10,
+        "season": 1974,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jody Scheckter 🇿🇦"
+    }
+]

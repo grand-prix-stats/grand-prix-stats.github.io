@@ -1,0 +1,122 @@
+[
+    {
+        "date": "1975-10-05",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 5,
+        "name": "1975 United States Grand Prix 🇺🇸",
+        "round": 14,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-09-07",
+        "final_position": "R",
+        "grid": 6,
+        "laps_completed": 1,
+        "name": "1975 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Clay Regazzoni 🇨🇭"
+    },
+    {
+        "date": "1975-08-17",
+        "final_position": "15",
+        "grid": 16,
+        "laps_completed": 28,
+        "name": "1975 Austrian Grand Prix 🇦🇹",
+        "round": 12,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "March 🇬🇧",
+        "winning_driver": "Vittorio Brambilla 🇮🇹"
+    },
+    {
+        "date": "1975-08-03",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 9,
+        "name": "1975 German Grand Prix 🇩🇪",
+        "round": 11,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Brabham 🇬🇧",
+        "winning_driver": "Carlos Reutemann 🇦🇷"
+    },
+    {
+        "date": "1975-07-19",
+        "final_position": "15",
+        "grid": 13,
+        "laps_completed": 53,
+        "name": "1975 British Grand Prix 🇬🇧",
+        "round": 10,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1975-07-06",
+        "final_position": "7",
+        "grid": 12,
+        "laps_completed": 54,
+        "name": "1975 French Grand Prix 🇫🇷",
+        "round": 9,
+        "season": 1975,
+        "time": "+1:09.61",
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-06-22",
+        "final_position": "7",
+        "grid": 7,
+        "laps_completed": 74,
+        "name": "1975 Dutch Grand Prix 🇳🇱",
+        "round": 8,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Hesketh 🇬🇧",
+        "winning_driver": "James Hunt 🇬🇧"
+    },
+    {
+        "date": "1975-06-08",
+        "final_position": "6",
+        "grid": 17,
+        "laps_completed": 79,
+        "name": "1975 Swedish Grand Prix 🇸🇪",
+        "round": 7,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-05-25",
+        "final_position": "R",
+        "grid": 7,
+        "laps_completed": 17,
+        "name": "1975 Belgian Grand Prix 🇧🇪",
+        "round": 6,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-04-27",
+        "final_position": "7",
+        "grid": 18,
+        "laps_completed": 27,
+        "name": "1975 Spanish Grand Prix 🇪🇸",
+        "round": 4,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Jochen Mass 🇩🇪"
+    }
+]

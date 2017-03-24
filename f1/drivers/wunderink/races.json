@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1975-10-05",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 41,
+        "name": "1975 United States Grand Prix 🇺🇸",
+        "round": 14,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-09-07",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1975 Italian Grand Prix 🇮🇹",
+        "round": 13,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Clay Regazzoni 🇨🇭"
+    },
+    {
+        "date": "1975-08-17",
+        "final_position": "N",
+        "grid": 27,
+        "laps_completed": 25,
+        "name": "1975 Austrian Grand Prix 🇦🇹",
+        "round": 12,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "March 🇬🇧",
+        "winning_driver": "Vittorio Brambilla 🇮🇹"
+    },
+    {
+        "date": "1975-07-19",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1975 British Grand Prix 🇬🇧",
+        "round": 10,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1975-05-11",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1975 Monaco Grand Prix 🇲🇨",
+        "round": 5,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Niki Lauda 🇦🇹"
+    },
+    {
+        "date": "1975-04-27",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 20,
+        "name": "1975 Spanish Grand Prix 🇪🇸",
+        "round": 4,
+        "season": 1975,
+        "time": null,
+        "winning_constructor": "McLaren 🇬🇧",
+        "winning_driver": "Jochen Mass 🇩🇪"
+    }
+]

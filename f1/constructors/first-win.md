@@ -1,8 +1,11 @@
 ---
 title: List of Formula 1® Constructor Teams by First Win
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Constructor | First Win |
 |--|--|

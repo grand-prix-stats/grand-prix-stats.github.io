@@ -1,8 +1,11 @@
 ---
 title: List of Current Formula 1® Constructor Teams by Name
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 
 

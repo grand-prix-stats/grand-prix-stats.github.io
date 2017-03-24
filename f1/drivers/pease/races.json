@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1969-09-20",
+        "final_position": "D",
+        "grid": 17,
+        "laps_completed": 22,
+        "name": "1969 Canadian Grand Prix 🇨🇦",
+        "round": 9,
+        "season": 1969,
+        "time": null,
+        "winning_constructor": "Brabham-Ford 🇬🇧",
+        "winning_driver": "Jacky Ickx 🇧🇪"
+    },
+    {
+        "date": "1967-08-27",
+        "final_position": "N",
+        "grid": 15,
+        "laps_completed": 47,
+        "name": "1967 Canadian Grand Prix 🇨🇦",
+        "round": 8,
+        "season": 1967,
+        "time": null,
+        "winning_constructor": "Brabham-Repco 🇬🇧",
+        "winning_driver": "Jack Brabham 🇦🇺"
+    }
+]

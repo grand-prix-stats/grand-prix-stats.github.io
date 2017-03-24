@@ -1,0 +1,110 @@
+[
+    {
+        "date": "1972-05-01",
+        "final_position": "R",
+        "grid": 22,
+        "laps_completed": 6,
+        "name": "1972 Spanish Grand Prix 🇪🇸",
+        "round": 3,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+    },
+    {
+        "date": "1972-01-23",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 1,
+        "name": "1972 Argentine Grand Prix 🇦🇷",
+        "round": 1,
+        "season": 1972,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1971-07-04",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 4,
+        "name": "1971 French Grand Prix 🇫🇷",
+        "round": 5,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1971-06-20",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 57,
+        "name": "1971 Dutch Grand Prix 🇳🇱",
+        "round": 4,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Jacky Ickx 🇧🇪"
+    },
+    {
+        "date": "1971-05-23",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1971 Monaco Grand Prix 🇲🇨",
+        "round": 3,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1971-04-18",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 46,
+        "name": "1971 Spanish Grand Prix 🇪🇸",
+        "round": 2,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    },
+    {
+        "date": "1971-03-06",
+        "final_position": "R",
+        "grid": 25,
+        "laps_completed": 5,
+        "name": "1971 South African Grand Prix 🇿🇦",
+        "round": 1,
+        "season": 1971,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Mario Andretti 🇺🇸"
+    },
+    {
+        "date": "1970-07-05",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1970 French Grand Prix 🇫🇷",
+        "round": 6,
+        "season": 1970,
+        "time": null,
+        "winning_constructor": "Team Lotus 🇬🇧",
+        "winning_driver": "Jochen Rindt 🇦🇹"
+    },
+    {
+        "date": "1970-04-19",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1970 Spanish Grand Prix 🇪🇸",
+        "round": 2,
+        "season": 1970,
+        "time": null,
+        "winning_constructor": "March 🇬🇧",
+        "winning_driver": "Jackie Stewart 🇬🇧"
+    }
+]

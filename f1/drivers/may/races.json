@@ -1,0 +1,50 @@
+[
+    {
+        "date": "1961-09-10",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1961-08-06",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1961-07-02",
+        "final_position": "11",
+        "grid": 22,
+        "laps_completed": 48,
+        "name": "1961 French Grand Prix 🇫🇷",
+        "round": 4,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Giancarlo Baghetti 🇮🇹"
+    },
+    {
+        "date": "1961-05-14",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 42,
+        "name": "1961 Monaco Grand Prix 🇲🇨",
+        "round": 1,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    }
+]

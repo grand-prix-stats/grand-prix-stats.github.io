@@ -1,0 +1,38 @@
+[
+    {
+        "date": "1962-09-16",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-08-05",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-07-21",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 6,
+        "name": "1962 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    }
+]

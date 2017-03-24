@@ -1,0 +1,62 @@
+[
+    {
+        "date": "1962-09-16",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "BRM 🇬🇧",
+        "winning_driver": "Graham Hill 🇬🇧"
+    },
+    {
+        "date": "1962-06-17",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 Belgian Grand Prix 🇧🇪",
+        "round": 3,
+        "season": 1962,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Jim Clark 🇬🇧"
+    },
+    {
+        "date": "1961-09-10",
+        "final_position": "R",
+        "grid": 25,
+        "laps_completed": 0,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "round": 7,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Phil Hill 🇺🇸"
+    },
+    {
+        "date": "1961-08-06",
+        "final_position": "16",
+        "grid": 25,
+        "laps_completed": 13,
+        "name": "1961 German Grand Prix 🇩🇪",
+        "round": 6,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Lotus-Climax 🇬🇧",
+        "winning_driver": "Stirling Moss 🇬🇧"
+    },
+    {
+        "date": "1961-07-15",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 7,
+        "name": "1961 British Grand Prix 🇬🇧",
+        "round": 5,
+        "season": 1961,
+        "time": null,
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Wolfgang von Trips 🇩🇪"
+    }
+]

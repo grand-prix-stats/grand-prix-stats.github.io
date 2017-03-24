@@ -1,0 +1,26 @@
+[
+    {
+        "date": "1951-05-30",
+        "final_position": "1",
+        "grid": 2,
+        "laps_completed": 200,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "round": 2,
+        "season": 1951,
+        "time": "3:57:38.05",
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Lee Wallard 🇺🇸"
+    },
+    {
+        "date": "1950-05-30",
+        "final_position": "6",
+        "grid": 23,
+        "laps_completed": 136,
+        "name": "1950 Indianapolis 500 🇺🇸",
+        "round": 3,
+        "season": 1950,
+        "time": null,
+        "winning_constructor": "Kurtis Kraft 🇺🇸",
+        "winning_driver": "Johnnie Parsons 🇺🇸"
+    }
+]

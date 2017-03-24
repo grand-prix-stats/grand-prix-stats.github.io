@@ -1,8 +1,11 @@
 ---
 title: List of Current Formula 1® Countries
 layout: page
-rowCount: {{rowCount}}
+collectionName: 
+collectionId: 
 ---
+
+
 
 | Name | Code | Flag |
 |--|--|--|
