@@ -14,7 +14,7 @@ var data = {
         {
             "backgroundColor": [
                 "EB212E",
-                "E96E30",
+                "FCA13B",
                 "09630C",
                 "274B72",
                 "EAE4ED",
