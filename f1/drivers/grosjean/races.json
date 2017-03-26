@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-03-26",
+        "final_position": "R",
+        "grid": 6,
+        "laps_completed": 13,
+        "name": "2017 Australian Grand Prix 🇦🇺",
+        "points": 0.0,
+        "round": 1,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "R",
+        "teammate_grid": 17,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2016-11-27",
         "final_position": "11",
         "grid": 14,

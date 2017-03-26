@@ -562,7 +562,7 @@ var chart = new Chart("chart", {
 | 36. | Larrousse 🇫🇷 | 15 | 6.94% |
 | 37. | Andrea Moda 🇮🇹 | 14 | 93.33% |
 | 38. | Life 🇮🇹 | 14 | 100.00% |
-| 39. | Williams 🇬🇧 | 14 | 1.05% |
+| 39. | Williams 🇬🇧 | 14 | 1.04% |
 | 40. | Porsche 🇩🇪 | 13 | 15.48% |
 | 41. | Dallara 🇮🇹 | 11 | 7.64% |
 | 42. | Scirocco 🇬🇧 | 10 | 58.82% |
@@ -580,7 +580,7 @@ var chart = new Chart("chart", {
 | 54. | Bellasi 🇨🇭 | 4 | 66.67% |
 | 55. | Gilby 🇬🇧 | 4 | 57.14% |
 | 56. | HWM 🇬🇧 | 4 | 8.51% |
-| 57. | Renault 🇫🇷 | 4 | 0.64% |
+| 57. | Renault 🇫🇷 | 4 | 0.63% |
 | 58. | Scarab 🇺🇸 | 4 | 44.44% |
 | 59. | Alfa Romeo 🇮🇹 | 3 | 1.23% |
 | 60. | Brabham-BRM 🇬🇧 | 3 | 7.32% |
@@ -645,14 +645,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Start** | **% Of Total Participations** |
 | **Row Count** | 116 | 116 |
-| **Total Sum** | 1536.000 | 3616.050 |
+| **Total Sum** | 1536.000 | 3616.030 |
 | **Mean μ (Average)** | 13.241 | 31.173 |
 | **Maximum** | 83.000 | 100.000 |
 | **75th Percentile** | 22.000 | 50.000 |
 | **Median** | 4.000 | 15.700 |
 | **25th Percentile** | 1.000 | 5.240 |
 | **Minimum** | 1.000 | 0.190 |
-| **Variance** | 319.838 | 1073.086 |
+| **Variance** | 319.838 | 1073.097 |
 | **Standard Deviation σ** | 17.884 | 32.758 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

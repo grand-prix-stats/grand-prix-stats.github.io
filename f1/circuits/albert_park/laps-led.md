@@ -47,9 +47,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -74,10 +76,10 @@ var data = {
             "borderWidth": 1,
             "data": [
                 198.0,
+                154.0,
                 150.0,
-                118.0,
-                116.0,
-                99.0,
+                134.0,
+                100.0,
                 83.0,
                 80.0,
                 72.0,
@@ -92,6 +94,7 @@ var data = {
                 8.0,
                 4.0,
                 3.0,
+                2.0,
                 2.0
             ],
             "label": "Number Of Laps Led"
@@ -99,9 +102,9 @@ var data = {
     ],
     "labels": [
         "Michael Schumacher",
+        "Sebastian Vettel",
         "Jenson Button",
         "Lewis Hamilton",
-        "Sebastian Vettel",
         "Kimi Räikkönen",
         "Nico Rosberg",
         "David Coulthard",
@@ -117,7 +120,8 @@ var data = {
         "Heikki Kovalainen",
         "Mark Webber",
         "Felipe Massa",
-        "Rubens Barrichello"
+        "Rubens Barrichello",
+        "Valtteri Bottas"
     ]
 };
 var options = {
@@ -156,10 +160,10 @@ var chart = new Chart("chart", {
 | # | Driver | Number Of Laps Led |
 |--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 198 |
-| 2. | [Jenson Button 🇬🇧](/f1/drivers/button) | 150 |
-| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 118 |
-| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 116 |
-| 5. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 99 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 154 |
+| 3. | [Jenson Button 🇬🇧](/f1/drivers/button) | 150 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 134 |
+| 5. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 100 |
 | 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 83 |
 | 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 80 |
 | 8. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 72 |
@@ -175,19 +179,20 @@ var chart = new Chart("chart", {
 | 18. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 |
 | 19. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
 | 20. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 2 |
+| 21. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Laps Led** |
-| **Row Count** | 20 |
-| **Total Sum** | 1213.000 |
-| **Mean μ (Average)** | 60.650 |
+| **Row Count** | 21 |
+| **Total Sum** | 1270.000 |
+| **Mean μ (Average)** | 60.476 |
 | **Maximum** | 198.000 |
-| **75th Percentile** | 99.000 |
-| **Median** | 54.000 |
-| **25th Percentile** | 11.000 |
+| **75th Percentile** | 83.000 |
+| **Median** | 50.000 |
+| **25th Percentile** | 8.000 |
 | **Minimum** | 2.000 |
-| **Variance** | 2819.028 |
-| **Standard Deviation σ** | 53.095 |
+| **Variance** | 3220.916 |
+| **Standard Deviation σ** | 56.753 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

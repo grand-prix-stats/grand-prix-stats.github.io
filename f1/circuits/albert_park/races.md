@@ -24,7 +24,7 @@ collectionId: albert_park
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 |   |   |   |   |
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 57 | 1:24:11.672 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2016 | 1 | 2016 Australian Grand Prix 🇦🇺 | 2016-03-20 | 57 | 1:48:15.565 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2015 | 1 | 2015 Australian Grand Prix 🇦🇺 | 2015-03-15 | 58 | 1:31:54.067 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 1 | 2014 Australian Grand Prix 🇦🇺 | 2014-03-16 | 57 | 1:32:58.710 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
@@ -50,15 +50,15 @@ collectionId: albert_park
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 22 |  |  | 21 |  |  |  |
-| **Total Sum** | 25.000 |  |  | 1213.000 |  |  |  |
-| **Mean μ (Average)** | 1.136 |  |  | 57.762 |  |  |  |
+| **Row Count** | 22 |  |  | 22 |  |  |  |
+| **Total Sum** | 25.000 |  |  | 1270.000 |  |  |  |
+| **Mean μ (Average)** | 1.136 |  |  | 57.727 |  |  |  |
 | **Maximum** | 3.000 |  |  | 58.000 |  |  |  |
 | **75th Percentile** | 1.000 |  |  | 58.000 |  |  |  |
 | **Median** | 1.000 |  |  | 58.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 58.000 |  |  |  |
+| **25th Percentile** | 1.000 |  |  | 57.000 |  |  |  |
 | **Minimum** | 1.000 |  |  | 57.000 |  |  |  |
-| **Variance** | 0.209 |  |  | 0.181 |  |  |  |
-| **Standard Deviation σ** | 0.457 |  |  | 0.426 |  |  |  |
+| **Variance** | 0.209 |  |  | 0.198 |  |  |  |
+| **Standard Deviation σ** | 0.457 |  |  | 0.445 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

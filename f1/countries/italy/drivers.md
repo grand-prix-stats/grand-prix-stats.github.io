@@ -72,6 +72,7 @@ collectionId: italy
 | Gerino | Gerini | [Italy](/f1/countries/italy) | 🇮🇹 |
 | Piercarlo | Ghinzani | [Italy](/f1/countries/italy) | 🇮🇹 |
 | Bruno | Giacomelli | [Italy](/f1/countries/italy) | 🇮🇹 |
+| Antonio | Giovinazzi | [Italy](/f1/countries/italy) | 🇮🇹 |
 | Ignazio | Giunti | [Italy](/f1/countries/italy) | 🇮🇹 |
 | Claudio | Langes | [Italy](/f1/countries/italy) | 🇮🇹 |
 | Nicola | Larini | [Italy](/f1/countries/italy) | 🇮🇹 |

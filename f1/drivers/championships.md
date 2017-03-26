@@ -195,16 +195,16 @@ var chart = new Chart("chart", {
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 | 36.84% |
 | 2. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 5 | 62.50% |
 | 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 | 30.77% |
-| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 | 40.00% |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 | 36.36% |
 | 5. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 | 27.27% |
 | 6. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 3 | 18.75% |
 | 7. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 | 33.33% |
-| 8. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 | 30.00% |
+| 8. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 | 27.27% |
 | 9. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 | 21.43% |
 | 10. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 | 23.08% |
 | 11. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 | 33.33% |
 | 12. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 | 18.18% |
-| 13. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 | 13.33% |
+| 13. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 | 12.50% |
 | 14. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 2 | 11.11% |
 | 15. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 | 22.22% |
 | 16. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 | 18.18% |
@@ -218,7 +218,7 @@ var chart = new Chart("chart", {
 | 24. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 | 11.11% |
 | 25. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 | 7.69% |
 | 26. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 | 11.11% |
-| 27. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 | 7.14% |
+| 27. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 | 6.67% |
 | 28. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 | 7.14% |
 | 29. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 | 14.29% |
 | 30. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 | 9.09% |
@@ -230,14 +230,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Championships** | **% Of Total Seasons** |
 | **Row Count** | 33 | 33 |
-| **Total Sum** | 67.000 | 619.780 |
-| **Mean μ (Average)** | 2.030 | 18.781 |
+| **Total Sum** | 67.000 | 612.110 |
+| **Mean μ (Average)** | 2.030 | 18.549 |
 | **Maximum** | 7.000 | 62.500 |
 | **75th Percentile** | 3.000 | 23.080 |
 | **Median** | 1.000 | 14.290 |
 | **25th Percentile** | 1.000 | 10.000 |
 | **Minimum** | 1.000 | 5.880 |
-| **Variance** | 1.969 | 148.184 |
-| **Standard Deviation σ** | 1.403 | 12.173 |
+| **Variance** | 1.969 | 142.854 |
+| **Standard Deviation σ** | 1.403 | 11.952 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

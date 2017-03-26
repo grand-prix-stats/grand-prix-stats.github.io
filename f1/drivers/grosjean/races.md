@@ -24,6 +24,7 @@ collectionId: grosjean
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 6 | R | 0.0 | 13 |   | Haas F1 Team 🇺🇸 | [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 17 | R |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 14 | 11 | 0.0 | 55 | +1:16.777 | Haas F1 Team 🇺🇸 | [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 13 | 12 |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 7 | W | 0.0 | 0 |   | Haas F1 Team 🇺🇸 | [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 12 | R |
 | 2016 | 19 | 2016 Mexican Grand Prix 🇲🇽 | 2016-10-30 | 22 | 20 | 0.0 | 70 |   | Haas F1 Team 🇺🇸 | [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 17 | 19 |
@@ -132,15 +133,15 @@ collectionId: grosjean
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 104 |  |  | 104 | 75 | 104 | 104 | 29 |  |  | 104 | 80 |
-| **Total Sum** | 1096.000 |  |  | 1187.000 | 757.000 | 316.000 | 4895.000 | 925.686 |  |  | 1232.000 | 738.000 |
-| **Mean μ (Average)** | 10.538 |  |  | 11.413 | 10.093 | 3.038 | 47.067 | 31.920 |  |  | 11.846 | 9.225 |
+| **Row Count** | 105 |  |  | 105 | 75 | 105 | 105 | 29 |  |  | 105 | 80 |
+| **Total Sum** | 1097.000 |  |  | 1193.000 | 757.000 | 316.000 | 4908.000 | 925.686 |  |  | 1249.000 | 738.000 |
+| **Mean μ (Average)** | 10.448 |  |  | 11.362 | 10.093 | 3.010 | 46.743 | 31.920 |  |  | 11.895 | 9.225 |
 | **Maximum** | 21.000 |  |  | 22.000 | 22.000 | 18.000 | 78.000 | 70.313 |  |  | 22.000 | 20.000 |
-| **75th Percentile** | 15.000 |  |  | 15.000 | 13.000 | 6.000 | 60.000 | 44.668 |  |  | 16.000 | 13.000 |
+| **75th Percentile** | 15.000 |  |  | 15.000 | 13.000 | 4.000 | 60.000 | 44.668 |  |  | 16.000 | 13.000 |
 | **Median** | 11.000 |  |  | 11.000 | 10.000 |  | 55.000 | 34.802 |  |  | 12.000 | 10.000 |
-| **25th Percentile** | 6.000 |  |  | 8.000 | 7.000 |  | 43.000 | 14.799 |  |  | 8.000 | 5.000 |
+| **25th Percentile** | 6.000 |  |  | 7.000 | 7.000 |  | 40.000 | 14.799 |  |  | 8.000 | 5.000 |
 | **Minimum** | 1.000 |  |  | 2.000 | 2.000 |  |  | 2.513 |  |  | 2.000 | 1.000 |
-| **Variance** | 31.460 |  |  | 25.896 | 24.085 | 25.114 | 505.159 | 358.834 |  |  | 24.226 | 24.399 |
-| **Standard Deviation σ** | 5.609 |  |  | 5.089 | 4.908 | 5.011 | 22.476 | 18.943 |  |  | 4.922 | 4.940 |
+| **Variance** | 32.019 |  |  | 25.926 | 24.085 | 24.962 | 511.296 | 358.834 |  |  | 24.246 | 24.399 |
+| **Standard Deviation σ** | 5.659 |  |  | 5.092 | 4.908 | 4.996 | 22.612 | 18.943 |  |  | 4.924 | 4.940 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

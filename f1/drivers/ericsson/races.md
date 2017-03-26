@@ -24,6 +24,7 @@ collectionId: ericsson
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 14 | R | 0.0 | 21 |   | Sauber 🇨🇭 | [Antonio Giovinazzi 🇮🇹](/f1/drivers/giovinazzi) | 16 | 12 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 22 | 15 | 0.0 | 54 |   | Sauber 🇨🇭 | [Felipe Nasr 🇧🇷](/f1/drivers/nasr) | 19 | 16 |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 20 | R | 0.0 | 11 |   | Sauber 🇨🇭 | [Felipe Nasr 🇧🇷](/f1/drivers/nasr) | 21 | 9 |
 | 2016 | 19 | 2016 Mexican Grand Prix 🇲🇽 | 2016-10-30 | 15 | 11 | 0.0 | 70 |   | Sauber 🇨🇭 | [Felipe Nasr 🇧🇷](/f1/drivers/nasr) | 19 | 15 |
@@ -84,15 +85,15 @@ collectionId: ericsson
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 56 |  |  | 56 | 43 | 56 | 56 | 2 |  |  | 56 | 42 |
-| **Total Sum** | 557.000 |  |  | 980.000 | 621.000 | 9.000 | 2775.000 | 71.339 |  |  | 941.000 | 574.000 |
-| **Mean μ (Average)** | 9.946 |  |  | 17.500 | 14.442 | 0.161 | 49.554 | 35.669 |  |  | 16.804 | 13.667 |
+| **Row Count** | 57 |  |  | 57 | 43 | 57 | 57 | 2 |  |  | 57 | 43 |
+| **Total Sum** | 558.000 |  |  | 994.000 | 621.000 | 9.000 | 2796.000 | 71.339 |  |  | 957.000 | 586.000 |
+| **Mean μ (Average)** | 9.789 |  |  | 17.439 | 14.442 | 0.158 | 49.053 | 35.669 |  |  | 16.789 | 13.628 |
 | **Maximum** | 21.000 |  |  | 22.000 | 20.000 | 4.000 | 78.000 | 40.180 |  |  | 22.000 | 20.000 |
-| **75th Percentile** | 15.000 |  |  | 20.000 | 17.000 |  | 65.000 | 40.180 |  |  | 20.000 | 16.000 |
-| **Median** | 10.000 |  |  | 17.000 | 14.000 |  | 54.000 | 40.180 |  |  | 18.000 | 15.000 |
+| **75th Percentile** | 14.000 |  |  | 20.000 | 17.000 |  | 65.000 | 40.180 |  |  | 19.000 | 16.000 |
+| **Median** | 10.000 |  |  | 17.000 | 14.000 |  | 54.000 | 40.180 |  |  | 18.000 | 14.000 |
 | **25th Percentile** | 5.000 |  |  | 15.000 | 12.000 |  | 43.000 | 31.159 |  |  | 15.000 | 12.000 |
 | **Minimum** | 1.000 |  |  | 9.000 | 8.000 |  |  | 31.159 |  |  |  | 5.000 |
-| **Variance** | 31.015 |  |  | 12.286 | 9.875 | 0.385 | 423.890 | 20.345 |  |  | 15.229 | 11.651 |
-| **Standard Deviation σ** | 5.569 |  |  | 3.505 | 3.142 | 0.620 | 20.589 | 4.511 |  |  | 3.902 | 3.413 |
+| **Variance** | 31.850 |  |  | 12.281 | 9.875 | 0.379 | 430.506 | 20.345 |  |  | 14.973 | 11.443 |
+| **Standard Deviation σ** | 5.644 |  |  | 3.504 | 3.142 | 0.615 | 20.749 | 4.511 |  |  | 3.870 | 3.383 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -66,9 +66,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -111,12 +113,12 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
+                7.0,
                 6.0,
                 6.0,
                 5.0,
                 5.0,
                 5.0,
-                5.0,
                 4.0,
                 4.0,
                 4.0,
@@ -133,6 +135,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
+                1.0,
                 1.0,
                 1.0,
                 1.0,
@@ -157,10 +160,10 @@ var data = {
     "labels": [
         "Lewis Hamilton",
         "Michael Schumacher",
+        "Sebastian Vettel",
         "Fernando Alonso",
         "Kimi Räikkönen",
         "Rubens Barrichello",
-        "Sebastian Vettel",
         "Alain Prost",
         "David Coulthard",
         "Gerhard Berger",
@@ -193,6 +196,7 @@ var data = {
         "Riccardo Patrese",
         "Robert Kubica",
         "Stefan Johansson",
+        "Valtteri Bottas",
         "Vitaly Petrov"
     ]
 };
@@ -231,12 +235,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 7 |
 | 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
-| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 5 |
-| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 |
-| 5. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 5 |
-| 6. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 |
+| 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 6 |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 5 |
+| 5. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 |
+| 6. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 5 |
 | 7. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 |
 | 8. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
 | 9. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 4 |
@@ -269,20 +273,21 @@ var chart = new Chart("chart", {
 | 36. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 | 37. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
 | 38. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
-| 39. | [Vitaly Petrov 🇷🇺](/f1/drivers/petrov) | 1 |
+| 39. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
+| 40. | [Vitaly Petrov 🇷🇺](/f1/drivers/petrov) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Times** |
-| **Row Count** | 39 |
-| **Total Sum** | 96.000 |
-| **Mean μ (Average)** | 2.462 |
-| **Maximum** | 6.000 |
+| **Row Count** | 40 |
+| **Total Sum** | 99.000 |
+| **Mean μ (Average)** | 2.475 |
+| **Maximum** | 7.000 |
 | **75th Percentile** | 4.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 2.607 |
-| **Standard Deviation σ** | 1.615 |
+| **Variance** | 2.949 |
+| **Standard Deviation σ** | 1.717 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

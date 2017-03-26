@@ -225,7 +225,7 @@
         "driver": "Keke Rosberg 🇫🇮"
     },
     {
-        "% of total participations": "21.74%",
+        "% of total participations": "21.65%",
         "did_not_finish": 55,
         "driver": "Kimi Räikkönen 🇫🇮"
     },
@@ -285,14 +285,14 @@
         "driver": "Hans-Joachim Stuck 🇩🇪"
     },
     {
+        "% of total participations": "17.09%",
+        "did_not_finish": 47,
+        "driver": "Fernando Alonso 🇪🇸"
+    },
+    {
         "% of total participations": "59.74%",
         "did_not_finish": 46,
         "driver": "Alessandro Nannini 🇮🇹"
-    },
-    {
-        "% of total participations": "16.79%",
-        "did_not_finish": 46,
-        "driver": "Fernando Alonso 🇪🇸"
     },
     {
         "% of total participations": "49.46%",
@@ -380,7 +380,7 @@
         "driver": "Damon Hill 🇬🇧"
     },
     {
-        "% of total participations": "15.48%",
+        "% of total participations": "15.42%",
         "did_not_finish": 39,
         "driver": "Felipe Massa 🇧🇷"
     },
@@ -510,6 +510,11 @@
         "driver": "Mark Blundell 🇬🇧"
     },
     {
+        "% of total participations": "28.57%",
+        "did_not_finish": 30,
+        "driver": "Romain Grosjean 🇫🇷"
+    },
+    {
         "% of total participations": "14.08%",
         "did_not_finish": 29,
         "driver": "Nico Rosberg 🇩🇪"
@@ -518,11 +523,6 @@
         "% of total participations": "30.21%",
         "did_not_finish": 29,
         "driver": "Pastor Maldonado 🇻🇪"
-    },
-    {
-        "% of total participations": "27.88%",
-        "did_not_finish": 29,
-        "driver": "Romain Grosjean 🇫🇷"
     },
     {
         "% of total participations": "41.18%",
@@ -555,7 +555,7 @@
         "driver": "Hector Rebaque 🇲🇽"
     },
     {
-        "% of total participations": "14.53%",
+        "% of total participations": "14.44%",
         "did_not_finish": 26,
         "driver": "Sebastian Vettel 🇩🇪"
     },

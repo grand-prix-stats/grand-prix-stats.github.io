@@ -9,7 +9,7 @@ collectionId:
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | 2017-03-26 |   |   |   |   |
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | 2017-03-26 | 57 | 1:24:11.672 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | [Shanghai International Circuit](/f1/circuits/shanghai) | 2017-04-09 |   |   |   |   |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2017-04-16 |   |   |   |   |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | [Sochi International Street Circuit](/f1/circuits/sochi) | 2017-04-30 |   |   |   |   |
@@ -989,15 +989,15 @@ collectionId:
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 976 |  |  |  | 956 |  |  |  |
-| **Total Sum** | 7978.000 |  |  |  | 62566.000 |  |  |  |
-| **Mean μ (Average)** | 8.174 |  |  |  | 65.446 |  |  |  |
+| **Row Count** | 976 |  |  |  | 957 |  |  |  |
+| **Total Sum** | 7978.000 |  |  |  | 62623.000 |  |  |  |
+| **Mean μ (Average)** | 8.174 |  |  |  | 65.437 |  |  |  |
 | **Maximum** | 21.000 |  |  |  | 200.000 |  |  |  |
 | **75th Percentile** | 12.000 |  |  |  | 75.000 |  |  |  |
 | **Median** | 8.000 |  |  |  | 65.000 |  |  |  |
 | **25th Percentile** | 4.000 |  |  |  | 54.000 |  |  |  |
 | **Minimum** | 1.000 |  |  |  | 12.000 |  |  |  |
-| **Variance** | 23.392 |  |  |  | 453.875 |  |  |  |
-| **Standard Deviation σ** | 4.837 |  |  |  | 21.304 |  |  |  |
+| **Variance** | 23.392 |  |  |  | 453.475 |  |  |  |
+| **Standard Deviation σ** | 4.837 |  |  |  | 21.295 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

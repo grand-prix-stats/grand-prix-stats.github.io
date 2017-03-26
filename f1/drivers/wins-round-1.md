@@ -108,7 +108,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -147,6 +147,7 @@ var data = {
         "Nelson Piquet",
         "Nico Rosberg",
         "Nigel Mansell",
+        "Sebastian Vettel",
         "Stirling Moss",
         "Alberto Ascari",
         "Bruce McLaren",
@@ -161,8 +162,7 @@ var data = {
         "Niki Lauda",
         "Nino Farina",
         "Pedro Rodríguez",
-        "Piero Taruffi",
-        "Sebastian Vettel"
+        "Piero Taruffi"
     ]
 };
 var options = {
@@ -219,35 +219,35 @@ var chart = new Chart("chart", {
 | 17. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
 | 18. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
 | 19. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
-| 20. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
-| 21. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
-| 22. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
-| 23. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
-| 24. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
-| 25. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
-| 26. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
-| 27. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
-| 28. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
-| 29. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
-| 30. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
-| 31. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
-| 32. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
-| 33. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
-| 34. | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 1 |
-| 35. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 20. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 21. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 22. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 23. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 24. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 25. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 26. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 27. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 28. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 29. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 30. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
+| 31. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 32. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 33. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
+| 34. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
+| 35. | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Wins Round 1** |
 | **Row Count** | 35 |
-| **Total Sum** | 68.000 |
-| **Mean μ (Average)** | 1.943 |
+| **Total Sum** | 69.000 |
+| **Mean μ (Average)** | 1.971 |
 | **Maximum** | 6.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1.654 |
-| **Standard Deviation σ** | 1.286 |
+| **Variance** | 1.628 |
+| **Standard Deviation σ** | 1.276 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

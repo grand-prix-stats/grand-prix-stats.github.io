@@ -32,6 +32,7 @@ collectionId: canada
 | George | Eaton | [Canada](/f1/countries/canada) | 🇨🇦 |
 | Al | Pease | [Canada](/f1/countries/canada) | 🇨🇦 |
 | Peter | Ryan | [Canada](/f1/countries/canada) | 🇨🇦 |
+| Lance | Stroll | [Canada](/f1/countries/canada) | 🇨🇦 |
 | Gilles | Villeneuve | [Canada](/f1/countries/canada) | 🇨🇦 |
 | Jacques | Villeneuve | [Canada](/f1/countries/canada) | 🇨🇦 |
 | Jacques | Villeneuve Sr. | [Canada](/f1/countries/canada) | 🇨🇦 |

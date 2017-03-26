@@ -63,7 +63,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -80,12 +80,12 @@ var data = {
         "Kimi Räikkönen",
         "Lewis Hamilton",
         "Nico Rosberg",
+        "Sebastian Vettel",
         "Damon Hill",
         "Eddie Irvine",
         "Fernando Alonso",
         "Giancarlo Fisichella",
-        "Mika Häkkinen",
-        "Sebastian Vettel"
+        "Mika Häkkinen"
     ]
 };
 var options = {
@@ -129,25 +129,25 @@ var chart = new Chart("chart", {
 | 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
 | 5. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 | 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
-| 8. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
-| 9. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
-| 10. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
-| 11. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
-| 12. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 8. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 9. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 10. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 11. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 12. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 12 |
-| **Total Sum** | 21.000 |
-| **Mean μ (Average)** | 1.750 |
+| **Total Sum** | 22.000 |
+| **Mean μ (Average)** | 1.833 |
 | **Maximum** | 4.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.854 |
-| **Standard Deviation σ** | 0.924 |
+| **Variance** | 0.806 |
+| **Standard Deviation σ** | 0.898 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

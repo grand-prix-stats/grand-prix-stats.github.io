@@ -9,7 +9,7 @@ collectionId:
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | 2017-03-26 |   |   |   |   |
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | 2017-03-26 | 57 | 1:24:11.672 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | [Shanghai International Circuit](/f1/circuits/shanghai) | 2017-04-09 |   |   |   |   |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2017-04-16 |   |   |   |   |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | [Sochi International Street Circuit](/f1/circuits/sochi) | 2017-04-30 |   |   |   |   |
@@ -33,14 +33,14 @@ collectionId:
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 20 |  |  |  |  |  |  |  |
-| **Total Sum** | 210.000 |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 10.500 |  |  |  |  |  |  |  |
-| **Maximum** | 20.000 |  |  |  |  |  |  |  |
-| **75th Percentile** | 16.000 |  |  |  |  |  |  |  |
-| **Median** | 11.000 |  |  |  |  |  |  |  |
-| **25th Percentile** | 6.000 |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |
+| **Row Count** | 20 |  |  |  | 1 |  |  |  |
+| **Total Sum** | 210.000 |  |  |  | 57.000 |  |  |  |
+| **Mean μ (Average)** | 10.500 |  |  |  | 57.000 |  |  |  |
+| **Maximum** | 20.000 |  |  |  | 57.000 |  |  |  |
+| **75th Percentile** | 16.000 |  |  |  | 57.000 |  |  |  |
+| **Median** | 11.000 |  |  |  | 57.000 |  |  |  |
+| **25th Percentile** | 6.000 |  |  |  | 57.000 |  |  |  |
+| **Minimum** | 1.000 |  |  |  | 57.000 |  |  |  |
 | **Variance** | 33.250 |  |  |  |  |  |  |  |
 | **Standard Deviation σ** | 5.766 |  |  |  |  |  |  |  |
 

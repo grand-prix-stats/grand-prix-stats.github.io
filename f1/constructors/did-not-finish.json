@@ -1,13 +1,13 @@
 [
     {
-        "% of total participations": "29.43%",
+        "% of total participations": "29.40%",
         "constructor": "Ferrari 🇮🇹",
         "did_not_finish": 618
     },
     {
-        "% of total participations": "29.46%",
+        "% of total participations": "29.49%",
         "constructor": "McLaren 🇬🇧",
-        "did_not_finish": 467
+        "did_not_finish": 468
     },
     {
         "% of total participations": "44.78%",
@@ -20,9 +20,9 @@
         "did_not_finish": 390
     },
     {
-        "% of total participations": "28.98%",
+        "% of total participations": "29.01%",
         "constructor": "Williams 🇬🇧",
-        "did_not_finish": 388
+        "did_not_finish": 389
     },
     {
         "% of total participations": "50.45%",
@@ -55,14 +55,14 @@
         "did_not_finish": 243
     },
     {
-        "% of total participations": "32.58%",
+        "% of total participations": "32.63%",
         "constructor": "Sauber 🇨🇭",
-        "did_not_finish": 230
+        "did_not_finish": 231
     },
     {
-        "% of total participations": "34.82%",
+        "% of total participations": "34.87%",
         "constructor": "Renault 🇫🇷",
-        "did_not_finish": 219
+        "did_not_finish": 220
     },
     {
         "% of total participations": "43.60%",
@@ -95,7 +95,7 @@
         "did_not_finish": 110
     },
     {
-        "% of total participations": "25.73%",
+        "% of total participations": "25.60%",
         "constructor": "Toro Rosso 🇮🇹",
         "did_not_finish": 106
     },
@@ -135,14 +135,14 @@
         "did_not_finish": 88
     },
     {
-        "% of total participations": "27.86%",
-        "constructor": "Toyota 🇯🇵",
+        "% of total participations": "17.26%",
+        "constructor": "Red Bull 🇦🇹",
         "did_not_finish": 78
     },
     {
-        "% of total participations": "17.11%",
-        "constructor": "Red Bull 🇦🇹",
-        "did_not_finish": 77
+        "% of total participations": "27.86%",
+        "constructor": "Toyota 🇯🇵",
+        "did_not_finish": 78
     },
     {
         "% of total participations": "44.12%",
@@ -190,7 +190,7 @@
         "did_not_finish": 66
     },
     {
-        "% of total participations": "19.01%",
+        "% of total participations": "18.90%",
         "constructor": "Force India 🇮🇳",
         "did_not_finish": 65
     },
@@ -225,7 +225,7 @@
         "did_not_finish": 50
     },
     {
-        "% of total participations": "15.61%",
+        "% of total participations": "15.51%",
         "constructor": "Mercedes 🇩🇪",
         "did_not_finish": 49
     },
@@ -440,6 +440,11 @@
         "did_not_finish": 12
     },
     {
+        "% of total participations": "27.27%",
+        "constructor": "Haas F1 Team 🇺🇸",
+        "did_not_finish": 12
+    },
+    {
         "% of total participations": "42.86%",
         "constructor": "MF1 🇷🇺",
         "did_not_finish": 12
@@ -467,11 +472,6 @@
     {
         "% of total participations": "12.35%",
         "constructor": "Coloni 🇮🇹",
-        "did_not_finish": 10
-    },
-    {
-        "% of total participations": "23.81%",
-        "constructor": "Haas F1 Team 🇺🇸",
         "did_not_finish": 10
     },
     {

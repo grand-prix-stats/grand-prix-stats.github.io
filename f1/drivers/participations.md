@@ -261,11 +261,11 @@ var data = {
                 326.0,
                 308.0,
                 308.0,
-                274.0,
+                275.0,
                 257.0,
                 256.0,
+                254.0,
                 253.0,
-                252.0,
                 247.0,
                 231.0,
                 217.0,
@@ -277,11 +277,11 @@ var data = {
                 202.0,
                 202.0,
                 192.0,
-                188.0,
+                189.0,
                 184.0,
                 180.0,
                 180.0,
-                179.0,
+                180.0,
                 179.0,
                 174.0,
                 165.0,
@@ -310,9 +310,9 @@ var data = {
                 122.0,
                 122.0,
                 121.0,
+                118.0,
                 117.0,
-                117.0,
-                115.0,
+                116.0,
                 115.0,
                 114.0,
                 113.0,
@@ -322,12 +322,12 @@ var data = {
                 111.0,
                 111.0,
                 110.0,
-                109.0,
+                110.0,
                 109.0,
                 107.0,
                 107.0,
                 106.0,
-                104.0,
+                105.0,
                 103.0,
                 103.0,
                 100.0,
@@ -355,7 +355,7 @@ var data = {
                 80.0,
                 80.0,
                 80.0,
-                78.0,
+                79.0,
                 78.0,
                 78.0,
                 77.0,
@@ -406,8 +406,8 @@ var data = {
         "Nick Heidfeld",
         "Jacques Laffite",
         "Ralf Schumacher",
-        "Graham Hill",
         "Sebastian Vettel",
+        "Graham Hill",
         "Niki Lauda",
         "Jacques Villeneuve",
         "Johnny Herbert",
@@ -435,10 +435,10 @@ var data = {
         "Damon Hill",
         "Patrick Tambay",
         "Jacky Ickx",
-        "Alan Jones",
         "Nico Hülkenberg",
-        "Philippe Alliot",
+        "Alan Jones",
         "Sergio Pérez",
+        "Philippe Alliot",
         "Jochen Mass",
         "Jody Scheckter",
         "Denny Hulme",
@@ -446,8 +446,8 @@ var data = {
         "John Surtees",
         "Mika Salo",
         "Piercarlo Ghinzani",
-        "Elio de Angelis",
         "Daniel Ricciardo",
+        "Elio de Angelis",
         "Jo Bonnier",
         "Jos Verstappen",
         "Pedro de la Rosa",
@@ -480,8 +480,8 @@ var data = {
         "Maurício Gugelmin",
         "Satoru Nakajima",
         "Vitantonio Liuzzi",
-        "Gabriele Tarquini",
         "Valtteri Bottas",
+        "Gabriele Tarquini",
         "Vittorio Brambilla",
         "Alessandro Nannini",
         "Kamui Kobayashi",
@@ -543,11 +543,11 @@ var chart = new Chart("chart", {
 | 1. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 326 |
 | 2. | [Jenson Button 🇬🇧](/f1/drivers/button) | 308 |
 | 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 308 |
-| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 274 |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 275 |
 | 5. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 257 |
 | 6. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 256 |
-| 7. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 253 |
-| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 252 |
+| 7. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 254 |
+| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 253 |
 | 9. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 247 |
 | 10. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 231 |
 | 11. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 217 |
@@ -559,12 +559,12 @@ var chart = new Chart("chart", {
 | 17. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 202 |
 | 18. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 202 |
 | 19. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 192 |
-| 20. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 188 |
+| 20. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 189 |
 | 21. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 184 |
 | 22. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 180 |
 | 23. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 180 |
-| 24. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 179 |
-| 25. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 179 |
+| 24. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 180 |
+| 25. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 179 |
 | 26. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 174 |
 | 27. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 165 |
 | 28. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 165 |
@@ -592,10 +592,10 @@ var chart = new Chart("chart", {
 | 50. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 122 |
 | 51. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 122 |
 | 52. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 121 |
-| 53. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 117 |
-| 54. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 117 |
-| 55. | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 115 |
-| 56. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 115 |
+| 53. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 118 |
+| 54. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 117 |
+| 55. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 116 |
+| 56. | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 115 |
 | 57. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 114 |
 | 58. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 113 |
 | 59. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 112 |
@@ -603,13 +603,13 @@ var chart = new Chart("chart", {
 | 61. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 112 |
 | 62. | [Mika Salo 🇫🇮](/f1/drivers/salo) | 111 |
 | 63. | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 111 |
-| 64. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 110 |
-| 65. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 109 |
+| 64. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 110 |
+| 65. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 110 |
 | 66. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 109 |
 | 67. | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 107 |
 | 68. | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 107 |
 | 69. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 106 |
-| 70. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 104 |
+| 70. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 105 |
 | 71. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 103 |
 | 72. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 103 |
 | 73. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 100 |
@@ -637,8 +637,8 @@ var chart = new Chart("chart", {
 | 95. | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 80 |
 | 96. | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 80 |
 | 97. | [Vitantonio Liuzzi 🇮🇹](/f1/drivers/liuzzi) | 80 |
-| 98. | [Gabriele Tarquini 🇮🇹](/f1/drivers/tarquini) | 78 |
-| 99. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 78 |
+| 98. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 79 |
+| 99. | [Gabriele Tarquini 🇮🇹](/f1/drivers/tarquini) | 78 |
 | 100. | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 78 |
 | 101. | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 77 |
 | 102. | [Kamui Kobayashi 🇯🇵](/f1/drivers/kobayashi) | 76 |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Participations** |
 | **Row Count** | 120 |
-| **Total Sum** | 15698.000 |
-| **Mean μ (Average)** | 130.817 |
+| **Total Sum** | 15708.000 |
+| **Mean μ (Average)** | 130.900 |
 | **Maximum** | 326.000 |
 | **75th Percentile** | 165.000 |
 | **Median** | 112.000 |
 | **25th Percentile** | 84.000 |
 | **Minimum** | 62.000 |
-| **Variance** | 3531.766 |
-| **Standard Deviation σ** | 59.429 |
+| **Variance** | 3537.857 |
+| **Standard Deviation σ** | 59.480 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

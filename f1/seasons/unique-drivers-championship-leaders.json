@@ -29,10 +29,6 @@
     },
     {
         "drivers_championship_leaders": 3,
-        "year": 1983
-    },
-    {
-        "drivers_championship_leaders": 3,
         "year": 2007
     },
     {
@@ -41,19 +37,19 @@
     },
     {
         "drivers_championship_leaders": 3,
-        "year": 1956
-    },
-    {
-        "drivers_championship_leaders": 3,
         "year": 1999
     },
     {
         "drivers_championship_leaders": 3,
-        "year": 1958
+        "year": 1956
     },
     {
         "drivers_championship_leaders": 3,
         "year": 1997
+    },
+    {
+        "drivers_championship_leaders": 3,
+        "year": 1958
     },
     {
         "drivers_championship_leaders": 3,
@@ -73,11 +69,15 @@
     },
     {
         "drivers_championship_leaders": 3,
+        "year": 1985
+    },
+    {
+        "drivers_championship_leaders": 3,
         "year": 1966
     },
     {
         "drivers_championship_leaders": 3,
-        "year": 1985
+        "year": 1983
     },
     {
         "drivers_championship_leaders": 3,
@@ -125,7 +125,7 @@
     },
     {
         "drivers_championship_leaders": 2,
-        "year": 2014
+        "year": 2016
     },
     {
         "drivers_championship_leaders": 2,
@@ -133,7 +133,7 @@
     },
     {
         "drivers_championship_leaders": 2,
-        "year": 1950
+        "year": 1967
     },
     {
         "drivers_championship_leaders": 2,
@@ -141,19 +141,11 @@
     },
     {
         "drivers_championship_leaders": 2,
-        "year": 1967
-    },
-    {
-        "drivers_championship_leaders": 2,
         "year": 1965
     },
     {
         "drivers_championship_leaders": 2,
-        "year": 2013
-    },
-    {
-        "drivers_championship_leaders": 2,
-        "year": 1988
+        "year": 2014
     },
     {
         "drivers_championship_leaders": 2,
@@ -161,7 +153,19 @@
     },
     {
         "drivers_championship_leaders": 2,
+        "year": 1988
+    },
+    {
+        "drivers_championship_leaders": 2,
+        "year": 2013
+    },
+    {
+        "drivers_championship_leaders": 2,
         "year": 1990
+    },
+    {
+        "drivers_championship_leaders": 2,
+        "year": 1950
     },
     {
         "drivers_championship_leaders": 2,
@@ -169,15 +173,11 @@
     },
     {
         "drivers_championship_leaders": 2,
-        "year": 1952
-    },
-    {
-        "drivers_championship_leaders": 2,
         "year": 1993
     },
     {
         "drivers_championship_leaders": 2,
-        "year": 2006
+        "year": 1952
     },
     {
         "drivers_championship_leaders": 2,
@@ -185,23 +185,23 @@
     },
     {
         "drivers_championship_leaders": 2,
+        "year": 2006
+    },
+    {
+        "drivers_championship_leaders": 2,
         "year": 2005
-    },
-    {
-        "drivers_championship_leaders": 2,
-        "year": 2016
-    },
-    {
-        "drivers_championship_leaders": 2,
-        "year": 1955
     },
     {
         "drivers_championship_leaders": 2,
         "year": 2000
     },
     {
+        "drivers_championship_leaders": 2,
+        "year": 1955
+    },
+    {
         "drivers_championship_leaders": 1,
-        "year": 1957
+        "year": 1998
     },
     {
         "drivers_championship_leaders": 1,
@@ -213,7 +213,7 @@
     },
     {
         "drivers_championship_leaders": 1,
-        "year": 1998
+        "year": 1954
     },
     {
         "drivers_championship_leaders": 1,
@@ -221,19 +221,19 @@
     },
     {
         "drivers_championship_leaders": 1,
+        "year": 1957
+    },
+    {
+        "drivers_championship_leaders": 1,
         "year": 1996
     },
     {
         "drivers_championship_leaders": 1,
-        "year": 1994
-    },
-    {
-        "drivers_championship_leaders": 1,
-        "year": 1954
-    },
-    {
-        "drivers_championship_leaders": 1,
         "year": 1953
+    },
+    {
+        "drivers_championship_leaders": 1,
+        "year": 1994
     },
     {
         "drivers_championship_leaders": 1,
@@ -253,11 +253,11 @@
     },
     {
         "drivers_championship_leaders": 1,
-        "year": 1962
+        "year": 1959
     },
     {
         "drivers_championship_leaders": 1,
-        "year": 1969
+        "year": 1962
     },
     {
         "drivers_championship_leaders": 1,
@@ -265,6 +265,10 @@
     },
     {
         "drivers_championship_leaders": 1,
-        "year": 1959
+        "year": 1969
+    },
+    {
+        "drivers_championship_leaders": 1,
+        "year": 2017
     }
 ]

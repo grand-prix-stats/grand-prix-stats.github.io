@@ -234,7 +234,7 @@ var chart = new Chart("chart", {
 |--|--|--|--|
 | 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 | 30.77% |
 | 2. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 4 | 36.36% |
-| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 | 20.00% |
+| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 | 18.75% |
 | 4. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 3 | 16.67% |
 | 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 | 20.00% |
 | 6. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 | 18.18% |
@@ -243,8 +243,8 @@ var chart = new Chart("chart", {
 | 9. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 | 22.22% |
 | 10. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 | 15.38% |
 | 11. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 | 25.00% |
-| 12. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 | 14.29% |
-| 13. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 20.00% |
+| 12. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 | 13.33% |
+| 13. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 18.18% |
 | 14. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 | 10.53% |
 | 15. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 | 18.18% |
 | 16. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 | 22.22% |
@@ -256,7 +256,7 @@ var chart = new Chart("chart", {
 | 22. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 | 6.67% |
 | 23. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 | 20.00% |
 | 24. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 | 10.00% |
-| 25. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 | 7.14% |
+| 25. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 | 6.67% |
 | 26. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 | 16.67% |
 | 27. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 1 | 10.00% |
 | 28. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 | 6.25% |
@@ -272,7 +272,7 @@ var chart = new Chart("chart", {
 | 38. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 | 7.69% |
 | 39. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 16.67% |
 | 40. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 | 5.88% |
-| 41. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 10.00% |
+| 41. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 9.09% |
 | 42. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 | 16.67% |
 | 43. | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 1 | 16.67% |
 
@@ -280,14 +280,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Subchampionships** | **% Of Total Seasons** |
 | **Row Count** | 43 | 43 |
-| **Total Sum** | 67.000 | 615.720 |
-| **Mean μ (Average)** | 1.558 | 14.319 |
+| **Total Sum** | 67.000 | 610.310 |
+| **Mean μ (Average)** | 1.558 | 14.193 |
 | **Maximum** | 4.000 | 36.360 |
 | **75th Percentile** | 2.000 | 18.180 |
 | **Median** | 1.000 | 11.110 |
 | **25th Percentile** | 1.000 | 9.090 |
 | **Minimum** | 1.000 | 5.880 |
-| **Variance** | 0.665 | 48.721 |
-| **Standard Deviation σ** | 0.816 | 6.980 |
+| **Variance** | 0.665 | 48.394 |
+| **Standard Deviation σ** | 0.816 | 6.957 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

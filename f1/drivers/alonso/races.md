@@ -24,6 +24,7 @@ collectionId: alonso
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 12 | R | 0.0 | 50 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 18 | 13 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 9 | 10 | 1.0 | 55 | +59.896 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 12 | R |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 10 | 10 | 1.0 | 71 | +44.432 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 17 | 16 |
 | 2016 | 19 | 2016 Mexican Grand Prix 🇲🇽 | 2016-10-30 | 11 | 13 | 0.0 | 70 |   | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 13 | 12 |
@@ -302,15 +303,15 @@ collectionId: alonso
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 274 |  |  | 274 | 228 | 274 | 274 | 137 |  |  | 274 | 215 |
-| **Total Sum** | 2686.000 |  |  | 2156.000 | 1217.000 | 1832.000 | 14963.000 | 3269.080 |  |  | 2677.000 | 1686.000 |
-| **Mean μ (Average)** | 9.803 |  |  | 7.869 | 5.338 | 6.686 | 54.609 | 23.862 |  |  | 9.770 | 7.842 |
+| **Row Count** | 275 |  |  | 275 | 228 | 275 | 275 | 137 |  |  | 275 | 216 |
+| **Total Sum** | 2687.000 |  |  | 2168.000 | 1217.000 | 1832.000 | 15013.000 | 3269.080 |  |  | 2695.000 | 1699.000 |
+| **Mean μ (Average)** | 9.771 |  |  | 7.884 | 5.338 | 6.662 | 54.593 | 23.862 |  |  | 9.800 | 7.866 |
 | **Maximum** | 21.000 |  |  | 24.000 | 18.000 | 25.000 | 78.000 | 59.946 |  |  | 24.000 | 18.000 |
-| **75th Percentile** | 14.000 |  |  | 10.000 | 7.000 | 10.000 | 66.000 | 35.992 |  |  | 14.000 | 11.000 |
+| **75th Percentile** | 14.000 |  |  | 11.000 | 7.000 | 10.000 | 66.000 | 35.992 |  |  | 14.000 | 11.000 |
 | **Median** | 10.000 |  |  | 6.000 | 4.000 | 6.000 | 57.000 | 20.594 |  |  | 9.000 | 7.000 |
 | **25th Percentile** | 5.000 |  |  | 4.000 | 2.000 |  | 52.000 | 9.806 |  |  | 5.000 | 4.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.852 |  |  |  | 1.000 |
-| **Variance** | 28.625 |  |  | 31.662 | 16.496 | 44.712 | 272.377 | 276.659 |  |  | 35.659 | 17.752 |
-| **Standard Deviation σ** | 5.350 |  |  | 5.627 | 4.061 | 6.687 | 16.504 | 16.633 |  |  | 5.972 | 4.213 |
+| **Variance** | 28.802 |  |  | 31.608 | 16.496 | 44.711 | 271.463 | 276.659 |  |  | 35.775 | 17.792 |
+| **Standard Deviation σ** | 5.367 |  |  | 5.622 | 4.061 | 6.687 | 16.476 | 16.633 |  |  | 5.981 | 4.218 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

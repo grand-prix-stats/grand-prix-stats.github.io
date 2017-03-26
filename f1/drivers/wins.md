@@ -233,7 +233,7 @@ var data = {
                 91.0,
                 53.0,
                 51.0,
-                42.0,
+                43.0,
                 41.0,
                 32.0,
                 31.0,
@@ -485,11 +485,11 @@ var chart = new Chart("chart", {
 | # | Driver | Wins | % Of Total Participations |
 |--|--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 91 | 29.55% |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 53 | 28.19% |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 53 | 28.04% |
 | 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 51 | 25.25% |
-| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 42 | 23.46% |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 43 | 23.89% |
 | 5. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 41 | 25.31% |
-| 6. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 32 | 11.68% |
+| 6. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 32 | 11.64% |
 | 7. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 31 | 16.15% |
 | 8. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 27 | 27.00% |
 | 9. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 25 | 34.72% |
@@ -498,7 +498,7 @@ var chart = new Chart("chart", {
 | 12. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 23 | 11.11% |
 | 13. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 23 | 11.17% |
 | 14. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 22 | 18.03% |
-| 15. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 20 | 7.91% |
+| 15. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 20 | 7.87% |
 | 16. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 20 | 12.12% |
 | 17. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 16 | 21.92% |
 | 18. | [Jenson Button 🇬🇧](/f1/drivers/button) | 15 | 4.87% |
@@ -510,7 +510,7 @@ var chart = new Chart("chart", {
 | 24. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 12 | 10.26% |
 | 25. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 12 | 8.22% |
 | 26. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 12 | 9.30% |
-| 27. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 11 | 4.37% |
+| 27. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 11 | 4.35% |
 | 28. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 11 | 6.67% |
 | 29. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 11 | 3.37% |
 | 30. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 10 | 4.76% |
@@ -536,7 +536,7 @@ var chart = new Chart("chart", {
 | 50. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 5 | 13.51% |
 | 51. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 4 | 3.88% |
 | 52. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 4 | 4.60% |
-| 53. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 4 | 3.67% |
+| 53. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 4 | 3.64% |
 | 54. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 4 | 2.72% |
 | 55. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 3 | 4.17% |
 | 56. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 3 | 1.30% |
@@ -578,7 +578,7 @@ var chart = new Chart("chart", {
 | 92. | [Ludovico Scarfiotti 🇮🇹](/f1/drivers/scarfiotti) | 1 | 7.69% |
 | 93. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 1 | 12.50% |
 | 94. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 | 3.85% |
-| 95. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 | 2.50% |
+| 95. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 | 2.44% |
 | 96. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 1 | 0.63% |
 | 97. | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 1 | 1.04% |
 | 98. | [Pat Flaherty 🇺🇸](/f1/drivers/flaherty) | 1 | 16.67% |
@@ -595,14 +595,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Wins** | **% Of Total Participations** |
 | **Row Count** | 106 | 106 |
-| **Total Sum** | 959.000 | 944.460 |
-| **Mean μ (Average)** | 9.047 | 8.910 |
+| **Total Sum** | 960.000 | 944.550 |
+| **Mean μ (Average)** | 9.057 | 8.911 |
 | **Maximum** | 91.000 | 50.000 |
 | **75th Percentile** | 11.000 | 11.110 |
 | **Median** | 4.000 | 5.770 |
 | **25th Percentile** | 1.000 | 2.330 |
 | **Minimum** | 1.000 | 0.390 |
-| **Variance** | 177.743 | 92.623 |
-| **Standard Deviation σ** | 13.332 | 9.624 |
+| **Variance** | 178.374 | 92.699 |
+| **Standard Deviation σ** | 13.356 | 9.628 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

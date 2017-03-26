@@ -221,7 +221,7 @@ var data = {
                 3.0,
                 3.0,
                 4.0,
-                0.0
+                1.0
             ],
             "label": "Winning Drivers"
         }
@@ -399,20 +399,20 @@ var chart = new Chart("chart", {
 | 2014 | 3 |
 | 2015 | 3 |
 | 2016 | 4 |
-| 2017 | 0 |
+| 2017 | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Winning Drivers** |
 | **Row Count** | 68 |
-| **Total Sum** | 362.000 |
-| **Mean μ (Average)** | 5.324 |
+| **Total Sum** | 363.000 |
+| **Mean μ (Average)** | 5.338 |
 | **Maximum** | 11.000 |
 | **75th Percentile** | 6.000 |
 | **Median** | 5.000 |
 | **25th Percentile** | 4.000 |
-| **Minimum** |  |
-| **Variance** | 2.866 |
-| **Standard Deviation σ** | 1.693 |
+| **Minimum** | 1.000 |
+| **Variance** | 2.724 |
+| **Standard Deviation σ** | 1.650 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

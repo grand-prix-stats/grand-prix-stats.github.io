@@ -24,6 +24,10 @@
         "number_of_wins": 2
     },
     {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "number_of_wins": 2
+    },
+    {
         "driver": "Damon Hill 🇬🇧",
         "number_of_wins": 1
     },
@@ -41,10 +45,6 @@
     },
     {
         "driver": "Mika Häkkinen 🇫🇮",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "number_of_wins": 1
     }
 ]

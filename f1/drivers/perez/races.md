@@ -24,6 +24,7 @@ collectionId: perez
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 10 | 7 | 6.0 | 56 |   | Force India 🇮🇳 | [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 13 | 10 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 8 | 8 | 4.0 | 55 | +58.776 | Force India 🇮🇳 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 7 | 7 |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 9 | 4 | 12.0 | 71 | +25.346 | Force India 🇮🇳 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 8 | 7 |
 | 2016 | 19 | 2016 Mexican Grand Prix 🇲🇽 | 2016-10-30 | 12 | 10 | 1.0 | 71 | +1:16.798 | Force India 🇮🇳 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 5 | 7 |
@@ -143,15 +144,15 @@ collectionId: perez
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 115 |  |  | 115 | 100 | 115 | 115 | 34 |  |  | 115 | 95 |
-| **Total Sum** | 1188.000 |  |  | 1320.000 | 936.000 | 367.000 | 6225.000 | 1283.553 |  |  | 1241.000 | 875.000 |
-| **Mean μ (Average)** | 10.330 |  |  | 11.478 | 9.360 | 3.191 | 54.130 | 37.752 |  |  | 10.791 | 9.211 |
+| **Row Count** | 116 |  |  | 116 | 101 | 116 | 116 | 34 |  |  | 116 | 96 |
+| **Total Sum** | 1189.000 |  |  | 1330.000 | 943.000 | 373.000 | 6281.000 | 1283.553 |  |  | 1254.000 | 885.000 |
+| **Mean μ (Average)** | 10.250 |  |  | 11.466 | 9.337 | 3.216 | 54.147 | 37.752 |  |  | 10.810 | 9.219 |
 | **Maximum** | 21.000 |  |  | 23.000 | 20.000 | 18.000 | 78.000 | 84.341 |  |  | 24.000 | 19.000 |
 | **75th Percentile** | 15.000 |  |  | 14.000 | 11.000 | 6.000 | 65.000 | 50.619 |  |  | 13.000 | 12.000 |
 | **Median** | 10.000 |  |  | 11.000 | 9.000 | 1.000 | 56.000 | 39.377 |  |  | 11.000 | 9.000 |
 | **25th Percentile** | 5.000 |  |  | 9.000 | 7.000 |  | 53.000 | 25.346 |  |  | 8.000 | 7.000 |
 | **Minimum** | 1.000 |  |  | 4.000 | 2.000 |  |  | 2.263 |  |  | 2.000 | 3.000 |
-| **Variance** | 32.204 |  |  | 15.571 | 12.450 | 20.503 | 271.053 | 352.067 |  |  | 15.087 | 11.661 |
-| **Standard Deviation σ** | 5.675 |  |  | 3.946 | 3.529 | 4.528 | 16.464 | 18.763 |  |  | 3.884 | 3.415 |
+| **Variance** | 32.670 |  |  | 15.456 | 12.382 | 20.393 | 268.746 | 352.067 |  |  | 14.999 | 11.546 |
+| **Standard Deviation σ** | 5.716 |  |  | 3.931 | 3.519 | 4.516 | 16.393 | 18.763 |  |  | 3.873 | 3.398 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

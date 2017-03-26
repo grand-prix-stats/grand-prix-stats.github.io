@@ -2,13 +2,13 @@
     {
         "circuit": "Albert Park Grand Prix Circuit",
         "date": "2017-03-26",
-        "laps_completed": null,
+        "laps_completed": 57,
         "name": "2017 Australian Grand Prix 🇦🇺",
-        "race_duration": null,
+        "race_duration": "1:24:11.672",
         "round": 1,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
         "circuit": "Shanghai International Circuit",

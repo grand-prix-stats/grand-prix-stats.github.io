@@ -218,15 +218,15 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                7561.77,
+                7598.77,
                 5284.5,
-                3520.5,
-                3476.0,
-                3189.14,
+                3530.5,
+                3484.0,
+                3222.14,
                 1326.0,
                 995.0,
                 861.5,
-                800.0,
+                807.0,
                 711.0,
                 706.0,
                 631.0,
@@ -234,7 +234,7 @@ var data = {
                 504.0,
                 388.0,
                 336.5,
-                329.0,
+                335.0,
                 313.14,
                 308.0,
                 291.0,
@@ -460,15 +460,15 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Points |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 7561.77 |
+| 1. | Ferrari 🇮🇹 | 7598.77 |
 | 2. | McLaren 🇬🇧 | 5284.5 |
-| 3. | Red Bull 🇦🇹 | 3520.5 |
-| 4. | Williams 🇬🇧 | 3476.0 |
-| 5. | Mercedes 🇩🇪 | 3189.14 |
+| 3. | Red Bull 🇦🇹 | 3530.5 |
+| 4. | Williams 🇬🇧 | 3484.0 |
+| 5. | Mercedes 🇩🇪 | 3222.14 |
 | 6. | Renault 🇫🇷 | 1326.0 |
 | 7. | Team Lotus 🇬🇧 | 995.0 |
 | 8. | Benetton 🇮🇹 | 861.5 |
-| 9. | Force India 🇮🇳 | 800.0 |
+| 9. | Force India 🇮🇳 | 807.0 |
 | 10. | Tyrrell 🇬🇧 | 711.0 |
 | 11. | Lotus F1 🇬🇧 | 706.0 |
 | 12. | Brabham 🇬🇧 | 631.0 |
@@ -476,7 +476,7 @@ var chart = new Chart("chart", {
 | 14. | Sauber 🇨🇭 | 504.0 |
 | 15. | Ligier 🇫🇷 | 388.0 |
 | 16. | Cooper-Climax 🇬🇧 | 336.5 |
-| 17. | Toro Rosso 🇮🇹 | 329.0 |
+| 17. | Toro Rosso 🇮🇹 | 335.0 |
 | 18. | Maserati 🇮🇹 | 313.14 |
 | 19. | BMW Sauber 🇩🇪 | 308.0 |
 | 20. | Jordan 🇮🇪 | 291.0 |
@@ -565,14 +565,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Points** |
 | **Row Count** | 100 |
-| **Total Sum** | 36054.550 |
-| **Mean μ (Average)** | 360.546 |
-| **Maximum** | 7561.770 |
+| **Total Sum** | 36155.550 |
+| **Mean μ (Average)** | 361.556 |
+| **Maximum** | 7598.770 |
 | **75th Percentile** | 209.000 |
 | **Median** | 37.000 |
 | **25th Percentile** | 8.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1140344.061 |
-| **Standard Deviation σ** | 1067.869 |
+| **Variance** | 1148754.091 |
+| **Standard Deviation σ** | 1071.799 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

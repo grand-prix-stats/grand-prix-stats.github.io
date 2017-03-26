@@ -1,6 +1,10 @@
 [
     {
         "driver": "Lewis Hamilton 🇬🇧",
+        "number_of_podiums": 7
+    },
+    {
+        "driver": "Sebastian Vettel 🇩🇪",
         "number_of_podiums": 6
     },
     {
@@ -17,10 +21,6 @@
     },
     {
         "driver": "Rubens Barrichello 🇧🇷",
-        "number_of_podiums": 5
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "number_of_podiums": 5
     },
     {
@@ -85,6 +85,10 @@
     },
     {
         "driver": "Robert Kubica 🇵🇱",
+        "number_of_podiums": 1
+    },
+    {
+        "driver": "Valtteri Bottas 🇫🇮",
         "number_of_podiums": 1
     },
     {

@@ -202,8 +202,8 @@ var data = {
     "labels": [
         "2006",
         "1999",
-        "2005",
         "2000",
+        "2005",
         "1964",
         "1982",
         "2010",
@@ -223,8 +223,8 @@ var data = {
         "1962",
         "1998",
         "1972",
-        "1958",
         "1965",
+        "1958",
         "1997",
         "1995",
         "1959",
@@ -298,8 +298,8 @@ This chart shows the percentage of points between constructor team champion and 
 |--|--|--|--|--|
 | 1. | 2006 | 97.57% | Renault 🇫🇷 | Ferrari 🇮🇹 |
 | 2. | 1999 | 96.88% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
-| 3. | 2005 | 95.29% | Renault 🇫🇷 | McLaren 🇬🇧 |
-| 4. | 2000 | 95.29% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
+| 3. | 2000 | 95.29% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
+| 4. | 2005 | 95.29% | Renault 🇫🇷 | McLaren 🇬🇧 |
 | 5. | 1964 | 93.33% | Ferrari 🇮🇹 | BRM 🇬🇧 |
 | 6. | 1982 | 93.24% | Ferrari 🇮🇹 | McLaren 🇬🇧 |
 | 7. | 2010 | 91.16% | Red Bull 🇦🇹 | McLaren 🇬🇧 |
@@ -319,8 +319,8 @@ This chart shows the percentage of points between constructor team champion and 
 | 21. | 1962 | 85.71% | BRM 🇬🇧 | Lotus-Climax 🇬🇧 |
 | 22. | 1998 | 85.26% | McLaren 🇬🇧 | Ferrari 🇮🇹 |
 | 23. | 1972 | 83.61% | Team Lotus 🇬🇧 | Tyrrell 🇬🇧 |
-| 24. | 1958 | 83.33% | Vanwall 🇬🇧 | Ferrari 🇮🇹 |
-| 25. | 1965 | 83.33% | Lotus-Climax 🇬🇧 | BRM 🇬🇧 |
+| 24. | 1965 | 83.33% | Lotus-Climax 🇬🇧 | BRM 🇬🇧 |
+| 25. | 1958 | 83.33% | Vanwall 🇬🇧 | Ferrari 🇮🇹 |
 | 26. | 1997 | 82.93% | Williams 🇬🇧 | Ferrari 🇮🇹 |
 | 27. | 1995 | 80.27% | Benetton 🇮🇹 | Williams 🇬🇧 |
 | 28. | 1959 | 80.00% | Cooper-Climax 🇬🇧 | Ferrari 🇮🇹 |

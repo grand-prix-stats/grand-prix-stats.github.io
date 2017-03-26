@@ -64,7 +64,7 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                14.0,
+                15.0,
                 13.0,
                 6.0,
                 4.0,
@@ -152,7 +152,7 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Wins Round 1 |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 14 |
+| 1. | Ferrari 🇮🇹 | 15 |
 | 2. | McLaren 🇬🇧 | 13 |
 | 3. | Williams 🇬🇧 | 6 |
 | 4. | BRM 🇬🇧 | 4 |
@@ -180,14 +180,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Wins Round 1** |
 | **Row Count** | 23 |
-| **Total Sum** | 68.000 |
-| **Mean μ (Average)** | 2.957 |
-| **Maximum** | 14.000 |
+| **Total Sum** | 69.000 |
+| **Mean μ (Average)** | 3.000 |
+| **Maximum** | 15.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 12.129 |
-| **Standard Deviation σ** | 3.483 |
+| **Variance** | 13.130 |
+| **Standard Deviation σ** | 3.624 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

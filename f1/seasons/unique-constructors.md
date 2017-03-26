@@ -221,7 +221,7 @@ var data = {
                 11.0,
                 10.0,
                 11.0,
-                0.0
+                10.0
             ],
             "label": "Constructors"
         }
@@ -399,20 +399,20 @@ var chart = new Chart("chart", {
 | 2014 | 11 |
 | 2015 | 10 |
 | 2016 | 11 |
-| 2017 | 0 |
+| 2017 | 10 |
 
 #### Statistic Summary
 
 | **Column** | **Constructors** |
 | **Row Count** | 68 |
-| **Total Sum** | 1031.000 |
-| **Mean μ (Average)** | 15.162 |
+| **Total Sum** | 1041.000 |
+| **Mean μ (Average)** | 15.309 |
 | **Maximum** | 26.000 |
 | **75th Percentile** | 19.000 |
 | **Median** | 15.000 |
 | **25th Percentile** | 11.000 |
-| **Minimum** |  |
-| **Variance** | 21.812 |
-| **Standard Deviation σ** | 4.670 |
+| **Minimum** | 10.000 |
+| **Variance** | 18.802 |
+| **Standard Deviation σ** | 4.336 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -76,6 +76,10 @@
         "wins_round_1": 2
     },
     {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "wins_round_1": 2
+    },
+    {
         "driver": "Stirling Moss 🇬🇧",
         "wins_round_1": 2
     },
@@ -133,10 +137,6 @@
     },
     {
         "driver": "Piero Taruffi 🇮🇹",
-        "wins_round_1": 1
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "wins_round_1": 1
     }
 ]

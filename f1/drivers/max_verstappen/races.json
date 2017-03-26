@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Red Bull 🇦🇹",
+        "date": "2017-03-26",
+        "final_position": "5",
+        "grid": 5,
+        "laps_completed": 57,
+        "name": "2017 Australian Grand Prix 🇦🇺",
+        "points": 10.0,
+        "round": 1,
+        "season": 2017,
+        "teammate": "Daniel Ricciardo 🇦🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 15,
+        "time": "+28.827"
+    },
+    {
+        "constructor": "Red Bull 🇦🇹",
         "date": "2016-11-27",
         "final_position": "4",
         "grid": 6,

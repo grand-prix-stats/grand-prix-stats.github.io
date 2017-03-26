@@ -221,7 +221,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                0.0
+                1.0
             ],
             "label": "Winning Constructors"
         }
@@ -399,20 +399,20 @@ var chart = new Chart("chart", {
 | 2014 | 2 |
 | 2015 | 2 |
 | 2016 | 2 |
-| 2017 | 0 |
+| 2017 | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Winning Constructors** |
 | **Row Count** | 68 |
-| **Total Sum** | 251.000 |
-| **Mean μ (Average)** | 3.691 |
+| **Total Sum** | 252.000 |
+| **Mean μ (Average)** | 3.706 |
 | **Maximum** | 7.000 |
 | **75th Percentile** | 4.000 |
 | **Median** | 4.000 |
 | **25th Percentile** | 3.000 |
-| **Minimum** |  |
-| **Variance** | 1.596 |
-| **Standard Deviation σ** | 1.263 |
+| **Minimum** | 1.000 |
+| **Variance** | 1.502 |
+| **Standard Deviation σ** | 1.225 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -81,7 +81,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -105,6 +105,7 @@ var data = {
         "Kimi Räikkönen",
         "Lewis Hamilton",
         "Nico Rosberg",
+        "Sebastian Vettel",
         "Eddie Irvine",
         "Fernando Alonso",
         "Giancarlo Fisichella",
@@ -112,7 +113,6 @@ var data = {
         "Mika Häkkinen",
         "Nelson Piquet",
         "Nigel Mansell",
-        "Sebastian Vettel",
         "Thierry Boutsen"
     ]
 };
@@ -161,28 +161,28 @@ var chart = new Chart("chart", {
 | 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
 | 9. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 | 10. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 11. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
-| 12. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
-| 13. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
-| 14. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
-| 15. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
-| 16. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
-| 17. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
-| 18. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 11. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 12. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 13. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 14. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 15. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 16. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 17. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 18. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
 | 19. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Times** |
 | **Row Count** | 19 |
-| **Total Sum** | 32.000 |
-| **Mean μ (Average)** | 1.684 |
+| **Total Sum** | 33.000 |
+| **Mean μ (Average)** | 1.737 |
 | **Maximum** | 4.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.637 |
-| **Standard Deviation σ** | 0.798 |
+| **Variance** | 0.615 |
+| **Standard Deviation σ** | 0.784 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

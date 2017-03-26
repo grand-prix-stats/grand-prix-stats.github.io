@@ -9,11 +9,11 @@ collectionId:
 
 | Driver | Last Win |
 |--|--|
+| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2017-03-26 |
 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2016-11-27 |
 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2016-10-09 |
 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2016-10-02 |
 | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 2016-05-15 |
-| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2015-09-20 |
 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2013-05-12 |
 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2013-03-17 |
 | [Jenson Button 🇬🇧](/f1/drivers/button) | 2012-11-25 |

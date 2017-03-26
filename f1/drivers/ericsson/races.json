@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Sauber 🇨🇭",
+        "date": "2017-03-26",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 21,
+        "name": "2017 Australian Grand Prix 🇦🇺",
+        "points": 0.0,
+        "round": 1,
+        "season": 2017,
+        "teammate": "Antonio Giovinazzi 🇮🇹",
+        "teammate_final_position": "12",
+        "teammate_grid": 16,
+        "time": null
+    },
+    {
+        "constructor": "Sauber 🇨🇭",
         "date": "2016-11-27",
         "final_position": "15",
         "grid": 22,

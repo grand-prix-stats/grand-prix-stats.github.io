@@ -128,16 +128,16 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Championships | % Of Total Seasons |
 |--|--|--|--|
-| 1. | Ferrari 🇮🇹 | 16 | 23.88% |
-| 2. | Williams 🇬🇧 | 9 | 21.95% |
-| 3. | McLaren 🇬🇧 | 8 | 17.02% |
-| 4. | Red Bull 🇦🇹 | 4 | 33.33% |
+| 1. | Ferrari 🇮🇹 | 16 | 23.53% |
+| 2. | Williams 🇬🇧 | 9 | 21.43% |
+| 3. | McLaren 🇬🇧 | 8 | 16.67% |
+| 4. | Red Bull 🇦🇹 | 4 | 30.77% |
 | 5. | Team Lotus 🇬🇧 | 4 | 13.79% |
-| 6. | Mercedes 🇩🇪 | 3 | 33.33% |
+| 6. | Mercedes 🇩🇪 | 3 | 30.00% |
 | 7. | Brabham-Repco 🇬🇧 | 2 | 50.00% |
 | 8. | Cooper-Climax 🇬🇧 | 2 | 22.22% |
 | 9. | Lotus-Climax 🇬🇧 | 2 | 28.57% |
-| 10. | Renault 🇫🇷 | 2 | 10.00% |
+| 10. | Renault 🇫🇷 | 2 | 9.52% |
 | 11. | Benetton 🇮🇹 | 1 | 6.25% |
 | 12. | Brawn 🇬🇧 | 1 | 100.00% |
 | 13. | BRM 🇬🇧 | 1 | 4.35% |
@@ -150,14 +150,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Championships** | **% Of Total Seasons** |
 | **Row Count** | 17 | 17 |
-| **Total Sum** | 59.000 | 449.100 |
-| **Mean μ (Average)** | 3.471 | 26.418 |
+| **Total Sum** | 59.000 | 441.510 |
+| **Mean μ (Average)** | 3.471 | 25.971 |
 | **Maximum** | 16.000 | 100.000 |
-| **75th Percentile** | 4.000 | 33.330 |
-| **Median** | 2.000 | 21.950 |
+| **75th Percentile** | 4.000 | 30.000 |
+| **Median** | 2.000 | 21.430 |
 | **25th Percentile** | 1.000 | 13.790 |
 | **Minimum** | 1.000 | 3.450 |
-| **Variance** | 15.308 | 520.675 |
-| **Standard Deviation σ** | 3.913 | 22.818 |
+| **Variance** | 15.308 | 518.459 |
+| **Standard Deviation σ** | 3.913 | 22.770 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

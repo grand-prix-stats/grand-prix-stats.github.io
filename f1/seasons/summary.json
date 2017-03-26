@@ -3,7 +3,7 @@
         "constructors_champion_id": null,
         "constructors_champion_points": null,
         "constructors_champion_ref": null,
-        "constructors_championship_leaders": 0,
+        "constructors_championship_leaders": 1,
         "constructors_first_to_second_delta_points": null,
         "constructors_first_to_third_delta_points": null,
         "constructors_second_id": null,
@@ -15,7 +15,7 @@
         "drivers_champion_id": null,
         "drivers_champion_points": null,
         "drivers_champion_ref": null,
-        "drivers_championship_leaders": 0,
+        "drivers_championship_leaders": 1,
         "drivers_first_to_second_delta_points": null,
         "drivers_first_to_third_delta_points": null,
         "drivers_second_id": null,
@@ -25,17 +25,21 @@
         "drivers_third_points": null,
         "drivers_third_ref": null,
         "enddate": "2017-11-26",
-        "mean_constructor_points": null,
-        "mean_driver_points": null,
-        "participating_constructors": 0,
-        "participating_drivers": 0,
+        "mean_constructor_points": 10.1,
+        "mean_driver_points": 5.05,
+        "participating_constructors": 10,
+        "participating_drivers": 20,
         "rounds": 20,
-        "season_points": null,
+        "season_points": 101.0,
         "startdate": "2017-03-26",
-        "unique_winning_constructors": 0,
-        "unique_winning_drivers": 0,
-        "winning_constructors": [],
-        "winning_drivers": [],
+        "unique_winning_constructors": 1,
+        "unique_winning_drivers": 1,
+        "winning_constructors": [
+            "ferrari"
+        ],
+        "winning_drivers": [
+            "vettel"
+        ],
         "year": 2017
     },
     {
