@@ -22,23 +22,22 @@ collectionId: crossley
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 5 | 1950 Belgian Grand Prix 🇧🇪 | 1950-06-18 | 12 | 9 | 30 |   | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 17 | R | 43 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 17 | R | 0.0 | 43 |   | Alta 🇬🇧 | [Joe Kelly 🇮🇪](/f1/drivers/kelly) | 19 | N |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 29.000 | 9.000 | 73.000 |  |  |  |
-| **Mean μ (Average)** | 3.000 |  |  | 14.500 | 9.000 | 36.500 |  |  |  |
-| **Maximum** | 5.000 |  |  | 17.000 | 9.000 | 43.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 17.000 | 9.000 | 43.000 |  |  |  |
-| **Median** | 5.000 |  |  | 17.000 | 9.000 | 43.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 12.000 | 9.000 | 30.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 12.000 | 9.000 | 30.000 |  |  |  |
-| **Variance** | 4.000 |  |  | 6.250 |  | 42.250 |  |  |  |
-| **Standard Deviation σ** | 2.000 |  |  | 2.500 |  | 6.500 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Mean μ (Average)** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Maximum** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **75th Percentile** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Median** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **25th Percentile** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Minimum** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

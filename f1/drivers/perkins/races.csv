@@ -1,16 +1,9 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1974 German Grand Prix 🇩🇪,11,0,0,Ferrari 🇮🇹,1974-08-04,F,,1974,Clay Regazzoni 🇨🇭
-1976 Belgian Grand Prix 🇧🇪,5,20,69,Ferrari 🇮🇹,1976-05-16,8,,1976,Niki Lauda 🇦🇹
-1976 Canadian Grand Prix 🇨🇦,14,19,78,McLaren 🇬🇧,1976-10-03,17,,1976,James Hunt 🇬🇧
-1976 Dutch Grand Prix 🇳🇱,12,19,44,McLaren 🇬🇧,1976-08-29,R,,1976,James Hunt 🇬🇧
-1976 Italian Grand Prix 🇮🇹,13,13,8,March 🇬🇧,1976-09-12,R,,1976,Ronnie Peterson 🇸🇪
-1976 Japanese Grand Prix 🇯🇵,16,17,1,Team Lotus 🇬🇧,1976-10-24,R,,1976,Mario Andretti 🇺🇸
-1976 Monaco Grand Prix 🇲🇨,6,0,0,Ferrari 🇮🇹,1976-05-30,F,,1976,Niki Lauda 🇦🇹
-1976 Spanish Grand Prix 🇪🇸,4,24,72,McLaren 🇬🇧,1976-05-02,13,,1976,James Hunt 🇬🇧
-1976 Swedish Grand Prix 🇸🇪,7,22,18,Tyrrell 🇬🇧,1976-06-13,R,,1976,Jody Scheckter 🇿🇦
-1976 United States Grand Prix 🇺🇸,15,13,30,McLaren 🇬🇧,1976-10-10,R,,1976,James Hunt 🇬🇧
-1977 Belgian Grand Prix 🇧🇪,7,23,67,Team Lotus 🇬🇧,1977-06-05,12,,1977,Gunnar Nilsson 🇸🇪
-1977 Brazilian Grand Prix 🇧🇷,2,22,1,Ferrari 🇮🇹,1977-01-23,R,,1977,Carlos Reutemann 🇦🇷
-1977 French Grand Prix 🇫🇷,9,0,0,Team Lotus 🇬🇧,1977-07-03,F,,1977,Mario Andretti 🇺🇸
-1977 South African Grand Prix 🇿🇦,3,22,73,Ferrari 🇮🇹,1977-03-05,15,,1977,Niki Lauda 🇦🇹
-1977 Swedish Grand Prix 🇸🇪,8,0,0,Ligier 🇫🇷,1977-06-19,F,,1977,Jacques Laffite 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1974 German Grand Prix 🇩🇪,F,0,1974-08-04,F,1974,Chris Amon 🇳🇿,,11,0,0,,0.0
+1976 Canadian Grand Prix 🇨🇦,7,19,1976-10-03,17,1976,Carlos Pace 🇧🇷,Brabham-Alfa Romeo 🇬🇧,14,10,78,,0.0
+1976 Japanese Grand Prix 🇯🇵,R,17,1976-10-24,R,1976,Carlos Pace 🇧🇷,Brabham-Alfa Romeo 🇬🇧,16,6,1,,0.0
+1976 United States Grand Prix 🇺🇸,R,13,1976-10-10,R,1976,Carlos Pace 🇧🇷,Brabham-Alfa Romeo 🇬🇧,15,10,30,,0.0
+1977 Belgian Grand Prix 🇧🇪,4,23,1977-06-05,12,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,7,12,67,,0.0
+1977 French Grand Prix 🇫🇷,13,0,1977-07-03,F,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,9,11,0,,0.0
+1977 French Grand Prix 🇫🇷,F,0,1977-07-03,F,1977,Patrick Tambay 🇫🇷,Surtees 🇬🇧,9,0,0,,0.0
+1977 Swedish Grand Prix 🇸🇪,R,0,1977-06-19,F,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,8,13,0,,0.0

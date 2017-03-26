@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 4 |
-| 2. | Damon Hill 🇬🇧 | 3 |
-| 3. | Fernando Alonso 🇪🇸 | 2 |
-| 4. | Ralf Schumacher 🇩🇪 | 2 |
-| 5. | Felipe Massa 🇧🇷 | 1 |
-| 6. | Juan Pablo Montoya 🇨🇴 | 1 |
-| 7. | Kimi Räikkönen 🇫🇮 | 1 |
-| 8. | Mika Häkkinen 🇫🇮 | 1 |
-| 9. | Nigel Mansell 🇬🇧 | 1 |
-| 10. | Riccardo Patrese 🇮🇹 | 1 |
-| 11. | Rubens Barrichello 🇧🇷 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| 2. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 3 |
+| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 4. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
+| 5. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 6. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 7. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 8. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 9. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 10. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 11. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
 
 #### Statistic Summary
 

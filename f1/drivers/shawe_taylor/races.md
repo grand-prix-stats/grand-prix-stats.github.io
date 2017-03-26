@@ -22,23 +22,28 @@ collectionId: shawe_taylor
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 12 | 8 | 84 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 64 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 12 | 8 | 0.0 | 84 |   | ERA 🇬🇧 | [Bob Gerard 🇬🇧](/f1/drivers/gerard) | 10 | 11 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [David Hampshire 🇬🇧](/f1/drivers/hampshire) | 16 | 9 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 5 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [David Murray 🇬🇧](/f1/drivers/murray) | 18 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 8 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 11 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Joe Fry 🇬🇧](/f1/drivers/fry) | 20 | 10 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 32.000 | 18.000 | 148.000 |  |  |  |
-| **Mean μ (Average)** | 3.000 |  |  | 16.000 | 9.000 | 74.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 20.000 | 10.000 | 84.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 20.000 | 10.000 | 84.000 |  |  |  |
-| **Median** | 5.000 |  |  | 20.000 | 10.000 | 84.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 12.000 | 8.000 | 64.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 12.000 | 8.000 | 64.000 |  |  |  |
-| **Variance** | 4.000 |  |  | 16.000 | 1.000 | 100.000 |  |  |  |
-| **Standard Deviation σ** | 2.000 |  |  | 4.000 | 1.000 | 10.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 7 |  |  | 7 | 7 | 7 | 7 |  |  |  | 7 | 3 |
+| **Total Sum** | 11.000 |  |  | 132.000 | 68.000 |  | 468.000 |  |  |  | 88.000 | 30.000 |
+| **Mean μ (Average)** | 1.571 |  |  | 18.857 | 9.714 |  | 66.857 |  |  |  | 12.571 | 10.000 |
+| **Maximum** | 5.000 |  |  | 20.000 | 10.000 |  | 84.000 |  |  |  | 20.000 | 11.000 |
+| **75th Percentile** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 18.000 | 11.000 |
+| **Median** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 11.000 | 10.000 |
+| **25th Percentile** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 8.000 | 9.000 |
+| **Minimum** | 1.000 |  |  | 12.000 | 8.000 |  | 64.000 |  |  |  | 5.000 | 9.000 |
+| **Variance** | 1.959 |  |  | 7.837 | 0.490 |  | 48.980 |  |  |  | 26.245 | 0.667 |
+| **Standard Deviation σ** | 1.400 |  |  | 2.799 | 0.700 |  | 6.999 |  |  |  | 5.123 | 0.816 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

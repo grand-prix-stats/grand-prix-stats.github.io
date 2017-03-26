@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Niki Lauda 🇦🇹 | 3 |
-| 2. | Nigel Mansell 🇬🇧 | 2 |
-| 3. | Alan Jones 🇦🇺 | 1 |
-| 4. | Carlos Reutemann 🇦🇷 | 1 |
-| 5. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 6. | Jack Brabham 🇦🇺 | 1 |
-| 7. | Jim Clark 🇬🇧 | 1 |
-| 8. | Jo Siffert 🇨🇭 | 1 |
-| 9. | Jochen Rindt 🇦🇹 | 1 |
-| 10. | Jody Scheckter 🇿🇦 | 1 |
-| 11. | Nelson Piquet 🇧🇷 | 1 |
+| 1. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 2. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 3. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 4. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 5. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 6. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 7. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 8. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| 9. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 10. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 11. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
 
 #### Statistic Summary
 

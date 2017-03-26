@@ -115,16 +115,16 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Kimi Räikkönen 🇫🇮 | 3 |
-| 2. | Nico Rosberg 🇩🇪 | 2 |
-| 3. | Daniel Ricciardo 🇦🇺 | 1 |
-| 4. | Felipe Massa 🇧🇷 | 1 |
-| 5. | Fernando Alonso 🇪🇸 | 1 |
-| 6. | Heikki Kovalainen 🇫🇮 | 1 |
-| 7. | Jenson Button 🇬🇧 | 1 |
-| 8. | Lewis Hamilton 🇬🇧 | 1 |
-| 9. | Mark Webber 🇦🇺 | 1 |
-| 10. | Michael Schumacher 🇩🇪 | 1 |
+| 1. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 3. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 4. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 5. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 6. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 1 |
+| 7. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 8. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 9. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
+| 10. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
 
 #### Statistic Summary
 

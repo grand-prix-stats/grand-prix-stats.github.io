@@ -159,27 +159,27 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Felipe Massa 🇧🇷 | 183 |
-| 2. | Sebastian Vettel 🇩🇪 | 168 |
-| 3. | Juan Pablo Montoya 🇨🇴 | 144 |
-| 4. | Michael Schumacher 🇩🇪 | 139 |
-| 5. | Nico Rosberg 🇩🇪 | 124 |
-| 6. | Mika Häkkinen 🇫🇮 | 118 |
-| 7. | Lewis Hamilton 🇬🇧 | 97 |
-| 8. | Mark Webber 🇦🇺 | 94 |
-| 9. | Jacques Villeneuve 🇨🇦 | 69 |
-| 10. | Damon Hill 🇬🇧 | 68 |
-| 11. | Kimi Räikkönen 🇫🇮 | 61 |
-| 12. | Rubens Barrichello 🇧🇷 | 60 |
-| 13. | David Coulthard 🇬🇧 | 57 |
-| 14. | Nico Hülkenberg 🇩🇪 | 35 |
-| 15. | Jenson Button 🇬🇧 | 28 |
-| 16. | Fernando Alonso 🇪🇸 | 18 |
-| 17. | Ralf Schumacher 🇩🇪 | 5 |
-| 18. | Gerhard Berger 🇦🇹 | 3 |
-| 19. | Jean Alesi 🇫🇷 | 3 |
-| 20. | Jarno Trulli 🇮🇹 | 2 |
-| 21. | Giancarlo Fisichella 🇮🇹 | 1 |
+| 1. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 183 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 168 |
+| 3. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 144 |
+| 4. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 139 |
+| 5. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 124 |
+| 6. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 118 |
+| 7. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 97 |
+| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 94 |
+| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 69 |
+| 10. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 68 |
+| 11. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 61 |
+| 12. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 60 |
+| 13. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 57 |
+| 14. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 35 |
+| 15. | [Jenson Button 🇬🇧](/f1/drivers/button) | 28 |
+| 16. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 18 |
+| 17. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 5 |
+| 18. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 |
+| 19. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 3 |
+| 20. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 21. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
 
 #### Statistic Summary
 

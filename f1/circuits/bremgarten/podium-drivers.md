@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Nino Farina 🇮🇹 | 3 |
-| 2. | Juan Fangio 🇦🇷 | 2 |
-| 3. | Piero Taruffi 🇮🇹 | 2 |
-| 4. | Alberto Ascari 🇮🇹 | 1 |
-| 5. | Hans Herrmann 🇩🇪 | 1 |
-| 6. | Jean Behra 🇫🇷 | 1 |
-| 7. | José Froilán González 🇦🇷 | 1 |
-| 8. | Louis Rosier 🇫🇷 | 1 |
-| 9. | Luigi Fagioli 🇮🇹 | 1 |
-| 10. | Mike Hawthorn 🇬🇧 | 1 |
-| 11. | Rudi Fischer 🇨🇭 | 1 |
+| 1. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 3 |
+| 2. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
+| 3. | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 2 |
+| 4. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 5. | [Hans Herrmann 🇩🇪](/f1/drivers/herrmann) | 1 |
+| 6. | [Jean Behra 🇫🇷](/f1/drivers/behra) | 1 |
+| 7. | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| 8. | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 1 |
+| 9. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 1 |
+| 10. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 11. | [Rudi Fischer 🇨🇭](/f1/drivers/fischer) | 1 |
 
 #### Statistic Summary
 

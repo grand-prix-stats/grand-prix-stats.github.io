@@ -171,30 +171,30 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 8 |
-| 2. | Nelson Piquet 🇧🇷 | 4 |
-| 3. | James Hunt 🇬🇧 | 3 |
-| 4. | Nigel Mansell 🇬🇧 | 3 |
-| 5. | Ayrton Senna 🇧🇷 | 2 |
-| 6. | Didier Pironi 🇫🇷 | 2 |
-| 7. | François Cevert 🇫🇷 | 2 |
-| 8. | Ronnie Peterson 🇸🇪 | 2 |
-| 9. | Alan Jones 🇦🇺 | 1 |
-| 10. | Carlos Reutemann 🇦🇷 | 1 |
-| 11. | Eddie Cheever 🇺🇸 | 1 |
-| 12. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 13. | Ivan Capelli 🇮🇹 | 1 |
-| 14. | Jackie Stewart 🇬🇧 | 1 |
-| 15. | Jacques Laffite 🇫🇷 | 1 |
-| 16. | Jochen Mass 🇩🇪 | 1 |
-| 17. | John Watson 🇬🇧 | 1 |
-| 18. | Keke Rosberg 🇫🇮 | 1 |
-| 19. | Mario Andretti 🇺🇸 | 1 |
-| 20. | Michele Alboreto 🇮🇹 | 1 |
-| 21. | Niki Lauda 🇦🇹 | 1 |
-| 22. | Patrick Depailler 🇫🇷 | 1 |
-| 23. | René Arnoux 🇫🇷 | 1 |
-| 24. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 8 |
+| 2. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 4 |
+| 3. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 3 |
+| 4. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| 5. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 6. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 2 |
+| 7. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 2 |
+| 8. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 9. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 10. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 11. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
+| 12. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 13. | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 1 |
+| 14. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 15. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 16. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
+| 17. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 18. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 19. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 20. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 21. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 22. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 1 |
+| 23. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 24. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

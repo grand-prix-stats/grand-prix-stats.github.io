@@ -22,23 +22,10 @@ collectionId: fushida
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 0 | F | 0 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
-| 1975 | 8 | 1975 Dutch Grand Prix 🇳🇱 | 1975-06-22 | 0 | W | 0 |   | James Hunt 🇬🇧 | Hesketh 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 18.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 10.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 10.000 |  |  |  |  |  |  |  |  |
-| **Median** | 10.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 1.000 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 1.000 |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -22,22 +22,10 @@ collectionId: rigsby
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 2 | 1952 Indianapolis 500 🇺🇸 | 1952-05-30 | 26 | 12 | 200 | +16:05.10 | Troy Ruttman 🇺🇸 | Kuzma 🇺🇸 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **Maximum** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **75th Percentile** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **Median** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 26.000 | 12.000 | 200.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,35 +24,35 @@ collectionId: russia
 
 | Driver | Times |
 |--|--|
-| Daniel Ricciardo 🇦🇺 | 3 |
-| Daniil Kvyat 🇷🇺 | 3 |
-| Felipe Massa 🇧🇷 | 3 |
-| Fernando Alonso 🇪🇸 | 3 |
-| Jenson Button 🇬🇧 | 3 |
-| Kimi Räikkönen 🇫🇮 | 3 |
-| Lewis Hamilton 🇬🇧 | 3 |
-| Marcus Ericsson 🇸🇪 | 3 |
-| Nico Hülkenberg 🇩🇪 | 3 |
-| Nico Rosberg 🇩🇪 | 3 |
-| Romain Grosjean 🇫🇷 | 3 |
-| Sebastian Vettel 🇩🇪 | 3 |
-| Sergio Pérez 🇲🇽 | 3 |
-| Valtteri Bottas 🇫🇮 | 3 |
-| Carlos Sainz 🇪🇸 | 2 |
-| Esteban Gutiérrez 🇲🇽 | 2 |
-| Felipe Nasr 🇧🇷 | 2 |
-| Kevin Magnussen 🇩🇰 | 2 |
-| Max Verstappen 🇳🇱 | 2 |
-| Pastor Maldonado 🇻🇪 | 2 |
-| Adrian Sutil 🇩🇪 | 1 |
-| Jean-Éric Vergne 🇫🇷 | 1 |
-| Jolyon Palmer 🇬🇧 | 1 |
-| Kamui Kobayashi 🇯🇵 | 1 |
-| Max Chilton 🇬🇧 | 1 |
-| Pascal Wehrlein 🇩🇪 | 1 |
-| Rio Haryanto 🇮🇩 | 1 |
-| Roberto Merhi 🇪🇸 | 1 |
-| Will Stevens 🇬🇧 | 1 |
+| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 3 |
+| [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 3 |
+| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
+| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 |
+| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 3 |
+| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 3 |
+| [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 |
+| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 3 |
+| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 3 |
+| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 |
+| [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 2 |
+| [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 2 |
+| [Felipe Nasr 🇧🇷](/f1/drivers/nasr) | 2 |
+| [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 2 |
+| [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 2 |
+| [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 2 |
+| [Adrian Sutil 🇩🇪](/f1/drivers/sutil) | 1 |
+| [Jean-Éric Vergne 🇫🇷](/f1/drivers/vergne) | 1 |
+| [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 1 |
+| [Kamui Kobayashi 🇯🇵](/f1/drivers/kobayashi) | 1 |
+| [Max Chilton 🇬🇧](/f1/drivers/chilton) | 1 |
+| [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 1 |
+| [Rio Haryanto 🇮🇩](/f1/drivers/haryanto) | 1 |
+| [Roberto Merhi 🇪🇸](/f1/drivers/merhi) | 1 |
+| [Will Stevens 🇬🇧](/f1/drivers/stevens) | 1 |
 
 #### Statistic Summary
 

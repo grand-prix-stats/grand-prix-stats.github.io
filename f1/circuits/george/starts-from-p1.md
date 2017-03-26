@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 3 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 3 |
 
 #### Statistic Summary
 

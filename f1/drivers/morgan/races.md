@@ -22,22 +22,22 @@ collectionId: morgan
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 23 | 18 | 50 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 23 | 18 | 0.0 | 50 |   | Surtees 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 18 | 11 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **Mean μ (Average)** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **Maximum** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **Median** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **25th Percentile** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **Minimum** | 10.000 |  |  | 23.000 | 18.000 | 50.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **Mean μ (Average)** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **Maximum** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **75th Percentile** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **Median** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **25th Percentile** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **Minimum** | 10.000 |  |  | 23.000 | 18.000 |  | 50.000 |  |  |  | 18.000 | 11.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

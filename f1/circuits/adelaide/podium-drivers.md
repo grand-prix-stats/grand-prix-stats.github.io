@@ -147,24 +147,24 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 4 |
-| 2. | Gerhard Berger 🇦🇹 | 4 |
-| 3. | Ayrton Senna 🇧🇷 | 3 |
-| 4. | Nelson Piquet 🇧🇷 | 3 |
-| 5. | Nigel Mansell 🇬🇧 | 3 |
-| 6. | Damon Hill 🇬🇧 | 2 |
-| 7. | Martin Brundle 🇬🇧 | 2 |
-| 8. | Thierry Boutsen 🇧🇪 | 2 |
-| 9. | Alessandro Nannini 🇮🇹 | 1 |
-| 10. | Gianni Morbidelli 🇮🇹 | 1 |
-| 11. | Jacques Laffite 🇫🇷 | 1 |
-| 12. | Keke Rosberg 🇫🇮 | 1 |
-| 13. | Michael Schumacher 🇩🇪 | 1 |
-| 14. | Michele Alboreto 🇮🇹 | 1 |
-| 15. | Olivier Panis 🇫🇷 | 1 |
-| 16. | Philippe Streiff 🇫🇷 | 1 |
-| 17. | Riccardo Patrese 🇮🇹 | 1 |
-| 18. | Stefan Johansson 🇸🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 |
+| 2. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 4 |
+| 3. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| 4. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| 6. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
+| 7. | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 2 |
+| 8. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 2 |
+| 9. | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 1 |
+| 10. | [Gianni Morbidelli 🇮🇹](/f1/drivers/morbidelli) | 1 |
+| 11. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 12. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 13. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 14. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 15. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 1 |
+| 16. | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 1 |
+| 17. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 18. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
 
 #### Statistic Summary
 

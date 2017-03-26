@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alan Jones 🇦🇺 | 1 |
-| 2. | Carlos Reutemann 🇦🇷 | 1 |
-| 3. | Clay Regazzoni 🇨🇭 | 1 |
-| 4. | Gilles Villeneuve 🇨🇦 | 1 |
-| 5. | John Watson 🇬🇧 | 1 |
-| 6. | Mario Andretti 🇺🇸 | 1 |
-| 7. | Nelson Piquet 🇧🇷 | 1 |
-| 8. | Niki Lauda 🇦🇹 | 1 |
+| 1. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 3. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 4. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 5. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 6. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 7. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 8. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
 
 #### Statistic Summary
 

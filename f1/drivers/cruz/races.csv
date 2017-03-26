@@ -1,2 +1,3 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1953 Argentine Grand Prix 🇦🇷,1,13,20,Ferrari 🇮🇹,1953-01-18,R,,1953,Alberto Ascari 🇮🇹
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1953 Argentine Grand Prix 🇦🇷,8,13,1953-01-18,R,1953,John Barber 🇬🇧,Cooper 🇬🇧,1,16,20,,0.0
+1953 Argentine Grand Prix 🇦🇷,9,13,1953-01-18,R,1953,Alan Brown 🇬🇧,Cooper 🇬🇧,1,12,20,,0.0

@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Damon Hill 🇬🇧 | 42 |
-| 2. | Jacques Villeneuve 🇨🇦 | 24 |
-| 3. | Jean Alesi 🇫🇷 | 4 |
+| 1. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 42 |
+| 2. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 24 |
+| 3. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 4 |
 
 #### Statistic Summary
 

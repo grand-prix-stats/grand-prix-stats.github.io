@@ -1,26 +1,77 @@
 [
     {
+        "constructor": "Connaught 🇬🇧",
         "date": "1952-09-07",
         "final_position": "12",
         "grid": 19,
         "laps_completed": 74,
         "name": "1952 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 8,
         "season": 1952,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "teammate": "Stirling Moss 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 1,
+        "time": null
     },
     {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-09-07",
+        "final_position": "12",
+        "grid": 19,
+        "laps_completed": 74,
+        "name": "1952 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 8,
+        "season": 1952,
+        "teammate": "Kenneth McAlpine 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 2,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
         "date": "1952-07-19",
         "final_position": "4",
         "grid": 8,
         "laps_completed": 83,
         "name": "1952 British Grand Prix 🇬🇧",
+        "points": 3.0,
         "round": 5,
         "season": 1952,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "teammate": "Eric Thompson 🇬🇧",
+        "teammate_final_position": "5",
+        "teammate_grid": 9,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-07-19",
+        "final_position": "4",
+        "grid": 8,
+        "laps_completed": 83,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "points": 3.0,
+        "round": 5,
+        "season": 1952,
+        "teammate": "Ken Downing 🇬🇧",
+        "teammate_final_position": "9",
+        "teammate_grid": 5,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-07-19",
+        "final_position": "4",
+        "grid": 8,
+        "laps_completed": 83,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "points": 3.0,
+        "round": 5,
+        "season": 1952,
+        "teammate": "Kenneth McAlpine 🇬🇧",
+        "teammate_final_position": "16",
+        "teammate_grid": 17,
+        "time": null
     }
 ]

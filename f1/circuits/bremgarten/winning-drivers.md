@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 2 |
-| 2. | Alberto Ascari 🇮🇹 | 1 |
-| 3. | Nino Farina 🇮🇹 | 1 |
-| 4. | Piero Taruffi 🇮🇹 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
+| 2. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 3. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
+| 4. | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 1 |
 
 #### Statistic Summary
 

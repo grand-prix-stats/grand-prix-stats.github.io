@@ -24,32 +24,32 @@ collectionId: dallas
 
 | Driver | Times |
 |--|--|
-| Alain Prost 🇫🇷 | 1 |
-| Andrea de Cesaris 🇮🇹 | 1 |
-| Ayrton Senna 🇧🇷 | 1 |
-| Corrado Fabi 🇮🇹 | 1 |
-| Derek Warwick 🇬🇧 | 1 |
-| Eddie Cheever 🇺🇸 | 1 |
-| Elio de Angelis 🇮🇹 | 1 |
-| François Hesnault 🇫🇷 | 1 |
-| Huub Rothengatter 🇳🇱 | 1 |
-| Jacques Laffite 🇫🇷 | 1 |
-| Johnny Cecotto 🇻🇪 | 1 |
-| Jonathan Palmer 🇬🇧 | 1 |
-| Keke Rosberg 🇫🇮 | 1 |
-| Manfred Winkelhock 🇩🇪 | 1 |
-| Marc Surer 🇨🇭 | 1 |
-| Martin Brundle 🇬🇧 | 1 |
-| Michele Alboreto 🇮🇹 | 1 |
-| Nelson Piquet 🇧🇷 | 1 |
-| Nigel Mansell 🇬🇧 | 1 |
-| Niki Lauda 🇦🇹 | 1 |
-| Patrick Tambay 🇫🇷 | 1 |
-| Piercarlo Ghinzani 🇮🇹 | 1 |
-| René Arnoux 🇫🇷 | 1 |
-| Riccardo Patrese 🇮🇹 | 1 |
-| Stefan Bellof 🇩🇪 | 1 |
-| Thierry Boutsen 🇧🇪 | 1 |
+| [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 1 |
+| [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| [Corrado Fabi 🇮🇹](/f1/drivers/corrado_fabi) | 1 |
+| [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 1 |
+| [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
+| [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| [François Hesnault 🇫🇷](/f1/drivers/hesnault) | 1 |
+| [Huub Rothengatter 🇳🇱](/f1/drivers/rothengatter) | 1 |
+| [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| [Johnny Cecotto 🇻🇪](/f1/drivers/cecotto) | 1 |
+| [Jonathan Palmer 🇬🇧](/f1/drivers/palmer) | 1 |
+| [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| [Manfred Winkelhock 🇩🇪](/f1/drivers/manfred_winkelhock) | 1 |
+| [Marc Surer 🇨🇭](/f1/drivers/surer) | 1 |
+| [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 1 |
+| [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 1 |
+| [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 1 |
+| [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

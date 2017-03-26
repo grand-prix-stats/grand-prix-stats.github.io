@@ -24,7 +24,7 @@ collectionId: azerbaijan
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Baku City Circuit](/f1/circuits/BAK) | Baku | [Azerbaijan](/f1/countries/azerbaijan) | 2 | Nico Rosberg 🇩🇪 | 1 |
+| [Baku City Circuit](/f1/circuits/BAK) | Baku | [Azerbaijan](/f1/countries/azerbaijan) | 2 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 

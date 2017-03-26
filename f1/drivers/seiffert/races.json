@@ -1,26 +1,77 @@
 [
     {
+        "constructor": "Lotus-BRM 🇬🇧",
         "date": "1963-09-08",
         "final_position": "W",
         "grid": 0,
         "laps_completed": 0,
         "name": "1963 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 7,
         "season": 1963,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Jim Hall 🇺🇸",
+        "teammate_final_position": "8",
+        "teammate_grid": 17,
+        "time": null
     },
     {
+        "constructor": "Lotus-BRM 🇬🇧",
+        "date": "1963-09-08",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1963 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 7,
+        "season": 1963,
+        "teammate": "Jo Siffert 🇨🇭",
+        "teammate_final_position": "R",
+        "teammate_grid": 16,
+        "time": null
+    },
+    {
+        "constructor": "Lotus-BRM 🇬🇧",
+        "date": "1963-09-08",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1963 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 7,
+        "season": 1963,
+        "teammate": "Masten Gregory 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 12,
+        "time": null
+    },
+    {
+        "constructor": "Lotus-BRM 🇬🇧",
         "date": "1962-08-05",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1962 German Grand Prix 🇩🇪",
+        "points": 0.0,
         "round": 6,
         "season": 1962,
-        "time": null,
-        "winning_constructor": "BRM 🇬🇧",
-        "winning_driver": "Graham Hill 🇬🇧"
+        "teammate": "Heinz Schiller 🇨🇭",
+        "teammate_final_position": "R",
+        "teammate_grid": 20,
+        "time": null
+    },
+    {
+        "constructor": "Lotus-BRM 🇬🇧",
+        "date": "1962-08-05",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1962 German Grand Prix 🇩🇪",
+        "points": 0.0,
+        "round": 6,
+        "season": 1962,
+        "teammate": "Wolfgang Seidel 🇩🇪",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
     }
 ]

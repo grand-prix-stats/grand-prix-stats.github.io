@@ -22,26 +22,30 @@ collectionId: mitter
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 12 | R | 8 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1964 | 6 | 1964 German Grand Prix 🇩🇪 | 1964-08-02 | 19 | 9 | 14 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | W | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 15 | 4 | 15 | +8:11.5 | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1963 | 3 | 1963 Dutch Grand Prix 🇳🇱 | 1963-06-23 | 16 | R | 2 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 12 | R | 0.0 | 8 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
+| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 12 | R | 0.0 | 8 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 6 | R |
+| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 12 | R | 0.0 | 8 |   | Lotus-Climax 🇬🇧 | [Paul Hawkins 🇦🇺](/f1/drivers/hawkins) | 20 | R |
+| 1964 | 6 | 1964 German Grand Prix 🇩🇪 | 1964-08-02 | 19 | 9 | 0.0 | 14 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 17 | 8 |
+| 1964 | 6 | 1964 German Grand Prix 🇩🇪 | 1964-08-02 | 19 | 9 | 0.0 | 14 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 | R |
+| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | W | 0.0 | 0 |   | Porsche 🇩🇪 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 0 | F |
+| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | W | 0.0 | 0 |   | Porsche 🇩🇪 | [Carlo Abate 🇮🇹](/f1/drivers/abate) | 0 | W |
+| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 15 | 4 | 3.0 | 15 | +8:11.5 | Porsche 🇩🇪 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 17 | R |
+| 1963 | 3 | 1963 Dutch Grand Prix 🇳🇱 | 1963-06-23 | 16 | R | 0.0 | 2 |   | Porsche 🇩🇪 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 19 | 9 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 | 2 | 5 |  |  |  |
-| **Total Sum** | 29.000 |  |  | 62.000 | 13.000 | 39.000 |  |  |  |
-| **Mean μ (Average)** | 5.800 |  |  | 12.400 | 6.500 | 7.800 |  |  |  |
-| **Maximum** | 7.000 |  |  | 19.000 | 9.000 | 15.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 16.000 | 9.000 | 14.000 |  |  |  |
-| **Median** | 6.000 |  |  | 15.000 | 9.000 | 8.000 |  |  |  |
-| **25th Percentile** | 6.000 |  |  | 12.000 | 4.000 | 2.000 |  |  |  |
-| **Minimum** | 3.000 |  |  |  | 4.000 |  |  |  |  |
-| **Variance** | 2.160 |  |  | 43.440 | 6.250 | 36.960 |  |  |  |
-| **Standard Deviation σ** | 1.470 |  |  | 6.591 | 2.500 | 6.079 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 9 |  |  | 9 | 3 | 9 | 9 |  |  |  | 9 | 3 |
+| **Total Sum** | 56.000 |  |  | 105.000 | 22.000 | 3.000 | 69.000 |  |  |  | 82.000 | 18.000 |
+| **Mean μ (Average)** | 6.222 |  |  | 11.667 | 7.333 | 0.333 | 7.667 |  |  |  | 9.111 | 6.000 |
+| **Maximum** | 7.000 |  |  | 19.000 | 9.000 | 3.000 | 15.000 |  |  |  | 20.000 | 9.000 |
+| **75th Percentile** | 7.000 |  |  | 16.000 | 9.000 |  | 14.000 |  |  |  | 17.000 | 9.000 |
+| **Median** | 7.000 |  |  | 12.000 | 9.000 |  | 8.000 |  |  |  | 6.000 | 8.000 |
+| **25th Percentile** | 6.000 |  |  | 12.000 | 4.000 |  | 2.000 |  |  |  | 1.000 | 1.000 |
+| **Minimum** | 3.000 |  |  |  | 4.000 |  |  |  |  |  |  | 1.000 |
+| **Variance** | 1.506 |  |  | 45.556 | 5.556 | 0.889 | 31.556 |  |  |  | 70.321 | 12.667 |
+| **Standard Deviation σ** | 1.227 |  |  | 6.749 | 2.357 | 0.943 | 5.617 |  |  |  | 8.386 | 3.559 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Adams 🇺🇸",
         "date": "1950-05-30",
         "final_position": "R",
         "grid": 17,
         "laps_completed": 108,
         "name": "1950 Indianapolis 500 🇺🇸",
+        "points": 0.0,
         "round": 3,
         "season": 1950,
-        "time": null,
-        "winning_constructor": "Kurtis Kraft 🇺🇸",
-        "winning_driver": "Johnnie Parsons 🇺🇸"
+        "teammate": "Bayliss Levrett 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 17,
+        "time": null
     }
 ]

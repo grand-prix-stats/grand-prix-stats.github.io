@@ -131,20 +131,20 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 7 |
-| 2. | Alain Prost 🇫🇷 | 3 |
-| 3. | Ayrton Senna 🇧🇷 | 3 |
-| 4. | Damon Hill 🇬🇧 | 2 |
-| 5. | Nelson Piquet 🇧🇷 | 2 |
-| 6. | Nigel Mansell 🇬🇧 | 2 |
-| 7. | David Coulthard 🇬🇧 | 1 |
-| 8. | Didier Pironi 🇫🇷 | 1 |
-| 9. | Elio de Angelis 🇮🇹 | 1 |
-| 10. | Fernando Alonso 🇪🇸 | 1 |
-| 11. | Heinz-Harald Frentzen 🇩🇪 | 1 |
-| 12. | Patrick Tambay 🇫🇷 | 1 |
-| 13. | Ralf Schumacher 🇩🇪 | 1 |
-| 14. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 3. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| 4. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
+| 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 6. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 8. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
+| 9. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 10. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 11. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 1 |
+| 12. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 13. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 1 |
+| 14. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

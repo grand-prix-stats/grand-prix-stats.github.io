@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 2 |
-| 2. | Graham Hill 🇬🇧 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 |
+| 2. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
 
 #### Statistic Summary
 

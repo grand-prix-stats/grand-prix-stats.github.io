@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 2 |
-| 2. | Damon Hill 🇬🇧 | 1 |
-| 3. | David Coulthard 🇬🇧 | 1 |
-| 4. | Gerhard Berger 🇦🇹 | 1 |
-| 5. | Rubens Barrichello 🇧🇷 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 2. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 3. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 4. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 5. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
 
 #### Statistic Summary
 

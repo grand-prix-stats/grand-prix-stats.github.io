@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Bob Anderson 🇬🇧 | 1 |
-| 2. | Lorenzo Bandini 🇮🇹 | 1 |
-| 3. | Richie Ginther 🇺🇸 | 1 |
+| 1. | [Bob Anderson 🇬🇧](/f1/drivers/anderson) | 1 |
+| 2. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 1 |
+| 3. | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 1 |
 
 #### Statistic Summary
 

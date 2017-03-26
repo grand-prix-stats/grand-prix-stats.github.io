@@ -147,24 +147,24 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | David Coulthard 🇬🇧 | 2 |
-| 2. | Juan Fangio 🇦🇷 | 2 |
-| 3. | Nino Farina 🇮🇹 | 2 |
-| 4. | Stirling Moss 🇬🇧 | 2 |
-| 5. | Alan Jones 🇦🇺 | 1 |
-| 6. | Alberto Ascari 🇮🇹 | 1 |
-| 7. | Carlos Reutemann 🇦🇷 | 1 |
-| 8. | Clay Regazzoni 🇨🇭 | 1 |
-| 9. | Damon Hill 🇬🇧 | 1 |
-| 10. | Jacques Laffite 🇫🇷 | 1 |
-| 11. | Jacques Villeneuve 🇨🇦 | 1 |
-| 12. | James Hunt 🇬🇧 | 1 |
-| 13. | Jean-Pierre Jarier 🇫🇷 | 1 |
-| 14. | José Froilán González 🇦🇷 | 1 |
-| 15. | Mario Andretti 🇺🇸 | 1 |
-| 16. | Maurice Trintignant 🇫🇷 | 1 |
-| 17. | Nelson Piquet 🇧🇷 | 1 |
-| 18. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 2. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
+| 3. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 |
+| 4. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 5. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 6. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 7. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 8. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 9. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 10. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 11. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 12. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 13. | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 1 |
+| 14. | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| 15. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 16. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 1 |
+| 17. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 18. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

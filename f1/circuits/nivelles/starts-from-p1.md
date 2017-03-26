@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Clay Regazzoni 🇨🇭 | 1 |
-| 2. | Emerson Fittipaldi 🇧🇷 | 1 |
+| 1. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 2. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
 
 #### Statistic Summary
 

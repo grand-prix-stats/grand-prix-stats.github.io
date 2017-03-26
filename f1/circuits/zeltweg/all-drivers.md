@@ -24,26 +24,26 @@ collectionId: zeltweg
 
 | Driver | Times |
 |--|--|
-| Bob Anderson 🇬🇧 | 1 |
-| Bruce McLaren 🇳🇿 | 1 |
-| Chris Amon 🇳🇿 | 1 |
-| Dan Gurney 🇺🇸 | 1 |
-| Giancarlo Baghetti 🇮🇹 | 1 |
-| Graham Hill 🇬🇧 | 1 |
-| Innes Ireland 🇬🇧 | 1 |
-| Jack Brabham 🇦🇺 | 1 |
-| Jim Clark 🇬🇧 | 1 |
-| Jo Bonnier 🇸🇪 | 1 |
-| Jo Siffert 🇨🇭 | 1 |
-| Jochen Rindt 🇦🇹 | 1 |
-| John Surtees 🇬🇧 | 1 |
-| Lorenzo Bandini 🇮🇹 | 1 |
-| Mike Hailwood 🇬🇧 | 1 |
-| Mike Spence 🇬🇧 | 1 |
-| Phil Hill 🇺🇸 | 1 |
-| Richie Ginther 🇺🇸 | 1 |
-| Tony Maggs 🇿🇦 | 1 |
-| Trevor Taylor 🇬🇧 | 1 |
+| [Bob Anderson 🇬🇧](/f1/drivers/anderson) | 1 |
+| [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| [Giancarlo Baghetti 🇮🇹](/f1/drivers/baghetti) | 1 |
+| [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 1 |
+| [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 1 |
+| [Mike Hailwood 🇬🇧](/f1/drivers/hailwood) | 1 |
+| [Mike Spence 🇬🇧](/f1/drivers/spence) | 1 |
+| [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 1 |
+| [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 1 |
+| [Trevor Taylor 🇬🇧](/f1/drivers/trevor_taylor) | 1 |
 
 #### Statistic Summary
 

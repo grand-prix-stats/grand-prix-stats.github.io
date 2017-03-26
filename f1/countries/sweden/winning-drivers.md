@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Jody Scheckter 🇿🇦 | 2 |
-| 2. | Niki Lauda 🇦🇹 | 2 |
-| 3. | Denny Hulme 🇳🇿 | 1 |
-| 4. | Jacques Laffite 🇫🇷 | 1 |
+| 1. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
+| 2. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 3. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 4. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
 
 #### Statistic Summary
 

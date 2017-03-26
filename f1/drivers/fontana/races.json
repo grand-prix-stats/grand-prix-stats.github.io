@@ -1,50 +1,62 @@
 [
     {
+        "constructor": "Sauber 🇨🇭",
         "date": "1997-10-26",
         "final_position": "14",
         "grid": 18,
         "laps_completed": 68,
         "name": "1997 European Grand Prix 🇪🇸",
+        "points": 0.0,
         "round": 17,
         "season": 1997,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Mika Häkkinen 🇫🇮"
+        "teammate": "Johnny Herbert 🇬🇧",
+        "teammate_final_position": "8",
+        "teammate_grid": 14,
+        "time": null
     },
     {
+        "constructor": "Sauber 🇨🇭",
         "date": "1997-07-27",
         "final_position": "9",
         "grid": 18,
         "laps_completed": 44,
         "name": "1997 German Grand Prix 🇩🇪",
+        "points": 0.0,
         "round": 10,
         "season": 1997,
-        "time": null,
-        "winning_constructor": "Benetton 🇮🇹",
-        "winning_driver": "Gerhard Berger 🇦🇹"
+        "teammate": "Johnny Herbert 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 14,
+        "time": null
     },
     {
+        "constructor": "Sauber 🇨🇭",
         "date": "1997-07-13",
         "final_position": "9",
         "grid": 14,
         "laps_completed": 58,
         "name": "1997 British Grand Prix 🇬🇧",
+        "points": 0.0,
         "round": 9,
         "season": 1997,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Jacques Villeneuve 🇨🇦"
+        "teammate": "Johnny Herbert 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
+        "time": null
     },
     {
+        "constructor": "Sauber 🇨🇭",
         "date": "1997-06-29",
         "final_position": "R",
         "grid": 20,
         "laps_completed": 40,
         "name": "1997 French Grand Prix 🇫🇷",
+        "points": 0.0,
         "round": 8,
         "season": 1997,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "Johnny Herbert 🇬🇧",
+        "teammate_final_position": "8",
+        "teammate_grid": 14,
+        "time": null
     }
 ]

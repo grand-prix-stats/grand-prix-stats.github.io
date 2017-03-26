@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 4 |
-| 2. | Nico Rosberg 🇩🇪 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 

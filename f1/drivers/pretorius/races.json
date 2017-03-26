@@ -1,50 +1,62 @@
 [
     {
+        "constructor": "Iso Marlboro 🇬🇧",
         "date": "1973-03-03",
         "final_position": "R",
         "grid": 24,
         "laps_completed": 35,
         "name": "1973 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 3,
         "season": 1973,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jackie Stewart 🇬🇧"
+        "teammate": "Howden Ganley 🇳🇿",
+        "teammate_final_position": "10",
+        "teammate_grid": 19,
+        "time": null
     },
     {
+        "constructor": "Brabham 🇬🇧",
         "date": "1971-03-06",
         "final_position": "R",
         "grid": 20,
         "laps_completed": 22,
         "name": "1971 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 1,
         "season": 1971,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Mario Andretti 🇺🇸"
+        "teammate": "Graham Hill 🇬🇧",
+        "teammate_final_position": "9",
+        "teammate_grid": 19,
+        "time": null
     },
     {
-        "date": "1968-01-01",
-        "final_position": "N",
-        "grid": 23,
-        "laps_completed": 71,
-        "name": "1968 South African Grand Prix 🇿🇦",
+        "constructor": "Brabham 🇬🇧",
+        "date": "1971-03-06",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 22,
+        "name": "1971 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 1,
-        "season": 1968,
-        "time": null,
-        "winning_constructor": "Lotus-Ford 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "season": 1971,
+        "teammate": "Dave Charlton 🇿🇦",
+        "teammate_final_position": "R",
+        "teammate_grid": 16,
+        "time": null
     },
     {
+        "constructor": "LDS-Alfa Romeo 🇿🇦",
         "date": "1965-01-01",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1965 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 1,
         "season": 1965,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Sam Tingle 🇿🇼",
+        "teammate_final_position": "13",
+        "teammate_grid": 20,
+        "time": null
     }
 ]

@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "Cooper-Climax 🇬🇧",
         "date": "1962-10-07",
         "final_position": "R",
         "grid": 12,
         "laps_completed": 31,
         "name": "1962 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 8,
         "season": 1962,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Bruce McLaren 🇳🇿",
+        "teammate_final_position": "3",
+        "teammate_grid": 6,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Climax 🇬🇧",
+        "date": "1962-10-07",
+        "final_position": "R",
+        "grid": 12,
+        "laps_completed": 31,
+        "name": "1962 United States Grand Prix 🇺🇸",
+        "points": 0.0,
+        "round": 8,
+        "season": 1962,
+        "teammate": "Tony Maggs 🇿🇦",
+        "teammate_final_position": "7",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Climax 🇬🇧",
+        "date": "1962-10-07",
+        "final_position": "R",
+        "grid": 12,
+        "laps_completed": 31,
+        "name": "1962 United States Grand Prix 🇺🇸",
+        "points": 0.0,
+        "round": 8,
+        "season": 1962,
+        "teammate": "Hap Sharp 🇺🇸",
+        "teammate_final_position": "11",
+        "teammate_grid": 15,
+        "time": null
     }
 ]

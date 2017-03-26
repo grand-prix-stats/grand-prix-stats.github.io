@@ -167,29 +167,29 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 6 |
-| 2. | Fernando Alonso 🇪🇸 | 5 |
-| 3. | Kimi Räikkönen 🇫🇮 | 5 |
-| 4. | Michael Schumacher 🇩🇪 | 5 |
-| 5. | Rubens Barrichello 🇧🇷 | 5 |
-| 6. | Sebastian Vettel 🇩🇪 | 5 |
-| 7. | David Coulthard 🇬🇧 | 4 |
-| 8. | Jenson Button 🇬🇧 | 4 |
-| 9. | Nico Rosberg 🇩🇪 | 4 |
-| 10. | Ralf Schumacher 🇩🇪 | 3 |
-| 11. | Eddie Irvine 🇬🇧 | 2 |
-| 12. | Heinz-Harald Frentzen 🇩🇪 | 2 |
-| 13. | Juan Pablo Montoya 🇨🇴 | 2 |
-| 14. | Mika Häkkinen 🇫🇮 | 2 |
-| 15. | Damon Hill 🇬🇧 | 1 |
-| 16. | Felipe Massa 🇧🇷 | 1 |
-| 17. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 18. | Jacques Villeneuve 🇨🇦 | 1 |
-| 19. | Jarno Trulli 🇮🇹 | 1 |
-| 20. | Kevin Magnussen 🇩🇰 | 1 |
-| 21. | Nick Heidfeld 🇩🇪 | 1 |
-| 22. | Robert Kubica 🇵🇱 | 1 |
-| 23. | Vitaly Petrov 🇷🇺 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 5 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 |
+| 4. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
+| 5. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 5 |
+| 6. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
+| 8. | [Jenson Button 🇬🇧](/f1/drivers/button) | 4 |
+| 9. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 4 |
+| 10. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 3 |
+| 11. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 2 |
+| 12. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 2 |
+| 13. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 14. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 15. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 16. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 17. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 18. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 19. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| 20. | [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 1 |
+| 21. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 1 |
+| 22. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
+| 23. | [Vitaly Petrov 🇷🇺](/f1/drivers/petrov) | 1 |
 
 #### Statistic Summary
 

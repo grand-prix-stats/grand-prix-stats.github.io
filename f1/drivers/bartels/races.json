@@ -1,50 +1,62 @@
 [
     {
+        "constructor": "Team Lotus 🇬🇧",
         "date": "1991-09-29",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1991 Spanish Grand Prix 🇪🇸",
+        "points": 0.0,
         "round": 14,
         "season": 1991,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Nigel Mansell 🇬🇧"
+        "teammate": "Mika Häkkinen 🇫🇮",
+        "teammate_final_position": "R",
+        "teammate_grid": 21,
+        "time": null
     },
     {
+        "constructor": "Team Lotus 🇬🇧",
         "date": "1991-09-08",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1991 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 12,
         "season": 1991,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Nigel Mansell 🇬🇧"
+        "teammate": "Mika Häkkinen 🇫🇮",
+        "teammate_final_position": "14",
+        "teammate_grid": 25,
+        "time": null
     },
     {
+        "constructor": "Team Lotus 🇬🇧",
         "date": "1991-08-11",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1991 Hungarian Grand Prix 🇭🇺",
+        "points": 0.0,
         "round": 10,
         "season": 1991,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Ayrton Senna 🇧🇷"
+        "teammate": "Mika Häkkinen 🇫🇮",
+        "teammate_final_position": "14",
+        "teammate_grid": 26,
+        "time": null
     },
     {
+        "constructor": "Team Lotus 🇬🇧",
         "date": "1991-07-28",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1991 German Grand Prix 🇩🇪",
+        "points": 0.0,
         "round": 9,
         "season": 1991,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Nigel Mansell 🇬🇧"
+        "teammate": "Mika Häkkinen 🇫🇮",
+        "teammate_final_position": "R",
+        "teammate_grid": 23,
+        "time": null
     }
 ]

@@ -22,43 +22,32 @@ collectionId: foitek
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1990 | 10 | 1990 Hungarian Grand Prix 🇭🇺 | 1990-08-12 | 0 | F | 0 |   | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
-| 1990 | 9 | 1990 German Grand Prix 🇩🇪 | 1990-07-29 | 26 | R | 19 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1990 | 8 | 1990 British Grand Prix 🇬🇧 | 1990-07-15 | 0 | F | 0 |   | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
-| 1990 | 7 | 1990 French Grand Prix 🇫🇷 | 1990-07-08 | 0 | F | 0 |   | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
-| 1990 | 6 | 1990 Mexican Grand Prix 🇲🇽 | 1990-06-24 | 23 | 15 | 67 |   | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
-| 1990 | 5 | 1990 Canadian Grand Prix 🇨🇦 | 1990-06-10 | 21 | R | 53 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1990 | 4 | 1990 Monaco Grand Prix 🇲🇨 | 1990-05-27 | 20 | 7 | 72 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1990 | 3 | 1990 San Marino Grand Prix 🇮🇹 | 1990-05-13 | 23 | R | 35 |   | Riccardo Patrese 🇮🇹 | Williams 🇬🇧 |
-| 1990 | 2 | 1990 Brazilian Grand Prix 🇧🇷 | 1990-03-25 | 22 | R | 14 |   | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
-| 1990 | 1 | 1990 United States Grand Prix 🇺🇸 | 1990-03-11 | 23 | R | 39 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 10 | 1989 Hungarian Grand Prix 🇭🇺 | 1989-08-13 | 0 | F | 0 |   | Nigel Mansell 🇬🇧 | Ferrari 🇮🇹 |
-| 1989 | 9 | 1989 German Grand Prix 🇩🇪 | 1989-07-30 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 8 | 1989 British Grand Prix 🇬🇧 | 1989-07-16 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1989 | 7 | 1989 French Grand Prix 🇫🇷 | 1989-07-09 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1989 | 6 | 1989 Canadian Grand Prix 🇨🇦 | 1989-06-18 | 0 | F | 0 |   | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
-| 1989 | 5 | 1989 United States Grand Prix 🇺🇸 | 1989-06-04 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1989 | 4 | 1989 Mexican Grand Prix 🇲🇽 | 1989-05-28 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 3 | 1989 Monaco Grand Prix 🇲🇨 | 1989-05-07 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 2 | 1989 San Marino Grand Prix 🇮🇹 | 1989-04-23 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 1 | 1989 Brazilian Grand Prix 🇧🇷 | 1989-03-26 | 0 | F | 0 |   | Nigel Mansell 🇬🇧 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1990 | 10 | 1990 Hungarian Grand Prix 🇭🇺 | 1990-08-12 | 0 | F | 0.0 | 0 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 0 | F |
+| 1990 | 9 | 1990 German Grand Prix 🇩🇪 | 1990-07-29 | 26 | R | 0.0 | 19 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 25 | N |
+| 1990 | 8 | 1990 British Grand Prix 🇬🇧 | 1990-07-15 | 0 | F | 0.0 | 0 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 0 | F |
+| 1990 | 7 | 1990 French Grand Prix 🇫🇷 | 1990-07-08 | 0 | F | 0.0 | 0 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 0 | F |
+| 1990 | 6 | 1990 Mexican Grand Prix 🇲🇽 | 1990-06-24 | 23 | 15 | 0.0 | 67 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 26 | R |
+| 1990 | 5 | 1990 Canadian Grand Prix 🇨🇦 | 1990-06-10 | 21 | R | 0.0 | 53 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 22 | R |
+| 1990 | 4 | 1990 Monaco Grand Prix 🇲🇨 | 1990-05-27 | 20 | 7 | 0.0 | 72 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 26 | R |
+| 1990 | 3 | 1990 San Marino Grand Prix 🇮🇹 | 1990-05-13 | 23 | R | 0.0 | 35 |   | Onyx 🇬🇧 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 25 | 12 |
+| 1990 | 2 | 1990 Brazilian Grand Prix 🇧🇷 | 1990-03-25 | 22 | R | 0.0 | 14 |   | Brabham 🇬🇧 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 12 | R |
+| 1990 | 1 | 1990 United States Grand Prix 🇺🇸 | 1990-03-11 | 23 | R | 0.0 | 39 |   | Brabham 🇬🇧 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 10 | 5 |
+| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 0 | F | 0.0 | 0 |   | Rial 🇩🇪 | [Pierre-Henri Raphanel 🇫🇷](/f1/drivers/raphanel) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 22 |  |  | 22 | 2 | 22 |  |  |  |
-| **Total Sum** | 135.000 |  |  | 158.000 | 22.000 | 299.000 |  |  |  |
-| **Mean μ (Average)** | 6.136 |  |  | 7.182 | 11.000 | 13.591 |  |  |  |
-| **Maximum** | 14.000 |  |  | 26.000 | 15.000 | 72.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 21.000 | 15.000 | 19.000 |  |  |  |
-| **Median** | 6.000 |  |  |  | 15.000 |  |  |  |  |
-| **25th Percentile** | 3.000 |  |  |  | 7.000 |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  | 7.000 |  |  |  |  |
-| **Variance** | 11.754 |  |  | 111.512 | 16.000 | 532.787 |  |  |  |
-| **Standard Deviation σ** | 3.428 |  |  | 10.560 | 4.000 | 23.082 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 11 |  |  | 11 | 2 | 11 | 11 |  |  |  | 11 | 2 |
+| **Total Sum** | 69.000 |  |  | 158.000 | 22.000 |  | 299.000 |  |  |  | 146.000 | 17.000 |
+| **Mean μ (Average)** | 6.273 |  |  | 14.364 | 11.000 |  | 27.182 |  |  |  | 13.273 | 8.500 |
+| **Maximum** | 14.000 |  |  | 26.000 | 15.000 |  | 72.000 |  |  |  | 26.000 | 12.000 |
+| **75th Percentile** | 9.000 |  |  | 23.000 | 15.000 |  | 53.000 |  |  |  | 25.000 | 12.000 |
+| **Median** | 6.000 |  |  | 21.000 | 15.000 |  | 19.000 |  |  |  | 12.000 | 12.000 |
+| **25th Percentile** | 3.000 |  |  |  | 7.000 |  |  |  |  |  |  | 5.000 |
+| **Minimum** | 1.000 |  |  |  | 7.000 |  |  |  |  |  |  | 5.000 |
+| **Variance** | 13.471 |  |  | 119.868 | 16.000 |  | 696.149 |  |  |  | 126.562 | 12.250 |
+| **Standard Deviation σ** | 3.670 |  |  | 10.948 | 4.000 |  | 26.385 |  |  |  | 11.250 | 3.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

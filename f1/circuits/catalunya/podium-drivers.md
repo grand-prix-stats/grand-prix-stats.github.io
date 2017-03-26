@@ -191,35 +191,35 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 12 |
-| 2. | Fernando Alonso 🇪🇸 | 7 |
-| 3. | Kimi Räikkönen 🇫🇮 | 5 |
-| 4. | Lewis Hamilton 🇬🇧 | 5 |
-| 5. | David Coulthard 🇬🇧 | 4 |
-| 6. | Rubens Barrichello 🇧🇷 | 4 |
-| 7. | Sebastian Vettel 🇩🇪 | 4 |
-| 8. | Felipe Massa 🇧🇷 | 3 |
-| 9. | Jacques Villeneuve 🇨🇦 | 3 |
-| 10. | Jean Alesi 🇫🇷 | 3 |
-| 11. | Mika Häkkinen 🇫🇮 | 3 |
-| 12. | Alain Prost 🇫🇷 | 2 |
-| 13. | Jarno Trulli 🇮🇹 | 2 |
-| 14. | Jenson Button 🇬🇧 | 2 |
-| 15. | Juan Pablo Montoya 🇨🇴 | 2 |
-| 16. | Mark Webber 🇦🇺 | 2 |
-| 17. | Nico Rosberg 🇩🇪 | 2 |
-| 18. | Nigel Mansell 🇬🇧 | 2 |
-| 19. | Ayrton Senna 🇧🇷 | 1 |
-| 20. | Damon Hill 🇬🇧 | 1 |
-| 21. | Daniel Ricciardo 🇦🇺 | 1 |
-| 22. | Gerhard Berger 🇦🇹 | 1 |
-| 23. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 24. | Johnny Herbert 🇬🇧 | 1 |
-| 25. | Mark Blundell 🇬🇧 | 1 |
-| 26. | Max Verstappen 🇳🇱 | 1 |
-| 27. | Olivier Panis 🇫🇷 | 1 |
-| 28. | Pastor Maldonado 🇻🇪 | 1 |
-| 29. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 12 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 7 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
+| 5. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
+| 6. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 4 |
+| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 3 |
+| 10. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 3 |
+| 11. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 3 |
+| 12. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 13. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 14. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
+| 15. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 16. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 17. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 18. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 19. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 20. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 21. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 22. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 23. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 24. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 1 |
+| 25. | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 1 |
+| 26. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
+| 27. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 1 |
+| 28. | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 1 |
+| 29. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

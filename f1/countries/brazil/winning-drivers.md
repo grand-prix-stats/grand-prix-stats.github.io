@@ -171,30 +171,30 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 6 |
-| 2. | Michael Schumacher 🇩🇪 | 4 |
-| 3. | Carlos Reutemann 🇦🇷 | 3 |
-| 4. | Ayrton Senna 🇧🇷 | 2 |
-| 5. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 6. | Felipe Massa 🇧🇷 | 2 |
-| 7. | Juan Pablo Montoya 🇨🇴 | 2 |
-| 8. | Mark Webber 🇦🇺 | 2 |
-| 9. | Mika Häkkinen 🇫🇮 | 2 |
-| 10. | Nelson Piquet 🇧🇷 | 2 |
-| 11. | Nico Rosberg 🇩🇪 | 2 |
-| 12. | Nigel Mansell 🇬🇧 | 2 |
-| 13. | Sebastian Vettel 🇩🇪 | 2 |
-| 14. | Carlos Pace 🇧🇷 | 1 |
-| 15. | Damon Hill 🇬🇧 | 1 |
-| 16. | David Coulthard 🇬🇧 | 1 |
-| 17. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 18. | Jacques Laffite 🇫🇷 | 1 |
-| 19. | Jacques Villeneuve 🇨🇦 | 1 |
-| 20. | Jenson Button 🇬🇧 | 1 |
-| 21. | Kimi Räikkönen 🇫🇮 | 1 |
-| 22. | Lewis Hamilton 🇬🇧 | 1 |
-| 23. | Niki Lauda 🇦🇹 | 1 |
-| 24. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 6 |
+| 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| 3. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 3 |
+| 4. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 5. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 6. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
+| 7. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 9. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 10. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 11. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 12. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 13. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 14. | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 1 |
+| 15. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 16. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 17. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 18. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 19. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 20. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 21. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 22. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 23. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 24. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

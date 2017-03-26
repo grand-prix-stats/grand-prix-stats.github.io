@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 2 |
-| 2. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 3. | Jochen Mass 🇩🇪 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 2. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 3. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
 
 #### Statistic Summary
 

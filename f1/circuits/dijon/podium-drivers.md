@@ -131,20 +131,20 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Niki Lauda 🇦🇹 | 3 |
-| 2. | Alain Prost 🇫🇷 | 2 |
-| 3. | John Watson 🇬🇧 | 2 |
-| 4. | Clay Regazzoni 🇨🇭 | 1 |
-| 5. | Gilles Villeneuve 🇨🇦 | 1 |
-| 6. | James Hunt 🇬🇧 | 1 |
-| 7. | Jean-Pierre Jabouille 🇫🇷 | 1 |
-| 8. | Keke Rosberg 🇫🇮 | 1 |
-| 9. | Mario Andretti 🇺🇸 | 1 |
-| 10. | Nelson Piquet 🇧🇷 | 1 |
-| 11. | Nigel Mansell 🇬🇧 | 1 |
-| 12. | Patrick Tambay 🇫🇷 | 1 |
-| 13. | René Arnoux 🇫🇷 | 1 |
-| 14. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 3. | [John Watson 🇬🇧](/f1/drivers/watson) | 2 |
+| 4. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 5. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 6. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 7. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 1 |
+| 8. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 9. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 10. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 11. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 12. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 13. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 14. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

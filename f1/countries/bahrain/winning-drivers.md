@@ -103,13 +103,13 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Fernando Alonso 🇪🇸 | 3 |
-| 2. | Felipe Massa 🇧🇷 | 2 |
-| 3. | Lewis Hamilton 🇬🇧 | 2 |
-| 4. | Sebastian Vettel 🇩🇪 | 2 |
-| 5. | Jenson Button 🇬🇧 | 1 |
-| 6. | Michael Schumacher 🇩🇪 | 1 |
-| 7. | Nico Rosberg 🇩🇪 | 1 |
+| 1. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 5. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 6. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 7. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 

@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Shadow 🇬🇧",
         "date": "1974-06-09",
         "final_position": "R",
         "grid": 23,
         "laps_completed": 2,
         "name": "1974 Swedish Grand Prix 🇸🇪",
+        "points": 0.0,
         "round": 7,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jody Scheckter 🇿🇦"
+        "teammate": "Jean-Pierre Jarier 🇫🇷",
+        "teammate_final_position": "5",
+        "teammate_grid": 8,
+        "time": null
     }
 ]

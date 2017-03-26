@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 1 |
-| 2. | Jean-Pierre Jabouille 🇫🇷 | 1 |
-| 3. | Mario Andretti 🇺🇸 | 1 |
-| 4. | Niki Lauda 🇦🇹 | 1 |
-| 5. | Patrick Tambay 🇫🇷 | 1 |
-| 6. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 2. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 1 |
+| 3. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 4. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 5. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 6. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

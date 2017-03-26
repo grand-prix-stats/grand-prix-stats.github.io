@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "Connaught 🇬🇧",
         "date": "1952-07-19",
         "final_position": "5",
         "grid": 9,
         "laps_completed": 82,
         "name": "1952 British Grand Prix 🇬🇧",
+        "points": 2.0,
         "round": 5,
         "season": 1952,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "teammate": "Dennis Poore 🇬🇧",
+        "teammate_final_position": "4",
+        "teammate_grid": 8,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-07-19",
+        "final_position": "5",
+        "grid": 9,
+        "laps_completed": 82,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "points": 2.0,
+        "round": 5,
+        "season": 1952,
+        "teammate": "Ken Downing 🇬🇧",
+        "teammate_final_position": "9",
+        "teammate_grid": 5,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-07-19",
+        "final_position": "5",
+        "grid": 9,
+        "laps_completed": 82,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "points": 2.0,
+        "round": 5,
+        "season": 1952,
+        "teammate": "Kenneth McAlpine 🇬🇧",
+        "teammate_final_position": "16",
+        "teammate_grid": 17,
+        "time": null
     }
 ]

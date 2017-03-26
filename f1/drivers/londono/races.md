@@ -22,22 +22,22 @@ collectionId: londono
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29 | 0 | W | 0 |   | Carlos Reutemann 🇦🇷 | Williams 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29 | 0 | W | 0.0 | 0 |   | Ensign 🇬🇧 | [Marc Surer 🇨🇭](/f1/drivers/surer) | 18 | 4 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Median** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

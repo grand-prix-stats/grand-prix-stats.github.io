@@ -22,22 +22,27 @@ collectionId: brudes
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 5 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 0.0 | 5 |   | Veritas 🇩🇪 | [Fritz Riess 🇩🇪](/f1/drivers/riess) | 12 | 7 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 0.0 | 5 |   | Veritas 🇩🇪 | [Toni Ulmen 🇩🇪](/f1/drivers/ulmen) | 15 | 8 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 0.0 | 5 |   | Veritas 🇩🇪 | [Hans Klenk 🇩🇪](/f1/drivers/klenk) | 8 | 11 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 0.0 | 5 |   | Veritas 🇩🇪 | [Paul Pietsch 🇩🇪](/f1/drivers/pietsch) | 7 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 0.0 | 5 |   | Veritas 🇩🇪 | [Theo Helfrich 🇩🇪](/f1/drivers/helfrich) | 18 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 19 | R | 0.0 | 5 |   | Veritas 🇩🇪 | [Josef Peters 🇩🇪](/f1/drivers/peters) | 20 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **Mean μ (Average)** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **Maximum** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **75th Percentile** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **Median** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **25th Percentile** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **Minimum** | 6.000 |  |  | 19.000 |  | 5.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 |  | 6 | 6 |  |  |  | 6 | 3 |
+| **Total Sum** | 36.000 |  |  | 114.000 |  |  | 30.000 |  |  |  | 80.000 | 26.000 |
+| **Mean μ (Average)** | 6.000 |  |  | 19.000 |  |  | 5.000 |  |  |  | 13.333 | 8.667 |
+| **Maximum** | 6.000 |  |  | 19.000 |  |  | 5.000 |  |  |  | 20.000 | 11.000 |
+| **75th Percentile** | 6.000 |  |  | 19.000 |  |  | 5.000 |  |  |  | 18.000 | 11.000 |
+| **Median** | 6.000 |  |  | 19.000 |  |  | 5.000 |  |  |  | 15.000 | 8.000 |
+| **25th Percentile** | 6.000 |  |  | 19.000 |  |  | 5.000 |  |  |  | 8.000 | 7.000 |
+| **Minimum** | 6.000 |  |  | 19.000 |  |  | 5.000 |  |  |  | 7.000 | 7.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 23.222 | 2.889 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.819 | 1.700 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

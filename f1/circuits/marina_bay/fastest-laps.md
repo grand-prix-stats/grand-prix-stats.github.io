@@ -103,13 +103,13 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Daniel Ricciardo 🇦🇺 | 2 |
-| 2. | Fernando Alonso 🇪🇸 | 2 |
-| 3. | Jenson Button 🇬🇧 | 1 |
-| 4. | Kimi Räikkönen 🇫🇮 | 1 |
-| 5. | Lewis Hamilton 🇬🇧 | 1 |
-| 6. | Nico Hülkenberg 🇩🇪 | 1 |
-| 7. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 3. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 5. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 6. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 1 |
+| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

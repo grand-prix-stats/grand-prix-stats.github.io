@@ -22,23 +22,25 @@ collectionId: crook
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 25 | R | 0 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 25 | 21 | 75 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 25 | R | 0.0 | 0 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 11 | 8 |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 25 | R | 0.0 | 0 |   | Cooper 🇬🇧 | [Peter Whitehead 🇬🇧](/f1/drivers/whitehead) | 14 | 9 |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 25 | R | 0.0 | 0 |   | Cooper 🇬🇧 | [Jimmy Stewart 🇬🇧](/f1/drivers/jimmy_stewart) | 15 | R |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 25 | R | 0.0 | 0 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 11.000 |  |  | 50.000 | 21.000 | 75.000 |  |  |  |
-| **Mean μ (Average)** | 5.500 |  |  | 25.000 | 21.000 | 37.500 |  |  |  |
-| **Maximum** | 6.000 |  |  | 25.000 | 21.000 | 75.000 |  |  |  |
-| **75th Percentile** | 6.000 |  |  | 25.000 | 21.000 | 75.000 |  |  |  |
-| **Median** | 6.000 |  |  | 25.000 | 21.000 | 75.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 25.000 | 21.000 |  |  |  |  |
-| **Minimum** | 5.000 |  |  | 25.000 | 21.000 |  |  |  |  |
-| **Variance** | 0.250 |  |  |  |  | 1406.250 |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  |  |  | 37.500 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 24.000 |  |  | 100.000 |  |  |  |  |  |  | 61.000 | 17.000 |
+| **Mean μ (Average)** | 6.000 |  |  | 25.000 |  |  |  |  |  |  | 15.250 | 8.500 |
+| **Maximum** | 6.000 |  |  | 25.000 |  |  |  |  |  |  | 21.000 | 9.000 |
+| **75th Percentile** | 6.000 |  |  | 25.000 |  |  |  |  |  |  | 21.000 | 9.000 |
+| **Median** | 6.000 |  |  | 25.000 |  |  |  |  |  |  | 15.000 | 9.000 |
+| **25th Percentile** | 6.000 |  |  | 25.000 |  |  |  |  |  |  | 14.000 | 8.000 |
+| **Minimum** | 6.000 |  |  | 25.000 |  |  |  |  |  |  | 11.000 | 8.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 13.188 | 0.250 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.631 | 0.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

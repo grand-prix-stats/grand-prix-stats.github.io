@@ -24,9 +24,9 @@ collectionId: austria
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [A1-Ring](/f1/circuits/osterreichring) | Spielburg | [Austria](/f1/countries/austria) | 25 | Alain Prost 🇫🇷 | 3 |
-| [Red Bull Ring](/f1/circuits/red_bull_ring) | Spielburg | [Austria](/f1/countries/austria) | 4 | Nico Rosberg 🇩🇪 | 2 |
-| [Zeltweg](/f1/circuits/zeltweg) | Styria | [Austria](/f1/countries/austria) | 1 | Lorenzo Bandini 🇮🇹 | 1 |
+| [A1-Ring](/f1/circuits/osterreichring) | Spielburg | [Austria](/f1/countries/austria) | 25 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| [Red Bull Ring](/f1/circuits/red_bull_ring) | Spielburg | [Austria](/f1/countries/austria) | 4 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| [Zeltweg](/f1/circuits/zeltweg) | Styria | [Austria](/f1/countries/austria) | 1 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 1 |
 
 #### Statistic Summary
 

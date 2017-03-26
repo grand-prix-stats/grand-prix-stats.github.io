@@ -22,24 +22,26 @@ collectionId: harrison
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 7 | 1950 Italian Grand Prix 🇮🇹 | 1950-09-03 | 21 | R | 51 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 14 | R | 0 |   | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 15 | 7 | 67 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 14 | R | 0.0 | 0 |   | ERA 🇬🇧 | [Bob Gerard 🇬🇧](/f1/drivers/gerard) | 16 | 6 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 15 | 7 | 0.0 | 67 |   | ERA 🇬🇧 | [Bob Gerard 🇬🇧](/f1/drivers/gerard) | 13 | 6 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 15 | 7 | 0.0 | 67 |   | ERA 🇬🇧 | [Peter Walker 🇬🇧](/f1/drivers/peter_walker) | 10 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 15 | 7 | 0.0 | 67 |   | ERA 🇬🇧 | [Leslie Johnson 🇬🇧](/f1/drivers/leslie_johnson) | 12 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 15 | 7 | 0.0 | 67 |   | ERA 🇬🇧 | [Tony Rolt 🇬🇧](/f1/drivers/rolt) | 10 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 | 1 | 3 |  |  |  |
-| **Total Sum** | 10.000 |  |  | 50.000 | 7.000 | 118.000 |  |  |  |
-| **Mean μ (Average)** | 3.333 |  |  | 16.667 | 7.000 | 39.333 |  |  |  |
-| **Maximum** | 7.000 |  |  | 21.000 | 7.000 | 67.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 21.000 | 7.000 | 67.000 |  |  |  |
-| **Median** | 2.000 |  |  | 15.000 | 7.000 | 51.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 14.000 | 7.000 |  |  |  |  |
-| **Minimum** | 1.000 |  |  | 14.000 | 7.000 |  |  |  |  |
-| **Variance** | 6.889 |  |  | 9.556 |  | 816.222 |  |  |  |
-| **Standard Deviation σ** | 2.625 |  |  | 3.091 |  | 28.570 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 5 |  |  | 5 | 4 | 5 | 5 |  |  |  | 5 | 2 |
+| **Total Sum** | 6.000 |  |  | 74.000 | 28.000 |  | 268.000 |  |  |  | 61.000 | 12.000 |
+| **Mean μ (Average)** | 1.200 |  |  | 14.800 | 7.000 |  | 53.600 |  |  |  | 12.200 | 6.000 |
+| **Maximum** | 2.000 |  |  | 15.000 | 7.000 |  | 67.000 |  |  |  | 16.000 | 6.000 |
+| **75th Percentile** | 1.000 |  |  | 15.000 | 7.000 |  | 67.000 |  |  |  | 13.000 | 6.000 |
+| **Median** | 1.000 |  |  | 15.000 | 7.000 |  | 67.000 |  |  |  | 12.000 | 6.000 |
+| **25th Percentile** | 1.000 |  |  | 15.000 | 7.000 |  | 67.000 |  |  |  | 10.000 | 6.000 |
+| **Minimum** | 1.000 |  |  | 14.000 | 7.000 |  |  |  |  |  | 10.000 | 6.000 |
+| **Variance** | 0.160 |  |  | 0.160 |  |  | 718.240 |  |  |  | 4.960 |  |
+| **Standard Deviation σ** | 0.400 |  |  | 0.400 |  |  | 26.800 |  |  |  | 2.227 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

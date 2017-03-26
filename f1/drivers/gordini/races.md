@@ -22,22 +22,24 @@ collectionId: gordini
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 17 | R | 27 |   | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 17 | R | 0.0 | 27 |   | Simca 🇫🇷 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 18 | R |
+| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 17 | R | 0.0 | 27 |   | Simca 🇫🇷 | [André Simon 🇫🇷](/f1/drivers/simon) | 21 | R |
+| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 17 | R | 0.0 | 27 |   | Simca 🇫🇷 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 23 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **Mean μ (Average)** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **Maximum** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **75th Percentile** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **Median** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **Minimum** | 4.000 |  |  | 17.000 |  | 27.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 12.000 |  |  | 51.000 |  |  | 81.000 |  |  |  | 62.000 |  |
+| **Mean μ (Average)** | 4.000 |  |  | 17.000 |  |  | 27.000 |  |  |  | 20.667 |  |
+| **Maximum** | 4.000 |  |  | 17.000 |  |  | 27.000 |  |  |  | 23.000 |  |
+| **75th Percentile** | 4.000 |  |  | 17.000 |  |  | 27.000 |  |  |  | 23.000 |  |
+| **Median** | 4.000 |  |  | 17.000 |  |  | 27.000 |  |  |  | 21.000 |  |
+| **25th Percentile** | 4.000 |  |  | 17.000 |  |  | 27.000 |  |  |  | 18.000 |  |
+| **Minimum** | 4.000 |  |  | 17.000 |  |  | 27.000 |  |  |  | 18.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 4.222 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.055 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

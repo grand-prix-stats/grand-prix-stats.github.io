@@ -1,26 +1,17 @@
 [
     {
+        "constructor": "Lotus-BRM 🇬🇧",
         "date": "1967-10-22",
         "final_position": "R",
         "grid": 10,
         "laps_completed": 0,
         "name": "1967 Mexican Grand Prix 🇲🇽",
+        "points": 0.0,
         "round": 11,
         "season": 1967,
-        "time": null,
-        "winning_constructor": "Lotus-Ford 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
-    },
-    {
-        "date": "1967-08-27",
-        "final_position": "11",
-        "grid": 17,
-        "laps_completed": 81,
-        "name": "1967 Canadian Grand Prix 🇨🇦",
-        "round": 8,
-        "season": 1967,
-        "time": null,
-        "winning_constructor": "Brabham-Repco 🇬🇧",
-        "winning_driver": "Jack Brabham 🇦🇺"
+        "teammate": "Moisés Solana 🇲🇽",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
+        "time": null
     }
 ]

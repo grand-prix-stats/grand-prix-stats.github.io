@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 2 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
 
 #### Statistic Summary
 

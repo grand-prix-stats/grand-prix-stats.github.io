@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | John Surtees 🇬🇧 | 1 |
-| 2. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 2. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

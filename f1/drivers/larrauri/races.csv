@@ -1,22 +1,17 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1988 Australian Grand Prix 🇦🇺,16,25,12,McLaren 🇬🇧,1988-11-13,R,,1988,Alain Prost 🇫🇷
-1988 Belgian Grand Prix 🇧🇪,11,0,0,McLaren 🇬🇧,1988-08-28,F,,1988,Ayrton Senna 🇧🇷
-1988 Brazilian Grand Prix 🇧🇷,1,26,0,McLaren 🇬🇧,1988-04-03,R,,1988,Alain Prost 🇫🇷
-1988 British Grand Prix 🇬🇧,8,0,0,McLaren 🇬🇧,1988-07-10,F,,1988,Ayrton Senna 🇧🇷
-1988 Canadian Grand Prix 🇨🇦,5,24,8,McLaren 🇬🇧,1988-06-12,R,,1988,Ayrton Senna 🇧🇷
-1988 Detroit Grand Prix 🇺🇸,6,23,26,McLaren 🇬🇧,1988-06-19,R,,1988,Ayrton Senna 🇧🇷
-1988 French Grand Prix 🇫🇷,7,26,64,McLaren 🇬🇧,1988-07-03,R,,1988,Alain Prost 🇫🇷
-1988 German Grand Prix 🇩🇪,9,26,42,McLaren 🇬🇧,1988-07-24,16,,1988,Ayrton Senna 🇧🇷
-1988 Hungarian Grand Prix 🇭🇺,10,0,0,McLaren 🇬🇧,1988-08-07,F,,1988,Ayrton Senna 🇧🇷
-1988 Italian Grand Prix 🇮🇹,12,0,0,Ferrari 🇮🇹,1988-09-11,F,,1988,Gerhard Berger 🇦🇹
-1988 Japanese Grand Prix 🇯🇵,15,0,0,McLaren 🇬🇧,1988-10-30,F,,1988,Ayrton Senna 🇧🇷
-1988 Mexican Grand Prix 🇲🇽,4,26,63,McLaren 🇬🇧,1988-05-29,13,,1988,Alain Prost 🇫🇷
-1988 Monaco Grand Prix 🇲🇨,3,18,14,McLaren 🇬🇧,1988-05-15,R,,1988,Alain Prost 🇫🇷
-1988 Portuguese Grand Prix 🇵🇹,13,0,0,McLaren 🇬🇧,1988-09-25,F,,1988,Alain Prost 🇫🇷
-1988 San Marino Grand Prix 🇮🇹,2,0,0,McLaren 🇬🇧,1988-05-01,F,,1988,Ayrton Senna 🇧🇷
-1988 Spanish Grand Prix 🇪🇸,14,0,0,McLaren 🇬🇧,1988-10-02,F,,1988,Alain Prost 🇫🇷
-1989 Australian Grand Prix 🇦🇺,16,0,0,Williams 🇬🇧,1989-11-05,F,,1989,Thierry Boutsen 🇧🇪
-1989 Italian Grand Prix 🇮🇹,12,0,0,McLaren 🇬🇧,1989-09-10,F,,1989,Alain Prost 🇫🇷
-1989 Japanese Grand Prix 🇯🇵,15,0,0,Benetton 🇮🇹,1989-10-22,F,,1989,Alessandro Nannini 🇮🇹
-1989 Portuguese Grand Prix 🇵🇹,13,0,0,Ferrari 🇮🇹,1989-09-24,F,,1989,Gerhard Berger 🇦🇹
-1989 Spanish Grand Prix 🇪🇸,14,0,0,McLaren 🇬🇧,1989-10-01,F,,1989,Ayrton Senna 🇧🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1988 Australian Grand Prix 🇦🇺,R,25,1988-11-13,R,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,16,20,12,,0.0
+1988 Belgian Grand Prix 🇧🇪,F,0,1988-08-28,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,11,0,0,,0.0
+1988 Brazilian Grand Prix 🇧🇷,R,26,1988-04-03,R,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,1,24,0,,0.0
+1988 British Grand Prix 🇬🇧,12,0,1988-07-10,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,8,20,0,,0.0
+1988 Canadian Grand Prix 🇨🇦,12,24,1988-06-12,R,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,5,15,8,,0.0
+1988 Detroit Grand Prix 🇺🇸,R,23,1988-06-19,R,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,6,19,26,,0.0
+1988 French Grand Prix 🇫🇷,14,26,1988-07-03,R,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,7,20,64,,0.0
+1988 German Grand Prix 🇩🇪,R,26,1988-07-24,16,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,9,25,42,,0.0
+1988 Hungarian Grand Prix 🇭🇺,11,0,1988-08-07,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,10,26,0,,0.0
+1988 Italian Grand Prix 🇮🇹,F,0,1988-09-11,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,12,0,0,,0.0
+1988 Japanese Grand Prix 🇯🇵,F,0,1988-10-30,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,15,0,0,,0.0
+1988 Mexican Grand Prix 🇲🇽,E,26,1988-05-29,13,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,4,0,63,,0.0
+1988 Monaco Grand Prix 🇲🇨,E,18,1988-05-15,R,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,3,0,14,,0.0
+1988 Portuguese Grand Prix 🇵🇹,F,0,1988-09-25,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,13,0,0,,0.0
+1988 San Marino Grand Prix 🇮🇹,N,0,1988-05-01,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,2,26,0,,0.0
+1988 Spanish Grand Prix 🇪🇸,13,0,1988-10-02,F,1988,Stefano Modena 🇮🇹,Euro Brun 🇮🇹,14,26,0,,0.0

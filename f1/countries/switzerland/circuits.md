@@ -24,7 +24,7 @@ collectionId: switzerland
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Circuit Bremgarten](/f1/circuits/bremgarten) | Bern | [Switzerland](/f1/countries/switzerland) | 5 | Juan Fangio 🇦🇷 | 2 |
+| [Circuit Bremgarten](/f1/circuits/bremgarten) | Bern | [Switzerland](/f1/countries/switzerland) | 5 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
 
 #### Statistic Summary
 

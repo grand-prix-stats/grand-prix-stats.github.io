@@ -22,23 +22,30 @@ collectionId: tomaso
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1959 | 9 | 1959 United States Grand Prix 🇺🇸 | 1959-12-12 | 14 | R | 13 |   | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
-| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 91 |   | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Alfonso de Portago 🇪🇸](/f1/drivers/portago) | 10 | 5 |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Cesare Perdisa 🇮🇹](/f1/drivers/perdisa) | 11 | 6 |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 4 | R |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 7 | R |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 6 | R |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 5 | R |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 10 | 5 |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 11 | 6 |
+| 1957 | 1 | 1957 Argentine Grand Prix 🇦🇷 | 1957-01-13 | 12 | 9 | 0.0 | 91 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 11 | 6 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 10.000 |  |  | 26.000 | 9.000 | 104.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 13.000 | 9.000 | 52.000 |  |  |  |
-| **Maximum** | 9.000 |  |  | 14.000 | 9.000 | 91.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 14.000 | 9.000 | 91.000 |  |  |  |
-| **Median** | 9.000 |  |  | 14.000 | 9.000 | 91.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 12.000 | 9.000 | 13.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 12.000 | 9.000 | 13.000 |  |  |  |
-| **Variance** | 16.000 |  |  | 1.000 |  | 1521.000 |  |  |  |
-| **Standard Deviation σ** | 4.000 |  |  | 1.000 |  | 39.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 9 |  |  | 9 | 9 | 9 | 9 |  |  |  | 9 | 5 |
+| **Total Sum** | 9.000 |  |  | 108.000 | 81.000 |  | 819.000 |  |  |  | 75.000 | 28.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 12.000 | 9.000 |  | 91.000 |  |  |  | 8.333 | 5.600 |
+| **Maximum** | 1.000 |  |  | 12.000 | 9.000 |  | 91.000 |  |  |  | 11.000 | 6.000 |
+| **75th Percentile** | 1.000 |  |  | 12.000 | 9.000 |  | 91.000 |  |  |  | 11.000 | 6.000 |
+| **Median** | 1.000 |  |  | 12.000 | 9.000 |  | 91.000 |  |  |  | 10.000 | 6.000 |
+| **25th Percentile** | 1.000 |  |  | 12.000 | 9.000 |  | 91.000 |  |  |  | 6.000 | 5.000 |
+| **Minimum** | 1.000 |  |  | 12.000 | 9.000 |  | 91.000 |  |  |  | 4.000 | 5.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 7.111 | 0.240 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.667 | 0.490 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

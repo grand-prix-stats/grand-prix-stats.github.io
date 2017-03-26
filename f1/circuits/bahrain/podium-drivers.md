@@ -127,19 +127,19 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Kimi Räikkönen 🇫🇮 | 8 |
-| 2. | Lewis Hamilton 🇬🇧 | 5 |
-| 3. | Felipe Massa 🇧🇷 | 3 |
-| 4. | Fernando Alonso 🇪🇸 | 3 |
-| 5. | Nico Rosberg 🇩🇪 | 3 |
-| 6. | Sebastian Vettel 🇩🇪 | 3 |
-| 7. | Jarno Trulli 🇮🇹 | 2 |
-| 8. | Jenson Button 🇬🇧 | 2 |
-| 9. | Michael Schumacher 🇩🇪 | 2 |
-| 10. | Romain Grosjean 🇫🇷 | 2 |
-| 11. | Robert Kubica 🇵🇱 | 1 |
-| 12. | Rubens Barrichello 🇧🇷 | 1 |
-| 13. | Sergio Pérez 🇲🇽 | 1 |
+| 1. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 8 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
+| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 5. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 |
+| 6. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| 7. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 8. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
+| 9. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 10. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 2 |
+| 11. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
+| 12. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 13. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
 
 #### Statistic Summary
 

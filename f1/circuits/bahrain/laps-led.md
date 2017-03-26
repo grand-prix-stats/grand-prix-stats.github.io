@@ -139,22 +139,22 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 146 |
-| 2. | Lewis Hamilton 🇬🇧 | 108 |
-| 3. | Felipe Massa 🇧🇷 | 102 |
-| 4. | Fernando Alonso 🇪🇸 | 96 |
-| 5. | Michael Schumacher 🇩🇪 | 77 |
-| 6. | Nico Rosberg 🇩🇪 | 62 |
-| 7. | Jenson Button 🇬🇧 | 38 |
-| 8. | Kimi Räikkönen 🇫🇮 | 12 |
-| 9. | Timo Glock 🇩🇪 | 10 |
-| 10. | Rubens Barrichello 🇧🇷 | 6 |
-| 11. | Jarno Trulli 🇮🇹 | 4 |
-| 12. | Juan Pablo Montoya 🇨🇴 | 4 |
-| 13. | Nick Heidfeld 🇩🇪 | 4 |
-| 14. | Paul di Resta 🇬🇧 | 4 |
-| 15. | Robert Kubica 🇵🇱 | 2 |
-| 16. | Romain Grosjean 🇫🇷 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 146 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 108 |
+| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 102 |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 96 |
+| 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 77 |
+| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 62 |
+| 7. | [Jenson Button 🇬🇧](/f1/drivers/button) | 38 |
+| 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 12 |
+| 9. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 10 |
+| 10. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 6 |
+| 11. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 4 |
+| 12. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 4 |
+| 13. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 4 |
+| 14. | [Paul di Resta 🇬🇧](/f1/drivers/resta) | 4 |
+| 15. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 2 |
+| 16. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
 
 #### Statistic Summary
 

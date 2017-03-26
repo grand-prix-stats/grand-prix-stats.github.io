@@ -1,26 +1,62 @@
 [
     {
+        "constructor": "Hesketh 🇬🇧",
         "date": "1975-06-08",
         "final_position": "10",
         "grid": 21,
         "laps_completed": 78,
         "name": "1975 Swedish Grand Prix 🇸🇪",
+        "points": 0.0,
         "round": 7,
         "season": 1975,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Niki Lauda 🇦🇹"
+        "teammate": "Alan Jones 🇦🇺",
+        "teammate_final_position": "11",
+        "teammate_grid": 19,
+        "time": null
     },
     {
+        "constructor": "Hesketh 🇬🇧",
+        "date": "1975-06-08",
+        "final_position": "10",
+        "grid": 21,
+        "laps_completed": 78,
+        "name": "1975 Swedish Grand Prix 🇸🇪",
+        "points": 0.0,
+        "round": 7,
+        "season": 1975,
+        "teammate": "James Hunt 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 13,
+        "time": null
+    },
+    {
+        "constructor": "Hesketh 🇬🇧",
         "date": "1975-05-11",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1975 Monaco Grand Prix 🇲🇨",
+        "points": 0.0,
         "round": 5,
         "season": 1975,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Niki Lauda 🇦🇹"
+        "teammate": "James Hunt 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 11,
+        "time": null
+    },
+    {
+        "constructor": "Hesketh 🇬🇧",
+        "date": "1975-05-11",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1975 Monaco Grand Prix 🇲🇨",
+        "points": 0.0,
+        "round": 5,
+        "season": 1975,
+        "teammate": "Alan Jones 🇦🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

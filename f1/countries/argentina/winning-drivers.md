@@ -139,22 +139,22 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 4 |
-| 2. | Damon Hill 🇬🇧 | 2 |
-| 3. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 4. | Alan Jones 🇦🇺 | 1 |
-| 5. | Alberto Ascari 🇮🇹 | 1 |
-| 6. | Bruce McLaren 🇳🇿 | 1 |
-| 7. | Denny Hulme 🇳🇿 | 1 |
-| 8. | Jackie Stewart 🇬🇧 | 1 |
-| 9. | Jacques Laffite 🇫🇷 | 1 |
-| 10. | Jacques Villeneuve 🇨🇦 | 1 |
-| 11. | Jody Scheckter 🇿🇦 | 1 |
-| 12. | Luigi Musso 🇮🇹 | 1 |
-| 13. | Mario Andretti 🇺🇸 | 1 |
-| 14. | Michael Schumacher 🇩🇪 | 1 |
-| 15. | Nelson Piquet 🇧🇷 | 1 |
-| 16. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 4 |
+| 2. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
+| 3. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 4. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 5. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 6. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 7. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 8. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 9. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 10. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 11. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 12. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
+| 13. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 14. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 15. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 16. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

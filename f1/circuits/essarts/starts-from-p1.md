@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 2 |
-| 2. | Alberto Ascari 🇮🇹 | 1 |
-| 3. | Jochen Rindt 🇦🇹 | 1 |
-| 4. | Juan Fangio 🇦🇷 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 |
+| 2. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 3. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 4. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
 
 #### Statistic Summary
 

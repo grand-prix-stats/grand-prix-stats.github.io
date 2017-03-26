@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 3 |
-| 2. | Nigel Mansell 🇬🇧 | 3 |
-| 3. | Stirling Moss 🇬🇧 | 2 |
-| 4. | Ayrton Senna 🇧🇷 | 1 |
-| 5. | Damon Hill 🇬🇧 | 1 |
-| 6. | David Coulthard 🇬🇧 | 1 |
-| 7. | Gerhard Berger 🇦🇹 | 1 |
-| 8. | Jack Brabham 🇦🇺 | 1 |
-| 9. | Jacques Villeneuve 🇨🇦 | 1 |
-| 10. | Michael Schumacher 🇩🇪 | 1 |
-| 11. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 2. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| 3. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 4. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 5. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 7. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 8. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 10. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 11. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

@@ -22,23 +22,23 @@ collectionId: toshio_suzuki
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1993 | 16 | 1993 Australian Grand Prix 🇦🇺 | 1993-11-07 | 24 | 14 | 74 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1993 | 15 | 1993 Japanese Grand Prix 🇯🇵 | 1993-10-24 | 23 | 12 | 51 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1993 | 16 | 1993 Australian Grand Prix 🇦🇺 | 1993-11-07 | 24 | 14 | 0.0 | 74 |   | Larrousse 🇫🇷 | [Érik Comas 🇫🇷](/f1/drivers/comas) | 21 | 12 |
+| 1993 | 15 | 1993 Japanese Grand Prix 🇯🇵 | 1993-10-24 | 23 | 12 | 0.0 | 51 |   | Larrousse 🇫🇷 | [Érik Comas 🇫🇷](/f1/drivers/comas) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 |  |  |  |
-| **Total Sum** | 31.000 |  |  | 47.000 | 26.000 | 125.000 |  |  |  |
-| **Mean μ (Average)** | 15.500 |  |  | 23.500 | 13.000 | 62.500 |  |  |  |
-| **Maximum** | 16.000 |  |  | 24.000 | 14.000 | 74.000 |  |  |  |
-| **75th Percentile** | 16.000 |  |  | 24.000 | 14.000 | 74.000 |  |  |  |
-| **Median** | 16.000 |  |  | 24.000 | 14.000 | 74.000 |  |  |  |
-| **25th Percentile** | 15.000 |  |  | 23.000 | 12.000 | 51.000 |  |  |  |
-| **Minimum** | 15.000 |  |  | 23.000 | 12.000 | 51.000 |  |  |  |
-| **Variance** | 0.250 |  |  | 0.250 | 1.000 | 132.250 |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  | 0.500 | 1.000 | 11.500 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 31.000 |  |  | 47.000 | 26.000 |  | 125.000 |  |  |  | 42.000 | 12.000 |
+| **Mean μ (Average)** | 15.500 |  |  | 23.500 | 13.000 |  | 62.500 |  |  |  | 21.000 | 12.000 |
+| **Maximum** | 16.000 |  |  | 24.000 | 14.000 |  | 74.000 |  |  |  | 21.000 | 12.000 |
+| **75th Percentile** | 16.000 |  |  | 24.000 | 14.000 |  | 74.000 |  |  |  | 21.000 | 12.000 |
+| **Median** | 16.000 |  |  | 24.000 | 14.000 |  | 74.000 |  |  |  | 21.000 | 12.000 |
+| **25th Percentile** | 15.000 |  |  | 23.000 | 12.000 |  | 51.000 |  |  |  | 21.000 | 12.000 |
+| **Minimum** | 15.000 |  |  | 23.000 | 12.000 |  | 51.000 |  |  |  | 21.000 | 12.000 |
+| **Variance** | 0.250 |  |  | 0.250 | 1.000 |  | 132.250 |  |  |  |  |  |
+| **Standard Deviation σ** | 0.500 |  |  | 0.500 | 1.000 |  | 11.500 |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

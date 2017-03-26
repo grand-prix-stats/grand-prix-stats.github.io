@@ -131,20 +131,20 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 339 |
-| 2. | Fernando Alonso 🇪🇸 | 109 |
-| 3. | Ralf Schumacher 🇩🇪 | 95 |
-| 4. | Kimi Räikkönen 🇫🇮 | 87 |
-| 5. | Felipe Massa 🇧🇷 | 74 |
-| 6. | Damon Hill 🇬🇧 | 69 |
-| 7. | David Coulthard 🇬🇧 | 46 |
-| 8. | Rubens Barrichello 🇧🇷 | 44 |
-| 9. | Juan Pablo Montoya 🇨🇴 | 39 |
-| 10. | Heinz-Harald Frentzen 🇩🇪 | 9 |
-| 11. | Mika Häkkinen 🇫🇮 | 6 |
-| 12. | Jacques Villeneuve 🇨🇦 | 3 |
-| 13. | Jarno Trulli 🇮🇹 | 2 |
-| 14. | Eddie Irvine 🇬🇧 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 339 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 109 |
+| 3. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 95 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 87 |
+| 5. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 74 |
+| 6. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 69 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 46 |
+| 8. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 44 |
+| 9. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 39 |
+| 10. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 9 |
+| 11. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 6 |
+| 12. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 3 |
+| 13. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 14. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
 
 #### Statistic Summary
 

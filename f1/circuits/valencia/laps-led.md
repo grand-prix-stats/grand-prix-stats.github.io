@@ -103,13 +103,13 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 146 |
-| 2. | Felipe Massa 🇧🇷 | 51 |
-| 3. | Lewis Hamilton 🇬🇧 | 35 |
-| 4. | Rubens Barrichello 🇧🇷 | 25 |
-| 5. | Fernando Alonso 🇪🇸 | 24 |
-| 6. | Heikki Kovalainen 🇫🇮 | 3 |
-| 7. | Robert Kubica 🇵🇱 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 146 |
+| 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 51 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 35 |
+| 4. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 25 |
+| 5. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 24 |
+| 6. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 3 |
+| 7. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
 
 #### Statistic Summary
 

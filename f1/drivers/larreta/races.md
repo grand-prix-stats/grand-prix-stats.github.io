@@ -22,22 +22,23 @@ collectionId: larreta
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 15 | 9 | 77 |   | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 15 | 9 | 0.0 | 77 |   | Team Lotus 🇬🇧 | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 2 | 6 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 15 | 9 | 0.0 | 77 |   | Team Lotus 🇬🇧 | [Alan Stacey 🇬🇧](/f1/drivers/stacey) | 14 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **Maximum** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **Median** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 15.000 | 9.000 | 77.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 2.000 |  |  | 30.000 | 18.000 |  | 154.000 |  |  |  | 16.000 | 6.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 15.000 | 9.000 |  | 77.000 |  |  |  | 8.000 | 6.000 |
+| **Maximum** | 1.000 |  |  | 15.000 | 9.000 |  | 77.000 |  |  |  | 14.000 | 6.000 |
+| **75th Percentile** | 1.000 |  |  | 15.000 | 9.000 |  | 77.000 |  |  |  | 14.000 | 6.000 |
+| **Median** | 1.000 |  |  | 15.000 | 9.000 |  | 77.000 |  |  |  | 14.000 | 6.000 |
+| **25th Percentile** | 1.000 |  |  | 15.000 | 9.000 |  | 77.000 |  |  |  | 2.000 | 6.000 |
+| **Minimum** | 1.000 |  |  | 15.000 | 9.000 |  | 77.000 |  |  |  | 2.000 | 6.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 36.000 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 6.000 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

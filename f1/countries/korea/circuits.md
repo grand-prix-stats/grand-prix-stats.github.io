@@ -24,7 +24,7 @@ collectionId: korea
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Korean International Circuit](/f1/circuits/yeongam) | Yeongam County | [Korea](/f1/countries/korea) | 4 | Sebastian Vettel 🇩🇪 | 3 |
+| [Korean International Circuit](/f1/circuits/yeongam) | Yeongam County | [Korea](/f1/countries/korea) | 4 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
 
 #### Statistic Summary
 

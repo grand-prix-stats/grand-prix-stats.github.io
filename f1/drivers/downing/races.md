@@ -22,23 +22,24 @@ collectionId: downing
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 13 | R | 27 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 5 | 9 | 82 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 5 | 9 | 0.0 | 82 |   | Connaught 🇬🇧 | [Dennis Poore 🇬🇧](/f1/drivers/poore) | 8 | 4 |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 5 | 9 | 0.0 | 82 |   | Connaught 🇬🇧 | [Eric Thompson 🇬🇧](/f1/drivers/thompson) | 9 | 5 |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 5 | 9 | 0.0 | 82 |   | Connaught 🇬🇧 | [Kenneth McAlpine 🇬🇧](/f1/drivers/mcalpine) | 17 | 16 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 12.000 |  |  | 18.000 | 9.000 | 109.000 |  |  |  |
-| **Mean μ (Average)** | 6.000 |  |  | 9.000 | 9.000 | 54.500 |  |  |  |
-| **Maximum** | 7.000 |  |  | 13.000 | 9.000 | 82.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 13.000 | 9.000 | 82.000 |  |  |  |
-| **Median** | 7.000 |  |  | 13.000 | 9.000 | 82.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 5.000 | 9.000 | 27.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 5.000 | 9.000 | 27.000 |  |  |  |
-| **Variance** | 1.000 |  |  | 16.000 |  | 756.250 |  |  |  |
-| **Standard Deviation σ** | 1.000 |  |  | 4.000 |  | 27.500 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 | 3 |
+| **Total Sum** | 15.000 |  |  | 15.000 | 27.000 |  | 246.000 |  |  |  | 34.000 | 25.000 |
+| **Mean μ (Average)** | 5.000 |  |  | 5.000 | 9.000 |  | 82.000 |  |  |  | 11.333 | 8.333 |
+| **Maximum** | 5.000 |  |  | 5.000 | 9.000 |  | 82.000 |  |  |  | 17.000 | 16.000 |
+| **75th Percentile** | 5.000 |  |  | 5.000 | 9.000 |  | 82.000 |  |  |  | 17.000 | 16.000 |
+| **Median** | 5.000 |  |  | 5.000 | 9.000 |  | 82.000 |  |  |  | 9.000 | 5.000 |
+| **25th Percentile** | 5.000 |  |  | 5.000 | 9.000 |  | 82.000 |  |  |  | 8.000 | 4.000 |
+| **Minimum** | 5.000 |  |  | 5.000 | 9.000 |  | 82.000 |  |  |  | 8.000 | 4.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 16.222 | 29.556 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.028 | 5.437 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

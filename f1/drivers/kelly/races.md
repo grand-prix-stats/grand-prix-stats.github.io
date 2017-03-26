@@ -22,23 +22,22 @@ collectionId: kelly
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 18 | R | 75 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 19 | N | 57 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 19 | N | 0.0 | 57 |   | Alta 🇬🇧 | [Geoff Crossley 🇬🇧](/f1/drivers/crossley) | 17 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 37.000 |  | 132.000 |  |  |  |
-| **Mean μ (Average)** | 3.000 |  |  | 18.500 |  | 66.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 19.000 |  | 75.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 19.000 |  | 75.000 |  |  |  |
-| **Median** | 5.000 |  |  | 19.000 |  | 75.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 18.000 |  | 57.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 18.000 |  | 57.000 |  |  |  |
-| **Variance** | 4.000 |  |  | 0.250 |  | 81.000 |  |  |  |
-| **Standard Deviation σ** | 2.000 |  |  | 0.500 |  | 9.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **Mean μ (Average)** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **Maximum** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **75th Percentile** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **Median** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **25th Percentile** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **Minimum** | 1.000 |  |  | 19.000 |  |  | 57.000 |  |  |  | 17.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

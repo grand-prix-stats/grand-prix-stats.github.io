@@ -1,5 +1,10 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1976 Austrian Grand Prix 🇦🇹,11,23,51,Penske 🇺🇸,1976-08-15,11,,1976,John Watson 🇬🇧
-1976 Dutch Grand Prix 🇳🇱,12,0,0,McLaren 🇬🇧,1976-08-29,F,,1976,James Hunt 🇬🇧
-1976 German Grand Prix 🇩🇪,10,26,13,McLaren 🇬🇧,1976-08-01,14,,1976,James Hunt 🇬🇧
-1976 Italian Grand Prix 🇮🇹,13,21,49,March 🇬🇧,1976-09-12,18,,1976,Ronnie Peterson 🇸🇪
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1976 Austrian Grand Prix 🇦🇹,R,23,1976-08-15,11,1976,Patrick Depailler 🇫🇷,Tyrrell 🇬🇧,11,13,51,,0.0
+1976 Austrian Grand Prix 🇦🇹,R,23,1976-08-15,11,1976,Jody Scheckter 🇿🇦,Tyrrell 🇬🇧,11,10,51,,0.0
+1976 Dutch Grand Prix 🇳🇱,5,0,1976-08-29,F,1976,Jody Scheckter 🇿🇦,Tyrrell 🇬🇧,12,8,0,,0.0
+1976 Dutch Grand Prix 🇳🇱,7,0,1976-08-29,F,1976,Patrick Depailler 🇫🇷,Tyrrell 🇬🇧,12,14,0,,0.0
+1976 German Grand Prix 🇩🇪,2,26,1976-08-01,14,1976,Jody Scheckter 🇿🇦,Tyrrell 🇬🇧,10,8,13,,0.0
+1976 German Grand Prix 🇩🇪,R,26,1976-08-01,14,1976,Patrick Depailler 🇫🇷,Tyrrell 🇬🇧,10,3,13,,0.0
+1976 Italian Grand Prix 🇮🇹,5,21,1976-09-12,18,1976,Jody Scheckter 🇿🇦,Tyrrell 🇬🇧,13,2,49,,0.0
+1976 Italian Grand Prix 🇮🇹,6,21,1976-09-12,18,1976,Patrick Depailler 🇫🇷,Tyrrell 🇬🇧,13,4,49,,0.0
+1976 Italian Grand Prix 🇮🇹,W,21,1976-09-12,18,1976,Otto Stuppacher 🇦🇹,Tyrrell 🇬🇧,13,0,49,,0.0

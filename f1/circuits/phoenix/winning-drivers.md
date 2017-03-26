@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Ayrton Senna 🇧🇷 | 2 |
-| 2. | Alain Prost 🇫🇷 | 1 |
+| 1. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
 
 #### Statistic Summary
 

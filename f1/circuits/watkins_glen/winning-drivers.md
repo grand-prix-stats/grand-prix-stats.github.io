@@ -127,19 +127,19 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Graham Hill 🇬🇧 | 3 |
-| 2. | Jim Clark 🇬🇧 | 3 |
-| 3. | Carlos Reutemann 🇦🇷 | 2 |
-| 4. | Jackie Stewart 🇬🇧 | 2 |
-| 5. | James Hunt 🇬🇧 | 2 |
-| 6. | Alan Jones 🇦🇺 | 1 |
-| 7. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 8. | François Cevert 🇫🇷 | 1 |
-| 9. | Gilles Villeneuve 🇨🇦 | 1 |
-| 10. | Innes Ireland 🇬🇧 | 1 |
-| 11. | Jochen Rindt 🇦🇹 | 1 |
-| 12. | Niki Lauda 🇦🇹 | 1 |
-| 13. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 3 |
+| 2. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 3 |
+| 3. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 4. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 5. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 2 |
+| 6. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 7. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 8. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| 9. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 10. | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| 11. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 12. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 13. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

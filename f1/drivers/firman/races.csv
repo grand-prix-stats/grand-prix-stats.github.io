@@ -1,15 +1,15 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2003 Australian Grand Prix 🇦🇺,1,17,6,McLaren 🇬🇧,2003-03-09,R,,2003,David Coulthard 🇬🇧
-2003 Austrian Grand Prix 🇦🇹,6,16,68,Ferrari 🇮🇹,2003-05-18,11,,2003,Michael Schumacher 🇩🇪
-2003 Brazilian Grand Prix 🇧🇷,3,16,18,Jordan 🇮🇪,2003-04-06,R,,2003,Giancarlo Fisichella 🇮🇹
-2003 British Grand Prix 🇬🇧,11,17,59,Ferrari 🇮🇹,2003-07-20,13,,2003,Rubens Barrichello 🇧🇷
-2003 Canadian Grand Prix 🇨🇦,8,19,20,Ferrari 🇮🇹,2003-06-15,R,,2003,Michael Schumacher 🇩🇪
-2003 European Grand Prix 🇩🇪,9,14,58,Williams 🇬🇧,2003-06-29,11,,2003,Ralf Schumacher 🇩🇪
-2003 French Grand Prix 🇫🇷,10,18,67,Williams 🇬🇧,2003-07-06,15,,2003,Ralf Schumacher 🇩🇪
-2003 German Grand Prix 🇩🇪,12,18,0,Williams 🇬🇧,2003-08-03,R,,2003,Juan Pablo Montoya 🇨🇴
-2003 Japanese Grand Prix 🇯🇵,16,15,51,Ferrari 🇮🇹,2003-10-12,14,,2003,Rubens Barrichello 🇧🇷
-2003 Malaysian Grand Prix 🇲🇾,2,20,55,McLaren 🇬🇧,2003-03-23,10,,2003,Kimi Räikkönen 🇫🇮
-2003 Monaco Grand Prix 🇲🇨,7,16,76,Williams 🇬🇧,2003-06-01,12,,2003,Juan Pablo Montoya 🇨🇴
-2003 San Marino Grand Prix 🇮🇹,4,19,51,Ferrari 🇮🇹,2003-04-20,R,,2003,Michael Schumacher 🇩🇪
-2003 Spanish Grand Prix 🇪🇸,5,15,63,Ferrari 🇮🇹,2003-05-04,8,,2003,Michael Schumacher 🇩🇪
-2003 United States Grand Prix 🇺🇸,15,18,48,Ferrari 🇮🇹,2003-09-28,R,,2003,Michael Schumacher 🇩🇪
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2003 Australian Grand Prix 🇦🇺,R,17,2003-03-09,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,1,13,6,,0.0
+2003 Austrian Grand Prix 🇦🇹,R,16,2003-05-18,11,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,6,9,68,,0.0
+2003 Brazilian Grand Prix 🇧🇷,1,16,2003-04-06,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,3,8,18,,0.0
+2003 British Grand Prix 🇬🇧,R,17,2003-07-20,13,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,11,15,59,,0.0
+2003 Canadian Grand Prix 🇨🇦,R,19,2003-06-15,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,8,16,20,,0.0
+2003 European Grand Prix 🇩🇪,12,14,2003-06-29,11,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,9,13,58,,0.0
+2003 French Grand Prix 🇫🇷,R,18,2003-07-06,15,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,10,17,67,,0.0
+2003 German Grand Prix 🇩🇪,13,18,2003-08-03,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,12,13,0,,0.0
+2003 Japanese Grand Prix 🇯🇵,R,15,2003-10-12,14,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,16,16,51,,0.0
+2003 Malaysian Grand Prix 🇲🇾,R,20,2003-03-23,10,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,2,14,55,,0.0
+2003 Monaco Grand Prix 🇲🇨,10,16,2003-06-01,12,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,7,12,76,,0.0
+2003 San Marino Grand Prix 🇮🇹,15,19,2003-04-20,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,4,17,51,,0.0
+2003 Spanish Grand Prix 🇪🇸,R,15,2003-05-04,8,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,5,17,63,,1.0
+2003 United States Grand Prix 🇺🇸,7,18,2003-09-28,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,15,17,48,,0.0

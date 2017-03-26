@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
 
 #### Statistic Summary
 

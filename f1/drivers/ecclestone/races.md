@@ -22,22 +22,23 @@ collectionId: ecclestone
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0 |   | Maurice Trintignant 🇫🇷 | Cooper 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0.0 | 0 |   | Connaught 🇬🇧 | [Bruce Kessler 🇺🇸](/f1/drivers/kessler) | 0 | F |
+| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0.0 | 0 |   | Connaught 🇬🇧 | [Paul Emery 🇬🇧](/f1/drivers/emery) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 4.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Median** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -22,22 +22,10 @@ collectionId: dusio
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 0 | F | 0 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 8.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 8.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 8.000 |  |  |  |  |  |  |  |  |
-| **Median** | 8.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

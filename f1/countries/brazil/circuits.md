@@ -24,8 +24,8 @@ collectionId: brazil
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Autódromo Internacional Nelson Piquet](/f1/circuits/jacarepagua) | Rio de Janeiro | [Brazil](/f1/countries/brazil) | 10 | Alain Prost 🇫🇷 | 5 |
-| [Autódromo José Carlos Pace](/f1/circuits/interlagos) | São Paulo | [Brazil](/f1/countries/brazil) | 35 | Michael Schumacher 🇩🇪 | 4 |
+| [Autódromo Internacional Nelson Piquet](/f1/circuits/jacarepagua) | Rio de Janeiro | [Brazil](/f1/countries/brazil) | 10 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 |
+| [Autódromo José Carlos Pace](/f1/circuits/interlagos) | São Paulo | [Brazil](/f1/countries/brazil) | 35 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
 
 #### Statistic Summary
 

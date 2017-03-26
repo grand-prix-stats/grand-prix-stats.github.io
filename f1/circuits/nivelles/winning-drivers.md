@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Emerson Fittipaldi 🇧🇷 | 2 |
+| 1. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
 
 #### Statistic Summary
 

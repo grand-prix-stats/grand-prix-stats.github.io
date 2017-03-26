@@ -1,3 +1,4 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1953 Belgian Grand Prix 🇧🇪,4,20,3,Ferrari 🇮🇹,1953-06-21,R,,1953,Alberto Ascari 🇮🇹
-1954 French Grand Prix 🇫🇷,4,20,9,Mercedes 🇩🇪,1954-07-04,R,,1954,Juan Fangio 🇦🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1954 French Grand Prix 🇫🇷,6,20,1954-07-04,R,1954,Jean Behra 🇫🇷,Gordini 🇫🇷,4,17,9,,0.0
+1954 French Grand Prix 🇫🇷,R,20,1954-07-04,R,1954,Paul Frère 🇧🇪,Gordini 🇫🇷,4,19,9,,0.0
+1954 French Grand Prix 🇫🇷,R,20,1954-07-04,R,1954,Jacques Pollet 🇫🇷,Gordini 🇫🇷,4,18,9,,0.0

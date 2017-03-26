@@ -22,27 +22,40 @@ collectionId: bueb
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18 | 18 | 13 | 69 |   | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
-| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0 |   | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
-| 1958 | 8 | 1958 German Grand Prix 🇩🇪 | 1958-08-03 | 16 | 11 | 13 |   | Tony Brooks 🇬🇧 | Vanwall 🇬🇧 |
-| 1958 | 7 | 1958 British Grand Prix 🇬🇧 | 1958-07-19 | 17 | R | 19 |   | Peter Collins 🇬🇧 | Ferrari 🇮🇹 |
-| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 71 |   | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
-| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 16 | R | 47 |   | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18 | 18 | 13 | 0.0 | 69 |   | Cooper-Borgward 🇬🇧 | [Chris Bristow 🇬🇧](/f1/drivers/bristow) | 16 | 10 |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 3 | 1 |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 3 |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 13 | 5 |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 | R |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 11 | R |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Alain de Changy 🇧🇪](/f1/drivers/Changy) | 0 | F |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Lucien Bianchi 🇧🇪](/f1/drivers/bianchi) | 0 | F |
+| 1959 | 1 | 1959 Monaco Grand Prix 🇲🇨 | 1959-05-10 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Jean Lucienbonnet 🇫🇷](/f1/drivers/lucienbonnet) | 0 | F |
+| 1958 | 8 | 1958 German Grand Prix 🇩🇪 | 1958-08-03 | 16 | 11 | 0.0 | 13 |   | Team Lotus 🇬🇧 | [Cliff Allison 🇬🇧](/f1/drivers/allison) | 24 | 10 |
+| 1958 | 8 | 1958 German Grand Prix 🇩🇪 | 1958-08-03 | 16 | 11 | 0.0 | 13 |   | Team Lotus 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 22 | R |
+| 1958 | 7 | 1958 British Grand Prix 🇬🇧 | 1958-07-19 | 17 | R | 0.0 | 19 |   | Connaught 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 19 | R |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 0.0 | 71 |   | Maserati 🇮🇹 | [Jean Behra 🇫🇷](/f1/drivers/behra) | 2 | R |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 0.0 | 71 |   | Maserati 🇮🇹 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 4 | R |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 0.0 | 71 |   | Maserati 🇮🇹 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 7 | R |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 0.0 | 71 |   | Maserati 🇮🇹 | [Carlos Menditeguy 🇦🇷](/f1/drivers/menditeguy) | 11 | R |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 0.0 | 71 |   | Maserati 🇮🇹 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 17 | R |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 19 | 8 | 0.0 | 71 |   | Maserati 🇮🇹 | [Horace Gould 🇬🇧](/f1/drivers/gould) | 14 | W |
+| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 16 | R | 0.0 | 47 |   | Connaught 🇬🇧 | [Stuart Lewis-Evans 🇬🇧](/f1/drivers/lewis-evans) | 13 | 4 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 6 |  |  | 6 | 3 | 6 |  |  |  |
-| **Total Sum** | 28.000 |  |  | 86.000 | 32.000 | 219.000 |  |  |  |
-| **Mean μ (Average)** | 4.667 |  |  | 14.333 | 10.667 | 36.500 |  |  |  |
-| **Maximum** | 8.000 |  |  | 19.000 | 13.000 | 71.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 18.000 | 13.000 | 69.000 |  |  |  |
-| **Median** | 5.000 |  |  | 17.000 | 11.000 | 47.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 16.000 | 8.000 | 13.000 |  |  |  |
-| **Minimum** | 1.000 |  |  |  | 8.000 |  |  |  |  |
-| **Variance** | 6.222 |  |  | 42.222 | 4.222 | 757.917 |  |  |  |
-| **Standard Deviation σ** | 2.494 |  |  | 6.498 | 2.055 | 27.530 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 19 |  |  | 19 | 9 | 19 | 19 |  |  |  | 19 | 6 |
+| **Total Sum** | 68.000 |  |  | 197.000 | 83.000 |  | 587.000 |  |  |  | 183.000 | 33.000 |
+| **Mean μ (Average)** | 3.579 |  |  | 10.368 | 9.222 |  | 30.895 |  |  |  | 9.632 | 5.500 |
+| **Maximum** | 8.000 |  |  | 19.000 | 13.000 |  | 71.000 |  |  |  | 24.000 | 10.000 |
+| **75th Percentile** | 5.000 |  |  | 19.000 | 11.000 |  | 71.000 |  |  |  | 16.000 | 10.000 |
+| **Median** | 5.000 |  |  | 16.000 | 8.000 |  | 13.000 |  |  |  | 11.000 | 5.000 |
+| **25th Percentile** | 1.000 |  |  |  | 8.000 |  |  |  |  |  | 2.000 | 3.000 |
+| **Minimum** | 1.000 |  |  |  | 8.000 |  |  |  |  |  |  | 1.000 |
+| **Variance** | 6.349 |  |  | 79.180 | 3.284 |  | 1041.042 |  |  |  | 57.601 | 11.583 |
+| **Standard Deviation σ** | 2.520 |  |  | 8.898 | 1.812 |  | 32.265 |  |  |  | 7.590 | 3.403 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

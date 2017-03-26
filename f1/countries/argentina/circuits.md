@@ -24,7 +24,7 @@ collectionId: argentina
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Autódromo Juan y Oscar Gálvez](/f1/circuits/galvez) | Buenos Aires | [Argentina](/f1/countries/argentina) | 20 | Juan Fangio 🇦🇷 | 4 |
+| [Autódromo Juan y Oscar Gálvez](/f1/circuits/galvez) | Buenos Aires | [Argentina](/f1/countries/argentina) | 20 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 4 |
 
 #### Statistic Summary
 

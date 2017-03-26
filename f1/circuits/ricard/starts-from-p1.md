@@ -115,16 +115,16 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 3 |
-| 2. | Jackie Stewart 🇬🇧 | 2 |
-| 3. | Nigel Mansell 🇬🇧 | 2 |
-| 4. | Ayrton Senna 🇧🇷 | 1 |
-| 5. | Jacques Laffite 🇫🇷 | 1 |
-| 6. | James Hunt 🇬🇧 | 1 |
-| 7. | John Watson 🇬🇧 | 1 |
-| 8. | Keke Rosberg 🇫🇮 | 1 |
-| 9. | Niki Lauda 🇦🇹 | 1 |
-| 10. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 2. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 3. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 4. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 5. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 6. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 7. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 8. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 9. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 10. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

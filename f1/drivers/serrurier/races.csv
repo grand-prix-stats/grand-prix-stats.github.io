@@ -1,4 +1,2 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1962 South African Grand Prix 🇿🇦,9,14,62,BRM 🇬🇧,1962-12-29,R,,1962,Graham Hill 🇬🇧
-1963 South African Grand Prix 🇿🇦,10,18,78,Lotus-Climax 🇬🇧,1963-12-28,11,,1963,Jim Clark 🇬🇧
-1965 South African Grand Prix 🇿🇦,1,0,0,Lotus-Climax 🇬🇧,1965-01-01,F,,1965,Jim Clark 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1963 South African Grand Prix 🇿🇦,R,18,1963-12-28,11,1963,Sam Tingle 🇿🇼,LDS 🇿🇦,10,17,78,,0.0

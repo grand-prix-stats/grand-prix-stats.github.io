@@ -22,32 +22,29 @@ collectionId: bucknum
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1966 | 9 | 1966 Mexican Grand Prix 🇲🇽 | 1966-10-23 | 13 | 8 | 60 |   | John Surtees 🇬🇧 | Cooper-Maserati 🇬🇧 |
-| 1966 | 8 | 1966 United States Grand Prix 🇺🇸 | 1966-10-02 | 18 | R | 58 |   | Jim Clark 🇬🇧 | Lotus-BRM 🇬🇧 |
-| 1965 | 10 | 1965 Mexican Grand Prix 🇲🇽 | 1965-10-24 | 10 | 5 | 64 |   | Richie Ginther 🇺🇸 | Honda 🇯🇵 |
-| 1965 | 9 | 1965 United States Grand Prix 🇺🇸 | 1965-10-03 | 12 | 13 | 92 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
-| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 6 | R | 27 |   | Jackie Stewart 🇬🇧 | BRM 🇬🇧 |
-| 1965 | 4 | 1965 French Grand Prix 🇫🇷 | 1965-06-27 | 16 | R | 4 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1965 | 3 | 1965 Belgian Grand Prix 🇧🇪 | 1965-06-13 | 11 | R | 9 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1965 | 2 | 1965 Monaco Grand Prix 🇲🇨 | 1965-05-30 | 15 | R | 33 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
-| 1964 | 9 | 1964 United States Grand Prix 🇺🇸 | 1964-10-04 | 14 | R | 50 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
-| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 10 | R | 13 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1964 | 6 | 1964 German Grand Prix 🇩🇪 | 1964-08-02 | 22 | 13 | 11 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1966 | 9 | 1966 Mexican Grand Prix 🇲🇽 | 1966-10-23 | 13 | 8 | 0.0 | 60 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 3 | 4 |
+| 1966 | 8 | 1966 United States Grand Prix 🇺🇸 | 1966-10-02 | 18 | R | 0.0 | 58 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 8 | N |
+| 1965 | 10 | 1965 Mexican Grand Prix 🇲🇽 | 1965-10-24 | 10 | 5 | 2.0 | 64 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 3 | 1 |
+| 1965 | 9 | 1965 United States Grand Prix 🇺🇸 | 1965-10-03 | 12 | 13 | 0.0 | 92 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 3 | 7 |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 6 | R | 0.0 | 27 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 17 | 14 |
+| 1965 | 4 | 1965 French Grand Prix 🇫🇷 | 1965-06-27 | 16 | R | 0.0 | 4 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 7 | R |
+| 1965 | 3 | 1965 Belgian Grand Prix 🇧🇪 | 1965-06-13 | 11 | R | 0.0 | 9 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 4 | 6 |
+| 1965 | 2 | 1965 Monaco Grand Prix 🇲🇨 | 1965-05-30 | 15 | R | 0.0 | 33 |   | Honda 🇯🇵 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 17 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 11 |  |  | 11 | 4 | 11 |  |  |  |
-| **Total Sum** | 76.000 |  |  | 147.000 | 39.000 | 421.000 |  |  |  |
-| **Mean μ (Average)** | 6.909 |  |  | 13.364 | 9.750 | 38.273 |  |  |  |
-| **Maximum** | 10.000 |  |  | 22.000 | 13.000 | 92.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 16.000 | 13.000 | 60.000 |  |  |  |
-| **Median** | 8.000 |  |  | 13.000 | 13.000 | 33.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 10.000 | 8.000 | 11.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 6.000 | 5.000 | 4.000 |  |  |  |
-| **Variance** | 6.810 |  |  | 17.322 | 11.688 | 737.835 |  |  |  |
-| **Standard Deviation σ** | 2.610 |  |  | 4.162 | 3.419 | 27.163 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 8 |  |  | 8 | 3 | 8 | 8 |  |  |  | 8 | 5 |
+| **Total Sum** | 53.000 |  |  | 101.000 | 26.000 | 2.000 | 347.000 |  |  |  | 62.000 | 32.000 |
+| **Mean μ (Average)** | 6.625 |  |  | 12.625 | 8.667 | 0.250 | 43.375 |  |  |  | 7.750 | 6.400 |
+| **Maximum** | 10.000 |  |  | 18.000 | 13.000 | 2.000 | 92.000 |  |  |  | 17.000 | 14.000 |
+| **75th Percentile** | 9.000 |  |  | 16.000 | 13.000 |  | 64.000 |  |  |  | 17.000 | 7.000 |
+| **Median** | 8.000 |  |  | 13.000 | 8.000 |  | 58.000 |  |  |  | 7.000 | 6.000 |
+| **25th Percentile** | 4.000 |  |  | 11.000 | 5.000 |  | 27.000 |  |  |  | 3.000 | 4.000 |
+| **Minimum** | 2.000 |  |  | 6.000 | 5.000 |  | 4.000 |  |  |  | 3.000 | 1.000 |
+| **Variance** | 8.484 |  |  | 12.484 | 10.889 | 0.438 | 798.484 |  |  |  | 31.688 | 18.640 |
+| **Standard Deviation σ** | 2.913 |  |  | 3.533 | 3.300 | 0.661 | 28.257 |  |  |  | 5.629 | 4.317 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

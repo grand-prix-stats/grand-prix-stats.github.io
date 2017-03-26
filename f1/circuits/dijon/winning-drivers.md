@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 1 |
-| 2. | Jean-Pierre Jabouille 🇫🇷 | 1 |
-| 3. | Keke Rosberg 🇫🇮 | 1 |
-| 4. | Mario Andretti 🇺🇸 | 1 |
-| 5. | Niki Lauda 🇦🇹 | 1 |
-| 6. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 2. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 1 |
+| 3. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 4. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 5. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 6. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

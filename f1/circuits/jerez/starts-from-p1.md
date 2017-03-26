@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Ayrton Senna 🇧🇷 | 4 |
-| 2. | Jacques Villeneuve 🇨🇦 | 1 |
-| 3. | Michael Schumacher 🇩🇪 | 1 |
-| 4. | Nelson Piquet 🇧🇷 | 1 |
+| 1. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 4 |
+| 2. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 4. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
 
 #### Statistic Summary
 

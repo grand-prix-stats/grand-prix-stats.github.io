@@ -195,36 +195,36 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Graham Hill 🇬🇧 | 6 |
-| 2. | Carlos Reutemann 🇦🇷 | 4 |
-| 3. | James Hunt 🇬🇧 | 4 |
-| 4. | Jim Clark 🇬🇧 | 4 |
-| 5. | John Surtees 🇬🇧 | 4 |
-| 6. | Jody Scheckter 🇿🇦 | 3 |
-| 7. | Alan Jones 🇦🇺 | 2 |
-| 8. | Dan Gurney 🇺🇸 | 2 |
-| 9. | Denny Hulme 🇳🇿 | 2 |
-| 10. | Didier Pironi 🇫🇷 | 2 |
-| 11. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 12. | François Cevert 🇫🇷 | 2 |
-| 13. | Jackie Stewart 🇬🇧 | 2 |
-| 14. | Jo Siffert 🇨🇭 | 2 |
-| 15. | Jochen Rindt 🇦🇹 | 2 |
-| 16. | Niki Lauda 🇦🇹 | 2 |
-| 17. | Ronnie Peterson 🇸🇪 | 2 |
-| 18. | Bruce McLaren 🇳🇿 | 1 |
-| 19. | Carlos Pace 🇧🇷 | 1 |
-| 20. | Gilles Villeneuve 🇨🇦 | 1 |
-| 21. | Innes Ireland 🇬🇧 | 1 |
-| 22. | Jack Brabham 🇦🇺 | 1 |
-| 23. | Jochen Mass 🇩🇪 | 1 |
-| 24. | Mario Andretti 🇺🇸 | 1 |
-| 25. | Pedro Rodríguez 🇲🇽 | 1 |
-| 26. | Piers Courage 🇬🇧 | 1 |
-| 27. | Reine Wisell 🇸🇪 | 1 |
-| 28. | René Arnoux 🇫🇷 | 1 |
-| 29. | Richie Ginther 🇺🇸 | 1 |
-| 30. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 6 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 4 |
+| 3. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 4 |
+| 4. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 4 |
+| 5. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 4 |
+| 6. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 3 |
+| 7. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 8. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 2 |
+| 9. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 2 |
+| 10. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 2 |
+| 11. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 12. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 2 |
+| 13. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 14. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 2 |
+| 15. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 2 |
+| 16. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 17. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 18. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 19. | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 1 |
+| 20. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 21. | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| 22. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 23. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
+| 24. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 25. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
+| 26. | [Piers Courage 🇬🇧](/f1/drivers/courage) | 1 |
+| 27. | [Reine Wisell 🇸🇪](/f1/drivers/wisell) | 1 |
+| 28. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 29. | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 1 |
+| 30. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

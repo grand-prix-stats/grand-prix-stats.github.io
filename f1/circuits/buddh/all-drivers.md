@@ -24,41 +24,41 @@ collectionId: buddh
 
 | Driver | Times |
 |--|--|
-| Daniel Ricciardo 🇦🇺 | 3 |
-| Felipe Massa 🇧🇷 | 3 |
-| Fernando Alonso 🇪🇸 | 3 |
-| Jenson Button 🇬🇧 | 3 |
-| Lewis Hamilton 🇬🇧 | 3 |
-| Mark Webber 🇦🇺 | 3 |
-| Nico Rosberg 🇩🇪 | 3 |
-| Pastor Maldonado 🇻🇪 | 3 |
-| Paul di Resta 🇬🇧 | 3 |
-| Sebastian Vettel 🇩🇪 | 3 |
-| Sergio Pérez 🇲🇽 | 3 |
-| Adrian Sutil 🇩🇪 | 2 |
-| Bruno Senna 🇧🇷 | 2 |
-| Charles Pic 🇫🇷 | 2 |
-| Heikki Kovalainen 🇫🇮 | 2 |
-| Jean-Éric Vergne 🇫🇷 | 2 |
-| Kamui Kobayashi 🇯🇵 | 2 |
-| Kimi Räikkönen 🇫🇮 | 2 |
-| Michael Schumacher 🇩🇪 | 2 |
-| Narain Karthikeyan 🇮🇳 | 2 |
-| Nico Hülkenberg 🇩🇪 | 2 |
-| Romain Grosjean 🇫🇷 | 2 |
-| Timo Glock 🇩🇪 | 2 |
-| Vitaly Petrov 🇷🇺 | 2 |
-| Esteban Gutiérrez 🇲🇽 | 1 |
-| Giedo van der Garde 🇳🇱 | 1 |
-| Jaime Alguersuari 🇪🇸 | 1 |
-| Jarno Trulli 🇮🇹 | 1 |
-| Jérôme d'Ambrosio 🇧🇪 | 1 |
-| Jules Bianchi 🇫🇷 | 1 |
-| Max Chilton 🇬🇧 | 1 |
-| Pedro de la Rosa 🇪🇸 | 1 |
-| Rubens Barrichello 🇧🇷 | 1 |
-| Sébastien Buemi 🇨🇭 | 1 |
-| Valtteri Bottas 🇫🇮 | 1 |
+| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 3 |
+| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
+| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| [Mark Webber 🇦🇺](/f1/drivers/webber) | 3 |
+| [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 |
+| [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 3 |
+| [Paul di Resta 🇬🇧](/f1/drivers/resta) | 3 |
+| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 3 |
+| [Adrian Sutil 🇩🇪](/f1/drivers/sutil) | 2 |
+| [Bruno Senna 🇧🇷](/f1/drivers/bruno_senna) | 2 |
+| [Charles Pic 🇫🇷](/f1/drivers/pic) | 2 |
+| [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 2 |
+| [Jean-Éric Vergne 🇫🇷](/f1/drivers/vergne) | 2 |
+| [Kamui Kobayashi 🇯🇵](/f1/drivers/kobayashi) | 2 |
+| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| [Narain Karthikeyan 🇮🇳](/f1/drivers/karthikeyan) | 2 |
+| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 2 |
+| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 2 |
+| [Timo Glock 🇩🇪](/f1/drivers/glock) | 2 |
+| [Vitaly Petrov 🇷🇺](/f1/drivers/petrov) | 2 |
+| [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 1 |
+| [Giedo van der Garde 🇳🇱](/f1/drivers/garde) | 1 |
+| [Jaime Alguersuari 🇪🇸](/f1/drivers/alguersuari) | 1 |
+| [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| [Jérôme d'Ambrosio 🇧🇪](/f1/drivers/ambrosio) | 1 |
+| [Jules Bianchi 🇫🇷](/f1/drivers/jules_bianchi) | 1 |
+| [Max Chilton 🇬🇧](/f1/drivers/chilton) | 1 |
+| [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 1 |
+| [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| [Sébastien Buemi 🇨🇭](/f1/drivers/buemi) | 1 |
+| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 

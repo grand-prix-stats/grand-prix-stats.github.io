@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Ayrton Senna 🇧🇷 | 3 |
-| 2. | John Watson 🇬🇧 | 1 |
-| 3. | Keke Rosberg 🇫🇮 | 1 |
-| 4. | Michele Alboreto 🇮🇹 | 1 |
-| 5. | Nelson Piquet 🇧🇷 | 1 |
+| 1. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| 2. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 3. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 4. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
 
 #### Statistic Summary
 

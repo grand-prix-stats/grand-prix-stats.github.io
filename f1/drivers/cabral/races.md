@@ -22,26 +22,28 @@ collectionId: cabral
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 19 | R | 25 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | F | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 20 | R | 6 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1960 | 8 | 1960 Portuguese Grand Prix 🇵🇹 | 1960-08-14 | 15 | R | 38 |   | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
-| 1959 | 7 | 1959 Portuguese Grand Prix 🇵🇹 | 1959-08-23 | 14 | 10 | 56 |   | Stirling Moss 🇬🇧 | Cooper-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 8 | 3 |
+| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 13 | 6 |
+| 1963 | 7 | 1963 Italian Grand Prix 🇮🇹 | 1963-09-08 | 0 | F | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 11 | 7 |
+| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 20 | R | 0.0 | 6 |   | Cooper-Climax 🇬🇧 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 12 | 6 |
+| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 20 | R | 0.0 | 6 |   | Cooper-Climax 🇬🇧 | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 10 | R |
+| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 20 | R | 0.0 | 6 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 5 | R |
+| 1960 | 8 | 1960 Portuguese Grand Prix 🇵🇹 | 1960-08-14 | 15 | R | 0.0 | 38 |   | Cooper-Maserati 🇬🇧 | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 11 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 | 1 | 5 |  |  |  |
-| **Total Sum** | 36.000 |  |  | 68.000 | 10.000 | 125.000 |  |  |  |
-| **Mean μ (Average)** | 7.200 |  |  | 13.600 | 10.000 | 25.000 |  |  |  |
-| **Maximum** | 8.000 |  |  | 20.000 | 10.000 | 56.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 19.000 | 10.000 | 38.000 |  |  |  |
-| **Median** | 7.000 |  |  | 15.000 | 10.000 | 25.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  | 14.000 | 10.000 | 6.000 |  |  |  |
-| **Minimum** | 6.000 |  |  |  | 10.000 |  |  |  |  |
-| **Variance** | 0.560 |  |  | 51.440 |  | 423.200 |  |  |  |
-| **Standard Deviation σ** | 0.748 |  |  | 7.172 |  | 20.572 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 7 |  |  | 7 |  | 7 | 7 |  |  |  | 7 | 4 |
+| **Total Sum** | 47.000 |  |  | 75.000 |  |  | 56.000 |  |  |  | 70.000 | 22.000 |
+| **Mean μ (Average)** | 6.714 |  |  | 10.714 |  |  | 8.000 |  |  |  | 10.000 | 5.500 |
+| **Maximum** | 8.000 |  |  | 20.000 |  |  | 38.000 |  |  |  | 13.000 | 7.000 |
+| **75th Percentile** | 7.000 |  |  | 20.000 |  |  | 6.000 |  |  |  | 12.000 | 7.000 |
+| **Median** | 7.000 |  |  | 15.000 |  |  | 6.000 |  |  |  | 11.000 | 6.000 |
+| **25th Percentile** | 6.000 |  |  |  |  |  |  |  |  |  | 8.000 | 6.000 |
+| **Minimum** | 6.000 |  |  |  |  |  |  |  |  |  | 5.000 | 3.000 |
+| **Variance** | 0.490 |  |  | 88.776 |  |  | 157.714 |  |  |  | 6.286 | 2.250 |
+| **Standard Deviation σ** | 0.700 |  |  | 9.422 |  |  | 12.558 |  |  |  | 2.507 | 1.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 3 |
-| 2. | Nico Rosberg 🇩🇪 | 2 |
-| 3. | Felipe Massa 🇧🇷 | 1 |
-| 4. | Kimi Räikkönen 🇫🇮 | 1 |
-| 5. | Max Verstappen 🇳🇱 | 1 |
-| 6. | Valtteri Bottas 🇫🇮 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 5. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
+| 6. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 

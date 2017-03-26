@@ -1,12 +1,12 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1995 Belgian Grand Prix 🇧🇪,11,14,43,Benetton 🇮🇹,1995-08-27,11,,1995,Michael Schumacher 🇩🇪
-1995 British Grand Prix 🇬🇧,8,16,60,Benetton 🇮🇹,1995-07-16,9,,1995,Johnny Herbert 🇬🇧
-1995 Canadian Grand Prix 🇨🇦,6,18,19,Ferrari 🇮🇹,1995-06-11,R,,1995,Jean Alesi 🇫🇷
-1995 European Grand Prix 🇩🇪,14,13,44,Benetton 🇮🇹,1995-10-01,R,,1995,Michael Schumacher 🇩🇪
-1995 French Grand Prix 🇫🇷,7,15,48,Benetton 🇮🇹,1995-07-02,R,,1995,Michael Schumacher 🇩🇪
-1995 German Grand Prix 🇩🇪,9,14,44,Benetton 🇮🇹,1995-07-30,5,,1995,Michael Schumacher 🇩🇪
-1995 Hungarian Grand Prix 🇭🇺,10,19,74,Williams 🇬🇧,1995-08-13,10,,1995,Damon Hill 🇬🇧
-1995 Italian Grand Prix 🇮🇹,12,14,52,Benetton 🇮🇹,1995-09-10,6,,1995,Johnny Herbert 🇬🇧
-1995 Monaco Grand Prix 🇲🇨,5,19,74,Benetton 🇮🇹,1995-05-28,8,,1995,Michael Schumacher 🇩🇪
-1995 Pacific Grand Prix 🇯🇵,15,15,7,Benetton 🇮🇹,1995-10-22,R,,1995,Michael Schumacher 🇩🇪
-1995 Portuguese Grand Prix 🇵🇹,13,14,70,Williams 🇬🇧,1995-09-24,12,,1995,David Coulthard 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1995 Belgian Grand Prix 🇧🇪,4,14,1995-08-27,11,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,11,10,43,,0.0
+1995 British Grand Prix 🇬🇧,6,16,1995-07-16,9,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,8,12,60,,0.0
+1995 Canadian Grand Prix 🇨🇦,R,18,1995-06-11,R,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,6,12,19,,0.0
+1995 European Grand Prix 🇩🇪,R,13,1995-10-01,R,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,14,8,44,,0.0
+1995 French Grand Prix 🇫🇷,10,15,1995-07-02,R,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,7,12,48,,0.0
+1995 German Grand Prix 🇩🇪,R,14,1995-07-30,5,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,9,11,44,,2.0
+1995 Hungarian Grand Prix 🇭🇺,5,19,1995-08-13,10,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,10,11,74,,0.0
+1995 Italian Grand Prix 🇮🇹,3,14,1995-09-10,6,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,12,10,52,,1.0
+1995 Monaco Grand Prix 🇲🇨,6,19,1995-05-28,8,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,5,14,74,,0.0
+1995 Pacific Grand Prix 🇯🇵,7,15,1995-10-22,R,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,15,8,7,,0.0
+1995 Portuguese Grand Prix 🇵🇹,6,14,1995-09-24,12,1995,Heinz-Harald Frentzen 🇩🇪,Sauber 🇨🇭,13,5,70,,0.0

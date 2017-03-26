@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Cooper-Maserati 🇬🇧",
         "date": "1960-02-07",
         "final_position": "11",
         "grid": 17,
         "laps_completed": 76,
         "name": "1960 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
         "round": 1,
         "season": 1960,
-        "time": null,
-        "winning_constructor": "Cooper-Climax 🇬🇧",
-        "winning_driver": "Bruce McLaren 🇳🇿"
+        "teammate": "Carlos Menditeguy 🇦🇷",
+        "teammate_final_position": "4",
+        "teammate_grid": 12,
+        "time": null
     }
 ]

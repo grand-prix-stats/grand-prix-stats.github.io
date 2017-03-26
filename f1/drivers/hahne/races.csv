@@ -1,4 +1,8 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1967 German Grand Prix 🇩🇪,7,14,6,Brabham-Repco 🇬🇧,1967-08-06,R,,1967,Denny Hulme 🇳🇿
-1968 German Grand Prix 🇩🇪,8,18,14,Matra-Ford 🇫🇷,1968-08-04,10,+10:11.4,1968,Jackie Stewart 🇬🇧
-1970 German Grand Prix 🇩🇪,8,0,0,Team Lotus 🇬🇧,1970-08-02,F,,1970,Jochen Rindt 🇦🇹
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1967 German Grand Prix 🇩🇪,10,14,1967-08-06,R,1967,David Hobbs 🇬🇧,Lola 🇬🇧,7,22,6,,0.0
+1970 German Grand Prix 🇩🇪,7,0,1970-08-02,F,1970,François Cevert 🇫🇷,March 🇬🇧,8,14,0,,0.0
+1970 German Grand Prix 🇩🇪,8,0,1970-08-02,F,1970,Jo Siffert 🇨🇭,March 🇬🇧,8,4,0,,0.0
+1970 German Grand Prix 🇩🇪,R,0,1970-08-02,F,1970,Chris Amon 🇳🇿,March 🇬🇧,8,6,0,,0.0
+1970 German Grand Prix 🇩🇪,R,0,1970-08-02,F,1970,Jackie Stewart 🇬🇧,March 🇬🇧,8,7,0,,0.0
+1970 German Grand Prix 🇩🇪,R,0,1970-08-02,F,1970,Mario Andretti 🇺🇸,March 🇬🇧,8,9,0,,0.0
+1970 German Grand Prix 🇩🇪,R,0,1970-08-02,F,1970,Ronnie Peterson 🇸🇪,March 🇬🇧,8,19,0,,0.0

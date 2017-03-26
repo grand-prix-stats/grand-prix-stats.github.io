@@ -22,22 +22,24 @@ collectionId: galvez
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 9 | 5 | 96 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 9 | 5 | 2.0 | 96 |   | Maserati 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 5 | 3 |
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 9 | 5 | 2.0 | 96 |   | Maserati 🇮🇹 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 | R |
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 9 | 5 | 2.0 | 96 |   | Maserati 🇮🇹 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 15 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **Maximum** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **Median** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 9.000 | 5.000 | 96.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 3.000 |  |  | 27.000 | 15.000 | 6.000 | 288.000 |  |  |  | 22.000 | 3.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 9.000 | 5.000 | 2.000 | 96.000 |  |  |  | 7.333 | 3.000 |
+| **Maximum** | 1.000 |  |  | 9.000 | 5.000 | 2.000 | 96.000 |  |  |  | 15.000 | 3.000 |
+| **75th Percentile** | 1.000 |  |  | 9.000 | 5.000 | 2.000 | 96.000 |  |  |  | 15.000 | 3.000 |
+| **Median** | 1.000 |  |  | 9.000 | 5.000 | 2.000 | 96.000 |  |  |  | 5.000 | 3.000 |
+| **25th Percentile** | 1.000 |  |  | 9.000 | 5.000 | 2.000 | 96.000 |  |  |  | 2.000 | 3.000 |
+| **Minimum** | 1.000 |  |  | 9.000 | 5.000 | 2.000 | 96.000 |  |  |  | 2.000 | 3.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 30.889 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.558 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

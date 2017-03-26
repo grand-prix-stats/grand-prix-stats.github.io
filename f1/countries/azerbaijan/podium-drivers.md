@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Nico Rosberg 🇩🇪 | 1 |
-| 2. | Sebastian Vettel 🇩🇪 | 1 |
-| 3. | Sergio Pérez 🇲🇽 | 1 |
+| 1. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 3. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
 
 #### Statistic Summary
 

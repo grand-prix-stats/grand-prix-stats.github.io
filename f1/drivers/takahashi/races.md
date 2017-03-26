@@ -22,22 +22,23 @@ collectionId: takahashi
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 22 | 9 | 71 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 22 | 9 | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 15 | 3 |
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 22 | 9 | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 18 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **Mean μ (Average)** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **Maximum** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **75th Percentile** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **Median** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **25th Percentile** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **Minimum** | 17.000 |  |  | 22.000 | 9.000 | 71.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 34.000 |  |  | 44.000 | 18.000 |  | 142.000 |  |  |  | 33.000 | 3.000 |
+| **Mean μ (Average)** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 16.500 | 3.000 |
+| **Maximum** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
+| **75th Percentile** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
+| **Median** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
+| **25th Percentile** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 15.000 | 3.000 |
+| **Minimum** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 15.000 | 3.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 2.250 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -123,18 +123,18 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Nelson Piquet 🇧🇷 | 2 |
-| 2. | Niki Lauda 🇦🇹 | 2 |
-| 3. | Ayrton Senna 🇧🇷 | 1 |
-| 4. | Didier Pironi 🇫🇷 | 1 |
-| 5. | Elio de Angelis 🇮🇹 | 1 |
-| 6. | Graham Hill 🇬🇧 | 1 |
-| 7. | Jack Brabham 🇦🇺 | 1 |
-| 8. | Jacky Ickx 🇧🇪 | 1 |
-| 9. | Jim Clark 🇬🇧 | 1 |
-| 10. | Jochen Rindt 🇦🇹 | 1 |
-| 11. | Keke Rosberg 🇫🇮 | 1 |
-| 12. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 2. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 3. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 4. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
+| 5. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 6. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 7. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 8. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 9. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 10. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 11. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 12. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

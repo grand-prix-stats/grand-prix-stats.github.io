@@ -179,32 +179,32 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 6 |
-| 2. | Ayrton Senna 🇧🇷 | 5 |
-| 3. | Jim Clark 🇬🇧 | 4 |
-| 4. | Kimi Räikkönen 🇫🇮 | 4 |
-| 5. | Damon Hill 🇬🇧 | 3 |
-| 6. | Juan Fangio 🇦🇷 | 3 |
-| 7. | Alain Prost 🇫🇷 | 2 |
-| 8. | Alberto Ascari 🇮🇹 | 2 |
-| 9. | Lewis Hamilton 🇬🇧 | 2 |
-| 10. | Sebastian Vettel 🇩🇪 | 2 |
-| 11. | Bruce McLaren 🇳🇿 | 1 |
-| 12. | Dan Gurney 🇺🇸 | 1 |
-| 13. | Daniel Ricciardo 🇦🇺 | 1 |
-| 14. | David Coulthard 🇬🇧 | 1 |
-| 15. | Felipe Massa 🇧🇷 | 1 |
-| 16. | Jack Brabham 🇦🇺 | 1 |
-| 17. | Jenson Button 🇬🇧 | 1 |
-| 18. | John Surtees 🇬🇧 | 1 |
-| 19. | Mika Häkkinen 🇫🇮 | 1 |
-| 20. | Nico Rosberg 🇩🇪 | 1 |
-| 21. | Nigel Mansell 🇬🇧 | 1 |
-| 22. | Nino Farina 🇮🇹 | 1 |
-| 23. | Pedro Rodríguez 🇲🇽 | 1 |
-| 24. | Peter Collins 🇬🇧 | 1 |
-| 25. | Phil Hill 🇺🇸 | 1 |
-| 26. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 5 |
+| 3. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 4 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 |
+| 5. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 3 |
+| 6. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 7. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 8. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| 9. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 11. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 12. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 13. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 14. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 15. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 16. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 17. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 18. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 19. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 20. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 21. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 22. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
+| 23. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
+| 24. | [Peter Collins 🇬🇧](/f1/drivers/collins) | 1 |
+| 25. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 26. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

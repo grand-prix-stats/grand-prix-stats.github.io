@@ -22,23 +22,24 @@ collectionId: crawford
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 25 | 13 | 46 |   | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
-| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 25 | R | 28 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 25 | 13 | 0.0 | 46 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 11 | R |
+| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 25 | R | 0.0 | 28 |   | Team Lotus 🇬🇧 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 21 | 16 |
+| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 25 | R | 0.0 | 28 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 16 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 23.000 |  |  | 50.000 | 13.000 | 74.000 |  |  |  |
-| **Mean μ (Average)** | 11.500 |  |  | 25.000 | 13.000 | 37.000 |  |  |  |
-| **Maximum** | 13.000 |  |  | 25.000 | 13.000 | 46.000 |  |  |  |
-| **75th Percentile** | 13.000 |  |  | 25.000 | 13.000 | 46.000 |  |  |  |
-| **Median** | 13.000 |  |  | 25.000 | 13.000 | 46.000 |  |  |  |
-| **25th Percentile** | 10.000 |  |  | 25.000 | 13.000 | 28.000 |  |  |  |
-| **Minimum** | 10.000 |  |  | 25.000 | 13.000 | 28.000 |  |  |  |
-| **Variance** | 2.250 |  |  |  |  | 81.000 |  |  |  |
-| **Standard Deviation σ** | 1.500 |  |  |  |  | 9.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 1 | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 33.000 |  |  | 75.000 | 13.000 |  | 102.000 |  |  |  | 48.000 | 16.000 |
+| **Mean μ (Average)** | 11.000 |  |  | 25.000 | 13.000 |  | 34.000 |  |  |  | 16.000 | 16.000 |
+| **Maximum** | 13.000 |  |  | 25.000 | 13.000 |  | 46.000 |  |  |  | 21.000 | 16.000 |
+| **75th Percentile** | 13.000 |  |  | 25.000 | 13.000 |  | 46.000 |  |  |  | 21.000 | 16.000 |
+| **Median** | 10.000 |  |  | 25.000 | 13.000 |  | 28.000 |  |  |  | 16.000 | 16.000 |
+| **25th Percentile** | 10.000 |  |  | 25.000 | 13.000 |  | 28.000 |  |  |  | 11.000 | 16.000 |
+| **Minimum** | 10.000 |  |  | 25.000 | 13.000 |  | 28.000 |  |  |  | 11.000 | 16.000 |
+| **Variance** | 2.000 |  |  |  |  |  | 72.000 |  |  |  | 16.667 |  |
+| **Standard Deviation σ** | 1.414 |  |  |  |  |  | 8.485 |  |  |  | 4.082 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

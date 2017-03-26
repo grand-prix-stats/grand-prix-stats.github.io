@@ -1,26 +1,47 @@
 [
     {
+        "constructor": "Brabham-Ford 🇬🇧",
         "date": "1965-01-01",
         "final_position": "14",
         "grid": 19,
         "laps_completed": 71,
         "name": "1965 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 1,
         "season": 1965,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Paul Hawkins 🇦🇺",
+        "teammate_final_position": "9",
+        "teammate_grid": 16,
+        "time": null
     },
     {
+        "constructor": "Brabham 🇬🇧",
         "date": "1963-12-28",
         "final_position": "R",
         "grid": 14,
         "laps_completed": 49,
         "name": "1963 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 10,
         "season": 1963,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Dan Gurney 🇺🇸",
+        "teammate_final_position": "2",
+        "teammate_grid": 3,
+        "time": null
+    },
+    {
+        "constructor": "Brabham 🇬🇧",
+        "date": "1963-12-28",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 49,
+        "name": "1963 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 10,
+        "season": 1963,
+        "teammate": "Jack Brabham 🇦🇺",
+        "teammate_final_position": "13",
+        "teammate_grid": 2,
+        "time": null
     }
 ]

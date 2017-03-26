@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "Brabham 🇬🇧",
         "date": "1974-09-08",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1974 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 13,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Ronnie Peterson 🇸🇪"
+        "teammate": "Carlos Pace 🇧🇷",
+        "teammate_final_position": "5",
+        "teammate_grid": 3,
+        "time": null
+    },
+    {
+        "constructor": "Brabham 🇬🇧",
+        "date": "1974-09-08",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 13,
+        "season": 1974,
+        "teammate": "John Watson 🇬🇧",
+        "teammate_final_position": "7",
+        "teammate_grid": 4,
+        "time": null
+    },
+    {
+        "constructor": "Brabham 🇬🇧",
+        "date": "1974-09-08",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 13,
+        "season": 1974,
+        "teammate": "Carlos Reutemann 🇦🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 2,
+        "time": null
     }
 ]

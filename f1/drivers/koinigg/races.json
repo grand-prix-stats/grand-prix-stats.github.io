@@ -1,38 +1,77 @@
 [
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1974-10-06",
         "final_position": "R",
         "grid": 23,
         "laps_completed": 9,
         "name": "1974 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 15,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "José Dolhem 🇫🇷",
+        "teammate_final_position": "W",
+        "teammate_grid": 26,
+        "time": null
     },
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1974-09-22",
         "final_position": "10",
         "grid": 22,
         "laps_completed": 78,
         "name": "1974 Canadian Grand Prix 🇨🇦",
+        "points": 0.0,
         "round": 14,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+        "teammate": "Derek Bell 🇬🇧",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
     },
     {
+        "constructor": "Brabham 🇬🇧",
         "date": "1974-08-18",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1974 Austrian Grand Prix 🇦🇹",
+        "points": 0.0,
         "round": 12,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "Carlos Reutemann 🇦🇷",
+        "teammate_final_position": "1",
+        "teammate_grid": 2,
+        "time": null
+    },
+    {
+        "constructor": "Brabham 🇬🇧",
+        "date": "1974-08-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Austrian Grand Prix 🇦🇹",
+        "points": 0.0,
+        "round": 12,
+        "season": 1974,
+        "teammate": "John Watson 🇬🇧",
+        "teammate_final_position": "4",
+        "teammate_grid": 11,
+        "time": null
+    },
+    {
+        "constructor": "Brabham 🇬🇧",
+        "date": "1974-08-18",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1974 Austrian Grand Prix 🇦🇹",
+        "points": 0.0,
+        "round": 12,
+        "season": 1974,
+        "teammate": "Carlos Pace 🇧🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 4,
+        "time": null
     }
 ]

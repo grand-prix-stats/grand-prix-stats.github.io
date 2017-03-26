@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 39 |
-| 2. | Jacques Villeneuve 🇨🇦 | 24 |
-| 3. | Heinz-Harald Frentzen 🇩🇪 | 5 |
-| 4. | Mika Häkkinen 🇫🇮 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 39 |
+| 2. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 24 |
+| 3. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 5 |
+| 4. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
 
 #### Statistic Summary
 

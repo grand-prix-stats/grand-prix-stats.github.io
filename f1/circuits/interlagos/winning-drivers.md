@@ -167,29 +167,29 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 4 |
-| 2. | Ayrton Senna 🇧🇷 | 2 |
-| 3. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 4. | Felipe Massa 🇧🇷 | 2 |
-| 5. | Juan Pablo Montoya 🇨🇴 | 2 |
-| 6. | Mark Webber 🇦🇺 | 2 |
-| 7. | Mika Häkkinen 🇫🇮 | 2 |
-| 8. | Nico Rosberg 🇩🇪 | 2 |
-| 9. | Sebastian Vettel 🇩🇪 | 2 |
-| 10. | Alain Prost 🇫🇷 | 1 |
-| 11. | Carlos Pace 🇧🇷 | 1 |
-| 12. | Carlos Reutemann 🇦🇷 | 1 |
-| 13. | Damon Hill 🇬🇧 | 1 |
-| 14. | David Coulthard 🇬🇧 | 1 |
-| 15. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 16. | Jacques Laffite 🇫🇷 | 1 |
-| 17. | Jacques Villeneuve 🇨🇦 | 1 |
-| 18. | Jenson Button 🇬🇧 | 1 |
-| 19. | Kimi Räikkönen 🇫🇮 | 1 |
-| 20. | Lewis Hamilton 🇬🇧 | 1 |
-| 21. | Nigel Mansell 🇬🇧 | 1 |
-| 22. | Niki Lauda 🇦🇹 | 1 |
-| 23. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 3. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 4. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
+| 5. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 6. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 7. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 8. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 9. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 10. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 11. | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 1 |
+| 12. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 13. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 14. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 15. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 16. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 17. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 18. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 19. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 20. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 21. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 22. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 23. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

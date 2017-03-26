@@ -1,26 +1,47 @@
 [
     {
-        "date": "1952-08-17",
-        "final_position": "R",
-        "grid": 13,
-        "laps_completed": 27,
-        "name": "1952 Dutch Grand Prix 🇳🇱",
-        "round": 7,
-        "season": 1952,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
-    },
-    {
+        "constructor": "Connaught 🇬🇧",
         "date": "1952-07-19",
         "final_position": "9",
         "grid": 5,
         "laps_completed": 82,
         "name": "1952 British Grand Prix 🇬🇧",
+        "points": 0.0,
         "round": 5,
         "season": 1952,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "teammate": "Dennis Poore 🇬🇧",
+        "teammate_final_position": "4",
+        "teammate_grid": 8,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-07-19",
+        "final_position": "9",
+        "grid": 5,
+        "laps_completed": 82,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 5,
+        "season": 1952,
+        "teammate": "Eric Thompson 🇬🇧",
+        "teammate_final_position": "5",
+        "teammate_grid": 9,
+        "time": null
+    },
+    {
+        "constructor": "Connaught 🇬🇧",
+        "date": "1952-07-19",
+        "final_position": "9",
+        "grid": 5,
+        "laps_completed": 82,
+        "name": "1952 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 5,
+        "season": 1952,
+        "teammate": "Kenneth McAlpine 🇬🇧",
+        "teammate_final_position": "16",
+        "teammate_grid": 17,
+        "time": null
     }
 ]

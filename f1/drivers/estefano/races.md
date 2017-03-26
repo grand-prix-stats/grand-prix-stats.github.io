@@ -22,26 +22,25 @@ collectionId: estefano
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 5 | 1963 British Grand Prix 🇬🇧 | 1963-07-20 | 0 | W | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1963 | 4 | 1963 French Grand Prix 🇫🇷 | 1963-06-30 | 0 | W | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1963 | 1 | 1963 Monaco Grand Prix 🇲🇨 | 1963-05-26 | 0 | W | 0 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
-| 1962 | 7 | 1962 Italian Grand Prix 🇮🇹 | 1962-09-16 | 0 | F | 0 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 20 | 14 | 70 |   | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 20 | 14 | 0.0 | 70 |   | Maserati 🇮🇹 | [Gino Munaron 🇮🇹](/f1/drivers/munaron) | 19 | 13 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 20 | 14 | 0.0 | 70 |   | Maserati 🇮🇹 | [Ettore Chimeri 🇻🇪](/f1/drivers/chimeri) | 21 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 20 | 14 | 0.0 | 70 |   | Maserati 🇮🇹 | [Antonio Creus 🇪🇸](/f1/drivers/creus) | 22 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 20 | 14 | 0.0 | 70 |   | Maserati 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 18 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 | 1 | 5 |  |  |  |
-| **Total Sum** | 18.000 |  |  | 20.000 | 14.000 | 70.000 |  |  |  |
-| **Mean μ (Average)** | 3.600 |  |  | 4.000 | 14.000 | 14.000 |  |  |  |
-| **Maximum** | 7.000 |  |  | 20.000 | 14.000 | 70.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  |  | 14.000 |  |  |  |  |
-| **Median** | 4.000 |  |  |  | 14.000 |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  | 14.000 |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  | 14.000 |  |  |  |  |
-| **Variance** | 5.440 |  |  | 64.000 |  | 784.000 |  |  |  |
-| **Standard Deviation σ** | 2.332 |  |  | 8.000 |  | 28.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 | 4 | 4 | 4 |  |  |  | 4 | 1 |
+| **Total Sum** | 4.000 |  |  | 80.000 | 56.000 |  | 280.000 |  |  |  | 80.000 | 13.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 20.000 | 14.000 |  | 70.000 |  |  |  | 20.000 | 13.000 |
+| **Maximum** | 1.000 |  |  | 20.000 | 14.000 |  | 70.000 |  |  |  | 22.000 | 13.000 |
+| **75th Percentile** | 1.000 |  |  | 20.000 | 14.000 |  | 70.000 |  |  |  | 22.000 | 13.000 |
+| **Median** | 1.000 |  |  | 20.000 | 14.000 |  | 70.000 |  |  |  | 21.000 | 13.000 |
+| **25th Percentile** | 1.000 |  |  | 20.000 | 14.000 |  | 70.000 |  |  |  | 19.000 | 13.000 |
+| **Minimum** | 1.000 |  |  | 20.000 | 14.000 |  | 70.000 |  |  |  | 18.000 | 13.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 2.500 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.581 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

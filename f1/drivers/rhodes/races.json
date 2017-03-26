@@ -1,14 +1,32 @@
 [
     {
+        "constructor": "Cooper-Climax 🇬🇧",
         "date": "1965-07-10",
         "final_position": "R",
         "grid": 21,
         "laps_completed": 38,
         "name": "1965 British Grand Prix 🇬🇧",
+        "points": 0.0,
         "round": 5,
         "season": 1965,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Bruce McLaren 🇳🇿",
+        "teammate_final_position": "10",
+        "teammate_grid": 11,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Climax 🇬🇧",
+        "date": "1965-07-10",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 38,
+        "name": "1965 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 5,
+        "season": 1965,
+        "teammate": "Jochen Rindt 🇦🇹",
+        "teammate_final_position": "14",
+        "teammate_grid": 12,
+        "time": null
     }
 ]

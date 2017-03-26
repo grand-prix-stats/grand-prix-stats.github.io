@@ -22,26 +22,39 @@ collectionId: duncan_hamilton
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 17 | R | 14 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 10 | 7 | 85 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 11 | R | 44 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 12 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 11 | 12 | 81 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 17 | R | 0.0 | 14 |   | HWM 🇬🇧 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 23 | R |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 17 | R | 0.0 | 14 |   | HWM 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 27 | R |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 17 | R | 0.0 | 14 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 12 | R |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 10 | 7 | 0.0 | 85 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 9 | 8 |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 10 | 7 | 0.0 | 85 |   | HWM 🇬🇧 | [Dries van der Lof 🇳🇱](/f1/drivers/lof) | 14 | R |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 11 | R | 0.0 | 44 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 29 | 15 |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 11 | R | 0.0 | 44 |   | HWM 🇬🇧 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 14 | R |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 11 | R | 0.0 | 44 |   | HWM 🇬🇧 | [Tony Gaze 🇦🇺](/f1/drivers/gaze) | 26 | R |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 15 | 8 |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Pierre Levegh 🇫🇷](/f1/drivers/levegh) | 19 | 9 |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Jacques Swaters 🇺🇸](/f1/drivers/swaters) | 22 | 10 |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Johnny Claes 🇧🇪](/f1/drivers/claes) | 18 | 11 |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Yves Cabantous 🇫🇷](/f1/drivers/cabantous) | 11 | R |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Philippe Étancelin 🇫🇷](/f1/drivers/etancelin) | 21 | R |
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 20 | R | 0.0 | 12 |   | Talbot-Lago 🇫🇷 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 13 | R |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 11 | 12 | 0.0 | 81 |   | Talbot-Lago 🇫🇷 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 9 | 10 |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 11 | 12 | 0.0 | 81 |   | Talbot-Lago 🇫🇷 | [Johnny Claes 🇧🇪](/f1/drivers/claes) | 14 | 13 |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 11 | 12 | 0.0 | 81 |   | Talbot-Lago 🇫🇷 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 13 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 | 2 | 5 |  |  |  |
-| **Total Sum** | 29.000 |  |  | 69.000 | 19.000 | 236.000 |  |  |  |
-| **Mean μ (Average)** | 5.800 |  |  | 13.800 | 9.500 | 47.200 |  |  |  |
-| **Maximum** | 7.000 |  |  | 20.000 | 12.000 | 85.000 |  |  |  |
-| **75th Percentile** | 6.000 |  |  | 17.000 | 12.000 | 81.000 |  |  |  |
-| **Median** | 6.000 |  |  | 11.000 | 12.000 | 44.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 11.000 | 7.000 | 14.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 10.000 | 7.000 | 12.000 |  |  |  |
-| **Variance** | 0.560 |  |  | 15.760 | 6.250 | 984.560 |  |  |  |
-| **Standard Deviation σ** | 0.748 |  |  | 3.970 | 2.500 | 31.378 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 18 |  |  | 18 | 5 | 18 | 18 |  |  |  | 18 | 8 |
+| **Total Sum** | 104.000 |  |  | 277.000 | 50.000 |  | 671.000 |  |  |  | 309.000 | 84.000 |
+| **Mean μ (Average)** | 5.778 |  |  | 15.389 | 10.000 |  | 37.278 |  |  |  | 17.167 | 10.500 |
+| **Maximum** | 7.000 |  |  | 20.000 | 12.000 |  | 85.000 |  |  |  | 29.000 | 15.000 |
+| **75th Percentile** | 6.000 |  |  | 20.000 | 12.000 |  | 81.000 |  |  |  | 22.000 | 13.000 |
+| **Median** | 6.000 |  |  | 17.000 | 12.000 |  | 14.000 |  |  |  | 15.000 | 10.000 |
+| **25th Percentile** | 5.000 |  |  | 11.000 | 7.000 |  | 12.000 |  |  |  | 13.000 | 9.000 |
+| **Minimum** | 5.000 |  |  | 10.000 | 7.000 |  | 12.000 |  |  |  | 9.000 | 8.000 |
+| **Variance** | 0.395 |  |  | 18.349 | 6.000 |  | 917.978 |  |  |  | 36.583 | 5.250 |
+| **Standard Deviation σ** | 0.629 |  |  | 4.284 | 2.449 |  | 30.298 |  |  |  | 6.048 | 2.291 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

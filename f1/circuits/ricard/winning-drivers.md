@@ -115,16 +115,16 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 4 |
-| 2. | Nigel Mansell 🇬🇧 | 2 |
-| 3. | Alan Jones 🇦🇺 | 1 |
-| 4. | Jackie Stewart 🇬🇧 | 1 |
-| 5. | James Hunt 🇬🇧 | 1 |
-| 6. | Mario Andretti 🇺🇸 | 1 |
-| 7. | Nelson Piquet 🇧🇷 | 1 |
-| 8. | Niki Lauda 🇦🇹 | 1 |
-| 9. | René Arnoux 🇫🇷 | 1 |
-| 10. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 |
+| 2. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 3. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 4. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 5. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 6. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 7. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 8. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 9. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 10. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

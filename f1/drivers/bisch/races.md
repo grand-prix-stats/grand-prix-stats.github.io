@@ -22,22 +22,25 @@ collectionId: bisch
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 28 | R | 0 |   | Jimmy Bryan 🇺🇸 | Epperly 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 28 | R | 0.0 | 0 |   | Kuzma 🇺🇸 | [Johnnie Tolan 🇺🇸](/f1/drivers/tolan) | 30 | 13 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 28 | R | 0.0 | 0 |   | Kuzma 🇺🇸 | [Dempsey Wilson 🇺🇸](/f1/drivers/dempsey_wilson) | 32 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 28 | R | 0.0 | 0 |   | Kuzma 🇺🇸 | [Anthony Foyt 🇺🇸](/f1/drivers/foyt) | 12 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 28 | R | 0.0 | 0 |   | Kuzma 🇺🇸 | [Eddie Sachs 🇺🇸](/f1/drivers/sachs) | 18 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **Mean μ (Average)** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **Maximum** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **75th Percentile** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **Median** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **Minimum** | 4.000 |  |  | 28.000 |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 1 |
+| **Total Sum** | 16.000 |  |  | 112.000 |  |  |  |  |  |  | 92.000 | 13.000 |
+| **Mean μ (Average)** | 4.000 |  |  | 28.000 |  |  |  |  |  |  | 23.000 | 13.000 |
+| **Maximum** | 4.000 |  |  | 28.000 |  |  |  |  |  |  | 32.000 | 13.000 |
+| **75th Percentile** | 4.000 |  |  | 28.000 |  |  |  |  |  |  | 32.000 | 13.000 |
+| **Median** | 4.000 |  |  | 28.000 |  |  |  |  |  |  | 30.000 | 13.000 |
+| **25th Percentile** | 4.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 13.000 |
+| **Minimum** | 4.000 |  |  | 28.000 |  |  |  |  |  |  | 12.000 | 13.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 69.000 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 8.307 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

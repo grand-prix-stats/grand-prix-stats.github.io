@@ -1,2 +1,2 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1977 German Grand Prix 🇩🇪,11,25,9,Ferrari 🇮🇹,1977-07-31,F,,1977,Niki Lauda 🇦🇹
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1977 German Grand Prix 🇩🇪,R,25,1977-07-31,F,1977,Jean-Pierre Jarier 🇫🇷,Penske 🇺🇸,11,12,9,,0.0

@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "Maserati 🇮🇹",
         "date": "1953-01-18",
         "final_position": "5",
         "grid": 9,
         "laps_completed": 96,
         "name": "1953 Argentine Grand Prix 🇦🇷",
+        "points": 2.0,
         "round": 1,
         "season": 1953,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "teammate": "José Froilán González 🇦🇷",
+        "teammate_final_position": "3",
+        "teammate_grid": 5,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1953-01-18",
+        "final_position": "5",
+        "grid": 9,
+        "laps_completed": 96,
+        "name": "1953 Argentine Grand Prix 🇦🇷",
+        "points": 2.0,
+        "round": 1,
+        "season": 1953,
+        "teammate": "Juan Fangio 🇦🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 2,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1953-01-18",
+        "final_position": "5",
+        "grid": 9,
+        "laps_completed": 96,
+        "name": "1953 Argentine Grand Prix 🇦🇷",
+        "points": 2.0,
+        "round": 1,
+        "season": 1953,
+        "teammate": "Felice Bonetto 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 15,
+        "time": null
     }
 ]

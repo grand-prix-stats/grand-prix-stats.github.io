@@ -22,25 +22,24 @@ collectionId: klerk
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1970 | 1 | 1970 South African Grand Prix 🇿🇦 | 1970-03-07 | 21 | 11 | 75 |   | Jack Brabham 🇦🇺 | Brabham 🇬🇧 |
-| 1969 | 1 | 1969 South African Grand Prix 🇿🇦 | 1969-03-01 | 16 | N | 67 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 17 | 10 | 79 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1963 | 10 | 1963 South African Grand Prix 🇿🇦 | 1963-12-28 | 16 | R | 53 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1970 | 1 | 1970 South African Grand Prix 🇿🇦 | 1970-03-07 | 21 | 11 | 0.0 | 75 |   | Brabham 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 3 | 1 |
+| 1970 | 1 | 1970 South African Grand Prix 🇿🇦 | 1970-03-07 | 21 | 11 | 0.0 | 75 |   | Brabham 🇬🇧 | [Rolf Stommelen 🇩🇪](/f1/drivers/stommelen) | 15 | R |
+| 1969 | 1 | 1969 South African Grand Prix 🇿🇦 | 1969-03-01 | 16 | N | 0.0 | 67 |   | Brabham-Repco 🇬🇧 | [Sam Tingle 🇿🇼](/f1/drivers/tingle) | 17 | 8 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 4 |  |  | 4 | 2 | 4 |  |  |  |
-| **Total Sum** | 13.000 |  |  | 70.000 | 21.000 | 274.000 |  |  |  |
-| **Mean μ (Average)** | 3.250 |  |  | 17.500 | 10.500 | 68.500 |  |  |  |
-| **Maximum** | 10.000 |  |  | 21.000 | 11.000 | 79.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 21.000 | 11.000 | 79.000 |  |  |  |
-| **Median** | 1.000 |  |  | 17.000 | 11.000 | 75.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 16.000 | 10.000 | 67.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 16.000 | 10.000 | 53.000 |  |  |  |
-| **Variance** | 15.188 |  |  | 4.250 | 0.250 | 98.750 |  |  |  |
-| **Standard Deviation σ** | 3.897 |  |  | 2.062 | 0.500 | 9.937 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 2 | 3 | 3 |  |  |  | 3 | 2 |
+| **Total Sum** | 3.000 |  |  | 58.000 | 22.000 |  | 217.000 |  |  |  | 35.000 | 9.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 19.333 | 11.000 |  | 72.333 |  |  |  | 11.667 | 4.500 |
+| **Maximum** | 1.000 |  |  | 21.000 | 11.000 |  | 75.000 |  |  |  | 17.000 | 8.000 |
+| **75th Percentile** | 1.000 |  |  | 21.000 | 11.000 |  | 75.000 |  |  |  | 17.000 | 8.000 |
+| **Median** | 1.000 |  |  | 21.000 | 11.000 |  | 75.000 |  |  |  | 15.000 | 8.000 |
+| **25th Percentile** | 1.000 |  |  | 16.000 | 11.000 |  | 67.000 |  |  |  | 3.000 | 1.000 |
+| **Minimum** | 1.000 |  |  | 16.000 | 11.000 |  | 67.000 |  |  |  | 3.000 | 1.000 |
+| **Variance** |  |  |  | 5.556 |  |  | 14.222 |  |  |  | 38.222 | 12.250 |
+| **Standard Deviation σ** |  |  |  | 2.357 |  |  | 3.771 |  |  |  | 6.182 | 3.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

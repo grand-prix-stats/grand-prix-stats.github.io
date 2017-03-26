@@ -1,38 +1,47 @@
 [
     {
+        "constructor": "Lesovsky 🇺🇸",
         "date": "1952-05-30",
         "final_position": "19",
         "grid": 12,
         "laps_completed": 184,
         "name": "1952 Indianapolis 500 🇺🇸",
+        "points": 0.0,
         "round": 2,
         "season": 1952,
-        "time": null,
-        "winning_constructor": "Kuzma 🇺🇸",
-        "winning_driver": "Troy Ruttman 🇺🇸"
+        "teammate": "Duane Carter 🇺🇸",
+        "teammate_final_position": "4",
+        "teammate_grid": 6,
+        "time": null
     },
     {
-        "date": "1951-05-30",
-        "final_position": "6",
-        "grid": 17,
-        "laps_completed": 200,
-        "name": "1951 Indianapolis 500 🇺🇸",
+        "constructor": "Lesovsky 🇺🇸",
+        "date": "1952-05-30",
+        "final_position": "19",
+        "grid": 12,
+        "laps_completed": 184,
+        "name": "1952 Indianapolis 500 🇺🇸",
+        "points": 0.0,
         "round": 2,
-        "season": 1951,
-        "time": "+5:40.02",
-        "winning_constructor": "Kurtis Kraft 🇺🇸",
-        "winning_driver": "Lee Wallard 🇺🇸"
+        "season": 1952,
+        "teammate": "Manny Ayulo 🇺🇸",
+        "teammate_final_position": "20",
+        "teammate_grid": 28,
+        "time": null
     },
     {
+        "constructor": "Maserati 🇮🇹",
         "date": "1950-05-30",
         "final_position": "R",
         "grid": 21,
         "laps_completed": 112,
         "name": "1950 Indianapolis 500 🇺🇸",
+        "points": 0.0,
         "round": 3,
         "season": 1950,
-        "time": null,
-        "winning_constructor": "Kurtis Kraft 🇺🇸",
-        "winning_driver": "Johnnie Parsons 🇺🇸"
+        "teammate": "Travis Webb 🇺🇸",
+        "teammate_final_position": "20",
+        "teammate_grid": 14,
+        "time": null
     }
 ]

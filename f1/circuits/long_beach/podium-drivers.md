@@ -131,20 +131,20 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Niki Lauda 🇦🇹 | 4 |
-| 2. | Alan Jones 🇦🇺 | 2 |
-| 3. | Carlos Reutemann 🇦🇷 | 2 |
-| 4. | Jody Scheckter 🇿🇦 | 2 |
-| 5. | Mario Andretti 🇺🇸 | 2 |
-| 6. | Nelson Piquet 🇧🇷 | 2 |
-| 7. | Patrick Depailler 🇫🇷 | 2 |
-| 8. | Riccardo Patrese 🇮🇹 | 2 |
-| 9. | Clay Regazzoni 🇨🇭 | 1 |
-| 10. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 11. | Gilles Villeneuve 🇨🇦 | 1 |
-| 12. | John Watson 🇬🇧 | 1 |
-| 13. | Keke Rosberg 🇫🇮 | 1 |
-| 14. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 4 |
+| 2. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 3. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 4. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
+| 5. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 6. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 7. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 2 |
+| 8. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 2 |
+| 9. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 10. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 11. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 12. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 13. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 14. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Niki Lauda 🇦🇹 | 2 |
-| 2. | Carlos Reutemann 🇦🇷 | 1 |
-| 3. | Didier Pironi 🇫🇷 | 1 |
-| 4. | Gunnar Nilsson 🇸🇪 | 1 |
-| 5. | Jackie Stewart 🇬🇧 | 1 |
-| 6. | Jody Scheckter 🇿🇦 | 1 |
-| 7. | John Watson 🇬🇧 | 1 |
-| 8. | Mario Andretti 🇺🇸 | 1 |
-| 9. | Michele Alboreto 🇮🇹 | 1 |
+| 1. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 3. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
+| 4. | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 1 |
+| 5. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 6. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 7. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 8. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 9. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
 
 #### Statistic Summary
 

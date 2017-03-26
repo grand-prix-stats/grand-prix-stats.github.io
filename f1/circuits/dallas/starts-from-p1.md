@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Nigel Mansell 🇬🇧 | 1 |
+| 1. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
 
 #### Statistic Summary
 

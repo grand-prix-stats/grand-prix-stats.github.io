@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Damon Hill 🇬🇧 | 72 |
-| 2. | Jacques Villeneuve 🇨🇦 | 66 |
-| 3. | Michael Schumacher 🇩🇪 | 54 |
-| 4. | Mika Häkkinen 🇫🇮 | 14 |
-| 5. | Eddie Irvine 🇬🇧 | 6 |
-| 6. | David Coulthard 🇬🇧 | 4 |
+| 1. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 72 |
+| 2. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 66 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 54 |
+| 4. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 14 |
+| 5. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 6 |
+| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
 
 #### Statistic Summary
 

@@ -127,19 +127,19 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 3 |
-| 2. | Ayrton Senna 🇧🇷 | 3 |
-| 3. | John Watson 🇬🇧 | 2 |
-| 4. | Keke Rosberg 🇫🇮 | 2 |
-| 5. | Michele Alboreto 🇮🇹 | 2 |
-| 6. | Nelson Piquet 🇧🇷 | 2 |
-| 7. | Didier Pironi 🇫🇷 | 1 |
-| 8. | Eddie Cheever 🇺🇸 | 1 |
-| 9. | Elio de Angelis 🇮🇹 | 1 |
-| 10. | Jacques Laffite 🇫🇷 | 1 |
-| 11. | Stefan Johansson 🇸🇪 | 1 |
-| 12. | Teo Fabi 🇮🇹 | 1 |
-| 13. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| 3. | [John Watson 🇬🇧](/f1/drivers/watson) | 2 |
+| 4. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 2 |
+| 5. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 2 |
+| 6. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 7. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
+| 8. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
+| 9. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 10. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 11. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
+| 12. | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 1 |
+| 13. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

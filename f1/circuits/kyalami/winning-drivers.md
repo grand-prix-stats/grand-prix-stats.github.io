@@ -135,21 +135,21 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Niki Lauda 🇦🇹 | 3 |
-| 2. | Alain Prost 🇫🇷 | 2 |
-| 3. | Jackie Stewart 🇬🇧 | 2 |
-| 4. | Nigel Mansell 🇬🇧 | 2 |
-| 5. | Carlos Reutemann 🇦🇷 | 1 |
-| 6. | Denny Hulme 🇳🇿 | 1 |
-| 7. | Gilles Villeneuve 🇨🇦 | 1 |
-| 8. | Jack Brabham 🇦🇺 | 1 |
-| 9. | Jim Clark 🇬🇧 | 1 |
-| 10. | Jody Scheckter 🇿🇦 | 1 |
-| 11. | Mario Andretti 🇺🇸 | 1 |
-| 12. | Pedro Rodríguez 🇲🇽 | 1 |
-| 13. | René Arnoux 🇫🇷 | 1 |
-| 14. | Riccardo Patrese 🇮🇹 | 1 |
-| 15. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 3. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 4. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 5. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 6. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 7. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 8. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 9. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 10. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 11. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 12. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
+| 13. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 14. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 15. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

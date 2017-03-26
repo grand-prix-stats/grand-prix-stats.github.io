@@ -22,23 +22,23 @@ collectionId: forini
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 26 | R | 32 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 26 | R | 27 |   | Nelson Piquet 🇧🇷 | Williams 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 26 | R | 0.0 | 32 |   | Osella 🇮🇹 | [Alex Caffi 🇮🇹](/f1/drivers/caffi) | 25 | R |
+| 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 26 | R | 0.0 | 27 |   | Osella 🇮🇹 | [Alex Caffi 🇮🇹](/f1/drivers/caffi) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 23.000 |  |  | 52.000 |  | 59.000 |  |  |  |
-| **Mean μ (Average)** | 11.500 |  |  | 26.000 |  | 29.500 |  |  |  |
-| **Maximum** | 12.000 |  |  | 26.000 |  | 32.000 |  |  |  |
-| **75th Percentile** | 12.000 |  |  | 26.000 |  | 32.000 |  |  |  |
-| **Median** | 12.000 |  |  | 26.000 |  | 32.000 |  |  |  |
-| **25th Percentile** | 11.000 |  |  | 26.000 |  | 27.000 |  |  |  |
-| **Minimum** | 11.000 |  |  | 26.000 |  | 27.000 |  |  |  |
-| **Variance** | 0.250 |  |  |  |  | 6.250 |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  |  |  | 2.500 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 23.000 |  |  | 52.000 |  |  | 59.000 |  |  |  | 46.000 |  |
+| **Mean μ (Average)** | 11.500 |  |  | 26.000 |  |  | 29.500 |  |  |  | 23.000 |  |
+| **Maximum** | 12.000 |  |  | 26.000 |  |  | 32.000 |  |  |  | 25.000 |  |
+| **75th Percentile** | 12.000 |  |  | 26.000 |  |  | 32.000 |  |  |  | 25.000 |  |
+| **Median** | 12.000 |  |  | 26.000 |  |  | 32.000 |  |  |  | 25.000 |  |
+| **25th Percentile** | 11.000 |  |  | 26.000 |  |  | 27.000 |  |  |  | 21.000 |  |
+| **Minimum** | 11.000 |  |  | 26.000 |  |  | 27.000 |  |  |  | 21.000 |  |
+| **Variance** | 0.250 |  |  |  |  |  | 6.250 |  |  |  | 4.000 |  |
+| **Standard Deviation σ** | 0.500 |  |  |  |  |  | 2.500 |  |  |  | 2.000 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

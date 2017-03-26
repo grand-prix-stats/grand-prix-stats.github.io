@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Bruce McLaren 🇳🇿 | 1 |
-| 2. | Chris Amon 🇳🇿 | 1 |
-| 3. | Clay Regazzoni 🇨🇭 | 1 |
-| 4. | Denny Hulme 🇳🇿 | 1 |
-| 5. | Jacky Ickx 🇧🇪 | 1 |
-| 6. | Pedro Rodríguez 🇲🇽 | 1 |
+| 1. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 2. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| 3. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 4. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 5. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 6. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
 
 #### Statistic Summary
 

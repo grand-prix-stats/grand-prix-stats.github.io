@@ -24,7 +24,7 @@ collectionId: china
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Shanghai International Circuit](/f1/circuits/shanghai) | Shanghai | [China](/f1/countries/china) | 14 | Lewis Hamilton 🇬🇧 | 4 |
+| [Shanghai International Circuit](/f1/circuits/shanghai) | Shanghai | [China](/f1/countries/china) | 14 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
 
 #### Statistic Summary
 

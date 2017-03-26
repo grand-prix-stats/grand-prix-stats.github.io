@@ -22,22 +22,23 @@ collectionId: john_james
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 17 | R | 23 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 17 | R | 0.0 | 23 |   | Maserati 🇮🇹 | [Philip Fotheringham-Parker 🇬🇧](/f1/drivers/parker) | 16 | R |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 17 | R | 0.0 | 23 |   | Maserati 🇮🇹 | [David Murray 🇬🇧](/f1/drivers/murray) | 15 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **Median** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 17.000 |  | 23.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 10.000 |  |  | 34.000 |  |  | 46.000 |  |  |  | 31.000 |  |
+| **Mean μ (Average)** | 5.000 |  |  | 17.000 |  |  | 23.000 |  |  |  | 15.500 |  |
+| **Maximum** | 5.000 |  |  | 17.000 |  |  | 23.000 |  |  |  | 16.000 |  |
+| **75th Percentile** | 5.000 |  |  | 17.000 |  |  | 23.000 |  |  |  | 16.000 |  |
+| **Median** | 5.000 |  |  | 17.000 |  |  | 23.000 |  |  |  | 16.000 |  |
+| **25th Percentile** | 5.000 |  |  | 17.000 |  |  | 23.000 |  |  |  | 15.000 |  |
+| **Minimum** | 5.000 |  |  | 17.000 |  |  | 23.000 |  |  |  | 15.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

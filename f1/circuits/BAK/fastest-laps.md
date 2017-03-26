@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Nico Rosberg 🇩🇪 | 1 |
+| 1. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 

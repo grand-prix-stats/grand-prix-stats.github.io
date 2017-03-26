@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1974-08-18",
         "final_position": "9",
         "grid": 25,
         "laps_completed": 51,
         "name": "1974 Austrian Grand Prix 🇦🇹",
+        "points": 0.0,
         "round": 12,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "Leo Kinnunen 🇫🇮",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1974-08-18",
+        "final_position": "9",
+        "grid": 25,
+        "laps_completed": 51,
+        "name": "1974 Austrian Grand Prix 🇦🇹",
+        "points": 0.0,
+        "round": 12,
+        "season": 1974,
+        "teammate": "Derek Bell 🇬🇧",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1974-08-18",
+        "final_position": "9",
+        "grid": 25,
+        "laps_completed": 51,
+        "name": "1974 Austrian Grand Prix 🇦🇹",
+        "points": 0.0,
+        "round": 12,
+        "season": 1974,
+        "teammate": "Jean-Pierre Jabouille 🇫🇷",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
     }
 ]

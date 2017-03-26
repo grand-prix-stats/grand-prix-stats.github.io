@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Harry Schell 🇺🇸 | 1 |
-| 2. | Juan Fangio 🇦🇷 | 1 |
-| 3. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [Harry Schell 🇺🇸](/f1/drivers/schell) | 1 |
+| 2. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 3. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

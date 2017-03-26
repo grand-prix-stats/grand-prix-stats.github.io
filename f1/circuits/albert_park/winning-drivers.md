@@ -123,18 +123,18 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 4 |
-| 2. | Jenson Button 🇬🇧 | 3 |
-| 3. | David Coulthard 🇬🇧 | 2 |
-| 4. | Kimi Räikkönen 🇫🇮 | 2 |
-| 5. | Lewis Hamilton 🇬🇧 | 2 |
-| 6. | Nico Rosberg 🇩🇪 | 2 |
-| 7. | Damon Hill 🇬🇧 | 1 |
-| 8. | Eddie Irvine 🇬🇧 | 1 |
-| 9. | Fernando Alonso 🇪🇸 | 1 |
-| 10. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 11. | Mika Häkkinen 🇫🇮 | 1 |
-| 12. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| 2. | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
+| 3. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 5. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 8. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 9. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 10. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 11. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 12. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

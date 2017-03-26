@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 5 |
-| 2. | Nigel Mansell 🇬🇧 | 4 |
-| 3. | Alessandro Nannini 🇮🇹 | 2 |
-| 4. | Ayrton Senna 🇧🇷 | 2 |
-| 5. | Mika Häkkinen 🇫🇮 | 2 |
-| 6. | Damon Hill 🇬🇧 | 1 |
-| 7. | David Coulthard 🇬🇧 | 1 |
-| 8. | Gerhard Berger 🇦🇹 | 1 |
-| 9. | Jacques Villeneuve 🇨🇦 | 1 |
-| 10. | Michael Schumacher 🇩🇪 | 1 |
-| 11. | Stefan Johansson 🇸🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 |
+| 2. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 4 |
+| 3. | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 2 |
+| 4. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 5. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 6. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 8. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 10. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 11. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
 
 #### Statistic Summary
 

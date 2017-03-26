@@ -22,26 +22,29 @@ collectionId: thackwell
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1984 | 11 | 1984 German Grand Prix 🇩🇪 | 1984-08-05 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1984 | 7 | 1984 Canadian Grand Prix 🇨🇦 | 1984-06-17 | 25 | R | 29 |   | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
-| 1980 | 14 | 1980 United States Grand Prix 🇺🇸 | 1980-10-05 | 0 | F | 0 |   | Alan Jones 🇦🇺 | Williams 🇬🇧 |
-| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 24 | R | 0 |   | Alan Jones 🇦🇺 | Williams 🇬🇧 |
-| 1980 | 11 | 1980 Dutch Grand Prix 🇳🇱 | 1980-08-31 | 0 | F | 0 |   | Nelson Piquet 🇧🇷 | Brabham 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1984 | 11 | 1984 German Grand Prix 🇩🇪 | 1984-08-05 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 26 | D |
+| 1984 | 7 | 1984 Canadian Grand Prix 🇨🇦 | 1984-06-17 | 25 | R | 0.0 | 29 |   | RAM 🇬🇧 | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 26 | 10 |
+| 1980 | 14 | 1980 United States Grand Prix 🇺🇸 | 1980-10-05 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 22 | N |
+| 1980 | 14 | 1980 United States Grand Prix 🇺🇸 | 1980-10-05 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Derek Daly 🇮🇪](/f1/drivers/daly) | 21 | R |
+| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 24 | R | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 15 | 7 |
+| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 24 | R | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Derek Daly 🇮🇪](/f1/drivers/daly) | 20 | R |
+| 1980 | 11 | 1980 Dutch Grand Prix 🇳🇱 | 1980-08-31 | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 14 | R |
+| 1980 | 11 | 1980 Dutch Grand Prix 🇳🇱 | 1980-08-31 | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 0 | W |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 |  | 5 |  |  |  |
-| **Total Sum** | 56.000 |  |  | 49.000 |  | 29.000 |  |  |  |
-| **Mean μ (Average)** | 11.200 |  |  | 9.800 |  | 5.800 |  |  |  |
-| **Maximum** | 14.000 |  |  | 25.000 |  | 29.000 |  |  |  |
-| **75th Percentile** | 13.000 |  |  | 24.000 |  |  |  |  |  |
-| **Median** | 11.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 11.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 7.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 5.760 |  |  | 144.160 |  | 134.560 |  |  |  |
-| **Standard Deviation σ** | 2.400 |  |  | 12.007 |  | 11.600 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 8 |  |  | 8 |  | 8 | 8 |  |  |  | 8 | 2 |
+| **Total Sum** | 94.000 |  |  | 73.000 |  |  | 29.000 |  |  |  | 144.000 | 17.000 |
+| **Mean μ (Average)** | 11.750 |  |  | 9.125 |  |  | 3.625 |  |  |  | 18.000 | 8.500 |
+| **Maximum** | 14.000 |  |  | 25.000 |  |  | 29.000 |  |  |  | 26.000 | 10.000 |
+| **75th Percentile** | 14.000 |  |  | 24.000 |  |  |  |  |  |  | 26.000 | 10.000 |
+| **Median** | 13.000 |  |  |  |  |  |  |  |  |  | 21.000 | 10.000 |
+| **25th Percentile** | 11.000 |  |  |  |  |  |  |  |  |  | 15.000 | 7.000 |
+| **Minimum** | 7.000 |  |  |  |  |  |  |  |  |  |  | 7.000 |
+| **Variance** | 4.688 |  |  | 138.859 |  |  | 91.984 |  |  |  | 63.250 | 2.250 |
+| **Standard Deviation σ** | 2.165 |  |  | 11.784 |  |  | 9.591 |  |  |  | 7.953 | 1.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

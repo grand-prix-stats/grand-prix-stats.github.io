@@ -1,6 +1,5 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1960 Argentine Grand Prix 🇦🇷,1,20,70,Cooper-Climax 🇬🇧,1960-02-07,14,,1960,Bruce McLaren 🇳🇿
-1962 Italian Grand Prix 🇮🇹,7,0,0,BRM 🇬🇧,1962-09-16,F,,1962,Graham Hill 🇬🇧
-1963 British Grand Prix 🇬🇧,5,0,0,Lotus-Climax 🇬🇧,1963-07-20,W,,1963,Jim Clark 🇬🇧
-1963 French Grand Prix 🇫🇷,4,0,0,Lotus-Climax 🇬🇧,1963-06-30,W,,1963,Jim Clark 🇬🇧
-1963 Monaco Grand Prix 🇲🇨,1,0,0,BRM 🇬🇧,1963-05-26,W,,1963,Graham Hill 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1960 Argentine Grand Prix 🇦🇷,13,20,1960-02-07,14,1960,Gino Munaron 🇮🇹,Maserati 🇮🇹,1,19,70,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,20,1960-02-07,14,1960,Ettore Chimeri 🇻🇪,Maserati 🇮🇹,1,21,70,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,20,1960-02-07,14,1960,Antonio Creus 🇪🇸,Maserati 🇮🇹,1,22,70,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,20,1960-02-07,14,1960,Giorgio Scarlatti 🇮🇹,Maserati 🇮🇹,1,18,70,,0.0

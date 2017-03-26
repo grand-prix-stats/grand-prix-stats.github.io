@@ -24,7 +24,7 @@ collectionId: monsanto
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1959 | 7 | 1959 Portuguese Grand Prix 🇵🇹 | 1959-08-23 | 62 | 2:11:55.41 | Stirling Moss 🇬🇧 | Cooper-Climax 🇬🇧 |
+| 1959 | 7 | 1959 Portuguese Grand Prix 🇵🇹 | 1959-08-23 | 62 | 2:11:55.41 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | Cooper-Climax 🇬🇧 |
 
 #### Statistic Summary
 

@@ -159,27 +159,27 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 319 |
-| 2. | Mika Häkkinen 🇫🇮 | 177 |
-| 3. | Fernando Alonso 🇪🇸 | 149 |
-| 4. | Kimi Räikkönen 🇫🇮 | 137 |
-| 5. | Lewis Hamilton 🇬🇧 | 84 |
-| 6. | Nico Rosberg 🇩🇪 | 76 |
-| 7. | Jacques Villeneuve 🇨🇦 | 73 |
-| 8. | Mark Webber 🇦🇺 | 66 |
-| 9. | Felipe Massa 🇧🇷 | 56 |
-| 10. | Sebastian Vettel 🇩🇪 | 45 |
-| 11. | Rubens Barrichello 🇧🇷 | 41 |
-| 12. | Pastor Maldonado 🇻🇪 | 37 |
-| 13. | Jenson Button 🇬🇧 | 33 |
-| 14. | Daniel Ricciardo 🇦🇺 | 30 |
-| 15. | Max Verstappen 🇳🇱 | 30 |
-| 16. | Jarno Trulli 🇮🇹 | 8 |
-| 17. | David Coulthard 🇬🇧 | 6 |
-| 18. | Nick Heidfeld 🇩🇪 | 5 |
-| 19. | Esteban Gutiérrez 🇲🇽 | 2 |
-| 20. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 21. | Jean Alesi 🇫🇷 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 319 |
+| 2. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 177 |
+| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 149 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 137 |
+| 5. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 84 |
+| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 76 |
+| 7. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 73 |
+| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 66 |
+| 9. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 56 |
+| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 45 |
+| 11. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 41 |
+| 12. | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 37 |
+| 13. | [Jenson Button 🇬🇧](/f1/drivers/button) | 33 |
+| 14. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 30 |
+| 15. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 30 |
+| 16. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 8 |
+| 17. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 6 |
+| 18. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 5 |
+| 19. | [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 2 |
+| 20. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 21. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
 
 #### Statistic Summary
 

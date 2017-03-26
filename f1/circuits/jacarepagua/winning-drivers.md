@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 5 |
-| 2. | Carlos Reutemann 🇦🇷 | 2 |
-| 3. | Nelson Piquet 🇧🇷 | 2 |
-| 4. | Nigel Mansell 🇬🇧 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 3. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 4. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
 
 #### Statistic Summary
 

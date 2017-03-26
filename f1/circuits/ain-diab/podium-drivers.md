@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Mike Hawthorn 🇬🇧 | 1 |
-| 2. | Phil Hill 🇺🇸 | 1 |
-| 3. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 2. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 3. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

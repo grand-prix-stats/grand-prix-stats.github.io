@@ -1,7 +1,20 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1961 United States Grand Prix 🇺🇸,8,17,93,Lotus-Climax 🇬🇧,1961-10-08,10,,1961,Innes Ireland 🇬🇧
-1962 United States Grand Prix 🇺🇸,8,15,91,Lotus-Climax 🇬🇧,1962-10-07,11,,1962,Jim Clark 🇬🇧
-1963 Mexican Grand Prix 🇲🇽,9,16,61,Lotus-Climax 🇬🇧,1963-10-27,7,,1963,Jim Clark 🇬🇧
-1963 United States Grand Prix 🇺🇸,8,18,6,BRM 🇬🇧,1963-10-06,R,,1963,Graham Hill 🇬🇧
-1964 Mexican Grand Prix 🇲🇽,10,19,60,Brabham-Climax 🇬🇧,1964-10-25,13,,1964,Dan Gurney 🇺🇸
-1964 United States Grand Prix 🇺🇸,9,18,65,BRM 🇬🇧,1964-10-04,N,,1964,Graham Hill 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1961 United States Grand Prix 🇺🇸,4,17,1961-10-08,10,1961,Bruce McLaren 🇳🇿,Cooper-Climax 🇬🇧,8,4,93,,0.0
+1961 United States Grand Prix 🇺🇸,8,17,1961-10-08,10,1961,Roger Penske 🇺🇸,Cooper-Climax 🇬🇧,8,16,93,,0.0
+1961 United States Grand Prix 🇺🇸,R,17,1961-10-08,10,1961,Roy Salvadori 🇬🇧,Cooper-Climax 🇬🇧,8,12,93,,0.0
+1961 United States Grand Prix 🇺🇸,R,17,1961-10-08,10,1961,Jack Brabham 🇦🇺,Cooper-Climax 🇬🇧,8,1,93,,0.0
+1961 United States Grand Prix 🇺🇸,R,17,1961-10-08,10,1961,Walt Hansgen 🇺🇸,Cooper-Climax 🇬🇧,8,14,93,,0.0
+1961 United States Grand Prix 🇺🇸,R,17,1961-10-08,10,1961,John Surtees 🇬🇧,Cooper-Climax 🇬🇧,8,9,93,,0.0
+1962 United States Grand Prix 🇺🇸,3,15,1962-10-07,11,1962,Bruce McLaren 🇳🇿,Cooper-Climax 🇬🇧,8,6,91,,0.0
+1962 United States Grand Prix 🇺🇸,7,15,1962-10-07,11,1962,Tony Maggs 🇿🇦,Cooper-Climax 🇬🇧,8,10,91,,0.0
+1962 United States Grand Prix 🇺🇸,R,15,1962-10-07,11,1962,Timmy Mayer 🇺🇸,Cooper-Climax 🇬🇧,8,12,91,,0.0
+1963 Mexican Grand Prix 🇲🇽,8,16,1963-10-27,7,1963,Jim Hall 🇺🇸,Lotus-BRM 🇬🇧,9,15,61,,0.0
+1963 Mexican Grand Prix 🇲🇽,9,16,1963-10-27,7,1963,Jo Siffert 🇨🇭,Lotus-BRM 🇬🇧,9,9,61,,0.0
+1963 Mexican Grand Prix 🇲🇽,R,16,1963-10-27,7,1963,Chris Amon 🇳🇿,Lotus-BRM 🇬🇧,9,19,61,,0.0
+1963 Mexican Grand Prix 🇲🇽,W,16,1963-10-27,7,1963,Innes Ireland 🇬🇧,Lotus-BRM 🇬🇧,9,0,61,,0.0
+1963 United States Grand Prix 🇺🇸,10,18,1963-10-06,R,1963,Jim Hall 🇺🇸,Lotus-BRM 🇬🇧,8,16,6,,0.0
+1963 United States Grand Prix 🇺🇸,R,18,1963-10-06,R,1963,Jo Siffert 🇨🇭,Lotus-BRM 🇬🇧,8,14,6,,0.0
+1963 United States Grand Prix 🇺🇸,R,18,1963-10-06,R,1963,Rodger Ward 🇺🇸,Lotus-BRM 🇬🇧,8,17,6,,0.0
+1963 United States Grand Prix 🇺🇸,W,18,1963-10-06,R,1963,Innes Ireland 🇬🇧,Lotus-BRM 🇬🇧,8,0,6,,0.0
+1964 Mexican Grand Prix 🇲🇽,R,19,1964-10-25,13,1964,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,10,13,60,,0.0
+1964 United States Grand Prix 🇺🇸,3,18,1964-10-04,N,1964,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,9,12,65,,0.0

@@ -1,50 +1,62 @@
 [
     {
+        "constructor": "Super Aguri 🇯🇵",
         "date": "2006-04-23",
         "final_position": "R",
         "grid": 22,
         "laps_completed": 23,
         "name": "2006 San Marino Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 4,
         "season": 2006,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "Takuma Sato 🇯🇵",
+        "teammate_final_position": "R",
+        "teammate_grid": 21,
+        "time": null
     },
     {
+        "constructor": "Super Aguri 🇯🇵",
         "date": "2006-04-02",
         "final_position": "13",
         "grid": 22,
         "laps_completed": 54,
         "name": "2006 Australian Grand Prix 🇦🇺",
+        "points": 0.0,
         "round": 3,
         "season": 2006,
-        "time": null,
-        "winning_constructor": "Renault 🇫🇷",
-        "winning_driver": "Fernando Alonso 🇪🇸"
+        "teammate": "Takuma Sato 🇯🇵",
+        "teammate_final_position": "12",
+        "teammate_grid": 21,
+        "time": null
     },
     {
+        "constructor": "Super Aguri 🇯🇵",
         "date": "2006-03-19",
         "final_position": "R",
         "grid": 18,
         "laps_completed": 33,
         "name": "2006 Malaysian Grand Prix 🇲🇾",
+        "points": 0.0,
         "round": 2,
         "season": 2006,
-        "time": null,
-        "winning_constructor": "Renault 🇫🇷",
-        "winning_driver": "Giancarlo Fisichella 🇮🇹"
+        "teammate": "Takuma Sato 🇯🇵",
+        "teammate_final_position": "14",
+        "teammate_grid": 17,
+        "time": null
     },
     {
+        "constructor": "Super Aguri 🇯🇵",
         "date": "2006-03-12",
         "final_position": "R",
         "grid": 21,
         "laps_completed": 35,
         "name": "2006 Bahrain Grand Prix 🇧🇭",
+        "points": 0.0,
         "round": 1,
         "season": 2006,
-        "time": null,
-        "winning_constructor": "Renault 🇫🇷",
-        "winning_driver": "Fernando Alonso 🇪🇸"
+        "teammate": "Takuma Sato 🇯🇵",
+        "teammate_final_position": "18",
+        "teammate_grid": 20,
+        "time": null
     }
 ]

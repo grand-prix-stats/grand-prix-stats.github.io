@@ -22,24 +22,24 @@ collectionId: orey
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1959 | 9 | 1959 United States Grand Prix 🇺🇸 | 1959-12-12 | 17 | R | 6 |   | Bruce McLaren 🇳🇿 | Cooper-Climax 🇬🇧 |
-| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18 | 20 | R | 57 |   | Jack Brabham 🇦🇺 | Cooper-Climax 🇬🇧 |
-| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 40 |   | Tony Brooks 🇬🇧 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 21 | 8 |
+| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 20 | 9 |
+| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Azdrubal Fontes 🇺🇾](/f1/drivers/fontes) | 0 | W |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 | 1 | 3 |  |  |  |
-| **Total Sum** | 18.000 |  |  | 55.000 | 10.000 | 103.000 |  |  |  |
-| **Mean μ (Average)** | 6.000 |  |  | 18.333 | 10.000 | 34.333 |  |  |  |
-| **Maximum** | 9.000 |  |  | 20.000 | 10.000 | 57.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 20.000 | 10.000 | 57.000 |  |  |  |
-| **Median** | 5.000 |  |  | 18.000 | 10.000 | 40.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 17.000 | 10.000 | 6.000 |  |  |  |
-| **Minimum** | 4.000 |  |  | 17.000 | 10.000 | 6.000 |  |  |  |
-| **Variance** | 4.667 |  |  | 1.556 |  | 449.556 |  |  |  |
-| **Standard Deviation σ** | 2.160 |  |  | 1.247 |  | 21.203 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 | 2 |
+| **Total Sum** | 12.000 |  |  | 54.000 | 30.000 |  | 120.000 |  |  |  | 41.000 | 17.000 |
+| **Mean μ (Average)** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 13.667 | 8.500 |
+| **Maximum** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 21.000 | 9.000 |
+| **75th Percentile** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 21.000 | 9.000 |
+| **Median** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 20.000 | 9.000 |
+| **25th Percentile** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  |  | 8.000 |
+| **Minimum** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  |  | 8.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 93.556 | 0.250 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 9.672 | 0.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

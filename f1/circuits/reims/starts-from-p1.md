@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 4 |
-| 2. | Alberto Ascari 🇮🇹 | 1 |
-| 3. | Jack Brabham 🇦🇺 | 1 |
-| 4. | Jim Clark 🇬🇧 | 1 |
-| 5. | Lorenzo Bandini 🇮🇹 | 1 |
-| 6. | Luigi Fagioli 🇮🇹 | 1 |
-| 7. | Mike Hawthorn 🇬🇧 | 1 |
-| 8. | Phil Hill 🇺🇸 | 1 |
-| 9. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 4 |
+| 2. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 3. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 4. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 5. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 1 |
+| 6. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 1 |
+| 7. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 8. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 9. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

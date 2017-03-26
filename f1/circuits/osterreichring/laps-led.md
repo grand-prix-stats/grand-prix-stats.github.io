@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Mika Häkkinen 🇫🇮 | 136 |
-| 2. | Rubens Barrichello 🇧🇷 | 101 |
-| 3. | David Coulthard 🇬🇧 | 71 |
-| 4. | Michael Schumacher 🇩🇪 | 57 |
-| 5. | Jarno Trulli 🇮🇹 | 37 |
-| 6. | Eddie Irvine 🇬🇧 | 32 |
-| 7. | Jacques Villeneuve 🇨🇦 | 31 |
-| 8. | Juan Pablo Montoya 🇨🇴 | 23 |
-| 9. | Kimi Räikkönen 🇫🇮 | 7 |
+| 1. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 136 |
+| 2. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 101 |
+| 3. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 71 |
+| 4. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 57 |
+| 5. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 37 |
+| 6. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 32 |
+| 7. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 31 |
+| 8. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 23 |
+| 9. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 7 |
 
 #### Statistic Summary
 

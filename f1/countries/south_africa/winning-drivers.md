@@ -139,22 +139,22 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 3 |
-| 2. | Niki Lauda 🇦🇹 | 3 |
-| 3. | Alain Prost 🇫🇷 | 2 |
-| 4. | Jackie Stewart 🇬🇧 | 2 |
-| 5. | Nigel Mansell 🇬🇧 | 2 |
-| 6. | Carlos Reutemann 🇦🇷 | 1 |
-| 7. | Denny Hulme 🇳🇿 | 1 |
-| 8. | Gilles Villeneuve 🇨🇦 | 1 |
-| 9. | Graham Hill 🇬🇧 | 1 |
-| 10. | Jack Brabham 🇦🇺 | 1 |
-| 11. | Jody Scheckter 🇿🇦 | 1 |
-| 12. | Mario Andretti 🇺🇸 | 1 |
-| 13. | Pedro Rodríguez 🇲🇽 | 1 |
-| 14. | René Arnoux 🇫🇷 | 1 |
-| 15. | Riccardo Patrese 🇮🇹 | 1 |
-| 16. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 3 |
+| 2. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 4. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 6. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 7. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 8. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 9. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 10. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 11. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 12. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 13. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 1 |
+| 14. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 15. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 16. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

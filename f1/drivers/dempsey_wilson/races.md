@@ -22,23 +22,32 @@ collectionId: dempsey_wilson
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 11 |   | Jim Rathmann 🇺🇸 | Watson 🇺🇸 |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 32 | R | 151 |   | Jimmy Bryan 🇺🇸 | Epperly 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Bob Christie 🇺🇸](/f1/drivers/christie) | 14 | 10 |
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Gene Hartley 🇺🇸](/f1/drivers/hartley) | 24 | 14 |
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Shorty Templeman 🇺🇸](/f1/drivers/templeman) | 19 | 17 |
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Don Freeland 🇺🇸](/f1/drivers/freeland) | 11 | 22 |
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Anthony Foyt 🇺🇸](/f1/drivers/foyt) | 16 | 25 |
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Eddie Russo 🇺🇸](/f1/drivers/russo) | 29 | 26 |
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 33 | 33 | 0.0 | 11 |   | Kurtis Kraft 🇺🇸 | [Gene Force 🇺🇸](/f1/drivers/force) | 20 | 28 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 32 | R | 0.0 | 151 |   | Kuzma 🇺🇸 | [Johnnie Tolan 🇺🇸](/f1/drivers/tolan) | 30 | 13 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 32 | R | 0.0 | 151 |   | Kuzma 🇺🇸 | [Anthony Foyt 🇺🇸](/f1/drivers/foyt) | 12 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 32 | R | 0.0 | 151 |   | Kuzma 🇺🇸 | [Eddie Sachs 🇺🇸](/f1/drivers/sachs) | 18 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 32 | R | 0.0 | 151 |   | Kuzma 🇺🇸 | [Art Bisch 🇺🇸](/f1/drivers/bisch) | 28 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 7.000 |  |  | 65.000 | 33.000 | 162.000 |  |  |  |
-| **Mean μ (Average)** | 3.500 |  |  | 32.500 | 33.000 | 81.000 |  |  |  |
-| **Maximum** | 4.000 |  |  | 33.000 | 33.000 | 151.000 |  |  |  |
-| **75th Percentile** | 4.000 |  |  | 33.000 | 33.000 | 151.000 |  |  |  |
-| **Median** | 4.000 |  |  | 33.000 | 33.000 | 151.000 |  |  |  |
-| **25th Percentile** | 3.000 |  |  | 32.000 | 33.000 | 11.000 |  |  |  |
-| **Minimum** | 3.000 |  |  | 32.000 | 33.000 | 11.000 |  |  |  |
-| **Variance** | 0.250 |  |  | 0.250 |  | 4900.000 |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  | 0.500 |  | 70.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 11 |  |  | 11 | 7 | 11 | 11 |  |  |  | 11 | 8 |
+| **Total Sum** | 37.000 |  |  | 359.000 | 231.000 |  | 681.000 |  |  |  | 221.000 | 155.000 |
+| **Mean μ (Average)** | 3.364 |  |  | 32.636 | 33.000 |  | 61.909 |  |  |  | 20.091 | 19.375 |
+| **Maximum** | 4.000 |  |  | 33.000 | 33.000 |  | 151.000 |  |  |  | 30.000 | 28.000 |
+| **75th Percentile** | 4.000 |  |  | 33.000 | 33.000 |  | 151.000 |  |  |  | 28.000 | 26.000 |
+| **Median** | 3.000 |  |  | 33.000 | 33.000 |  | 11.000 |  |  |  | 19.000 | 22.000 |
+| **25th Percentile** | 3.000 |  |  | 32.000 | 33.000 |  | 11.000 |  |  |  | 14.000 | 14.000 |
+| **Minimum** | 3.000 |  |  | 32.000 | 33.000 |  | 11.000 |  |  |  | 11.000 | 10.000 |
+| **Variance** | 0.231 |  |  | 0.231 |  |  | 4535.537 |  |  |  | 42.083 | 39.984 |
+| **Standard Deviation σ** | 0.481 |  |  | 0.481 |  |  | 67.346 |  |  |  | 6.487 | 6.323 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

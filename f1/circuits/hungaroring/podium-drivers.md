@@ -207,39 +207,39 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Ayrton Senna 🇧🇷 | 7 |
-| 2. | Kimi Räikkönen 🇫🇮 | 7 |
-| 3. | Michael Schumacher 🇩🇪 | 7 |
-| 4. | Lewis Hamilton 🇬🇧 | 6 |
-| 5. | Damon Hill 🇬🇧 | 5 |
-| 6. | David Coulthard 🇬🇧 | 5 |
-| 7. | Fernando Alonso 🇪🇸 | 5 |
-| 8. | Nigel Mansell 🇬🇧 | 4 |
-| 9. | Sebastian Vettel 🇩🇪 | 4 |
-| 10. | Daniel Ricciardo 🇦🇺 | 3 |
-| 11. | Gerhard Berger 🇦🇹 | 3 |
-| 12. | Jacques Villeneuve 🇨🇦 | 3 |
-| 13. | Nelson Piquet 🇧🇷 | 3 |
-| 14. | Rubens Barrichello 🇧🇷 | 3 |
-| 15. | Thierry Boutsen 🇧🇪 | 3 |
-| 16. | Alain Prost 🇫🇷 | 2 |
-| 17. | Jenson Button 🇬🇧 | 2 |
-| 18. | Mark Webber 🇦🇺 | 2 |
-| 19. | Mika Häkkinen 🇫🇮 | 2 |
-| 20. | Nick Heidfeld 🇩🇪 | 2 |
-| 21. | Ralf Schumacher 🇩🇪 | 2 |
-| 22. | Riccardo Patrese 🇮🇹 | 2 |
-| 23. | Daniil Kvyat 🇷🇺 | 1 |
-| 24. | Eddie Irvine 🇬🇧 | 1 |
-| 25. | Heikki Kovalainen 🇫🇮 | 1 |
-| 26. | Jean Alesi 🇫🇷 | 1 |
-| 27. | Johnny Herbert 🇬🇧 | 1 |
-| 28. | Jos Verstappen 🇳🇱 | 1 |
-| 29. | Juan Pablo Montoya 🇨🇴 | 1 |
-| 30. | Nico Rosberg 🇩🇪 | 1 |
-| 31. | Pedro de la Rosa 🇪🇸 | 1 |
-| 32. | Romain Grosjean 🇫🇷 | 1 |
-| 33. | Timo Glock 🇩🇪 | 1 |
+| 1. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 7 |
+| 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 7 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 5. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 5 |
+| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 5 |
+| 7. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 5 |
+| 8. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 4 |
+| 9. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 10. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 3 |
+| 11. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 |
+| 12. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 3 |
+| 13. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 14. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 3 |
+| 15. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 3 |
+| 16. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 17. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
+| 18. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 19. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 20. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 2 |
+| 21. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
+| 22. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 2 |
+| 23. | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 1 |
+| 24. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 25. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 1 |
+| 26. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
+| 27. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 1 |
+| 28. | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 1 |
+| 29. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 30. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 31. | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 1 |
+| 32. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
+| 33. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 1 |
 
 #### Statistic Summary
 

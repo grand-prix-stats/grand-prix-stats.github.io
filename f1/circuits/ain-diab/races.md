@@ -24,7 +24,7 @@ collectionId: ain-diab
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1958 | 11 | 1958 Moroccan Grand Prix 🇲🇦 | 1958-10-19 | 53 | 2:09:15.1 | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
+| 1958 | 11 | 1958 Moroccan Grand Prix 🇲🇦 | 1958-10-19 | 53 | 2:09:15.1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | Vanwall 🇬🇧 |
 
 #### Statistic Summary
 

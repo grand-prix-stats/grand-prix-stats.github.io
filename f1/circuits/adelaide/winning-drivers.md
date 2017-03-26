@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 2 |
-| 2. | Ayrton Senna 🇧🇷 | 2 |
-| 3. | Gerhard Berger 🇦🇹 | 2 |
-| 4. | Damon Hill 🇬🇧 | 1 |
-| 5. | Keke Rosberg 🇫🇮 | 1 |
-| 6. | Nelson Piquet 🇧🇷 | 1 |
-| 7. | Nigel Mansell 🇬🇧 | 1 |
-| 8. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 3. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 2 |
+| 4. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 5. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 6. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 7. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 8. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

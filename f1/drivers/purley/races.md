@@ -22,32 +22,33 @@ collectionId: purley
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
-| 1977 | 9 | 1977 French Grand Prix 🇫🇷 | 1977-07-03 | 21 | R | 5 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1977 | 8 | 1977 Swedish Grand Prix 🇸🇪 | 1977-06-19 | 19 | 14 | 70 |   | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
-| 1977 | 7 | 1977 Belgian Grand Prix 🇧🇪 | 1977-06-05 | 20 | 13 | 67 |   | Gunnar Nilsson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | 1977-05-08 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1974 | 10 | 1974 British Grand Prix 🇬🇧 | 1974-07-20 | 0 | F | 0 |   | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
-| 1973 | 13 | 1973 Italian Grand Prix 🇮🇹 | 1973-09-09 | 24 | 9 | 54 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1973 | 11 | 1973 German Grand Prix 🇩🇪 | 1973-08-05 | 22 | 15 | 13 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
-| 1973 | 10 | 1973 Dutch Grand Prix 🇳🇱 | 1973-07-29 | 21 | R | 8 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
-| 1973 | 9 | 1973 British Grand Prix 🇬🇧 | 1973-07-14 | 16 | R | 0 |   | Peter Revson 🇺🇸 | McLaren 🇬🇧 |
-| 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 23 | R | 31 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1973 | 13 | 1973 Italian Grand Prix 🇮🇹 | 1973-09-09 | 24 | 9 | 0.0 | 54 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 12 | R |
+| 1973 | 13 | 1973 Italian Grand Prix 🇮🇹 | 1973-09-09 | 24 | 9 | 0.0 | 54 |   | March 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 0 | W |
+| 1973 | 11 | 1973 German Grand Prix 🇩🇪 | 1973-08-05 | 22 | 15 | 0.0 | 13 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 19 | 16 |
+| 1973 | 10 | 1973 Dutch Grand Prix 🇳🇱 | 1973-07-29 | 21 | R | 0.0 | 8 |   | March 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 7 | 3 |
+| 1973 | 10 | 1973 Dutch Grand Prix 🇳🇱 | 1973-07-29 | 21 | R | 0.0 | 8 |   | March 🇬🇧 | [Roger Williamson 🇬🇧](/f1/drivers/williamson) | 18 | R |
+| 1973 | 10 | 1973 Dutch Grand Prix 🇳🇱 | 1973-07-29 | 21 | R | 0.0 | 8 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 23 | R |
+| 1973 | 9 | 1973 British Grand Prix 🇬🇧 | 1973-07-14 | 16 | R | 0.0 | 0 |   | March 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 11 | 4 |
+| 1973 | 9 | 1973 British Grand Prix 🇬🇧 | 1973-07-14 | 16 | R | 0.0 | 0 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 24 | 11 |
+| 1973 | 9 | 1973 British Grand Prix 🇬🇧 | 1973-07-14 | 16 | R | 0.0 | 0 |   | March 🇬🇧 | [Roger Williamson 🇬🇧](/f1/drivers/williamson) | 22 | R |
+| 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 23 | R | 0.0 | 31 |   | March 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 18 | 9 |
+| 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 23 | R | 0.0 | 31 |   | March 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 14 | R |
+| 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 23 | R | 0.0 | 31 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 20 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 11 |  |  | 11 | 4 | 11 |  |  |  |
-| **Total Sum** | 98.000 |  |  | 166.000 | 51.000 | 248.000 |  |  |  |
-| **Mean μ (Average)** | 8.909 |  |  | 15.091 | 12.750 | 22.545 |  |  |  |
-| **Maximum** | 13.000 |  |  | 24.000 | 15.000 | 70.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 22.000 | 15.000 | 54.000 |  |  |  |
-| **Median** | 9.000 |  |  | 20.000 | 14.000 | 8.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  |  | 13.000 |  |  |  |  |
-| **Minimum** | 5.000 |  |  |  | 9.000 |  |  |  |  |
-| **Variance** | 4.810 |  |  | 89.355 | 5.188 | 721.157 |  |  |  |
-| **Standard Deviation σ** | 2.193 |  |  | 9.453 | 2.278 | 26.854 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 12 |  |  | 12 | 3 | 12 | 12 |  |  |  | 12 | 5 |
+| **Total Sum** | 112.000 |  |  | 250.000 | 33.000 |  | 238.000 |  |  |  | 188.000 | 43.000 |
+| **Mean μ (Average)** | 9.333 |  |  | 20.833 | 11.000 |  | 19.833 |  |  |  | 15.667 | 8.600 |
+| **Maximum** | 13.000 |  |  | 24.000 | 15.000 |  | 54.000 |  |  |  | 24.000 | 16.000 |
+| **75th Percentile** | 11.000 |  |  | 23.000 | 15.000 |  | 31.000 |  |  |  | 22.000 | 11.000 |
+| **Median** | 10.000 |  |  | 22.000 | 9.000 |  | 13.000 |  |  |  | 18.000 | 9.000 |
+| **25th Percentile** | 9.000 |  |  | 21.000 | 9.000 |  | 8.000 |  |  |  | 12.000 | 4.000 |
+| **Minimum** | 6.000 |  |  | 16.000 | 9.000 |  |  |  |  |  |  | 3.000 |
+| **Variance** | 5.389 |  |  | 8.806 | 8.000 |  | 362.972 |  |  |  | 46.889 | 22.640 |
+| **Standard Deviation σ** | 2.321 |  |  | 2.967 | 2.828 |  | 19.052 |  |  |  | 6.848 | 4.758 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

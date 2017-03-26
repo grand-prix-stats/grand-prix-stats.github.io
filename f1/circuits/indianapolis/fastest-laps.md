@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 2 |
-| 2. | Kimi Räikkönen 🇫🇮 | 1 |
-| 3. | Rubens Barrichello 🇧🇷 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 3. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
 
 #### Statistic Summary
 

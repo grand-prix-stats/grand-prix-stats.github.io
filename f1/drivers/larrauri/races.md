@@ -22,42 +22,37 @@ collectionId: larrauri
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05 | 0 | F | 0 |   | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
-| 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22 | 0 | F | 0 |   | Alessandro Nannini 🇮🇹 | Benetton 🇮🇹 |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24 | 0 | F | 0 |   | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
-| 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 16 | 1988 Australian Grand Prix 🇦🇺 | 1988-11-13 | 25 | R | 12 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 15 | 1988 Japanese Grand Prix 🇯🇵 | 1988-10-30 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 14 | 1988 Spanish Grand Prix 🇪🇸 | 1988-10-02 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 13 | 1988 Portuguese Grand Prix 🇵🇹 | 1988-09-25 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 12 | 1988 Italian Grand Prix 🇮🇹 | 1988-09-11 | 0 | F | 0 |   | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
-| 1988 | 11 | 1988 Belgian Grand Prix 🇧🇪 | 1988-08-28 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 10 | 1988 Hungarian Grand Prix 🇭🇺 | 1988-08-07 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 9 | 1988 German Grand Prix 🇩🇪 | 1988-07-24 | 26 | 16 | 42 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 8 | 1988 British Grand Prix 🇬🇧 | 1988-07-10 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 7 | 1988 French Grand Prix 🇫🇷 | 1988-07-03 | 26 | R | 64 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 6 | 1988 Detroit Grand Prix 🇺🇸 | 1988-06-19 | 23 | R | 26 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 5 | 1988 Canadian Grand Prix 🇨🇦 | 1988-06-12 | 24 | R | 8 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 4 | 1988 Mexican Grand Prix 🇲🇽 | 1988-05-29 | 26 | 13 | 63 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 3 | 1988 Monaco Grand Prix 🇲🇨 | 1988-05-15 | 18 | R | 14 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1988 | 2 | 1988 San Marino Grand Prix 🇮🇹 | 1988-05-01 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1988 | 1 | 1988 Brazilian Grand Prix 🇧🇷 | 1988-04-03 | 26 | R | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1988 | 16 | 1988 Australian Grand Prix 🇦🇺 | 1988-11-13 | 25 | R | 0.0 | 12 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 20 | R |
+| 1988 | 15 | 1988 Japanese Grand Prix 🇯🇵 | 1988-10-30 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 0 | F |
+| 1988 | 14 | 1988 Spanish Grand Prix 🇪🇸 | 1988-10-02 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 26 | 13 |
+| 1988 | 13 | 1988 Portuguese Grand Prix 🇵🇹 | 1988-09-25 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 0 | F |
+| 1988 | 12 | 1988 Italian Grand Prix 🇮🇹 | 1988-09-11 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 0 | F |
+| 1988 | 11 | 1988 Belgian Grand Prix 🇧🇪 | 1988-08-28 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 0 | F |
+| 1988 | 10 | 1988 Hungarian Grand Prix 🇭🇺 | 1988-08-07 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 26 | 11 |
+| 1988 | 9 | 1988 German Grand Prix 🇩🇪 | 1988-07-24 | 26 | 16 | 0.0 | 42 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 25 | R |
+| 1988 | 8 | 1988 British Grand Prix 🇬🇧 | 1988-07-10 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 20 | 12 |
+| 1988 | 7 | 1988 French Grand Prix 🇫🇷 | 1988-07-03 | 26 | R | 0.0 | 64 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 20 | 14 |
+| 1988 | 6 | 1988 Detroit Grand Prix 🇺🇸 | 1988-06-19 | 23 | R | 0.0 | 26 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 19 | R |
+| 1988 | 5 | 1988 Canadian Grand Prix 🇨🇦 | 1988-06-12 | 24 | R | 0.0 | 8 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 15 | 12 |
+| 1988 | 4 | 1988 Mexican Grand Prix 🇲🇽 | 1988-05-29 | 26 | 13 | 0.0 | 63 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 0 | E |
+| 1988 | 3 | 1988 Monaco Grand Prix 🇲🇨 | 1988-05-15 | 18 | R | 0.0 | 14 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 0 | E |
+| 1988 | 2 | 1988 San Marino Grand Prix 🇮🇹 | 1988-05-01 | 0 | F | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 26 | N |
+| 1988 | 1 | 1988 Brazilian Grand Prix 🇧🇷 | 1988-04-03 | 26 | R | 0.0 | 0 |   | Euro Brun 🇮🇹 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 24 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 21 |  |  | 21 | 2 | 21 |  |  |  |
-| **Total Sum** | 206.000 |  |  | 194.000 | 29.000 | 229.000 |  |  |  |
-| **Mean μ (Average)** | 9.810 |  |  | 9.238 | 14.500 | 10.905 |  |  |  |
-| **Maximum** | 16.000 |  |  | 26.000 | 16.000 | 64.000 |  |  |  |
-| **75th Percentile** | 14.000 |  |  | 24.000 | 16.000 | 12.000 |  |  |  |
-| **Median** | 11.000 |  |  |  | 16.000 |  |  |  |  |
-| **25th Percentile** | 6.000 |  |  |  | 13.000 |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  | 13.000 |  |  |  |  |
-| **Variance** | 22.154 |  |  | 141.229 | 2.250 | 400.562 |  |  |  |
-| **Standard Deviation σ** | 4.707 |  |  | 11.884 | 1.500 | 20.014 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 16 |  |  | 16 | 2 | 16 | 16 |  |  |  | 16 | 5 |
+| **Total Sum** | 136.000 |  |  | 194.000 | 29.000 |  | 229.000 |  |  |  | 221.000 | 62.000 |
+| **Mean μ (Average)** | 8.500 |  |  | 12.125 | 14.500 |  | 14.312 |  |  |  | 13.812 | 12.400 |
+| **Maximum** | 16.000 |  |  | 26.000 | 16.000 |  | 64.000 |  |  |  | 26.000 | 14.000 |
+| **75th Percentile** | 13.000 |  |  | 26.000 | 16.000 |  | 26.000 |  |  |  | 25.000 | 13.000 |
+| **Median** | 9.000 |  |  | 18.000 | 16.000 |  |  |  |  |  | 20.000 | 12.000 |
+| **25th Percentile** | 5.000 |  |  |  | 13.000 |  |  |  |  |  |  | 12.000 |
+| **Minimum** | 1.000 |  |  |  | 13.000 |  |  |  |  |  |  | 11.000 |
+| **Variance** | 21.250 |  |  | 150.359 | 2.250 |  | 476.965 |  |  |  | 122.652 | 1.040 |
+| **Standard Deviation σ** | 4.610 |  |  | 12.262 | 1.500 |  | 21.840 |  |  |  | 11.075 | 1.020 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

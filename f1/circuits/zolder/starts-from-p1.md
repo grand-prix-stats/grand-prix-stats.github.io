@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Mario Andretti 🇺🇸 | 2 |
-| 2. | Niki Lauda 🇦🇹 | 2 |
-| 3. | Alain Prost 🇫🇷 | 1 |
-| 4. | Alan Jones 🇦🇺 | 1 |
-| 5. | Carlos Reutemann 🇦🇷 | 1 |
-| 6. | Jacques Laffite 🇫🇷 | 1 |
-| 7. | Michele Alboreto 🇮🇹 | 1 |
-| 8. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 2. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 4. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 5. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 6. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 7. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 8. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

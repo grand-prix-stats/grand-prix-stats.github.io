@@ -175,31 +175,31 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 4 |
-| 2. | Alberto Ascari 🇮🇹 | 3 |
-| 3. | Jacky Ickx 🇧🇪 | 3 |
-| 4. | Juan Fangio 🇦🇷 | 3 |
-| 5. | Michael Schumacher 🇩🇪 | 3 |
-| 6. | David Coulthard 🇬🇧 | 2 |
-| 7. | Jackie Stewart 🇬🇧 | 2 |
-| 8. | Kimi Räikkönen 🇫🇮 | 2 |
-| 9. | Mark Webber 🇦🇺 | 2 |
-| 10. | Niki Lauda 🇦🇹 | 2 |
-| 11. | Damon Hill 🇬🇧 | 1 |
-| 12. | Dan Gurney 🇺🇸 | 1 |
-| 13. | Fernando Alonso 🇪🇸 | 1 |
-| 14. | Heinz-Harald Frentzen 🇩🇪 | 1 |
-| 15. | James Hunt 🇬🇧 | 1 |
-| 16. | John Surtees 🇬🇧 | 1 |
-| 17. | Juan Pablo Montoya 🇨🇴 | 1 |
-| 18. | Lewis Hamilton 🇬🇧 | 1 |
-| 19. | Luigi Villoresi 🇮🇹 | 1 |
-| 20. | Mika Häkkinen 🇫🇮 | 1 |
-| 21. | Mike Hawthorn 🇬🇧 | 1 |
-| 22. | Nelson Piquet 🇧🇷 | 1 |
-| 23. | Nick Heidfeld 🇩🇪 | 1 |
-| 24. | Phil Hill 🇺🇸 | 1 |
-| 25. | Teo Fabi 🇮🇹 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 4 |
+| 2. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 3 |
+| 3. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 3 |
+| 4. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 3 |
+| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 7. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 9. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 10. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 11. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 12. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 13. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 14. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 1 |
+| 15. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 16. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 17. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 18. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 19. | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 1 |
+| 20. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 21. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 22. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 23. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 1 |
+| 24. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 25. | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 1 |
 
 #### Statistic Summary
 

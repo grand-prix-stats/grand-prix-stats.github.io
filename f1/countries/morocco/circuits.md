@@ -24,7 +24,7 @@ collectionId: morocco
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Ain Diab](/f1/circuits/ain-diab) | Casablanca | [Morocco](/f1/countries/morocco) | 1 | Stirling Moss 🇬🇧 | 1 |
+| [Ain Diab](/f1/circuits/ain-diab) | Casablanca | [Morocco](/f1/countries/morocco) | 1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

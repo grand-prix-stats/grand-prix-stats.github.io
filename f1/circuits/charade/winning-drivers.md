@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 2 |
-| 2. | Jim Clark 🇬🇧 | 1 |
-| 3. | Jochen Rindt 🇦🇹 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 2. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 3. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
 
 #### Statistic Summary
 

@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Mario Andretti 🇺🇸 | 2 |
-| 2. | Jody Scheckter 🇿🇦 | 1 |
-| 3. | Patrick Depailler 🇫🇷 | 1 |
-| 4. | Ronnie Peterson 🇸🇪 | 1 |
-| 5. | Vittorio Brambilla 🇮🇹 | 1 |
+| 1. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 2. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 3. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 1 |
+| 4. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
+| 5. | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 1 |
 
 #### Statistic Summary
 

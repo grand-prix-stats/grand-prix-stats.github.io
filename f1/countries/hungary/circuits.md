@@ -24,7 +24,7 @@ collectionId: hungary
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Hungaroring](/f1/circuits/hungaroring) | Budapest | [Hungary](/f1/countries/hungary) | 32 | Lewis Hamilton 🇬🇧 | 5 |
+| [Hungaroring](/f1/circuits/hungaroring) | Budapest | [Hungary](/f1/countries/hungary) | 32 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
 
 #### Statistic Summary
 

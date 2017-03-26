@@ -22,27 +22,23 @@ collectionId: wunderink
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 14 | 1975 United States Grand Prix 🇺🇸 | 1975-10-05 | 22 | R | 41 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 0 | F | 0 |   | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 27 | N | 25 |   | Vittorio Brambilla 🇮🇹 | March 🇬🇧 |
-| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 0 | F | 0 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
-| 1975 | 5 | 1975 Monaco Grand Prix 🇲🇨 | 1975-05-11 | 0 | F | 0 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1975 | 4 | 1975 Spanish Grand Prix 🇪🇸 | 1975-04-27 | 19 | R | 20 |   | Jochen Mass 🇩🇪 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 0 | F | 0.0 | 0 |   | Ensign 🇬🇧 | [Chris Amon 🇳🇿](/f1/drivers/amon) | 19 | 12 |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 27 | N | 0.0 | 25 |   | Ensign 🇬🇧 | [Chris Amon 🇳🇿](/f1/drivers/amon) | 23 | 12 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 6 |  |  | 6 |  | 6 |  |  |  |
-| **Total Sum** | 58.000 |  |  | 68.000 |  | 86.000 |  |  |  |
-| **Mean μ (Average)** | 9.667 |  |  | 11.333 |  | 14.333 |  |  |  |
-| **Maximum** | 14.000 |  |  | 27.000 |  | 41.000 |  |  |  |
-| **75th Percentile** | 13.000 |  |  | 22.000 |  | 25.000 |  |  |  |
-| **Median** | 12.000 |  |  | 19.000 |  | 20.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 4.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 14.889 |  |  | 133.889 |  | 245.556 |  |  |  |
-| **Standard Deviation σ** | 3.859 |  |  | 11.571 |  | 15.670 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 25.000 |  |  | 27.000 |  |  | 25.000 |  |  |  | 42.000 | 24.000 |
+| **Mean μ (Average)** | 12.500 |  |  | 13.500 |  |  | 12.500 |  |  |  | 21.000 | 12.000 |
+| **Maximum** | 13.000 |  |  | 27.000 |  |  | 25.000 |  |  |  | 23.000 | 12.000 |
+| **75th Percentile** | 13.000 |  |  | 27.000 |  |  | 25.000 |  |  |  | 23.000 | 12.000 |
+| **Median** | 13.000 |  |  | 27.000 |  |  | 25.000 |  |  |  | 23.000 | 12.000 |
+| **25th Percentile** | 12.000 |  |  |  |  |  |  |  |  |  | 19.000 | 12.000 |
+| **Minimum** | 12.000 |  |  |  |  |  |  |  |  |  | 19.000 | 12.000 |
+| **Variance** | 0.250 |  |  | 182.250 |  |  | 156.250 |  |  |  | 4.000 |  |
+| **Standard Deviation σ** | 0.500 |  |  | 13.500 |  |  | 12.500 |  |  |  | 2.000 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

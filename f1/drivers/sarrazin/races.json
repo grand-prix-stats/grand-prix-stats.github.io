@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Minardi 🇮🇹",
         "date": "1999-04-11",
         "final_position": "R",
         "grid": 18,
         "laps_completed": 31,
         "name": "1999 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
         "round": 2,
         "season": 1999,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Mika Häkkinen 🇫🇮"
+        "teammate": "Marc Gené 🇪🇸",
+        "teammate_final_position": "9",
+        "teammate_grid": 20,
+        "time": null
     }
 ]

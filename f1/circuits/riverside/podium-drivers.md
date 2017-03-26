@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Bruce McLaren 🇳🇿 | 1 |
-| 2. | Innes Ireland 🇬🇧 | 1 |
-| 3. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 2. | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| 3. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

@@ -22,24 +22,24 @@ collectionId: galica
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1978 | 2 | 1978 Brazilian Grand Prix 🇧🇷 | 1978-01-29 | 0 | F | 0 |   | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
-| 1978 | 1 | 1978 Argentine Grand Prix 🇦🇷 | 1978-01-15 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 19 | 5 |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Brett Lunger 🇺🇸](/f1/drivers/lunger) | 18 | R |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 26 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 |  | 3 |  |  |  |
-| **Total Sum** | 12.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 4.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 12.667 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 3.559 |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 27.000 |  |  |  |  |  |  |  |  |  | 63.000 | 5.000 |
+| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |  | 21.000 | 5.000 |
+| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |  | 26.000 | 5.000 |
+| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 26.000 | 5.000 |
+| **Median** | 9.000 |  |  |  |  |  |  |  |  |  | 19.000 | 5.000 |
+| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 18.000 | 5.000 |
+| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |  | 18.000 | 5.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 12.667 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.559 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

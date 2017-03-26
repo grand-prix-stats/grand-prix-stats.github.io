@@ -22,22 +22,25 @@ collectionId: bassi
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 22 | R | 8 |   | Jackie Stewart 🇬🇧 | BRM 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 22 | R | 0.0 | 8 |   | BRM 🇬🇧 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 | 1 |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 22 | R | 0.0 | 8 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 4 | 2 |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 22 | R | 0.0 | 8 |   | BRM 🇬🇧 | [Roberto Bussinello 🇮🇹](/f1/drivers/bussinello) | 21 | 13 |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 22 | R | 0.0 | 8 |   | BRM 🇬🇧 | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 23 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **Maximum** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **Median** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **25th Percentile** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **Minimum** | 8.000 |  |  | 22.000 |  | 8.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 32.000 |  |  | 88.000 |  |  | 32.000 |  |  |  | 51.000 | 16.000 |
+| **Mean μ (Average)** | 8.000 |  |  | 22.000 |  |  | 8.000 |  |  |  | 12.750 | 5.333 |
+| **Maximum** | 8.000 |  |  | 22.000 |  |  | 8.000 |  |  |  | 23.000 | 13.000 |
+| **75th Percentile** | 8.000 |  |  | 22.000 |  |  | 8.000 |  |  |  | 23.000 | 13.000 |
+| **Median** | 8.000 |  |  | 22.000 |  |  | 8.000 |  |  |  | 21.000 | 2.000 |
+| **25th Percentile** | 8.000 |  |  | 22.000 |  |  | 8.000 |  |  |  | 4.000 | 1.000 |
+| **Minimum** | 8.000 |  |  | 22.000 |  |  | 8.000 |  |  |  | 3.000 | 1.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 86.188 | 29.556 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 9.284 | 5.437 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

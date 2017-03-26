@@ -24,12 +24,12 @@ collectionId: spain
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Circuit de Pedralbes](/f1/circuits/pedralbes) | Barcelona | [Spain](/f1/countries/spain) | 2 | Mike Hawthorn 🇬🇧 | 1 |
-| [Montjuïc](/f1/circuits/montjuic) | Barcelona | [Spain](/f1/countries/spain) | 4 | Jackie Stewart 🇬🇧 | 2 |
-| [Circuito de Jerez](/f1/circuits/jerez) | Jerez de la Frontera | [Spain](/f1/countries/spain) | 7 | Alain Prost 🇫🇷 | 2 |
-| [Jarama](/f1/circuits/jarama) | Madrid | [Spain](/f1/countries/spain) | 9 | Mario Andretti 🇺🇸 | 2 |
-| [Circuit de Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | Michael Schumacher 🇩🇪 | 6 |
-| [Valencia Street Circuit](/f1/circuits/valencia) | Valencia | [Spain](/f1/countries/spain) | 5 | Sebastian Vettel 🇩🇪 | 2 |
+| [Circuit de Pedralbes](/f1/circuits/pedralbes) | Barcelona | [Spain](/f1/countries/spain) | 2 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| [Montjuïc](/f1/circuits/montjuic) | Barcelona | [Spain](/f1/countries/spain) | 4 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| [Circuito de Jerez](/f1/circuits/jerez) | Jerez de la Frontera | [Spain](/f1/countries/spain) | 7 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| [Jarama](/f1/circuits/jarama) | Madrid | [Spain](/f1/countries/spain) | 9 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| [Circuit de Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
+| [Valencia Street Circuit](/f1/circuits/valencia) | Valencia | [Spain](/f1/countries/spain) | 5 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
 
 #### Statistic Summary
 

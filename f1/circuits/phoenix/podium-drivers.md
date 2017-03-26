@@ -103,13 +103,13 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 2 |
-| 2. | Ayrton Senna 🇧🇷 | 2 |
-| 3. | Eddie Cheever 🇺🇸 | 1 |
-| 4. | Jean Alesi 🇫🇷 | 1 |
-| 5. | Nelson Piquet 🇧🇷 | 1 |
-| 6. | Riccardo Patrese 🇮🇹 | 1 |
-| 7. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 3. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
+| 4. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
+| 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 6. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 7. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

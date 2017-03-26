@@ -22,23 +22,25 @@ collectionId: cogan
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 1 | 1981 United States Grand Prix West 🇺🇸 | 1981-03-15 | 0 | F | 0 |   | Alan Jones 🇦🇺 | Williams 🇬🇧 |
-| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 0 | F | 0 |   | Alan Jones 🇦🇺 | Williams 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1981 | 1 | 1981 United States Grand Prix West 🇺🇸 | 1981-03-15 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 8 | 5 |
+| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 0 | F | 0.0 | 0 |   | Williams 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 | 1 |
+| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 0 | F | 0.0 | 0 |   | Williams 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 5 | 2 |
+| 1980 | 13 | 1980 Canadian Grand Prix 🇨🇦 | 1980-09-28 | 0 | F | 0.0 | 0 |   | Williams 🇬🇧 | [Rupert Keegan 🇬🇧](/f1/drivers/keegan) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 14.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 7.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 13.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 13.000 |  |  |  |  |  |  |  |  |
-| **Median** | 13.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 36.000 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 6.000 |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 40.000 |  |  |  |  |  |  |  |  |  | 15.000 | 8.000 |
+| **Mean μ (Average)** | 10.000 |  |  |  |  |  |  |  |  |  | 3.750 | 2.667 |
+| **Maximum** | 13.000 |  |  |  |  |  |  |  |  |  | 8.000 | 5.000 |
+| **75th Percentile** | 13.000 |  |  |  |  |  |  |  |  |  | 8.000 | 5.000 |
+| **Median** | 13.000 |  |  |  |  |  |  |  |  |  | 5.000 | 2.000 |
+| **25th Percentile** | 13.000 |  |  |  |  |  |  |  |  |  | 2.000 | 1.000 |
+| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  | 1.000 |
+| **Variance** | 27.000 |  |  |  |  |  |  |  |  |  | 9.188 | 2.889 |
+| **Standard Deviation σ** | 5.196 |  |  |  |  |  |  |  |  |  | 3.031 | 1.700 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

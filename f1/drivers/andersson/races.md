@@ -22,26 +22,23 @@ collectionId: andersson
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 9 | 1977 French Grand Prix 🇫🇷 | 1977-07-03 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1977 | 8 | 1977 Swedish Grand Prix 🇸🇪 | 1977-06-19 | 0 | F | 0 |   | Jacques Laffite 🇫🇷 | Ligier 🇫🇷 |
-| 1977 | 7 | 1977 Belgian Grand Prix 🇧🇪 | 1977-06-05 | 0 | F | 0 |   | Gunnar Nilsson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | 1977-05-08 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1976 | 12 | 1976 Dutch Grand Prix 🇳🇱 | 1976-08-29 | 18 | R | 9 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1976 | 12 | 1976 Dutch Grand Prix 🇳🇱 | 1976-08-29 | 18 | R | 0.0 | 9 |   | Surtees 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 16 | 8 |
+| 1976 | 12 | 1976 Dutch Grand Prix 🇳🇱 | 1976-08-29 | 18 | R | 0.0 | 9 |   | Surtees 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 22 | 11 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 |  | 5 |  |  |  |
-| **Total Sum** | 41.000 |  |  | 18.000 |  | 9.000 |  |  |  |
-| **Mean μ (Average)** | 8.200 |  |  | 3.600 |  | 1.800 |  |  |  |
-| **Maximum** | 12.000 |  |  | 18.000 |  | 9.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Median** | 8.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 7.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 5.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 5.360 |  |  | 51.840 |  | 12.960 |  |  |  |
-| **Standard Deviation σ** | 2.315 |  |  | 7.200 |  | 3.600 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 24.000 |  |  | 36.000 |  |  | 18.000 |  |  |  | 38.000 | 19.000 |
+| **Mean μ (Average)** | 12.000 |  |  | 18.000 |  |  | 9.000 |  |  |  | 19.000 | 9.500 |
+| **Maximum** | 12.000 |  |  | 18.000 |  |  | 9.000 |  |  |  | 22.000 | 11.000 |
+| **75th Percentile** | 12.000 |  |  | 18.000 |  |  | 9.000 |  |  |  | 22.000 | 11.000 |
+| **Median** | 12.000 |  |  | 18.000 |  |  | 9.000 |  |  |  | 22.000 | 11.000 |
+| **25th Percentile** | 12.000 |  |  | 18.000 |  |  | 9.000 |  |  |  | 16.000 | 8.000 |
+| **Minimum** | 12.000 |  |  | 18.000 |  |  | 9.000 |  |  |  | 16.000 | 8.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 9.000 | 2.250 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.000 | 1.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

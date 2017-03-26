@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 3 |
-| 2. | Chris Amon 🇳🇿 | 2 |
-| 3. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 4. | Jack Brabham 🇦🇺 | 1 |
-| 5. | Jacky Ickx 🇧🇪 | 1 |
-| 6. | Jean-Pierre Beltoise 🇫🇷 | 1 |
-| 7. | Jim Clark 🇬🇧 | 1 |
-| 8. | Jochen Rindt 🇦🇹 | 1 |
-| 9. | John Surtees 🇬🇧 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 |
+| 2. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 2 |
+| 3. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 4. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 5. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 6. | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 1 |
+| 7. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 8. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 9. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
 
 #### Statistic Summary
 

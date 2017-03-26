@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1978-09-10",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1978 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 14,
         "season": 1978,
-        "time": null,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Niki Lauda 🇦🇹"
+        "teammate": "Vittorio Brambilla 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 23,
+        "time": null
     }
 ]

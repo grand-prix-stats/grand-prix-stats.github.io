@@ -155,26 +155,26 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Carlos Reutemann 🇦🇷 | 4 |
-| 2. | Jacques Laffite 🇫🇷 | 3 |
-| 3. | Niki Lauda 🇦🇹 | 3 |
-| 4. | Didier Pironi 🇫🇷 | 2 |
-| 5. | Jody Scheckter 🇿🇦 | 2 |
-| 6. | Ronnie Peterson 🇸🇪 | 2 |
-| 7. | Alan Jones 🇦🇺 | 1 |
-| 8. | Clay Regazzoni 🇨🇭 | 1 |
-| 9. | Derek Warwick 🇬🇧 | 1 |
-| 10. | Eddie Cheever 🇺🇸 | 1 |
-| 11. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 12. | François Cevert 🇫🇷 | 1 |
-| 13. | Gunnar Nilsson 🇸🇪 | 1 |
-| 14. | Jackie Stewart 🇬🇧 | 1 |
-| 15. | John Watson 🇬🇧 | 1 |
-| 16. | Keke Rosberg 🇫🇮 | 1 |
-| 17. | Mario Andretti 🇺🇸 | 1 |
-| 18. | Michele Alboreto 🇮🇹 | 1 |
-| 19. | Nigel Mansell 🇬🇧 | 1 |
-| 20. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 4 |
+| 2. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 3 |
+| 3. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 4. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 2 |
+| 5. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
+| 6. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 7. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 8. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 9. | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 1 |
+| 10. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
+| 11. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 12. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| 13. | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 1 |
+| 14. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 15. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 16. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 17. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 18. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 19. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 20. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

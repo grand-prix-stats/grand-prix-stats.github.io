@@ -22,22 +22,24 @@ collectionId: monarch
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
+| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 20 | R |
+| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Trevor Taylor 🇬🇧](/f1/drivers/trevor_taylor) | 12 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 9.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Median** | 9.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 27.000 |  |  |  |  |  |  |  |  |  | 33.000 | 1.000 |
+| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |  | 11.000 | 1.000 |
+| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |  | 20.000 | 1.000 |
+| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 20.000 | 1.000 |
+| **Median** | 9.000 |  |  |  |  |  |  |  |  |  | 12.000 | 1.000 |
+| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 1.000 | 1.000 |
+| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |  | 1.000 | 1.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 60.667 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 7.789 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

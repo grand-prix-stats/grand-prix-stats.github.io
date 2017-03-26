@@ -22,26 +22,24 @@ collectionId: leoni
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1978 | 4 | 1978 United States Grand Prix West 🇺🇸 | 1978-04-02 | 0 | F | 0 |   | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
-| 1978 | 3 | 1978 South African Grand Prix 🇿🇦 | 1978-03-04 | 0 | F | 0 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1978 | 2 | 1978 Brazilian Grand Prix 🇧🇷 | 1978-01-29 | 17 | R | 0 |   | Carlos Reutemann 🇦🇷 | Ferrari 🇮🇹 |
-| 1978 | 1 | 1978 Argentine Grand Prix 🇦🇷 | 1978-01-15 | 22 | R | 28 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1978 | 2 | 1978 Brazilian Grand Prix 🇧🇷 | 1978-01-29 | 17 | R | 0.0 | 0 |   | Ensign 🇬🇧 | [Danny Ongais 🇺🇸](/f1/drivers/ongais) | 23 | R |
+| 1978 | 1 | 1978 Argentine Grand Prix 🇦🇷 | 1978-01-15 | 22 | R | 0.0 | 28 |   | Ensign 🇬🇧 | [Danny Ongais 🇺🇸](/f1/drivers/ongais) | 21 | R |
+| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 10 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 |  | 5 |  |  |  |
-| **Total Sum** | 24.000 |  |  | 39.000 |  | 28.000 |  |  |  |
-| **Mean μ (Average)** | 4.800 |  |  | 7.800 |  | 5.600 |  |  |  |
-| **Maximum** | 14.000 |  |  | 22.000 |  | 28.000 |  |  |  |
-| **75th Percentile** | 4.000 |  |  | 17.000 |  |  |  |  |  |
-| **Median** | 3.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 22.160 |  |  | 93.760 |  | 125.440 |  |  |  |
-| **Standard Deviation σ** | 4.707 |  |  | 9.683 |  | 11.200 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 17.000 |  |  | 39.000 |  |  | 28.000 |  |  |  | 54.000 |  |
+| **Mean μ (Average)** | 5.667 |  |  | 13.000 |  |  | 9.333 |  |  |  | 18.000 |  |
+| **Maximum** | 14.000 |  |  | 22.000 |  |  | 28.000 |  |  |  | 23.000 |  |
+| **75th Percentile** | 14.000 |  |  | 22.000 |  |  | 28.000 |  |  |  | 23.000 |  |
+| **Median** | 2.000 |  |  | 17.000 |  |  |  |  |  |  | 21.000 |  |
+| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  | 10.000 |  |
+| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  | 10.000 |  |
+| **Variance** | 34.889 |  |  | 88.667 |  |  | 174.222 |  |  |  | 32.667 |  |
+| **Standard Deviation σ** | 5.907 |  |  | 9.416 |  |  | 13.199 |  |  |  | 5.715 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,62 +1,77 @@
 [
     {
+        "constructor": "Minardi 🇮🇹",
         "date": "2003-10-12",
         "final_position": "16",
         "grid": 18,
         "laps_completed": 50,
         "name": "2003 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 16,
         "season": 2003,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Rubens Barrichello 🇧🇷"
+        "teammate": "Jos Verstappen 🇳🇱",
+        "teammate_final_position": "15",
+        "teammate_grid": 17,
+        "time": null
     },
     {
+        "constructor": "Minardi 🇮🇹",
         "date": "2003-09-28",
         "final_position": "11",
         "grid": 20,
         "laps_completed": 69,
         "name": "2003 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 15,
         "season": 2003,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "Jos Verstappen 🇳🇱",
+        "teammate_final_position": "10",
+        "teammate_grid": 19,
+        "time": null
     },
     {
+        "constructor": "Minardi 🇮🇹",
         "date": "2003-09-14",
         "final_position": "12",
         "grid": 19,
         "laps_completed": 51,
         "name": "2003 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 14,
         "season": 2003,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "Jos Verstappen 🇳🇱",
+        "teammate_final_position": "R",
+        "teammate_grid": 17,
+        "time": null
     },
     {
+        "constructor": "Minardi 🇮🇹",
         "date": "2003-08-24",
         "final_position": "13",
         "grid": 20,
         "laps_completed": 66,
         "name": "2003 Hungarian Grand Prix 🇭🇺",
+        "points": 0.0,
         "round": 13,
         "season": 2003,
-        "time": null,
-        "winning_constructor": "Renault 🇫🇷",
-        "winning_driver": "Fernando Alonso 🇪🇸"
+        "teammate": "Jos Verstappen 🇳🇱",
+        "teammate_final_position": "12",
+        "teammate_grid": 18,
+        "time": null
     },
     {
+        "constructor": "Minardi 🇮🇹",
         "date": "2003-08-03",
         "final_position": "12",
         "grid": 20,
         "laps_completed": 62,
         "name": "2003 German Grand Prix 🇩🇪",
+        "points": 0.0,
         "round": 12,
         "season": 2003,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Juan Pablo Montoya 🇨🇴"
+        "teammate": "Jos Verstappen 🇳🇱",
+        "teammate_final_position": "R",
+        "teammate_grid": 19,
+        "time": null
     }
 ]

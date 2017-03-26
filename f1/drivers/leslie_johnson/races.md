@@ -22,22 +22,25 @@ collectionId: leslie_johnson
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 2 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Bob Gerard 🇬🇧](/f1/drivers/gerard) | 13 | 6 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Cuth Harrison 🇬🇧](/f1/drivers/harrison) | 15 | 7 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Peter Walker 🇬🇧](/f1/drivers/peter_walker) | 10 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Tony Rolt 🇬🇧](/f1/drivers/rolt) | 10 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **Maximum** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **Median** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 12.000 |  | 2.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 4.000 |  |  | 48.000 |  |  | 8.000 |  |  |  | 48.000 | 13.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 12.000 | 6.500 |
+| **Maximum** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 15.000 | 7.000 |
+| **75th Percentile** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 15.000 | 7.000 |
+| **Median** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 13.000 | 7.000 |
+| **25th Percentile** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 10.000 | 6.000 |
+| **Minimum** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 10.000 | 6.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 4.500 | 0.250 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.121 | 0.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

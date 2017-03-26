@@ -22,22 +22,10 @@ collectionId: mackey
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 2 | 1951 Indianapolis 500 🇺🇸 | 1951-05-30 | 33 | R | 97 |   | Lee Wallard 🇺🇸 | Kurtis Kraft 🇺🇸 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **Maximum** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **75th Percentile** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **Median** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 33.000 |  | 97.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -103,13 +103,13 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 2 |
-| 2. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 3. | Jack Brabham 🇦🇺 | 1 |
-| 4. | Jacky Ickx 🇧🇪 | 1 |
-| 5. | James Hunt 🇬🇧 | 1 |
-| 6. | Jody Scheckter 🇿🇦 | 1 |
-| 7. | Peter Revson 🇺🇸 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 2. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 3. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 4. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 5. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 6. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 7. | [Peter Revson 🇺🇸](/f1/drivers/revson) | 1 |
 
 #### Statistic Summary
 

@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 4 |
-| 2. | Ayrton Senna 🇧🇷 | 3 |
-| 3. | Nigel Mansell 🇬🇧 | 2 |
-| 4. | Clay Regazzoni 🇨🇭 | 1 |
-| 5. | Gerhard Berger 🇦🇹 | 1 |
-| 6. | Jack Brabham 🇦🇺 | 1 |
-| 7. | Jo Siffert 🇨🇭 | 1 |
-| 8. | John Surtees 🇬🇧 | 1 |
-| 9. | Lewis Hamilton 🇬🇧 | 1 |
-| 10. | Nico Rosberg 🇩🇪 | 1 |
-| 11. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 4 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| 3. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 4. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 5. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 6. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 7. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| 8. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 9. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 10. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 11. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

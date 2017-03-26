@@ -22,23 +22,10 @@ collectionId: nicholson
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 26 | 17 | 51 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
-| 1974 | 10 | 1974 British Grand Prix 🇬🇧 | 1974-07-20 | 0 | F | 0 |   | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 20.000 |  |  | 26.000 | 17.000 | 51.000 |  |  |  |
-| **Mean μ (Average)** | 10.000 |  |  | 13.000 | 17.000 | 25.500 |  |  |  |
-| **Maximum** | 10.000 |  |  | 26.000 | 17.000 | 51.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 26.000 | 17.000 | 51.000 |  |  |  |
-| **Median** | 10.000 |  |  | 26.000 | 17.000 | 51.000 |  |  |  |
-| **25th Percentile** | 10.000 |  |  |  | 17.000 |  |  |  |  |
-| **Minimum** | 10.000 |  |  |  | 17.000 |  |  |  |  |
-| **Variance** |  |  |  | 169.000 |  | 650.250 |  |  |  |
-| **Standard Deviation σ** |  |  |  | 13.000 |  | 25.500 |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

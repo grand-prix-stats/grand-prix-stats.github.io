@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 3 |
-| 2. | Nico Rosberg 🇩🇪 | 2 |
-| 3. | Kimi Räikkönen 🇫🇮 | 1 |
-| 4. | Sebastian Vettel 🇩🇪 | 1 |
-| 5. | Sergio Pérez 🇲🇽 | 1 |
-| 6. | Valtteri Bottas 🇫🇮 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 5. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| 6. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 

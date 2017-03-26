@@ -24,7 +24,7 @@ collectionId: india
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Buddh International Circuit](/f1/circuits/buddh) | Uttar Pradesh | [India](/f1/countries/india) | 3 | Sebastian Vettel 🇩🇪 | 3 |
+| [Buddh International Circuit](/f1/circuits/buddh) | Uttar Pradesh | [India](/f1/countries/india) | 3 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
 
 #### Statistic Summary
 

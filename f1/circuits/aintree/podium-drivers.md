@@ -127,19 +127,19 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Stirling Moss 🇬🇧 | 3 |
-| 2. | Bruce McLaren 🇳🇿 | 2 |
-| 3. | Jack Brabham 🇦🇺 | 1 |
-| 4. | Jim Clark 🇬🇧 | 1 |
-| 5. | John Surtees 🇬🇧 | 1 |
-| 6. | Juan Fangio 🇦🇷 | 1 |
-| 7. | Karl Kling 🇩🇪 | 1 |
-| 8. | Luigi Musso 🇮🇹 | 1 |
-| 9. | Mike Hawthorn 🇬🇧 | 1 |
-| 10. | Phil Hill 🇺🇸 | 1 |
-| 11. | Richie Ginther 🇺🇸 | 1 |
-| 12. | Tony Brooks 🇬🇧 | 1 |
-| 13. | Wolfgang von Trips 🇩🇪 | 1 |
+| 1. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 3 |
+| 2. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 2 |
+| 3. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 4. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 5. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 6. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 7. | [Karl Kling 🇩🇪](/f1/drivers/kling) | 1 |
+| 8. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
+| 9. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 10. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 11. | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 1 |
+| 12. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
+| 13. | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 1 |
 
 #### Statistic Summary
 

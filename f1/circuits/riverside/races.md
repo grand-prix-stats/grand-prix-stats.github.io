@@ -24,7 +24,7 @@ collectionId: riverside
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1960 | 10 | 1960 United States Grand Prix 🇺🇸 | 1960-11-20 | 75 | 2:28:52.2 | Stirling Moss 🇬🇧 | Team Lotus 🇬🇧 |
+| 1960 | 10 | 1960 United States Grand Prix 🇺🇸 | 1960-11-20 | 75 | 2:28:52.2 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | Team Lotus 🇬🇧 |
 
 #### Statistic Summary
 

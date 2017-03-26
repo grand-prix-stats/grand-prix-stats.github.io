@@ -1,74 +1,92 @@
 [
     {
+        "constructor": "Fittipaldi 🇧🇷",
         "date": "1977-01-23",
         "final_position": "7",
         "grid": 19,
         "laps_completed": 38,
         "name": "1977 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
         "round": 2,
         "season": 1977,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "Emerson Fittipaldi 🇧🇷",
+        "teammate_final_position": "4",
+        "teammate_grid": 16,
+        "time": null
     },
     {
+        "constructor": "Fittipaldi 🇧🇷",
         "date": "1977-01-09",
         "final_position": "R",
         "grid": 19,
         "laps_completed": 22,
         "name": "1977 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
         "round": 1,
         "season": 1977,
-        "time": null,
-        "winning_constructor": "Wolf 🇨🇦",
-        "winning_driver": "Jody Scheckter 🇿🇦"
+        "teammate": "Emerson Fittipaldi 🇧🇷",
+        "teammate_final_position": "4",
+        "teammate_grid": 16,
+        "time": null
     },
     {
+        "constructor": "Fittipaldi 🇧🇷",
         "date": "1976-07-04",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1976 French Grand Prix 🇫🇷",
+        "points": 0.0,
         "round": 8,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
+        "teammate": "Emerson Fittipaldi 🇧🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 21,
+        "time": null
     },
     {
+        "constructor": "Fittipaldi 🇧🇷",
         "date": "1976-05-02",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1976 Spanish Grand Prix 🇪🇸",
+        "points": 0.0,
         "round": 4,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
+        "teammate": "Emerson Fittipaldi 🇧🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 19,
+        "time": null
     },
     {
+        "constructor": "Fittipaldi 🇧🇷",
         "date": "1976-03-28",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1976 United States Grand Prix West 🇺🇸",
+        "points": 0.0,
         "round": 3,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Clay Regazzoni 🇨🇭"
+        "teammate": "Emerson Fittipaldi 🇧🇷",
+        "teammate_final_position": "6",
+        "teammate_grid": 16,
+        "time": null
     },
     {
+        "constructor": "Fittipaldi 🇧🇷",
         "date": "1976-01-25",
         "final_position": "11",
         "grid": 20,
         "laps_completed": 39,
         "name": "1976 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
         "round": 1,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Niki Lauda 🇦🇹"
+        "teammate": "Emerson Fittipaldi 🇧🇷",
+        "teammate_final_position": "13",
+        "teammate_grid": 5,
+        "time": null
     }
 ]

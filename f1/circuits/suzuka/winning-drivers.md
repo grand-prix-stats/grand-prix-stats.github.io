@@ -135,21 +135,21 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 6 |
-| 2. | Sebastian Vettel 🇩🇪 | 4 |
-| 3. | Ayrton Senna 🇧🇷 | 2 |
-| 4. | Damon Hill 🇬🇧 | 2 |
-| 5. | Gerhard Berger 🇦🇹 | 2 |
-| 6. | Lewis Hamilton 🇬🇧 | 2 |
-| 7. | Mika Häkkinen 🇫🇮 | 2 |
-| 8. | Alessandro Nannini 🇮🇹 | 1 |
-| 9. | Fernando Alonso 🇪🇸 | 1 |
-| 10. | Jenson Button 🇬🇧 | 1 |
-| 11. | Kimi Räikkönen 🇫🇮 | 1 |
-| 12. | Nelson Piquet 🇧🇷 | 1 |
-| 13. | Nico Rosberg 🇩🇪 | 1 |
-| 14. | Riccardo Patrese 🇮🇹 | 1 |
-| 15. | Rubens Barrichello 🇧🇷 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 3. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 4. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
+| 5. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 2 |
+| 6. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 7. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 8. | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 1 |
+| 9. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 10. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 11. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 12. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 13. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 14. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 15. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
 
 #### Statistic Summary
 

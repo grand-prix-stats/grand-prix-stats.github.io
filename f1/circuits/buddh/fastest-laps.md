@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Jenson Button 🇬🇧 | 1 |
-| 2. | Kimi Räikkönen 🇫🇮 | 1 |
-| 3. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

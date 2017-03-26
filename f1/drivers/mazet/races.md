@@ -22,22 +22,24 @@ collectionId: mazet
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 23 | 13 | 50 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 23 | 13 | 0.0 | 50 |   | March-Ford 🇬🇧 | [Max Jean 🇫🇷](/f1/drivers/jean) | 22 | N |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 23 | 13 | 0.0 | 50 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 18 | N |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 23 | 13 | 0.0 | 50 |   | March-Ford 🇬🇧 | [Alex Soler-Roig 🇪🇸](/f1/drivers/roig) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **Median** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 23.000 | 13.000 | 50.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 15.000 |  |  | 69.000 | 39.000 |  | 150.000 |  |  |  | 61.000 |  |
+| **Mean μ (Average)** | 5.000 |  |  | 23.000 | 13.000 |  | 50.000 |  |  |  | 20.333 |  |
+| **Maximum** | 5.000 |  |  | 23.000 | 13.000 |  | 50.000 |  |  |  | 22.000 |  |
+| **75th Percentile** | 5.000 |  |  | 23.000 | 13.000 |  | 50.000 |  |  |  | 22.000 |  |
+| **Median** | 5.000 |  |  | 23.000 | 13.000 |  | 50.000 |  |  |  | 21.000 |  |
+| **25th Percentile** | 5.000 |  |  | 23.000 | 13.000 |  | 50.000 |  |  |  | 18.000 |  |
+| **Minimum** | 5.000 |  |  | 23.000 | 13.000 |  | 50.000 |  |  |  | 18.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 2.889 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.700 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,14 +1,62 @@
 [
     {
+        "constructor": "Maserati 🇮🇹",
         "date": "1960-02-07",
         "final_position": "R",
         "grid": 21,
         "laps_completed": 23,
         "name": "1960 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
         "round": 1,
         "season": 1960,
-        "time": null,
-        "winning_constructor": "Cooper-Climax 🇬🇧",
-        "winning_driver": "Bruce McLaren 🇳🇿"
+        "teammate": "Gino Munaron 🇮🇹",
+        "teammate_final_position": "13",
+        "teammate_grid": 19,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1960-02-07",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 23,
+        "name": "1960 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
+        "round": 1,
+        "season": 1960,
+        "teammate": "Nasif Estéfano 🇦🇷",
+        "teammate_final_position": "14",
+        "teammate_grid": 20,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1960-02-07",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 23,
+        "name": "1960 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
+        "round": 1,
+        "season": 1960,
+        "teammate": "Antonio Creus 🇪🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 22,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1960-02-07",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 23,
+        "name": "1960 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
+        "round": 1,
+        "season": 1960,
+        "teammate": "Giorgio Scarlatti 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

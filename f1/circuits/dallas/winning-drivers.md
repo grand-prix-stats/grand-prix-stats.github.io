@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Keke Rosberg 🇫🇮 | 1 |
+| 1. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
 
 #### Statistic Summary
 

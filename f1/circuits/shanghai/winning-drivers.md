@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 4 |
-| 2. | Fernando Alonso 🇪🇸 | 2 |
-| 3. | Nico Rosberg 🇩🇪 | 2 |
-| 4. | Jenson Button 🇬🇧 | 1 |
-| 5. | Kimi Räikkönen 🇫🇮 | 1 |
-| 6. | Michael Schumacher 🇩🇪 | 1 |
-| 7. | Rubens Barrichello 🇧🇷 | 1 |
-| 8. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 3. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 4. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 5. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 6. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 7. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 8. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

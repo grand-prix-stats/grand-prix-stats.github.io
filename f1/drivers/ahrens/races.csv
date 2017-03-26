@@ -1,3 +1,4 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1967 German Grand Prix 🇩🇪,7,23,4,Brabham-Repco 🇬🇧,1967-08-06,R,,1967,Denny Hulme 🇳🇿
-1968 German Grand Prix 🇩🇪,8,17,13,Matra-Ford 🇫🇷,1968-08-04,12,,1968,Jackie Stewart 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1967 German Grand Prix 🇩🇪,N,23,1967-08-06,R,1967,Brian Hart 🇬🇧,Protos 🇬🇧,7,25,4,,0.0
+1968 German Grand Prix 🇩🇪,3,17,1968-08-04,12,1968,Jochen Rindt 🇦🇹,Brabham-Repco 🇬🇧,8,3,13,,0.0
+1968 German Grand Prix 🇩🇪,5,17,1968-08-04,12,1968,Jack Brabham 🇦🇺,Brabham-Repco 🇬🇧,8,15,13,,0.0

@@ -22,22 +22,22 @@ collectionId: apicella
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1993 | 13 | 1993 Italian Grand Prix 🇮🇹 | 1993-09-12 | 23 | R | 0 |   | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1993 | 13 | 1993 Italian Grand Prix 🇮🇹 | 1993-09-12 | 23 | R | 0.0 | 0 |   | Jordan 🇮🇪 | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 19 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **Mean μ (Average)** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **Maximum** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **75th Percentile** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **Median** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **25th Percentile** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **Minimum** | 13.000 |  |  | 23.000 |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Mean μ (Average)** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Maximum** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **75th Percentile** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Median** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **25th Percentile** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Minimum** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

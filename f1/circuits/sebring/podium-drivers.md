@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Bruce McLaren 🇳🇿 | 1 |
-| 2. | Maurice Trintignant 🇫🇷 | 1 |
-| 3. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 2. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 1 |
+| 3. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

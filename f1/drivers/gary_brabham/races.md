@@ -22,23 +22,10 @@ collectionId: gary_brabham
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1990 | 2 | 1990 Brazilian Grand Prix 🇧🇷 | 1990-03-25 | 0 | F | 0 |   | Alain Prost 🇫🇷 | Ferrari 🇮🇹 |
-| 1990 | 1 | 1990 United States Grand Prix 🇺🇸 | 1990-03-11 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 3.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 1.500 |  |  |  |  |  |  |  |  |
-| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 0.250 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

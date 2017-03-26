@@ -22,23 +22,25 @@ collectionId: abecassis
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 1 | 1952 Swiss Grand Prix 🇨🇭 | 1952-05-18 | 10 | R | 12 |   | Piero Taruffi 🇮🇹 | Ferrari 🇮🇹 |
-| 1951 | 1 | 1951 Swiss Grand Prix 🇨🇭 | 1951-05-27 | 20 | R | 23 |   | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1952 | 1 | 1952 Swiss Grand Prix 🇨🇭 | 1952-05-18 | 10 | R | 0.0 | 12 |   | HWM 🇬🇧 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 9 | W |
+| 1952 | 1 | 1952 Swiss Grand Prix 🇨🇭 | 1952-05-18 | 10 | R | 0.0 | 12 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 12 | W |
+| 1952 | 1 | 1952 Swiss Grand Prix 🇨🇭 | 1952-05-18 | 10 | R | 0.0 | 12 |   | HWM 🇬🇧 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 6 | R |
+| 1951 | 1 | 1951 Swiss Grand Prix 🇨🇭 | 1951-05-27 | 20 | R | 0.0 | 23 |   | HWM 🇬🇧 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 14 | 8 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 30.000 |  | 35.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 15.000 |  | 17.500 |  |  |  |
-| **Maximum** | 1.000 |  |  | 20.000 |  | 23.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 20.000 |  | 23.000 |  |  |  |
-| **Median** | 1.000 |  |  | 20.000 |  | 23.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 10.000 |  | 12.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 10.000 |  | 12.000 |  |  |  |
-| **Variance** |  |  |  | 25.000 |  | 30.250 |  |  |  |
-| **Standard Deviation σ** |  |  |  | 5.000 |  | 5.500 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 1 |
+| **Total Sum** | 4.000 |  |  | 50.000 |  |  | 59.000 |  |  |  | 41.000 | 8.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 12.500 |  |  | 14.750 |  |  |  | 10.250 | 8.000 |
+| **Maximum** | 1.000 |  |  | 20.000 |  |  | 23.000 |  |  |  | 14.000 | 8.000 |
+| **75th Percentile** | 1.000 |  |  | 20.000 |  |  | 23.000 |  |  |  | 14.000 | 8.000 |
+| **Median** | 1.000 |  |  | 10.000 |  |  | 12.000 |  |  |  | 12.000 | 8.000 |
+| **25th Percentile** | 1.000 |  |  | 10.000 |  |  | 12.000 |  |  |  | 9.000 | 8.000 |
+| **Minimum** | 1.000 |  |  | 10.000 |  |  | 12.000 |  |  |  | 6.000 | 8.000 |
+| **Variance** |  |  |  | 18.750 |  |  | 22.688 |  |  |  | 9.188 |  |
+| **Standard Deviation σ** |  |  |  | 4.330 |  |  | 4.763 |  |  |  | 3.031 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

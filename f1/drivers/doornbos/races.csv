@@ -1,12 +1,12 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2005 Belgian Grand Prix 🇧🇪,16,17,41,McLaren 🇬🇧,2005-09-11,13,,2005,Kimi Räikkönen 🇫🇮
-2005 Brazilian Grand Prix 🇧🇷,17,18,34,McLaren 🇬🇧,2005-09-25,R,,2005,Juan Pablo Montoya 🇨🇴
-2005 Chinese Grand Prix 🇨🇳,19,20,55,Renault 🇫🇷,2005-10-16,14,,2005,Fernando Alonso 🇪🇸
-2005 German Grand Prix 🇩🇪,12,17,63,Renault 🇫🇷,2005-07-24,18,,2005,Fernando Alonso 🇪🇸
-2005 Hungarian Grand Prix 🇭🇺,13,19,26,McLaren 🇬🇧,2005-07-31,R,,2005,Kimi Räikkönen 🇫🇮
-2005 Italian Grand Prix 🇮🇹,15,18,51,McLaren 🇬🇧,2005-09-04,18,,2005,Juan Pablo Montoya 🇨🇴
-2005 Japanese Grand Prix 🇯🇵,18,15,51,McLaren 🇬🇧,2005-10-09,14,,2005,Kimi Räikkönen 🇫🇮
-2005 Turkish Grand Prix 🇹🇷,14,17,55,McLaren 🇬🇧,2005-08-21,13,,2005,Kimi Räikkönen 🇫🇮
-2006 Brazilian Grand Prix 🇧🇷,18,22,70,Ferrari 🇮🇹,2006-10-22,12,,2006,Felipe Massa 🇧🇷
-2006 Chinese Grand Prix 🇨🇳,16,10,55,Ferrari 🇮🇹,2006-10-01,12,,2006,Michael Schumacher 🇩🇪
-2006 Japanese Grand Prix 🇯🇵,17,18,52,Renault 🇫🇷,2006-10-08,13,,2006,Fernando Alonso 🇪🇸
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2005 Belgian Grand Prix 🇧🇪,12,17,2005-09-11,13,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,16,18,41,,0.0
+2005 Brazilian Grand Prix 🇧🇷,14,18,2005-09-25,R,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,17,16,34,,0.0
+2005 Chinese Grand Prix 🇨🇳,16,20,2005-10-16,14,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,19,18,55,,0.0
+2005 German Grand Prix 🇩🇪,13,17,2005-07-24,18,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,12,16,63,,0.0
+2005 Hungarian Grand Prix 🇭🇺,N,19,2005-07-31,R,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,13,17,26,,0.0
+2005 Italian Grand Prix 🇮🇹,19,18,2005-09-04,18,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,15,20,51,,0.0
+2005 Japanese Grand Prix 🇯🇵,16,15,2005-10-09,14,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,18,13,51,,0.0
+2005 Turkish Grand Prix 🇹🇷,R,17,2005-08-21,13,2005,Christijan Albers 🇳🇱,Minardi 🇮🇹,14,15,55,,0.0
+2006 Brazilian Grand Prix 🇧🇷,R,22,2006-10-22,12,2006,David Coulthard 🇬🇧,Red Bull 🇦🇹,18,18,70,,0.0
+2006 Chinese Grand Prix 🇨🇳,9,10,2006-10-01,12,2006,David Coulthard 🇬🇧,Red Bull 🇦🇹,16,12,55,,0.0
+2006 Japanese Grand Prix 🇯🇵,R,18,2006-10-08,13,2006,David Coulthard 🇬🇧,Red Bull 🇦🇹,17,17,52,,0.0

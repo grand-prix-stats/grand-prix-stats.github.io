@@ -22,22 +22,27 @@ collectionId: schoeller
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 3 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 | 1 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 | 2 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Rudi Fischer 🇨🇭](/f1/drivers/fischer) | 6 | 3 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 5 | 4 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Roger Laurent 🇧🇪](/f1/drivers/laurent) | 17 | 6 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 24 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Piero Carini 🇮🇹](/f1/drivers/carini) | 27 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **Mean μ (Average)** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **Maximum** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **75th Percentile** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **Median** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **25th Percentile** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **Minimum** | 6.000 |  |  | 24.000 |  | 3.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 |  | 6 | 6 |  |  |  | 6 | 5 |
+| **Total Sum** | 36.000 |  |  | 144.000 |  |  | 18.000 |  |  |  | 58.000 | 16.000 |
+| **Mean μ (Average)** | 6.000 |  |  | 24.000 |  |  | 3.000 |  |  |  | 9.667 | 3.200 |
+| **Maximum** | 6.000 |  |  | 24.000 |  |  | 3.000 |  |  |  | 27.000 | 6.000 |
+| **75th Percentile** | 6.000 |  |  | 24.000 |  |  | 3.000 |  |  |  | 17.000 | 4.000 |
+| **Median** | 6.000 |  |  | 24.000 |  |  | 3.000 |  |  |  | 6.000 | 3.000 |
+| **25th Percentile** | 6.000 |  |  | 24.000 |  |  | 3.000 |  |  |  | 2.000 | 2.000 |
+| **Minimum** | 6.000 |  |  | 24.000 |  |  | 3.000 |  |  |  | 1.000 | 1.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 87.222 | 2.960 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 9.339 | 1.720 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

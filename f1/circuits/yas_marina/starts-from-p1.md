@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 3 |
-| 2. | Nico Rosberg 🇩🇪 | 2 |
-| 3. | Sebastian Vettel 🇩🇪 | 2 |
-| 4. | Mark Webber 🇦🇺 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 4. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
 
 #### Statistic Summary
 

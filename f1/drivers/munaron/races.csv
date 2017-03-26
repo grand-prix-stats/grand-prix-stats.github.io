@@ -1,5 +1,6 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1960 Argentine Grand Prix 🇦🇷,1,19,72,Cooper-Climax 🇬🇧,1960-02-07,13,,1960,Bruce McLaren 🇳🇿
-1960 British Grand Prix 🇬🇧,7,25,70,Cooper-Climax 🇬🇧,1960-07-16,15,,1960,Jack Brabham 🇦🇺
-1960 French Grand Prix 🇫🇷,6,19,16,Cooper-Climax 🇬🇧,1960-07-03,R,,1960,Jack Brabham 🇦🇺
-1960 Italian Grand Prix 🇮🇹,9,8,27,Ferrari 🇮🇹,1960-09-04,R,,1960,Phil Hill 🇺🇸
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1960 Argentine Grand Prix 🇦🇷,14,19,1960-02-07,13,1960,Nasif Estéfano 🇦🇷,Maserati 🇮🇹,1,20,72,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,19,1960-02-07,13,1960,Ettore Chimeri 🇻🇪,Maserati 🇮🇹,1,21,72,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,19,1960-02-07,13,1960,Antonio Creus 🇪🇸,Maserati 🇮🇹,1,22,72,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,19,1960-02-07,13,1960,Giorgio Scarlatti 🇮🇹,Maserati 🇮🇹,1,18,72,,0.0
+1960 Italian Grand Prix 🇮🇹,4,8,1960-09-04,R,1960,Giulio Cabianca 🇮🇹,Cooper-Castellotti 🇬🇧,9,4,27,,0.0

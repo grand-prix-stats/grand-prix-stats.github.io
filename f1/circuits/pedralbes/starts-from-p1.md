@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Alberto Ascari 🇮🇹 | 2 |
+| 1. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
 
 #### Statistic Summary
 

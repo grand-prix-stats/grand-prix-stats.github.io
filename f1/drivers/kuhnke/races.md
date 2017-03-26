@@ -22,23 +22,10 @@ collectionId: kuhnke
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 6 | 1963 German Grand Prix 🇩🇪 | 1963-08-04 | 0 | F | 0 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1962 | 7 | 1962 Italian Grand Prix 🇮🇹 | 1962-09-16 | 0 | W | 0 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 13.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 6.500 |  |  |  |  |  |  |  |  |
-| **Maximum** | 7.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 7.000 |  |  |  |  |  |  |  |  |
-| **Median** | 7.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 6.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 6.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 0.250 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -22,22 +22,22 @@ collectionId: tingelstad
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 28 | 9 | 200 | +8:19.91 | Jim Rathmann 🇺🇸 | Watson 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1960 | 3 | 1960 Indianapolis 500 🇺🇸 | 1960-05-30 | 28 | 9 | 0.0 | 200 | +8:19.91 | Trevis 🇺🇸 | [Eddie Johnson 🇺🇸](/f1/drivers/johnson) | 7 | 6 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **Mean μ (Average)** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **Maximum** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **75th Percentile** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **Median** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **25th Percentile** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **Minimum** | 3.000 |  |  | 28.000 | 9.000 | 200.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **Mean μ (Average)** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **Maximum** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **75th Percentile** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **Median** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **25th Percentile** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **Minimum** | 3.000 |  |  | 28.000 | 9.000 |  | 200.000 |  |  |  | 7.000 | 6.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

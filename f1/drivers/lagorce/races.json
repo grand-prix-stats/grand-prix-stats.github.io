@@ -1,26 +1,32 @@
 [
     {
+        "constructor": "Ligier 🇫🇷",
         "date": "1994-11-13",
         "final_position": "11",
         "grid": 20,
         "laps_completed": 79,
         "name": "1994 Australian Grand Prix 🇦🇺",
+        "points": 0.0,
         "round": 16,
         "season": 1994,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Nigel Mansell 🇬🇧"
+        "teammate": "Olivier Panis 🇫🇷",
+        "teammate_final_position": "5",
+        "teammate_grid": 12,
+        "time": null
     },
     {
+        "constructor": "Ligier 🇫🇷",
         "date": "1994-11-06",
         "final_position": "R",
         "grid": 20,
         "laps_completed": 10,
         "name": "1994 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 15,
         "season": 1994,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Damon Hill 🇬🇧"
+        "teammate": "Olivier Panis 🇫🇷",
+        "teammate_final_position": "11",
+        "teammate_grid": 19,
+        "time": null
     }
 ]

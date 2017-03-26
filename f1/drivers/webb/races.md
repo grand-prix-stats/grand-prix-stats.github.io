@@ -22,25 +22,54 @@ collectionId: webb
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 29 | R | 104 |   | Bill Vukovich 🇺🇸 | Kurtis Kraft 🇺🇸 |
-| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 166 |   | Bill Vukovich 🇺🇸 | Kurtis Kraft 🇺🇸 |
-| 1952 | 2 | 1952 Indianapolis 500 🇺🇸 | 1952-05-30 | 29 | R | 162 |   | Troy Ruttman 🇺🇸 | Kuzma 🇺🇸 |
-| 1950 | 3 | 1950 Indianapolis 500 🇺🇸 | 1950-05-30 | 14 | 20 | 126 |   | Johnnie Parsons 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 29 | R | 0.0 | 104 |   | Bromme 🇺🇸 | [Danny Kladis 🇺🇸](/f1/drivers/kladis) | 29 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Bill Vukovich 🇺🇸](/f1/drivers/vukovich) | 1 | 1 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Art Cross 🇺🇸](/f1/drivers/cross) | 12 | 2 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Sam Hanks 🇺🇸](/f1/drivers/hanks) | 9 | 3 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Fred Agabashian 🇺🇸](/f1/drivers/agabashian) | 2 | 4 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jack McGrath 🇺🇸](/f1/drivers/mcgrath) | 3 | 5 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jimmy Daywalt 🇺🇸](/f1/drivers/daywalt) | 21 | 6 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jim Rathmann 🇺🇸](/f1/drivers/rathmann) | 25 | 7 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jimmy Davies 🇺🇸](/f1/drivers/davies) | 32 | 10 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Duke Nalon 🇺🇸](/f1/drivers/nalon) | 26 | 11 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Carl Scarborough 🇺🇸](/f1/drivers/scarborough) | 19 | 12 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Bill Holland 🇺🇸](/f1/drivers/holland) | 28 | 15 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Rodger Ward 🇺🇸](/f1/drivers/ward) | 10 | 16 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Walt Faulkner 🇺🇸](/f1/drivers/faulkner) | 14 | 17 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Marshall Teague 🇺🇸](/f1/drivers/teague) | 22 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jerry Hoyt 🇺🇸](/f1/drivers/hoyt) | 7 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Paul Russo 🇺🇸](/f1/drivers/paul_russo) | 17 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Johnnie Parsons 🇺🇸](/f1/drivers/parsons) | 8 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Gene Hartley 🇺🇸](/f1/drivers/hartley) | 13 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Cal Niday 🇺🇸](/f1/drivers/niday) | 30 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Duane Carter 🇺🇸](/f1/drivers/darter) | 9 | 3 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Paul Russo 🇺🇸](/f1/drivers/paul_russo) | 2 | 4 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Eddie Johnson 🇺🇸](/f1/drivers/johnson) | 25 | 7 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Bob Scott 🇺🇸](/f1/drivers/bob_scott) | 19 | 12 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jim Rathmann 🇺🇸](/f1/drivers/rathmann) | 28 | 15 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Andy Linden 🇺🇸](/f1/drivers/linden) | 10 | 16 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Duke Dinsmore 🇺🇸](/f1/drivers/dinsmore) | 10 | 16 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Johnny Mantz 🇺🇸](/f1/drivers/mantz) | 14 | 17 |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Johnny Thomson 🇺🇸](/f1/drivers/thomson) | 18 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Jackie Holmes 🇺🇸](/f1/drivers/holmes) | 18 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Chuck Stevenson 🇺🇸](/f1/drivers/stevenson) | 7 | R |
+| 1953 | 2 | 1953 Indianapolis 500 🇺🇸 | 1953-05-30 | 18 | R | 0.0 | 166 |   | Kurtis Kraft 🇺🇸 | [Andy Linden 🇺🇸](/f1/drivers/linden) | 7 | R |
+| 1950 | 3 | 1950 Indianapolis 500 🇺🇸 | 1950-05-30 | 14 | 20 | 0.0 | 126 |   | Maserati 🇮🇹 | [Henry Banks 🇺🇸](/f1/drivers/banks) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 4 |  |  | 4 | 1 | 4 |  |  |  |
-| **Total Sum** | 9.000 |  |  | 90.000 | 20.000 | 558.000 |  |  |  |
-| **Mean μ (Average)** | 2.250 |  |  | 22.500 | 20.000 | 139.500 |  |  |  |
-| **Maximum** | 3.000 |  |  | 29.000 | 20.000 | 166.000 |  |  |  |
-| **75th Percentile** | 3.000 |  |  | 29.000 | 20.000 | 166.000 |  |  |  |
-| **Median** | 2.000 |  |  | 29.000 | 20.000 | 162.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 18.000 | 20.000 | 126.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 14.000 | 20.000 | 104.000 |  |  |  |
-| **Variance** | 0.188 |  |  | 44.250 |  | 662.750 |  |  |  |
-| **Standard Deviation σ** | 0.433 |  |  | 6.652 |  | 25.744 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 33 |  |  | 33 | 1 | 33 | 33 |  |  |  | 33 | 21 |
+| **Total Sum** | 67.000 |  |  | 601.000 | 20.000 |  | 5376.000 |  |  |  | 516.000 | 199.000 |
+| **Mean μ (Average)** | 2.030 |  |  | 18.212 | 20.000 |  | 162.909 |  |  |  | 15.636 | 9.476 |
+| **Maximum** | 3.000 |  |  | 29.000 | 20.000 |  | 166.000 |  |  |  | 32.000 | 17.000 |
+| **75th Percentile** | 2.000 |  |  | 18.000 | 20.000 |  | 166.000 |  |  |  | 22.000 | 15.000 |
+| **Median** | 2.000 |  |  | 18.000 | 20.000 |  | 166.000 |  |  |  | 14.000 | 10.000 |
+| **25th Percentile** | 2.000 |  |  | 18.000 | 20.000 |  | 166.000 |  |  |  | 9.000 | 4.000 |
+| **Minimum** | 2.000 |  |  | 14.000 | 20.000 |  | 104.000 |  |  |  | 1.000 | 1.000 |
+| **Variance** | 0.029 |  |  | 4.107 |  |  | 155.416 |  |  |  | 79.140 | 30.154 |
+| **Standard Deviation σ** | 0.171 |  |  | 2.026 |  |  | 12.467 |  |  |  | 8.896 | 5.491 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

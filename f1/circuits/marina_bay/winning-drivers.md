@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 4 |
-| 2. | Fernando Alonso 🇪🇸 | 2 |
-| 3. | Lewis Hamilton 🇬🇧 | 2 |
-| 4. | Nico Rosberg 🇩🇪 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 4. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 

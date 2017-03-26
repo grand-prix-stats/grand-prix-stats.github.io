@@ -24,9 +24,9 @@ collectionId: japan
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Okayama International Circuit](/f1/circuits/okayama) | Okayama | [Japan](/f1/countries/japan) | 2 | Michael Schumacher 🇩🇪 | 2 |
-| [Fuji Speedway](/f1/circuits/fuji) | Oyama | [Japan](/f1/countries/japan) | 4 | Fernando Alonso 🇪🇸 | 1 |
-| [Suzuka Circuit](/f1/circuits/suzuka) | Suzuka | [Japan](/f1/countries/japan) | 29 | Michael Schumacher 🇩🇪 | 6 |
+| [Okayama International Circuit](/f1/circuits/okayama) | Okayama | [Japan](/f1/countries/japan) | 2 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| [Fuji Speedway](/f1/circuits/fuji) | Oyama | [Japan](/f1/countries/japan) | 4 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| [Suzuka Circuit](/f1/circuits/suzuka) | Suzuka | [Japan](/f1/countries/japan) | 29 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
 
 #### Statistic Summary
 

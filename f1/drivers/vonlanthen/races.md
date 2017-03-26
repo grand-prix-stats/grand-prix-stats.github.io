@@ -22,22 +22,22 @@ collectionId: vonlanthen
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 28 | R | 14 |   | Vittorio Brambilla 🇮🇹 | March 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 28 | R | 0.0 | 14 |   | Williams 🇬🇧 | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 12 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **Mean μ (Average)** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **Maximum** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **75th Percentile** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **Median** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **25th Percentile** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **Minimum** | 12.000 |  |  | 28.000 |  | 14.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Mean μ (Average)** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Maximum** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **75th Percentile** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Median** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **25th Percentile** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Minimum** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

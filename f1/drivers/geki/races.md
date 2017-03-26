@@ -22,24 +22,25 @@ collectionId: geki
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1966 | 7 | 1966 Italian Grand Prix 🇮🇹 | 1966-09-04 | 20 | 9 | 63 |   | Ludovico Scarfiotti 🇮🇹 | Ferrari 🇮🇹 |
-| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 20 | R | 37 |   | Jackie Stewart 🇬🇧 | BRM 🇬🇧 |
-| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 0 | F | 0 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 20 | R | 0.0 | 37 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 10 |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 20 | R | 0.0 | 37 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 8 | 11 |
+| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 0 | F | 0.0 | 0 |   | Brabham-BRM 🇬🇧 | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 6 | 7 |
+| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 0 | F | 0.0 | 0 |   | Brabham-BRM 🇬🇧 | [Ian Raby 🇬🇧](/f1/drivers/raby) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 | 1 | 3 |  |  |  |
-| **Total Sum** | 23.000 |  |  | 40.000 | 9.000 | 100.000 |  |  |  |
-| **Mean μ (Average)** | 7.667 |  |  | 13.333 | 9.000 | 33.333 |  |  |  |
-| **Maximum** | 8.000 |  |  | 20.000 | 9.000 | 63.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 20.000 | 9.000 | 63.000 |  |  |  |
-| **Median** | 8.000 |  |  | 20.000 | 9.000 | 37.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  |  | 9.000 |  |  |  |  |
-| **Minimum** | 7.000 |  |  |  | 9.000 |  |  |  |  |
-| **Variance** | 0.222 |  |  | 88.889 |  | 668.222 |  |  |  |
-| **Standard Deviation σ** | 0.471 |  |  | 9.428 |  | 25.850 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 32.000 |  |  | 40.000 |  |  | 74.000 |  |  |  | 15.000 | 28.000 |
+| **Mean μ (Average)** | 8.000 |  |  | 10.000 |  |  | 18.500 |  |  |  | 3.750 | 9.333 |
+| **Maximum** | 8.000 |  |  | 20.000 |  |  | 37.000 |  |  |  | 8.000 | 11.000 |
+| **75th Percentile** | 8.000 |  |  | 20.000 |  |  | 37.000 |  |  |  | 8.000 | 11.000 |
+| **Median** | 8.000 |  |  | 20.000 |  |  | 37.000 |  |  |  | 6.000 | 10.000 |
+| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |  | 1.000 | 7.000 |
+| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |  |  | 7.000 |
+| **Variance** |  |  |  | 100.000 |  |  | 342.250 |  |  |  | 11.188 | 2.889 |
+| **Standard Deviation σ** |  |  |  | 10.000 |  |  | 18.500 |  |  |  | 3.345 | 1.700 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 2 |
-| 2. | Mario Andretti 🇺🇸 | 2 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 2. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
 
 #### Statistic Summary
 

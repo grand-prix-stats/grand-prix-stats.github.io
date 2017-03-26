@@ -151,25 +151,25 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Mario Andretti 🇺🇸 | 4 |
-| 2. | Carlos Reutemann 🇦🇷 | 2 |
-| 3. | Clay Regazzoni 🇨🇭 | 2 |
-| 4. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 5. | Jacques Laffite 🇫🇷 | 2 |
-| 6. | Niki Lauda 🇦🇹 | 2 |
-| 7. | Brian Redman 🇬🇧 | 1 |
-| 8. | Bruce McLaren 🇳🇿 | 1 |
-| 9. | Denny Hulme 🇳🇿 | 1 |
-| 10. | Gilles Villeneuve 🇨🇦 | 1 |
-| 11. | Graham Hill 🇬🇧 | 1 |
-| 12. | Gunnar Nilsson 🇸🇪 | 1 |
-| 13. | Jackie Stewart 🇬🇧 | 1 |
-| 14. | Jacky Ickx 🇧🇪 | 1 |
-| 15. | James Hunt 🇬🇧 | 1 |
-| 16. | Jody Scheckter 🇿🇦 | 1 |
-| 17. | John Watson 🇬🇧 | 1 |
-| 18. | Patrick Depailler 🇫🇷 | 1 |
-| 19. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 4 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 3. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 2 |
+| 4. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 5. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 2 |
+| 6. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 7. | [Brian Redman 🇬🇧](/f1/drivers/redman) | 1 |
+| 8. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 9. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 10. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 11. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 12. | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 1 |
+| 13. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 14. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 15. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 16. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 17. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 18. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 1 |
+| 19. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

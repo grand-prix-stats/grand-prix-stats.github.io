@@ -151,25 +151,25 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 4 |
-| 2. | Jenson Button 🇬🇧 | 3 |
-| 3. | Alain Prost 🇫🇷 | 2 |
-| 4. | Ayrton Senna 🇧🇷 | 2 |
-| 5. | Damon Hill 🇬🇧 | 2 |
-| 6. | David Coulthard 🇬🇧 | 2 |
-| 7. | Gerhard Berger 🇦🇹 | 2 |
-| 8. | Kimi Räikkönen 🇫🇮 | 2 |
-| 9. | Lewis Hamilton 🇬🇧 | 2 |
-| 10. | Nico Rosberg 🇩🇪 | 2 |
-| 11. | Eddie Irvine 🇬🇧 | 1 |
-| 12. | Fernando Alonso 🇪🇸 | 1 |
-| 13. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 14. | Keke Rosberg 🇫🇮 | 1 |
-| 15. | Mika Häkkinen 🇫🇮 | 1 |
-| 16. | Nelson Piquet 🇧🇷 | 1 |
-| 17. | Nigel Mansell 🇬🇧 | 1 |
-| 18. | Sebastian Vettel 🇩🇪 | 1 |
-| 19. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| 2. | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
+| 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 4. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 5. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
+| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 7. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 2 |
+| 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 9. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 10. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 11. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 12. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 13. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 14. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 15. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 16. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 17. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 18. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 19. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

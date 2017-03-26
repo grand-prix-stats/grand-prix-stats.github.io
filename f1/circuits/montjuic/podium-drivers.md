@@ -115,16 +115,16 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 2 |
-| 2. | Jacky Ickx 🇧🇪 | 2 |
-| 3. | Bruce McLaren 🇳🇿 | 1 |
-| 4. | Carlos Reutemann 🇦🇷 | 1 |
-| 5. | Chris Amon 🇳🇿 | 1 |
-| 6. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 7. | François Cevert 🇫🇷 | 1 |
-| 8. | George Follmer 🇺🇸 | 1 |
-| 9. | Jean-Pierre Beltoise 🇫🇷 | 1 |
-| 10. | Jochen Mass 🇩🇪 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 2. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 |
+| 3. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 4. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 5. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| 6. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 7. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| 8. | [George Follmer 🇺🇸](/f1/drivers/follmer) | 1 |
+| 9. | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 1 |
+| 10. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
 
 #### Statistic Summary
 

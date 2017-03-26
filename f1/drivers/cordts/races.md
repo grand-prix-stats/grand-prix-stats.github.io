@@ -22,22 +22,10 @@ collectionId: cordts
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1969 | 9 | 1969 Canadian Grand Prix 🇨🇦 | 1969-09-20 | 19 | R | 10 |   | Jacky Ickx 🇧🇪 | Brabham-Ford 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **Mean μ (Average)** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **Maximum** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **Median** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **25th Percentile** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **Minimum** | 9.000 |  |  | 19.000 |  | 10.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

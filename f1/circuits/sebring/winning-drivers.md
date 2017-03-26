@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Bruce McLaren 🇳🇿 | 1 |
+| 1. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
 
 #### Statistic Summary
 

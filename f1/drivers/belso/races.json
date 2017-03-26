@@ -1,50 +1,62 @@
 [
     {
+        "constructor": "Iso Marlboro 🇬🇧",
         "date": "1974-07-20",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1974 British Grand Prix 🇬🇧",
+        "points": 0.0,
         "round": 10,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jody Scheckter 🇿🇦"
+        "teammate": "Arturo Merzario 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 15,
+        "time": null
     },
     {
+        "constructor": "Iso Marlboro 🇬🇧",
         "date": "1974-06-09",
         "final_position": "8",
         "grid": 21,
         "laps_completed": 79,
         "name": "1974 Swedish Grand Prix 🇸🇪",
+        "points": 0.0,
         "round": 7,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jody Scheckter 🇿🇦"
+        "teammate": "Richard Robarts 🇬🇧",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
     },
     {
+        "constructor": "Iso Marlboro 🇬🇧",
         "date": "1974-04-28",
         "final_position": "F",
         "grid": 0,
         "laps_completed": 0,
         "name": "1974 Spanish Grand Prix 🇪🇸",
+        "points": 0.0,
         "round": 4,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Niki Lauda 🇦🇹"
+        "teammate": "Arturo Merzario 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 7,
+        "time": null
     },
     {
+        "constructor": "Iso Marlboro 🇬🇧",
         "date": "1974-03-30",
         "final_position": "R",
         "grid": 27,
         "laps_completed": 0,
         "name": "1974 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 3,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "Arturo Merzario 🇮🇹",
+        "teammate_final_position": "6",
+        "teammate_grid": 3,
+        "time": null
     }
 ]

@@ -119,17 +119,17 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 55 |
-| 2. | Fernando Alonso 🇪🇸 | 32 |
-| 3. | Robert Kubica 🇵🇱 | 18 |
-| 4. | Nelson Piquet Jr. 🇧🇷 | 7 |
-| 5. | Mark Webber 🇦🇺 | 5 |
-| 6. | Jarno Trulli 🇮🇹 | 4 |
-| 7. | Heikki Kovalainen 🇫🇮 | 3 |
-| 8. | Kimi Räikkönen 🇫🇮 | 3 |
-| 9. | Sebastian Vettel 🇩🇪 | 3 |
-| 10. | Sébastien Bourdais 🇫🇷 | 3 |
-| 11. | Giancarlo Fisichella 🇮🇹 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 55 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 32 |
+| 3. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 18 |
+| 4. | [Nelson Piquet Jr. 🇧🇷](/f1/drivers/piquet_jr) | 7 |
+| 5. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 5 |
+| 6. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 4 |
+| 7. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 3 |
+| 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 |
+| 9. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| 10. | [Sébastien Bourdais 🇫🇷](/f1/drivers/bourdais) | 3 |
+| 11. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
 
 #### Statistic Summary
 

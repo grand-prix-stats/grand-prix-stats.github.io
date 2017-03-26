@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Fernando Alonso 🇪🇸 | 3 |
-| 2. | Michael Schumacher 🇩🇪 | 2 |
-| 3. | Felipe Massa 🇧🇷 | 1 |
-| 4. | Lewis Hamilton 🇬🇧 | 1 |
+| 1. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
 
 #### Statistic Summary
 

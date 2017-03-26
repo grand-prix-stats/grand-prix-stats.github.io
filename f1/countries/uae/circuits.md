@@ -24,7 +24,7 @@ collectionId: uae
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | Sebastian Vettel 🇩🇪 | 3 |
+| [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
 
 #### Statistic Summary
 

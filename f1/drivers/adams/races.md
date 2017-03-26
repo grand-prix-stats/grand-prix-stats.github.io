@@ -22,22 +22,22 @@ collectionId: adams
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1994 | 13 | 1994 Portuguese Grand Prix 🇵🇹 | 1994-09-25 | 25 | 16 | 67 |   | Damon Hill 🇬🇧 | Williams 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1994 | 13 | 1994 Portuguese Grand Prix 🇵🇹 | 1994-09-25 | 25 | 16 | 0.0 | 67 |   | Team Lotus 🇬🇧 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 20 | 11 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **Mean μ (Average)** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **Maximum** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **75th Percentile** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **Median** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **25th Percentile** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **Minimum** | 13.000 |  |  | 25.000 | 16.000 | 67.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **Mean μ (Average)** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **Maximum** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **75th Percentile** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **Median** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **25th Percentile** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **Minimum** | 13.000 |  |  | 25.000 | 16.000 |  | 67.000 |  |  |  | 20.000 | 11.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

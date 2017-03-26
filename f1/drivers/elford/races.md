@@ -22,34 +22,39 @@ collectionId: elford
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1971 | 7 | 1971 German Grand Prix 🇩🇪 | 1971-08-01 | 18 | 11 | 11 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
-| 1969 | 7 | 1969 German Grand Prix 🇩🇪 | 1969-08-03 | 6 | R | 0 |   | Jacky Ickx 🇧🇪 | Brabham-Ford 🇬🇧 |
-| 1969 | 6 | 1969 British Grand Prix 🇬🇧 | 1969-07-19 | 11 | 6 | 82 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1969 | 5 | 1969 French Grand Prix 🇫🇷 | 1969-07-06 | 10 | 5 | 37 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1969 | 4 | 1969 Dutch Grand Prix 🇳🇱 | 1969-06-21 | 15 | 10 | 84 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1969 | 3 | 1969 Monaco Grand Prix 🇲🇨 | 1969-05-18 | 16 | 7 | 74 |   | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
-| 1968 | 12 | 1968 Mexican Grand Prix 🇲🇽 | 1968-11-03 | 17 | 8 | 63 |   | Graham Hill 🇬🇧 | Lotus-Ford 🇬🇧 |
-| 1968 | 11 | 1968 United States Grand Prix 🇺🇸 | 1968-10-06 | 17 | R | 71 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1968 | 10 | 1968 Canadian Grand Prix 🇨🇦 | 1968-09-22 | 16 | 5 | 86 |   | Denny Hulme 🇳🇿 | McLaren-Ford 🇬🇧 |
-| 1968 | 9 | 1968 Italian Grand Prix 🇮🇹 | 1968-09-08 | 20 | R | 2 |   | Denny Hulme 🇳🇿 | McLaren-Ford 🇬🇧 |
-| 1968 | 8 | 1968 German Grand Prix 🇩🇪 | 1968-08-04 | 5 | R | 0 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1968 | 7 | 1968 British Grand Prix 🇬🇧 | 1968-07-20 | 7 | R | 26 |   | Jo Siffert 🇨🇭 | Lotus-Ford 🇬🇧 |
-| 1968 | 6 | 1968 French Grand Prix 🇫🇷 | 1968-07-07 | 17 | 4 | 58 |   | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1971 | 7 | 1971 German Grand Prix 🇩🇪 | 1971-08-01 | 18 | 11 | 0.0 | 11 |   | BRM 🇬🇧 | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 3 | D |
+| 1971 | 7 | 1971 German Grand Prix 🇩🇪 | 1971-08-01 | 18 | 11 | 0.0 | 11 |   | BRM 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 14 | R |
+| 1969 | 7 | 1969 German Grand Prix 🇩🇪 | 1969-08-03 | 6 | R | 0.0 | 0 |   | McLaren-Ford 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 8 | 3 |
+| 1969 | 7 | 1969 German Grand Prix 🇩🇪 | 1969-08-03 | 6 | R | 0.0 | 0 |   | McLaren-Ford 🇬🇧 | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 5 | R |
+| 1969 | 6 | 1969 British Grand Prix 🇬🇧 | 1969-07-19 | 11 | 6 | 1.0 | 82 |   | McLaren-Ford 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 7 | 3 |
+| 1969 | 6 | 1969 British Grand Prix 🇬🇧 | 1969-07-19 | 11 | 6 | 1.0 | 82 |   | McLaren-Ford 🇬🇧 | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 3 | R |
+| 1969 | 6 | 1969 British Grand Prix 🇬🇧 | 1969-07-19 | 11 | 6 | 1.0 | 82 |   | McLaren-Ford 🇬🇧 | [Derek Bell 🇬🇧](/f1/drivers/bell) | 15 | R |
+| 1969 | 5 | 1969 French Grand Prix 🇫🇷 | 1969-07-06 | 10 | 5 | 2.0 | 37 |   | McLaren-Ford 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 7 | 4 |
+| 1969 | 5 | 1969 French Grand Prix 🇫🇷 | 1969-07-06 | 10 | 5 | 2.0 | 37 |   | McLaren-Ford 🇬🇧 | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 2 | 8 |
+| 1969 | 4 | 1969 Dutch Grand Prix 🇳🇱 | 1969-06-21 | 15 | 10 | 0.0 | 84 |   | McLaren-Ford 🇬🇧 | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 7 | 4 |
+| 1969 | 4 | 1969 Dutch Grand Prix 🇳🇱 | 1969-06-21 | 15 | 10 | 0.0 | 84 |   | McLaren-Ford 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 11 | 8 |
+| 1969 | 4 | 1969 Dutch Grand Prix 🇳🇱 | 1969-06-21 | 15 | 10 | 0.0 | 84 |   | McLaren-Ford 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 6 | R |
+| 1968 | 12 | 1968 Mexican Grand Prix 🇲🇽 | 1968-11-03 | 17 | 8 | 0.0 | 63 |   | Cooper-BRM 🇬🇧 | [Lucien Bianchi 🇧🇪](/f1/drivers/bianchi) | 21 | R |
+| 1968 | 11 | 1968 United States Grand Prix 🇺🇸 | 1968-10-06 | 17 | R | 0.0 | 71 |   | Cooper-BRM 🇬🇧 | [Lucien Bianchi 🇧🇪](/f1/drivers/bianchi) | 20 | N |
+| 1968 | 10 | 1968 Canadian Grand Prix 🇨🇦 | 1968-09-22 | 16 | 5 | 2.0 | 86 |   | Cooper-BRM 🇬🇧 | [Lucien Bianchi 🇧🇪](/f1/drivers/bianchi) | 18 | N |
+| 1968 | 8 | 1968 German Grand Prix 🇩🇪 | 1968-08-04 | 5 | R | 0.0 | 0 |   | Cooper-BRM 🇬🇧 | [Lucien Bianchi 🇧🇪](/f1/drivers/bianchi) | 19 | R |
+| 1968 | 7 | 1968 British Grand Prix 🇬🇧 | 1968-07-20 | 7 | R | 0.0 | 26 |   | Cooper-BRM 🇬🇧 | [Robin Widdows 🇬🇧](/f1/drivers/widdows) | 18 | R |
+| 1968 | 6 | 1968 French Grand Prix 🇫🇷 | 1968-07-07 | 17 | 4 | 3.0 | 58 |   | Cooper-BRM 🇬🇧 | [Johnny Servoz-Gavin 🇫🇷](/f1/drivers/gavin) | 15 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 13 |  |  | 13 | 8 | 13 |  |  |  |
-| **Total Sum** | 95.000 |  |  | 175.000 | 56.000 | 594.000 |  |  |  |
-| **Mean μ (Average)** | 7.308 |  |  | 13.462 | 7.000 | 45.692 |  |  |  |
-| **Maximum** | 12.000 |  |  | 20.000 | 11.000 | 86.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 17.000 | 10.000 | 74.000 |  |  |  |
-| **Median** | 7.000 |  |  | 16.000 | 7.000 | 58.000 |  |  |  |
-| **25th Percentile** | 6.000 |  |  | 10.000 | 5.000 | 11.000 |  |  |  |
-| **Minimum** | 3.000 |  |  | 5.000 | 4.000 |  |  |  |  |
-| **Variance** | 6.521 |  |  | 23.325 | 5.500 | 1081.136 |  |  |  |
-| **Standard Deviation σ** | 2.554 |  |  | 4.830 | 2.345 | 32.881 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 18 |  |  | 18 | 13 | 18 | 18 |  |  |  | 18 | 6 |
+| **Total Sum** | 122.000 |  |  | 225.000 | 97.000 | 12.000 | 898.000 |  |  |  | 199.000 | 30.000 |
+| **Mean μ (Average)** | 6.778 |  |  | 12.500 | 7.462 | 0.667 | 49.889 |  |  |  | 11.056 | 5.000 |
+| **Maximum** | 12.000 |  |  | 18.000 | 11.000 | 3.000 | 86.000 |  |  |  | 21.000 | 8.000 |
+| **75th Percentile** | 7.000 |  |  | 17.000 | 10.000 | 1.000 | 82.000 |  |  |  | 18.000 | 8.000 |
+| **Median** | 7.000 |  |  | 15.000 | 6.000 |  | 63.000 |  |  |  | 11.000 | 4.000 |
+| **25th Percentile** | 5.000 |  |  | 10.000 | 5.000 |  | 11.000 |  |  |  | 6.000 | 3.000 |
+| **Minimum** | 4.000 |  |  | 5.000 | 4.000 |  |  |  |  |  | 2.000 | 3.000 |
+| **Variance** | 4.951 |  |  | 19.028 | 6.249 | 0.889 | 1109.210 |  |  |  | 39.497 | 4.667 |
+| **Standard Deviation σ** | 2.225 |  |  | 4.362 | 2.500 | 0.943 | 33.305 |  |  |  | 6.285 | 2.160 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 1 |
-| 2. | Nico Rosberg 🇩🇪 | 1 |
-| 3. | Sergio Pérez 🇲🇽 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 3. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
 
 #### Statistic Summary
 

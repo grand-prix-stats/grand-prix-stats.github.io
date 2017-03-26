@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | James Hunt 🇬🇧 | 2 |
-| 2. | Kimi Räikkönen 🇫🇮 | 2 |
-| 3. | Patrick Depailler 🇫🇷 | 2 |
-| 4. | Carlos Reutemann 🇦🇷 | 1 |
-| 5. | Fernando Alonso 🇪🇸 | 1 |
-| 6. | Heikki Kovalainen 🇫🇮 | 1 |
-| 7. | Lewis Hamilton 🇬🇧 | 1 |
-| 8. | Mario Andretti 🇺🇸 | 1 |
-| 9. | Robert Kubica 🇵🇱 | 1 |
+| 1. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 2 |
+| 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 3. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 2 |
+| 4. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 5. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 6. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 1 |
+| 7. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 8. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 9. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
 
 #### Statistic Summary
 

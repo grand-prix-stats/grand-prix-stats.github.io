@@ -171,30 +171,30 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 307 |
-| 2. | Lewis Hamilton 🇬🇧 | 282 |
-| 3. | Sebastian Vettel 🇩🇪 | 180 |
-| 4. | Fernando Alonso 🇪🇸 | 103 |
-| 5. | Ralf Schumacher 🇩🇪 | 72 |
-| 6. | Nico Rosberg 🇩🇪 | 63 |
-| 7. | Damon Hill 🇬🇧 | 61 |
-| 8. | Giancarlo Fisichella 🇮🇹 | 56 |
-| 9. | Mika Häkkinen 🇫🇮 | 40 |
-| 10. | Rubens Barrichello 🇧🇷 | 40 |
-| 11. | David Coulthard 🇬🇧 | 39 |
-| 12. | Robert Kubica 🇵🇱 | 29 |
-| 13. | Kimi Räikkönen 🇫🇮 | 27 |
-| 14. | Juan Pablo Montoya 🇨🇴 | 23 |
-| 15. | Mark Webber 🇦🇺 | 22 |
-| 16. | Nick Heidfeld 🇩🇪 | 10 |
-| 17. | Jacques Villeneuve 🇨🇦 | 8 |
-| 18. | Felipe Massa 🇧🇷 | 6 |
-| 19. | Daniel Ricciardo 🇦🇺 | 3 |
-| 20. | Timo Glock 🇩🇪 | 3 |
-| 21. | Jarno Trulli 🇮🇹 | 2 |
-| 22. | Jenson Button 🇬🇧 | 1 |
-| 23. | Romain Grosjean 🇫🇷 | 1 |
-| 24. | Sébastien Buemi 🇨🇭 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 307 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 282 |
+| 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 180 |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 103 |
+| 5. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 72 |
+| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 63 |
+| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 61 |
+| 8. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 56 |
+| 9. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 40 |
+| 10. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 40 |
+| 11. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 39 |
+| 12. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 29 |
+| 13. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 27 |
+| 14. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 23 |
+| 15. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 22 |
+| 16. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 10 |
+| 17. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 8 |
+| 18. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 |
+| 19. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 3 |
+| 20. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 3 |
+| 21. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 22. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 23. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
+| 24. | [Sébastien Buemi 🇨🇭](/f1/drivers/buemi) | 1 |
 
 #### Statistic Summary
 

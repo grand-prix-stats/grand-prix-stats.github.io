@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 2 |
-| 2. | Michael Schumacher 🇩🇪 | 2 |
-| 3. | Nico Rosberg 🇩🇪 | 2 |
-| 4. | Sebastian Vettel 🇩🇪 | 2 |
-| 5. | Felipe Massa 🇧🇷 | 1 |
-| 6. | Fernando Alonso 🇪🇸 | 1 |
-| 7. | Jarno Trulli 🇮🇹 | 1 |
-| 8. | Robert Kubica 🇵🇱 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 3. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 5. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 6. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 7. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| 8. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
 
 #### Statistic Summary
 

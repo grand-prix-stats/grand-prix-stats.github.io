@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 1 |
-| 2. | Jochen Rindt 🇦🇹 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 2. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
 
 #### Statistic Summary
 

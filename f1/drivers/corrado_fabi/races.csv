@@ -1,20 +1,20 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1983 Austrian Grand Prix 🇦🇹,11,26,50,Renault 🇫🇷,1983-08-14,10,,1983,Alain Prost 🇫🇷
-1983 Belgian Grand Prix 🇧🇪,6,24,19,Renault 🇫🇷,1983-05-22,R,,1983,Alain Prost 🇫🇷
-1983 Brazilian Grand Prix 🇧🇷,1,24,17,Brabham 🇬🇧,1983-03-13,R,,1983,Nelson Piquet 🇧🇷
-1983 British Grand Prix 🇬🇧,9,0,0,Renault 🇫🇷,1983-07-16,F,,1983,Alain Prost 🇫🇷
-1983 Canadian Grand Prix 🇨🇦,8,25,26,Ferrari 🇮🇹,1983-06-12,R,,1983,René Arnoux 🇫🇷
-1983 Detroit Grand Prix 🇺🇸,7,0,0,Tyrrell 🇬🇧,1983-06-05,W,,1983,Michele Alboreto 🇮🇹
-1983 Dutch Grand Prix 🇳🇱,12,25,68,Ferrari 🇮🇹,1983-08-28,11,,1983,René Arnoux 🇫🇷
-1983 European Grand Prix 🇬🇧,14,0,0,Brabham 🇬🇧,1983-09-25,F,,1983,Nelson Piquet 🇧🇷
-1983 French Grand Prix 🇫🇷,3,23,36,Renault 🇫🇷,1983-04-17,R,,1983,Alain Prost 🇫🇷
-1983 German Grand Prix 🇩🇪,10,0,0,Ferrari 🇮🇹,1983-08-07,F,,1983,René Arnoux 🇫🇷
-1983 Italian Grand Prix 🇮🇹,13,25,45,Brabham 🇬🇧,1983-09-11,R,,1983,Nelson Piquet 🇧🇷
-1983 Monaco Grand Prix 🇲🇨,5,0,0,Williams 🇬🇧,1983-05-15,F,,1983,Keke Rosberg 🇫🇮
-1983 San Marino Grand Prix 🇮🇹,4,26,20,Ferrari 🇮🇹,1983-05-01,R,,1983,Patrick Tambay 🇫🇷
-1983 South African Grand Prix 🇿🇦,15,25,28,Brabham 🇬🇧,1983-10-15,R,,1983,Riccardo Patrese 🇮🇹
-1983 United States Grand Prix West 🇺🇸,2,0,0,McLaren 🇬🇧,1983-03-27,F,,1983,John Watson 🇬🇧
-1984 British Grand Prix 🇬🇧,10,14,9,McLaren 🇬🇧,1984-07-22,R,,1984,Niki Lauda 🇦🇹
-1984 Canadian Grand Prix 🇨🇦,7,16,39,Brabham 🇬🇧,1984-06-17,R,,1984,Nelson Piquet 🇧🇷
-1984 Dallas Grand Prix 🇺🇸,9,11,64,Williams 🇬🇧,1984-07-08,7,,1984,Keke Rosberg 🇫🇮
-1984 Monaco Grand Prix 🇲🇨,6,15,9,McLaren 🇬🇧,1984-06-03,R,,1984,Alain Prost 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1983 Austrian Grand Prix 🇦🇹,11,26,1983-08-14,10,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,11,25,50,,0.0
+1983 Belgian Grand Prix 🇧🇪,F,24,1983-05-22,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,6,0,19,,0.0
+1983 Brazilian Grand Prix 🇧🇷,F,24,1983-03-13,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,1,0,17,,0.0
+1983 British Grand Prix 🇬🇧,R,0,1983-07-16,F,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,9,26,0,,0.0
+1983 Canadian Grand Prix 🇨🇦,F,25,1983-06-12,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,8,0,26,,0.0
+1983 Detroit Grand Prix 🇺🇸,R,0,1983-06-05,W,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,7,24,0,,0.0
+1983 Dutch Grand Prix 🇳🇱,F,25,1983-08-28,11,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,12,0,68,,0.0
+1983 European Grand Prix 🇬🇧,R,0,1983-09-25,F,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,14,24,0,,0.0
+1983 French Grand Prix 🇫🇷,F,23,1983-04-17,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,3,0,36,,0.0
+1983 German Grand Prix 🇩🇪,R,0,1983-08-07,F,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,10,26,0,,0.0
+1983 Italian Grand Prix 🇮🇹,R,25,1983-09-11,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,13,23,45,,0.0
+1983 Monaco Grand Prix 🇲🇨,F,0,1983-05-15,F,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,5,0,0,,0.0
+1983 San Marino Grand Prix 🇮🇹,F,26,1983-05-01,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,4,0,20,,0.0
+1983 South African Grand Prix 🇿🇦,R,25,1983-10-15,R,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,15,26,28,,0.0
+1983 United States Grand Prix West 🇺🇸,F,0,1983-03-27,F,1983,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,2,0,0,,0.0
+1984 British Grand Prix 🇬🇧,7,14,1984-07-22,R,1984,Nelson Piquet 🇧🇷,Brabham 🇬🇧,10,1,9,,0.0
+1984 Canadian Grand Prix 🇨🇦,1,16,1984-06-17,R,1984,Nelson Piquet 🇧🇷,Brabham 🇬🇧,7,1,39,,0.0
+1984 Dallas Grand Prix 🇺🇸,R,11,1984-07-08,7,1984,Nelson Piquet 🇧🇷,Brabham 🇬🇧,9,12,64,,0.0
+1984 Monaco Grand Prix 🇲🇨,R,15,1984-06-03,R,1984,Nelson Piquet 🇧🇷,Brabham 🇬🇧,6,9,9,,0.0

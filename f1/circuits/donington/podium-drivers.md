@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 1 |
-| 2. | Ayrton Senna 🇧🇷 | 1 |
-| 3. | Damon Hill 🇬🇧 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 3. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
 
 #### Statistic Summary
 

@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Fernando Alonso 🇪🇸 | 4 |
-| 2. | Felipe Massa 🇧🇷 | 3 |
-| 3. | Kimi Räikkönen 🇫🇮 | 3 |
-| 4. | Mark Webber 🇦🇺 | 3 |
-| 5. | Jenson Button 🇬🇧 | 2 |
-| 6. | Lewis Hamilton 🇬🇧 | 2 |
-| 7. | Sebastian Vettel 🇩🇪 | 2 |
-| 8. | Juan Pablo Montoya 🇨🇴 | 1 |
-| 9. | Michael Schumacher 🇩🇪 | 1 |
+| 1. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 4 |
+| 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 |
+| 4. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 3 |
+| 5. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
+| 6. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 8. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 9. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
 
 #### Statistic Summary
 

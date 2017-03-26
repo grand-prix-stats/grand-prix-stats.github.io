@@ -1,14 +1,21 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1963 Belgian Grand Prix 🇧🇪,2,0,0,Lotus-Climax 🇬🇧,1963-06-09,W,,1963,Jim Clark 🇬🇧
-1963 Dutch Grand Prix 🇳🇱,3,11,78,Lotus-Climax 🇬🇧,1963-06-23,6,,1963,Jim Clark 🇬🇧
-1963 French Grand Prix 🇫🇷,4,0,0,Lotus-Climax 🇬🇧,1963-06-30,W,,1963,Jim Clark 🇬🇧
-1964 Italian Grand Prix 🇮🇹,8,16,77,Ferrari 🇮🇹,1964-09-06,9,,1964,John Surtees 🇬🇧
-1965 Mexican Grand Prix 🇲🇽,10,0,0,Honda 🇯🇵,1965-10-24,W,,1965,Richie Ginther 🇺🇸
-1966 German Grand Prix 🇩🇪,6,4,9,Brabham-Repco 🇬🇧,1966-08-07,R,,1966,Jack Brabham 🇦🇺
-1966 Italian Grand Prix 🇮🇹,7,2,68,Ferrari 🇮🇹,1966-09-04,1,1:47:14.8,1966,Ludovico Scarfiotti 🇮🇹
-1967 Belgian Grand Prix 🇧🇪,4,9,24,Eagle-Weslake 🇺🇸,1967-06-18,N,,1967,Dan Gurney 🇺🇸
-1967 Dutch Grand Prix 🇳🇱,3,15,89,Lotus-Ford 🇬🇧,1967-06-04,6,,1967,Jim Clark 🇬🇧
-1967 Italian Grand Prix 🇮🇹,9,10,5,Honda 🇯🇵,1967-09-10,R,,1967,John Surtees 🇬🇧
-1968 Monaco Grand Prix 🇲🇨,3,15,76,Lotus-Ford 🇬🇧,1968-05-26,4,,1968,Graham Hill 🇬🇧
-1968 South African Grand Prix 🇿🇦,1,15,2,Lotus-Ford 🇬🇧,1968-01-01,R,,1968,Jim Clark 🇬🇧
-1968 Spanish Grand Prix 🇪🇸,2,12,89,Lotus-Ford 🇬🇧,1968-05-12,4,,1968,Graham Hill 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1963 Belgian Grand Prix 🇧🇪,R,0,1963-06-09,W,1963,John Surtees 🇬🇧,Ferrari 🇮🇹,2,10,0,,0.0
+1963 Belgian Grand Prix 🇧🇪,R,0,1963-06-09,W,1963,Willy Mairesse 🇧🇪,Ferrari 🇮🇹,2,3,0,,0.0
+1963 Dutch Grand Prix 🇳🇱,3,11,1963-06-23,6,1963,John Surtees 🇬🇧,Ferrari 🇮🇹,3,5,78,,1.0
+1963 French Grand Prix 🇫🇷,R,0,1963-06-30,W,1963,John Surtees 🇬🇧,Ferrari 🇮🇹,4,4,0,,0.0
+1964 Italian Grand Prix 🇮🇹,1,16,1964-09-06,9,1964,John Surtees 🇬🇧,Ferrari 🇮🇹,8,1,77,,0.0
+1964 Italian Grand Prix 🇮🇹,3,16,1964-09-06,9,1964,Lorenzo Bandini 🇮🇹,Ferrari 🇮🇹,8,7,77,,0.0
+1965 Mexican Grand Prix 🇲🇽,7,0,1965-10-24,W,1965,Pedro Rodríguez 🇲🇽,Ferrari 🇮🇹,10,14,0,,0.0
+1965 Mexican Grand Prix 🇲🇽,8,0,1965-10-24,W,1965,Lorenzo Bandini 🇮🇹,Ferrari 🇮🇹,10,7,0,,0.0
+1966 German Grand Prix 🇩🇪,6,4,1966-08-07,R,1966,Lorenzo Bandini 🇮🇹,Ferrari 🇮🇹,6,6,9,,0.0
+1966 German Grand Prix 🇩🇪,R,4,1966-08-07,R,1966,Mike Parkes 🇬🇧,Ferrari 🇮🇹,6,7,9,,0.0
+1966 Italian Grand Prix 🇮🇹,2,2,1966-09-04,1,1966,Mike Parkes 🇬🇧,Ferrari 🇮🇹,7,1,68,1:47:14.8,9.0
+1966 Italian Grand Prix 🇮🇹,N,2,1966-09-04,1,1966,Giancarlo Baghetti 🇮🇹,Ferrari 🇮🇹,7,16,68,1:47:14.8,9.0
+1966 Italian Grand Prix 🇮🇹,R,2,1966-09-04,1,1966,Lorenzo Bandini 🇮🇹,Ferrari 🇮🇹,7,5,68,1:47:14.8,9.0
+1967 Belgian Grand Prix 🇧🇪,3,9,1967-06-18,N,1967,Chris Amon 🇳🇿,Ferrari 🇮🇹,4,5,24,,0.0
+1967 Belgian Grand Prix 🇧🇪,R,9,1967-06-18,N,1967,Mike Parkes 🇬🇧,Ferrari 🇮🇹,4,8,24,,0.0
+1967 Dutch Grand Prix 🇳🇱,4,15,1967-06-04,6,1967,Chris Amon 🇳🇿,Ferrari 🇮🇹,3,9,89,,1.0
+1967 Dutch Grand Prix 🇳🇱,5,15,1967-06-04,6,1967,Mike Parkes 🇬🇧,Ferrari 🇮🇹,3,10,89,,1.0
+1967 Italian Grand Prix 🇮🇹,R,10,1967-09-10,R,1967,Dan Gurney 🇺🇸,Eagle-Weslake 🇺🇸,9,5,5,,0.0
+1968 Monaco Grand Prix 🇲🇨,3,15,1968-05-26,4,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,3,14,76,,3.0
+1968 Spanish Grand Prix 🇪🇸,3,12,1968-05-12,4,1968,Brian Redman 🇬🇧,Cooper-BRM 🇬🇧,2,13,89,,3.0

@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 3 |
-| 2. | Felipe Massa 🇧🇷 | 1 |
-| 3. | Lewis Hamilton 🇬🇧 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
 
 #### Statistic Summary
 

@@ -1,3 +1,5 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1971 Canadian Grand Prix 🇨🇦,10,0,0,Tyrrell 🇬🇧,1971-09-19,F,,1971,Jackie Stewart 🇬🇧
-1971 United States Grand Prix 🇺🇸,11,27,30,Tyrrell 🇬🇧,1971-10-03,R,,1971,François Cevert 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1971 Canadian Grand Prix 🇨🇦,R,0,1971-09-19,F,1971,Graham Hill 🇬🇧,Brabham 🇬🇧,10,15,0,,0.0
+1971 Canadian Grand Prix 🇨🇦,R,0,1971-09-19,F,1971,Tim Schenken 🇦🇺,Brabham 🇬🇧,10,17,0,,0.0
+1971 United States Grand Prix 🇺🇸,7,27,1971-10-03,R,1971,Graham Hill 🇬🇧,Brabham 🇬🇧,11,18,30,,0.0
+1971 United States Grand Prix 🇺🇸,R,27,1971-10-03,R,1971,Tim Schenken 🇦🇺,Brabham 🇬🇧,11,15,30,,0.0

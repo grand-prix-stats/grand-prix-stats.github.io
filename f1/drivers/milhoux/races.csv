@@ -1,2 +1,3 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1956 German Grand Prix 🇩🇪,7,21,15,Ferrari 🇮🇹,1956-08-05,R,,1956,Juan Fangio 🇦🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1956 German Grand Prix 🇩🇪,R,21,1956-08-05,R,1956,Robert Manzon 🇫🇷,Gordini 🇫🇷,7,15,15,,0.0
+1956 German Grand Prix 🇩🇪,W,21,1956-08-05,R,1956,André Pilette 🇧🇪,Gordini 🇫🇷,7,0,15,,0.0

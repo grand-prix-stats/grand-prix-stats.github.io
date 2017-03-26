@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "BRM 🇬🇧",
         "date": "1957-07-07",
         "final_position": "R",
         "grid": 12,
         "laps_completed": 24,
         "name": "1957 French Grand Prix 🇫🇷",
+        "points": 0.0,
         "round": 4,
         "season": 1957,
-        "time": null,
-        "winning_constructor": "Maserati 🇮🇹",
-        "winning_driver": "Juan Fangio 🇦🇷"
+        "teammate": "Ron Flockhart 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 11,
+        "time": null
     }
 ]

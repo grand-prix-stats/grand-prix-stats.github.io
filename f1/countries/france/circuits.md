@@ -24,13 +24,13 @@ collectionId: france
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Charade Circuit](/f1/circuits/charade) | Clermont-Ferrand | [France](/f1/countries/france) | 4 | Jackie Stewart 🇬🇧 | 2 |
-| [Dijon-Prenois](/f1/circuits/dijon) | Dijon | [France](/f1/countries/france) | 6 | Niki Lauda 🇦🇹 | 1 |
-| [Circuit Paul Ricard](/f1/circuits/ricard) | Le Castellet | [France](/f1/countries/france) | 14 | Alain Prost 🇫🇷 | 4 |
-| [Le Mans](/f1/circuits/lemans) | [Le Mans](/f1/circuits/lemans) | [France](/f1/countries/france) | 1 | Jack Brabham 🇦🇺 | 1 |
-| [Circuit de Nevers Magny-Cours](/f1/circuits/magny_cours) | Magny Cours | [France](/f1/countries/france) | 18 | Michael Schumacher 🇩🇪 | 8 |
-| [Reims-Gueux](/f1/circuits/reims) | Reims | [France](/f1/countries/france) | 11 | Juan Fangio 🇦🇷 | 3 |
-| [Rouen-Les-Essarts](/f1/circuits/essarts) | Rouen | [France](/f1/countries/france) | 5 | Dan Gurney 🇺🇸 | 2 |
+| [Charade Circuit](/f1/circuits/charade) | Clermont-Ferrand | [France](/f1/countries/france) | 4 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| [Dijon-Prenois](/f1/circuits/dijon) | Dijon | [France](/f1/countries/france) | 6 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| [Circuit Paul Ricard](/f1/circuits/ricard) | Le Castellet | [France](/f1/countries/france) | 14 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 |
+| [Le Mans](/f1/circuits/lemans) | [Le Mans](/f1/circuits/lemans) | [France](/f1/countries/france) | 1 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| [Circuit de Nevers Magny-Cours](/f1/circuits/magny_cours) | Magny Cours | [France](/f1/countries/france) | 18 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 8 |
+| [Reims-Gueux](/f1/circuits/reims) | Reims | [France](/f1/countries/france) | 11 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| [Rouen-Les-Essarts](/f1/circuits/essarts) | Rouen | [France](/f1/countries/france) | 5 | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 2 |
 
 #### Statistic Summary
 

@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Stirling Moss 🇬🇧 | 2 |
-| 2. | Jack Brabham 🇦🇺 | 1 |
-| 3. | Jim Clark 🇬🇧 | 1 |
-| 4. | Phil Hill 🇺🇸 | 1 |
-| 5. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 2. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 3. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 4. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 5. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

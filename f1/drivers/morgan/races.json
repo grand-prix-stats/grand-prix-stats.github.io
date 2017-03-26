@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1975-07-19",
         "final_position": "18",
         "grid": 23,
         "laps_completed": 50,
         "name": "1975 British Grand Prix 🇬🇧",
+        "points": 0.0,
         "round": 10,
         "season": 1975,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+        "teammate": "John Watson 🇬🇧",
+        "teammate_final_position": "11",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

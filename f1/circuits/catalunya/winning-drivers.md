@@ -139,22 +139,22 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 6 |
-| 2. | Mika Häkkinen 🇫🇮 | 3 |
-| 3. | Fernando Alonso 🇪🇸 | 2 |
-| 4. | Kimi Räikkönen 🇫🇮 | 2 |
-| 5. | Nigel Mansell 🇬🇧 | 2 |
-| 6. | Alain Prost 🇫🇷 | 1 |
-| 7. | Damon Hill 🇬🇧 | 1 |
-| 8. | Felipe Massa 🇧🇷 | 1 |
-| 9. | Jacques Villeneuve 🇨🇦 | 1 |
-| 10. | Jenson Button 🇬🇧 | 1 |
-| 11. | Lewis Hamilton 🇬🇧 | 1 |
-| 12. | Mark Webber 🇦🇺 | 1 |
-| 13. | Max Verstappen 🇳🇱 | 1 |
-| 14. | Nico Rosberg 🇩🇪 | 1 |
-| 15. | Pastor Maldonado 🇻🇪 | 1 |
-| 16. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
+| 2. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 3 |
+| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 6. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 10. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 11. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 12. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
+| 13. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
+| 14. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 15. | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 1 |
+| 16. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

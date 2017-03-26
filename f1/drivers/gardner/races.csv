@@ -1,10 +1,11 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1964 British Grand Prix 🇬🇧,5,19,0,Lotus-Climax 🇬🇧,1964-07-11,R,,1964,Jim Clark 🇬🇧
-1965 Belgian Grand Prix 🇧🇪,3,19,3,Lotus-Climax 🇬🇧,1965-06-13,R,,1965,Jim Clark 🇬🇧
-1965 British Grand Prix 🇬🇧,5,13,78,Lotus-Climax 🇬🇧,1965-07-10,8,,1965,Jim Clark 🇬🇧
-1965 Dutch Grand Prix 🇳🇱,6,11,77,Lotus-Climax 🇬🇧,1965-07-18,11,,1965,Jim Clark 🇬🇧
-1965 German Grand Prix 🇩🇪,7,18,0,Lotus-Climax 🇬🇧,1965-08-01,R,,1965,Jim Clark 🇬🇧
-1965 Italian Grand Prix 🇮🇹,8,16,45,BRM 🇬🇧,1965-09-12,R,,1965,Jackie Stewart 🇬🇧
-1965 Monaco Grand Prix 🇲🇨,2,11,29,BRM 🇬🇧,1965-05-30,R,,1965,Graham Hill 🇬🇧
-1965 South African Grand Prix 🇿🇦,1,15,75,Lotus-Climax 🇬🇧,1965-01-01,12,,1965,Jim Clark 🇬🇧
-1968 Italian Grand Prix 🇮🇹,9,0,0,McLaren-Ford 🇬🇧,1968-09-08,F,,1968,Denny Hulme 🇳🇿
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1965 Belgian Grand Prix 🇧🇪,8,19,1965-06-13,R,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,3,8,3,,0.0
+1965 British Grand Prix 🇬🇧,9,13,1965-07-10,8,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,5,18,78,,0.0
+1965 British Grand Prix 🇬🇧,11,13,1965-07-10,8,1965,Ian Raby 🇬🇧,Brabham-BRM 🇬🇧,5,20,78,,0.0
+1965 Dutch Grand Prix 🇳🇱,13,11,1965-07-18,11,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,6,10,77,,0.0
+1965 German Grand Prix 🇩🇪,R,18,1965-08-01,R,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,7,11,0,,0.0
+1965 Italian Grand Prix 🇮🇹,R,16,1965-09-12,R,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,8,10,45,,0.0
+1965 Monaco Grand Prix 🇲🇨,6,11,1965-05-30,R,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,2,10,29,,0.0
+1965 South African Grand Prix 🇿🇦,7,15,1965-01-01,12,1965,Jo Siffert 🇨🇭,Brabham-BRM 🇬🇧,1,14,75,,0.0
+1968 Italian Grand Prix 🇮🇹,4,0,1968-09-08,F,1968,Piers Courage 🇬🇧,BRM 🇬🇧,9,17,0,,0.0
+1968 Italian Grand Prix 🇮🇹,R,0,1968-09-08,F,1968,Pedro Rodríguez 🇲🇽,BRM 🇬🇧,9,15,0,,0.0

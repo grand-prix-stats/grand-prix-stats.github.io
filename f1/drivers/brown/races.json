@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Wolf 🇨🇦",
         "date": "1976-10-10",
         "final_position": "14",
         "grid": 23,
         "laps_completed": 54,
         "name": "1976 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 15,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
+        "teammate": "Arturo Merzario 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 25,
+        "time": null
     }
 ]

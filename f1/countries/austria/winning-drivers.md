@@ -163,28 +163,28 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 3 |
-| 2. | Alan Jones 🇦🇺 | 2 |
-| 3. | Michael Schumacher 🇩🇪 | 2 |
-| 4. | Mika Häkkinen 🇫🇮 | 2 |
-| 5. | Nico Rosberg 🇩🇪 | 2 |
-| 6. | Ronnie Peterson 🇸🇪 | 2 |
-| 7. | Carlos Reutemann 🇦🇷 | 1 |
-| 8. | David Coulthard 🇬🇧 | 1 |
-| 9. | Eddie Irvine 🇬🇧 | 1 |
-| 10. | Elio de Angelis 🇮🇹 | 1 |
-| 11. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 12. | Jacky Ickx 🇧🇪 | 1 |
-| 13. | Jacques Laffite 🇫🇷 | 1 |
-| 14. | Jacques Villeneuve 🇨🇦 | 1 |
-| 15. | Jean-Pierre Jabouille 🇫🇷 | 1 |
-| 16. | Jo Siffert 🇨🇭 | 1 |
-| 17. | John Watson 🇬🇧 | 1 |
-| 18. | Lewis Hamilton 🇬🇧 | 1 |
-| 19. | Lorenzo Bandini 🇮🇹 | 1 |
-| 20. | Nigel Mansell 🇬🇧 | 1 |
-| 21. | Niki Lauda 🇦🇹 | 1 |
-| 22. | Vittorio Brambilla 🇮🇹 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 2. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 4. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 5. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 6. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 7. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 8. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 9. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 10. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 11. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 12. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 13. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 14. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 15. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 1 |
+| 16. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| 17. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 18. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 19. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 1 |
+| 20. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 21. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 22. | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 1 |
 
 #### Statistic Summary
 

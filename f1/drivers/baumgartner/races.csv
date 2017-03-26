@@ -1,21 +1,21 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2003 Hungarian Grand Prix 🇭🇺,13,19,34,Renault 🇫🇷,2003-08-24,R,,2003,Fernando Alonso 🇪🇸
-2003 Italian Grand Prix 🇮🇹,14,18,51,Ferrari 🇮🇹,2003-09-14,11,,2003,Michael Schumacher 🇩🇪
-2004 Australian Grand Prix 🇦🇺,1,17,13,Ferrari 🇮🇹,2004-03-07,R,,2004,Michael Schumacher 🇩🇪
-2004 Bahrain Grand Prix 🇧🇭,3,20,44,Ferrari 🇮🇹,2004-04-04,R,,2004,Michael Schumacher 🇩🇪
-2004 Belgian Grand Prix 🇧🇪,14,18,28,McLaren 🇬🇧,2004-08-29,R,,2004,Kimi Räikkönen 🇫🇮
-2004 Brazilian Grand Prix 🇧🇷,18,19,67,Williams 🇬🇧,2004-10-24,16,,2004,Juan Pablo Montoya 🇨🇴
-2004 British Grand Prix 🇬🇧,11,19,29,Ferrari 🇮🇹,2004-07-11,R,,2004,Michael Schumacher 🇩🇪
-2004 Canadian Grand Prix 🇨🇦,8,18,66,Ferrari 🇮🇹,2004-06-13,10,,2004,Michael Schumacher 🇩🇪
-2004 Chinese Grand Prix 🇨🇳,16,19,53,Ferrari 🇮🇹,2004-09-26,16,,2004,Rubens Barrichello 🇧🇷
-2004 European Grand Prix 🇩🇪,7,17,57,Ferrari 🇮🇹,2004-05-30,15,,2004,Michael Schumacher 🇩🇪
-2004 French Grand Prix 🇫🇷,10,20,31,Ferrari 🇮🇹,2004-07-04,R,,2004,Michael Schumacher 🇩🇪
-2004 German Grand Prix 🇩🇪,12,20,62,Ferrari 🇮🇹,2004-07-25,16,,2004,Michael Schumacher 🇩🇪
-2004 Hungarian Grand Prix 🇭🇺,13,18,65,Ferrari 🇮🇹,2004-08-15,15,,2004,Michael Schumacher 🇩🇪
-2004 Italian Grand Prix 🇮🇹,15,19,50,Ferrari 🇮🇹,2004-09-12,15,,2004,Rubens Barrichello 🇧🇷
-2004 Japanese Grand Prix 🇯🇵,17,20,41,Ferrari 🇮🇹,2004-10-10,R,,2004,Michael Schumacher 🇩🇪
-2004 Malaysian Grand Prix 🇲🇾,2,17,52,Ferrari 🇮🇹,2004-03-21,16,,2004,Michael Schumacher 🇩🇪
-2004 Monaco Grand Prix 🇲🇨,6,19,71,Renault 🇫🇷,2004-05-23,9,,2004,Jarno Trulli 🇮🇹
-2004 San Marino Grand Prix 🇮🇹,4,19,58,Ferrari 🇮🇹,2004-04-25,15,,2004,Michael Schumacher 🇩🇪
-2004 Spanish Grand Prix 🇪🇸,5,20,17,Ferrari 🇮🇹,2004-05-09,R,,2004,Michael Schumacher 🇩🇪
-2004 United States Grand Prix 🇺🇸,9,19,70,Ferrari 🇮🇹,2004-06-20,8,,2004,Michael Schumacher 🇩🇪
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2003 Hungarian Grand Prix 🇭🇺,R,19,2003-08-24,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,13,13,34,,0.0
+2003 Italian Grand Prix 🇮🇹,10,18,2003-09-14,11,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,14,13,51,,0.0
+2004 Australian Grand Prix 🇦🇺,N,17,2004-03-07,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,1,20,13,,0.0
+2004 Bahrain Grand Prix 🇧🇭,17,20,2004-04-04,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,3,17,44,,0.0
+2004 Belgian Grand Prix 🇧🇪,R,18,2004-08-29,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,14,17,28,,0.0
+2004 Brazilian Grand Prix 🇧🇷,17,19,2004-10-24,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,18,20,67,,0.0
+2004 British Grand Prix 🇬🇧,16,19,2004-07-11,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,11,18,29,,0.0
+2004 Canadian Grand Prix 🇨🇦,R,18,2004-06-13,10,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,8,19,66,,0.0
+2004 Chinese Grand Prix 🇨🇳,R,19,2004-09-26,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,16,17,53,,0.0
+2004 European Grand Prix 🇩🇪,14,17,2004-05-30,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,7,20,57,,0.0
+2004 French Grand Prix 🇫🇷,18,20,2004-07-04,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,10,19,31,,0.0
+2004 German Grand Prix 🇩🇪,17,20,2004-07-25,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,12,19,62,,0.0
+2004 Hungarian Grand Prix 🇭🇺,14,18,2004-08-15,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,13,19,65,,0.0
+2004 Italian Grand Prix 🇮🇹,R,19,2004-09-12,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,15,18,50,,0.0
+2004 Japanese Grand Prix 🇯🇵,16,20,2004-10-10,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,17,18,41,,0.0
+2004 Malaysian Grand Prix 🇲🇾,14,17,2004-03-21,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,2,16,52,,0.0
+2004 Monaco Grand Prix 🇲🇨,R,19,2004-05-23,9,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,6,20,71,,0.0
+2004 San Marino Grand Prix 🇮🇹,R,19,2004-04-25,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,4,17,58,,0.0
+2004 Spanish Grand Prix 🇪🇸,R,20,2004-05-09,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,5,18,17,,0.0
+2004 United States Grand Prix 🇺🇸,R,19,2004-06-20,8,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,9,18,70,,1.0

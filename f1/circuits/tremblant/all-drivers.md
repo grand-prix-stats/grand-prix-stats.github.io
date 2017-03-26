@@ -24,35 +24,35 @@ collectionId: tremblant
 
 | Driver | Times |
 |--|--|
-| Chris Amon 🇳🇿 | 2 |
-| Denny Hulme 🇳🇿 | 2 |
-| Graham Hill 🇬🇧 | 2 |
-| Henri Pescarolo 🇫🇷 | 2 |
-| Jack Brabham 🇦🇺 | 2 |
-| Jackie Oliver 🇬🇧 | 2 |
-| Jackie Stewart 🇬🇧 | 2 |
-| Jacky Ickx 🇧🇪 | 2 |
-| Jean-Pierre Beltoise 🇫🇷 | 2 |
-| Jo Siffert 🇨🇭 | 2 |
-| John Surtees 🇬🇧 | 2 |
-| Pedro Rodríguez 🇲🇽 | 2 |
-| Andrea de Adamich 🇮🇹 | 1 |
-| Bill Brack 🇨🇦 | 1 |
-| Bruce McLaren 🇳🇿 | 1 |
-| Clay Regazzoni 🇨🇭 | 1 |
-| Dan Gurney 🇺🇸 | 1 |
-| François Cevert 🇫🇷 | 1 |
-| George Eaton 🇨🇦 | 1 |
-| Jo Bonnier 🇸🇪 | 1 |
-| Jochen Rindt 🇦🇹 | 1 |
-| Johnny Servoz-Gavin 🇫🇷 | 1 |
-| Lucien Bianchi 🇧🇪 | 1 |
-| Peter Gethin 🇬🇧 | 1 |
-| Piers Courage 🇬🇧 | 1 |
-| Rolf Stommelen 🇩🇪 | 1 |
-| Ronnie Peterson 🇸🇪 | 1 |
-| Tim Schenken 🇦🇺 | 1 |
-| Vic Elford 🇬🇧 | 1 |
+| [Chris Amon 🇳🇿](/f1/drivers/amon) | 2 |
+| [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 2 |
+| [Graham Hill 🇬🇧](/f1/drivers/hill) | 2 |
+| [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 2 |
+| [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| [Jackie Oliver 🇬🇧](/f1/drivers/oliver) | 2 |
+| [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 |
+| [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 2 |
+| [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 2 |
+| [John Surtees 🇬🇧](/f1/drivers/surtees) | 2 |
+| [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 2 |
+| [Andrea de Adamich 🇮🇹](/f1/drivers/adamich) | 1 |
+| [Bill Brack 🇨🇦](/f1/drivers/brack) | 1 |
+| [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| [George Eaton 🇨🇦](/f1/drivers/eaton) | 1 |
+| [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 1 |
+| [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| [Johnny Servoz-Gavin 🇫🇷](/f1/drivers/gavin) | 1 |
+| [Lucien Bianchi 🇧🇪](/f1/drivers/bianchi) | 1 |
+| [Peter Gethin 🇬🇧](/f1/drivers/gethin) | 1 |
+| [Piers Courage 🇬🇧](/f1/drivers/courage) | 1 |
+| [Rolf Stommelen 🇩🇪](/f1/drivers/stommelen) | 1 |
+| [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
+| [Tim Schenken 🇦🇺](/f1/drivers/schenken) | 1 |
+| [Vic Elford 🇬🇧](/f1/drivers/elford) | 1 |
 
 #### Statistic Summary
 

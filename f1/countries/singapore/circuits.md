@@ -24,7 +24,7 @@ collectionId: singapore
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Marina Bay Street Circuit](/f1/circuits/marina_bay) | Marina Bay | [Singapore](/f1/countries/singapore) | 10 | Sebastian Vettel 🇩🇪 | 4 |
+| [Marina Bay Street Circuit](/f1/circuits/marina_bay) | Marina Bay | [Singapore](/f1/countries/singapore) | 10 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
 
 #### Statistic Summary
 

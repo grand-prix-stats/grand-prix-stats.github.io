@@ -143,23 +143,23 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 6 |
-| 2. | Nelson Piquet 🇧🇷 | 4 |
-| 3. | Carlos Reutemann 🇦🇷 | 2 |
-| 4. | Elio de Angelis 🇮🇹 | 2 |
-| 5. | Nigel Mansell 🇬🇧 | 2 |
-| 6. | Niki Lauda 🇦🇹 | 2 |
-| 7. | Alan Jones 🇦🇺 | 1 |
-| 8. | Ayrton Senna 🇧🇷 | 1 |
-| 9. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 10. | Gerhard Berger 🇦🇹 | 1 |
-| 11. | Jacques Laffite 🇫🇷 | 1 |
-| 12. | John Watson 🇬🇧 | 1 |
-| 13. | Keke Rosberg 🇫🇮 | 1 |
-| 14. | Maurício Gugelmin 🇧🇷 | 1 |
-| 15. | Michele Alboreto 🇮🇹 | 1 |
-| 16. | Riccardo Patrese 🇮🇹 | 1 |
-| 17. | Stefan Johansson 🇸🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 6 |
+| 2. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 4 |
+| 3. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 4. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 2 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 6. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 7. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 8. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 9. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 10. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 11. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 12. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 13. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 14. | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 1 |
+| 15. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 16. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 17. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
 
 #### Statistic Summary
 

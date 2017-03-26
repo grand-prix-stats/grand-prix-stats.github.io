@@ -1,19 +1,30 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1967 British Grand Prix 🇬🇧,6,20,29,Lotus-Ford 🇬🇧,1967-07-15,R,,1967,Jim Clark 🇬🇧
-1968 British Grand Prix 🇬🇧,7,19,52,Lotus-Ford 🇬🇧,1968-07-20,N,,1968,Jo Siffert 🇨🇭
-1968 Dutch Grand Prix 🇳🇱,5,7,87,Matra-Ford 🇫🇷,1968-06-23,5,,1968,Jackie Stewart 🇬🇧
-1968 Italian Grand Prix 🇮🇹,9,0,0,McLaren-Ford 🇬🇧,1968-09-08,F,,1968,Denny Hulme 🇳🇿
-1968 Monaco Grand Prix 🇲🇨,3,0,0,Lotus-Ford 🇬🇧,1968-05-26,F,,1968,Graham Hill 🇬🇧
-1969 Canadian Grand Prix 🇨🇦,9,20,0,Brabham-Ford 🇬🇧,1969-09-20,R,,1969,Jacky Ickx 🇧🇪
-1969 Dutch Grand Prix 🇳🇱,4,14,54,Matra-Ford 🇫🇷,1969-06-21,R,,1969,Jackie Stewart 🇬🇧
-1969 French Grand Prix 🇫🇷,5,13,36,Matra-Ford 🇫🇷,1969-07-06,7,,1969,Jackie Stewart 🇬🇧
-1969 Italian Grand Prix 🇮🇹,8,13,9,Matra-Ford 🇫🇷,1969-09-07,R,,1969,Jackie Stewart 🇬🇧
-1969 Mexican Grand Prix 🇲🇽,11,13,60,McLaren-Ford 🇬🇧,1969-10-19,11,,1969,Denny Hulme 🇳🇿
-1969 Monaco Grand Prix 🇲🇨,3,15,15,Lotus-Ford 🇬🇧,1969-05-18,R,,1969,Graham Hill 🇬🇧
-1969 United States Grand Prix 🇺🇸,10,17,98,Lotus-Ford 🇬🇧,1969-10-05,6,,1969,Jochen Rindt 🇦🇹
-1970 Austrian Grand Prix 🇦🇹,9,24,13,Ferrari 🇮🇹,1970-08-16,R,,1970,Jacky Ickx 🇧🇪
-1970 Dutch Grand Prix 🇳🇱,5,0,0,Team Lotus 🇬🇧,1970-06-21,F,,1970,Jochen Rindt 🇦🇹
-1970 French Grand Prix 🇫🇷,6,0,0,Team Lotus 🇬🇧,1970-07-05,F,,1970,Jochen Rindt 🇦🇹
-1970 German Grand Prix 🇩🇪,8,0,0,Team Lotus 🇬🇧,1970-08-02,F,,1970,Jochen Rindt 🇦🇹
-1970 Italian Grand Prix 🇮🇹,10,0,0,Ferrari 🇮🇹,1970-09-06,F,,1970,Clay Regazzoni 🇨🇭
-1971 Italian Grand Prix 🇮🇹,9,22,5,BRM 🇬🇧,1971-09-05,R,,1971,Peter Gethin 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1968 British Grand Prix 🇬🇧,R,19,1968-07-20,N,1968,Jochen Rindt 🇦🇹,Brabham-Repco 🇬🇧,7,5,52,,0.0
+1968 British Grand Prix 🇬🇧,R,19,1968-07-20,N,1968,Jack Brabham 🇦🇺,Brabham-Repco 🇬🇧,7,8,52,,0.0
+1968 Dutch Grand Prix 🇳🇱,R,7,1968-06-23,5,1968,Dan Gurney 🇺🇸,Brabham-Repco 🇬🇧,5,12,87,,2.0
+1968 Dutch Grand Prix 🇳🇱,R,7,1968-06-23,5,1968,Jack Brabham 🇦🇺,Brabham-Repco 🇬🇧,5,4,87,,2.0
+1968 Dutch Grand Prix 🇳🇱,R,7,1968-06-23,5,1968,Jochen Rindt 🇦🇹,Brabham-Repco 🇬🇧,5,2,87,,2.0
+1968 Italian Grand Prix 🇮🇹,R,0,1968-09-08,F,1968,Jack Brabham 🇦🇺,Brabham-Repco 🇬🇧,9,16,0,,0.0
+1968 Italian Grand Prix 🇮🇹,R,0,1968-09-08,F,1968,Jochen Rindt 🇦🇹,Brabham-Repco 🇬🇧,9,10,0,,0.0
+1968 Monaco Grand Prix 🇲🇨,R,0,1968-05-26,F,1968,Jochen Rindt 🇦🇹,Brabham-Repco 🇬🇧,3,5,0,,0.0
+1968 Monaco Grand Prix 🇲🇨,R,0,1968-05-26,F,1968,Jack Brabham 🇦🇺,Brabham-Repco 🇬🇧,3,12,0,,0.0
+1969 Canadian Grand Prix 🇨🇦,1,20,1969-09-20,R,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,9,1,0,,0.0
+1969 Canadian Grand Prix 🇨🇦,2,20,1969-09-20,R,1969,Jack Brabham 🇦🇺,Brabham-Ford 🇬🇧,9,6,0,,0.0
+1969 Canadian Grand Prix 🇨🇦,R,20,1969-09-20,R,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,9,10,0,,0.0
+1969 Dutch Grand Prix 🇳🇱,5,14,1969-06-21,R,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,4,5,54,,0.0
+1969 Dutch Grand Prix 🇳🇱,6,14,1969-06-21,R,1969,Jack Brabham 🇦🇺,Brabham-Ford 🇬🇧,4,8,54,,0.0
+1969 Dutch Grand Prix 🇳🇱,R,14,1969-06-21,R,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,4,9,54,,0.0
+1969 French Grand Prix 🇫🇷,3,13,1969-07-06,7,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,5,4,36,,0.0
+1969 French Grand Prix 🇫🇷,R,13,1969-07-06,7,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,5,11,36,,0.0
+1969 Italian Grand Prix 🇮🇹,5,13,1969-09-07,R,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,8,4,9,,0.0
+1969 Italian Grand Prix 🇮🇹,10,13,1969-09-07,R,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,8,15,9,,0.0
+1969 Italian Grand Prix 🇮🇹,R,13,1969-09-07,R,1969,Jack Brabham 🇦🇺,Brabham-Ford 🇬🇧,8,7,9,,0.0
+1969 Mexican Grand Prix 🇲🇽,2,13,1969-10-19,11,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,11,2,60,,0.0
+1969 Mexican Grand Prix 🇲🇽,10,13,1969-10-19,11,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,11,9,60,,0.0
+1969 Mexican Grand Prix 🇲🇽,3,13,1969-10-19,11,1969,Jack Brabham 🇦🇺,Brabham-Ford 🇬🇧,11,1,60,,0.0
+1969 Monaco Grand Prix 🇲🇨,R,15,1969-05-18,R,1969,Jack Brabham 🇦🇺,Brabham-Ford 🇬🇧,3,8,15,,0.0
+1969 Monaco Grand Prix 🇲🇨,R,15,1969-05-18,R,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,3,7,15,,0.0
+1969 Monaco Grand Prix 🇲🇨,2,15,1969-05-18,R,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,3,9,15,,0.0
+1969 United States Grand Prix 🇺🇸,R,17,1969-10-05,6,1969,Jacky Ickx 🇧🇪,Brabham-Ford 🇬🇧,10,8,98,,1.0
+1969 United States Grand Prix 🇺🇸,4,17,1969-10-05,6,1969,Jack Brabham 🇦🇺,Brabham-Ford 🇬🇧,10,18,98,,1.0
+1969 United States Grand Prix 🇺🇸,2,17,1969-10-05,6,1969,Piers Courage 🇬🇧,Brabham-Ford 🇬🇧,10,9,98,,1.0

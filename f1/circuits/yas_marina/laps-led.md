@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 181 |
-| 2. | Sebastian Vettel 🇩🇪 | 142 |
-| 3. | Nico Rosberg 🇩🇪 | 47 |
-| 4. | Kimi Räikkönen 🇫🇮 | 36 |
-| 5. | Jenson Button 🇬🇧 | 15 |
-| 6. | Felipe Massa 🇧🇷 | 14 |
-| 7. | Fernando Alonso 🇪🇸 | 3 |
-| 8. | Daniel Ricciardo 🇦🇺 | 1 |
-| 9. | Mark Webber 🇦🇺 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 181 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 142 |
+| 3. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 47 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 36 |
+| 5. | [Jenson Button 🇬🇧](/f1/drivers/button) | 15 |
+| 6. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 14 |
+| 7. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 8. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 9. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
 
 #### Statistic Summary
 

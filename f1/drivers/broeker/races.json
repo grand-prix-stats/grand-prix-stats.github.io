@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Stebro 🇨🇦",
         "date": "1963-10-06",
         "final_position": "7",
         "grid": 21,
         "laps_completed": 88,
         "name": "1963 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 8,
         "season": 1963,
-        "time": null,
-        "winning_constructor": "BRM 🇬🇧",
-        "winning_driver": "Graham Hill 🇬🇧"
+        "teammate": "Ernie de Vos 🇳🇱",
+        "teammate_final_position": "W",
+        "teammate_grid": 0,
+        "time": null
     }
 ]

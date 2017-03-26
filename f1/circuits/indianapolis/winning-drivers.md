@@ -131,20 +131,20 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 5 |
-| 2. | Bill Vukovich 🇺🇸 | 2 |
-| 3. | Bob Sweikert 🇺🇸 | 1 |
-| 4. | Jim Rathmann 🇺🇸 | 1 |
-| 5. | Jimmy Bryan 🇺🇸 | 1 |
-| 6. | Johnnie Parsons 🇺🇸 | 1 |
-| 7. | Lee Wallard 🇺🇸 | 1 |
-| 8. | Lewis Hamilton 🇬🇧 | 1 |
-| 9. | Mika Häkkinen 🇫🇮 | 1 |
-| 10. | Pat Flaherty 🇺🇸 | 1 |
-| 11. | Rodger Ward 🇺🇸 | 1 |
-| 12. | Rubens Barrichello 🇧🇷 | 1 |
-| 13. | Sam Hanks 🇺🇸 | 1 |
-| 14. | Troy Ruttman 🇺🇸 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
+| 2. | [Bill Vukovich 🇺🇸](/f1/drivers/vukovich) | 2 |
+| 3. | [Bob Sweikert 🇺🇸](/f1/drivers/sweikert) | 1 |
+| 4. | [Jim Rathmann 🇺🇸](/f1/drivers/rathmann) | 1 |
+| 5. | [Jimmy Bryan 🇺🇸](/f1/drivers/bryan) | 1 |
+| 6. | [Johnnie Parsons 🇺🇸](/f1/drivers/parsons) | 1 |
+| 7. | [Lee Wallard 🇺🇸](/f1/drivers/wallard) | 1 |
+| 8. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 9. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 10. | [Pat Flaherty 🇺🇸](/f1/drivers/flaherty) | 1 |
+| 11. | [Rodger Ward 🇺🇸](/f1/drivers/ward) | 1 |
+| 12. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 13. | [Sam Hanks 🇺🇸](/f1/drivers/hanks) | 1 |
+| 14. | [Troy Ruttman 🇺🇸](/f1/drivers/ruttman) | 1 |
 
 #### Statistic Summary
 

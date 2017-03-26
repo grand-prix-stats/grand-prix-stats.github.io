@@ -1,3 +1,11 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1977 British Grand Prix 🇬🇧,10,0,0,McLaren 🇬🇧,1977-07-16,F,,1977,James Hunt 🇬🇧
-1977 Swedish Grand Prix 🇸🇪,8,0,0,Ligier 🇫🇷,1977-06-19,F,,1977,Jacques Laffite 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1977 British Grand Prix 🇬🇧,10,0,1977-07-16,F,1977,Patrick Nève 🇧🇪,March 🇬🇧,10,26,0,,0.0
+1977 British Grand Prix 🇬🇧,R,0,1977-07-16,F,1977,Arturo Merzario 🇮🇹,March 🇬🇧,10,17,0,,0.0
+1977 British Grand Prix 🇬🇧,R,0,1977-07-16,F,1977,Ian Scheckter 🇿🇦,March 🇬🇧,10,24,0,,0.0
+1977 British Grand Prix 🇬🇧,F,0,1977-07-16,F,1977,Alex Ribeiro 🇧🇷,March 🇬🇧,10,0,0,,0.0
+1977 British Grand Prix 🇬🇧,F,0,1977-07-16,F,1977,Brian Henton 🇬🇧,March 🇬🇧,10,0,0,,0.0
+1977 British Grand Prix 🇬🇧,F,0,1977-07-16,F,1977,Andy Sutcliffe 🇬🇧,March 🇬🇧,10,0,0,,0.0
+1977 Swedish Grand Prix 🇸🇪,15,0,1977-06-19,F,1977,Patrick Nève 🇧🇪,March 🇬🇧,8,20,0,,0.0
+1977 Swedish Grand Prix 🇸🇪,R,0,1977-06-19,F,1977,Ian Scheckter 🇿🇦,March 🇬🇧,8,21,0,,0.0
+1977 Swedish Grand Prix 🇸🇪,F,0,1977-06-19,F,1977,Alex Ribeiro 🇧🇷,March 🇬🇧,8,0,0,,0.0
+1977 Swedish Grand Prix 🇸🇪,F,0,1977-06-19,F,1977,Boy Lunger 🇳🇱,March 🇬🇧,8,0,0,,0.0

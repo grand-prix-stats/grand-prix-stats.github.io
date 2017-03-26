@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 1 |
-| 2. | Mike Hawthorn 🇬🇧 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 2. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
 
 #### Statistic Summary
 

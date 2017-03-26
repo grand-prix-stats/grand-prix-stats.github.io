@@ -1,29 +1,14 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1984 Austrian Grand Prix 🇦🇹,12,26,23,McLaren 🇬🇧,1984-08-19,N,,1984,Niki Lauda 🇦🇹
-1984 British Grand Prix 🇬🇧,10,22,62,McLaren 🇬🇧,1984-07-22,N,,1984,Niki Lauda 🇦🇹
-1984 Canadian Grand Prix 🇨🇦,7,24,56,Brabham 🇬🇧,1984-06-17,N,,1984,Nelson Piquet 🇧🇷
-1984 Dallas Grand Prix 🇺🇸,9,23,15,Williams 🇬🇧,1984-07-08,R,,1984,Keke Rosberg 🇫🇮
-1984 Detroit Grand Prix 🇺🇸,8,0,0,Brabham 🇬🇧,1984-06-24,F,,1984,Nelson Piquet 🇧🇷
-1984 Dutch Grand Prix 🇳🇱,13,27,53,McLaren 🇬🇧,1984-08-26,R,,1984,Alain Prost 🇫🇷
-1984 German Grand Prix 🇩🇪,11,24,40,McLaren 🇬🇧,1984-08-05,9,,1984,Alain Prost 🇫🇷
-1984 Italian Grand Prix 🇮🇹,14,25,48,McLaren 🇬🇧,1984-09-09,8,,1984,Niki Lauda 🇦🇹
-1985 Australian Grand Prix 🇦🇺,16,25,78,Williams 🇬🇧,1985-11-03,7,,1985,Keke Rosberg 🇫🇮
-1985 Austrian Grand Prix 🇦🇹,10,24,48,McLaren 🇬🇧,1985-08-18,9,,1985,Alain Prost 🇫🇷
-1985 Belgian Grand Prix 🇧🇪,13,23,37,Team Lotus 🇬🇧,1985-09-15,N,,1985,Ayrton Senna 🇧🇷
-1985 Dutch Grand Prix 🇳🇱,11,26,56,McLaren 🇬🇧,1985-08-25,N,,1985,Niki Lauda 🇦🇹
-1985 German Grand Prix 🇩🇪,9,25,32,Ferrari 🇮🇹,1985-08-04,R,,1985,Michele Alboreto 🇮🇹
-1985 Italian Grand Prix 🇮🇹,12,22,26,McLaren 🇬🇧,1985-09-08,R,,1985,Alain Prost 🇫🇷
-1985 South African Grand Prix 🇿🇦,15,21,1,Williams 🇬🇧,1985-10-19,R,,1985,Nigel Mansell 🇬🇧
-1986 Australian Grand Prix 🇦🇺,16,23,29,McLaren 🇬🇧,1986-10-26,R,,1986,Alain Prost 🇫🇷
-1986 Austrian Grand Prix 🇦🇹,12,24,48,McLaren 🇬🇧,1986-08-17,8,,1986,Alain Prost 🇫🇷
-1986 Belgian Grand Prix 🇧🇪,5,23,25,Williams 🇬🇧,1986-05-25,R,,1986,Nigel Mansell 🇬🇧
-1986 British Grand Prix 🇬🇧,9,25,24,Williams 🇬🇧,1986-07-13,R,,1986,Nigel Mansell 🇬🇧
-1986 Canadian Grand Prix 🇨🇦,6,24,63,Williams 🇬🇧,1986-06-15,12,,1986,Nigel Mansell 🇬🇧
-1986 Detroit Grand Prix 🇺🇸,7,26,0,Team Lotus 🇬🇧,1986-06-22,R,,1986,Ayrton Senna 🇧🇷
-1986 French Grand Prix 🇫🇷,8,24,32,Williams 🇬🇧,1986-07-06,R,,1986,Nigel Mansell 🇬🇧
-1986 German Grand Prix 🇩🇪,10,24,38,Williams 🇬🇧,1986-07-27,R,,1986,Nelson Piquet 🇧🇷
-1986 Hungarian Grand Prix 🇭🇺,11,25,2,Williams 🇬🇧,1986-08-10,R,,1986,Nelson Piquet 🇧🇷
-1986 Italian Grand Prix 🇮🇹,13,24,1,Williams 🇬🇧,1986-09-07,R,,1986,Nelson Piquet 🇧🇷
-1986 Monaco Grand Prix 🇲🇨,4,0,0,McLaren 🇬🇧,1986-05-11,F,,1986,Alain Prost 🇫🇷
-1986 Portuguese Grand Prix 🇵🇹,14,26,9,Williams 🇬🇧,1986-09-21,R,,1986,Nigel Mansell 🇬🇧
-1986 San Marino Grand Prix 🇮🇹,3,24,7,McLaren 🇬🇧,1986-04-27,R,,1986,Alain Prost 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1986 Australian Grand Prix 🇦🇺,9,23,1986-10-26,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,16,21,29,,0.0
+1986 Austrian Grand Prix 🇦🇹,R,24,1986-08-17,8,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,12,21,48,,0.0
+1986 Belgian Grand Prix 🇧🇪,13,23,1986-05-25,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,5,20,25,,0.0
+1986 British Grand Prix 🇬🇧,9,25,1986-07-13,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,9,22,24,,0.0
+1986 Canadian Grand Prix 🇨🇦,R,24,1986-06-15,12,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,6,22,63,,0.0
+1986 Detroit Grand Prix 🇺🇸,8,26,1986-06-22,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,7,20,0,,0.0
+1986 French Grand Prix 🇫🇷,R,24,1986-07-06,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,8,22,32,,0.0
+1986 German Grand Prix 🇩🇪,R,24,1986-07-27,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,10,16,38,,0.0
+1986 Hungarian Grand Prix 🇭🇺,10,25,1986-08-10,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,11,24,2,,0.0
+1986 Italian Grand Prix 🇮🇹,R,24,1986-09-07,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,13,22,1,,0.0
+1986 Monaco Grand Prix 🇲🇨,12,0,1986-05-11,F,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,4,19,0,,0.0
+1986 Portuguese Grand Prix 🇵🇹,12,26,1986-09-21,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,14,20,9,,0.0
+1986 San Marino Grand Prix 🇮🇹,R,24,1986-04-27,R,1986,Jonathan Palmer 🇬🇧,Zakspeed 🇩🇪,3,20,7,,0.0

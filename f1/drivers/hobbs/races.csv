@@ -1,8 +1,16 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1967 British Grand Prix 🇬🇧,6,14,77,Lotus-Ford 🇬🇧,1967-07-15,8,,1967,Jim Clark 🇬🇧
-1967 Canadian Grand Prix 🇨🇦,8,12,85,Brabham-Repco 🇬🇧,1967-08-27,9,,1967,Jack Brabham 🇦🇺
-1967 German Grand Prix 🇩🇪,7,22,13,Brabham-Repco 🇬🇧,1967-08-06,10,,1967,Denny Hulme 🇳🇿
-1968 Italian Grand Prix 🇮🇹,9,14,42,McLaren-Ford 🇬🇧,1968-09-08,R,,1968,Denny Hulme 🇳🇿
-1971 United States Grand Prix 🇺🇸,11,22,58,Tyrrell 🇬🇧,1971-10-03,10,,1971,François Cevert 🇫🇷
-1974 Austrian Grand Prix 🇦🇹,12,17,53,Brabham 🇬🇧,1974-08-18,7,,1974,Carlos Reutemann 🇦🇷
-1974 Italian Grand Prix 🇮🇹,13,23,51,Team Lotus 🇬🇧,1974-09-08,9,,1974,Ronnie Peterson 🇸🇪
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1967 British Grand Prix 🇬🇧,7,14,1967-07-15,8,1967,Chris Irwin 🇬🇧,BRM 🇬🇧,6,13,77,,0.0
+1967 British Grand Prix 🇬🇧,R,14,1967-07-15,8,1967,Mike Spence 🇬🇧,BRM 🇬🇧,6,11,77,,0.0
+1967 British Grand Prix 🇬🇧,R,14,1967-07-15,8,1967,Jackie Stewart 🇬🇧,BRM 🇬🇧,6,12,77,,0.0
+1967 British Grand Prix 🇬🇧,W,14,1967-07-15,8,1967,Piers Courage 🇬🇧,BRM 🇬🇧,6,0,77,,0.0
+1967 Canadian Grand Prix 🇨🇦,5,12,1967-08-27,9,1967,Mike Spence 🇬🇧,BRM 🇬🇧,8,10,85,,0.0
+1967 Canadian Grand Prix 🇨🇦,R,12,1967-08-27,9,1967,Jackie Stewart 🇬🇧,BRM 🇬🇧,8,9,85,,0.0
+1967 Canadian Grand Prix 🇨🇦,R,12,1967-08-27,9,1967,Chris Irwin 🇬🇧,BRM 🇬🇧,8,11,85,,0.0
+1967 German Grand Prix 🇩🇪,R,22,1967-08-06,10,1967,Hubert Hahne 🇩🇪,Lola 🇬🇧,7,14,13,,0.0
+1968 Italian Grand Prix 🇮🇹,R,14,1968-09-08,R,1968,John Surtees 🇬🇧,Honda 🇯🇵,9,1,42,,0.0
+1971 United States Grand Prix 🇺🇸,16,22,1971-10-03,10,1971,Jo Bonnier 🇸🇪,McLaren 🇬🇧,11,28,58,,0.0
+1971 United States Grand Prix 🇺🇸,R,22,1971-10-03,10,1971,Denny Hulme 🇳🇿,McLaren 🇬🇧,11,3,58,,0.0
+1974 Austrian Grand Prix 🇦🇹,2,17,1974-08-18,7,1974,Denny Hulme 🇳🇿,McLaren 🇬🇧,12,10,53,,0.0
+1974 Austrian Grand Prix 🇦🇹,R,17,1974-08-18,7,1974,Emerson Fittipaldi 🇧🇷,McLaren 🇬🇧,12,3,53,,0.0
+1974 Italian Grand Prix 🇮🇹,2,23,1974-09-08,9,1974,Emerson Fittipaldi 🇧🇷,McLaren 🇬🇧,13,6,51,,0.0
+1974 Italian Grand Prix 🇮🇹,6,23,1974-09-08,9,1974,Denny Hulme 🇳🇿,McLaren 🇬🇧,13,19,51,,0.0

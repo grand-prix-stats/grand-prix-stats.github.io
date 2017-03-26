@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jacky Ickx 🇧🇪 | 1 |
-| 2. | Jochen Rindt 🇦🇹 | 1 |
-| 3. | Niki Lauda 🇦🇹 | 1 |
-| 4. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 2. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 3. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 4. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

@@ -131,20 +131,20 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 2 |
-| 2. | Jim Clark 🇬🇧 | 2 |
-| 3. | Nigel Mansell 🇬🇧 | 2 |
-| 4. | Ayrton Senna 🇧🇷 | 1 |
-| 5. | Dan Gurney 🇺🇸 | 1 |
-| 6. | Denny Hulme 🇳🇿 | 1 |
-| 7. | Gerhard Berger 🇦🇹 | 1 |
-| 8. | Graham Hill 🇬🇧 | 1 |
-| 9. | Jacky Ickx 🇧🇪 | 1 |
-| 10. | John Surtees 🇬🇧 | 1 |
-| 11. | Lewis Hamilton 🇬🇧 | 1 |
-| 12. | Nico Rosberg 🇩🇪 | 1 |
-| 13. | Riccardo Patrese 🇮🇹 | 1 |
-| 14. | Richie Ginther 🇺🇸 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 2. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 |
+| 3. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 4. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 5. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 6. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 7. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 8. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 9. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 10. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 11. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 12. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 13. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 14. | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 1 |
 
 #### Statistic Summary
 

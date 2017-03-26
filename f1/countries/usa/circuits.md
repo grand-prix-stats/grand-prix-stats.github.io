@@ -24,17 +24,17 @@ collectionId: usa
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Circuit of the Americas](/f1/circuits/americas) | Austin | [USA](/f1/countries/usa) | 6 | Lewis Hamilton 🇬🇧 | 4 |
-| [Long Beach](/f1/circuits/long_beach) | California | [USA](/f1/countries/usa) | 8 | John Watson 🇬🇧 | 1 |
-| [Riverside International Raceway](/f1/circuits/riverside) | California | [USA](/f1/countries/usa) | 1 | Stirling Moss 🇬🇧 | 1 |
-| [Fair Park](/f1/circuits/dallas) | Dallas | [USA](/f1/countries/usa) | 1 | Keke Rosberg 🇫🇮 | 1 |
-| [Detroit Street Circuit](/f1/circuits/detroit) | Detroit | [USA](/f1/countries/usa) | 7 | Ayrton Senna 🇧🇷 | 3 |
-| [Sebring International Raceway](/f1/circuits/sebring) | Florida | [USA](/f1/countries/usa) | 1 | Bruce McLaren 🇳🇿 | 1 |
-| [Indianapolis Motor Speedway](/f1/circuits/indianapolis) | Indianapolis | [USA](/f1/countries/usa) | 19 | Michael Schumacher 🇩🇪 | 5 |
-| [Las Vegas Street Circuit](/f1/circuits/las_vegas) | Nevada | [USA](/f1/countries/usa) | 2 | Michele Alboreto 🇮🇹 | 1 |
+| [Circuit of the Americas](/f1/circuits/americas) | Austin | [USA](/f1/countries/usa) | 6 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
+| [Long Beach](/f1/circuits/long_beach) | California | [USA](/f1/countries/usa) | 8 | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| [Riverside International Raceway](/f1/circuits/riverside) | California | [USA](/f1/countries/usa) | 1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| [Fair Park](/f1/circuits/dallas) | Dallas | [USA](/f1/countries/usa) | 1 | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| [Detroit Street Circuit](/f1/circuits/detroit) | Detroit | [USA](/f1/countries/usa) | 7 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| [Sebring International Raceway](/f1/circuits/sebring) | Florida | [USA](/f1/countries/usa) | 1 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| [Indianapolis Motor Speedway](/f1/circuits/indianapolis) | Indianapolis | [USA](/f1/countries/usa) | 19 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
+| [Las Vegas Street Circuit](/f1/circuits/las_vegas) | Nevada | [USA](/f1/countries/usa) | 2 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
 | [Port Imperial Street Circuit](/f1/circuits/port_imperial) | New Jersey | [USA](/f1/countries/usa) | 0 |   |   |
-| [Watkins Glen](/f1/circuits/watkins_glen) | New York State | [USA](/f1/countries/usa) | 20 | Jim Clark 🇬🇧 | 3 |
-| [Phoenix street circuit](/f1/circuits/phoenix) | Phoenix | [USA](/f1/countries/usa) | 3 | Ayrton Senna 🇧🇷 | 2 |
+| [Watkins Glen](/f1/circuits/watkins_glen) | New York State | [USA](/f1/countries/usa) | 20 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 3 |
+| [Phoenix street circuit](/f1/circuits/phoenix) | Phoenix | [USA](/f1/countries/usa) | 3 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
 
 #### Statistic Summary
 

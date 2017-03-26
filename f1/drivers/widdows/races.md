@@ -22,22 +22,22 @@ collectionId: widdows
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1968 | 7 | 1968 British Grand Prix 🇬🇧 | 1968-07-20 | 18 | R | 34 |   | Jo Siffert 🇨🇭 | Lotus-Ford 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1968 | 7 | 1968 British Grand Prix 🇬🇧 | 1968-07-20 | 18 | R | 0.0 | 34 |   | Cooper-BRM 🇬🇧 | [Vic Elford 🇬🇧](/f1/drivers/elford) | 7 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **Mean μ (Average)** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **Maximum** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **Median** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **Minimum** | 7.000 |  |  | 18.000 |  | 34.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Mean μ (Average)** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Maximum** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **75th Percentile** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Median** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **25th Percentile** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Minimum** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

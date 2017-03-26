@@ -219,42 +219,42 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 5 |
-| 2. | Alain Prost 🇫🇷 | 3 |
-| 3. | Juan Fangio 🇦🇷 | 3 |
-| 4. | Lewis Hamilton 🇬🇧 | 3 |
-| 5. | Nelson Piquet 🇧🇷 | 3 |
-| 6. | Ronnie Peterson 🇸🇪 | 3 |
-| 7. | Rubens Barrichello 🇧🇷 | 3 |
-| 8. | Sebastian Vettel 🇩🇪 | 3 |
-| 9. | Stirling Moss 🇬🇧 | 3 |
-| 10. | Alberto Ascari 🇮🇹 | 2 |
-| 11. | Ayrton Senna 🇧🇷 | 2 |
-| 12. | Clay Regazzoni 🇨🇭 | 2 |
-| 13. | Damon Hill 🇬🇧 | 2 |
-| 14. | Fernando Alonso 🇪🇸 | 2 |
-| 15. | Jackie Stewart 🇬🇧 | 2 |
-| 16. | John Surtees 🇬🇧 | 2 |
-| 17. | Juan Pablo Montoya 🇨🇴 | 2 |
-| 18. | Niki Lauda 🇦🇹 | 2 |
-| 19. | Phil Hill 🇺🇸 | 2 |
-| 20. | David Coulthard 🇬🇧 | 1 |
-| 21. | Denny Hulme 🇳🇿 | 1 |
-| 22. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 23. | Gerhard Berger 🇦🇹 | 1 |
-| 24. | Graham Hill 🇬🇧 | 1 |
-| 25. | Heinz-Harald Frentzen 🇩🇪 | 1 |
-| 26. | Jim Clark 🇬🇧 | 1 |
-| 27. | Jody Scheckter 🇿🇦 | 1 |
-| 28. | Johnny Herbert 🇬🇧 | 1 |
-| 29. | Ludovico Scarfiotti 🇮🇹 | 1 |
-| 30. | Mario Andretti 🇺🇸 | 1 |
-| 31. | Nico Rosberg 🇩🇪 | 1 |
-| 32. | Nigel Mansell 🇬🇧 | 1 |
-| 33. | Nino Farina 🇮🇹 | 1 |
-| 34. | Peter Gethin 🇬🇧 | 1 |
-| 35. | René Arnoux 🇫🇷 | 1 |
-| 36. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 3. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 6. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 3 |
+| 7. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 3 |
+| 8. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| 9. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 3 |
+| 10. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| 11. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 12. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 2 |
+| 13. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
+| 14. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 15. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 16. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 2 |
+| 17. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 18. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 19. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 2 |
+| 20. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 21. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 22. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 23. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 24. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 25. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 1 |
+| 26. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 27. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 28. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 1 |
+| 29. | [Ludovico Scarfiotti 🇮🇹](/f1/drivers/scarfiotti) | 1 |
+| 30. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 31. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 32. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 33. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
+| 34. | [Peter Gethin 🇬🇧](/f1/drivers/gethin) | 1 |
+| 35. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 36. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

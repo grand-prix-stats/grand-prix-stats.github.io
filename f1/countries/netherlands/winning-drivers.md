@@ -151,25 +151,25 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 4 |
-| 2. | Jackie Stewart 🇬🇧 | 3 |
-| 3. | Niki Lauda 🇦🇹 | 3 |
-| 4. | Alain Prost 🇫🇷 | 2 |
-| 5. | Alberto Ascari 🇮🇹 | 2 |
-| 6. | Jack Brabham 🇦🇺 | 2 |
-| 7. | James Hunt 🇬🇧 | 2 |
-| 8. | Alan Jones 🇦🇺 | 1 |
-| 9. | Didier Pironi 🇫🇷 | 1 |
-| 10. | Graham Hill 🇬🇧 | 1 |
-| 11. | Jacky Ickx 🇧🇪 | 1 |
-| 12. | Jo Bonnier 🇸🇪 | 1 |
-| 13. | Jochen Rindt 🇦🇹 | 1 |
-| 14. | Juan Fangio 🇦🇷 | 1 |
-| 15. | Mario Andretti 🇺🇸 | 1 |
-| 16. | Nelson Piquet 🇧🇷 | 1 |
-| 17. | René Arnoux 🇫🇷 | 1 |
-| 18. | Stirling Moss 🇬🇧 | 1 |
-| 19. | Wolfgang von Trips 🇩🇪 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 4 |
+| 2. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 |
+| 3. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 4. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 5. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| 6. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| 7. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 2 |
+| 8. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 9. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
+| 10. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 11. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 12. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 1 |
+| 13. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 14. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 15. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 16. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 17. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 18. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| 19. | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 1 |
 
 #### Statistic Summary
 

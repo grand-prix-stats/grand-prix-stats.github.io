@@ -22,22 +22,24 @@ collectionId: duncan
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 26 | R | 101 |   | Bill Vukovich 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 26 | R | 0.0 | 101 |   | Schroeder 🇺🇸 | [Andy Linden 🇺🇸](/f1/drivers/linden) | 23 | R |
+| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 26 | R | 0.0 | 101 |   | Schroeder 🇺🇸 | [Bob Scott 🇺🇸](/f1/drivers/bob_scott) | 23 | R |
+| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 26 | R | 0.0 | 101 |   | Schroeder 🇺🇸 | [George Fonder 🇺🇸](/f1/drivers/fonder) | 26 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **Maximum** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **75th Percentile** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **Median** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 26.000 |  | 101.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 6.000 |  |  | 78.000 |  |  | 303.000 |  |  |  | 72.000 |  |
+| **Mean μ (Average)** | 2.000 |  |  | 26.000 |  |  | 101.000 |  |  |  | 24.000 |  |
+| **Maximum** | 2.000 |  |  | 26.000 |  |  | 101.000 |  |  |  | 26.000 |  |
+| **75th Percentile** | 2.000 |  |  | 26.000 |  |  | 101.000 |  |  |  | 26.000 |  |
+| **Median** | 2.000 |  |  | 26.000 |  |  | 101.000 |  |  |  | 23.000 |  |
+| **25th Percentile** | 2.000 |  |  | 26.000 |  |  | 101.000 |  |  |  | 23.000 |  |
+| **Minimum** | 2.000 |  |  | 26.000 |  |  | 101.000 |  |  |  | 23.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 2.000 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.414 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -22,22 +22,22 @@ collectionId: heyer
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 11 | 1977 German Grand Prix 🇩🇪 | 1977-07-31 | 25 | F | 9 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1977 | 11 | 1977 German Grand Prix 🇩🇪 | 1977-07-31 | 25 | F | 0.0 | 9 |   | Penske 🇺🇸 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 12 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **Mean μ (Average)** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **Maximum** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **75th Percentile** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **Median** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **25th Percentile** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **Minimum** | 11.000 |  |  | 25.000 |  | 9.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Mean μ (Average)** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Maximum** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **75th Percentile** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Median** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **25th Percentile** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Minimum** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

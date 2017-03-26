@@ -1,6 +1,6 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2003 German Grand Prix 🇩🇪,12,20,62,Williams 🇬🇧,2003-08-03,12,,2003,Juan Pablo Montoya 🇨🇴
-2003 Hungarian Grand Prix 🇭🇺,13,20,66,Renault 🇫🇷,2003-08-24,13,,2003,Fernando Alonso 🇪🇸
-2003 Italian Grand Prix 🇮🇹,14,19,51,Ferrari 🇮🇹,2003-09-14,12,,2003,Michael Schumacher 🇩🇪
-2003 Japanese Grand Prix 🇯🇵,16,18,50,Ferrari 🇮🇹,2003-10-12,16,,2003,Rubens Barrichello 🇧🇷
-2003 United States Grand Prix 🇺🇸,15,20,69,Ferrari 🇮🇹,2003-09-28,11,,2003,Michael Schumacher 🇩🇪
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2003 German Grand Prix 🇩🇪,R,20,2003-08-03,12,2003,Jos Verstappen 🇳🇱,Minardi 🇮🇹,12,19,62,,0.0
+2003 Hungarian Grand Prix 🇭🇺,12,20,2003-08-24,13,2003,Jos Verstappen 🇳🇱,Minardi 🇮🇹,13,18,66,,0.0
+2003 Italian Grand Prix 🇮🇹,R,19,2003-09-14,12,2003,Jos Verstappen 🇳🇱,Minardi 🇮🇹,14,17,51,,0.0
+2003 Japanese Grand Prix 🇯🇵,15,18,2003-10-12,16,2003,Jos Verstappen 🇳🇱,Minardi 🇮🇹,16,17,50,,0.0
+2003 United States Grand Prix 🇺🇸,10,20,2003-09-28,11,2003,Jos Verstappen 🇳🇱,Minardi 🇮🇹,15,19,69,,0.0

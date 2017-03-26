@@ -24,7 +24,7 @@ collectionId: dallas
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1984 | 9 | 1984 Dallas Grand Prix 🇺🇸 | 1984-07-08 | 67 | 2:01:22.617 | Keke Rosberg 🇫🇮 | Williams 🇬🇧 |
+| 1984 | 9 | 1984 Dallas Grand Prix 🇺🇸 | 1984-07-08 | 67 | 2:01:22.617 | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | Williams 🇬🇧 |
 
 #### Statistic Summary
 

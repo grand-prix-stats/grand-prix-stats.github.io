@@ -22,22 +22,22 @@ collectionId: mackay-fraser
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1957 | 4 | 1957 French Grand Prix 🇫🇷 | 1957-07-07 | 12 | R | 24 |   | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1957 | 4 | 1957 French Grand Prix 🇫🇷 | 1957-07-07 | 12 | R | 0.0 | 24 |   | BRM 🇬🇧 | [Ron Flockhart 🇬🇧](/f1/drivers/flockhart) | 11 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **Mean μ (Average)** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **Maximum** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **75th Percentile** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **Median** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **Minimum** | 4.000 |  |  | 12.000 |  | 24.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Mean μ (Average)** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Maximum** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **75th Percentile** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Median** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **25th Percentile** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Minimum** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

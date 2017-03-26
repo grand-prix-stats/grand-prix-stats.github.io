@@ -22,22 +22,22 @@ collectionId: kladis
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 29 | R | 104 |   | Bill Vukovich 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 29 | R | 0.0 | 104 |   | Bromme 🇺🇸 | [Travis Webb 🇺🇸](/f1/drivers/webb) | 29 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **Maximum** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **75th Percentile** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **Median** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 29.000 |  | 104.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Mean μ (Average)** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Maximum** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **75th Percentile** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Median** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **25th Percentile** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Minimum** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

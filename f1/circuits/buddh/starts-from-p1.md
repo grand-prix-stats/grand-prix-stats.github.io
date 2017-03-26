@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 3 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
 
 #### Statistic Summary
 

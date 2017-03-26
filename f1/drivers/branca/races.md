@@ -22,24 +22,27 @@ collectionId: branca
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 17 | R | 3 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
-| 1950 | 5 | 1950 Belgian Grand Prix 🇧🇪 | 1950-06-18 | 11 | 10 | 29 |   | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
-| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | 1950-06-04 | 17 | 11 | 35 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1951 | 6 | 1951 German Grand Prix 🇩🇪 | 1951-07-29 | 17 | R | 0.0 | 3 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 16 | R |
+| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | 1950-06-04 | 17 | 11 | 0.0 | 35 |   | Maserati 🇮🇹 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 8 | 4 |
+| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | 1950-06-04 | 17 | 11 | 0.0 | 35 |   | Maserati 🇮🇹 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 12 | 5 |
+| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | 1950-06-04 | 17 | 11 | 0.0 | 35 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 11 | 6 |
+| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | 1950-06-04 | 17 | 11 | 0.0 | 35 |   | Maserati 🇮🇹 | [Nello Pagani 🇮🇹](/f1/drivers/pagani) | 15 | 7 |
+| 1950 | 4 | 1950 Swiss Grand Prix 🇨🇭 | 1950-06-04 | 17 | 11 | 0.0 | 35 |   | Maserati 🇮🇹 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 16 | 9 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 | 2 | 3 |  |  |  |
-| **Total Sum** | 15.000 |  |  | 45.000 | 21.000 | 67.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 15.000 | 10.500 | 22.333 |  |  |  |
-| **Maximum** | 6.000 |  |  | 17.000 | 11.000 | 35.000 |  |  |  |
-| **75th Percentile** | 6.000 |  |  | 17.000 | 11.000 | 35.000 |  |  |  |
-| **Median** | 5.000 |  |  | 17.000 | 11.000 | 29.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 11.000 | 10.000 | 3.000 |  |  |  |
-| **Minimum** | 4.000 |  |  | 11.000 | 10.000 | 3.000 |  |  |  |
-| **Variance** | 0.667 |  |  | 8.000 | 0.250 | 192.889 |  |  |  |
-| **Standard Deviation σ** | 0.816 |  |  | 2.828 | 0.500 | 13.888 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 | 5 | 6 | 6 |  |  |  | 6 | 5 |
+| **Total Sum** | 26.000 |  |  | 102.000 | 55.000 |  | 178.000 |  |  |  | 78.000 | 31.000 |
+| **Mean μ (Average)** | 4.333 |  |  | 17.000 | 11.000 |  | 29.667 |  |  |  | 13.000 | 6.200 |
+| **Maximum** | 6.000 |  |  | 17.000 | 11.000 |  | 35.000 |  |  |  | 16.000 | 9.000 |
+| **75th Percentile** | 4.000 |  |  | 17.000 | 11.000 |  | 35.000 |  |  |  | 16.000 | 7.000 |
+| **Median** | 4.000 |  |  | 17.000 | 11.000 |  | 35.000 |  |  |  | 15.000 | 6.000 |
+| **25th Percentile** | 4.000 |  |  | 17.000 | 11.000 |  | 35.000 |  |  |  | 11.000 | 5.000 |
+| **Minimum** | 4.000 |  |  | 17.000 | 11.000 |  | 3.000 |  |  |  | 8.000 | 4.000 |
+| **Variance** | 0.556 |  |  |  |  |  | 142.222 |  |  |  | 8.667 | 2.960 |
+| **Standard Deviation σ** | 0.745 |  |  |  |  |  | 11.926 |  |  |  | 2.944 | 1.720 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

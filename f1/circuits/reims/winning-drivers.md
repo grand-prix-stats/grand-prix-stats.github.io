@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 3 |
-| 2. | Jack Brabham 🇦🇺 | 2 |
-| 3. | Mike Hawthorn 🇬🇧 | 2 |
-| 4. | Giancarlo Baghetti 🇮🇹 | 1 |
-| 5. | Jim Clark 🇬🇧 | 1 |
-| 6. | Luigi Fagioli 🇮🇹 | 1 |
-| 7. | Peter Collins 🇬🇧 | 1 |
-| 8. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 2. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| 3. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 2 |
+| 4. | [Giancarlo Baghetti 🇮🇹](/f1/drivers/baghetti) | 1 |
+| 5. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 6. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 1 |
+| 7. | [Peter Collins 🇬🇧](/f1/drivers/collins) | 1 |
+| 8. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

@@ -24,8 +24,8 @@ collectionId: south_africa
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Prince George Circuit](/f1/circuits/george) | Eastern Cape Province | [South Africa](/f1/countries/south_africa) | 3 | Jim Clark 🇬🇧 | 2 |
-| [Kyalami](/f1/circuits/kyalami) | Midrand | [South Africa](/f1/countries/south_africa) | 20 | Niki Lauda 🇦🇹 | 3 |
+| [Prince George Circuit](/f1/circuits/george) | Eastern Cape Province | [South Africa](/f1/countries/south_africa) | 3 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 |
+| [Kyalami](/f1/circuits/kyalami) | Midrand | [South Africa](/f1/countries/south_africa) | 20 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
 
 #### Statistic Summary
 

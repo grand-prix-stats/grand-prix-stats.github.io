@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 208 |
-| 2. | Fernando Alonso 🇪🇸 | 12 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 208 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 12 |
 
 #### Statistic Summary
 

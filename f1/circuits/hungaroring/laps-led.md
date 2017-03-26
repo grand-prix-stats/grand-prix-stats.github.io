@@ -155,26 +155,26 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 344 |
-| 2. | Michael Schumacher 🇩🇪 | 228 |
-| 3. | Mika Häkkinen 🇫🇮 | 199 |
-| 4. | Fernando Alonso 🇪🇸 | 141 |
-| 5. | Sebastian Vettel 🇩🇪 | 98 |
-| 6. | Rubens Barrichello 🇧🇷 | 78 |
-| 7. | Damon Hill 🇬🇧 | 70 |
-| 8. | Mark Webber 🇦🇺 | 64 |
-| 9. | Felipe Massa 🇧🇷 | 60 |
-| 10. | Kimi Räikkönen 🇫🇮 | 57 |
-| 11. | Jacques Villeneuve 🇨🇦 | 52 |
-| 12. | Jenson Button 🇬🇧 | 46 |
-| 13. | Daniel Ricciardo 🇦🇺 | 32 |
-| 14. | Nico Rosberg 🇩🇪 | 13 |
-| 15. | Heikki Kovalainen 🇫🇮 | 10 |
-| 16. | Juan Pablo Montoya 🇨🇴 | 10 |
-| 17. | David Coulthard 🇬🇧 | 5 |
-| 18. | Romain Grosjean 🇫🇷 | 5 |
-| 19. | Heinz-Harald Frentzen 🇩🇪 | 4 |
-| 20. | Ralf Schumacher 🇩🇪 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 344 |
+| 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 228 |
+| 3. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 199 |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 141 |
+| 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 98 |
+| 6. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 78 |
+| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 70 |
+| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 64 |
+| 9. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 60 |
+| 10. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 57 |
+| 11. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 52 |
+| 12. | [Jenson Button 🇬🇧](/f1/drivers/button) | 46 |
+| 13. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 32 |
+| 14. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 13 |
+| 15. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 10 |
+| 16. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 10 |
+| 17. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 5 |
+| 18. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 5 |
+| 19. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 4 |
+| 20. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 1 |
 
 #### Statistic Summary
 

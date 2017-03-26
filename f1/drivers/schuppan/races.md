@@ -22,33 +22,27 @@ collectionId: schuppan
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 13 | 1977 Dutch Grand Prix 🇳🇱 | 1977-08-28 | 0 | F | 0 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1977 | 12 | 1977 Austrian Grand Prix 🇦🇹 | 1977-08-14 | 25 | 16 | 52 |   | Alan Jones 🇦🇺 | Shadow 🇬🇧 |
-| 1977 | 11 | 1977 German Grand Prix 🇩🇪 | 1977-07-31 | 19 | 7 | 46 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 23 | 12 | 66 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
-| 1975 | 7 | 1975 Swedish Grand Prix 🇸🇪 | 1975-06-08 | 26 | R | 47 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1974 | 11 | 1974 German Grand Prix 🇩🇪 | 1974-08-04 | 22 | R | 4 |   | Clay Regazzoni 🇨🇭 | Ferrari 🇮🇹 |
-| 1974 | 10 | 1974 British Grand Prix 🇬🇧 | 1974-07-20 | 0 | F | 0 |   | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
-| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07 | 0 | F | 0 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23 | 17 | D | 69 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1974 | 7 | 1974 Swedish Grand Prix 🇸🇪 | 1974-06-09 | 26 | D | 77 |   | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
-| 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26 | 25 | R | 4 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 14 | 15 | 82 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1977 | 13 | 1977 Dutch Grand Prix 🇳🇱 | 1977-08-28 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 22 | 12 |
+| 1977 | 12 | 1977 Austrian Grand Prix 🇦🇹 | 1977-08-14 | 25 | 16 | 0.0 | 52 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 13 | 15 |
+| 1977 | 11 | 1977 German Grand Prix 🇩🇪 | 1977-07-31 | 19 | 7 | 0.0 | 46 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 10 | 5 |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 23 | 12 | 0.0 | 66 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 8 | 8 |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 23 | 12 | 0.0 | 66 |   | Surtees 🇬🇧 | [Tony Trimmer 🇬🇧](/f1/drivers/trimmer) | 0 | F |
+| 1975 | 7 | 1975 Swedish Grand Prix 🇸🇪 | 1975-06-08 | 26 | R | 0.0 | 47 |   | Embassy Hill 🇬🇧 | [Tony Brise 🇬🇧](/f1/drivers/brise) | 17 | 6 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 12 |  |  | 12 | 4 | 12 |  |  |  |
-| **Total Sum** | 109.000 |  |  | 197.000 | 50.000 | 447.000 |  |  |  |
-| **Mean μ (Average)** | 9.083 |  |  | 16.417 | 12.500 | 37.250 |  |  |  |
-| **Maximum** | 13.000 |  |  | 26.000 | 16.000 | 82.000 |  |  |  |
-| **75th Percentile** | 11.000 |  |  | 25.000 | 16.000 | 69.000 |  |  |  |
-| **Median** | 10.000 |  |  | 22.000 | 15.000 | 47.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  | 14.000 | 12.000 | 4.000 |  |  |  |
-| **Minimum** | 5.000 |  |  |  | 7.000 |  |  |  |  |
-| **Variance** | 5.743 |  |  | 102.243 | 12.250 | 1015.021 |  |  |  |
-| **Standard Deviation σ** | 2.396 |  |  | 10.112 | 3.500 | 31.859 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 | 4 | 6 | 6 |  |  |  | 6 | 5 |
+| **Total Sum** | 63.000 |  |  | 116.000 | 47.000 |  | 277.000 |  |  |  | 70.000 | 46.000 |
+| **Mean μ (Average)** | 10.500 |  |  | 19.333 | 11.750 |  | 46.167 |  |  |  | 11.667 | 9.200 |
+| **Maximum** | 13.000 |  |  | 26.000 | 16.000 |  | 66.000 |  |  |  | 22.000 | 15.000 |
+| **75th Percentile** | 12.000 |  |  | 25.000 | 16.000 |  | 66.000 |  |  |  | 17.000 | 12.000 |
+| **Median** | 11.000 |  |  | 23.000 | 12.000 |  | 52.000 |  |  |  | 13.000 | 8.000 |
+| **25th Percentile** | 10.000 |  |  | 19.000 | 12.000 |  | 46.000 |  |  |  | 8.000 | 6.000 |
+| **Minimum** | 7.000 |  |  |  | 7.000 |  |  |  |  |  |  | 5.000 |
+| **Variance** | 3.583 |  |  | 79.556 | 10.188 |  | 492.139 |  |  |  | 48.222 | 14.160 |
+| **Standard Deviation σ** | 1.893 |  |  | 8.919 | 3.192 |  | 22.184 |  |  |  | 6.944 | 3.763 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -139,22 +139,22 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 4 |
-| 2. | Bill Vukovich 🇺🇸 | 1 |
-| 3. | Dick Rathmann 🇺🇸 | 1 |
-| 4. | Duke Nalon 🇺🇸 | 1 |
-| 5. | Eddie Sachs 🇺🇸 | 1 |
-| 6. | Fred Agabashian 🇺🇸 | 1 |
-| 7. | Jack McGrath 🇺🇸 | 1 |
-| 8. | Jarno Trulli 🇮🇹 | 1 |
-| 9. | Jerry Hoyt 🇺🇸 | 1 |
-| 10. | Johnny Thomson 🇺🇸 | 1 |
-| 11. | Kimi Räikkönen 🇫🇮 | 1 |
-| 12. | Lewis Hamilton 🇬🇧 | 1 |
-| 13. | Pat Flaherty 🇺🇸 | 1 |
-| 14. | Pat O'Connor 🇺🇸 | 1 |
-| 15. | Rubens Barrichello 🇧🇷 | 1 |
-| 16. | Walt Faulkner 🇺🇸 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| 2. | [Bill Vukovich 🇺🇸](/f1/drivers/vukovich) | 1 |
+| 3. | [Dick Rathmann 🇺🇸](/f1/drivers/dick_rathmann) | 1 |
+| 4. | [Duke Nalon 🇺🇸](/f1/drivers/nalon) | 1 |
+| 5. | [Eddie Sachs 🇺🇸](/f1/drivers/sachs) | 1 |
+| 6. | [Fred Agabashian 🇺🇸](/f1/drivers/agabashian) | 1 |
+| 7. | [Jack McGrath 🇺🇸](/f1/drivers/mcgrath) | 1 |
+| 8. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| 9. | [Jerry Hoyt 🇺🇸](/f1/drivers/hoyt) | 1 |
+| 10. | [Johnny Thomson 🇺🇸](/f1/drivers/thomson) | 1 |
+| 11. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 12. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 13. | [Pat Flaherty 🇺🇸](/f1/drivers/flaherty) | 1 |
+| 14. | [Pat O'Connor 🇺🇸](/f1/drivers/connor) | 1 |
+| 15. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 16. | [Walt Faulkner 🇺🇸](/f1/drivers/faulkner) | 1 |
 
 #### Statistic Summary
 

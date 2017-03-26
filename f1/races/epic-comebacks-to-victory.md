@@ -160,31 +160,31 @@ The drivers on this list of epic comeback races started the race outside of the 
 
 | # | Driver | Positions Gained | Grid | Final Position | Year | Round | Race |
 |--|--|--|--|--|--|--|--|
-| 1. | John Watson 🇬🇧 | 21 | 22nd | 1st | 1983 | 2 | United States Grand Prix West |
-| 2. | Bill Vukovich 🇺🇸 | 18 | 19th | 1st | 1954 | 2 | Indianapolis 500 |
-| 3. | Rubens Barrichello 🇧🇷 | 17 | 18th | 1st | 2000 | 11 | German Grand Prix |
-| 4. | Kimi Räikkönen 🇫🇮 | 16 | 17th | 1st | 2005 | 18 | Japanese Grand Prix |
-| 5. | John Watson 🇬🇧 | 16 | 17th | 1st | 1982 | 7 | Detroit Grand Prix |
-| 6. | Michael Schumacher 🇩🇪 | 15 | 16th | 1st | 1995 | 11 | Belgian Grand Prix |
-| 7. | Jackie Stewart 🇬🇧 | 15 | 16th | 1st | 1973 | 3 | South African Grand Prix |
-| 8. | Fernando Alonso 🇪🇸 | 14 | 15th | 1st | 2008 | 15 | Singapore Grand Prix |
-| 9. | Jenson Button 🇬🇧 | 13 | 14th | 1st | 2006 | 13 | Hungarian Grand Prix |
-| 10. | Johnny Herbert 🇬🇧 | 13 | 14th | 1st | 1999 | 14 | European Grand Prix |
-| 11. | Olivier Panis 🇫🇷 | 13 | 14th | 1st | 1996 | 6 | Monaco Grand Prix |
-| 12. | Alan Jones 🇦🇺 | 13 | 14th | 1st | 1977 | 12 | Austrian Grand Prix |
-| 13. | Bob Sweikert 🇺🇸 | 13 | 14th | 1st | 1955 | 3 | Indianapolis 500 |
-| 14. | Alain Prost 🇫🇷 | 12 | 13th | 1st | 1990 | 6 | Mexican Grand Prix |
-| 15. | Jim Clark 🇬🇧 | 12 | 13th | 1st | 1962 | 3 | Belgian Grand Prix |
-| 16. | Bruce McLaren 🇳🇿 | 12 | 13th | 1st | 1960 | 1 | Argentine Grand Prix |
-| 17. | Sam Hanks 🇺🇸 | 12 | 13th | 1st | 1957 | 3 | Indianapolis 500 |
-| 18. | Nigel Mansell 🇬🇧 | 11 | 12th | 1st | 1989 | 10 | Hungarian Grand Prix |
-| 19. | Ronnie Peterson 🇸🇪 | 11 | 12th | 1st | 1978 | 3 | South African Grand Prix |
-| 20. | Giancarlo Baghetti 🇮🇹 | 11 | 12th | 1st | 1961 | 4 | French Grand Prix |
-| 21. | David Coulthard 🇬🇧 | 10 | 11th | 1st | 2003 | 1 | Australian Grand Prix |
-| 22. | Jody Scheckter 🇿🇦 | 10 | 11th | 1st | 1977 | 1 | Argentine Grand Prix |
-| 23. | Jochen Mass 🇩🇪 | 10 | 11th | 1st | 1975 | 4 | Spanish Grand Prix |
-| 24. | Peter Gethin 🇬🇧 | 10 | 11th | 1st | 1971 | 9 | Italian Grand Prix |
-| 25. | Fernando Alonso 🇪🇸 | 10 | 11th | 1st | 2012 | 8 | European Grand Prix |
+| 1. | [John Watson 🇬🇧](/f1/drivers/watson) | 21 | 22nd | 1st | 1983 | 2 | United States Grand Prix West |
+| 2. | [Bill Vukovich 🇺🇸](/f1/drivers/vukovich) | 18 | 19th | 1st | 1954 | 2 | Indianapolis 500 |
+| 3. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 17 | 18th | 1st | 2000 | 11 | German Grand Prix |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 16 | 17th | 1st | 2005 | 18 | Japanese Grand Prix |
+| 5. | [John Watson 🇬🇧](/f1/drivers/watson) | 16 | 17th | 1st | 1982 | 7 | Detroit Grand Prix |
+| 6. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 15 | 16th | 1st | 1995 | 11 | Belgian Grand Prix |
+| 7. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 15 | 16th | 1st | 1973 | 3 | South African Grand Prix |
+| 8. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 14 | 15th | 1st | 2008 | 15 | Singapore Grand Prix |
+| 9. | [Jenson Button 🇬🇧](/f1/drivers/button) | 13 | 14th | 1st | 2006 | 13 | Hungarian Grand Prix |
+| 10. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 13 | 14th | 1st | 1999 | 14 | European Grand Prix |
+| 11. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 13 | 14th | 1st | 1996 | 6 | Monaco Grand Prix |
+| 12. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 13 | 14th | 1st | 1977 | 12 | Austrian Grand Prix |
+| 13. | [Bob Sweikert 🇺🇸](/f1/drivers/sweikert) | 13 | 14th | 1st | 1955 | 3 | Indianapolis 500 |
+| 14. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 12 | 13th | 1st | 1990 | 6 | Mexican Grand Prix |
+| 15. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 12 | 13th | 1st | 1962 | 3 | Belgian Grand Prix |
+| 16. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 12 | 13th | 1st | 1960 | 1 | Argentine Grand Prix |
+| 17. | [Sam Hanks 🇺🇸](/f1/drivers/hanks) | 12 | 13th | 1st | 1957 | 3 | Indianapolis 500 |
+| 18. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 11 | 12th | 1st | 1989 | 10 | Hungarian Grand Prix |
+| 19. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 11 | 12th | 1st | 1978 | 3 | South African Grand Prix |
+| 20. | [Giancarlo Baghetti 🇮🇹](/f1/drivers/baghetti) | 11 | 12th | 1st | 1961 | 4 | French Grand Prix |
+| 21. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 10 | 11th | 1st | 2003 | 1 | Australian Grand Prix |
+| 22. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 10 | 11th | 1st | 1977 | 1 | Argentine Grand Prix |
+| 23. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 10 | 11th | 1st | 1975 | 4 | Spanish Grand Prix |
+| 24. | [Peter Gethin 🇬🇧](/f1/drivers/gethin) | 10 | 11th | 1st | 1971 | 9 | Italian Grand Prix |
+| 25. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 10 | 11th | 1st | 2012 | 8 | European Grand Prix |
 
 #### Statistic Summary
 

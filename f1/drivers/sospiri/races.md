@@ -22,22 +22,22 @@ collectionId: sospiri
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1997 | 1 | 1997 Australian Grand Prix 🇦🇺 | 1997-03-09 | 23 | F | 0 |   | David Coulthard 🇬🇧 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1997 | 1 | 1997 Australian Grand Prix 🇦🇺 | 1997-03-09 | 23 | F | 0.0 | 0 |   | Lola 🇬🇧 | [Ricardo Rosset 🇧🇷](/f1/drivers/rosset) | 24 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **Maximum** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **Median** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  | 23.000 |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Mean μ (Average)** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Maximum** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **75th Percentile** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Median** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **25th Percentile** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Minimum** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

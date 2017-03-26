@@ -123,18 +123,18 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Niki Lauda 🇦🇹 | 3 |
-| 2. | Carlos Reutemann 🇦🇷 | 2 |
-| 3. | Jody Scheckter 🇿🇦 | 2 |
-| 4. | Patrick Depailler 🇫🇷 | 2 |
-| 5. | Ronnie Peterson 🇸🇪 | 2 |
-| 6. | Clay Regazzoni 🇨🇭 | 1 |
-| 7. | Denny Hulme 🇳🇿 | 1 |
-| 8. | François Cevert 🇫🇷 | 1 |
-| 9. | Jacques Laffite 🇫🇷 | 1 |
-| 10. | James Hunt 🇬🇧 | 1 |
-| 11. | Jochen Mass 🇩🇪 | 1 |
-| 12. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 3. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
+| 4. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 2 |
+| 5. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 6. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 7. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 8. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| 9. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 10. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 11. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
+| 12. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

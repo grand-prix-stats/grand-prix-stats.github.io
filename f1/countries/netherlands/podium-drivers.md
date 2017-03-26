@@ -271,55 +271,55 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Jim Clark 🇬🇧 | 6 |
-| 2. | Niki Lauda 🇦🇹 | 6 |
-| 3. | Jackie Stewart 🇬🇧 | 5 |
-| 4. | Clay Regazzoni 🇨🇭 | 4 |
-| 5. | Jack Brabham 🇦🇺 | 4 |
-| 6. | Alain Prost 🇫🇷 | 3 |
-| 7. | Graham Hill 🇬🇧 | 3 |
-| 8. | Jacques Laffite 🇫🇷 | 3 |
-| 9. | James Hunt 🇬🇧 | 3 |
-| 10. | Nelson Piquet 🇧🇷 | 3 |
-| 11. | Alan Jones 🇦🇺 | 2 |
-| 12. | Alberto Ascari 🇮🇹 | 2 |
-| 13. | Dan Gurney 🇺🇸 | 2 |
-| 14. | Jacky Ickx 🇧🇪 | 2 |
-| 15. | Jody Scheckter 🇿🇦 | 2 |
-| 16. | John Surtees 🇬🇧 | 2 |
-| 17. | Mario Andretti 🇺🇸 | 2 |
-| 18. | Nino Farina 🇮🇹 | 2 |
-| 19. | Pedro Rodríguez 🇲🇽 | 2 |
-| 20. | Phil Hill 🇺🇸 | 2 |
-| 21. | René Arnoux 🇫🇷 | 2 |
-| 22. | Stirling Moss 🇬🇧 | 2 |
-| 23. | Ayrton Senna 🇧🇷 | 1 |
-| 24. | Chris Amon 🇳🇿 | 1 |
-| 25. | Denny Hulme 🇳🇿 | 1 |
-| 26. | Didier Pironi 🇫🇷 | 1 |
-| 27. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 28. | Felice Bonetto 🇮🇹 | 1 |
-| 29. | François Cevert 🇫🇷 | 1 |
-| 30. | Harry Schell 🇺🇸 | 1 |
-| 31. | Innes Ireland 🇬🇧 | 1 |
-| 32. | Jean Behra 🇫🇷 | 1 |
-| 33. | Jean-Pierre Beltoise 🇫🇷 | 1 |
-| 34. | Jo Bonnier 🇸🇪 | 1 |
-| 35. | Jo Siffert 🇨🇭 | 1 |
-| 36. | Jochen Rindt 🇦🇹 | 1 |
-| 37. | John Watson 🇬🇧 | 1 |
-| 38. | José Froilán González 🇦🇷 | 1 |
-| 39. | Juan Fangio 🇦🇷 | 1 |
-| 40. | Keke Rosberg 🇫🇮 | 1 |
-| 41. | Luigi Musso 🇮🇹 | 1 |
-| 42. | Luigi Villoresi 🇮🇹 | 1 |
-| 43. | Masten Gregory 🇺🇸 | 1 |
-| 44. | Nigel Mansell 🇬🇧 | 1 |
-| 45. | Patrick Tambay 🇫🇷 | 1 |
-| 46. | Peter Arundell 🇬🇧 | 1 |
-| 47. | Ronnie Peterson 🇸🇪 | 1 |
-| 48. | Trevor Taylor 🇬🇧 | 1 |
-| 49. | Wolfgang von Trips 🇩🇪 | 1 |
+| 1. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 6 |
+| 2. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 6 |
+| 3. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 5 |
+| 4. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 4 |
+| 5. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 4 |
+| 6. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 7. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 3 |
+| 8. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 3 |
+| 9. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 3 |
+| 10. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 11. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 12. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| 13. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 2 |
+| 14. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 |
+| 15. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
+| 16. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 2 |
+| 17. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 18. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 |
+| 19. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 2 |
+| 20. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 2 |
+| 21. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 2 |
+| 22. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 23. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 24. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| 25. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 26. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
+| 27. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 28. | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 1 |
+| 29. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| 30. | [Harry Schell 🇺🇸](/f1/drivers/schell) | 1 |
+| 31. | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| 32. | [Jean Behra 🇫🇷](/f1/drivers/behra) | 1 |
+| 33. | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 1 |
+| 34. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 1 |
+| 35. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| 36. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 37. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 38. | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| 39. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 40. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 41. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
+| 42. | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 1 |
+| 43. | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 1 |
+| 44. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 45. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 46. | [Peter Arundell 🇬🇧](/f1/drivers/arundell) | 1 |
+| 47. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
+| 48. | [Trevor Taylor 🇬🇧](/f1/drivers/trevor_taylor) | 1 |
+| 49. | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 1 |
 
 #### Statistic Summary
 

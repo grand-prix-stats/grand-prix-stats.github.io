@@ -24,7 +24,7 @@ collectionId: sweden
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Scandinavian Raceway](/f1/circuits/anderstorp) | Anderstorp | [Sweden](/f1/countries/sweden) | 6 | Niki Lauda 🇦🇹 | 2 |
+| [Scandinavian Raceway](/f1/circuits/anderstorp) | Anderstorp | [Sweden](/f1/countries/sweden) | 6 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
 
 #### Statistic Summary
 

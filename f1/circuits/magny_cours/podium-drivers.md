@@ -163,28 +163,28 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 11 |
-| 2. | Damon Hill 🇬🇧 | 4 |
-| 3. | Kimi Räikkönen 🇫🇮 | 4 |
-| 4. | Rubens Barrichello 🇧🇷 | 4 |
-| 5. | David Coulthard 🇬🇧 | 3 |
-| 6. | Felipe Massa 🇧🇷 | 3 |
-| 7. | Fernando Alonso 🇪🇸 | 3 |
-| 8. | Mika Häkkinen 🇫🇮 | 3 |
-| 9. | Alain Prost 🇫🇷 | 2 |
-| 10. | Eddie Irvine 🇬🇧 | 2 |
-| 11. | Heinz-Harald Frentzen 🇩🇪 | 2 |
-| 12. | Nigel Mansell 🇬🇧 | 2 |
-| 13. | Ralf Schumacher 🇩🇪 | 2 |
-| 14. | Ayrton Senna 🇧🇷 | 1 |
-| 15. | Gerhard Berger 🇦🇹 | 1 |
-| 16. | Jacques Villeneuve 🇨🇦 | 1 |
-| 17. | Jarno Trulli 🇮🇹 | 1 |
-| 18. | Jean Alesi 🇫🇷 | 1 |
-| 19. | Juan Pablo Montoya 🇨🇴 | 1 |
-| 20. | Lewis Hamilton 🇬🇧 | 1 |
-| 21. | Martin Brundle 🇬🇧 | 1 |
-| 22. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 11 |
+| 2. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 4 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 |
+| 4. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 4 |
+| 5. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 3 |
+| 6. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| 7. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 8. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 3 |
+| 9. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 10. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 2 |
+| 11. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 2 |
+| 12. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 13. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
+| 14. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 15. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 16. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 17. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| 18. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
+| 19. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 20. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 21. | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 1 |
+| 22. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

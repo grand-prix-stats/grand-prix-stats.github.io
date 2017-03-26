@@ -22,22 +22,10 @@ collectionId: rollinson
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 5 | 1965 British Grand Prix 🇬🇧 | 1965-07-10 | 0 | F | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 5.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 5.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 5.000 |  |  |  |  |  |  |  |  |
-| **Median** | 5.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 5.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 5.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

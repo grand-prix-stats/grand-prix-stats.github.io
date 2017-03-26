@@ -22,22 +22,23 @@ collectionId: milhoux
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1956 | 7 | 1956 German Grand Prix 🇩🇪 | 1956-08-05 | 21 | R | 15 |   | Juan Fangio 🇦🇷 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1956 | 7 | 1956 German Grand Prix 🇩🇪 | 1956-08-05 | 21 | R | 0.0 | 15 |   | Gordini 🇫🇷 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 15 | R |
+| 1956 | 7 | 1956 German Grand Prix 🇩🇪 | 1956-08-05 | 21 | R | 0.0 | 15 |   | Gordini 🇫🇷 | [André Pilette 🇧🇪](/f1/drivers/andre_pilette) | 0 | W |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **Mean μ (Average)** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **Maximum** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **Median** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **Minimum** | 7.000 |  |  | 21.000 |  | 15.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 14.000 |  |  | 42.000 |  |  | 30.000 |  |  |  | 15.000 |  |
+| **Mean μ (Average)** | 7.000 |  |  | 21.000 |  |  | 15.000 |  |  |  | 7.500 |  |
+| **Maximum** | 7.000 |  |  | 21.000 |  |  | 15.000 |  |  |  | 15.000 |  |
+| **75th Percentile** | 7.000 |  |  | 21.000 |  |  | 15.000 |  |  |  | 15.000 |  |
+| **Median** | 7.000 |  |  | 21.000 |  |  | 15.000 |  |  |  | 15.000 |  |
+| **25th Percentile** | 7.000 |  |  | 21.000 |  |  | 15.000 |  |  |  |  |  |
+| **Minimum** | 7.000 |  |  | 21.000 |  |  | 15.000 |  |  |  |  |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 56.250 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 7.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

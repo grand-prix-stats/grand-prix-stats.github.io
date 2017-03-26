@@ -1,4 +1,4 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2001 Italian Grand Prix 🇮🇹,15,20,52,Williams 🇬🇧,2001-09-16,12,,2001,Juan Pablo Montoya 🇨🇴
-2001 Japanese Grand Prix 🇯🇵,17,19,42,Ferrari 🇮🇹,2001-10-14,R,,2001,Michael Schumacher 🇩🇪
-2001 United States Grand Prix 🇺🇸,16,21,72,McLaren 🇬🇧,2001-09-30,14,,2001,Mika Häkkinen 🇫🇮
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2001 Italian Grand Prix 🇮🇹,R,20,2001-09-16,12,2001,Heinz-Harald Frentzen 🇩🇪,Prost 🇫🇷,15,12,52,,0.0
+2001 Japanese Grand Prix 🇯🇵,12,19,2001-10-14,R,2001,Heinz-Harald Frentzen 🇩🇪,Prost 🇫🇷,17,15,42,,0.0
+2001 United States Grand Prix 🇺🇸,10,21,2001-09-30,14,2001,Heinz-Harald Frentzen 🇩🇪,Prost 🇫🇷,16,15,72,,0.0

@@ -24,9 +24,9 @@ collectionId: portugal
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Autódromo do Estoril](/f1/circuits/estoril) | Estoril | [Portugal](/f1/countries/portugal) | 13 | Nigel Mansell 🇬🇧 | 3 |
-| [Monsanto Park Circuit](/f1/circuits/monsanto) | Lisbon | [Portugal](/f1/countries/portugal) | 1 | Stirling Moss 🇬🇧 | 1 |
-| [Circuito da Boavista](/f1/circuits/boavista) | Oporto | [Portugal](/f1/countries/portugal) | 2 | Jack Brabham 🇦🇺 | 1 |
+| [Autódromo do Estoril](/f1/circuits/estoril) | Estoril | [Portugal](/f1/countries/portugal) | 13 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| [Monsanto Park Circuit](/f1/circuits/monsanto) | Lisbon | [Portugal](/f1/countries/portugal) | 1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| [Circuito da Boavista](/f1/circuits/boavista) | Oporto | [Portugal](/f1/countries/portugal) | 2 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
 
 #### Statistic Summary
 

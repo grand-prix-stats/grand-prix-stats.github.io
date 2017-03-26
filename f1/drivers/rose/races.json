@@ -1,26 +1,77 @@
 [
     {
+        "constructor": "Deidt 🇺🇸",
         "date": "1951-05-30",
         "final_position": "R",
         "grid": 5,
         "laps_completed": 126,
         "name": "1951 Indianapolis 500 🇺🇸",
+        "points": 0.0,
         "round": 2,
         "season": 1951,
-        "time": null,
-        "winning_constructor": "Kurtis Kraft 🇺🇸",
-        "winning_driver": "Lee Wallard 🇺🇸"
+        "teammate": "Duane Carter 🇺🇸",
+        "teammate_final_position": "8",
+        "teammate_grid": 4,
+        "time": null
     },
     {
+        "constructor": "Deidt 🇺🇸",
+        "date": "1951-05-30",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 126,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "points": 0.0,
+        "round": 2,
+        "season": 1951,
+        "teammate": "Tony Bettenhausen 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
+        "time": null
+    },
+    {
+        "constructor": "Deidt 🇺🇸",
+        "date": "1951-05-30",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 126,
+        "name": "1951 Indianapolis 500 🇺🇸",
+        "points": 0.0,
+        "round": 2,
+        "season": 1951,
+        "teammate": "Mack Hellings 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 23,
+        "time": null
+    },
+    {
+        "constructor": "Deidt 🇺🇸",
         "date": "1950-05-30",
         "final_position": "3",
         "grid": 3,
         "laps_completed": 137,
         "name": "1950 Indianapolis 500 🇺🇸",
+        "points": 4.0,
         "round": 3,
         "season": 1950,
-        "time": null,
-        "winning_constructor": "Kurtis Kraft 🇺🇸",
-        "winning_driver": "Johnnie Parsons 🇺🇸"
+        "teammate": "Bill Holland 🇺🇸",
+        "teammate_final_position": "2",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "Deidt 🇺🇸",
+        "date": "1950-05-30",
+        "final_position": "3",
+        "grid": 3,
+        "laps_completed": 137,
+        "name": "1950 Indianapolis 500 🇺🇸",
+        "points": 4.0,
+        "round": 3,
+        "season": 1950,
+        "teammate": "Tony Bettenhausen 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 8,
+        "time": null
     }
 ]

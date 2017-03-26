@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Ensign 🇬🇧",
         "date": "1981-03-29",
         "final_position": "W",
         "grid": 0,
         "laps_completed": 0,
         "name": "1981 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
         "round": 2,
         "season": 1981,
-        "time": null,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "Marc Surer 🇨🇭",
+        "teammate_final_position": "4",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

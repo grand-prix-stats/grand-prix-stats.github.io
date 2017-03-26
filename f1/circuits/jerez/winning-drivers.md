@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 2 |
-| 2. | Ayrton Senna 🇧🇷 | 2 |
-| 3. | Michael Schumacher 🇩🇪 | 1 |
-| 4. | Mika Häkkinen 🇫🇮 | 1 |
-| 5. | Nigel Mansell 🇬🇧 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 4. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
 
 #### Statistic Summary
 

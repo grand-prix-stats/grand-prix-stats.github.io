@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 2 |
-| 2. | José Froilán González 🇦🇷 | 1 |
-| 3. | Luigi Musso 🇮🇹 | 1 |
-| 4. | Mike Hawthorn 🇬🇧 | 1 |
-| 5. | Nino Farina 🇮🇹 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
+| 2. | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| 3. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
+| 4. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 5. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
 
 #### Statistic Summary
 

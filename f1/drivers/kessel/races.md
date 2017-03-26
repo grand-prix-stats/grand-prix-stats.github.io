@@ -22,27 +22,26 @@ collectionId: kessel
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
-| 1976 | 11 | 1976 Austrian Grand Prix 🇦🇹 | 1976-08-15 | 25 | N | 44 |   | John Watson 🇬🇧 | Penske 🇺🇸 |
-| 1976 | 8 | 1976 French Grand Prix 🇫🇷 | 1976-07-04 | 0 | F | 0 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
-| 1976 | 7 | 1976 Swedish Grand Prix 🇸🇪 | 1976-06-13 | 26 | R | 5 |   | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
-| 1976 | 5 | 1976 Belgian Grand Prix 🇧🇪 | 1976-05-16 | 23 | 12 | 63 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1976 | 4 | 1976 Spanish Grand Prix 🇪🇸 | 1976-05-02 | 0 | F | 0 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1976 | 11 | 1976 Austrian Grand Prix 🇦🇹 | 1976-08-15 | 25 | N | 0.0 | 44 |   | Brabham-Ford 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 24 | 12 |
+| 1976 | 8 | 1976 French Grand Prix 🇫🇷 | 1976-07-04 | 0 | F | 0.0 | 0 |   | Brabham-Ford 🇬🇧 | [Damien Magee 🇬🇧](/f1/drivers/magee) | 0 | F |
+| 1976 | 7 | 1976 Swedish Grand Prix 🇸🇪 | 1976-06-13 | 26 | R | 0.0 | 5 |   | Brabham-Ford 🇬🇧 | [Jac Nelleman 🇩🇰](/f1/drivers/nelleman) | 0 | F |
+| 1976 | 5 | 1976 Belgian Grand Prix 🇧🇪 | 1976-05-16 | 23 | 12 | 0.0 | 63 |   | Brabham-Ford 🇬🇧 | [Patrick Nève 🇧🇪](/f1/drivers/neve) | 19 | R |
+| 1976 | 4 | 1976 Spanish Grand Prix 🇪🇸 | 1976-05-02 | 0 | F | 0.0 | 0 |   | Brabham-Ford 🇬🇧 | [Emilio de Villota 🇪🇸](/f1/drivers/villota) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 6 |  |  | 6 | 1 | 6 |  |  |  |
-| **Total Sum** | 49.000 |  |  | 74.000 | 12.000 | 112.000 |  |  |  |
-| **Mean μ (Average)** | 8.167 |  |  | 12.333 | 12.000 | 18.667 |  |  |  |
-| **Maximum** | 14.000 |  |  | 26.000 | 12.000 | 63.000 |  |  |  |
-| **75th Percentile** | 11.000 |  |  | 25.000 | 12.000 | 44.000 |  |  |  |
-| **Median** | 8.000 |  |  | 23.000 | 12.000 | 5.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  |  | 12.000 |  |  |  |  |
-| **Minimum** | 4.000 |  |  |  | 12.000 |  |  |  |  |
-| **Variance** | 11.806 |  |  | 152.889 |  | 639.889 |  |  |  |
-| **Standard Deviation σ** | 3.436 |  |  | 12.365 |  | 25.296 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 5 |  |  | 5 | 1 | 5 | 5 |  |  |  | 5 | 1 |
+| **Total Sum** | 35.000 |  |  | 74.000 | 12.000 |  | 112.000 |  |  |  | 43.000 | 12.000 |
+| **Mean μ (Average)** | 7.000 |  |  | 14.800 | 12.000 |  | 22.400 |  |  |  | 8.600 | 12.000 |
+| **Maximum** | 11.000 |  |  | 26.000 | 12.000 |  | 63.000 |  |  |  | 24.000 | 12.000 |
+| **75th Percentile** | 8.000 |  |  | 25.000 | 12.000 |  | 44.000 |  |  |  | 19.000 | 12.000 |
+| **Median** | 7.000 |  |  | 23.000 | 12.000 |  | 5.000 |  |  |  |  | 12.000 |
+| **25th Percentile** | 5.000 |  |  |  | 12.000 |  |  |  |  |  |  | 12.000 |
+| **Minimum** | 4.000 |  |  |  | 12.000 |  |  |  |  |  |  | 12.000 |
+| **Variance** | 6.000 |  |  | 146.960 |  |  | 684.240 |  |  |  | 113.440 |  |
+| **Standard Deviation σ** | 2.449 |  |  | 12.123 |  |  | 26.158 |  |  |  | 10.651 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

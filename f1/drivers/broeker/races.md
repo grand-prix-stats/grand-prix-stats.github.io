@@ -22,22 +22,22 @@ collectionId: broeker
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 8 | 1963 United States Grand Prix 🇺🇸 | 1963-10-06 | 21 | 7 | 88 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1963 | 8 | 1963 United States Grand Prix 🇺🇸 | 1963-10-06 | 21 | 7 | 0.0 | 88 |   | Stebro 🇨🇦 | [Ernie de Vos 🇳🇱](/f1/drivers/vos) | 0 | W |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **Maximum** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **Median** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **25th Percentile** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **Minimum** | 8.000 |  |  | 21.000 | 7.000 | 88.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **Mean μ (Average)** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **Maximum** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **75th Percentile** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **Median** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **25th Percentile** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **Minimum** | 8.000 |  |  | 21.000 | 7.000 |  | 88.000 |  |  |  |  |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

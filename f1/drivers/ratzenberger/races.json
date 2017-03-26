@@ -1,38 +1,47 @@
 [
     {
+        "constructor": "Simtek 🇬🇧",
         "date": "1994-05-01",
         "final_position": "W",
         "grid": 0,
         "laps_completed": 0,
         "name": "1994 San Marino Grand Prix 🇮🇹",
+        "points": 0.0,
         "round": 3,
         "season": 1994,
-        "time": null,
-        "winning_constructor": "Benetton 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "David Brabham 🇦🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 24,
+        "time": null
     },
     {
+        "constructor": "Simtek 🇬🇧",
         "date": "1994-04-17",
         "final_position": "11",
         "grid": 26,
         "laps_completed": 78,
         "name": "1994 Pacific Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 2,
         "season": 1994,
-        "time": null,
-        "winning_constructor": "Benetton 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "David Brabham 🇦🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 25,
+        "time": null
     },
     {
+        "constructor": "Simtek 🇬🇧",
         "date": "1994-03-27",
         "final_position": "F",
         "grid": 27,
         "laps_completed": 0,
         "name": "1994 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
         "round": 1,
         "season": 1994,
-        "time": null,
-        "winning_constructor": "Benetton 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
+        "teammate": "David Brabham 🇦🇺",
+        "teammate_final_position": "12",
+        "teammate_grid": 26,
+        "time": null
     }
 ]

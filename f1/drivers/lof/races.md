@@ -22,22 +22,23 @@ collectionId: lof
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | R | 70 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | R | 0.0 | 70 |   | HWM 🇬🇧 | [Duncan Hamilton 🇬🇧](/f1/drivers/duncan_hamilton) | 10 | 7 |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | R | 0.0 | 70 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 9 | 8 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **Mean μ (Average)** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **Maximum** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **Median** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **Minimum** | 7.000 |  |  | 14.000 |  | 70.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 14.000 |  |  | 28.000 |  |  | 140.000 |  |  |  | 19.000 | 15.000 |
+| **Mean μ (Average)** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 9.500 | 7.500 |
+| **Maximum** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
+| **75th Percentile** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
+| **Median** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
+| **25th Percentile** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 9.000 | 7.000 |
+| **Minimum** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 9.000 | 7.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 | 0.250 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 | 0.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

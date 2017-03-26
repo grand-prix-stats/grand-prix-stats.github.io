@@ -22,29 +22,25 @@ collectionId: wilds
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1975 | 2 | 1975 Brazilian Grand Prix 🇧🇷 | 1975-01-26 | 22 | R | 22 |   | Carlos Pace 🇧🇷 | Brabham 🇬🇧 |
-| 1975 | 1 | 1975 Argentine Grand Prix 🇦🇷 | 1975-01-12 | 22 | R | 24 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
-| 1974 | 15 | 1974 United States Grand Prix 🇺🇸 | 1974-10-06 | 22 | N | 50 |   | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
-| 1974 | 14 | 1974 Canadian Grand Prix 🇨🇦 | 1974-09-22 | 0 | F | 0 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
-| 1974 | 13 | 1974 Italian Grand Prix 🇮🇹 | 1974-09-08 | 0 | F | 0 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18 | 0 | F | 0 |   | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
-| 1974 | 10 | 1974 British Grand Prix 🇬🇧 | 1974-07-20 | 0 | F | 0 |   | Jody Scheckter 🇿🇦 | Tyrrell 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Tom Pryce 🇬🇧](/f1/drivers/pryce) | 20 | 4 |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 24 | 9 |
+| 1974 | 10 | 1974 British Grand Prix 🇬🇧 | 1974-07-20 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 9 | R |
+| 1974 | 10 | 1974 British Grand Prix 🇬🇧 | 1974-07-20 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 16 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 8 |  |  | 8 |  | 8 |  |  |  |
-| **Total Sum** | 76.000 |  |  | 66.000 |  | 96.000 |  |  |  |
-| **Mean μ (Average)** | 9.500 |  |  | 8.250 |  | 12.000 |  |  |  |
-| **Maximum** | 15.000 |  |  | 22.000 |  | 50.000 |  |  |  |
-| **75th Percentile** | 14.000 |  |  | 22.000 |  | 24.000 |  |  |  |
-| **Median** | 12.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 24.750 |  |  | 113.438 |  | 301.000 |  |  |  |
-| **Standard Deviation σ** | 4.975 |  |  | 10.651 |  | 17.349 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 38.000 |  |  |  |  |  |  |  |  |  | 69.000 | 13.000 |
+| **Mean μ (Average)** | 9.500 |  |  |  |  |  |  |  |  |  | 17.250 | 6.500 |
+| **Maximum** | 10.000 |  |  |  |  |  |  |  |  |  | 24.000 | 9.000 |
+| **75th Percentile** | 10.000 |  |  |  |  |  |  |  |  |  | 24.000 | 9.000 |
+| **Median** | 10.000 |  |  |  |  |  |  |  |  |  | 20.000 | 9.000 |
+| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 16.000 | 4.000 |
+| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |  | 9.000 | 4.000 |
+| **Variance** | 0.250 |  |  |  |  |  |  |  |  |  | 30.688 | 6.250 |
+| **Standard Deviation σ** | 0.500 |  |  |  |  |  |  |  |  |  | 5.540 | 2.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

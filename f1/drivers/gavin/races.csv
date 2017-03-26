@@ -1,13 +1,24 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1967 Monaco Grand Prix 🇲🇨,2,11,4,Brabham-Repco 🇬🇧,1967-05-07,R,,1967,Denny Hulme 🇳🇿
-1968 Canadian Grand Prix 🇨🇦,10,13,71,McLaren-Ford 🇬🇧,1968-09-22,R,,1968,Denny Hulme 🇳🇿
-1968 French Grand Prix 🇫🇷,6,15,14,Ferrari 🇮🇹,1968-07-07,R,,1968,Jacky Ickx 🇧🇪
-1968 Italian Grand Prix 🇮🇹,9,13,68,McLaren-Ford 🇬🇧,1968-09-08,2,+1:28.4,1968,Denny Hulme 🇳🇿
-1968 Mexican Grand Prix 🇲🇽,12,16,57,Lotus-Ford 🇬🇧,1968-11-03,R,,1968,Graham Hill 🇬🇧
-1968 Monaco Grand Prix 🇲🇨,3,2,3,Lotus-Ford 🇬🇧,1968-05-26,R,,1968,Graham Hill 🇬🇧
-1969 Canadian Grand Prix 🇨🇦,9,15,84,Brabham-Ford 🇬🇧,1969-09-20,6,,1969,Jacky Ickx 🇧🇪
-1969 Mexican Grand Prix 🇲🇽,11,14,63,McLaren-Ford 🇬🇧,1969-10-19,8,,1969,Denny Hulme 🇳🇿
-1969 United States Grand Prix 🇺🇸,10,15,92,Lotus-Ford 🇬🇧,1969-10-05,N,,1969,Jochen Rindt 🇦🇹
-1970 Monaco Grand Prix 🇲🇨,3,0,0,Team Lotus 🇬🇧,1970-05-10,F,,1970,Jochen Rindt 🇦🇹
-1970 South African Grand Prix 🇿🇦,1,17,57,Brabham 🇬🇧,1970-03-07,R,,1970,Jack Brabham 🇦🇺
-1970 Spanish Grand Prix 🇪🇸,2,14,88,March 🇬🇧,1970-04-19,5,,1970,Jackie Stewart 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1967 Monaco Grand Prix 🇲🇨,F,11,1967-05-07,R,1967,Jean-Pierre Beltoise 🇫🇷,Matra 🇫🇷,2,0,4,,0.0
+1968 Canadian Grand Prix 🇨🇦,6,13,1968-09-22,R,1968,Jackie Stewart 🇬🇧,Matra-Ford 🇫🇷,10,11,71,,0.0
+1968 French Grand Prix 🇫🇷,4,15,1968-07-07,R,1968,Vic Elford 🇬🇧,Cooper-BRM 🇬🇧,6,17,14,,0.0
+1968 Italian Grand Prix 🇮🇹,R,13,1968-09-08,2,1968,Jackie Stewart 🇬🇧,Matra-Ford 🇫🇷,9,6,68,+1:28.4,6.0
+1968 Mexican Grand Prix 🇲🇽,7,16,1968-11-03,R,1968,Jackie Stewart 🇬🇧,Matra-Ford 🇫🇷,12,7,57,,0.0
+1969 Canadian Grand Prix 🇨🇦,R,15,1969-09-20,6,1969,Jackie Stewart 🇬🇧,Matra-Ford 🇫🇷,9,4,84,,1.0
+1969 Canadian Grand Prix 🇨🇦,4,15,1969-09-20,6,1969,Jean-Pierre Beltoise 🇫🇷,Matra-Ford 🇫🇷,9,2,84,,1.0
+1969 Mexican Grand Prix 🇲🇽,4,14,1969-10-19,8,1969,Jackie Stewart 🇬🇧,Matra-Ford 🇫🇷,11,3,63,,0.0
+1969 Mexican Grand Prix 🇲🇽,5,14,1969-10-19,8,1969,Jean-Pierre Beltoise 🇫🇷,Matra-Ford 🇫🇷,11,8,63,,0.0
+1969 United States Grand Prix 🇺🇸,R,15,1969-10-05,N,1969,Jackie Stewart 🇬🇧,Matra-Ford 🇫🇷,10,3,92,,0.0
+1969 United States Grand Prix 🇺🇸,R,15,1969-10-05,N,1969,Jean-Pierre Beltoise 🇫🇷,Matra-Ford 🇫🇷,10,7,92,,0.0
+1970 Monaco Grand Prix 🇲🇨,7,0,1970-05-10,F,1970,Ronnie Peterson 🇸🇪,March 🇬🇧,3,12,0,,0.0
+1970 Monaco Grand Prix 🇲🇨,R,0,1970-05-10,F,1970,Jackie Stewart 🇬🇧,March 🇬🇧,3,1,0,,0.0
+1970 Monaco Grand Prix 🇲🇨,R,0,1970-05-10,F,1970,Chris Amon 🇳🇿,March 🇬🇧,3,2,0,,0.0
+1970 Monaco Grand Prix 🇲🇨,8,0,1970-05-10,F,1970,Jo Siffert 🇨🇭,March 🇬🇧,3,11,0,,0.0
+1970 South African Grand Prix 🇿🇦,R,17,1970-03-07,R,1970,Chris Amon 🇳🇿,March 🇬🇧,1,2,57,,0.0
+1970 South African Grand Prix 🇿🇦,R,17,1970-03-07,R,1970,Mario Andretti 🇺🇸,March 🇬🇧,1,11,57,,0.0
+1970 South African Grand Prix 🇿🇦,10,17,1970-03-07,R,1970,Jo Siffert 🇨🇭,March 🇬🇧,1,9,57,,0.0
+1970 South African Grand Prix 🇿🇦,3,17,1970-03-07,R,1970,Jackie Stewart 🇬🇧,March 🇬🇧,1,1,57,,0.0
+1970 Spanish Grand Prix 🇪🇸,F,14,1970-04-19,5,1970,Jo Siffert 🇨🇭,March 🇬🇧,2,0,88,,2.0
+1970 Spanish Grand Prix 🇪🇸,R,14,1970-04-19,5,1970,Chris Amon 🇳🇿,March 🇬🇧,2,6,88,,2.0
+1970 Spanish Grand Prix 🇪🇸,3,14,1970-04-19,5,1970,Mario Andretti 🇺🇸,March 🇬🇧,2,16,88,,2.0
+1970 Spanish Grand Prix 🇪🇸,1,14,1970-04-19,5,1970,Jackie Stewart 🇬🇧,March 🇬🇧,2,3,88,,2.0

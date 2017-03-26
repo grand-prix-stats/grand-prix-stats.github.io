@@ -22,30 +22,28 @@ collectionId: lennep
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 24 | 6 | 14 | +5:05.5 | Carlos Reutemann 🇦🇷 | Brabham 🇬🇧 |
-| 1975 | 9 | 1975 French Grand Prix 🇫🇷 | 1975-07-06 | 22 | 15 | 53 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1975 | 8 | 1975 Dutch Grand Prix 🇳🇱 | 1975-06-22 | 22 | 10 | 71 |   | James Hunt 🇬🇧 | Hesketh 🇬🇧 |
-| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23 | 0 | F | 0 |   | Niki Lauda 🇦🇹 | Ferrari 🇮🇹 |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 30 | 14 | 82 |   | Emerson Fittipaldi 🇧🇷 | McLaren 🇬🇧 |
-| 1973 | 13 | 1973 Italian Grand Prix 🇮🇹 | 1973-09-09 | 23 | R | 14 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1973 | 12 | 1973 Austrian Grand Prix 🇦🇹 | 1973-08-19 | 23 | 9 | 52 |   | Ronnie Peterson 🇸🇪 | Team Lotus 🇬🇧 |
-| 1973 | 10 | 1973 Dutch Grand Prix 🇳🇱 | 1973-07-29 | 20 | 6 | 70 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
-| 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 21 | 8 | 65 |   | Jacky Ickx 🇧🇪 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23 | 0 | F | 0.0 | 0 |   | Iso Marlboro 🇬🇧 | [Arturo Merzario 🇮🇹](/f1/drivers/merzario) | 21 | R |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 30 | 14 | 0.0 | 82 |   | Iso Marlboro 🇬🇧 | [Arturo Merzario 🇮🇹](/f1/drivers/merzario) | 6 | R |
+| 1973 | 13 | 1973 Italian Grand Prix 🇮🇹 | 1973-09-09 | 23 | R | 0.0 | 14 |   | Iso Marlboro 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 20 | N |
+| 1973 | 12 | 1973 Austrian Grand Prix 🇦🇹 | 1973-08-19 | 23 | 9 | 0.0 | 52 |   | Iso Marlboro 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 21 | N |
+| 1973 | 10 | 1973 Dutch Grand Prix 🇳🇱 | 1973-07-29 | 20 | 6 | 1.0 | 70 |   | Iso Marlboro 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 15 | 9 |
+| 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 21 | 8 | 0.0 | 65 |   | Surtees 🇬🇧 | [John Surtees 🇬🇧](/f1/drivers/surtees) | 7 | 5 |
+| 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 21 | 8 | 0.0 | 65 |   | Surtees 🇬🇧 | [Rolf Stommelen 🇩🇪](/f1/drivers/stommelen) | 18 | D |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 9 |  |  | 9 | 7 | 9 |  |  |  |
-| **Total Sum** | 80.000 |  |  | 185.000 | 68.000 | 421.000 |  |  |  |
-| **Mean μ (Average)** | 8.889 |  |  | 20.556 | 9.714 | 46.778 |  |  |  |
-| **Maximum** | 13.000 |  |  | 30.000 | 15.000 | 82.000 |  |  |  |
-| **75th Percentile** | 11.000 |  |  | 23.000 | 14.000 | 70.000 |  |  |  |
-| **Median** | 9.000 |  |  | 22.000 | 9.000 | 53.000 |  |  |  |
-| **25th Percentile** | 8.000 |  |  | 21.000 | 6.000 | 14.000 |  |  |  |
-| **Minimum** | 4.000 |  |  |  | 6.000 |  |  |  |  |
-| **Variance** | 8.099 |  |  | 60.025 | 11.061 | 789.062 |  |  |  |
-| **Standard Deviation σ** | 2.846 |  |  | 7.748 | 3.326 | 28.090 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 7 |  |  | 7 | 5 | 7 | 7 |  |  |  | 7 | 2 |
+| **Total Sum** | 56.000 |  |  | 138.000 | 45.000 | 1.000 | 348.000 |  |  |  | 108.000 | 14.000 |
+| **Mean μ (Average)** | 8.000 |  |  | 19.714 | 9.000 | 0.143 | 49.714 |  |  |  | 15.429 | 7.000 |
+| **Maximum** | 13.000 |  |  | 30.000 | 14.000 | 1.000 | 82.000 |  |  |  | 21.000 | 9.000 |
+| **75th Percentile** | 12.000 |  |  | 23.000 | 9.000 |  | 70.000 |  |  |  | 21.000 | 9.000 |
+| **Median** | 8.000 |  |  | 21.000 | 8.000 |  | 65.000 |  |  |  | 18.000 | 9.000 |
+| **25th Percentile** | 4.000 |  |  | 20.000 | 8.000 |  | 14.000 |  |  |  | 7.000 | 5.000 |
+| **Minimum** | 4.000 |  |  |  | 6.000 |  |  |  |  |  | 6.000 | 5.000 |
+| **Variance** | 12.286 |  |  | 74.204 | 7.200 | 0.122 | 810.490 |  |  |  | 35.673 | 4.000 |
+| **Standard Deviation σ** | 3.505 |  |  | 8.614 | 2.683 | 0.350 | 28.469 |  |  |  | 5.973 | 2.000 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

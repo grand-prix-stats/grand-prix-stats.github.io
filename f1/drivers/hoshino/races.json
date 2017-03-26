@@ -1,26 +1,47 @@
 [
     {
+        "constructor": "Kojima 🇯🇵",
         "date": "1977-10-23",
         "final_position": "11",
         "grid": 11,
         "laps_completed": 71,
         "name": "1977 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 17,
         "season": 1977,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
+        "teammate": "Noritake Takahara 🇯🇵",
+        "teammate_final_position": "R",
+        "teammate_grid": 19,
+        "time": null
     },
     {
+        "constructor": "Tyrrell 🇬🇧",
         "date": "1976-10-24",
         "final_position": "R",
         "grid": 21,
         "laps_completed": 27,
         "name": "1976 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 16,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Mario Andretti 🇺🇸"
+        "teammate": "Patrick Depailler 🇫🇷",
+        "teammate_final_position": "2",
+        "teammate_grid": 13,
+        "time": null
+    },
+    {
+        "constructor": "Tyrrell 🇬🇧",
+        "date": "1976-10-24",
+        "final_position": "R",
+        "grid": 21,
+        "laps_completed": 27,
+        "name": "1976 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
+        "round": 16,
+        "season": 1976,
+        "teammate": "Jody Scheckter 🇿🇦",
+        "teammate_final_position": "R",
+        "teammate_grid": 5,
+        "time": null
     }
 ]

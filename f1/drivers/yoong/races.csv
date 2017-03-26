@@ -1,17 +1,17 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2001 Italian Grand Prix 🇮🇹,15,22,44,Williams 🇬🇧,2001-09-16,R,,2001,Juan Pablo Montoya 🇨🇴
-2001 Japanese Grand Prix 🇯🇵,17,22,50,Ferrari 🇮🇹,2001-10-14,16,,2001,Michael Schumacher 🇩🇪
-2001 United States Grand Prix 🇺🇸,16,22,38,McLaren 🇬🇧,2001-09-30,R,,2001,Mika Häkkinen 🇫🇮
-2002 Australian Grand Prix 🇦🇺,1,21,55,Ferrari 🇮🇹,2002-03-03,7,,2002,Michael Schumacher 🇩🇪
-2002 Austrian Grand Prix 🇦🇹,6,22,42,Ferrari 🇮🇹,2002-05-12,R,,2002,Michael Schumacher 🇩🇪
-2002 Brazilian Grand Prix 🇧🇷,3,22,67,Ferrari 🇮🇹,2002-03-31,13,,2002,Michael Schumacher 🇩🇪
-2002 Canadian Grand Prix 🇨🇦,8,22,68,Ferrari 🇮🇹,2002-06-09,14,,2002,Michael Schumacher 🇩🇪
-2002 European Grand Prix 🇩🇪,9,22,48,Ferrari 🇮🇹,2002-06-23,R,,2002,Rubens Barrichello 🇧🇷
-2002 French Grand Prix 🇫🇷,11,19,68,Ferrari 🇮🇹,2002-07-21,10,,2002,Michael Schumacher 🇩🇪
-2002 Italian Grand Prix 🇮🇹,15,20,47,Ferrari 🇮🇹,2002-09-15,13,,2002,Rubens Barrichello 🇧🇷
-2002 Japanese Grand Prix 🇯🇵,17,20,14,Ferrari 🇮🇹,2002-10-13,R,,2002,Michael Schumacher 🇩🇪
-2002 Malaysian Grand Prix 🇲🇾,2,22,29,Williams 🇬🇧,2002-03-17,R,,2002,Ralf Schumacher 🇩🇪
-2002 Monaco Grand Prix 🇲🇨,7,22,29,McLaren 🇬🇧,2002-05-26,R,,2002,David Coulthard 🇬🇧
-2002 San Marino Grand Prix 🇮🇹,4,0,0,Ferrari 🇮🇹,2002-04-14,F,,2002,Michael Schumacher 🇩🇪
-2002 Spanish Grand Prix 🇪🇸,5,21,0,Ferrari 🇮🇹,2002-04-28,W,,2002,Michael Schumacher 🇩🇪
-2002 United States Grand Prix 🇺🇸,16,20,46,Ferrari 🇮🇹,2002-09-29,R,,2002,Rubens Barrichello 🇧🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2001 Italian Grand Prix 🇮🇹,13,22,2001-09-16,R,2001,Fernando Alonso 🇪🇸,Minardi 🇮🇹,15,21,44,,0.0
+2001 Japanese Grand Prix 🇯🇵,11,22,2001-10-14,16,2001,Fernando Alonso 🇪🇸,Minardi 🇮🇹,17,18,50,,0.0
+2001 United States Grand Prix 🇺🇸,R,22,2001-09-30,R,2001,Fernando Alonso 🇪🇸,Minardi 🇮🇹,16,17,38,,0.0
+2002 Australian Grand Prix 🇦🇺,5,21,2002-03-03,7,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,1,18,55,,0.0
+2002 Austrian Grand Prix 🇦🇹,12,22,2002-05-12,R,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,6,21,42,,0.0
+2002 Brazilian Grand Prix 🇧🇷,11,22,2002-03-31,13,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,3,20,67,,0.0
+2002 Canadian Grand Prix 🇨🇦,11,22,2002-06-09,14,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,8,21,68,,0.0
+2002 European Grand Prix 🇩🇪,15,22,2002-06-23,R,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,9,20,48,,0.0
+2002 French Grand Prix 🇫🇷,8,19,2002-07-21,10,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,11,18,68,,0.0
+2002 Italian Grand Prix 🇮🇹,R,20,2002-09-15,13,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,15,19,47,,0.0
+2002 Japanese Grand Prix 🇯🇵,10,20,2002-10-13,R,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,17,19,14,,0.0
+2002 Malaysian Grand Prix 🇲🇾,R,22,2002-03-17,R,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,2,21,29,,0.0
+2002 Monaco Grand Prix 🇲🇨,11,22,2002-05-26,R,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,7,20,29,,0.0
+2002 San Marino Grand Prix 🇮🇹,11,0,2002-04-14,F,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,4,19,0,,0.0
+2002 Spanish Grand Prix 🇪🇸,W,21,2002-04-28,W,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,5,20,0,,0.0
+2002 United States Grand Prix 🇺🇸,R,20,2002-09-29,R,2002,Mark Webber 🇦🇺,Minardi 🇮🇹,16,18,46,,0.0

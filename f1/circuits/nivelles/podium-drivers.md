@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 2. | Denny Hulme 🇳🇿 | 1 |
-| 3. | François Cevert 🇫🇷 | 1 |
-| 4. | Jody Scheckter 🇿🇦 | 1 |
-| 5. | Niki Lauda 🇦🇹 | 1 |
+| 1. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 2. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 3. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
+| 4. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 5. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
 
 #### Statistic Summary
 

@@ -115,16 +115,16 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 3 |
-| 2. | Felipe Massa 🇧🇷 | 2 |
-| 3. | Daniil Kvyat 🇷🇺 | 1 |
-| 4. | Esteban Gutiérrez 🇲🇽 | 1 |
-| 5. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 6. | Kimi Räikkönen 🇫🇮 | 1 |
-| 7. | Michael Schumacher 🇩🇪 | 1 |
-| 8. | Romain Grosjean 🇫🇷 | 1 |
-| 9. | Rubens Barrichello 🇧🇷 | 1 |
-| 10. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
+| 3. | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 1 |
+| 4. | [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 1 |
+| 5. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 7. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 8. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
+| 9. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

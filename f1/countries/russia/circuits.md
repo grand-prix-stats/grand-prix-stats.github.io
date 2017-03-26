@@ -24,7 +24,7 @@ collectionId: russia
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Sochi International Street Circuit](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | Lewis Hamilton 🇬🇧 | 2 |
+| [Sochi International Street Circuit](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 
 #### Statistic Summary
 

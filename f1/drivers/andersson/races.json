@@ -1,62 +1,32 @@
 [
     {
-        "date": "1977-07-03",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1977 French Grand Prix 🇫🇷",
-        "round": 9,
-        "season": 1977,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Mario Andretti 🇺🇸"
-    },
-    {
-        "date": "1977-06-19",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1977 Swedish Grand Prix 🇸🇪",
-        "round": 8,
-        "season": 1977,
-        "time": null,
-        "winning_constructor": "Ligier 🇫🇷",
-        "winning_driver": "Jacques Laffite 🇫🇷"
-    },
-    {
-        "date": "1977-06-05",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1977 Belgian Grand Prix 🇧🇪",
-        "round": 7,
-        "season": 1977,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Gunnar Nilsson 🇸🇪"
-    },
-    {
-        "date": "1977-05-08",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1977 Spanish Grand Prix 🇪🇸",
-        "round": 5,
-        "season": 1977,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Mario Andretti 🇺🇸"
-    },
-    {
+        "constructor": "Surtees 🇬🇧",
         "date": "1976-08-29",
         "final_position": "R",
         "grid": 18,
         "laps_completed": 9,
         "name": "1976 Dutch Grand Prix 🇳🇱",
+        "points": 0.0,
         "round": 12,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
+        "teammate": "Alan Jones 🇦🇺",
+        "teammate_final_position": "8",
+        "teammate_grid": 16,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1976-08-29",
+        "final_position": "R",
+        "grid": 18,
+        "laps_completed": 9,
+        "name": "1976 Dutch Grand Prix 🇳🇱",
+        "points": 0.0,
+        "round": 12,
+        "season": 1976,
+        "teammate": "Henri Pescarolo 🇫🇷",
+        "teammate_final_position": "11",
+        "teammate_grid": 22,
+        "time": null
     }
 ]

@@ -143,23 +143,23 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Denny Hulme 🇳🇿 | 2 |
-| 2. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 3. | Jack Brabham 🇦🇺 | 2 |
-| 4. | Jackie Stewart 🇬🇧 | 2 |
-| 5. | Patrick Depailler 🇫🇷 | 2 |
-| 6. | Peter Revson 🇺🇸 | 2 |
-| 7. | Ronnie Peterson 🇸🇪 | 2 |
-| 8. | Clay Regazzoni 🇨🇭 | 1 |
-| 9. | Dan Gurney 🇺🇸 | 1 |
-| 10. | Jackie Oliver 🇬🇧 | 1 |
-| 11. | Jacky Ickx 🇧🇪 | 1 |
-| 12. | James Hunt 🇬🇧 | 1 |
-| 13. | Jochen Mass 🇩🇪 | 1 |
-| 14. | Jochen Rindt 🇦🇹 | 1 |
-| 15. | Jody Scheckter 🇿🇦 | 1 |
-| 16. | Mario Andretti 🇺🇸 | 1 |
-| 17. | Mark Donohue 🇺🇸 | 1 |
+| 1. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 2 |
+| 2. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 3. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| 4. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 5. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 2 |
+| 6. | [Peter Revson 🇺🇸](/f1/drivers/revson) | 2 |
+| 7. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 8. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 9. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 10. | [Jackie Oliver 🇬🇧](/f1/drivers/oliver) | 1 |
+| 11. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 12. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 13. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
+| 14. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 15. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 |
+| 16. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
+| 17. | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 1 |
 
 #### Statistic Summary
 

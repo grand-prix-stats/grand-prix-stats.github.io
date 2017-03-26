@@ -1,26 +1,62 @@
 [
     {
-        "date": "1967-08-06",
-        "final_position": "7",
-        "grid": 20,
-        "laps_completed": 15,
-        "name": "1967 German Grand Prix 🇩🇪",
-        "round": 7,
-        "season": 1967,
-        "time": "+8:47.9",
-        "winning_constructor": "Brabham-Repco 🇬🇧",
-        "winning_driver": "Denny Hulme 🇳🇿"
-    },
-    {
+        "constructor": "Cooper-Maserati 🇬🇧",
         "date": "1967-07-15",
         "final_position": "9",
         "grid": 15,
         "laps_completed": 76,
         "name": "1967 British Grand Prix 🇬🇧",
+        "points": 0.0,
         "round": 6,
         "season": 1967,
-        "time": null,
-        "winning_constructor": "Lotus-Ford 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Pedro Rodríguez 🇲🇽",
+        "teammate_final_position": "5",
+        "teammate_grid": 9,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1967-07-15",
+        "final_position": "9",
+        "grid": 15,
+        "laps_completed": 76,
+        "name": "1967 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 6,
+        "season": 1967,
+        "teammate": "Jochen Rindt 🇦🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 8,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1967-07-15",
+        "final_position": "9",
+        "grid": 15,
+        "laps_completed": 76,
+        "name": "1967 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 6,
+        "season": 1967,
+        "teammate": "Jo Siffert 🇨🇭",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1967-07-15",
+        "final_position": "9",
+        "grid": 15,
+        "laps_completed": 76,
+        "name": "1967 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 6,
+        "season": 1967,
+        "teammate": "Jo Bonnier 🇸🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
+        "time": null
     }
 ]

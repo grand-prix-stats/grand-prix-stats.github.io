@@ -22,30 +22,36 @@ collectionId: bondurant
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1966 | 9 | 1966 Mexican Grand Prix 🇲🇽 | 1966-10-23 | 18 | R | 24 |   | John Surtees 🇬🇧 | Cooper-Maserati 🇬🇧 |
-| 1966 | 8 | 1966 United States Grand Prix 🇺🇸 | 1966-10-02 | 16 | D | 5 |   | Jim Clark 🇬🇧 | Lotus-BRM 🇬🇧 |
-| 1966 | 7 | 1966 Italian Grand Prix 🇮🇹 | 1966-09-04 | 18 | 7 | 65 |   | Ludovico Scarfiotti 🇮🇹 | Ferrari 🇮🇹 |
-| 1966 | 6 | 1966 German Grand Prix 🇩🇪 | 1966-08-07 | 11 | R | 3 |   | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
-| 1966 | 4 | 1966 British Grand Prix 🇬🇧 | 1966-07-16 | 14 | 9 | 76 |   | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
-| 1966 | 2 | 1966 Belgian Grand Prix 🇧🇪 | 1966-06-12 | 11 | R | 0 |   | John Surtees 🇬🇧 | Ferrari 🇮🇹 |
-| 1966 | 1 | 1966 Monaco Grand Prix 🇲🇨 | 1966-05-22 | 16 | 4 | 95 |   | Jackie Stewart 🇬🇧 | BRM 🇬🇧 |
-| 1965 | 10 | 1965 Mexican Grand Prix 🇲🇽 | 1965-10-24 | 18 | R | 29 |   | Richie Ginther 🇺🇸 | Honda 🇯🇵 |
-| 1965 | 9 | 1965 United States Grand Prix 🇺🇸 | 1965-10-03 | 14 | 9 | 106 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1966 | 7 | 1966 Italian Grand Prix 🇮🇹 | 1966-09-04 | 18 | 7 | 0.0 | 65 |   | BRM 🇬🇧 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 9 | R |
+| 1966 | 7 | 1966 Italian Grand Prix 🇮🇹 | 1966-09-04 | 18 | 7 | 0.0 | 65 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 11 | R |
+| 1966 | 6 | 1966 German Grand Prix 🇩🇪 | 1966-08-07 | 11 | R | 0.0 | 3 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 10 | 4 |
+| 1966 | 6 | 1966 German Grand Prix 🇩🇪 | 1966-08-07 | 11 | R | 0.0 | 3 |   | BRM 🇬🇧 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 | 5 |
+| 1966 | 4 | 1966 British Grand Prix 🇬🇧 | 1966-07-16 | 14 | 9 | 0.0 | 76 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 4 | 3 |
+| 1966 | 4 | 1966 British Grand Prix 🇬🇧 | 1966-07-16 | 14 | 9 | 0.0 | 76 |   | BRM 🇬🇧 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 8 | R |
+| 1966 | 2 | 1966 Belgian Grand Prix 🇧🇪 | 1966-06-12 | 11 | R | 0.0 | 0 |   | BRM 🇬🇧 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 | R |
+| 1966 | 2 | 1966 Belgian Grand Prix 🇧🇪 | 1966-06-12 | 11 | R | 0.0 | 0 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 9 | R |
+| 1966 | 2 | 1966 Belgian Grand Prix 🇧🇪 | 1966-06-12 | 11 | R | 0.0 | 0 |   | BRM 🇬🇧 | [Vic Wilson 🇬🇧](/f1/drivers/vic_wilson) | 0 | W |
+| 1966 | 1 | 1966 Monaco Grand Prix 🇲🇨 | 1966-05-22 | 16 | 4 | 3.0 | 95 |   | BRM 🇬🇧 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 | 1 |
+| 1966 | 1 | 1966 Monaco Grand Prix 🇲🇨 | 1966-05-22 | 16 | 4 | 3.0 | 95 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 4 | 3 |
+| 1965 | 10 | 1965 Mexican Grand Prix 🇲🇽 | 1965-10-24 | 18 | R | 0.0 | 29 |   | Lotus-BRM 🇬🇧 | [Richard Attwood 🇬🇧](/f1/drivers/attwood) | 17 | 6 |
+| 1965 | 10 | 1965 Mexican Grand Prix 🇲🇽 | 1965-10-24 | 18 | R | 0.0 | 29 |   | Lotus-BRM 🇬🇧 | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 0 | W |
+| 1965 | 9 | 1965 United States Grand Prix 🇺🇸 | 1965-10-03 | 14 | 9 | 0.0 | 106 |   | Ferrari 🇮🇹 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 5 | 4 |
+| 1965 | 9 | 1965 United States Grand Prix 🇺🇸 | 1965-10-03 | 14 | 9 | 0.0 | 106 |   | Ferrari 🇮🇹 | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 15 | 5 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 9 |  |  | 9 | 4 | 9 |  |  |  |
-| **Total Sum** | 56.000 |  |  | 136.000 | 29.000 | 403.000 |  |  |  |
-| **Mean μ (Average)** | 6.222 |  |  | 15.111 | 7.250 | 44.778 |  |  |  |
-| **Maximum** | 10.000 |  |  | 18.000 | 9.000 | 106.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 18.000 | 9.000 | 76.000 |  |  |  |
-| **Median** | 7.000 |  |  | 16.000 | 9.000 | 29.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 14.000 | 7.000 | 5.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 11.000 | 4.000 |  |  |  |  |
-| **Variance** | 9.284 |  |  | 6.988 | 4.188 | 1518.617 |  |  |  |
-| **Standard Deviation σ** | 3.047 |  |  | 2.643 | 2.046 | 38.969 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 15 |  |  | 15 | 8 | 15 | 15 |  |  |  | 15 | 8 |
+| **Total Sum** | 80.000 |  |  | 215.000 | 58.000 | 6.000 | 748.000 |  |  |  | 101.000 | 31.000 |
+| **Mean μ (Average)** | 5.333 |  |  | 14.333 | 7.250 | 0.400 | 49.867 |  |  |  | 6.733 | 3.875 |
+| **Maximum** | 10.000 |  |  | 18.000 | 9.000 | 3.000 | 106.000 |  |  |  | 17.000 | 6.000 |
+| **75th Percentile** | 9.000 |  |  | 18.000 | 9.000 |  | 95.000 |  |  |  | 10.000 | 5.000 |
+| **Median** | 6.000 |  |  | 14.000 | 9.000 |  | 65.000 |  |  |  | 5.000 | 4.000 |
+| **25th Percentile** | 2.000 |  |  | 11.000 | 7.000 |  | 3.000 |  |  |  | 3.000 | 3.000 |
+| **Minimum** | 1.000 |  |  | 11.000 | 4.000 |  |  |  |  |  |  | 1.000 |
+| **Variance** | 10.089 |  |  | 7.689 | 4.188 | 1.040 | 1661.582 |  |  |  | 24.329 | 2.109 |
+| **Standard Deviation σ** | 3.176 |  |  | 2.773 | 2.046 | 1.020 | 40.763 |  |  |  | 4.932 | 1.452 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

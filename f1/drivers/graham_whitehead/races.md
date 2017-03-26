@@ -22,22 +22,10 @@ collectionId: graham_whitehead
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 12 | 12 | 80 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **Median** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 12.000 | 12.000 | 80.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

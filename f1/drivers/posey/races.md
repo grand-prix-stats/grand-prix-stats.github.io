@@ -22,23 +22,26 @@ collectionId: posey
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | 1972-10-08 | 22 | 12 | 57 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
-| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 17 | R | 15 |   | François Cevert 🇫🇷 | Tyrrell 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | 1972-10-08 | 22 | 12 | 0.0 | 57 |   | Surtees 🇬🇧 | [Mike Hailwood 🇬🇧](/f1/drivers/hailwood) | 14 | 17 |
+| 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | 1972-10-08 | 22 | 12 | 0.0 | 57 |   | Surtees 🇬🇧 | [Andrea de Adamich 🇮🇹](/f1/drivers/adamich) | 19 | R |
+| 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | 1972-10-08 | 22 | 12 | 0.0 | 57 |   | Surtees 🇬🇧 | [Tim Schenken 🇦🇺](/f1/drivers/schenken) | 31 | R |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 17 | R | 0.0 | 15 |   | Surtees 🇬🇧 | [Mike Hailwood 🇬🇧](/f1/drivers/hailwood) | 14 | 15 |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 17 | R | 0.0 | 15 |   | Surtees 🇬🇧 | [John Surtees 🇬🇧](/f1/drivers/surtees) | 13 | 17 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 23.000 |  |  | 39.000 | 12.000 | 72.000 |  |  |  |
-| **Mean μ (Average)** | 11.500 |  |  | 19.500 | 12.000 | 36.000 |  |  |  |
-| **Maximum** | 12.000 |  |  | 22.000 | 12.000 | 57.000 |  |  |  |
-| **75th Percentile** | 12.000 |  |  | 22.000 | 12.000 | 57.000 |  |  |  |
-| **Median** | 12.000 |  |  | 22.000 | 12.000 | 57.000 |  |  |  |
-| **25th Percentile** | 11.000 |  |  | 17.000 | 12.000 | 15.000 |  |  |  |
-| **Minimum** | 11.000 |  |  | 17.000 | 12.000 | 15.000 |  |  |  |
-| **Variance** | 0.250 |  |  | 6.250 |  | 441.000 |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  | 2.500 |  | 21.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 5 |  |  | 5 | 3 | 5 | 5 |  |  |  | 5 | 3 |
+| **Total Sum** | 58.000 |  |  | 100.000 | 36.000 |  | 201.000 |  |  |  | 91.000 | 49.000 |
+| **Mean μ (Average)** | 11.600 |  |  | 20.000 | 12.000 |  | 40.200 |  |  |  | 18.200 | 16.333 |
+| **Maximum** | 12.000 |  |  | 22.000 | 12.000 |  | 57.000 |  |  |  | 31.000 | 17.000 |
+| **75th Percentile** | 12.000 |  |  | 22.000 | 12.000 |  | 57.000 |  |  |  | 19.000 | 17.000 |
+| **Median** | 12.000 |  |  | 22.000 | 12.000 |  | 57.000 |  |  |  | 14.000 | 17.000 |
+| **25th Percentile** | 11.000 |  |  | 17.000 | 12.000 |  | 15.000 |  |  |  | 14.000 | 15.000 |
+| **Minimum** | 11.000 |  |  | 17.000 | 12.000 |  | 15.000 |  |  |  | 13.000 | 15.000 |
+| **Variance** | 0.240 |  |  | 6.000 |  |  | 423.360 |  |  |  | 45.360 | 0.889 |
+| **Standard Deviation σ** | 0.490 |  |  | 2.449 |  |  | 20.576 |  |  |  | 6.735 | 0.943 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

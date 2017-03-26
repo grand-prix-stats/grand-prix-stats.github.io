@@ -1,2 +1,2 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1960 Argentine Grand Prix 🇦🇷,1,17,76,Cooper-Climax 🇬🇧,1960-02-07,11,,1960,Bruce McLaren 🇳🇿
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1960 Argentine Grand Prix 🇦🇷,4,17,1960-02-07,11,1960,Carlos Menditeguy 🇦🇷,Cooper-Maserati 🇬🇧,1,12,76,,0.0

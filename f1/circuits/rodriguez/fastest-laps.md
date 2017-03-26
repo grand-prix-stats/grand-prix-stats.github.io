@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Daniel Ricciardo 🇦🇺 | 1 |
-| 2. | Nico Rosberg 🇩🇪 | 1 |
+| 1. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 

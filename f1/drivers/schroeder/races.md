@@ -22,22 +22,27 @@ collectionId: schroeder
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 93 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 0.0 | 93 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 0.0 | 93 |   | Lotus-Climax 🇬🇧 | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 16 | 8 |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 0.0 | 93 |   | Lotus-Climax 🇬🇧 | [Roger Penske 🇺🇸](/f1/drivers/penske) | 13 | 9 |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 0.0 | 93 |   | Lotus-Climax 🇬🇧 | [Trevor Taylor 🇬🇧](/f1/drivers/trevor_taylor) | 8 | 12 |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 0.0 | 93 |   | Lotus-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 19 | R |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 17 | 10 | 0.0 | 93 |   | Lotus-Climax 🇬🇧 | [Jim Hall 🇺🇸](/f1/drivers/hall) | 0 | W |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **Maximum** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **Median** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **25th Percentile** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **Minimum** | 8.000 |  |  | 17.000 | 10.000 | 93.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 | 6 | 6 | 6 |  |  |  | 6 | 4 |
+| **Total Sum** | 48.000 |  |  | 102.000 | 60.000 |  | 558.000 |  |  |  | 57.000 | 30.000 |
+| **Mean μ (Average)** | 8.000 |  |  | 17.000 | 10.000 |  | 93.000 |  |  |  | 9.500 | 7.500 |
+| **Maximum** | 8.000 |  |  | 17.000 | 10.000 |  | 93.000 |  |  |  | 19.000 | 12.000 |
+| **75th Percentile** | 8.000 |  |  | 17.000 | 10.000 |  | 93.000 |  |  |  | 16.000 | 12.000 |
+| **Median** | 8.000 |  |  | 17.000 | 10.000 |  | 93.000 |  |  |  | 13.000 | 9.000 |
+| **25th Percentile** | 8.000 |  |  | 17.000 | 10.000 |  | 93.000 |  |  |  | 1.000 | 8.000 |
+| **Minimum** | 8.000 |  |  | 17.000 | 10.000 |  | 93.000 |  |  |  |  | 1.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 51.583 | 16.250 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 7.182 | 4.031 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

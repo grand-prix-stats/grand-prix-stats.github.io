@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Ayrton Senna 🇧🇷 | 2 |
-| 2. | Gerhard Berger 🇦🇹 | 1 |
+| 1. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 2. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
 
 #### Statistic Summary
 

@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Felipe Massa 🇧🇷 | 3 |
-| 2. | Jenson Button 🇬🇧 | 1 |
-| 3. | Kimi Räikkönen 🇫🇮 | 1 |
-| 4. | Lewis Hamilton 🇬🇧 | 1 |
-| 5. | Sebastian Vettel 🇩🇪 | 1 |
+| 1. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| 2. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 

@@ -22,25 +22,29 @@ collectionId: cabianca
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04 | 4 | 4 | 48 |   | Phil Hill 🇺🇸 | Ferrari 🇮🇹 |
-| 1959 | 8 | 1959 Italian Grand Prix 🇮🇹 | 1959-09-13 | 21 | 15 | 64 |   | Stirling Moss 🇬🇧 | Cooper-Climax 🇬🇧 |
-| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 51 |   | Tony Brooks 🇬🇧 | Vanwall 🇬🇧 |
-| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0 |   | Maurice Trintignant 🇫🇷 | Cooper 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04 | 4 | 4 | 3.0 | 48 |   | Cooper-Castellotti 🇬🇧 | [Gino Munaron 🇮🇹](/f1/drivers/munaron) | 8 | R |
+| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 0.0 | 51 |   | Maserati 🇮🇹 | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 11 | 4 |
+| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 0.0 | 51 |   | Maserati 🇮🇹 | [Maria de Filippis 🇮🇹](/f1/drivers/filippis) | 21 | R |
+| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 0.0 | 51 |   | Maserati 🇮🇹 | [Hans Herrmann 🇩🇪](/f1/drivers/herrmann) | 18 | R |
+| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 0.0 | 51 |   | Maserati 🇮🇹 | [Gerino Gerini 🇮🇹](/f1/drivers/gerini) | 19 | R |
+| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 0.0 | 51 |   | Maserati 🇮🇹 | [Carroll Shelby 🇺🇸](/f1/drivers/shelby) | 17 | R |
+| 1958 | 10 | 1958 Italian Grand Prix 🇮🇹 | 1958-09-07 | 20 | R | 0.0 | 51 |   | Maserati 🇮🇹 | [Carroll Shelby 🇺🇸](/f1/drivers/shelby) | 11 | 4 |
+| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0.0 | 0 |   | OSCA 🇮🇹 | [Luigi Piotti 🇮🇹](/f1/drivers/piotti) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 4 |  |  | 4 | 2 | 4 |  |  |  |
-| **Total Sum** | 29.000 |  |  | 45.000 | 19.000 | 163.000 |  |  |  |
-| **Mean μ (Average)** | 7.250 |  |  | 11.250 | 9.500 | 40.750 |  |  |  |
-| **Maximum** | 10.000 |  |  | 21.000 | 15.000 | 64.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 21.000 | 15.000 | 64.000 |  |  |  |
-| **Median** | 9.000 |  |  | 20.000 | 15.000 | 51.000 |  |  |  |
-| **25th Percentile** | 8.000 |  |  | 4.000 | 4.000 | 48.000 |  |  |  |
-| **Minimum** | 2.000 |  |  |  | 4.000 |  |  |  |  |
-| **Variance** | 9.688 |  |  | 87.688 | 30.250 | 589.688 |  |  |  |
-| **Standard Deviation σ** | 3.112 |  |  | 9.364 | 5.500 | 24.283 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 8 |  |  | 8 | 1 | 8 | 8 |  |  |  | 8 | 2 |
+| **Total Sum** | 71.000 |  |  | 124.000 | 4.000 | 3.000 | 354.000 |  |  |  | 105.000 | 8.000 |
+| **Mean μ (Average)** | 8.875 |  |  | 15.500 | 4.000 | 0.375 | 44.250 |  |  |  | 13.125 | 4.000 |
+| **Maximum** | 10.000 |  |  | 20.000 | 4.000 | 3.000 | 51.000 |  |  |  | 21.000 | 4.000 |
+| **75th Percentile** | 10.000 |  |  | 20.000 | 4.000 |  | 51.000 |  |  |  | 19.000 | 4.000 |
+| **Median** | 10.000 |  |  | 20.000 | 4.000 |  | 51.000 |  |  |  | 17.000 | 4.000 |
+| **25th Percentile** | 10.000 |  |  | 20.000 | 4.000 |  | 51.000 |  |  |  | 11.000 | 4.000 |
+| **Minimum** | 2.000 |  |  |  | 4.000 |  |  |  |  |  |  | 4.000 |
+| **Variance** | 6.859 |  |  | 61.750 |  | 0.984 | 280.688 |  |  |  | 42.859 |  |
+| **Standard Deviation σ** | 2.619 |  |  | 7.858 |  | 0.992 | 16.754 |  |  |  | 6.547 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

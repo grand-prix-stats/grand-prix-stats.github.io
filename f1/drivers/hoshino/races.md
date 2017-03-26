@@ -22,23 +22,24 @@ collectionId: hoshino
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 11 | 11 | 71 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
-| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 21 | R | 27 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 11 | 11 | 0.0 | 71 |   | Kojima 🇯🇵 | [Noritake Takahara 🇯🇵](/f1/drivers/takahara) | 19 | R |
+| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 21 | R | 0.0 | 27 |   | Tyrrell 🇬🇧 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 13 | 2 |
+| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 21 | R | 0.0 | 27 |   | Tyrrell 🇬🇧 | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 5 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 33.000 |  |  | 32.000 | 11.000 | 98.000 |  |  |  |
-| **Mean μ (Average)** | 16.500 |  |  | 16.000 | 11.000 | 49.000 |  |  |  |
-| **Maximum** | 17.000 |  |  | 21.000 | 11.000 | 71.000 |  |  |  |
-| **75th Percentile** | 17.000 |  |  | 21.000 | 11.000 | 71.000 |  |  |  |
-| **Median** | 17.000 |  |  | 21.000 | 11.000 | 71.000 |  |  |  |
-| **25th Percentile** | 16.000 |  |  | 11.000 | 11.000 | 27.000 |  |  |  |
-| **Minimum** | 16.000 |  |  | 11.000 | 11.000 | 27.000 |  |  |  |
-| **Variance** | 0.250 |  |  | 25.000 |  | 484.000 |  |  |  |
-| **Standard Deviation σ** | 0.500 |  |  | 5.000 |  | 22.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 1 | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 49.000 |  |  | 53.000 | 11.000 |  | 125.000 |  |  |  | 37.000 | 2.000 |
+| **Mean μ (Average)** | 16.333 |  |  | 17.667 | 11.000 |  | 41.667 |  |  |  | 12.333 | 2.000 |
+| **Maximum** | 17.000 |  |  | 21.000 | 11.000 |  | 71.000 |  |  |  | 19.000 | 2.000 |
+| **75th Percentile** | 17.000 |  |  | 21.000 | 11.000 |  | 71.000 |  |  |  | 19.000 | 2.000 |
+| **Median** | 16.000 |  |  | 21.000 | 11.000 |  | 27.000 |  |  |  | 13.000 | 2.000 |
+| **25th Percentile** | 16.000 |  |  | 11.000 | 11.000 |  | 27.000 |  |  |  | 5.000 | 2.000 |
+| **Minimum** | 16.000 |  |  | 11.000 | 11.000 |  | 27.000 |  |  |  | 5.000 | 2.000 |
+| **Variance** | 0.222 |  |  | 22.222 |  |  | 430.222 |  |  |  | 32.889 |  |
+| **Standard Deviation σ** | 0.471 |  |  | 4.714 |  |  | 20.742 |  |  |  | 5.735 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

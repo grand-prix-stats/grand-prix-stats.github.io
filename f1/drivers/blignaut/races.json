@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "Cooper-Climax 🇬🇧",
         "date": "1965-01-01",
         "final_position": "W",
         "grid": 0,
         "laps_completed": 0,
         "name": "1965 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 1,
         "season": 1965,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "teammate": "Bruce McLaren 🇳🇿",
+        "teammate_final_position": "5",
+        "teammate_grid": 8,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Climax 🇬🇧",
+        "date": "1965-01-01",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1965 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1965,
+        "teammate": "Jochen Rindt 🇦🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Climax 🇬🇧",
+        "date": "1965-01-01",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1965 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1965,
+        "teammate": "John Love 🇿🇼",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

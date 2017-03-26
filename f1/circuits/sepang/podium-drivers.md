@@ -167,29 +167,29 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Fernando Alonso 🇪🇸 | 5 |
-| 2. | Lewis Hamilton 🇬🇧 | 5 |
-| 3. | Michael Schumacher 🇩🇪 | 5 |
-| 4. | Sebastian Vettel 🇩🇪 | 5 |
-| 5. | Jenson Button 🇬🇧 | 4 |
-| 6. | Nico Rosberg 🇩🇪 | 4 |
-| 7. | Kimi Räikkönen 🇫🇮 | 3 |
-| 8. | Nick Heidfeld 🇩🇪 | 3 |
-| 9. | Rubens Barrichello 🇧🇷 | 3 |
-| 10. | David Coulthard 🇬🇧 | 2 |
-| 11. | Juan Pablo Montoya 🇨🇴 | 2 |
-| 12. | Mark Webber 🇦🇺 | 2 |
-| 13. | Daniel Ricciardo 🇦🇺 | 1 |
-| 14. | Eddie Irvine 🇬🇧 | 1 |
-| 15. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 16. | Heikki Kovalainen 🇫🇮 | 1 |
-| 17. | Jarno Trulli 🇮🇹 | 1 |
-| 18. | Max Verstappen 🇳🇱 | 1 |
-| 19. | Mika Häkkinen 🇫🇮 | 1 |
-| 20. | Ralf Schumacher 🇩🇪 | 1 |
-| 21. | Robert Kubica 🇵🇱 | 1 |
-| 22. | Sergio Pérez 🇲🇽 | 1 |
-| 23. | Timo Glock 🇩🇪 | 1 |
+| 1. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 5 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 |
+| 5. | [Jenson Button 🇬🇧](/f1/drivers/button) | 4 |
+| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 4 |
+| 7. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 |
+| 8. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 3 |
+| 9. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 3 |
+| 10. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 11. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 12. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 13. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 14. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 15. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 16. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 1 |
+| 17. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| 18. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
+| 19. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 20. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 1 |
+| 21. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
+| 22. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| 23. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 1 |
 
 #### Statistic Summary
 

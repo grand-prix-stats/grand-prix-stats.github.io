@@ -22,22 +22,29 @@ collectionId: ken_miles
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0 |   | Innes Ireland 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 8 | 1 |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 6 | 7 |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Peter Ryan 🇨🇦](/f1/drivers/ryan) | 13 | 9 |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Olivier Gendebien 🇧🇪](/f1/drivers/gendebien) | 15 | 11 |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Jim Hall 🇺🇸](/f1/drivers/hall) | 18 | R |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Lloyd Ruby 🇺🇸](/f1/drivers/ruby) | 19 | R |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 3 | R |
+| 1961 | 8 | 1961 United States Grand Prix 🇺🇸 | 1961-10-08 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 11 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 8.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 8.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 8.000 |  |  |  |  |  |  |  |  |
-| **Median** | 8.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 8 |  |  | 8 |  | 8 | 8 |  |  |  | 8 | 4 |
+| **Total Sum** | 64.000 |  |  |  |  |  |  |  |  |  | 93.000 | 28.000 |
+| **Mean μ (Average)** | 8.000 |  |  |  |  |  |  |  |  |  | 11.625 | 7.000 |
+| **Maximum** | 8.000 |  |  |  |  |  |  |  |  |  | 19.000 | 11.000 |
+| **75th Percentile** | 8.000 |  |  |  |  |  |  |  |  |  | 18.000 | 11.000 |
+| **Median** | 8.000 |  |  |  |  |  |  |  |  |  | 13.000 | 9.000 |
+| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |  | 8.000 | 7.000 |
+| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |  | 3.000 | 1.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 28.484 | 14.000 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.337 | 3.742 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

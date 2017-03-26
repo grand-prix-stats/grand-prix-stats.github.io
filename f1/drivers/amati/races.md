@@ -22,24 +22,24 @@ collectionId: amati
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1992 | 3 | 1992 Brazilian Grand Prix 🇧🇷 | 1992-04-05 | 0 | F | 0 |   | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
-| 1992 | 2 | 1992 Mexican Grand Prix 🇲🇽 | 1992-03-22 | 0 | F | 0 |   | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
-| 1992 | 1 | 1992 South African Grand Prix 🇿🇦 | 1992-03-01 | 0 | F | 0 |   | Nigel Mansell 🇬🇧 | Williams 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1992 | 3 | 1992 Brazilian Grand Prix 🇧🇷 | 1992-04-05 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Eric van de Poele 🇧🇪](/f1/drivers/poele) | 0 | F |
+| 1992 | 2 | 1992 Mexican Grand Prix 🇲🇽 | 1992-03-22 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Eric van de Poele 🇧🇪](/f1/drivers/poele) | 0 | F |
+| 1992 | 1 | 1992 South African Grand Prix 🇿🇦 | 1992-03-01 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Eric van de Poele 🇧🇪](/f1/drivers/poele) | 26 | 13 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 |  | 3 |  |  |  |
-| **Total Sum** | 6.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 3.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 3.000 |  |  |  |  |  |  |  |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 0.667 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 0.816 |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 6.000 |  |  |  |  |  |  |  |  |  | 26.000 | 13.000 |
+| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |  | 8.667 | 13.000 |
+| **Maximum** | 3.000 |  |  |  |  |  |  |  |  |  | 26.000 | 13.000 |
+| **75th Percentile** | 3.000 |  |  |  |  |  |  |  |  |  | 26.000 | 13.000 |
+| **Median** | 2.000 |  |  |  |  |  |  |  |  |  |  | 13.000 |
+| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  |  | 13.000 |
+| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  | 13.000 |
+| **Variance** | 0.667 |  |  |  |  |  |  |  |  |  | 150.222 |  |
+| **Standard Deviation σ** | 0.816 |  |  |  |  |  |  |  |  |  | 12.257 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

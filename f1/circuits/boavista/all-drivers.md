@@ -24,30 +24,30 @@ collectionId: boavista
 
 | Driver | Times |
 |--|--|
-| Graham Hill 🇬🇧 | 2 |
-| Jack Brabham 🇦🇺 | 2 |
-| Jo Bonnier 🇸🇪 | 2 |
-| Stirling Moss 🇬🇧 | 2 |
-| Tony Brooks 🇬🇧 | 2 |
-| Wolfgang von Trips 🇩🇪 | 2 |
-| Bruce McLaren 🇳🇿 | 1 |
-| Carroll Shelby 🇺🇸 | 1 |
-| Cliff Allison 🇬🇧 | 1 |
-| Dan Gurney 🇺🇸 | 1 |
-| Harry Schell 🇺🇸 | 1 |
-| Innes Ireland 🇬🇧 | 1 |
-| Jean Behra 🇫🇷 | 1 |
-| Jim Clark 🇬🇧 | 1 |
-| John Surtees 🇬🇧 | 1 |
-| Maria de Filippis 🇮🇹 | 1 |
-| Mário de Araújo Cabral 🇵🇹 | 1 |
-| Masten Gregory 🇺🇸 | 1 |
-| Maurice Trintignant 🇫🇷 | 1 |
-| Mike Hawthorn 🇬🇧 | 1 |
-| Olivier Gendebien 🇧🇪 | 1 |
-| Phil Hill 🇺🇸 | 1 |
-| Roy Salvadori 🇬🇧 | 1 |
-| Stuart Lewis-Evans 🇬🇧 | 1 |
+| [Graham Hill 🇬🇧](/f1/drivers/hill) | 2 |
+| [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 2 |
+| [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 2 |
+| [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 2 |
+| [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| [Carroll Shelby 🇺🇸](/f1/drivers/shelby) | 1 |
+| [Cliff Allison 🇬🇧](/f1/drivers/allison) | 1 |
+| [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| [Harry Schell 🇺🇸](/f1/drivers/schell) | 1 |
+| [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| [Jean Behra 🇫🇷](/f1/drivers/behra) | 1 |
+| [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| [Maria de Filippis 🇮🇹](/f1/drivers/filippis) | 1 |
+| [Mário de Araújo Cabral 🇵🇹](/f1/drivers/cabral) | 1 |
+| [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 1 |
+| [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 1 |
+| [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| [Olivier Gendebien 🇧🇪](/f1/drivers/gendebien) | 1 |
+| [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| [Roy Salvadori 🇬🇧](/f1/drivers/salvadori) | 1 |
+| [Stuart Lewis-Evans 🇬🇧](/f1/drivers/lewis-evans) | 1 |
 
 #### Statistic Summary
 

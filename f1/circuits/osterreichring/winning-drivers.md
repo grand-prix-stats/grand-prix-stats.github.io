@@ -151,25 +151,25 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 3 |
-| 2. | Alan Jones 🇦🇺 | 2 |
-| 3. | Michael Schumacher 🇩🇪 | 2 |
-| 4. | Mika Häkkinen 🇫🇮 | 2 |
-| 5. | Ronnie Peterson 🇸🇪 | 2 |
-| 6. | Carlos Reutemann 🇦🇷 | 1 |
-| 7. | David Coulthard 🇬🇧 | 1 |
-| 8. | Eddie Irvine 🇬🇧 | 1 |
-| 9. | Elio de Angelis 🇮🇹 | 1 |
-| 10. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 11. | Jacky Ickx 🇧🇪 | 1 |
-| 12. | Jacques Laffite 🇫🇷 | 1 |
-| 13. | Jacques Villeneuve 🇨🇦 | 1 |
-| 14. | Jean-Pierre Jabouille 🇫🇷 | 1 |
-| 15. | Jo Siffert 🇨🇭 | 1 |
-| 16. | John Watson 🇬🇧 | 1 |
-| 17. | Nigel Mansell 🇬🇧 | 1 |
-| 18. | Niki Lauda 🇦🇹 | 1 |
-| 19. | Vittorio Brambilla 🇮🇹 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 |
+| 2. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 4. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 5. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 6. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 8. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 1 |
+| 9. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 10. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 11. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 12. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 13. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 14. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 1 |
+| 15. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| 16. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 17. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 18. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 19. | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 1 |
 
 #### Statistic Summary
 

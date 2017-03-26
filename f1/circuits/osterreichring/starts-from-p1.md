@@ -139,22 +139,22 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Nelson Piquet 🇧🇷 | 3 |
-| 2. | Niki Lauda 🇦🇹 | 3 |
-| 3. | René Arnoux 🇫🇷 | 3 |
-| 4. | Emerson Fittipaldi 🇧🇷 | 2 |
-| 5. | Michael Schumacher 🇩🇪 | 2 |
-| 6. | Mika Häkkinen 🇫🇮 | 2 |
-| 7. | Alain Prost 🇫🇷 | 1 |
-| 8. | Giancarlo Fisichella 🇮🇹 | 1 |
-| 9. | Jacques Villeneuve 🇨🇦 | 1 |
-| 10. | James Hunt 🇬🇧 | 1 |
-| 11. | Jo Siffert 🇨🇭 | 1 |
-| 12. | Jochen Rindt 🇦🇹 | 1 |
-| 13. | Patrick Tambay 🇫🇷 | 1 |
-| 14. | Ronnie Peterson 🇸🇪 | 1 |
-| 15. | Rubens Barrichello 🇧🇷 | 1 |
-| 16. | Teo Fabi 🇮🇹 | 1 |
+| 1. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 2. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
+| 3. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 3 |
+| 4. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
+| 6. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 7. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 8. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
+| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 10. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 11. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 1 |
+| 12. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 13. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 14. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
+| 15. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 16. | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 1 |
 
 #### Statistic Summary
 

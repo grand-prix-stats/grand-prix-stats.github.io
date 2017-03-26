@@ -179,32 +179,32 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 7 |
-| 2. | Ayrton Senna 🇧🇷 | 5 |
-| 3. | Damon Hill 🇬🇧 | 4 |
-| 4. | Gerhard Berger 🇦🇹 | 3 |
-| 5. | Michael Schumacher 🇩🇪 | 3 |
-| 6. | Nigel Mansell 🇬🇧 | 3 |
-| 7. | David Coulthard 🇬🇧 | 2 |
-| 8. | Nelson Piquet 🇧🇷 | 2 |
-| 9. | Stirling Moss 🇬🇧 | 2 |
-| 10. | Bruce McLaren 🇳🇿 | 1 |
-| 11. | Dan Gurney 🇺🇸 | 1 |
-| 12. | Ivan Capelli 🇮🇹 | 1 |
-| 13. | Jack Brabham 🇦🇺 | 1 |
-| 14. | Jacques Villeneuve 🇨🇦 | 1 |
-| 15. | Jean Alesi 🇫🇷 | 1 |
-| 16. | Jim Clark 🇬🇧 | 1 |
-| 17. | Masten Gregory 🇺🇸 | 1 |
-| 18. | Michele Alboreto 🇮🇹 | 1 |
-| 19. | Mika Häkkinen 🇫🇮 | 1 |
-| 20. | Mike Hawthorn 🇬🇧 | 1 |
-| 21. | Niki Lauda 🇦🇹 | 1 |
-| 22. | Patrick Tambay 🇫🇷 | 1 |
-| 23. | Riccardo Patrese 🇮🇹 | 1 |
-| 24. | Stefan Johansson 🇸🇪 | 1 |
-| 25. | Stuart Lewis-Evans 🇬🇧 | 1 |
-| 26. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 7 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 5 |
+| 3. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 4 |
+| 4. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 |
+| 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 3 |
+| 6. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 8. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 9. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 10. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 11. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 12. | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 1 |
+| 13. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 14. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 15. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
+| 16. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 17. | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 1 |
+| 18. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 19. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 20. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| 21. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 22. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 23. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 24. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
+| 25. | [Stuart Lewis-Evans 🇬🇧](/f1/drivers/lewis-evans) | 1 |
+| 26. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

@@ -22,28 +22,36 @@ collectionId: gerard
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 18 | 6 | 82 |   | Stirling Moss 🇬🇧 | Vanwall 🇬🇧 |
-| 1956 | 6 | 1956 British Grand Prix 🇬🇧 | 1956-07-14 | 22 | 11 | 88 |   | Juan Fangio 🇦🇷 | Ferrari 🇮🇹 |
-| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 18 | 10 | 85 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
-| 1953 | 5 | 1953 French Grand Prix 🇫🇷 | 1953-07-05 | 12 | 11 | 55 |   | Mike Hawthorn 🇬🇧 | Ferrari 🇮🇹 |
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 10 | 11 | 82 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 16 | 6 | 94 |   | Juan Fangio 🇦🇷 | Alfa Romeo 🇮🇹 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 13 | 6 | 67 |   | Nino Farina 🇮🇹 | Alfa Romeo 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 18 | 6 | 0.0 | 82 |   | Cooper 🇬🇧 | [Roy Salvadori 🇬🇧](/f1/drivers/salvadori) | 15 | 5 |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 18 | 6 | 0.0 | 82 |   | Cooper 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 13 | R |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 18 | 10 | 0.0 | 85 |   | Cooper 🇬🇧 | [Horace Gould 🇬🇧](/f1/drivers/gould) | 20 | 15 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 18 | 10 | 0.0 | 85 |   | Cooper 🇬🇧 | [Peter Whitehead 🇬🇧](/f1/drivers/whitehead) | 24 | R |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 18 | 10 | 0.0 | 85 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 25 | R |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 18 | 10 | 0.0 | 85 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 26 | W |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 18 | 10 | 0.0 | 85 |   | Cooper 🇬🇧 | [Rodney Nuckey 🇬🇧](/f1/drivers/nuckey) | 29 | W |
+| 1953 | 5 | 1953 French Grand Prix 🇫🇷 | 1953-07-05 | 12 | 11 | 0.0 | 55 |   | Cooper 🇬🇧 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 13 | R |
+| 1953 | 5 | 1953 French Grand Prix 🇫🇷 | 1953-07-05 | 12 | 11 | 0.0 | 55 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 14 | R |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 10 | 11 | 0.0 | 82 |   | ERA 🇬🇧 | [Brian Shawe Taylor 🇬🇧](/f1/drivers/shawe_taylor) | 12 | 8 |
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 16 | 6 | 0.0 | 94 |   | ERA 🇬🇧 | [Cuth Harrison 🇬🇧](/f1/drivers/harrison) | 14 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 13 | 6 | 0.0 | 67 |   | ERA 🇬🇧 | [Cuth Harrison 🇬🇧](/f1/drivers/harrison) | 15 | 7 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 13 | 6 | 0.0 | 67 |   | ERA 🇬🇧 | [Peter Walker 🇬🇧](/f1/drivers/peter_walker) | 10 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 13 | 6 | 0.0 | 67 |   | ERA 🇬🇧 | [Leslie Johnson 🇬🇧](/f1/drivers/leslie_johnson) | 12 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 13 | 6 | 0.0 | 67 |   | ERA 🇬🇧 | [Tony Rolt 🇬🇧](/f1/drivers/rolt) | 10 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 7 |  |  | 7 | 7 | 7 |  |  |  |
-| **Total Sum** | 29.000 |  |  | 109.000 | 61.000 | 553.000 |  |  |  |
-| **Mean μ (Average)** | 4.143 |  |  | 15.571 | 8.714 | 79.000 |  |  |  |
-| **Maximum** | 6.000 |  |  | 22.000 | 11.000 | 94.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 18.000 | 11.000 | 88.000 |  |  |  |
-| **Median** | 5.000 |  |  | 16.000 | 10.000 | 82.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 12.000 | 6.000 | 67.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 10.000 | 6.000 | 55.000 |  |  |  |
-| **Variance** | 2.980 |  |  | 14.816 | 5.633 | 154.286 |  |  |  |
-| **Standard Deviation σ** | 1.726 |  |  | 3.849 | 2.373 | 12.421 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 15 |  |  | 15 | 15 | 15 | 15 |  |  |  | 15 | 4 |
+| **Total Sum** | 56.000 |  |  | 228.000 | 125.000 |  | 1143.000 |  |  |  | 252.000 | 35.000 |
+| **Mean μ (Average)** | 3.733 |  |  | 15.200 | 8.333 |  | 76.200 |  |  |  | 16.800 | 8.750 |
+| **Maximum** | 5.000 |  |  | 18.000 | 11.000 |  | 94.000 |  |  |  | 29.000 | 15.000 |
+| **75th Percentile** | 5.000 |  |  | 18.000 | 10.000 |  | 85.000 |  |  |  | 24.000 | 15.000 |
+| **Median** | 5.000 |  |  | 16.000 | 10.000 |  | 82.000 |  |  |  | 14.000 | 8.000 |
+| **25th Percentile** | 1.000 |  |  | 13.000 | 6.000 |  | 67.000 |  |  |  | 12.000 | 7.000 |
+| **Minimum** | 1.000 |  |  | 10.000 | 6.000 |  | 55.000 |  |  |  | 10.000 | 5.000 |
+| **Variance** | 3.262 |  |  | 8.160 | 4.889 |  | 136.160 |  |  |  | 36.827 | 14.188 |
+| **Standard Deviation σ** | 1.806 |  |  | 2.857 | 2.211 |  | 11.669 |  |  |  | 6.068 | 3.767 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

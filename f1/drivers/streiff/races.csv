@@ -1,55 +1,40 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1984 Portuguese Grand Prix 🇵🇹,16,13,48,McLaren 🇬🇧,1984-10-21,R,,1984,Alain Prost 🇫🇷
-1985 Australian Grand Prix 🇦🇺,16,18,82,Williams 🇬🇧,1985-11-03,3,+1:28.536,1985,Keke Rosberg 🇫🇮
-1985 Belgian Grand Prix 🇧🇪,13,18,42,Team Lotus 🇬🇧,1985-09-15,9,,1985,Ayrton Senna 🇧🇷
-1985 European Grand Prix 🇬🇧,14,5,73,Williams 🇬🇧,1985-10-06,8,,1985,Nigel Mansell 🇬🇧
-1985 Italian Grand Prix 🇮🇹,12,19,49,McLaren 🇬🇧,1985-09-08,10,,1985,Alain Prost 🇫🇷
-1985 South African Grand Prix 🇿🇦,15,19,16,Williams 🇬🇧,1985-10-19,R,,1985,Nigel Mansell 🇬🇧
-1986 Australian Grand Prix 🇦🇺,16,10,80,McLaren 🇬🇧,1986-10-26,5,,1986,Alain Prost 🇫🇷
-1986 Austrian Grand Prix 🇦🇹,12,20,10,McLaren 🇬🇧,1986-08-17,R,,1986,Alain Prost 🇫🇷
-1986 Belgian Grand Prix 🇧🇪,5,18,40,Williams 🇬🇧,1986-05-25,12,,1986,Nigel Mansell 🇬🇧
-1986 Brazilian Grand Prix 🇧🇷,1,18,59,Williams 🇬🇧,1986-03-23,7,,1986,Nelson Piquet 🇧🇷
-1986 British Grand Prix 🇬🇧,9,16,72,Williams 🇬🇧,1986-07-13,6,,1986,Nigel Mansell 🇬🇧
-1986 Canadian Grand Prix 🇨🇦,6,17,65,Williams 🇬🇧,1986-06-15,11,,1986,Nigel Mansell 🇬🇧
-1986 Detroit Grand Prix 🇺🇸,7,18,61,Team Lotus 🇬🇧,1986-06-22,9,,1986,Ayrton Senna 🇧🇷
-1986 French Grand Prix 🇫🇷,8,17,43,Williams 🇬🇧,1986-07-06,R,,1986,Nigel Mansell 🇬🇧
-1986 German Grand Prix 🇩🇪,10,18,7,Williams 🇬🇧,1986-07-27,R,,1986,Nelson Piquet 🇧🇷
-1986 Hungarian Grand Prix 🇭🇺,11,18,74,Williams 🇬🇧,1986-08-10,8,,1986,Nelson Piquet 🇧🇷
-1986 Italian Grand Prix 🇮🇹,13,23,49,Williams 🇬🇧,1986-09-07,9,,1986,Nelson Piquet 🇧🇷
-1986 Mexican Grand Prix 🇲🇽,15,19,8,Benetton 🇮🇹,1986-10-12,R,,1986,Gerhard Berger 🇦🇹
-1986 Monaco Grand Prix 🇲🇨,4,13,74,McLaren 🇬🇧,1986-05-11,11,,1986,Alain Prost 🇫🇷
-1986 Portuguese Grand Prix 🇵🇹,14,23,28,Williams 🇬🇧,1986-09-21,R,,1986,Nigel Mansell 🇬🇧
-1986 San Marino Grand Prix 🇮🇹,3,22,41,McLaren 🇬🇧,1986-04-27,R,,1986,Alain Prost 🇫🇷
-1986 Spanish Grand Prix 🇪🇸,2,20,22,Team Lotus 🇬🇧,1986-04-13,R,,1986,Ayrton Senna 🇧🇷
-1987 Australian Grand Prix 🇦🇺,16,18,6,Ferrari 🇮🇹,1987-11-15,R,,1987,Gerhard Berger 🇦🇹
-1987 Austrian Grand Prix 🇦🇹,10,25,0,Williams 🇬🇧,1987-06-18,R,,1987,Nigel Mansell 🇬🇧
-1987 Belgian Grand Prix 🇧🇪,3,23,39,McLaren 🇬🇧,1987-05-17,9,,1987,Alain Prost 🇫🇷
-1987 Brazilian Grand Prix 🇧🇷,1,20,57,McLaren 🇬🇧,1987-04-12,11,,1987,Alain Prost 🇫🇷
-1987 British Grand Prix 🇬🇧,7,22,57,Williams 🇬🇧,1987-07-12,R,,1987,Nigel Mansell 🇬🇧
-1987 Detroit Grand Prix 🇺🇸,5,14,44,Team Lotus 🇬🇧,1987-06-21,R,,1987,Ayrton Senna 🇧🇷
-1987 French Grand Prix 🇫🇷,6,25,76,Williams 🇬🇧,1987-07-05,6,,1987,Nigel Mansell 🇬🇧
-1987 German Grand Prix 🇩🇪,8,22,43,Williams 🇬🇧,1987-07-26,4,,1987,Nelson Piquet 🇧🇷
-1987 Hungarian Grand Prix 🇭🇺,9,14,74,Williams 🇬🇧,1987-08-09,9,,1987,Nelson Piquet 🇧🇷
-1987 Italian Grand Prix 🇮🇹,11,24,47,Williams 🇬🇧,1987-09-06,12,,1987,Nelson Piquet 🇧🇷
-1987 Japanese Grand Prix 🇯🇵,15,25,49,Ferrari 🇮🇹,1987-11-01,12,,1987,Gerhard Berger 🇦🇹
-1987 Mexican Grand Prix 🇲🇽,14,25,60,Williams 🇬🇧,1987-10-18,8,,1987,Nigel Mansell 🇬🇧
-1987 Monaco Grand Prix 🇲🇨,4,23,9,Team Lotus 🇬🇧,1987-05-31,R,,1987,Ayrton Senna 🇧🇷
-1987 Portuguese Grand Prix 🇵🇹,12,21,66,McLaren 🇬🇧,1987-09-20,12,,1987,Alain Prost 🇫🇷
-1987 San Marino Grand Prix 🇮🇹,2,20,57,Williams 🇬🇧,1987-05-03,8,,1987,Nigel Mansell 🇬🇧
-1987 Spanish Grand Prix 🇪🇸,13,15,71,Williams 🇬🇧,1987-09-27,7,,1987,Nigel Mansell 🇬🇧
-1988 Australian Grand Prix 🇦🇺,16,16,73,McLaren 🇬🇧,1988-11-13,11,,1988,Alain Prost 🇫🇷
-1988 Belgian Grand Prix 🇧🇪,11,18,42,McLaren 🇬🇧,1988-08-28,10,,1988,Ayrton Senna 🇧🇷
-1988 Brazilian Grand Prix 🇧🇷,1,19,35,McLaren 🇬🇧,1988-04-03,R,,1988,Alain Prost 🇫🇷
-1988 British Grand Prix 🇬🇧,8,16,8,McLaren 🇬🇧,1988-07-10,R,,1988,Ayrton Senna 🇧🇷
-1988 Canadian Grand Prix 🇨🇦,5,10,41,McLaren 🇬🇧,1988-06-12,R,,1988,Ayrton Senna 🇧🇷
-1988 Detroit Grand Prix 🇺🇸,6,11,15,McLaren 🇬🇧,1988-06-19,R,,1988,Ayrton Senna 🇧🇷
-1988 French Grand Prix 🇫🇷,7,17,20,McLaren 🇬🇧,1988-07-03,R,,1988,Alain Prost 🇫🇷
-1988 German Grand Prix 🇩🇪,9,16,38,McLaren 🇬🇧,1988-07-24,R,,1988,Ayrton Senna 🇧🇷
-1988 Hungarian Grand Prix 🇭🇺,10,23,8,McLaren 🇬🇧,1988-08-07,R,,1988,Ayrton Senna 🇧🇷
-1988 Italian Grand Prix 🇮🇹,12,23,31,Ferrari 🇮🇹,1988-09-11,R,,1988,Gerhard Berger 🇦🇹
-1988 Japanese Grand Prix 🇯🇵,15,18,50,McLaren 🇬🇧,1988-10-30,8,,1988,Ayrton Senna 🇧🇷
-1988 Mexican Grand Prix 🇲🇽,4,19,63,McLaren 🇬🇧,1988-05-29,12,,1988,Alain Prost 🇫🇷
-1988 Monaco Grand Prix 🇲🇨,3,12,0,McLaren 🇬🇧,1988-05-15,R,,1988,Alain Prost 🇫🇷
-1988 Portuguese Grand Prix 🇵🇹,13,21,68,McLaren 🇬🇧,1988-09-25,9,,1988,Alain Prost 🇫🇷
-1988 San Marino Grand Prix 🇮🇹,2,13,58,McLaren 🇬🇧,1988-05-01,10,,1988,Ayrton Senna 🇧🇷
-1988 Spanish Grand Prix 🇪🇸,14,13,16,McLaren 🇬🇧,1988-10-02,R,,1988,Alain Prost 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1984 Portuguese Grand Prix 🇵🇹,R,13,1984-10-21,R,1984,Derek Warwick 🇬🇧,Renault 🇫🇷,16,9,48,,0.0
+1984 Portuguese Grand Prix 🇵🇹,7,13,1984-10-21,R,1984,Patrick Tambay 🇫🇷,Renault 🇫🇷,16,7,48,,0.0
+1985 Australian Grand Prix 🇦🇺,2,18,1985-11-03,3,1985,Jacques Laffite 🇫🇷,Ligier 🇫🇷,16,20,82,+1:28.536,4.0
+1985 Belgian Grand Prix 🇧🇪,11,18,1985-09-15,9,1985,Jacques Laffite 🇫🇷,Ligier 🇫🇷,13,17,42,,0.0
+1985 European Grand Prix 🇬🇧,R,5,1985-10-06,8,1985,Jacques Laffite 🇫🇷,Ligier 🇫🇷,14,18,73,,0.0
+1985 Italian Grand Prix 🇮🇹,R,19,1985-09-08,10,1985,Jacques Laffite 🇫🇷,Ligier 🇫🇷,12,20,49,,0.0
+1985 South African Grand Prix 🇿🇦,7,19,1985-10-19,R,1985,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,15,17,16,,0.0
+1986 Australian Grand Prix 🇦🇺,4,10,1986-10-26,5,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,16,16,80,,2.0
+1986 Austrian Grand Prix 🇦🇹,R,20,1986-08-17,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,12,17,10,,0.0
+1986 Belgian Grand Prix 🇧🇪,R,18,1986-05-25,12,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,5,12,40,,0.0
+1986 Brazilian Grand Prix 🇧🇷,5,18,1986-03-23,7,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,1,17,59,,0.0
+1986 British Grand Prix 🇬🇧,5,16,1986-07-13,6,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,9,11,72,,1.0
+1986 Canadian Grand Prix 🇨🇦,9,17,1986-06-15,11,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,6,19,65,,0.0
+1986 Detroit Grand Prix 🇺🇸,R,18,1986-06-22,9,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,7,16,61,,0.0
+1986 French Grand Prix 🇫🇷,10,17,1986-07-06,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,8,15,43,,0.0
+1986 German Grand Prix 🇩🇪,R,18,1986-07-27,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,10,15,7,,0.0
+1986 Hungarian Grand Prix 🇭🇺,6,18,1986-08-10,8,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,11,16,74,,0.0
+1986 Italian Grand Prix 🇮🇹,10,23,1986-09-07,9,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,13,20,49,,0.0
+1986 Mexican Grand Prix 🇲🇽,11,19,1986-10-12,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,15,16,8,,0.0
+1986 Monaco Grand Prix 🇲🇨,R,13,1986-05-11,11,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,4,10,74,,0.0
+1986 Portuguese Grand Prix 🇵🇹,R,23,1986-09-21,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,14,19,28,,0.0
+1986 San Marino Grand Prix 🇮🇹,8,22,1986-04-27,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,3,13,41,,0.0
+1986 Spanish Grand Prix 🇪🇸,R,20,1986-04-13,R,1986,Martin Brundle 🇬🇧,Tyrrell 🇬🇧,2,12,22,,0.0
+1987 Australian Grand Prix 🇦🇺,4,18,1987-11-15,R,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,16,19,6,,0.0
+1987 Austrian Grand Prix 🇦🇹,14,25,1987-06-18,R,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,10,24,0,,0.0
+1987 Belgian Grand Prix 🇧🇪,R,23,1987-05-17,9,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,3,24,39,,0.0
+1987 Brazilian Grand Prix 🇧🇷,10,20,1987-04-12,11,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,1,18,57,,0.0
+1987 British Grand Prix 🇬🇧,8,22,1987-07-12,R,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,7,23,57,,0.0
+1987 Detroit Grand Prix 🇺🇸,11,14,1987-06-21,R,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,5,13,44,,0.0
+1987 French Grand Prix 🇫🇷,7,25,1987-07-05,6,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,6,24,76,,1.0
+1987 German Grand Prix 🇩🇪,5,22,1987-07-26,4,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,8,23,43,,3.0
+1987 Hungarian Grand Prix 🇭🇺,7,14,1987-08-09,9,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,9,16,74,,0.0
+1987 Italian Grand Prix 🇮🇹,14,24,1987-09-06,12,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,11,22,47,,0.0
+1987 Japanese Grand Prix 🇯🇵,8,25,1987-11-01,12,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,15,19,49,,0.0
+1987 Mexican Grand Prix 🇲🇽,7,25,1987-10-18,8,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,14,22,60,,0.0
+1987 Monaco Grand Prix 🇲🇨,5,23,1987-05-31,R,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,4,15,9,,0.0
+1987 Portuguese Grand Prix 🇵🇹,10,21,1987-09-20,12,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,12,24,66,,0.0
+1987 San Marino Grand Prix 🇮🇹,R,20,1987-05-03,8,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,2,23,57,,0.0
+1987 Spanish Grand Prix 🇪🇸,R,15,1987-09-27,7,1987,Jonathan Palmer 🇬🇧,Tyrrell 🇬🇧,13,16,71,,0.0

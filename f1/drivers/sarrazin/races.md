@@ -22,22 +22,22 @@ collectionId: sarrazin
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1999 | 2 | 1999 Brazilian Grand Prix 🇧🇷 | 1999-04-11 | 18 | R | 31 |   | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1999 | 2 | 1999 Brazilian Grand Prix 🇧🇷 | 1999-04-11 | 18 | R | 0.0 | 31 |   | Minardi 🇮🇹 | [Marc Gené 🇪🇸](/f1/drivers/gene) | 20 | 9 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **Maximum** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **75th Percentile** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **Median** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 18.000 |  | 31.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **Mean μ (Average)** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **Maximum** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **75th Percentile** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **Median** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **25th Percentile** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **Minimum** | 2.000 |  |  | 18.000 |  |  | 31.000 |  |  |  | 20.000 | 9.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

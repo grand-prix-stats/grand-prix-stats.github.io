@@ -22,22 +22,22 @@ collectionId: gimax
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1978 | 14 | 1978 Italian Grand Prix 🇮🇹 | 1978-09-10 | 0 | F | 0 |   | Niki Lauda 🇦🇹 | Brabham 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1978 | 14 | 1978 Italian Grand Prix 🇮🇹 | 1978-09-10 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 23 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 14.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 14.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 14.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 14.000 |  |  |  |  |  |  |  |  |
-| **Median** | 14.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 14.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 14.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **Mean μ (Average)** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **Maximum** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **75th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **Median** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **25th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **Minimum** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

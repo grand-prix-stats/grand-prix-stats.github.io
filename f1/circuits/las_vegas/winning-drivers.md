@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Alan Jones 🇦🇺 | 1 |
-| 2. | Michele Alboreto 🇮🇹 | 1 |
+| 1. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 2. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
 
 #### Statistic Summary
 

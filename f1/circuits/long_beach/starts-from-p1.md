@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Andrea de Cesaris 🇮🇹 | 1 |
-| 2. | Carlos Reutemann 🇦🇷 | 1 |
-| 3. | Clay Regazzoni 🇨🇭 | 1 |
-| 4. | Gilles Villeneuve 🇨🇦 | 1 |
-| 5. | Nelson Piquet 🇧🇷 | 1 |
-| 6. | Niki Lauda 🇦🇹 | 1 |
-| 7. | Patrick Tambay 🇫🇷 | 1 |
-| 8. | Riccardo Patrese 🇮🇹 | 1 |
+| 1. | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 1 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 3. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 4. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 6. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 7. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 8. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
 
 #### Statistic Summary
 

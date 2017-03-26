@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Graham Hill 🇬🇧 | 3 |
-| 2. | Jim Clark 🇬🇧 | 2 |
-| 3. | Bruce McLaren 🇳🇿 | 1 |
-| 4. | Dan Gurney 🇺🇸 | 1 |
-| 5. | John Surtees 🇬🇧 | 1 |
-| 6. | Tony Maggs 🇿🇦 | 1 |
+| 1. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 3 |
+| 2. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 |
+| 3. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 4. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 5. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 6. | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 1 |
 
 #### Statistic Summary
 

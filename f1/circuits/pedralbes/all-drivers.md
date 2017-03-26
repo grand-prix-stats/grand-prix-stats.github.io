@@ -24,40 +24,40 @@ collectionId: pedralbes
 
 | Driver | Times |
 |--|--|
-| Alberto Ascari 🇮🇹 | 2 |
-| Juan Fangio 🇦🇷 | 2 |
-| Louis Rosier 🇫🇷 | 2 |
-| Luigi Villoresi 🇮🇹 | 2 |
-| Maurice Trintignant 🇫🇷 | 2 |
-| Paco Godia 🇪🇸 | 2 |
-| Prince Bira 🇹🇭 | 2 |
-| Robert Manzon 🇫🇷 | 2 |
-| Toulo de Graffenried 🇨🇭 | 2 |
-| André Simon 🇫🇷 | 1 |
-| Felice Bonetto 🇮🇹 | 1 |
-| Georges Grignard 🇫🇷 | 1 |
-| Hans Herrmann 🇩🇪 | 1 |
-| Harry Schell 🇺🇸 | 1 |
-| Jacques Pollet 🇫🇷 | 1 |
-| Jacques Swaters 🇺🇸 | 1 |
-| Jean Behra 🇫🇷 | 1 |
-| Johnny Claes 🇧🇪 | 1 |
-| José Froilán González 🇦🇷 | 1 |
-| Juan Jover 🇪🇸 | 1 |
-| Karl Kling 🇩🇪 | 1 |
-| Ken Wharton 🇬🇧 | 1 |
-| Louis Chiron 🇲🇨 | 1 |
-| Luigi Musso 🇮🇹 | 1 |
-| Mike Hawthorn 🇬🇧 | 1 |
-| Nino Farina 🇮🇹 | 1 |
-| Ottorino Volonterio 🇨🇭 | 1 |
-| Peter Collins 🇬🇧 | 1 |
-| Philippe Étancelin 🇫🇷 | 1 |
-| Piero Taruffi 🇮🇹 | 1 |
-| Roberto Mieres 🇦🇷 | 1 |
-| Sergio Mantovani 🇮🇹 | 1 |
-| Stirling Moss 🇬🇧 | 1 |
-| Yves Cabantous 🇫🇷 | 1 |
+| [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
+| [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 2 |
+| [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 2 |
+| [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 2 |
+| [Paco Godia 🇪🇸](/f1/drivers/godia) | 2 |
+| [Prince Bira 🇹🇭](/f1/drivers/bira) | 2 |
+| [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 2 |
+| [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 2 |
+| [André Simon 🇫🇷](/f1/drivers/simon) | 1 |
+| [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 1 |
+| [Georges Grignard 🇫🇷](/f1/drivers/grignard) | 1 |
+| [Hans Herrmann 🇩🇪](/f1/drivers/herrmann) | 1 |
+| [Harry Schell 🇺🇸](/f1/drivers/schell) | 1 |
+| [Jacques Pollet 🇫🇷](/f1/drivers/pollet) | 1 |
+| [Jacques Swaters 🇺🇸](/f1/drivers/swaters) | 1 |
+| [Jean Behra 🇫🇷](/f1/drivers/behra) | 1 |
+| [Johnny Claes 🇧🇪](/f1/drivers/claes) | 1 |
+| [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| [Juan Jover 🇪🇸](/f1/drivers/jover) | 1 |
+| [Karl Kling 🇩🇪](/f1/drivers/kling) | 1 |
+| [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 1 |
+| [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 1 |
+| [Luigi Musso 🇮🇹](/f1/drivers/musso) | 1 |
+| [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
+| [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
+| [Ottorino Volonterio 🇨🇭](/f1/drivers/volonterio) | 1 |
+| [Peter Collins 🇬🇧](/f1/drivers/collins) | 1 |
+| [Philippe Étancelin 🇫🇷](/f1/drivers/etancelin) | 1 |
+| [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 1 |
+| [Roberto Mieres 🇦🇷](/f1/drivers/mieres) | 1 |
+| [Sergio Mantovani 🇮🇹](/f1/drivers/mantovani) | 1 |
+| [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| [Yves Cabantous 🇫🇷](/f1/drivers/cabantous) | 1 |
 
 #### Statistic Summary
 

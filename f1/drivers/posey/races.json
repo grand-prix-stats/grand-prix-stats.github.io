@@ -1,26 +1,77 @@
 [
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1972-10-08",
         "final_position": "12",
         "grid": 22,
         "laps_completed": 57,
         "name": "1972 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 12,
         "season": 1972,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jackie Stewart 🇬🇧"
+        "teammate": "Mike Hailwood 🇬🇧",
+        "teammate_final_position": "17",
+        "teammate_grid": 14,
+        "time": null
     },
     {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1972-10-08",
+        "final_position": "12",
+        "grid": 22,
+        "laps_completed": 57,
+        "name": "1972 United States Grand Prix 🇺🇸",
+        "points": 0.0,
+        "round": 12,
+        "season": 1972,
+        "teammate": "Andrea de Adamich 🇮🇹",
+        "teammate_final_position": "R",
+        "teammate_grid": 19,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1972-10-08",
+        "final_position": "12",
+        "grid": 22,
+        "laps_completed": 57,
+        "name": "1972 United States Grand Prix 🇺🇸",
+        "points": 0.0,
+        "round": 12,
+        "season": 1972,
+        "teammate": "Tim Schenken 🇦🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 31,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
         "date": "1971-10-03",
         "final_position": "R",
         "grid": 17,
         "laps_completed": 15,
         "name": "1971 United States Grand Prix 🇺🇸",
+        "points": 0.0,
         "round": 11,
         "season": 1971,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "François Cevert 🇫🇷"
+        "teammate": "Mike Hailwood 🇬🇧",
+        "teammate_final_position": "15",
+        "teammate_grid": 14,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1971-10-03",
+        "final_position": "R",
+        "grid": 17,
+        "laps_completed": 15,
+        "name": "1971 United States Grand Prix 🇺🇸",
+        "points": 0.0,
+        "round": 11,
+        "season": 1971,
+        "teammate": "John Surtees 🇬🇧",
+        "teammate_final_position": "17",
+        "teammate_grid": 13,
+        "time": null
     }
 ]

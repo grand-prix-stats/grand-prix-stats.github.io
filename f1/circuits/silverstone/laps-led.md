@@ -171,30 +171,30 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 192 |
-| 2. | Fernando Alonso 🇪🇸 | 155 |
-| 3. | Mika Häkkinen 🇫🇮 | 135 |
-| 4. | Michael Schumacher 🇩🇪 | 126 |
-| 5. | Sebastian Vettel 🇩🇪 | 117 |
-| 6. | Jacques Villeneuve 🇨🇦 | 90 |
-| 7. | Juan Pablo Montoya 🇨🇴 | 69 |
-| 8. | Mark Webber 🇦🇺 | 60 |
-| 9. | Rubens Barrichello 🇧🇷 | 56 |
-| 10. | David Coulthard 🇬🇧 | 52 |
-| 11. | Kimi Räikkönen 🇫🇮 | 43 |
-| 12. | Nico Rosberg 🇩🇪 | 35 |
-| 13. | Felipe Massa 🇧🇷 | 19 |
-| 14. | Cristiano da Matta 🇧🇷 | 17 |
-| 15. | Jarno Trulli 🇮🇹 | 12 |
-| 16. | Jean Alesi 🇫🇷 | 7 |
-| 17. | Heinz-Harald Frentzen 🇩🇪 | 5 |
-| 18. | Heikki Kovalainen 🇫🇮 | 4 |
-| 19. | Giancarlo Fisichella 🇮🇹 | 3 |
-| 20. | Eddie Irvine 🇬🇧 | 2 |
-| 21. | Damon Hill 🇬🇧 | 1 |
-| 22. | Max Verstappen 🇳🇱 | 1 |
-| 23. | Nick Heidfeld 🇩🇪 | 1 |
-| 24. | Valtteri Bottas 🇫🇮 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 192 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 155 |
+| 3. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 135 |
+| 4. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 126 |
+| 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 117 |
+| 6. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 90 |
+| 7. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 69 |
+| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 60 |
+| 9. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 56 |
+| 10. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 52 |
+| 11. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 43 |
+| 12. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 35 |
+| 13. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 19 |
+| 14. | [Cristiano da Matta 🇧🇷](/f1/drivers/matta) | 17 |
+| 15. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 12 |
+| 16. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 7 |
+| 17. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 5 |
+| 18. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 4 |
+| 19. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 3 |
+| 20. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 2 |
+| 21. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 22. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
+| 23. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 1 |
+| 24. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 

@@ -22,24 +22,28 @@ collectionId: wacker
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 8 | 1954 Italian Grand Prix 🇮🇹 | 1954-09-05 | 18 | 6 | 75 |   | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
-| 1954 | 7 | 1954 Swiss Grand Prix 🇨🇭 | 1954-08-22 | 15 | R | 10 |   | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
-| 1953 | 4 | 1953 Belgian Grand Prix 🇧🇪 | 1953-06-21 | 15 | 9 | 32 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1954 | 8 | 1954 Italian Grand Prix 🇮🇹 | 1954-09-05 | 18 | 6 | 0.0 | 75 |   | Gordini 🇫🇷 | [Clemar Bucci 🇦🇷](/f1/drivers/bucci) | 17 | R |
+| 1954 | 8 | 1954 Italian Grand Prix 🇮🇹 | 1954-09-05 | 18 | 6 | 0.0 | 75 |   | Gordini 🇫🇷 | [Jean Behra 🇫🇷](/f1/drivers/behra) | 12 | R |
+| 1954 | 7 | 1954 Swiss Grand Prix 🇨🇭 | 1954-08-22 | 15 | R | 0.0 | 10 |   | Gordini 🇫🇷 | [Jean Behra 🇫🇷](/f1/drivers/behra) | 14 | R |
+| 1954 | 7 | 1954 Swiss Grand Prix 🇨🇭 | 1954-08-22 | 15 | R | 0.0 | 10 |   | Gordini 🇫🇷 | [Clemar Bucci 🇦🇷](/f1/drivers/bucci) | 10 | R |
+| 1953 | 4 | 1953 Belgian Grand Prix 🇧🇪 | 1953-06-21 | 15 | 9 | 0.0 | 32 |   | Gordini 🇫🇷 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 5 |
+| 1953 | 4 | 1953 Belgian Grand Prix 🇧🇪 | 1953-06-21 | 15 | 9 | 0.0 | 32 |   | Gordini 🇫🇷 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 12 | 7 |
+| 1953 | 4 | 1953 Belgian Grand Prix 🇧🇪 | 1953-06-21 | 15 | 9 | 0.0 | 32 |   | Gordini 🇫🇷 | [Jean Behra 🇫🇷](/f1/drivers/behra) | 14 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 | 2 | 3 |  |  |  |
-| **Total Sum** | 19.000 |  |  | 48.000 | 15.000 | 117.000 |  |  |  |
-| **Mean μ (Average)** | 6.333 |  |  | 16.000 | 7.500 | 39.000 |  |  |  |
-| **Maximum** | 8.000 |  |  | 18.000 | 9.000 | 75.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 18.000 | 9.000 | 75.000 |  |  |  |
-| **Median** | 7.000 |  |  | 15.000 | 9.000 | 32.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 15.000 | 6.000 | 10.000 |  |  |  |
-| **Minimum** | 4.000 |  |  | 15.000 | 6.000 | 10.000 |  |  |  |
-| **Variance** | 2.889 |  |  | 2.000 | 2.250 | 728.667 |  |  |  |
-| **Standard Deviation σ** | 1.700 |  |  | 1.414 | 1.500 | 26.994 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 7 |  |  | 7 | 5 | 7 | 7 |  |  |  | 7 | 2 |
+| **Total Sum** | 42.000 |  |  | 111.000 | 39.000 |  | 266.000 |  |  |  | 87.000 | 12.000 |
+| **Mean μ (Average)** | 6.000 |  |  | 15.857 | 7.800 |  | 38.000 |  |  |  | 12.429 | 6.000 |
+| **Maximum** | 8.000 |  |  | 18.000 | 9.000 |  | 75.000 |  |  |  | 17.000 | 7.000 |
+| **75th Percentile** | 8.000 |  |  | 18.000 | 9.000 |  | 75.000 |  |  |  | 14.000 | 7.000 |
+| **Median** | 7.000 |  |  | 15.000 | 9.000 |  | 32.000 |  |  |  | 12.000 | 7.000 |
+| **25th Percentile** | 4.000 |  |  | 15.000 | 6.000 |  | 10.000 |  |  |  | 10.000 | 5.000 |
+| **Minimum** | 4.000 |  |  | 15.000 | 6.000 |  | 10.000 |  |  |  | 8.000 | 5.000 |
+| **Variance** | 3.143 |  |  | 1.837 | 2.160 |  | 630.571 |  |  |  | 7.388 | 1.000 |
+| **Standard Deviation σ** | 1.773 |  |  | 1.355 | 1.470 |  | 25.111 |  |  |  | 2.718 | 1.000 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

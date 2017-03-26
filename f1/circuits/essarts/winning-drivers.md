@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Dan Gurney 🇺🇸 | 2 |
-| 2. | Alberto Ascari 🇮🇹 | 1 |
-| 3. | Jacky Ickx 🇧🇪 | 1 |
-| 4. | Juan Fangio 🇦🇷 | 1 |
+| 1. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 2 |
+| 2. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 3. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 4. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
 
 #### Statistic Summary
 

@@ -1,14 +1,32 @@
 [
     {
+        "constructor": "HWM 🇬🇧",
         "date": "1952-08-17",
         "final_position": "R",
         "grid": 14,
         "laps_completed": 70,
         "name": "1952 Dutch Grand Prix 🇳🇱",
+        "points": 0.0,
         "round": 7,
         "season": 1952,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "teammate": "Duncan Hamilton 🇬🇧",
+        "teammate_final_position": "7",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "HWM 🇬🇧",
+        "date": "1952-08-17",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 70,
+        "name": "1952 Dutch Grand Prix 🇳🇱",
+        "points": 0.0,
+        "round": 7,
+        "season": 1952,
+        "teammate": "Lance Macklin 🇬🇧",
+        "teammate_final_position": "8",
+        "teammate_grid": 9,
+        "time": null
     }
 ]

@@ -24,8 +24,8 @@ collectionId: australia
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Adelaide Street Circuit](/f1/circuits/adelaide) | Adelaide | [Australia](/f1/countries/australia) | 11 | Ayrton Senna 🇧🇷 | 2 |
-| [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | Melbourne | [Australia](/f1/countries/australia) | 22 | Michael Schumacher 🇩🇪 | 4 |
+| [Adelaide Street Circuit](/f1/circuits/adelaide) | Adelaide | [Australia](/f1/countries/australia) | 11 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | Melbourne | [Australia](/f1/countries/australia) | 22 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
 
 #### Statistic Summary
 

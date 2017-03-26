@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 1 |
-| 2. | Carlos Reutemann 🇦🇷 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 2. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
 
 #### Statistic Summary
 

@@ -24,7 +24,7 @@ collectionId: mexico
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Autódromo Hermanos Rodríguez](/f1/circuits/rodriguez) | Mexico City | [Mexico](/f1/countries/mexico) | 18 | Nigel Mansell 🇬🇧 | 2 |
+| [Autódromo Hermanos Rodríguez](/f1/circuits/rodriguez) | Mexico City | [Mexico](/f1/countries/mexico) | 18 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
 
 #### Statistic Summary
 

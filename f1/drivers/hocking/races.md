@@ -22,22 +22,28 @@ collectionId: hocking
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 4 | 5 |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Neville Lederle 🇿🇦](/f1/drivers/lederle) | 10 | 6 |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Ernie Pieterse 🇿🇦](/f1/drivers/pieterse) | 13 | 10 |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | R |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Trevor Taylor 🇬🇧](/f1/drivers/trevor_taylor) | 9 | R |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Syd van der Vyver 🇿🇦](/f1/drivers/vyver) | 0 | W |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 0 | W | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Sam Tingle 🇿🇼](/f1/drivers/tingle) | 0 | W |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 9.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Median** | 9.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 7 |  |  | 7 |  | 7 | 7 |  |  |  | 7 | 3 |
+| **Total Sum** | 63.000 |  |  |  |  |  |  |  |  |  | 37.000 | 21.000 |
+| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |  | 5.286 | 7.000 |
+| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |  | 13.000 | 10.000 |
+| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 10.000 | 10.000 |
+| **Median** | 9.000 |  |  |  |  |  |  |  |  |  | 4.000 | 6.000 |
+| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  |  | 5.000 |
+| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |  |  | 5.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 24.490 | 4.667 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.949 | 2.160 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

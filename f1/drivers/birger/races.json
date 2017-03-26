@@ -1,26 +1,32 @@
 [
     {
+        "constructor": "Gordini 🇫🇷",
         "date": "1955-01-16",
         "final_position": "R",
         "grid": 9,
         "laps_completed": 1,
         "name": "1955 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
         "round": 1,
         "season": 1955,
-        "time": null,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Juan Fangio 🇦🇷"
+        "teammate": "Jesús Iglesias 🇦🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 17,
+        "time": null
     },
     {
-        "date": "1953-01-18",
+        "constructor": "Gordini 🇫🇷",
+        "date": "1955-01-16",
         "final_position": "R",
-        "grid": 14,
-        "laps_completed": 21,
-        "name": "1953 Argentine Grand Prix 🇦🇷",
+        "grid": 9,
+        "laps_completed": 1,
+        "name": "1955 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
         "round": 1,
-        "season": 1953,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
+        "season": 1955,
+        "teammate": "Élie Bayol 🇫🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 15,
+        "time": null
     }
 ]

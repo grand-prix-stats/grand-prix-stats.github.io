@@ -1,2 +1,5 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1960 Argentine Grand Prix 🇦🇷,1,22,16,Cooper-Climax 🇬🇧,1960-02-07,R,,1960,Bruce McLaren 🇳🇿
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1960 Argentine Grand Prix 🇦🇷,13,22,1960-02-07,R,1960,Gino Munaron 🇮🇹,Maserati 🇮🇹,1,19,16,,0.0
+1960 Argentine Grand Prix 🇦🇷,14,22,1960-02-07,R,1960,Nasif Estéfano 🇦🇷,Maserati 🇮🇹,1,20,16,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,22,1960-02-07,R,1960,Ettore Chimeri 🇻🇪,Maserati 🇮🇹,1,21,16,,0.0
+1960 Argentine Grand Prix 🇦🇷,R,22,1960-02-07,R,1960,Giorgio Scarlatti 🇮🇹,Maserati 🇮🇹,1,18,16,,0.0

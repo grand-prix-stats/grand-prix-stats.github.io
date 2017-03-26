@@ -22,26 +22,23 @@ collectionId: taylor
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1966 | 6 | 1966 German Grand Prix 🇩🇪 | 1966-08-07 | 25 | R | 0 |   | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
-| 1966 | 5 | 1966 Dutch Grand Prix 🇳🇱 | 1966-07-24 | 17 | 8 | 84 |   | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
-| 1966 | 4 | 1966 British Grand Prix 🇬🇧 | 1966-07-16 | 16 | 8 | 76 |   | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
-| 1966 | 3 | 1966 French Grand Prix 🇫🇷 | 1966-07-03 | 15 | 6 | 45 |   | Jack Brabham 🇦🇺 | Brabham-Repco 🇬🇧 |
-| 1964 | 5 | 1964 British Grand Prix 🇬🇧 | 1964-07-11 | 20 | 14 | 56 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1964 | 5 | 1964 British Grand Prix 🇬🇧 | 1964-07-11 | 20 | 14 | 0.0 | 56 |   | Cooper-Climax 🇬🇧 | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 15 | 6 |
+| 1964 | 5 | 1964 British Grand Prix 🇬🇧 | 1964-07-11 | 20 | 14 | 0.0 | 56 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 6 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 5 |  |  | 5 | 4 | 5 |  |  |  |
-| **Total Sum** | 23.000 |  |  | 93.000 | 36.000 | 261.000 |  |  |  |
-| **Mean μ (Average)** | 4.600 |  |  | 18.600 | 9.000 | 52.200 |  |  |  |
-| **Maximum** | 6.000 |  |  | 25.000 | 14.000 | 84.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 20.000 | 14.000 | 76.000 |  |  |  |
-| **Median** | 5.000 |  |  | 17.000 | 8.000 | 56.000 |  |  |  |
-| **25th Percentile** | 4.000 |  |  | 16.000 | 8.000 | 45.000 |  |  |  |
-| **Minimum** | 3.000 |  |  | 15.000 | 6.000 |  |  |  |  |
-| **Variance** | 1.040 |  |  | 13.040 | 9.000 | 873.760 |  |  |  |
-| **Standard Deviation σ** | 1.020 |  |  | 3.611 | 3.000 | 29.559 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 10.000 |  |  | 40.000 | 28.000 |  | 112.000 |  |  |  | 21.000 | 6.000 |
+| **Mean μ (Average)** | 5.000 |  |  | 20.000 | 14.000 |  | 56.000 |  |  |  | 10.500 | 6.000 |
+| **Maximum** | 5.000 |  |  | 20.000 | 14.000 |  | 56.000 |  |  |  | 15.000 | 6.000 |
+| **75th Percentile** | 5.000 |  |  | 20.000 | 14.000 |  | 56.000 |  |  |  | 15.000 | 6.000 |
+| **Median** | 5.000 |  |  | 20.000 | 14.000 |  | 56.000 |  |  |  | 15.000 | 6.000 |
+| **25th Percentile** | 5.000 |  |  | 20.000 | 14.000 |  | 56.000 |  |  |  | 6.000 | 6.000 |
+| **Minimum** | 5.000 |  |  | 20.000 | 14.000 |  | 56.000 |  |  |  | 6.000 | 6.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 20.250 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

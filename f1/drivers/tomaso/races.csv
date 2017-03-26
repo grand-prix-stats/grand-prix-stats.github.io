@@ -1,3 +1,10 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1957 Argentine Grand Prix 🇦🇷,1,12,91,Maserati 🇮🇹,1957-01-13,9,,1957,Juan Fangio 🇦🇷
-1959 United States Grand Prix 🇺🇸,9,14,13,Cooper-Climax 🇬🇧,1959-12-12,R,,1959,Bruce McLaren 🇳🇿
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1957 Argentine Grand Prix 🇦🇷,5,12,1957-01-13,9,1957,Alfonso de Portago 🇪🇸,Ferrari 🇮🇹,1,10,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,6,12,1957-01-13,9,1957,Cesare Perdisa 🇮🇹,Ferrari 🇮🇹,1,11,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,R,12,1957-01-13,9,1957,Eugenio Castellotti 🇮🇹,Ferrari 🇮🇹,1,4,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,R,12,1957-01-13,9,1957,Mike Hawthorn 🇬🇧,Ferrari 🇮🇹,1,7,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,R,12,1957-01-13,9,1957,Luigi Musso 🇮🇹,Ferrari 🇮🇹,1,6,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,R,12,1957-01-13,9,1957,Peter Collins 🇬🇧,Ferrari 🇮🇹,1,5,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,5,12,1957-01-13,9,1957,José Froilán González 🇦🇷,Ferrari 🇮🇹,1,10,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,6,12,1957-01-13,9,1957,Peter Collins 🇬🇧,Ferrari 🇮🇹,1,11,91,,0.0
+1957 Argentine Grand Prix 🇦🇷,6,12,1957-01-13,9,1957,Wolfgang von Trips 🇩🇪,Ferrari 🇮🇹,1,11,91,,0.0

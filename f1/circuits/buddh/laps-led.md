@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 153 |
-| 2. | Mark Webber 🇦🇺 | 21 |
-| 3. | Felipe Massa 🇧🇷 | 6 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 153 |
+| 2. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 21 |
+| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 |
 
 #### Statistic Summary
 

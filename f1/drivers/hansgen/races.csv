@@ -1,5 +1,12 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1961 United States Grand Prix 🇺🇸,8,14,14,Lotus-Climax 🇬🇧,1961-10-08,R,,1961,Innes Ireland 🇬🇧
-1963 Mexican Grand Prix 🇲🇽,9,0,0,Lotus-Climax 🇬🇧,1963-10-27,W,,1963,Jim Clark 🇬🇧
-1963 United States Grand Prix 🇺🇸,8,0,0,BRM 🇬🇧,1963-10-06,W,,1963,Graham Hill 🇬🇧
-1964 United States Grand Prix 🇺🇸,9,17,107,BRM 🇬🇧,1964-10-04,5,,1964,Graham Hill 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1961 United States Grand Prix 🇺🇸,4,14,1961-10-08,R,1961,Bruce McLaren 🇳🇿,Cooper-Climax 🇬🇧,8,4,14,,0.0
+1961 United States Grand Prix 🇺🇸,8,14,1961-10-08,R,1961,Roger Penske 🇺🇸,Cooper-Climax 🇬🇧,8,16,14,,0.0
+1961 United States Grand Prix 🇺🇸,10,14,1961-10-08,R,1961,Hap Sharp 🇺🇸,Cooper-Climax 🇬🇧,8,17,14,,0.0
+1961 United States Grand Prix 🇺🇸,R,14,1961-10-08,R,1961,Roy Salvadori 🇬🇧,Cooper-Climax 🇬🇧,8,12,14,,0.0
+1961 United States Grand Prix 🇺🇸,R,14,1961-10-08,R,1961,Jack Brabham 🇦🇺,Cooper-Climax 🇬🇧,8,1,14,,0.0
+1961 United States Grand Prix 🇺🇸,R,14,1961-10-08,R,1961,John Surtees 🇬🇧,Cooper-Climax 🇬🇧,8,9,14,,0.0
+1963 United States Grand Prix 🇺🇸,3,0,1963-10-06,W,1963,Jim Clark 🇬🇧,Lotus-Climax 🇬🇧,8,2,0,,0.0
+1963 United States Grand Prix 🇺🇸,R,0,1963-10-06,W,1963,Pedro Rodríguez 🇲🇽,Lotus-Climax 🇬🇧,8,13,0,,0.0
+1963 United States Grand Prix 🇺🇸,R,0,1963-10-06,W,1963,Trevor Taylor 🇬🇧,Lotus-Climax 🇬🇧,8,7,0,,0.0
+1964 United States Grand Prix 🇺🇸,7,17,1964-10-04,5,1964,Jim Clark 🇬🇧,Lotus-Climax 🇬🇧,9,1,107,,2.0
+1964 United States Grand Prix 🇺🇸,R,17,1964-10-04,5,1964,Mike Spence 🇬🇧,Lotus-Climax 🇬🇧,9,1,107,,2.0

@@ -192,39 +192,39 @@ The drivers on this list of epic comeback races started the race outside of the 
 
 | # | Driver | Positions Gained | Grid | Final Position | Year | Round | Race |
 |--|--|--|--|--|--|--|--|
-| 1. | Jim Rathmann 🇺🇸 | 30 | 32nd | 2nd | 1957 | 3 | Indianapolis 500 |
-| 2. | Onofre Marimón 🇦🇷 | 25 | 28th | 3rd | 1954 | 5 | British Grand Prix |
-| 3. | Ron Flockhart 🇬🇧 | 23 | 26th | 3rd | 1956 | 8 | Italian Grand Prix |
-| 4. | Don Freeland 🇺🇸 | 23 | 26th | 3rd | 1956 | 3 | Indianapolis 500 |
-| 5. | George Amick 🇺🇸 | 23 | 25th | 2nd | 1958 | 4 | Indianapolis 500 |
-| 6. | Paul Goldsmith 🇺🇸 | 23 | 26th | 3rd | 1960 | 3 | Indianapolis 500 |
-| 7. | Sebastian Vettel 🇩🇪 | 21 | 24th | 3rd | 2012 | 18 | Abu Dhabi Grand Prix |
-| 8. | John Watson 🇬🇧 | 21 | 22nd | 1st | 1983 | 2 | United States Grand Prix West |
-| 9. | Niki Lauda 🇦🇹 | 21 | 23rd | 2nd | 1983 | 2 | United States Grand Prix West |
-| 10. | Emerson Fittipaldi 🇧🇷 | 21 | 24th | 3rd | 1980 | 4 | United States Grand Prix West |
-| 11. | Teo Fabi 🇮🇹 | 20 | 23rd | 3rd | 1984 | 8 | Detroit Grand Prix |
-| 12. | Lewis Hamilton 🇬🇧 | 19 | 22nd | 3rd | 2014 | 11 | Hungarian Grand Prix |
-| 13. | Kimi Räikkönen 🇫🇮 | 19 | 22nd | 3rd | 2006 | 1 | Bahrain Grand Prix |
-| 14. | Lewis Hamilton 🇬🇧 | 18 | 21st | 3rd | 2016 | 13 | Belgian Grand Prix |
-| 15. | Bill Vukovich 🇺🇸 | 18 | 19th | 1st | 1954 | 2 | Indianapolis 500 |
-| 16. | Juan Pablo Montoya 🇨🇴 | 18 | 20th | 2nd | 2005 | 12 | German Grand Prix |
-| 17. | Jacques Laffite 🇫🇷 | 18 | 20th | 2nd | 1985 | 16 | Australian Grand Prix |
-| 18. | Wolfgang von Trips 🇩🇪 | 18 | 21st | 3rd | 1958 | 6 | French Grand Prix |
-| 19. | John Watson 🇬🇧 | 18 | 21st | 3rd | 1983 | 7 | Detroit Grand Prix |
-| 20. | Jarno Trulli 🇮🇹 | 17 | 20th | 3rd | 2009 | 1 | Australian Grand Prix |
-| 21. | Rubens Barrichello 🇧🇷 | 17 | 20th | 3rd | 2005 | 8 | Canadian Grand Prix |
-| 22. | Lewis Hamilton 🇬🇧 | 17 | 20th | 3rd | 2014 | 10 | German Grand Prix |
-| 23. | Rubens Barrichello 🇧🇷 | 17 | 18th | 1st | 2000 | 11 | German Grand Prix |
-| 24. | Alexander Wurz 🇦🇹 | 16 | 19th | 3rd | 2007 | 6 | Canadian Grand Prix |
-| 25. | John Watson 🇬🇧 | 16 | 17th | 1st | 1982 | 7 | Detroit Grand Prix |
-| 26. | Kimi Räikkönen 🇫🇮 | 16 | 17th | 1st | 2005 | 18 | Japanese Grand Prix |
-| 27. | Riccardo Patrese 🇮🇹 | 15 | 18th | 3rd | 1982 | 3 | United States Grand Prix West |
-| 28. | Philippe Streiff 🇫🇷 | 15 | 18th | 3rd | 1985 | 16 | Australian Grand Prix |
-| 29. | Nelson Piquet Jr. 🇧🇷 | 15 | 17th | 2nd | 2008 | 10 | German Grand Prix |
-| 30. | Jackie Stewart 🇬🇧 | 15 | 16th | 1st | 1973 | 3 | South African Grand Prix |
-| 31. | Peter Whitehead 🇬🇧 | 15 | 18th | 3rd | 1950 | 6 | French Grand Prix |
-| 32. | Mark Webber 🇦🇺 | 15 | 18th | 3rd | 2011 | 3 | Chinese Grand Prix |
-| 33. | Michael Schumacher 🇩🇪 | 15 | 16th | 1st | 1995 | 11 | Belgian Grand Prix |
+| 1. | [Jim Rathmann 🇺🇸](/f1/drivers/rathmann) | 30 | 32nd | 2nd | 1957 | 3 | Indianapolis 500 |
+| 2. | [Onofre Marimón 🇦🇷](/f1/drivers/marimon) | 25 | 28th | 3rd | 1954 | 5 | British Grand Prix |
+| 3. | [Ron Flockhart 🇬🇧](/f1/drivers/flockhart) | 23 | 26th | 3rd | 1956 | 8 | Italian Grand Prix |
+| 4. | [Don Freeland 🇺🇸](/f1/drivers/freeland) | 23 | 26th | 3rd | 1956 | 3 | Indianapolis 500 |
+| 5. | [George Amick 🇺🇸](/f1/drivers/george_amick) | 23 | 25th | 2nd | 1958 | 4 | Indianapolis 500 |
+| 6. | [Paul Goldsmith 🇺🇸](/f1/drivers/goldsmith) | 23 | 26th | 3rd | 1960 | 3 | Indianapolis 500 |
+| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 21 | 24th | 3rd | 2012 | 18 | Abu Dhabi Grand Prix |
+| 8. | [John Watson 🇬🇧](/f1/drivers/watson) | 21 | 22nd | 1st | 1983 | 2 | United States Grand Prix West |
+| 9. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 21 | 23rd | 2nd | 1983 | 2 | United States Grand Prix West |
+| 10. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 21 | 24th | 3rd | 1980 | 4 | United States Grand Prix West |
+| 11. | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 20 | 23rd | 3rd | 1984 | 8 | Detroit Grand Prix |
+| 12. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 19 | 22nd | 3rd | 2014 | 11 | Hungarian Grand Prix |
+| 13. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 19 | 22nd | 3rd | 2006 | 1 | Bahrain Grand Prix |
+| 14. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 18 | 21st | 3rd | 2016 | 13 | Belgian Grand Prix |
+| 15. | [Bill Vukovich 🇺🇸](/f1/drivers/vukovich) | 18 | 19th | 1st | 1954 | 2 | Indianapolis 500 |
+| 16. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 18 | 20th | 2nd | 2005 | 12 | German Grand Prix |
+| 17. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 18 | 20th | 2nd | 1985 | 16 | Australian Grand Prix |
+| 18. | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 18 | 21st | 3rd | 1958 | 6 | French Grand Prix |
+| 19. | [John Watson 🇬🇧](/f1/drivers/watson) | 18 | 21st | 3rd | 1983 | 7 | Detroit Grand Prix |
+| 20. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 17 | 20th | 3rd | 2009 | 1 | Australian Grand Prix |
+| 21. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 17 | 20th | 3rd | 2005 | 8 | Canadian Grand Prix |
+| 22. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 17 | 20th | 3rd | 2014 | 10 | German Grand Prix |
+| 23. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 17 | 18th | 1st | 2000 | 11 | German Grand Prix |
+| 24. | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 16 | 19th | 3rd | 2007 | 6 | Canadian Grand Prix |
+| 25. | [John Watson 🇬🇧](/f1/drivers/watson) | 16 | 17th | 1st | 1982 | 7 | Detroit Grand Prix |
+| 26. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 16 | 17th | 1st | 2005 | 18 | Japanese Grand Prix |
+| 27. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 15 | 18th | 3rd | 1982 | 3 | United States Grand Prix West |
+| 28. | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 15 | 18th | 3rd | 1985 | 16 | Australian Grand Prix |
+| 29. | [Nelson Piquet Jr. 🇧🇷](/f1/drivers/piquet_jr) | 15 | 17th | 2nd | 2008 | 10 | German Grand Prix |
+| 30. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 15 | 16th | 1st | 1973 | 3 | South African Grand Prix |
+| 31. | [Peter Whitehead 🇬🇧](/f1/drivers/whitehead) | 15 | 18th | 3rd | 1950 | 6 | French Grand Prix |
+| 32. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 15 | 18th | 3rd | 2011 | 3 | Chinese Grand Prix |
+| 33. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 15 | 16th | 1st | 1995 | 11 | Belgian Grand Prix |
 
 #### Statistic Summary
 

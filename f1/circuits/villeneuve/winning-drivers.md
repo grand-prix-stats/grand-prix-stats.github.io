@@ -167,29 +167,29 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 7 |
-| 2. | Lewis Hamilton 🇬🇧 | 5 |
-| 3. | Nelson Piquet 🇧🇷 | 3 |
-| 4. | Alan Jones 🇦🇺 | 2 |
-| 5. | Ayrton Senna 🇧🇷 | 2 |
-| 6. | Alain Prost 🇫🇷 | 1 |
-| 7. | Damon Hill 🇬🇧 | 1 |
-| 8. | Daniel Ricciardo 🇦🇺 | 1 |
-| 9. | Fernando Alonso 🇪🇸 | 1 |
-| 10. | Gerhard Berger 🇦🇹 | 1 |
-| 11. | Gilles Villeneuve 🇨🇦 | 1 |
-| 12. | Jacques Laffite 🇫🇷 | 1 |
-| 13. | Jean Alesi 🇫🇷 | 1 |
-| 14. | Jenson Button 🇬🇧 | 1 |
-| 15. | Kimi Räikkönen 🇫🇮 | 1 |
-| 16. | Michele Alboreto 🇮🇹 | 1 |
-| 17. | Mika Häkkinen 🇫🇮 | 1 |
-| 18. | Nigel Mansell 🇬🇧 | 1 |
-| 19. | Ralf Schumacher 🇩🇪 | 1 |
-| 20. | René Arnoux 🇫🇷 | 1 |
-| 21. | Robert Kubica 🇵🇱 | 1 |
-| 22. | Sebastian Vettel 🇩🇪 | 1 |
-| 23. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
+| 3. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 4. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 5. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 6. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 8. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 9. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 10. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 11. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 12. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 1 |
+| 13. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
+| 14. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 15. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 16. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 17. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 18. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 19. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 1 |
+| 20. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
+| 21. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
+| 22. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 23. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

@@ -1,14 +1,32 @@
 [
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1973-02-11",
         "final_position": "12",
         "grid": 20,
         "laps_completed": 36,
         "name": "1973 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
         "round": 2,
         "season": 1973,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Emerson Fittipaldi 🇧🇷"
+        "teammate": "Carlos Pace 🇧🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 6,
+        "time": null
+    },
+    {
+        "constructor": "Surtees 🇬🇧",
+        "date": "1973-02-11",
+        "final_position": "12",
+        "grid": 20,
+        "laps_completed": 36,
+        "name": "1973 Brazilian Grand Prix 🇧🇷",
+        "points": 0.0,
+        "round": 2,
+        "season": 1973,
+        "teammate": "Mike Hailwood 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 14,
+        "time": null
     }
 ]

@@ -24,7 +24,7 @@ collectionId: monaco
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Circuit de Monaco](/f1/circuits/monaco) | Monte-Carlo | [Monaco](/f1/countries/monaco) | 64 | Ayrton Senna 🇧🇷 | 6 |
+| [Circuit de Monaco](/f1/circuits/monaco) | Monte-Carlo | [Monaco](/f1/countries/monaco) | 64 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 6 |
 
 #### Statistic Summary
 

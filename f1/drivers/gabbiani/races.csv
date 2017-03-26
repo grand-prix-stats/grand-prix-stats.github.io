@@ -1,18 +1,17 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1978 Canadian Grand Prix 🇨🇦,16,0,0,Ferrari 🇮🇹,1978-10-08,F,,1978,Gilles Villeneuve 🇨🇦
-1978 United States Grand Prix 🇺🇸,15,0,0,Ferrari 🇮🇹,1978-10-01,F,,1978,Carlos Reutemann 🇦🇷
-1981 Argentine Grand Prix 🇦🇷,3,0,0,Brabham 🇬🇧,1981-04-12,F,,1981,Nelson Piquet 🇧🇷
-1981 Austrian Grand Prix 🇦🇹,11,0,0,Ligier 🇫🇷,1981-08-16,F,,1981,Jacques Laffite 🇫🇷
-1981 Belgian Grand Prix 🇧🇪,5,22,22,Williams 🇬🇧,1981-05-17,R,,1981,Carlos Reutemann 🇦🇷
-1981 Brazilian Grand Prix 🇧🇷,2,0,0,Williams 🇬🇧,1981-03-29,F,,1981,Carlos Reutemann 🇦🇷
-1981 British Grand Prix 🇬🇧,9,0,0,McLaren 🇬🇧,1981-07-18,F,,1981,John Watson 🇬🇧
-1981 Caesars Palace Grand Prix 🇺🇸,15,0,0,Williams 🇬🇧,1981-10-17,F,,1981,Alan Jones 🇦🇺
-1981 Canadian Grand Prix 🇨🇦,14,0,0,Ligier 🇫🇷,1981-09-27,F,,1981,Jacques Laffite 🇫🇷
-1981 Dutch Grand Prix 🇳🇱,12,0,0,Renault 🇫🇷,1981-08-30,F,,1981,Alain Prost 🇫🇷
-1981 French Grand Prix 🇫🇷,8,0,0,Renault 🇫🇷,1981-07-05,F,,1981,Alain Prost 🇫🇷
-1981 German Grand Prix 🇩🇪,10,0,0,Brabham 🇬🇧,1981-08-02,F,,1981,Nelson Piquet 🇧🇷
-1981 Italian Grand Prix 🇮🇹,13,0,0,Renault 🇫🇷,1981-09-13,F,,1981,Alain Prost 🇫🇷
-1981 Monaco Grand Prix 🇲🇨,6,0,0,Ferrari 🇮🇹,1981-05-31,F,,1981,Gilles Villeneuve 🇨🇦
-1981 San Marino Grand Prix 🇮🇹,4,20,31,Brabham 🇬🇧,1981-05-03,R,,1981,Nelson Piquet 🇧🇷
-1981 Spanish Grand Prix 🇪🇸,7,0,0,Ferrari 🇮🇹,1981-06-21,F,,1981,Gilles Villeneuve 🇨🇦
-1981 United States Grand Prix West 🇺🇸,1,24,26,Williams 🇬🇧,1981-03-15,R,,1981,Alan Jones 🇦🇺
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1978 Canadian Grand Prix 🇨🇦,R,0,1978-10-08,F,1978,René Arnoux 🇫🇷,Surtees 🇬🇧,16,16,0,,0.0
+1981 Argentine Grand Prix 🇦🇷,F,0,1981-04-12,F,1981,Miguel Ángel Guerra 🇦🇷,Osella 🇮🇹,3,0,0,,0.0
+1981 Austrian Grand Prix 🇦🇹,10,0,1981-08-16,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,11,14,0,,0.0
+1981 Belgian Grand Prix 🇧🇪,13,22,1981-05-17,R,1981,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,5,24,22,,0.0
+1981 Brazilian Grand Prix 🇧🇷,F,0,1981-03-29,F,1981,Miguel Ángel Guerra 🇦🇷,Osella 🇮🇹,2,0,0,,0.0
+1981 Brazilian Grand Prix 🇧🇷,F,0,1981-03-29,F,1981,Eliseo Salazar 🇨🇱,Osella 🇮🇹,2,0,0,,0.0
+1981 British Grand Prix 🇬🇧,8,0,1981-07-18,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,9,20,0,,0.0
+1981 Caesars Palace Grand Prix 🇺🇸,R,0,1981-10-17,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,15,21,0,,0.0
+1981 Canadian Grand Prix 🇨🇦,R,0,1981-09-27,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,14,23,0,,0.0
+1981 Dutch Grand Prix 🇳🇱,R,0,1981-08-30,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,12,18,0,,0.0
+1981 German Grand Prix 🇩🇪,8,0,1981-08-02,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,10,17,0,,0.0
+1981 Italian Grand Prix 🇮🇹,9,0,1981-09-13,F,1981,Jean-Pierre Jarier 🇫🇷,Osella 🇮🇹,13,18,0,,0.0
+1981 Monaco Grand Prix 🇲🇨,F,0,1981-05-31,F,1981,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,6,0,0,,0.0
+1981 San Marino Grand Prix 🇮🇹,R,20,1981-05-03,R,1981,Miguel Ángel Guerra 🇦🇷,Osella 🇮🇹,4,22,31,,0.0
+1981 Spanish Grand Prix 🇪🇸,F,0,1981-06-21,F,1981,Giorgio Francia 🇮🇹,Osella 🇮🇹,7,0,0,,0.0
+1981 United States Grand Prix West 🇺🇸,F,24,1981-03-15,R,1981,Miguel Ángel Guerra 🇦🇷,Osella 🇮🇹,1,0,26,,0.0

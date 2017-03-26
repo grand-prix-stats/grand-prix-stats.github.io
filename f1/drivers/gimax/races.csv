@@ -1,2 +1,2 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1978 Italian Grand Prix 🇮🇹,14,0,0,Brabham 🇬🇧,1978-09-10,F,,1978,Niki Lauda 🇦🇹
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1978 Italian Grand Prix 🇮🇹,R,0,1978-09-10,F,1978,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,14,23,0,,0.0

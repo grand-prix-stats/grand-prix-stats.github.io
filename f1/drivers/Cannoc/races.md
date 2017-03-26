@@ -22,22 +22,25 @@ collectionId: Cannoc
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 24 | 14 | 56 |   | François Cevert 🇫🇷 | Tyrrell 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 24 | 14 | 0.0 | 56 |   | BRM 🇬🇧 | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 6 | 2 |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 24 | 14 | 0.0 | 56 |   | BRM 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 12 | 4 |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 24 | 14 | 0.0 | 56 |   | BRM 🇬🇧 | [Peter Gethin 🇬🇧](/f1/drivers/gethin) | 21 | 9 |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 24 | 14 | 0.0 | 56 |   | BRM 🇬🇧 | [Helmut Marko 🇦🇹](/f1/drivers/marko) | 16 | 13 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **Mean μ (Average)** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **Maximum** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **75th Percentile** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **Median** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **25th Percentile** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **Minimum** | 11.000 |  |  | 24.000 | 14.000 | 56.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 | 4 | 4 | 4 |  |  |  | 4 | 4 |
+| **Total Sum** | 44.000 |  |  | 96.000 | 56.000 |  | 224.000 |  |  |  | 55.000 | 28.000 |
+| **Mean μ (Average)** | 11.000 |  |  | 24.000 | 14.000 |  | 56.000 |  |  |  | 13.750 | 7.000 |
+| **Maximum** | 11.000 |  |  | 24.000 | 14.000 |  | 56.000 |  |  |  | 21.000 | 13.000 |
+| **75th Percentile** | 11.000 |  |  | 24.000 | 14.000 |  | 56.000 |  |  |  | 21.000 | 13.000 |
+| **Median** | 11.000 |  |  | 24.000 | 14.000 |  | 56.000 |  |  |  | 16.000 | 9.000 |
+| **25th Percentile** | 11.000 |  |  | 24.000 | 14.000 |  | 56.000 |  |  |  | 12.000 | 4.000 |
+| **Minimum** | 11.000 |  |  | 24.000 | 14.000 |  | 56.000 |  |  |  | 6.000 | 2.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 30.188 | 18.500 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.494 | 4.301 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

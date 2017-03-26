@@ -207,39 +207,39 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Lewis Hamilton 🇬🇧 | 4 |
-| 2. | Damon Hill 🇬🇧 | 3 |
-| 3. | Fernando Alonso 🇪🇸 | 3 |
-| 4. | Jim Clark 🇬🇧 | 3 |
-| 5. | Nigel Mansell 🇬🇧 | 3 |
-| 6. | Mika Häkkinen 🇫🇮 | 2 |
-| 7. | Nino Farina 🇮🇹 | 2 |
-| 8. | René Arnoux 🇫🇷 | 2 |
-| 9. | Rubens Barrichello 🇧🇷 | 2 |
-| 10. | Sebastian Vettel 🇩🇪 | 2 |
-| 11. | Stirling Moss 🇬🇧 | 2 |
-| 12. | Alain Prost 🇫🇷 | 1 |
-| 13. | Alan Jones 🇦🇺 | 1 |
-| 14. | Alberto Ascari 🇮🇹 | 1 |
-| 15. | Ayrton Senna 🇧🇷 | 1 |
-| 16. | Clay Regazzoni 🇨🇭 | 1 |
-| 17. | Gerhard Berger 🇦🇹 | 1 |
-| 18. | Heikki Kovalainen 🇫🇮 | 1 |
-| 19. | Jack Brabham 🇦🇺 | 1 |
-| 20. | Jacques Villeneuve 🇨🇦 | 1 |
-| 21. | James Hunt 🇬🇧 | 1 |
-| 22. | Jochen Rindt 🇦🇹 | 1 |
-| 23. | José Froilán González 🇦🇷 | 1 |
-| 24. | Juan Fangio 🇦🇷 | 1 |
-| 25. | Juan Pablo Montoya 🇨🇴 | 1 |
-| 26. | Keke Rosberg 🇫🇮 | 1 |
-| 27. | Kimi Räikkönen 🇫🇮 | 1 |
-| 28. | Mark Webber 🇦🇺 | 1 |
-| 29. | Michael Schumacher 🇩🇪 | 1 |
-| 30. | Nelson Piquet 🇧🇷 | 1 |
-| 31. | Nico Rosberg 🇩🇪 | 1 |
-| 32. | Ronnie Peterson 🇸🇪 | 1 |
-| 33. | Tom Pryce 🇬🇧 | 1 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
+| 2. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 3 |
+| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 4. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 3 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| 6. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 7. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 |
+| 8. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 2 |
+| 9. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 2 |
+| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 11. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 2 |
+| 12. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 13. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 14. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 |
+| 15. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 16. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 17. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
+| 18. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 1 |
+| 19. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 20. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 21. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 22. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 23. | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| 24. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 25. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 26. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 27. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 28. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
+| 29. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 30. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 31. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 32. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
+| 33. | [Tom Pryce 🇬🇧](/f1/drivers/pryce) | 1 |
 
 #### Statistic Summary
 

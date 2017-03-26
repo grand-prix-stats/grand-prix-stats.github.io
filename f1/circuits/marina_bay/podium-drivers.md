@@ -111,15 +111,15 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 6 |
-| 2. | Fernando Alonso 🇪🇸 | 5 |
-| 3. | Lewis Hamilton 🇬🇧 | 4 |
-| 4. | Daniel Ricciardo 🇦🇺 | 3 |
-| 5. | Jenson Button 🇬🇧 | 2 |
-| 6. | Kimi Räikkönen 🇫🇮 | 2 |
-| 7. | Mark Webber 🇦🇺 | 2 |
-| 8. | Nico Rosberg 🇩🇪 | 2 |
-| 9. | Timo Glock 🇩🇪 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 6 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 5 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
+| 4. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 3 |
+| 5. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
+| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 7. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 8. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 9. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 1 |
 
 #### Statistic Summary
 

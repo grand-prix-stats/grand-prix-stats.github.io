@@ -24,7 +24,7 @@ collectionId: malaysia
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Sepang International Circuit](/f1/circuits/sepang) | Kuala Lumpur | [Malaysia](/f1/countries/malaysia) | 19 | Sebastian Vettel 🇩🇪 | 4 |
+| [Sepang International Circuit](/f1/circuits/sepang) | Kuala Lumpur | [Malaysia](/f1/countries/malaysia) | 19 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
 
 #### Statistic Summary
 

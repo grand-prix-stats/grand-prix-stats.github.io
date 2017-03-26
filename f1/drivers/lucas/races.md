@@ -22,22 +22,23 @@ collectionId: lucas
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11 | 22 | R | 7 |   | Juan Fangio 🇦🇷 | Mercedes 🇩🇪 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11 | 22 | R | 0.0 | 7 |   | Gordini 🇫🇷 | [Jacques Pollet 🇫🇷](/f1/drivers/pollet) | 19 | R |
+| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11 | 22 | R | 0.0 | 7 |   | Gordini 🇫🇷 | [Hernando da Silva Ramos 🇧🇷](/f1/drivers/ramos) | 18 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **Mean μ (Average)** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **Maximum** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **75th Percentile** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **Median** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **25th Percentile** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **Minimum** | 7.000 |  |  | 22.000 |  | 7.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 14.000 |  |  | 44.000 |  |  | 14.000 |  |  |  | 37.000 |  |
+| **Mean μ (Average)** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 18.500 |  |
+| **Maximum** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
+| **75th Percentile** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
+| **Median** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
+| **25th Percentile** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 18.000 |  |
+| **Minimum** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 18.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,26 +1,32 @@
 [
     {
+        "constructor": "Kojima 🇯🇵",
         "date": "1977-10-23",
         "final_position": "R",
         "grid": 19,
         "laps_completed": 1,
         "name": "1977 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 17,
         "season": 1977,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
+        "teammate": "Kazuyoshi Hoshino 🇯🇵",
+        "teammate_final_position": "11",
+        "teammate_grid": 11,
+        "time": null
     },
     {
+        "constructor": "Surtees 🇬🇧",
         "date": "1976-10-24",
         "final_position": "9",
         "grid": 24,
         "laps_completed": 70,
         "name": "1976 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
         "round": 16,
         "season": 1976,
-        "time": null,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Mario Andretti 🇺🇸"
+        "teammate": "Alan Jones 🇦🇺",
+        "teammate_final_position": "4",
+        "teammate_grid": 20,
+        "time": null
     }
 ]

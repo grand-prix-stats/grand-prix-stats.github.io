@@ -1,14 +1,62 @@
 [
     {
+        "constructor": "Kuzma 🇺🇸",
         "date": "1958-05-30",
         "final_position": "R",
         "grid": 28,
         "laps_completed": 0,
         "name": "1958 Indianapolis 500 🇺🇸",
+        "points": 0.0,
         "round": 4,
         "season": 1958,
-        "time": null,
-        "winning_constructor": "Epperly 🇺🇸",
-        "winning_driver": "Jimmy Bryan 🇺🇸"
+        "teammate": "Johnnie Tolan 🇺🇸",
+        "teammate_final_position": "13",
+        "teammate_grid": 30,
+        "time": null
+    },
+    {
+        "constructor": "Kuzma 🇺🇸",
+        "date": "1958-05-30",
+        "final_position": "R",
+        "grid": 28,
+        "laps_completed": 0,
+        "name": "1958 Indianapolis 500 🇺🇸",
+        "points": 0.0,
+        "round": 4,
+        "season": 1958,
+        "teammate": "Dempsey Wilson 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 32,
+        "time": null
+    },
+    {
+        "constructor": "Kuzma 🇺🇸",
+        "date": "1958-05-30",
+        "final_position": "R",
+        "grid": 28,
+        "laps_completed": 0,
+        "name": "1958 Indianapolis 500 🇺🇸",
+        "points": 0.0,
+        "round": 4,
+        "season": 1958,
+        "teammate": "Anthony Foyt 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 12,
+        "time": null
+    },
+    {
+        "constructor": "Kuzma 🇺🇸",
+        "date": "1958-05-30",
+        "final_position": "R",
+        "grid": 28,
+        "laps_completed": 0,
+        "name": "1958 Indianapolis 500 🇺🇸",
+        "points": 0.0,
+        "round": 4,
+        "season": 1958,
+        "teammate": "Eddie Sachs 🇺🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

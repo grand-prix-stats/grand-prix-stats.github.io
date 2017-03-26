@@ -24,28 +24,28 @@ collectionId: azerbaijan
 
 | Driver | Times |
 |--|--|
-| Carlos Sainz 🇪🇸 | 1 |
-| Daniel Ricciardo 🇦🇺 | 1 |
-| Daniil Kvyat 🇷🇺 | 1 |
-| Esteban Gutiérrez 🇲🇽 | 1 |
-| Felipe Massa 🇧🇷 | 1 |
-| Felipe Nasr 🇧🇷 | 1 |
-| Fernando Alonso 🇪🇸 | 1 |
-| Jenson Button 🇬🇧 | 1 |
-| Jolyon Palmer 🇬🇧 | 1 |
-| Kevin Magnussen 🇩🇰 | 1 |
-| Kimi Räikkönen 🇫🇮 | 1 |
-| Lewis Hamilton 🇬🇧 | 1 |
-| Marcus Ericsson 🇸🇪 | 1 |
-| Max Verstappen 🇳🇱 | 1 |
-| Nico Hülkenberg 🇩🇪 | 1 |
-| Nico Rosberg 🇩🇪 | 1 |
-| Pascal Wehrlein 🇩🇪 | 1 |
-| Rio Haryanto 🇮🇩 | 1 |
-| Romain Grosjean 🇫🇷 | 1 |
-| Sebastian Vettel 🇩🇪 | 1 |
-| Sergio Pérez 🇲🇽 | 1 |
-| Valtteri Bottas 🇫🇮 | 1 |
+| [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 1 |
+| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 1 |
+| [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 1 |
+| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| [Felipe Nasr 🇧🇷](/f1/drivers/nasr) | 1 |
+| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 1 |
+| [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 1 |
+| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 1 |
+| [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
+| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 1 |
+| [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 1 |
+| [Rio Haryanto 🇮🇩](/f1/drivers/haryanto) | 1 |
+| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
+| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 

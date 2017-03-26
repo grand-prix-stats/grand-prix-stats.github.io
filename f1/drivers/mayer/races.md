@@ -22,22 +22,24 @@ collectionId: mayer
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 12 | R | 31 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 12 | R | 0.0 | 31 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 6 | 3 |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 12 | R | 0.0 | 31 |   | Cooper-Climax 🇬🇧 | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 10 | 7 |
+| 1962 | 8 | 1962 United States Grand Prix 🇺🇸 | 1962-10-07 | 12 | R | 0.0 | 31 |   | Cooper-Climax 🇬🇧 | [Hap Sharp 🇺🇸](/f1/drivers/sharp) | 15 | 11 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **Maximum** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **75th Percentile** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **Median** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **25th Percentile** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **Minimum** | 8.000 |  |  | 12.000 |  | 31.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 3 |
+| **Total Sum** | 24.000 |  |  | 36.000 |  |  | 93.000 |  |  |  | 31.000 | 21.000 |
+| **Mean μ (Average)** | 8.000 |  |  | 12.000 |  |  | 31.000 |  |  |  | 10.333 | 7.000 |
+| **Maximum** | 8.000 |  |  | 12.000 |  |  | 31.000 |  |  |  | 15.000 | 11.000 |
+| **75th Percentile** | 8.000 |  |  | 12.000 |  |  | 31.000 |  |  |  | 15.000 | 11.000 |
+| **Median** | 8.000 |  |  | 12.000 |  |  | 31.000 |  |  |  | 10.000 | 7.000 |
+| **25th Percentile** | 8.000 |  |  | 12.000 |  |  | 31.000 |  |  |  | 6.000 | 3.000 |
+| **Minimum** | 8.000 |  |  | 12.000 |  |  | 31.000 |  |  |  | 6.000 | 3.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 13.556 | 10.667 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.682 | 3.266 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

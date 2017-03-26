@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Juan Fangio 🇦🇷 | 3 |
-| 2. | Felice Bonetto 🇮🇹 | 1 |
-| 3. | José Froilán González 🇦🇷 | 1 |
-| 4. | Nino Farina 🇮🇹 | 1 |
+| 1. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 2. | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 1 |
+| 3. | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
+| 4. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
 
 #### Statistic Summary
 

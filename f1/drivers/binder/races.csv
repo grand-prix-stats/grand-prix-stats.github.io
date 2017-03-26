@@ -1,16 +1,15 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1976 Austrian Grand Prix 🇦🇹,11,19,47,Penske 🇺🇸,1976-08-15,R,,1976,John Watson 🇬🇧
-1976 Japanese Grand Prix 🇯🇵,16,25,49,Team Lotus 🇬🇧,1976-10-24,R,,1976,Mario Andretti 🇺🇸
-1977 Argentine Grand Prix 🇦🇷,1,18,18,Wolf 🇨🇦,1977-01-09,R,,1977,Jody Scheckter 🇿🇦
-1977 Austrian Grand Prix 🇦🇹,12,19,53,Shadow 🇬🇧,1977-08-14,12,,1977,Alan Jones 🇦🇺
-1977 Brazilian Grand Prix 🇧🇷,2,20,32,Ferrari 🇮🇹,1977-01-23,R,,1977,Carlos Reutemann 🇦🇷
-1977 Canadian Grand Prix 🇨🇦,16,24,31,Wolf 🇨🇦,1977-10-09,R,,1977,Jody Scheckter 🇿🇦
-1977 Dutch Grand Prix 🇳🇱,13,18,73,Ferrari 🇮🇹,1977-08-28,8,,1977,Niki Lauda 🇦🇹
-1977 Italian Grand Prix 🇮🇹,14,0,0,Team Lotus 🇬🇧,1977-09-11,F,,1977,Mario Andretti 🇺🇸
-1977 Japanese Grand Prix 🇯🇵,17,21,1,McLaren 🇬🇧,1977-10-23,R,,1977,James Hunt 🇬🇧
-1977 Monaco Grand Prix 🇲🇨,6,19,41,Wolf 🇨🇦,1977-05-22,R,,1977,Jody Scheckter 🇿🇦
-1977 South African Grand Prix 🇿🇦,3,19,77,Ferrari 🇮🇹,1977-03-05,11,,1977,Niki Lauda 🇦🇹
-1977 Spanish Grand Prix 🇪🇸,5,20,73,Team Lotus 🇬🇧,1977-05-08,9,,1977,Mario Andretti 🇺🇸
-1977 United States Grand Prix West 🇺🇸,4,19,77,Team Lotus 🇬🇧,1977-04-03,11,,1977,Mario Andretti 🇺🇸
-1977 United States Grand Prix 🇺🇸,15,25,57,McLaren 🇬🇧,1977-10-02,11,,1977,James Hunt 🇬🇧
-1978 Austrian Grand Prix 🇦🇹,12,0,0,Team Lotus 🇬🇧,1978-08-13,F,,1978,Ronnie Peterson 🇸🇪
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1976 Japanese Grand Prix 🇯🇵,R,25,1976-10-24,R,1976,Arturo Merzario 🇮🇹,Wolf 🇨🇦,16,19,49,,0.0
+1977 Argentine Grand Prix 🇦🇷,7,18,1977-01-09,R,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,1,13,18,,0.0
+1977 Austrian Grand Prix 🇦🇹,14,19,1977-08-14,12,1977,Jean-Pierre Jarier 🇫🇷,Penske 🇺🇸,12,18,53,,0.0
+1977 Brazilian Grand Prix 🇧🇷,R,20,1977-01-23,R,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,2,11,32,,0.0
+1977 Canadian Grand Prix 🇨🇦,6,24,1977-10-09,R,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,16,15,31,,0.0
+1977 Dutch Grand Prix 🇳🇱,R,18,1977-08-28,8,1977,Jean-Pierre Jarier 🇫🇷,Penske 🇺🇸,13,21,73,,0.0
+1977 Italian Grand Prix 🇮🇹,R,0,1977-09-11,F,1977,Jean-Pierre Jarier 🇫🇷,Penske 🇺🇸,14,18,0,,0.0
+1977 Japanese Grand Prix 🇯🇵,8,21,1977-10-23,R,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,17,9,1,,0.0
+1977 Monaco Grand Prix 🇲🇨,8,19,1977-05-22,R,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,6,14,41,,0.0
+1977 South African Grand Prix 🇿🇦,7,19,1977-03-05,11,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,3,14,77,,0.0
+1977 Spanish Grand Prix 🇪🇸,R,20,1977-05-08,9,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,5,11,73,,0.0
+1977 United States Grand Prix West 🇺🇸,R,19,1977-04-03,11,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,4,11,77,,0.0
+1977 United States Grand Prix 🇺🇸,19,25,1977-10-02,11,1977,Vittorio Brambilla 🇮🇹,Surtees 🇬🇧,15,11,57,,0.0
+1978 Austrian Grand Prix 🇦🇹,F,0,1978-08-13,F,1978,Jochen Mass 🇩🇪,ATS 🇮🇹,12,0,0,,0.0

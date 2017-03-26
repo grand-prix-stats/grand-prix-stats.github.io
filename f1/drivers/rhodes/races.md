@@ -22,22 +22,23 @@ collectionId: rhodes
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 5 | 1965 British Grand Prix 🇬🇧 | 1965-07-10 | 21 | R | 38 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1965 | 5 | 1965 British Grand Prix 🇬🇧 | 1965-07-10 | 21 | R | 0.0 | 38 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 11 | 10 |
+| 1965 | 5 | 1965 British Grand Prix 🇬🇧 | 1965-07-10 | 21 | R | 0.0 | 38 |   | Cooper-Climax 🇬🇧 | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 12 | 14 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **Median** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 21.000 |  | 38.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 10.000 |  |  | 42.000 |  |  | 76.000 |  |  |  | 23.000 | 24.000 |
+| **Mean μ (Average)** | 5.000 |  |  | 21.000 |  |  | 38.000 |  |  |  | 11.500 | 12.000 |
+| **Maximum** | 5.000 |  |  | 21.000 |  |  | 38.000 |  |  |  | 12.000 | 14.000 |
+| **75th Percentile** | 5.000 |  |  | 21.000 |  |  | 38.000 |  |  |  | 12.000 | 14.000 |
+| **Median** | 5.000 |  |  | 21.000 |  |  | 38.000 |  |  |  | 12.000 | 14.000 |
+| **25th Percentile** | 5.000 |  |  | 21.000 |  |  | 38.000 |  |  |  | 11.000 | 10.000 |
+| **Minimum** | 5.000 |  |  | 21.000 |  |  | 38.000 |  |  |  | 11.000 | 10.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 | 4.000 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 | 2.000 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

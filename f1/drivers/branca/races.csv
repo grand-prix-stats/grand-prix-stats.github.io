@@ -1,4 +1,7 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1950 Belgian Grand Prix 🇧🇪,5,11,29,Alfa Romeo 🇮🇹,1950-06-18,10,,1950,Juan Fangio 🇦🇷
-1950 Swiss Grand Prix 🇨🇭,4,17,35,Alfa Romeo 🇮🇹,1950-06-04,11,,1950,Nino Farina 🇮🇹
-1951 German Grand Prix 🇩🇪,6,17,3,Ferrari 🇮🇹,1951-07-29,R,,1951,Alberto Ascari 🇮🇹
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1950 Swiss Grand Prix 🇨🇭,4,17,1950-06-04,11,1950,Prince Bira 🇹🇭,Maserati 🇮🇹,4,8,35,,0.0
+1950 Swiss Grand Prix 🇨🇭,5,17,1950-06-04,11,1950,Felice Bonetto 🇮🇹,Maserati 🇮🇹,4,12,35,,0.0
+1950 Swiss Grand Prix 🇨🇭,6,17,1950-06-04,11,1950,Toulo de Graffenried 🇨🇭,Maserati 🇮🇹,4,11,35,,0.0
+1950 Swiss Grand Prix 🇨🇭,7,17,1950-06-04,11,1950,Nello Pagani 🇮🇹,Maserati 🇮🇹,4,15,35,,0.0
+1950 Swiss Grand Prix 🇨🇭,9,17,1950-06-04,11,1950,Louis Chiron 🇲🇨,Maserati 🇮🇹,4,16,35,,0.0
+1951 German Grand Prix 🇩🇪,R,17,1951-07-29,R,1951,Toulo de Graffenried 🇨🇭,Maserati 🇮🇹,6,16,3,,0.0

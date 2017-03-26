@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Dan Gurney 🇺🇸 | 1 |
-| 2. | Masten Gregory 🇺🇸 | 1 |
-| 3. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 2. | [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 1 |
+| 3. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

@@ -155,26 +155,26 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | René Arnoux 🇫🇷 | 3 |
-| 2. | Alain Prost 🇫🇷 | 2 |
-| 3. | Alberto Ascari 🇮🇹 | 2 |
-| 4. | Graham Hill 🇬🇧 | 2 |
-| 5. | Jochen Rindt 🇦🇹 | 2 |
-| 6. | Mario Andretti 🇺🇸 | 2 |
-| 7. | Nelson Piquet 🇧🇷 | 2 |
-| 8. | Niki Lauda 🇦🇹 | 2 |
-| 9. | Ronnie Peterson 🇸🇪 | 2 |
-| 10. | Chris Amon 🇳🇿 | 1 |
-| 11. | Dan Gurney 🇺🇸 | 1 |
-| 12. | Jack Brabham 🇦🇺 | 1 |
-| 13. | Jacky Ickx 🇧🇪 | 1 |
-| 14. | Jim Clark 🇬🇧 | 1 |
-| 15. | Jo Bonnier 🇸🇪 | 1 |
-| 16. | John Surtees 🇬🇧 | 1 |
-| 17. | Juan Fangio 🇦🇷 | 1 |
-| 18. | Phil Hill 🇺🇸 | 1 |
-| 19. | Stirling Moss 🇬🇧 | 1 |
-| 20. | Stuart Lewis-Evans 🇬🇧 | 1 |
+| 1. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 3 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
+| 3. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| 4. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 2 |
+| 5. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 2 |
+| 6. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 7. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 8. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 9. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 10. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| 11. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 12. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 13. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 14. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 15. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 1 |
+| 16. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 |
+| 17. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
+| 18. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 19. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| 20. | [Stuart Lewis-Evans 🇬🇧](/f1/drivers/lewis-evans) | 1 |
 
 #### Statistic Summary
 

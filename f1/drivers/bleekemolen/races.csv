@@ -1,6 +1,10 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1977 Dutch Grand Prix 🇳🇱,13,0,0,Ferrari 🇮🇹,1977-08-28,F,,1977,Niki Lauda 🇦🇹
-1978 Canadian Grand Prix 🇨🇦,16,0,0,Ferrari 🇮🇹,1978-10-08,F,,1978,Gilles Villeneuve 🇨🇦
-1978 Dutch Grand Prix 🇳🇱,13,0,0,Team Lotus 🇬🇧,1978-08-27,F,,1978,Mario Andretti 🇺🇸
-1978 Italian Grand Prix 🇮🇹,14,0,0,Brabham 🇬🇧,1978-09-10,F,,1978,Niki Lauda 🇦🇹
-1978 United States Grand Prix 🇺🇸,15,25,43,Ferrari 🇮🇹,1978-10-01,R,,1978,Carlos Reutemann 🇦🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1977 Dutch Grand Prix 🇳🇱,10,0,1977-08-28,F,1977,Ian Scheckter 🇿🇦,March 🇬🇧,13,25,0,,0.0
+1977 Dutch Grand Prix 🇳🇱,11,0,1977-08-28,F,1977,Alex Ribeiro 🇧🇷,March 🇬🇧,13,24,0,,0.0
+1977 Dutch Grand Prix 🇳🇱,F,0,1977-08-28,F,1977,Patrick Nève 🇧🇪,March 🇬🇧,13,0,0,,0.0
+1977 Dutch Grand Prix 🇳🇱,F,0,1977-08-28,F,1977,Arturo Merzario 🇮🇹,March 🇬🇧,13,0,0,,0.0
+1977 Dutch Grand Prix 🇳🇱,F,0,1977-08-28,F,1977,Boy Lunger 🇳🇱,March 🇬🇧,13,0,0,,0.0
+1978 Canadian Grand Prix 🇨🇦,N,0,1978-10-08,F,1978,Keke Rosberg 🇫🇮,ATS 🇮🇹,16,21,0,,0.0
+1978 Dutch Grand Prix 🇳🇱,F,0,1978-08-27,F,1978,Jochen Mass 🇩🇪,ATS 🇮🇹,13,0,0,,0.0
+1978 Italian Grand Prix 🇮🇹,F,0,1978-09-10,F,1978,Harald Ertl 🇦🇹,ATS 🇮🇹,14,0,0,,0.0
+1978 United States Grand Prix 🇺🇸,R,25,1978-10-01,R,1978,Keke Rosberg 🇫🇮,ATS 🇮🇹,15,15,43,,0.0

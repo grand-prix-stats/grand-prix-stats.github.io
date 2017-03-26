@@ -1,9 +1,9 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1984 Austrian Grand Prix 🇦🇹,12,22,6,McLaren 🇬🇧,1984-08-19,R,,1984,Niki Lauda 🇦🇹
-1984 British Grand Prix 🇬🇧,10,27,0,McLaren 🇬🇧,1984-07-22,R,,1984,Niki Lauda 🇦🇹
-1984 Dutch Grand Prix 🇳🇱,13,23,66,McLaren 🇬🇧,1984-08-26,12,,1984,Alain Prost 🇫🇷
-1984 European Grand Prix 🇩🇪,15,22,60,McLaren 🇬🇧,1984-10-07,R,,1984,Alain Prost 🇫🇷
-1984 German Grand Prix 🇩🇪,11,23,13,McLaren 🇬🇧,1984-08-05,R,,1984,Alain Prost 🇫🇷
-1984 Italian Grand Prix 🇮🇹,14,24,49,McLaren 🇬🇧,1984-09-09,5,,1984,Niki Lauda 🇦🇹
-1984 Portuguese Grand Prix 🇵🇹,16,24,65,McLaren 🇬🇧,1984-10-21,16,,1984,Alain Prost 🇫🇷
-1984 San Marino Grand Prix 🇮🇹,4,26,46,McLaren 🇬🇧,1984-05-06,R,,1984,Alain Prost 🇫🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1984 Austrian Grand Prix 🇦🇹,R,22,1984-08-19,R,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,12,23,6,,0.0
+1984 British Grand Prix 🇬🇧,9,27,1984-07-22,R,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,10,21,0,,0.0
+1984 Dutch Grand Prix 🇳🇱,R,23,1984-08-26,12,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,13,21,66,,0.0
+1984 European Grand Prix 🇩🇪,R,22,1984-10-07,R,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,15,20,60,,0.0
+1984 German Grand Prix 🇩🇪,R,23,1984-08-05,R,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,11,21,13,,0.0
+1984 Italian Grand Prix 🇮🇹,7,24,1984-09-09,5,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,14,22,49,,0.0
+1984 Portuguese Grand Prix 🇵🇹,R,24,1984-10-21,16,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,16,22,65,,0.0
+1984 San Marino Grand Prix 🇮🇹,F,26,1984-05-06,R,1984,Piercarlo Ghinzani 🇮🇹,Osella 🇮🇹,4,0,46,,0.0

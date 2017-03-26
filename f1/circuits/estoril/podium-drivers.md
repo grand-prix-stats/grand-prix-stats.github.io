@@ -147,24 +147,24 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 7 |
-| 2. | Ayrton Senna 🇧🇷 | 5 |
-| 3. | Damon Hill 🇬🇧 | 4 |
-| 4. | Gerhard Berger 🇦🇹 | 3 |
-| 5. | Michael Schumacher 🇩🇪 | 3 |
-| 6. | Nigel Mansell 🇬🇧 | 3 |
-| 7. | David Coulthard 🇬🇧 | 2 |
-| 8. | Nelson Piquet 🇧🇷 | 2 |
-| 9. | Ivan Capelli 🇮🇹 | 1 |
-| 10. | Jacques Villeneuve 🇨🇦 | 1 |
-| 11. | Jean Alesi 🇫🇷 | 1 |
-| 12. | Michele Alboreto 🇮🇹 | 1 |
-| 13. | Mika Häkkinen 🇫🇮 | 1 |
-| 14. | Niki Lauda 🇦🇹 | 1 |
-| 15. | Patrick Tambay 🇫🇷 | 1 |
-| 16. | Riccardo Patrese 🇮🇹 | 1 |
-| 17. | Stefan Johansson 🇸🇪 | 1 |
-| 18. | Thierry Boutsen 🇧🇪 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 7 |
+| 2. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 5 |
+| 3. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 4 |
+| 4. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 |
+| 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 3 |
+| 6. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
+| 7. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 8. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 2 |
+| 9. | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 1 |
+| 10. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 11. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 1 |
+| 12. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 13. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 14. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 15. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 16. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 17. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 1 |
+| 18. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 1 |
 
 #### Statistic Summary
 

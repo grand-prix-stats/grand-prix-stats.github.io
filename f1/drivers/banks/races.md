@@ -22,24 +22,24 @@ collectionId: banks
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 2 | 1952 Indianapolis 500 🇺🇸 | 1952-05-30 | 12 | 19 | 184 |   | Troy Ruttman 🇺🇸 | Kuzma 🇺🇸 |
-| 1951 | 2 | 1951 Indianapolis 500 🇺🇸 | 1951-05-30 | 17 | 6 | 200 | +5:40.02 | Lee Wallard 🇺🇸 | Kurtis Kraft 🇺🇸 |
-| 1950 | 3 | 1950 Indianapolis 500 🇺🇸 | 1950-05-30 | 21 | R | 112 |   | Johnnie Parsons 🇺🇸 | Kurtis Kraft 🇺🇸 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1952 | 2 | 1952 Indianapolis 500 🇺🇸 | 1952-05-30 | 12 | 19 | 0.0 | 184 |   | Lesovsky 🇺🇸 | [Duane Carter 🇺🇸](/f1/drivers/darter) | 6 | 4 |
+| 1952 | 2 | 1952 Indianapolis 500 🇺🇸 | 1952-05-30 | 12 | 19 | 0.0 | 184 |   | Lesovsky 🇺🇸 | [Manny Ayulo 🇺🇸](/f1/drivers/ayulo) | 28 | 20 |
+| 1950 | 3 | 1950 Indianapolis 500 🇺🇸 | 1950-05-30 | 21 | R | 0.0 | 112 |   | Maserati 🇮🇹 | [Travis Webb 🇺🇸](/f1/drivers/webb) | 14 | 20 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 3 |  |  | 3 | 2 | 3 |  |  |  |
-| **Total Sum** | 7.000 |  |  | 50.000 | 25.000 | 496.000 |  |  |  |
-| **Mean μ (Average)** | 2.333 |  |  | 16.667 | 12.500 | 165.333 |  |  |  |
-| **Maximum** | 3.000 |  |  | 21.000 | 19.000 | 200.000 |  |  |  |
-| **75th Percentile** | 3.000 |  |  | 21.000 | 19.000 | 200.000 |  |  |  |
-| **Median** | 2.000 |  |  | 17.000 | 19.000 | 184.000 |  |  |  |
-| **25th Percentile** | 2.000 |  |  | 12.000 | 6.000 | 112.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 12.000 | 6.000 | 112.000 |  |  |  |
-| **Variance** | 0.222 |  |  | 13.556 | 42.250 | 1464.889 |  |  |  |
-| **Standard Deviation σ** | 0.471 |  |  | 3.682 | 6.500 | 38.274 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 | 2 | 3 | 3 |  |  |  | 3 | 3 |
+| **Total Sum** | 7.000 |  |  | 45.000 | 38.000 |  | 480.000 |  |  |  | 48.000 | 44.000 |
+| **Mean μ (Average)** | 2.333 |  |  | 15.000 | 19.000 |  | 160.000 |  |  |  | 16.000 | 14.667 |
+| **Maximum** | 3.000 |  |  | 21.000 | 19.000 |  | 184.000 |  |  |  | 28.000 | 20.000 |
+| **75th Percentile** | 3.000 |  |  | 21.000 | 19.000 |  | 184.000 |  |  |  | 28.000 | 20.000 |
+| **Median** | 2.000 |  |  | 12.000 | 19.000 |  | 184.000 |  |  |  | 14.000 | 20.000 |
+| **25th Percentile** | 2.000 |  |  | 12.000 | 19.000 |  | 112.000 |  |  |  | 6.000 | 4.000 |
+| **Minimum** | 2.000 |  |  | 12.000 | 19.000 |  | 112.000 |  |  |  | 6.000 | 4.000 |
+| **Variance** | 0.222 |  |  | 18.000 |  |  | 1152.000 |  |  |  | 82.667 | 56.889 |
+| **Standard Deviation σ** | 0.471 |  |  | 4.243 |  |  | 33.941 |  |  |  | 9.092 | 7.542 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -99,12 +99,12 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Alain Prost 🇫🇷 | 1 |
-| 2. | Alan Jones 🇦🇺 | 1 |
-| 3. | Bruno Giacomelli 🇮🇹 | 1 |
-| 4. | Eddie Cheever 🇺🇸 | 1 |
-| 5. | John Watson 🇬🇧 | 1 |
-| 6. | Michele Alboreto 🇮🇹 | 1 |
+| 1. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 2. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 1 |
+| 3. | [Bruno Giacomelli 🇮🇹](/f1/drivers/giacomelli) | 1 |
+| 4. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
+| 5. | [John Watson 🇬🇧](/f1/drivers/watson) | 1 |
+| 6. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
 
 #### Statistic Summary
 

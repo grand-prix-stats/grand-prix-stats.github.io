@@ -22,23 +22,24 @@ collectionId: francia
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 7 | 1981 Spanish Grand Prix 🇪🇸 | 1981-06-21 | 0 | F | 0 |   | Gilles Villeneuve 🇨🇦 | Ferrari 🇮🇹 |
-| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1981 | 7 | 1981 Spanish Grand Prix 🇪🇸 | 1981-06-21 | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
+| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 11 | R |
+| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 21.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 10.500 |  |  |  |  |  |  |  |  |
-| **Maximum** | 14.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 14.000 |  |  |  |  |  |  |  |  |
-| **Median** | 14.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 7.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 7.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 12.250 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 3.500 |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 35.000 |  |  |  |  |  |  |  |  |  | 25.000 |  |
+| **Mean μ (Average)** | 11.667 |  |  |  |  |  |  |  |  |  | 8.333 |  |
+| **Maximum** | 14.000 |  |  |  |  |  |  |  |  |  | 14.000 |  |
+| **75th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 14.000 |  |
+| **Median** | 14.000 |  |  |  |  |  |  |  |  |  | 11.000 |  |
+| **25th Percentile** | 7.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 7.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Variance** | 10.889 |  |  |  |  |  |  |  |  |  | 36.222 |  |
+| **Standard Deviation σ** | 3.300 |  |  |  |  |  |  |  |  |  | 6.018 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

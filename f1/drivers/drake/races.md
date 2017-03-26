@@ -22,22 +22,10 @@ collectionId: drake
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 10 | 1960 United States Grand Prix 🇺🇸 | 1960-11-20 | 22 | 13 | 68 |   | Stirling Moss 🇬🇧 | Team Lotus 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **Mean μ (Average)** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **Maximum** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **Median** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **25th Percentile** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **Minimum** | 10.000 |  |  | 22.000 | 13.000 | 68.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

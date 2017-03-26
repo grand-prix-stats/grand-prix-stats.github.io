@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Elio de Angelis 🇮🇹 | 1 |
-| 2. | Keke Rosberg 🇫🇮 | 1 |
-| 3. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 2. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 3. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

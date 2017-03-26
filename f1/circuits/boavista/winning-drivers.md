@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Jack Brabham 🇦🇺 | 1 |
-| 2. | Stirling Moss 🇬🇧 | 1 |
+| 1. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 2. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 
 #### Statistic Summary
 

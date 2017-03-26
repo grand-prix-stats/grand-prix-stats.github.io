@@ -22,23 +22,23 @@ collectionId: rooyen
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1969 | 1 | 1969 South African Grand Prix 🇿🇦 | 1969-03-01 | 9 | R | 12 |   | Jackie Stewart 🇬🇧 | Matra-Ford 🇫🇷 |
-| 1968 | 1 | 1968 South African Grand Prix 🇿🇦 | 1968-01-01 | 20 | R | 22 |   | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1969 | 1 | 1969 South African Grand Prix 🇿🇦 | 1969-03-01 | 9 | R | 0.0 | 12 |   | McLaren-Ford 🇬🇧 | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 3 | 3 |
+| 1969 | 1 | 1969 South African Grand Prix 🇿🇦 | 1969-03-01 | 9 | R | 0.0 | 12 |   | McLaren-Ford 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 8 | 5 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 |  | 2 |  |  |  |
-| **Total Sum** | 2.000 |  |  | 29.000 |  | 34.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 14.500 |  | 17.000 |  |  |  |
-| **Maximum** | 1.000 |  |  | 20.000 |  | 22.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 20.000 |  | 22.000 |  |  |  |
-| **Median** | 1.000 |  |  | 20.000 |  | 22.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 9.000 |  | 12.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 9.000 |  | 12.000 |  |  |  |
-| **Variance** |  |  |  | 30.250 |  | 25.000 |  |  |  |
-| **Standard Deviation σ** |  |  |  | 5.500 |  | 5.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 2.000 |  |  | 18.000 |  |  | 24.000 |  |  |  | 11.000 | 8.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 9.000 |  |  | 12.000 |  |  |  | 5.500 | 4.000 |
+| **Maximum** | 1.000 |  |  | 9.000 |  |  | 12.000 |  |  |  | 8.000 | 5.000 |
+| **75th Percentile** | 1.000 |  |  | 9.000 |  |  | 12.000 |  |  |  | 8.000 | 5.000 |
+| **Median** | 1.000 |  |  | 9.000 |  |  | 12.000 |  |  |  | 8.000 | 5.000 |
+| **25th Percentile** | 1.000 |  |  | 9.000 |  |  | 12.000 |  |  |  | 3.000 | 3.000 |
+| **Minimum** | 1.000 |  |  | 9.000 |  |  | 12.000 |  |  |  | 3.000 | 3.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 6.250 | 1.000 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.500 | 1.000 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

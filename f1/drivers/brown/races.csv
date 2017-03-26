@@ -1,2 +1,2 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1976 United States Grand Prix 🇺🇸,15,23,54,McLaren 🇬🇧,1976-10-10,14,,1976,James Hunt 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1976 United States Grand Prix 🇺🇸,R,23,1976-10-10,14,1976,Arturo Merzario 🇮🇹,Wolf 🇨🇦,15,25,54,,0.0

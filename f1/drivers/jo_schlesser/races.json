@@ -1,26 +1,32 @@
 [
     {
+        "constructor": "Honda 🇯🇵",
         "date": "1968-07-07",
         "final_position": "R",
         "grid": 16,
         "laps_completed": 2,
         "name": "1968 French Grand Prix 🇫🇷",
+        "points": 0.0,
         "round": 6,
         "season": 1968,
-        "time": null,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Jacky Ickx 🇧🇪"
+        "teammate": "John Surtees 🇬🇧",
+        "teammate_final_position": "2",
+        "teammate_grid": 7,
+        "time": null
     },
     {
+        "constructor": "Matra 🇫🇷",
         "date": "1967-08-06",
         "final_position": "R",
         "grid": 21,
         "laps_completed": 2,
         "name": "1967 German Grand Prix 🇩🇪",
+        "points": 0.0,
         "round": 7,
         "season": 1967,
-        "time": null,
-        "winning_constructor": "Brabham-Repco 🇬🇧",
-        "winning_driver": "Denny Hulme 🇳🇿"
+        "teammate": "Jacky Ickx 🇧🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
     }
 ]

@@ -79,7 +79,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Lorenzo Bandini 🇮🇹 | 1 |
+| 1. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 1 |
 
 #### Statistic Summary
 

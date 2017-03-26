@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Denny Hulme 🇳🇿 | 1 |
-| 2. | Jack Brabham 🇦🇺 | 1 |
-| 3. | Jackie Stewart 🇬🇧 | 1 |
+| 1. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 2. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 3. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
 
 #### Statistic Summary
 

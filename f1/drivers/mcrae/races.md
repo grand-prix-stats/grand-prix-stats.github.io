@@ -22,22 +22,22 @@ collectionId: mcrae
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1973 | 9 | 1973 British Grand Prix 🇬🇧 | 1973-07-14 | 28 | R | 0 |   | Peter Revson 🇺🇸 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1973 | 9 | 1973 British Grand Prix 🇬🇧 | 1973-07-14 | 28 | R | 0.0 | 0 |   | Iso Marlboro 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 18 | 9 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **Mean μ (Average)** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **Maximum** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **Median** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **25th Percentile** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **Minimum** | 9.000 |  |  | 28.000 |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **Mean μ (Average)** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **Maximum** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **75th Percentile** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **Median** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **25th Percentile** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **Minimum** | 9.000 |  |  | 28.000 |  |  |  |  |  |  | 18.000 | 9.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

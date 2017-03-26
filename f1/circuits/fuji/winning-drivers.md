@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Fernando Alonso 🇪🇸 | 1 |
-| 2. | James Hunt 🇬🇧 | 1 |
-| 3. | Lewis Hamilton 🇬🇧 | 1 |
-| 4. | Mario Andretti 🇺🇸 | 1 |
+| 1. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 2. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 4. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 1 |
 
 #### Statistic Summary
 

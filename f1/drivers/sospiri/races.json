@@ -1,14 +1,17 @@
 [
     {
+        "constructor": "Lola 🇬🇧",
         "date": "1997-03-09",
         "final_position": "F",
         "grid": 23,
         "laps_completed": 0,
         "name": "1997 Australian Grand Prix 🇦🇺",
+        "points": 0.0,
         "round": 1,
         "season": 1997,
-        "time": null,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "David Coulthard 🇬🇧"
+        "teammate": "Ricardo Rosset 🇧🇷",
+        "teammate_final_position": "F",
+        "teammate_grid": 24,
+        "time": null
     }
 ]

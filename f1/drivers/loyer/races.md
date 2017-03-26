@@ -22,22 +22,23 @@ collectionId: loyer
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 1 | 1954 Argentine Grand Prix 🇦🇷 | 1954-01-17 | 16 | R | 19 |   | Juan Fangio 🇦🇷 | Maserati 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1954 | 1 | 1954 Argentine Grand Prix 🇦🇷 | 1954-01-17 | 16 | R | 0.0 | 19 |   | Gordini 🇫🇷 | [Élie Bayol 🇫🇷](/f1/drivers/bayol) | 15 | 5 |
+| 1954 | 1 | 1954 Argentine Grand Prix 🇦🇷 | 1954-01-17 | 16 | R | 0.0 | 19 |   | Gordini 🇫🇷 | [Jean Behra 🇫🇷](/f1/drivers/behra) | 17 | D |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **Maximum** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **Median** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 16.000 |  | 19.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 2.000 |  |  | 32.000 |  |  | 38.000 |  |  |  | 32.000 | 5.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 16.000 |  |  | 19.000 |  |  |  | 16.000 | 5.000 |
+| **Maximum** | 1.000 |  |  | 16.000 |  |  | 19.000 |  |  |  | 17.000 | 5.000 |
+| **75th Percentile** | 1.000 |  |  | 16.000 |  |  | 19.000 |  |  |  | 17.000 | 5.000 |
+| **Median** | 1.000 |  |  | 16.000 |  |  | 19.000 |  |  |  | 17.000 | 5.000 |
+| **25th Percentile** | 1.000 |  |  | 16.000 |  |  | 19.000 |  |  |  | 15.000 | 5.000 |
+| **Minimum** | 1.000 |  |  | 16.000 |  |  | 19.000 |  |  |  | 15.000 | 5.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 1.000 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.000 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

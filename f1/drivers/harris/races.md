@@ -22,22 +22,10 @@ collectionId: harris
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 15 | R | 31 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **Mean μ (Average)** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **Maximum** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **75th Percentile** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **Median** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **25th Percentile** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **Minimum** | 9.000 |  |  | 15.000 |  | 31.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

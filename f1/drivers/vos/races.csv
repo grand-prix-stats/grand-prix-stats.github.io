@@ -1,2 +1,2 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1963 United States Grand Prix 🇺🇸,8,0,0,BRM 🇬🇧,1963-10-06,W,,1963,Graham Hill 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1963 United States Grand Prix 🇺🇸,7,0,1963-10-06,W,1963,Peter Broeker 🇨🇦,Stebro 🇨🇦,8,21,0,,0.0

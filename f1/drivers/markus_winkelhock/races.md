@@ -22,22 +22,22 @@ collectionId: markus_winkelhock
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 2007 | 10 | 2007 European Grand Prix 🇩🇪 | 2007-07-22 | 22 | R | 13 |   | Fernando Alonso 🇪🇸 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2007 | 10 | 2007 European Grand Prix 🇩🇪 | 2007-07-22 | 22 | R | 0.0 | 13 |   | Spyker 🇳🇱 | [Adrian Sutil 🇩🇪](/f1/drivers/sutil) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **Mean μ (Average)** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **Maximum** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **Median** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **25th Percentile** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **Minimum** | 10.000 |  |  | 22.000 |  | 13.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **Mean μ (Average)** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **Maximum** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **75th Percentile** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **Median** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **25th Percentile** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **Minimum** | 10.000 |  |  | 22.000 |  |  | 13.000 |  |  |  | 21.000 |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

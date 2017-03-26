@@ -1,4 +1,5 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1965 German Grand Prix 🇩🇪,7,20,3,Lotus-Climax 🇬🇧,1965-08-01,R,,1965,Jim Clark 🇬🇧
-1965 Monaco Grand Prix 🇲🇨,2,14,79,BRM 🇬🇧,1965-05-30,10,,1965,Graham Hill 🇬🇧
-1965 South African Grand Prix 🇿🇦,1,16,81,Lotus-Climax 🇬🇧,1965-01-01,9,,1965,Jim Clark 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1965 German Grand Prix 🇩🇪,1,20,1965-08-01,R,1965,Jim Clark 🇬🇧,Lotus-Climax 🇬🇧,7,1,3,,0.0
+1965 German Grand Prix 🇩🇪,R,20,1965-08-01,R,1965,Mike Spence 🇬🇧,Lotus-Climax 🇬🇧,7,6,3,,0.0
+1965 German Grand Prix 🇩🇪,R,20,1965-08-01,R,1965,Gerhard Mitter 🇩🇪,Lotus-Climax 🇬🇧,7,12,3,,0.0
+1965 South African Grand Prix 🇿🇦,14,16,1965-01-01,9,1965,David Prophet 🇬🇧,Brabham-Ford 🇬🇧,1,19,81,,0.0

@@ -1,26 +1,47 @@
 [
     {
+        "constructor": "Team Lotus 🇬🇧",
         "date": "1974-03-30",
         "final_position": "R",
         "grid": 26,
         "laps_completed": 6,
         "name": "1974 South African Grand Prix 🇿🇦",
+        "points": 0.0,
         "round": 3,
         "season": 1974,
-        "time": null,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
+        "teammate": "Ian Scheckter 🇿🇦",
+        "teammate_final_position": "13",
+        "teammate_grid": 22,
+        "time": null
     },
     {
-        "date": "1963-12-28",
-        "final_position": "W",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1963 South African Grand Prix 🇿🇦",
-        "round": 10,
-        "season": 1963,
-        "time": null,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
+        "constructor": "Team Lotus 🇬🇧",
+        "date": "1974-03-30",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 6,
+        "name": "1974 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 3,
+        "season": 1974,
+        "teammate": "Jacky Ickx 🇧🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "Team Lotus 🇬🇧",
+        "date": "1974-03-30",
+        "final_position": "R",
+        "grid": 26,
+        "laps_completed": 6,
+        "name": "1974 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 3,
+        "season": 1974,
+        "teammate": "Ronnie Peterson 🇸🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 16,
+        "time": null
     }
 ]

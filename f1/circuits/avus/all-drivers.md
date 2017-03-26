@@ -24,21 +24,21 @@ collectionId: avus
 
 | Driver | Times |
 |--|--|
-| Bruce McLaren 🇳🇿 | 1 |
-| Cliff Allison 🇬🇧 | 1 |
-| Dan Gurney 🇺🇸 | 1 |
-| Graham Hill 🇬🇧 | 1 |
-| Hans Herrmann 🇩🇪 | 1 |
-| Harry Schell 🇺🇸 | 1 |
-| Ian Burgess 🇬🇧 | 1 |
-| Innes Ireland 🇬🇧 | 1 |
-| Jack Brabham 🇦🇺 | 1 |
-| Jo Bonnier 🇸🇪 | 1 |
-| Masten Gregory 🇺🇸 | 1 |
-| Maurice Trintignant 🇫🇷 | 1 |
-| Phil Hill 🇺🇸 | 1 |
-| Stirling Moss 🇬🇧 | 1 |
-| Tony Brooks 🇬🇧 | 1 |
+| [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| [Cliff Allison 🇬🇧](/f1/drivers/allison) | 1 |
+| [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| [Hans Herrmann 🇩🇪](/f1/drivers/herrmann) | 1 |
+| [Harry Schell 🇺🇸](/f1/drivers/schell) | 1 |
+| [Ian Burgess 🇬🇧](/f1/drivers/burgess) | 1 |
+| [Innes Ireland 🇬🇧](/f1/drivers/ireland) | 1 |
+| [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 1 |
+| [Masten Gregory 🇺🇸](/f1/drivers/gregory) | 1 |
+| [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 1 |
+| [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

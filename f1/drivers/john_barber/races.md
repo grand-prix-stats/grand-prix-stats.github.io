@@ -22,22 +22,23 @@ collectionId: john_barber
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 16 | 8 | 90 |   | Alberto Ascari 🇮🇹 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 16 | 8 | 0.0 | 90 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 9 |
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 16 | 8 | 0.0 | 90 |   | Cooper 🇬🇧 | [Adolfo Cruz 🇦🇷](/f1/drivers/cruz) | 13 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **Maximum** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **75th Percentile** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **Median** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **Minimum** | 1.000 |  |  | 16.000 | 8.000 | 90.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 2.000 |  |  | 32.000 | 16.000 |  | 180.000 |  |  |  | 25.000 | 9.000 |
+| **Mean μ (Average)** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.500 | 9.000 |
+| **Maximum** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
+| **75th Percentile** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
+| **Median** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
+| **25th Percentile** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.000 | 9.000 |
+| **Minimum** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.000 | 9.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

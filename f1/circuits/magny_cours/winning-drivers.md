@@ -115,16 +115,16 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 8 |
-| 2. | Nigel Mansell 🇬🇧 | 2 |
-| 3. | Alain Prost 🇫🇷 | 1 |
-| 4. | Damon Hill 🇬🇧 | 1 |
-| 5. | David Coulthard 🇬🇧 | 1 |
-| 6. | Felipe Massa 🇧🇷 | 1 |
-| 7. | Fernando Alonso 🇪🇸 | 1 |
-| 8. | Heinz-Harald Frentzen 🇩🇪 | 1 |
-| 9. | Kimi Räikkönen 🇫🇮 | 1 |
-| 10. | Ralf Schumacher 🇩🇪 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 8 |
+| 2. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 4. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 5. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 1 |
+| 6. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 7. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 8. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 1 |
+| 9. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 10. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 1 |
 
 #### Statistic Summary
 

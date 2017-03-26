@@ -1,3 +1,4 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1976 Japanese Grand Prix 🇯🇵,16,21,27,Team Lotus 🇬🇧,1976-10-24,R,,1976,Mario Andretti 🇺🇸
-1977 Japanese Grand Prix 🇯🇵,17,11,71,McLaren 🇬🇧,1977-10-23,11,,1977,James Hunt 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1976 Japanese Grand Prix 🇯🇵,2,21,1976-10-24,R,1976,Patrick Depailler 🇫🇷,Tyrrell 🇬🇧,16,13,27,,0.0
+1976 Japanese Grand Prix 🇯🇵,R,21,1976-10-24,R,1976,Jody Scheckter 🇿🇦,Tyrrell 🇬🇧,16,5,27,,0.0
+1977 Japanese Grand Prix 🇯🇵,R,11,1977-10-23,11,1977,Noritake Takahara 🇯🇵,Kojima 🇯🇵,17,19,71,,0.0

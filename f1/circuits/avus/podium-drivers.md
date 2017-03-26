@@ -87,9 +87,9 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | Dan Gurney 🇺🇸 | 1 |
-| 2. | Phil Hill 🇺🇸 | 1 |
-| 3. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
+| 2. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 1 |
+| 3. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

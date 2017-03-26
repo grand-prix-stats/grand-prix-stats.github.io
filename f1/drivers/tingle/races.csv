@@ -1,7 +1,11 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1962 South African Grand Prix 🇿🇦,9,0,0,BRM 🇬🇧,1962-12-29,W,,1962,Graham Hill 🇬🇧
-1963 South African Grand Prix 🇿🇦,10,17,2,Lotus-Climax 🇬🇧,1963-12-28,R,,1963,Jim Clark 🇬🇧
-1965 South African Grand Prix 🇿🇦,1,20,73,Lotus-Climax 🇬🇧,1965-01-01,13,,1965,Jim Clark 🇬🇧
-1967 South African Grand Prix 🇿🇦,1,14,56,Cooper-Maserati 🇬🇧,1967-01-02,R,,1967,Pedro Rodríguez 🇲🇽
-1968 South African Grand Prix 🇿🇦,1,22,35,Lotus-Ford 🇬🇧,1968-01-01,R,,1968,Jim Clark 🇬🇧
-1969 South African Grand Prix 🇿🇦,1,17,73,Matra-Ford 🇫🇷,1969-03-01,8,,1969,Jackie Stewart 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1962 South African Grand Prix 🇿🇦,5,0,1962-12-29,W,1962,Innes Ireland 🇬🇧,Lotus-Climax 🇬🇧,9,4,0,,0.0
+1962 South African Grand Prix 🇿🇦,6,0,1962-12-29,W,1962,Neville Lederle 🇿🇦,Lotus-Climax 🇬🇧,9,10,0,,0.0
+1962 South African Grand Prix 🇿🇦,10,0,1962-12-29,W,1962,Ernie Pieterse 🇿🇦,Lotus-Climax 🇬🇧,9,13,0,,0.0
+1962 South African Grand Prix 🇿🇦,R,0,1962-12-29,W,1962,Jim Clark 🇬🇧,Lotus-Climax 🇬🇧,9,1,0,,0.0
+1962 South African Grand Prix 🇿🇦,R,0,1962-12-29,W,1962,Trevor Taylor 🇬🇧,Lotus-Climax 🇬🇧,9,9,0,,0.0
+1962 South African Grand Prix 🇿🇦,W,0,1962-12-29,W,1962,Gary Hocking 🇿🇼,Lotus-Climax 🇬🇧,9,0,0,,0.0
+1962 South African Grand Prix 🇿🇦,W,0,1962-12-29,W,1962,Syd van der Vyver 🇿🇦,Lotus-Climax 🇬🇧,9,0,0,,0.0
+1963 South African Grand Prix 🇿🇦,11,17,1963-12-28,R,1963,Doug Serrurier 🇿🇦,LDS 🇿🇦,10,18,2,,0.0
+1965 South African Grand Prix 🇿🇦,F,20,1965-01-01,13,1965,Jackie Pretorius 🇿🇦,LDS-Alfa Romeo 🇿🇦,1,0,73,,0.0
+1969 South African Grand Prix 🇿🇦,N,17,1969-03-01,8,1969,Peter de Klerk 🇿🇦,Brabham-Repco 🇬🇧,1,16,73,,0.0

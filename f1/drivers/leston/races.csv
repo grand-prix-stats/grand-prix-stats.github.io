@@ -1,4 +1,5 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-1956 Italian Grand Prix 🇮🇹,8,20,6,Maserati 🇮🇹,1956-09-02,R,,1956,Stirling Moss 🇬🇧
-1957 British Grand Prix 🇬🇧,5,12,44,Vanwall 🇬🇧,1957-07-20,R,,1957,Stirling Moss 🇬🇧
-1957 Monaco Grand Prix 🇲🇨,2,0,0,Maserati 🇮🇹,1957-05-19,F,,1957,Juan Fangio 🇦🇷
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+1956 Italian Grand Prix 🇮🇹,3,20,1956-09-02,R,1956,Ron Flockhart 🇬🇧,Connaught 🇬🇧,8,26,6,,0.0
+1956 Italian Grand Prix 🇮🇹,5,20,1956-09-02,R,1956,Jack Fairman 🇬🇧,Connaught 🇬🇧,8,16,6,,0.0
+1957 British Grand Prix 🇬🇧,R,12,1957-07-20,R,1957,Jack Fairman 🇬🇧,BRM 🇬🇧,5,16,44,,0.0
+1957 Monaco Grand Prix 🇲🇨,6,0,1957-05-19,F,1957,Jack Brabham 🇦🇺,Cooper 🇬🇧,2,15,0,,0.0

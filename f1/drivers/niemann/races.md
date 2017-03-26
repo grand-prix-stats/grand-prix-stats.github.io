@@ -22,23 +22,22 @@ collectionId: niemann
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
-| 1963 | 10 | 1963 South African Grand Prix 🇿🇦 | 1963-12-28 | 15 | 14 | 66 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | Lotus-Ford 🇬🇧 | [Dave Charlton 🇿🇦](/f1/drivers/charlton) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 |  |  |  |
-| **Total Sum** | 11.000 |  |  | 15.000 | 14.000 | 66.000 |  |  |  |
-| **Mean μ (Average)** | 5.500 |  |  | 7.500 | 14.000 | 33.000 |  |  |  |
-| **Maximum** | 10.000 |  |  | 15.000 | 14.000 | 66.000 |  |  |  |
-| **75th Percentile** | 10.000 |  |  | 15.000 | 14.000 | 66.000 |  |  |  |
-| **Median** | 10.000 |  |  | 15.000 | 14.000 | 66.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  | 14.000 |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  | 14.000 |  |  |  |  |
-| **Variance** | 20.250 |  |  | 56.250 |  | 1089.000 |  |  |  |
-| **Standard Deviation σ** | 4.500 |  |  | 7.500 |  | 33.000 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Mean μ (Average)** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Maximum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **75th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Median** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

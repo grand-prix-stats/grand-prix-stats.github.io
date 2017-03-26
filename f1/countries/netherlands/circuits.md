@@ -24,7 +24,7 @@ collectionId: netherlands
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [Circuit Park Zandvoort](/f1/circuits/zandvoort) | Zandvoort | [Netherlands](/f1/countries/netherlands) | 30 | Jim Clark 🇬🇧 | 4 |
+| [Circuit Park Zandvoort](/f1/circuits/zandvoort) | Zandvoort | [Netherlands](/f1/countries/netherlands) | 30 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 4 |
 
 #### Statistic Summary
 

@@ -22,22 +22,25 @@ collectionId: walter
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 14 |   | Graham Hill 🇬🇧 | BRM 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 | 3 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 6 | 7 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 8 | 13 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Nino Vaccarella 🇮🇹](/f1/drivers/vaccarella) | 15 | 15 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **Mean μ (Average)** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **Maximum** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **75th Percentile** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **Median** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **25th Percentile** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **Minimum** | 6.000 |  |  | 14.000 | 14.000 | 14.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 | 4 | 4 | 4 |  |  |  | 4 | 4 |
+| **Total Sum** | 24.000 |  |  | 56.000 | 56.000 |  | 56.000 |  |  |  | 30.000 | 38.000 |
+| **Mean μ (Average)** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 7.500 | 9.500 |
+| **Maximum** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 15.000 | 15.000 |
+| **75th Percentile** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 15.000 | 15.000 |
+| **Median** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 8.000 | 13.000 |
+| **25th Percentile** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 6.000 | 7.000 |
+| **Minimum** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 1.000 | 3.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 25.250 | 22.750 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.025 | 4.770 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

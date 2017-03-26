@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Ayrton Senna 🇧🇷 | 3 |
-| 2. | Alain Prost 🇫🇷 | 1 |
-| 3. | Elio de Angelis 🇮🇹 | 1 |
-| 4. | Keke Rosberg 🇫🇮 | 1 |
-| 5. | Michele Alboreto 🇮🇹 | 1 |
-| 6. | Nelson Piquet 🇧🇷 | 1 |
-| 7. | Nigel Mansell 🇬🇧 | 1 |
-| 8. | Ronnie Peterson 🇸🇪 | 1 |
+| 1. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
+| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 3. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 1 |
+| 4. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 5. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 6. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 7. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 |
+| 8. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 

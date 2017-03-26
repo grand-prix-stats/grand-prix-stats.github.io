@@ -107,14 +107,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Mario Andretti 🇺🇸 | 2 |
-| 2. | Emerson Fittipaldi 🇧🇷 | 1 |
-| 3. | Gilles Villeneuve 🇨🇦 | 1 |
-| 4. | Graham Hill 🇬🇧 | 1 |
-| 5. | Jackie Stewart 🇬🇧 | 1 |
-| 6. | James Hunt 🇬🇧 | 1 |
-| 7. | Niki Lauda 🇦🇹 | 1 |
-| 8. | Patrick Depailler 🇫🇷 | 1 |
+| 1. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 2. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 1 |
+| 3. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 4. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 5. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 6. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 7. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
+| 8. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 1 |
 
 #### Statistic Summary
 

@@ -22,25 +22,25 @@ collectionId: pretorius
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1973 | 3 | 1973 South African Grand Prix 🇿🇦 | 1973-03-03 | 24 | R | 35 |   | Jackie Stewart 🇬🇧 | Tyrrell 🇬🇧 |
-| 1971 | 1 | 1971 South African Grand Prix 🇿🇦 | 1971-03-06 | 20 | R | 22 |   | Mario Andretti 🇺🇸 | Ferrari 🇮🇹 |
-| 1968 | 1 | 1968 South African Grand Prix 🇿🇦 | 1968-01-01 | 23 | N | 71 |   | Jim Clark 🇬🇧 | Lotus-Ford 🇬🇧 |
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0 |   | Jim Clark 🇬🇧 | Lotus-Climax 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1973 | 3 | 1973 South African Grand Prix 🇿🇦 | 1973-03-03 | 24 | R | 0.0 | 35 |   | Iso Marlboro 🇬🇧 | [Howden Ganley 🇳🇿](/f1/drivers/ganley) | 19 | 10 |
+| 1971 | 1 | 1971 South African Grand Prix 🇿🇦 | 1971-03-06 | 20 | R | 0.0 | 22 |   | Brabham 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 19 | 9 |
+| 1971 | 1 | 1971 South African Grand Prix 🇿🇦 | 1971-03-06 | 20 | R | 0.0 | 22 |   | Brabham 🇬🇧 | [Dave Charlton 🇿🇦](/f1/drivers/charlton) | 16 | R |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | LDS-Alfa Romeo 🇿🇦 | [Sam Tingle 🇿🇼](/f1/drivers/tingle) | 20 | 13 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 4 |  |  | 4 |  | 4 |  |  |  |
-| **Total Sum** | 6.000 |  |  | 67.000 |  | 128.000 |  |  |  |
-| **Mean μ (Average)** | 1.500 |  |  | 16.750 |  | 32.000 |  |  |  |
-| **Maximum** | 3.000 |  |  | 24.000 |  | 71.000 |  |  |  |
-| **75th Percentile** | 3.000 |  |  | 24.000 |  | 71.000 |  |  |  |
-| **Median** | 1.000 |  |  | 23.000 |  | 35.000 |  |  |  |
-| **25th Percentile** | 1.000 |  |  | 20.000 |  | 22.000 |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 0.750 |  |  | 95.688 |  | 663.500 |  |  |  |
-| **Standard Deviation σ** | 0.866 |  |  | 9.782 |  | 25.758 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 6.000 |  |  | 64.000 |  |  | 79.000 |  |  |  | 74.000 | 32.000 |
+| **Mean μ (Average)** | 1.500 |  |  | 16.000 |  |  | 19.750 |  |  |  | 18.500 | 10.667 |
+| **Maximum** | 3.000 |  |  | 24.000 |  |  | 35.000 |  |  |  | 20.000 | 13.000 |
+| **75th Percentile** | 3.000 |  |  | 24.000 |  |  | 35.000 |  |  |  | 20.000 | 13.000 |
+| **Median** | 1.000 |  |  | 20.000 |  |  | 22.000 |  |  |  | 19.000 | 10.000 |
+| **25th Percentile** | 1.000 |  |  | 20.000 |  |  | 22.000 |  |  |  | 19.000 | 9.000 |
+| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  | 16.000 | 9.000 |
+| **Variance** | 0.750 |  |  | 88.000 |  |  | 158.188 |  |  |  | 2.250 | 2.889 |
+| **Standard Deviation σ** | 0.866 |  |  | 9.381 |  |  | 12.577 |  |  |  | 1.500 | 1.700 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

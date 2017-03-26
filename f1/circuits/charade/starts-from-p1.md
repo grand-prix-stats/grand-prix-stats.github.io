@@ -91,10 +91,10 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Chris Amon 🇳🇿 | 1 |
-| 2. | Jackie Stewart 🇬🇧 | 1 |
-| 3. | Jacky Ickx 🇧🇪 | 1 |
-| 4. | Jim Clark 🇬🇧 | 1 |
+| 1. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| 2. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 1 |
+| 3. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
+| 4. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
 
 #### Statistic Summary
 

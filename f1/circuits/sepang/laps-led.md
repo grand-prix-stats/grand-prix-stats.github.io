@@ -163,28 +163,28 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | Sebastian Vettel 🇩🇪 | 175 |
-| 2. | Fernando Alonso 🇪🇸 | 169 |
-| 3. | Michael Schumacher 🇩🇪 | 147 |
-| 4. | Lewis Hamilton 🇬🇧 | 114 |
-| 5. | Kimi Räikkönen 🇫🇮 | 75 |
-| 6. | Giancarlo Fisichella 🇮🇹 | 43 |
-| 7. | Eddie Irvine 🇬🇧 | 39 |
-| 8. | Mark Webber 🇦🇺 | 34 |
-| 9. | Rubens Barrichello 🇧🇷 | 33 |
-| 10. | Ralf Schumacher 🇩🇪 | 31 |
-| 11. | David Coulthard 🇬🇧 | 27 |
-| 12. | Jenson Button 🇬🇧 | 18 |
-| 13. | Daniel Ricciardo 🇦🇺 | 17 |
-| 14. | Felipe Massa 🇧🇷 | 16 |
-| 15. | Nico Rosberg 🇩🇪 | 16 |
-| 16. | Robert Kubica 🇵🇱 | 8 |
-| 17. | Max Verstappen 🇳🇱 | 6 |
-| 18. | Jarno Trulli 🇮🇹 | 4 |
-| 19. | Sergio Pérez 🇲🇽 | 4 |
-| 20. | Juan Pablo Montoya 🇨🇴 | 3 |
-| 21. | Mika Häkkinen 🇫🇮 | 2 |
-| 22. | Nick Heidfeld 🇩🇪 | 1 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 175 |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 169 |
+| 3. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 147 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 114 |
+| 5. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 75 |
+| 6. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 43 |
+| 7. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 39 |
+| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 34 |
+| 9. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 33 |
+| 10. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 31 |
+| 11. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 27 |
+| 12. | [Jenson Button 🇬🇧](/f1/drivers/button) | 18 |
+| 13. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 17 |
+| 14. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 16 |
+| 15. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 16 |
+| 16. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 8 |
+| 17. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 6 |
+| 18. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 4 |
+| 19. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 4 |
+| 20. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 3 |
+| 21. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 22. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 1 |
 
 #### Statistic Summary
 

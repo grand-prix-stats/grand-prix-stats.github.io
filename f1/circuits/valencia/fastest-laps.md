@@ -95,11 +95,11 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Felipe Massa 🇧🇷 | 1 |
-| 2. | Jenson Button 🇬🇧 | 1 |
-| 3. | Nico Rosberg 🇩🇪 | 1 |
-| 4. | Sebastian Vettel 🇩🇪 | 1 |
-| 5. | Timo Glock 🇩🇪 | 1 |
+| 1. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 2. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 3. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 5. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 1 |
 
 #### Statistic Summary
 

@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
-| 1. | Felipe Massa 🇧🇷 | 1 |
-| 2. | Lewis Hamilton 🇬🇧 | 1 |
+| 1. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
 
 #### Statistic Summary
 

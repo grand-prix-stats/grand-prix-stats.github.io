@@ -83,8 +83,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Denny Hulme 🇳🇿 | 1 |
-| 2. | Jacky Ickx 🇧🇪 | 1 |
+| 1. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 2. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
 
 #### Statistic Summary
 

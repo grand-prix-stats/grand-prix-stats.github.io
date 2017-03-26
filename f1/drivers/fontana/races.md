@@ -22,25 +22,25 @@ collectionId: fontana
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1997 | 17 | 1997 European Grand Prix 🇪🇸 | 1997-10-26 | 18 | 14 | 68 |   | Mika Häkkinen 🇫🇮 | McLaren 🇬🇧 |
-| 1997 | 10 | 1997 German Grand Prix 🇩🇪 | 1997-07-27 | 18 | 9 | 44 |   | Gerhard Berger 🇦🇹 | Benetton 🇮🇹 |
-| 1997 | 9 | 1997 British Grand Prix 🇬🇧 | 1997-07-13 | 14 | 9 | 58 |   | Jacques Villeneuve 🇨🇦 | Williams 🇬🇧 |
-| 1997 | 8 | 1997 French Grand Prix 🇫🇷 | 1997-06-29 | 20 | R | 40 |   | Michael Schumacher 🇩🇪 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1997 | 17 | 1997 European Grand Prix 🇪🇸 | 1997-10-26 | 18 | 14 | 0.0 | 68 |   | Sauber 🇨🇭 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 14 | 8 |
+| 1997 | 10 | 1997 German Grand Prix 🇩🇪 | 1997-07-27 | 18 | 9 | 0.0 | 44 |   | Sauber 🇨🇭 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 14 | R |
+| 1997 | 9 | 1997 British Grand Prix 🇬🇧 | 1997-07-13 | 14 | 9 | 0.0 | 58 |   | Sauber 🇨🇭 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 9 | R |
+| 1997 | 8 | 1997 French Grand Prix 🇫🇷 | 1997-06-29 | 20 | R | 0.0 | 40 |   | Sauber 🇨🇭 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 14 | 8 |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 4 |  |  | 4 | 3 | 4 |  |  |  |
-| **Total Sum** | 44.000 |  |  | 70.000 | 32.000 | 210.000 |  |  |  |
-| **Mean μ (Average)** | 11.000 |  |  | 17.500 | 10.667 | 52.500 |  |  |  |
-| **Maximum** | 17.000 |  |  | 20.000 | 14.000 | 68.000 |  |  |  |
-| **75th Percentile** | 17.000 |  |  | 20.000 | 14.000 | 68.000 |  |  |  |
-| **Median** | 10.000 |  |  | 18.000 | 9.000 | 58.000 |  |  |  |
-| **25th Percentile** | 9.000 |  |  | 18.000 | 9.000 | 44.000 |  |  |  |
-| **Minimum** | 8.000 |  |  | 14.000 | 9.000 | 40.000 |  |  |  |
-| **Variance** | 12.500 |  |  | 4.750 | 5.556 | 124.750 |  |  |  |
-| **Standard Deviation σ** | 3.536 |  |  | 2.179 | 2.357 | 11.169 |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 | 3 | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 44.000 |  |  | 70.000 | 32.000 |  | 210.000 |  |  |  | 51.000 | 16.000 |
+| **Mean μ (Average)** | 11.000 |  |  | 17.500 | 10.667 |  | 52.500 |  |  |  | 12.750 | 8.000 |
+| **Maximum** | 17.000 |  |  | 20.000 | 14.000 |  | 68.000 |  |  |  | 14.000 | 8.000 |
+| **75th Percentile** | 17.000 |  |  | 20.000 | 14.000 |  | 68.000 |  |  |  | 14.000 | 8.000 |
+| **Median** | 10.000 |  |  | 18.000 | 9.000 |  | 58.000 |  |  |  | 14.000 | 8.000 |
+| **25th Percentile** | 9.000 |  |  | 18.000 | 9.000 |  | 44.000 |  |  |  | 14.000 | 8.000 |
+| **Minimum** | 8.000 |  |  | 14.000 | 9.000 |  | 40.000 |  |  |  | 9.000 | 8.000 |
+| **Variance** | 12.500 |  |  | 4.750 | 5.556 |  | 124.750 |  |  |  | 4.688 |  |
+| **Standard Deviation σ** | 3.536 |  |  | 2.179 | 2.357 |  | 11.169 |  |  |  | 2.165 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

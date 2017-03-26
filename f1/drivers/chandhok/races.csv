@@ -1,12 +1,12 @@
-name,round,grid,laps_completed,winning_constructor,date,final_position,time,season,winning_driver
-2010 Australian Grand Prix 🇦🇺,2,22,53,McLaren 🇬🇧,2010-03-28,14,,2010,Jenson Button 🇬🇧
-2010 Bahrain Grand Prix 🇧🇭,1,24,1,Ferrari 🇮🇹,2010-03-14,R,,2010,Fernando Alonso 🇪🇸
-2010 British Grand Prix 🇬🇧,10,23,50,Red Bull 🇦🇹,2010-07-11,19,,2010,Mark Webber 🇦🇺
-2010 Canadian Grand Prix 🇨🇦,8,24,66,McLaren 🇬🇧,2010-06-13,18,,2010,Lewis Hamilton 🇬🇧
-2010 Chinese Grand Prix 🇨🇳,4,24,52,McLaren 🇬🇧,2010-04-18,17,,2010,Jenson Button 🇬🇧
-2010 European Grand Prix 🇪🇸,9,23,55,Red Bull 🇦🇹,2010-06-27,18,,2010,Sebastian Vettel 🇩🇪
-2010 Malaysian Grand Prix 🇲🇾,3,22,53,Red Bull 🇦🇹,2010-04-04,15,,2010,Sebastian Vettel 🇩🇪
-2010 Monaco Grand Prix 🇲🇨,6,23,70,Red Bull 🇦🇹,2010-05-16,14,,2010,Mark Webber 🇦🇺
-2010 Spanish Grand Prix 🇪🇸,5,24,27,Red Bull 🇦🇹,2010-05-09,R,,2010,Mark Webber 🇦🇺
-2010 Turkish Grand Prix 🇹🇷,7,24,52,McLaren 🇬🇧,2010-05-30,20,,2010,Lewis Hamilton 🇬🇧
-2011 German Grand Prix 🇩🇪,10,20,56,McLaren 🇬🇧,2011-07-24,20,,2011,Lewis Hamilton 🇬🇧
+name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
+2010 Australian Grand Prix 🇦🇺,R,22,2010-03-28,14,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,2,21,53,,0.0
+2010 Bahrain Grand Prix 🇧🇭,R,24,2010-03-14,R,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,1,23,1,,0.0
+2010 British Grand Prix 🇬🇧,20,23,2010-07-11,19,2010,Sakon Yamamoto 🇯🇵,HRT 🇪🇸,10,24,50,,0.0
+2010 Canadian Grand Prix 🇨🇦,R,24,2010-06-13,18,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,8,22,66,,0.0
+2010 Chinese Grand Prix 🇨🇳,16,24,2010-04-18,17,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,4,23,52,,0.0
+2010 European Grand Prix 🇪🇸,20,23,2010-06-27,18,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,9,24,55,,0.0
+2010 Malaysian Grand Prix 🇲🇾,16,22,2010-04-04,15,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,3,23,53,,0.0
+2010 Monaco Grand Prix 🇲🇨,R,23,2010-05-16,14,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,6,22,70,,0.0
+2010 Spanish Grand Prix 🇪🇸,R,24,2010-05-09,R,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,5,21,27,,0.0
+2010 Turkish Grand Prix 🇹🇷,R,24,2010-05-30,20,2010,Bruno Senna 🇧🇷,HRT 🇪🇸,7,22,52,,0.0
+2011 German Grand Prix 🇩🇪,16,20,2011-07-24,20,2011,Heikki Kovalainen 🇫🇮,Lotus 🇲🇾,10,18,56,,0.0

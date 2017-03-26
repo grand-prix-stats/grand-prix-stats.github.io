@@ -22,27 +22,27 @@ collectionId: bertaggia
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05 | 0 | F | 0 |   | Thierry Boutsen 🇧🇪 | Williams 🇬🇧 |
-| 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22 | 0 | F | 0 |   | Alessandro Nannini 🇮🇹 | Benetton 🇮🇹 |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
-| 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24 | 0 | F | 0 |   | Gerhard Berger 🇦🇹 | Ferrari 🇮🇹 |
-| 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10 | 0 | F | 0 |   | Alain Prost 🇫🇷 | McLaren 🇬🇧 |
-| 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27 | 0 | F | 0 |   | Ayrton Senna 🇧🇷 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 15 | R |
+| 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 6 |  |  | 6 |  | 6 |  |  |  |
-| **Total Sum** | 81.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 13.500 |  |  |  |  |  |  |  |  |
-| **Maximum** | 16.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 15.000 |  |  |  |  |  |  |  |  |
-| **Median** | 14.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 12.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 11.000 |  |  |  |  |  |  |  |  |
-| **Variance** | 2.917 |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** | 1.708 |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 |  | 6 | 6 |  |  |  | 6 |  |
+| **Total Sum** | 81.000 |  |  |  |  |  |  |  |  |  | 15.000 |  |
+| **Mean μ (Average)** | 13.500 |  |  |  |  |  |  |  |  |  | 2.500 |  |
+| **Maximum** | 16.000 |  |  |  |  |  |  |  |  |  | 15.000 |  |
+| **75th Percentile** | 15.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Median** | 14.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 12.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 11.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Variance** | 2.917 |  |  |  |  |  |  |  |  |  | 31.250 |  |
+| **Standard Deviation σ** | 1.708 |  |  |  |  |  |  |  |  |  | 5.590 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,7 +24,7 @@ collectionId: zeltweg
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1964 | 7 | 1964 Austrian Grand Prix 🇦🇹 | 1964-08-23 | 105 | 2:06:18.23 | Lorenzo Bandini 🇮🇹 | Ferrari 🇮🇹 |
+| 1964 | 7 | 1964 Austrian Grand Prix 🇦🇹 | 1964-08-23 | 105 | 2:06:18.23 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | Ferrari 🇮🇹 |
 
 #### Statistic Summary
 

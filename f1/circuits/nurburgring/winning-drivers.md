@@ -183,33 +183,33 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Wins |
 |--|--|--|
-| 1. | Michael Schumacher 🇩🇪 | 5 |
-| 2. | Jackie Stewart 🇬🇧 | 3 |
-| 3. | Juan Fangio 🇦🇷 | 3 |
-| 4. | Alberto Ascari 🇮🇹 | 2 |
-| 5. | Fernando Alonso 🇪🇸 | 2 |
-| 6. | Jacky Ickx 🇧🇪 | 2 |
-| 7. | Jacques Villeneuve 🇨🇦 | 2 |
-| 8. | John Surtees 🇬🇧 | 2 |
-| 9. | Alain Prost 🇫🇷 | 1 |
-| 10. | Carlos Reutemann 🇦🇷 | 1 |
-| 11. | Clay Regazzoni 🇨🇭 | 1 |
-| 12. | Denny Hulme 🇳🇿 | 1 |
-| 13. | Graham Hill 🇬🇧 | 1 |
-| 14. | Jack Brabham 🇦🇺 | 1 |
-| 15. | James Hunt 🇬🇧 | 1 |
-| 16. | Jim Clark 🇬🇧 | 1 |
-| 17. | Johnny Herbert 🇬🇧 | 1 |
-| 18. | Lewis Hamilton 🇬🇧 | 1 |
-| 19. | Mark Webber 🇦🇺 | 1 |
-| 20. | Michele Alboreto 🇮🇹 | 1 |
-| 21. | Mika Häkkinen 🇫🇮 | 1 |
-| 22. | Nino Farina 🇮🇹 | 1 |
-| 23. | Ralf Schumacher 🇩🇪 | 1 |
-| 24. | Rubens Barrichello 🇧🇷 | 1 |
-| 25. | Sebastian Vettel 🇩🇪 | 1 |
-| 26. | Stirling Moss 🇬🇧 | 1 |
-| 27. | Tony Brooks 🇬🇧 | 1 |
+| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
+| 2. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 |
+| 3. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 4. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 2 |
+| 5. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
+| 6. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 |
+| 7. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 2 |
+| 8. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 2 |
+| 9. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 10. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 11. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
+| 12. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 13. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 14. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 15. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 16. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 17. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 1 |
+| 18. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 19. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
+| 20. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 1 |
+| 21. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 22. | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 |
+| 23. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 1 |
+| 24. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 25. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 26. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| 27. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
 
 #### Statistic Summary
 

@@ -22,22 +22,25 @@ collectionId: whitehouse
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 19 | R | 63 |   | José Froilán González 🇦🇷 | Ferrari 🇮🇹 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 19 | R | 0.0 | 63 |   | Connaught 🇬🇧 | [Don Beauman 🇬🇧](/f1/drivers/beauman) | 17 | 11 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 19 | R | 0.0 | 63 |   | Connaught 🇬🇧 | [Leslie Marr 🇬🇧](/f1/drivers/marr) | 22 | 13 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 19 | R | 0.0 | 63 |   | Connaught 🇬🇧 | [Leslie Thorne 🇬🇧](/f1/drivers/thorne) | 23 | 14 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 19 | R | 0.0 | 63 |   | Connaught 🇬🇧 | [John Riseley-Prichard 🇬🇧](/f1/drivers/riseley_prichard) | 21 | R |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **Mean μ (Average)** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **Maximum** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **75th Percentile** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **Median** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **25th Percentile** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **Minimum** | 5.000 |  |  | 19.000 |  | 63.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 20.000 |  |  | 76.000 |  |  | 252.000 |  |  |  | 83.000 | 38.000 |
+| **Mean μ (Average)** | 5.000 |  |  | 19.000 |  |  | 63.000 |  |  |  | 20.750 | 12.667 |
+| **Maximum** | 5.000 |  |  | 19.000 |  |  | 63.000 |  |  |  | 23.000 | 14.000 |
+| **75th Percentile** | 5.000 |  |  | 19.000 |  |  | 63.000 |  |  |  | 23.000 | 14.000 |
+| **Median** | 5.000 |  |  | 19.000 |  |  | 63.000 |  |  |  | 22.000 | 13.000 |
+| **25th Percentile** | 5.000 |  |  | 19.000 |  |  | 63.000 |  |  |  | 21.000 | 11.000 |
+| **Minimum** | 5.000 |  |  | 19.000 |  |  | 63.000 |  |  |  | 17.000 | 11.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 5.188 | 1.556 |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.278 | 1.247 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

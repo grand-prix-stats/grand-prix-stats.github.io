@@ -127,19 +127,19 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | Jackie Stewart 🇬🇧 | 3 |
-| 2. | Jack Brabham 🇦🇺 | 2 |
-| 3. | James Hunt 🇬🇧 | 2 |
-| 4. | Jean-Pierre Jabouille 🇫🇷 | 2 |
-| 5. | Nigel Mansell 🇬🇧 | 2 |
-| 6. | Niki Lauda 🇦🇹 | 2 |
-| 7. | Alain Prost 🇫🇷 | 1 |
-| 8. | Carlos Pace 🇧🇷 | 1 |
-| 9. | Denny Hulme 🇳🇿 | 1 |
-| 10. | Jim Clark 🇬🇧 | 1 |
-| 11. | Nelson Piquet 🇧🇷 | 1 |
-| 12. | Patrick Tambay 🇫🇷 | 1 |
-| 13. | René Arnoux 🇫🇷 | 1 |
+| 1. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 3 |
+| 2. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| 3. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 2 |
+| 4. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 2 |
+| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 6. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 7. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 8. | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 1 |
+| 9. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 10. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 |
+| 11. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
+| 12. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 1 |
+| 13. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 1 |
 
 #### Statistic Summary
 

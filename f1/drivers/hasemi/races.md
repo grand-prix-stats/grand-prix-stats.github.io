@@ -22,22 +22,10 @@ collectionId: hasemi
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 10 | 11 | 66 |   | Mario Andretti 🇺🇸 | Team Lotus 🇬🇧 |
+
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 |  |  |  |
-| **Total Sum** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **Mean μ (Average)** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **Maximum** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **75th Percentile** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **Median** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **25th Percentile** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **Minimum** | 16.000 |  |  | 10.000 | 11.000 | 66.000 |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

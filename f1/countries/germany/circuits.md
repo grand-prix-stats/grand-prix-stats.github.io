@@ -24,9 +24,9 @@ collectionId: germany
 
 | Name | Location | Country | Races | Most Wins Driver | Wins |
 |--|--|--|--|--|--|
-| [AVUS](/f1/circuits/avus) | Berlin | [Germany](/f1/countries/germany) | 1 | Tony Brooks 🇬🇧 | 1 |
-| [Hockenheimring](/f1/circuits/hockenheimring) | Hockenheim | [Germany](/f1/countries/germany) | 35 | Michael Schumacher 🇩🇪 | 4 |
-| [Nürburgring](/f1/circuits/nurburgring) | Nürburg | [Germany](/f1/countries/germany) | 40 | Michael Schumacher 🇩🇪 | 5 |
+| [AVUS](/f1/circuits/avus) | Berlin | [Germany](/f1/countries/germany) | 1 | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 1 |
+| [Hockenheimring](/f1/circuits/hockenheimring) | Hockenheim | [Germany](/f1/countries/germany) | 35 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
+| [Nürburgring](/f1/circuits/nurburgring) | Nürburg | [Germany](/f1/countries/germany) | 40 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
 
 #### Statistic Summary
 

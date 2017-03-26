@@ -22,22 +22,27 @@ collectionId: sutcliffe
 </select>
 </div>
 
-| Season | Round | Name | Date | Grid | Final Position | Laps Completed | Time | Winning Driver | Winning Constructor |
-|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0 |   | James Hunt 🇬🇧 | McLaren 🇬🇧 |
+| Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Patrick Nève 🇧🇪](/f1/drivers/neve) | 26 | 10 |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Arturo Merzario 🇮🇹](/f1/drivers/merzario) | 17 | R |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Ian Scheckter 🇿🇦](/f1/drivers/ian_scheckter) | 24 | R |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Alex Ribeiro 🇧🇷](/f1/drivers/ribeiro) | 0 | F |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 0 | F |
+| 1977 | 10 | 1977 British Grand Prix 🇬🇧 | 1977-07-16 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Mikko Kozarowitzky 🇫🇮](/f1/drivers/kozarowitzky) | 0 | F |
 
 #### Statistic Summary
 
-| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Laps Completed** | **Time** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  | 1 |  |  |  |
-| **Total Sum** | 10.000 |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 10.000 |  |  |  |  |  |  |  |  |
-| **Maximum** | 10.000 |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 10.000 |  |  |  |  |  |  |  |  |
-| **Median** | 10.000 |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 10.000 |  |  |  |  |  |  |  |  |
-| **Minimum** | 10.000 |  |  |  |  |  |  |  |  |
-| **Variance** |  |  |  |  |  |  |  |  |  |
-| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |
+| **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
+| **Row Count** | 6 |  |  | 6 |  | 6 | 6 |  |  |  | 6 | 1 |
+| **Total Sum** | 60.000 |  |  |  |  |  |  |  |  |  | 67.000 | 10.000 |
+| **Mean μ (Average)** | 10.000 |  |  |  |  |  |  |  |  |  | 11.167 | 10.000 |
+| **Maximum** | 10.000 |  |  |  |  |  |  |  |  |  | 26.000 | 10.000 |
+| **75th Percentile** | 10.000 |  |  |  |  |  |  |  |  |  | 24.000 | 10.000 |
+| **Median** | 10.000 |  |  |  |  |  |  |  |  |  | 17.000 | 10.000 |
+| **25th Percentile** | 10.000 |  |  |  |  |  |  |  |  |  |  | 10.000 |
+| **Minimum** | 10.000 |  |  |  |  |  |  |  |  |  |  | 10.000 |
+| **Variance** |  |  |  |  |  |  |  |  |  |  | 132.139 |  |
+| **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 11.495 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

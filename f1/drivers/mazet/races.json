@@ -1,14 +1,47 @@
 [
     {
+        "constructor": "March-Ford 🇬🇧",
         "date": "1971-07-04",
         "final_position": "13",
         "grid": 23,
         "laps_completed": 50,
         "name": "1971 French Grand Prix 🇫🇷",
+        "points": 0.0,
         "round": 5,
         "season": 1971,
-        "time": null,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jackie Stewart 🇬🇧"
+        "teammate": "Max Jean 🇫🇷",
+        "teammate_final_position": "N",
+        "teammate_grid": 22,
+        "time": null
+    },
+    {
+        "constructor": "March-Ford 🇬🇧",
+        "date": "1971-07-04",
+        "final_position": "13",
+        "grid": 23,
+        "laps_completed": 50,
+        "name": "1971 French Grand Prix 🇫🇷",
+        "points": 0.0,
+        "round": 5,
+        "season": 1971,
+        "teammate": "Henri Pescarolo 🇫🇷",
+        "teammate_final_position": "N",
+        "teammate_grid": 18,
+        "time": null
+    },
+    {
+        "constructor": "March-Ford 🇬🇧",
+        "date": "1971-07-04",
+        "final_position": "13",
+        "grid": 23,
+        "laps_completed": 50,
+        "name": "1971 French Grand Prix 🇫🇷",
+        "points": 0.0,
+        "round": 5,
+        "season": 1971,
+        "teammate": "Alex Soler-Roig 🇪🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 21,
+        "time": null
     }
 ]
