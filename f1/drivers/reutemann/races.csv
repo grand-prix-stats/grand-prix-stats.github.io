@@ -6,8 +6,8 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1972 Belgian Grand Prix 🇧🇪,R,9,1972-06-04,13,1972,Graham Hill 🇬🇧,Brabham 🇬🇧,5,16,81,,0.0
 1972 British Grand Prix 🇬🇧,12,10,1972-07-15,8,1972,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,7,22,73,,0.0
 1972 British Grand Prix 🇬🇧,R,10,1972-07-15,8,1972,Graham Hill 🇬🇧,Brabham 🇬🇧,7,21,73,,0.0
-1972 Canadian Grand Prix 🇨🇦,8,9,1972-09-24,4,1972,Graham Hill 🇬🇧,Brabham 🇬🇧,11,17,80,+1:00.7,3.0
 1972 Canadian Grand Prix 🇨🇦,R,9,1972-09-24,4,1972,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,11,11,80,+1:00.7,3.0
+1972 Canadian Grand Prix 🇨🇦,8,9,1972-09-24,4,1972,Graham Hill 🇬🇧,Brabham 🇬🇧,11,17,80,+1:00.7,3.0
 1972 French Grand Prix 🇫🇷,10,17,1972-07-02,12,1972,Graham Hill 🇬🇧,Brabham 🇬🇧,6,20,37,,0.0
 1972 French Grand Prix 🇫🇷,8,17,1972-07-02,12,1972,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,6,14,37,,0.0
 1972 German Grand Prix 🇩🇪,7,6,1972-07-30,R,1972,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,8,21,6,,0.0
@@ -23,61 +23,61 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1973 Belgian Grand Prix 🇧🇪,R,7,1973-05-20,R,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,5,19,14,,0.0
 1973 Belgian Grand Prix 🇧🇪,4,7,1973-05-20,R,1973,Andrea de Adamich 🇮🇹,Brabham 🇬🇧,5,18,14,,0.0
 1973 Brazilian Grand Prix 🇧🇷,R,7,1973-02-11,11,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,2,11,38,,0.0
-1973 British Grand Prix 🇬🇧,R,8,1973-07-14,6,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,9,13,67,+44.7,1.0
-1973 British Grand Prix 🇬🇧,R,8,1973-07-14,6,1973,John Watson 🇬🇧,Brabham 🇬🇧,9,23,67,+44.7,1.0
 1973 British Grand Prix 🇬🇧,R,8,1973-07-14,6,1973,Andrea de Adamich 🇮🇹,Brabham 🇬🇧,9,20,67,+44.7,1.0
+1973 British Grand Prix 🇬🇧,R,8,1973-07-14,6,1973,John Watson 🇬🇧,Brabham 🇬🇧,9,23,67,+44.7,1.0
+1973 British Grand Prix 🇬🇧,R,8,1973-07-14,6,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,9,13,67,+44.7,1.0
 1973 Canadian Grand Prix 🇨🇦,12,4,1973-09-23,8,1973,Rolf Stommelen 🇩🇪,Brabham 🇬🇧,14,18,78,,0.0
 1973 Canadian Grand Prix 🇨🇦,11,4,1973-09-23,8,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,14,10,78,,0.0
 1973 Dutch Grand Prix 🇳🇱,R,5,1973-07-29,R,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,10,13,9,,0.0
 1973 French Grand Prix 🇫🇷,R,8,1973-07-01,3,1973,Andrea de Adamich 🇮🇹,Brabham 🇬🇧,8,13,54,+46.48,4.0
 1973 French Grand Prix 🇫🇷,16,8,1973-07-01,3,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,8,19,54,+46.48,4.0
-1973 German Grand Prix 🇩🇪,11,6,1973-08-05,R,1973,Rolf Stommelen 🇩🇪,Brabham 🇬🇧,11,16,7,,0.0
 1973 German Grand Prix 🇩🇪,5,6,1973-08-05,R,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,11,13,7,,0.0
+1973 German Grand Prix 🇩🇪,11,6,1973-08-05,R,1973,Rolf Stommelen 🇩🇪,Brabham 🇬🇧,11,16,7,,0.0
 1973 Italian Grand Prix 🇮🇹,R,10,1973-09-09,6,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,13,16,55,+59.8,1.0
 1973 Italian Grand Prix 🇮🇹,12,10,1973-09-09,6,1973,Rolf Stommelen 🇩🇪,Brabham 🇬🇧,13,9,55,+59.8,1.0
-1973 Monaco Grand Prix 🇲🇨,11,19,1973-06-03,R,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,6,9,46,,0.0
 1973 Monaco Grand Prix 🇲🇨,7,19,1973-06-03,R,1973,Andrea de Adamich 🇮🇹,Brabham 🇬🇧,6,25,46,,0.0
+1973 Monaco Grand Prix 🇲🇨,11,19,1973-06-03,R,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,6,9,46,,0.0
 1973 South African Grand Prix 🇿🇦,R,8,1973-03-03,7,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,3,17,77,,0.0
-1973 Spanish Grand Prix 🇪🇸,R,15,1973-04-29,R,1973,Andrea de Adamich 🇮🇹,Brabham 🇬🇧,4,17,66,,0.0
 1973 Spanish Grand Prix 🇪🇸,10,15,1973-04-29,R,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,4,12,66,,0.0
+1973 Spanish Grand Prix 🇪🇸,R,15,1973-04-29,R,1973,Andrea de Adamich 🇮🇹,Brabham 🇬🇧,4,17,66,,0.0
 1973 Swedish Grand Prix 🇸🇪,R,5,1973-06-17,4,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,7,12,80,+18.068,3.0
-1973 United States Grand Prix 🇺🇸,N,2,1973-10-07,3,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,15,25,59,+22.930,4.0
 1973 United States Grand Prix 🇺🇸,R,2,1973-10-07,3,1973,John Watson 🇬🇧,Brabham 🇬🇧,15,24,59,+22.930,4.0
-1974 Argentine Grand Prix 🇦🇷,R,6,1974-01-13,7,1974,Richard Robarts 🇬🇧,Brabham 🇬🇧,1,22,52,,0.0
+1973 United States Grand Prix 🇺🇸,N,2,1973-10-07,3,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,15,25,59,+22.930,4.0
 1974 Argentine Grand Prix 🇦🇷,12,6,1974-01-13,7,1974,John Watson 🇬🇧,Brabham 🇬🇧,1,20,52,,0.0
+1974 Argentine Grand Prix 🇦🇷,R,6,1974-01-13,7,1974,Richard Robarts 🇬🇧,Brabham 🇬🇧,1,22,52,,0.0
 1974 Austrian Grand Prix 🇦🇹,4,2,1974-08-18,1,1974,John Watson 🇬🇧,Brabham 🇬🇧,12,11,54,1:28:44.72,9.0
 1974 Austrian Grand Prix 🇦🇹,R,2,1974-08-18,1,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,12,4,54,1:28:44.72,9.0
 1974 Austrian Grand Prix 🇦🇹,F,2,1974-08-18,1,1974,Helmuth Koinigg 🇦🇹,Brabham 🇬🇧,12,0,54,1:28:44.72,9.0
 1974 Belgian Grand Prix 🇧🇪,R,24,1974-05-12,R,1974,Gérard Larrousse 🇫🇷,Brabham 🇬🇧,5,11,62,,0.0
-1974 Belgian Grand Prix 🇧🇪,11,24,1974-05-12,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,5,19,62,,0.0
 1974 Belgian Grand Prix 🇧🇪,17,24,1974-05-12,R,1974,Teddy Pilette 🇧🇪,Brabham 🇬🇧,5,27,62,,0.0
+1974 Belgian Grand Prix 🇧🇪,11,24,1974-05-12,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,5,19,62,,0.0
 1974 Belgian Grand Prix 🇧🇪,R,24,1974-05-12,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,5,22,62,,0.0
 1974 Brazilian Grand Prix 🇧🇷,R,2,1974-01-27,7,1974,John Watson 🇬🇧,Brabham 🇬🇧,2,15,31,,0.0
 1974 Brazilian Grand Prix 🇧🇷,15,2,1974-01-27,7,1974,Richard Robarts 🇬🇧,Brabham 🇬🇧,2,24,31,,0.0
-1974 British Grand Prix 🇬🇧,F,4,1974-07-20,6,1974,Lella Lombardi 🇮🇹,Brabham 🇬🇧,10,0,74,,1.0
 1974 British Grand Prix 🇬🇧,9,4,1974-07-20,6,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,10,20,74,,1.0
 1974 British Grand Prix 🇬🇧,11,4,1974-07-20,6,1974,John Watson 🇬🇧,Brabham 🇬🇧,10,13,74,,1.0
+1974 British Grand Prix 🇬🇧,F,4,1974-07-20,6,1974,Lella Lombardi 🇮🇹,Brabham 🇬🇧,10,0,74,,1.0
 1974 Canadian Grand Prix 🇨🇦,R,4,1974-09-22,9,1974,John Watson 🇬🇧,Brabham 🇬🇧,14,15,79,,0.0
-1974 Canadian Grand Prix 🇨🇦,8,4,1974-09-22,9,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,14,9,79,,0.0
 1974 Canadian Grand Prix 🇨🇦,R,4,1974-09-22,9,1974,Eppie Wietzes 🇨🇦,Brabham 🇬🇧,14,26,79,,0.0
 1974 Canadian Grand Prix 🇨🇦,F,4,1974-09-22,9,1974,Ian Ashley 🇬🇧,Brabham 🇬🇧,14,0,79,,0.0
-1974 Dutch Grand Prix 🇳🇱,7,12,1974-06-23,12,1974,John Watson 🇬🇧,Brabham 🇬🇧,8,13,71,,0.0
+1974 Canadian Grand Prix 🇨🇦,8,4,1974-09-22,9,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,14,9,79,,0.0
 1974 Dutch Grand Prix 🇳🇱,9,12,1974-06-23,12,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,8,23,71,,0.0
+1974 Dutch Grand Prix 🇳🇱,7,12,1974-06-23,12,1974,John Watson 🇬🇧,Brabham 🇬🇧,8,13,71,,0.0
 1974 French Grand Prix 🇫🇷,F,8,1974-07-07,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,9,0,24,,0.0
 1974 French Grand Prix 🇫🇷,16,8,1974-07-07,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,9,14,24,,0.0
-1974 French Grand Prix 🇫🇷,F,8,1974-07-07,R,1974,Gérard Larrousse 🇫🇷,Brabham 🇬🇧,9,0,24,,0.0
 1974 French Grand Prix 🇫🇷,F,8,1974-07-07,R,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,9,0,24,,0.0
-1974 German Grand Prix 🇩🇪,R,6,1974-08-04,3,1974,John Watson 🇬🇧,Brabham 🇬🇧,11,14,14,+1:23.3,4.0
+1974 French Grand Prix 🇫🇷,F,8,1974-07-07,R,1974,Gérard Larrousse 🇫🇷,Brabham 🇬🇧,9,0,24,,0.0
 1974 German Grand Prix 🇩🇪,12,6,1974-08-04,3,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,11,17,14,+1:23.3,4.0
+1974 German Grand Prix 🇩🇪,R,6,1974-08-04,3,1974,John Watson 🇬🇧,Brabham 🇬🇧,11,14,14,+1:23.3,4.0
 1974 Italian Grand Prix 🇮🇹,5,2,1974-09-08,R,1974,Carlos Pace 🇧🇷,Brabham 🇬🇧,13,3,12,,0.0
 1974 Italian Grand Prix 🇮🇹,F,2,1974-09-08,R,1974,Carlo Facetti 🇮🇹,Brabham 🇬🇧,13,0,12,,0.0
 1974 Italian Grand Prix 🇮🇹,7,2,1974-09-08,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,13,4,12,,0.0
-1974 Monaco Grand Prix 🇲🇨,F,8,1974-05-26,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,6,0,5,,0.0
 1974 Monaco Grand Prix 🇲🇨,6,8,1974-05-26,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,6,23,5,,0.0
-1974 South African Grand Prix 🇿🇦,17,4,1974-03-30,1,1974,Richard Robarts 🇬🇧,Brabham 🇬🇧,3,23,78,1:42:40.96,9.0
+1974 Monaco Grand Prix 🇲🇨,F,8,1974-05-26,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,6,0,5,,0.0
 1974 South African Grand Prix 🇿🇦,R,4,1974-03-30,1,1974,John Watson 🇬🇧,Brabham 🇬🇧,3,13,78,1:42:40.96,9.0
-1974 Spanish Grand Prix 🇪🇸,R,6,1974-04-28,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,4,24,12,,0.0
+1974 South African Grand Prix 🇿🇦,17,4,1974-03-30,1,1974,Richard Robarts 🇬🇧,Brabham 🇬🇧,3,23,78,1:42:40.96,9.0
 1974 Spanish Grand Prix 🇪🇸,11,6,1974-04-28,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,4,15,12,,0.0
+1974 Spanish Grand Prix 🇪🇸,R,6,1974-04-28,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,4,24,12,,0.0
 1974 Swedish Grand Prix 🇸🇪,11,10,1974-06-09,R,1974,John Watson 🇬🇧,Brabham 🇬🇧,7,14,30,,0.0
 1974 Swedish Grand Prix 🇸🇪,9,10,1974-06-09,R,1974,Rikky von Opel 🇱🇮,Brabham 🇬🇧,7,20,30,,0.0
 1974 United States Grand Prix 🇺🇸,5,1,1974-10-06,1,1974,John Watson 🇬🇧,Brabham 🇬🇧,15,7,59,1:40:21.439,9.0
@@ -147,8 +147,8 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1978 United States Grand Prix 🇺🇸,R,2,1978-10-01,1,1978,Gilles Villeneuve 🇨🇦,Ferrari 🇮🇹,15,4,59,1:40:48.800,9.0
 1979 Argentine Grand Prix 🇦🇷,R,3,1979-01-21,2,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,1,19,53,+14.94,6.0
 1979 Argentine Grand Prix 🇦🇷,5,3,1979-01-21,2,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,1,7,53,+14.94,6.0
-1979 Austrian Grand Prix 🇦🇹,F,17,1979-08-12,R,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,11,0,22,,0.0
 1979 Austrian Grand Prix 🇦🇹,R,17,1979-08-12,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,11,15,22,,0.0
+1979 Austrian Grand Prix 🇦🇹,F,17,1979-08-12,R,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,11,0,22,,0.0
 1979 Belgian Grand Prix 🇧🇪,R,10,1979-05-13,4,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,6,15,70,+46.49,3.0
 1979 Belgian Grand Prix 🇧🇪,R,10,1979-05-13,4,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,6,5,70,+46.49,3.0
 1979 Brazilian Grand Prix 🇧🇷,R,3,1979-02-04,3,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,2,4,40,+44.14,4.0
@@ -156,8 +156,8 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1979 British Grand Prix 🇬🇧,R,8,1979-07-14,8,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,9,9,66,,0.0
 1979 British Grand Prix 🇬🇧,9,8,1979-07-14,8,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,9,26,66,,0.0
 1979 Canadian Grand Prix 🇨🇦,10,11,1979-09-30,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,14,10,23,,0.0
-1979 Dutch Grand Prix 🇳🇱,R,13,1979-08-26,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,12,17,1,,0.0
 1979 Dutch Grand Prix 🇳🇱,7,13,1979-08-26,R,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,12,24,1,,0.0
+1979 Dutch Grand Prix 🇳🇱,R,13,1979-08-26,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,12,17,1,,0.0
 1979 French Grand Prix 🇫🇷,R,13,1979-07-01,13,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,8,12,77,,0.0
 1979 French Grand Prix 🇫🇷,12,13,1979-07-01,13,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,8,23,77,,0.0
 1979 German Grand Prix 🇩🇪,R,13,1979-07-29,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,10,11,1,,0.0
@@ -166,21 +166,21 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1979 Monaco Grand Prix 🇲🇨,R,11,1979-05-27,3,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,7,13,76,+8.57,4.0
 1979 South African Grand Prix 🇿🇦,R,11,1979-03-03,5,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,3,23,78,+1:06.97,2.0
 1979 South African Grand Prix 🇿🇦,4,11,1979-03-03,5,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,3,8,78,+1:06.97,2.0
-1979 Spanish Grand Prix 🇪🇸,R,8,1979-04-29,2,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,5,23,75,+20.94,6.0
 1979 Spanish Grand Prix 🇪🇸,3,8,1979-04-29,2,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,5,4,75,+20.94,6.0
-1979 United States Grand Prix West 🇺🇸,4,2,1979-04-08,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,4,6,21,,0.0
+1979 Spanish Grand Prix 🇪🇸,R,8,1979-04-29,2,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,5,23,75,+20.94,6.0
 1979 United States Grand Prix West 🇺🇸,R,2,1979-04-08,R,1979,Hector Rebaque 🇲🇽,Team Lotus 🇬🇧,4,23,21,,0.0
+1979 United States Grand Prix West 🇺🇸,4,2,1979-04-08,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,4,6,21,,0.0
 1979 United States Grand Prix 🇺🇸,R,6,1979-10-07,R,1979,Mario Andretti 🇺🇸,Team Lotus 🇬🇧,15,17,6,,0.0
 1980 Argentine Grand Prix 🇦🇷,1,10,1980-01-13,R,1980,Alan Jones 🇦🇺,Williams 🇬🇧,1,1,12,,0.0
 1980 Austrian Grand Prix 🇦🇹,2,4,1980-08-17,3,1980,Alan Jones 🇦🇺,Williams 🇬🇧,10,3,54,+19.36,4.0
 1980 Austrian Grand Prix 🇦🇹,15,4,1980-08-17,3,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,10,20,54,+19.36,4.0
 1980 Belgian Grand Prix 🇧🇪,2,4,1980-05-04,3,1980,Alan Jones 🇦🇺,Williams 🇬🇧,5,1,72,+84.12,4.0
 1980 Brazilian Grand Prix 🇧🇷,3,4,1980-01-27,R,1980,Alan Jones 🇦🇺,Williams 🇬🇧,2,10,1,,0.0
-1980 British Grand Prix 🇬🇧,1,4,1980-07-13,3,1980,Alan Jones 🇦🇺,Williams 🇬🇧,8,3,76,+13.285,4.0
-1980 British Grand Prix 🇬🇧,11,4,1980-07-13,3,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,8,18,76,+13.285,4.0
 1980 British Grand Prix 🇬🇧,F,4,1980-07-13,3,1980,Desiré Wilson 🇿🇦,Williams 🇬🇧,8,0,76,+13.285,4.0
-1980 Canadian Grand Prix 🇨🇦,F,5,1980-09-28,2,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,13,0,70,+15.54,6.0
+1980 British Grand Prix 🇬🇧,11,4,1980-07-13,3,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,8,18,76,+13.285,4.0
+1980 British Grand Prix 🇬🇧,1,4,1980-07-13,3,1980,Alan Jones 🇦🇺,Williams 🇬🇧,8,3,76,+13.285,4.0
 1980 Canadian Grand Prix 🇨🇦,F,5,1980-09-28,2,1980,Kevin Cogan 🇺🇸,Williams 🇬🇧,13,0,70,+15.54,6.0
+1980 Canadian Grand Prix 🇨🇦,F,5,1980-09-28,2,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,13,0,70,+15.54,6.0
 1980 Canadian Grand Prix 🇨🇦,1,5,1980-09-28,2,1980,Alan Jones 🇦🇺,Williams 🇬🇧,13,2,70,+15.54,6.0
 1980 Dutch Grand Prix 🇳🇱,F,3,1980-08-31,4,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,11,0,72,+15.29,3.0
 1980 Dutch Grand Prix 🇳🇱,11,3,1980-08-31,4,1980,Alan Jones 🇦🇺,Williams 🇬🇧,11,4,72,+15.29,3.0
@@ -192,9 +192,9 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1980 Monaco Grand Prix 🇲🇨,R,2,1980-05-18,1,1980,Alan Jones 🇦🇺,Williams 🇬🇧,6,3,76,1:55:34.365,9.0
 1980 South African Grand Prix 🇿🇦,R,6,1980-03-01,5,1980,Alan Jones 🇦🇺,Williams 🇬🇧,3,8,77,,2.0
 1980 United States Grand Prix West 🇺🇸,R,7,1980-03-30,R,1980,Alan Jones 🇦🇺,Williams 🇬🇧,4,5,3,,0.0
-1980 United States Grand Prix 🇺🇸,1,3,1980-10-05,2,1980,Alan Jones 🇦🇺,Williams 🇬🇧,14,5,59,+4.21,6.0
 1980 United States Grand Prix 🇺🇸,F,3,1980-10-05,2,1980,Geoff Lees 🇬🇧,Williams 🇬🇧,14,0,59,+4.21,6.0
 1980 United States Grand Prix 🇺🇸,9,3,1980-10-05,2,1980,Rupert Keegan 🇬🇧,Williams 🇬🇧,14,15,59,+4.21,6.0
+1980 United States Grand Prix 🇺🇸,1,3,1980-10-05,2,1980,Alan Jones 🇦🇺,Williams 🇬🇧,14,5,59,+4.21,6.0
 1981 Argentine Grand Prix 🇦🇷,4,4,1981-04-12,2,1981,Alan Jones 🇦🇺,Williams 🇬🇧,3,3,53,+26.61,6.0
 1981 Austrian Grand Prix 🇦🇹,4,5,1981-08-16,5,1981,Alan Jones 🇦🇺,Williams 🇬🇧,11,6,53,+31.85,2.0
 1981 Belgian Grand Prix 🇧🇪,R,1,1981-05-17,1,1981,Alan Jones 🇦🇺,Williams 🇬🇧,5,6,54,1:16:31.61,9.0

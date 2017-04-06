@@ -265,7 +265,7 @@ collectionId: trulli
 | 1998 | 4 | 1998 San Marino Grand Prix 🇮🇹 | 1998-04-26 | 16 | R | 0.0 | 34 |   | Prost 🇫🇷 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 13 | 11 |
 | 1998 | 3 | 1998 Argentine Grand Prix 🇦🇷 | 1998-04-12 | 16 | 11 | 0.0 | 70 |   | Prost 🇫🇷 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 15 | 15 |
 | 1998 | 2 | 1998 Brazilian Grand Prix 🇧🇷 | 1998-03-29 | 12 | R | 0.0 | 17 |   | Prost 🇫🇷 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 9 | R |
-| 1998 | 1 | 1998 Australian Grand Prix 🇦🇺 | 1998-03-08 | 11 | R | 0.0 | 26 |   | Prost 🇫🇷 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 21 | 9 |
+| 1998 | 1 | 1998 Australian Grand Prix 🇦🇺 | 1998-03-08 | 15 | R | 0.0 | 26 |   | Prost 🇫🇷 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 21 | 9 |
 | 1997 | 14 | 1997 Austrian Grand Prix 🇦🇹 | 1997-09-21 | 3 | R | 0.0 | 58 |   | Prost 🇫🇷 | [Shinji Nakano 🇯🇵](/f1/drivers/nakano) | 16 | R |
 | 1997 | 13 | 1997 Italian Grand Prix 🇮🇹 | 1997-09-07 | 16 | 10 | 0.0 | 53 | +1:02.706 | Prost 🇫🇷 | [Shinji Nakano 🇯🇵](/f1/drivers/nakano) | 15 | 11 |
 | 1997 | 12 | 1997 Belgian Grand Prix 🇧🇪 | 1997-08-24 | 14 | 15 | 0.0 | 42 |   | Prost 🇫🇷 | [Shinji Nakano 🇯🇵](/f1/drivers/nakano) | 16 | R |
@@ -285,14 +285,14 @@ collectionId: trulli
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
 | **Row Count** | 256 |  |  | 256 | 170 | 256 | 256 | 49 |  |  | 256 | 175 |
-| **Total Sum** | 2335.000 |  |  | 2659.000 | 1610.000 | 246.500 | 12373.000 | 1892.998 |  |  | 3070.000 | 1604.000 |
-| **Mean μ (Average)** | 9.121 |  |  | 10.387 | 9.471 | 0.963 | 48.332 | 38.633 |  |  | 11.992 | 9.166 |
+| **Total Sum** | 2335.000 |  |  | 2663.000 | 1610.000 | 246.500 | 12373.000 | 1892.998 |  |  | 3070.000 | 1604.000 |
+| **Mean μ (Average)** | 9.121 |  |  | 10.402 | 9.471 | 0.963 | 48.332 | 38.633 |  |  | 11.992 | 9.166 |
 | **Maximum** | 19.000 |  |  | 22.000 | 21.000 | 10.000 | 78.000 | 66.700 |  |  | 22.000 | 19.000 |
 | **75th Percentile** | 13.000 |  |  | 16.000 | 13.000 | 1.000 | 65.000 | 48.947 |  |  | 17.000 | 12.000 |
 | **Median** | 9.000 |  |  | 9.000 | 9.000 |  | 55.000 | 38.801 |  |  | 12.000 | 9.000 |
 | **25th Percentile** | 5.000 |  |  | 6.000 | 6.000 |  | 37.000 | 28.250 |  |  | 8.000 | 6.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 1.604 |  |  | 1.000 | 1.000 |
-| **Variance** | 25.435 |  |  | 32.370 | 22.543 | 3.488 | 497.683 | 212.437 |  |  | 29.250 | 19.144 |
-| **Standard Deviation σ** | 5.043 |  |  | 5.689 | 4.748 | 1.868 | 22.309 | 14.575 |  |  | 5.408 | 4.375 |
+| **Variance** | 25.435 |  |  | 32.451 | 22.543 | 3.488 | 497.683 | 212.437 |  |  | 29.250 | 19.144 |
+| **Standard Deviation σ** | 5.043 |  |  | 5.697 | 4.748 | 1.868 | 22.309 | 14.575 |  |  | 5.408 | 4.375 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

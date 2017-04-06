@@ -15,8 +15,8 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1970 United States Grand Prix 🇺🇸,R,19,1970-10-04,12,1970,Gus Hutchison 🇺🇸,Brabham 🇬🇧,12,22,104,,0.0
 1970 United States Grand Prix 🇺🇸,10,19,1970-10-04,12,1970,Jack Brabham 🇦🇺,Brabham 🇬🇧,12,16,104,,0.0
 1971 Austrian Grand Prix 🇦🇹,R,12,1971-08-15,7,1971,John Surtees 🇬🇧,Surtees 🇬🇧,8,18,54,+1:37.42,0.0
-1971 British Grand Prix 🇬🇧,R,12,1971-07-17,5,1971,Derek Bell 🇬🇧,Surtees 🇬🇧,6,23,67,,2.0
 1971 British Grand Prix 🇬🇧,6,12,1971-07-17,5,1971,John Surtees 🇬🇧,Surtees 🇬🇧,6,11,67,,2.0
+1971 British Grand Prix 🇬🇧,R,12,1971-07-17,5,1971,Derek Bell 🇬🇧,Surtees 🇬🇧,6,23,67,,2.0
 1971 Canadian Grand Prix 🇨🇦,11,23,1971-09-19,R,1971,John Surtees 🇬🇧,Surtees 🇬🇧,10,14,26,,0.0
 1971 Dutch Grand Prix 🇳🇱,8,18,1971-06-20,D,1971,Gijs van Lennep 🇳🇱,Surtees 🇬🇧,4,21,19,,0.0
 1971 Dutch Grand Prix 🇳🇱,5,18,1971-06-20,D,1971,John Surtees 🇬🇧,Surtees 🇬🇧,4,7,19,,0.0
@@ -28,36 +28,36 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1971 South African Grand Prix 🇿🇦,7,15,1971-03-06,12,1971,Brian Redman 🇬🇧,Surtees 🇬🇧,1,17,77,,0.0
 1971 South African Grand Prix 🇿🇦,R,15,1971-03-06,12,1971,John Surtees 🇬🇧,Surtees 🇬🇧,1,6,77,,0.0
 1971 Spanish Grand Prix 🇪🇸,11,19,1971-04-18,R,1971,John Surtees 🇬🇧,Surtees 🇬🇧,2,22,9,,0.0
-1972 Austrian Grand Prix 🇦🇹,N,17,1972-08-13,R,1972,Carlos Pace 🇧🇷,March 🇬🇧,9,18,48,,0.0
 1972 Austrian Grand Prix 🇦🇹,12,17,1972-08-13,R,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,9,11,48,,0.0
 1972 Austrian Grand Prix 🇦🇹,10,17,1972-08-13,R,1972,Niki Lauda 🇦🇹,March 🇬🇧,9,22,48,,0.0
 1972 Austrian Grand Prix 🇦🇹,R,17,1972-08-13,R,1972,Mike Beuttler 🇬🇧,March 🇬🇧,9,24,48,,0.0
+1972 Austrian Grand Prix 🇦🇹,N,17,1972-08-13,R,1972,Carlos Pace 🇧🇷,March 🇬🇧,9,18,48,,0.0
 1972 Belgian Grand Prix 🇧🇪,5,20,1972-06-04,11,1972,Carlos Pace 🇧🇷,March 🇬🇧,5,11,83,,0.0
 1972 Belgian Grand Prix 🇧🇪,9,20,1972-06-04,11,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,5,14,83,,0.0
 1972 Belgian Grand Prix 🇧🇪,12,20,1972-06-04,11,1972,Niki Lauda 🇦🇹,March 🇬🇧,5,25,83,,0.0
 1972 Belgian Grand Prix 🇧🇪,N,20,1972-06-04,11,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,5,19,83,,0.0
 1972 Belgian Grand Prix 🇧🇪,R,20,1972-06-04,11,1972,Mike Beuttler 🇬🇧,March 🇬🇧,5,22,83,,0.0
-1972 British Grand Prix 🇬🇧,9,25,1972-07-15,10,1972,Niki Lauda 🇦🇹,March 🇬🇧,7,19,71,,0.0
-1972 British Grand Prix 🇬🇧,13,25,1972-07-15,10,1972,Mike Beuttler 🇬🇧,March 🇬🇧,7,23,71,,0.0
-1972 British Grand Prix 🇬🇧,R,25,1972-07-15,10,1972,Carlos Pace 🇧🇷,March 🇬🇧,7,13,71,,0.0
 1972 British Grand Prix 🇬🇧,7,25,1972-07-15,10,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,7,8,71,,0.0
+1972 British Grand Prix 🇬🇧,R,25,1972-07-15,10,1972,Carlos Pace 🇧🇷,March 🇬🇧,7,13,71,,0.0
+1972 British Grand Prix 🇬🇧,13,25,1972-07-15,10,1972,Mike Beuttler 🇬🇧,March 🇬🇧,7,23,71,,0.0
+1972 British Grand Prix 🇬🇧,9,25,1972-07-15,10,1972,Niki Lauda 🇦🇹,March 🇬🇧,7,19,71,,0.0
 1972 French Grand Prix 🇫🇷,5,15,1972-07-02,16,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,6,9,37,,0.0
 1972 French Grand Prix 🇫🇷,19,15,1972-07-02,16,1972,Mike Beuttler 🇬🇧,March 🇬🇧,6,23,37,,0.0
 1972 French Grand Prix 🇫🇷,R,15,1972-07-02,16,1972,Carlos Pace 🇧🇷,March 🇬🇧,6,11,37,,0.0
 1972 French Grand Prix 🇫🇷,R,15,1972-07-02,16,1972,Niki Lauda 🇦🇹,March 🇬🇧,6,21,37,,0.0
-1972 German Grand Prix 🇩🇪,3,14,1972-07-30,R,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,8,4,6,,0.0
-1972 German Grand Prix 🇩🇪,8,14,1972-07-30,R,1972,Mike Beuttler 🇬🇧,March 🇬🇧,8,27,6,,0.0
-1972 German Grand Prix 🇩🇪,N,14,1972-07-30,R,1972,Carlos Pace 🇧🇷,March 🇬🇧,8,11,6,,0.0
-1972 German Grand Prix 🇩🇪,R,14,1972-07-30,R,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,8,9,6,,0.0
 1972 German Grand Prix 🇩🇪,R,14,1972-07-30,R,1972,Niki Lauda 🇦🇹,March 🇬🇧,8,24,6,,0.0
+1972 German Grand Prix 🇩🇪,R,14,1972-07-30,R,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,8,9,6,,0.0
+1972 German Grand Prix 🇩🇪,N,14,1972-07-30,R,1972,Carlos Pace 🇧🇷,March 🇬🇧,8,11,6,,0.0
+1972 German Grand Prix 🇩🇪,8,14,1972-07-30,R,1972,Mike Beuttler 🇬🇧,March 🇬🇧,8,27,6,,0.0
+1972 German Grand Prix 🇩🇪,3,14,1972-07-30,R,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,8,4,6,,0.0
+1972 Monaco Grand Prix 🇲🇨,11,25,1972-05-14,10,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,4,15,77,,0.0
 1972 Monaco Grand Prix 🇲🇨,13,25,1972-05-14,10,1972,Mike Beuttler 🇬🇧,March 🇬🇧,4,23,77,,0.0
 1972 Monaco Grand Prix 🇲🇨,16,25,1972-05-14,10,1972,Niki Lauda 🇦🇹,March 🇬🇧,4,22,77,,0.0
 1972 Monaco Grand Prix 🇲🇨,17,25,1972-05-14,10,1972,Carlos Pace 🇧🇷,March 🇬🇧,4,24,77,,0.0
 1972 Monaco Grand Prix 🇲🇨,R,25,1972-05-14,10,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,4,9,77,,0.0
-1972 Monaco Grand Prix 🇲🇨,11,25,1972-05-14,10,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,4,15,77,,0.0
-1972 South African Grand Prix 🇿🇦,7,25,1972-03-04,13,1972,Niki Lauda 🇦🇹,March 🇬🇧,2,21,77,,0.0
-1972 South African Grand Prix 🇿🇦,11,25,1972-03-04,13,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,2,22,77,,0.0
 1972 South African Grand Prix 🇿🇦,17,25,1972-03-04,13,1972,Carlos Pace 🇧🇷,March 🇬🇧,2,24,77,,0.0
+1972 South African Grand Prix 🇿🇦,11,25,1972-03-04,13,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,2,22,77,,0.0
+1972 South African Grand Prix 🇿🇦,7,25,1972-03-04,13,1972,Niki Lauda 🇦🇹,March 🇬🇧,2,21,77,,0.0
 1972 South African Grand Prix 🇿🇦,5,25,1972-03-04,13,1972,Ronnie Peterson 🇸🇪,March 🇬🇧,2,9,77,,0.0
 1972 Spanish Grand Prix 🇪🇸,6,17,1972-05-01,R,1972,Carlos Pace 🇧🇷,March 🇬🇧,3,16,15,,0.0
 1972 Spanish Grand Prix 🇪🇸,11,17,1972-05-01,R,1972,Henri Pescarolo 🇫🇷,March 🇬🇧,3,19,15,,0.0
@@ -68,10 +68,10 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1973 Austrian Grand Prix 🇦🇹,4,17,1973-08-19,R,1973,Carlos Reutemann 🇦🇷,Brabham 🇬🇧,12,5,21,,0.0
 1973 Canadian Grand Prix 🇨🇦,11,18,1973-09-23,12,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,14,10,76,,0.0
 1973 Canadian Grand Prix 🇨🇦,8,18,1973-09-23,12,1973,Carlos Reutemann 🇦🇷,Brabham 🇬🇧,14,4,76,,0.0
-1973 German Grand Prix 🇩🇪,R,16,1973-08-05,11,1973,Carlos Reutemann 🇦🇷,Brabham 🇬🇧,11,6,14,+3:27.3,0.0
 1973 German Grand Prix 🇩🇪,5,16,1973-08-05,11,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,11,13,14,+3:27.3,0.0
-1973 Italian Grand Prix 🇮🇹,R,9,1973-09-09,12,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,13,16,54,,0.0
+1973 German Grand Prix 🇩🇪,R,16,1973-08-05,11,1973,Carlos Reutemann 🇦🇷,Brabham 🇬🇧,11,6,14,+3:27.3,0.0
 1973 Italian Grand Prix 🇮🇹,6,9,1973-09-09,12,1973,Carlos Reutemann 🇦🇷,Brabham 🇬🇧,13,10,54,,0.0
+1973 Italian Grand Prix 🇮🇹,R,9,1973-09-09,12,1973,Wilson Fittipaldi 🇧🇷,Brabham 🇬🇧,13,16,54,,0.0
 1974 Austrian Grand Prix 🇦🇹,12,13,1974-08-18,R,1974,Graham Hill 🇬🇧,Lola 🇬🇧,12,21,14,,0.0
 1974 Canadian Grand Prix 🇨🇦,14,11,1974-09-22,11,1974,Graham Hill 🇬🇧,Lola 🇬🇧,14,20,78,,0.0
 1974 Italian Grand Prix 🇮🇹,8,14,1974-09-08,R,1974,Graham Hill 🇬🇧,Lola 🇬🇧,13,21,25,,0.0

@@ -245,20 +245,20 @@ collectionId: trintignant
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 5 | 3 |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 5 | 3 |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 1 | 2 |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 14 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 5 | 3 | 1.33000004291534 | 94 |   | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |
 | 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 1 | 2 | 2.0 | 96 | +1:29.6 | Ferrari 🇮🇹 | [Umberto Maglioli 🇮🇹](/f1/drivers/maglioli) | 5 | 3 |

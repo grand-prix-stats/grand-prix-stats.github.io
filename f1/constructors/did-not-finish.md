@@ -40,8 +40,8 @@ var data = {
                 "888888",
                 "FA9B27",
                 "888888",
-                "121D32",
                 "D70028",
+                "121D32",
                 "095921",
                 "025839",
                 "0D1773",
@@ -162,8 +162,8 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "FDCC2F",
                 "444444",
+                "FDCC2F",
                 "444444",
                 "444444",
                 "444444",
@@ -286,7 +286,7 @@ var data = {
                 89.0,
                 88.0,
                 78.0,
-                78.0,
+                77.0,
                 75.0,
                 75.0,
                 75.0,
@@ -410,8 +410,8 @@ var data = {
         "Footwork",
         "Shadow",
         "Lola",
-        "Red Bull",
         "Toyota",
+        "Red Bull",
         "Jaguar",
         "Lotus-Climax",
         "Prost",
@@ -567,8 +567,8 @@ var chart = new Chart("chart", {
 | 25. | Footwork 🇬🇧 | 90 | 46.39% |
 | 26. | Shadow 🇬🇧 | 89 | 42.18% |
 | 27. | Lola 🇬🇧 | 88 | 53.33% |
-| 28. | Red Bull 🇦🇹 | 78 | 17.26% |
-| 29. | Toyota 🇯🇵 | 78 | 27.86% |
+| 28. | Toyota 🇯🇵 | 78 | 27.86% |
+| 29. | Red Bull 🇦🇹 | 77 | 17.04% |
 | 30. | Jaguar 🇬🇧 | 75 | 44.12% |
 | 31. | Lotus-Climax 🇬🇧 | 75 | 32.47% |
 | 32. | Prost 🇫🇷 | 75 | 45.45% |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Finish** | **% Of Total Participations** |
 | **Row Count** | 120 | 120 |
-| **Total Sum** | 8792.000 | 5414.580 |
-| **Mean μ (Average)** | 73.267 | 45.122 |
+| **Total Sum** | 8791.000 | 5414.360 |
+| **Mean μ (Average)** | 73.258 | 45.120 |
 | **Maximum** | 618.000 | 100.000 |
 | **75th Percentile** | 75.000 | 55.560 |
 | **Median** | 34.000 | 45.130 |
 | **25th Percentile** | 12.000 | 34.870 |
 | **Minimum** | 3.000 | 12.350 |
-| **Variance** | 11462.629 | 277.087 |
-| **Standard Deviation σ** | 107.064 | 16.646 |
+| **Variance** | 11462.558 | 277.189 |
+| **Standard Deviation σ** | 107.063 | 16.649 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

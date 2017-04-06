@@ -5,8 +5,8 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1970 Canadian Grand Prix 🇨🇦,1,3,1970-09-20,2,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,11,2,90,+14.8,6.0
 1970 Dutch Grand Prix 🇳🇱,3,6,1970-06-21,4,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,5,3,79,,3.0
 1970 German Grand Prix 🇩🇪,2,3,1970-08-02,R,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,8,1,30,,0.0
-1970 Italian Grand Prix 🇮🇹,R,3,1970-09-06,1,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,10,1,68,1:39:07.1,9.0
 1970 Italian Grand Prix 🇮🇹,R,3,1970-09-06,1,1970,Ignazio Giunti 🇮🇹,Ferrari 🇮🇹,10,15,68,1:39:07.1,9.0
+1970 Italian Grand Prix 🇮🇹,R,3,1970-09-06,1,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,10,1,68,1:39:07.1,9.0
 1970 Mexican Grand Prix 🇲🇽,1,1,1970-10-25,2,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,13,3,65,+24.64,6.0
 1970 United States Grand Prix 🇺🇸,4,6,1970-10-04,13,1970,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,12,1,101,,0.0
 1971 Austrian Grand Prix 🇦🇹,R,4,1971-08-15,R,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,8,6,8,,0.0
@@ -16,13 +16,13 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1971 Dutch Grand Prix 🇳🇱,R,4,1971-06-20,3,1971,Mario Andretti 🇺🇸,Ferrari 🇮🇹,4,16,69,,4.0
 1971 Dutch Grand Prix 🇳🇱,1,4,1971-06-20,3,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,4,1,69,,4.0
 1971 French Grand Prix 🇫🇷,R,2,1971-07-04,R,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,5,3,20,,0.0
-1971 German Grand Prix 🇩🇪,R,4,1971-08-01,3,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,7,2,12,+37.1,4.0
 1971 German Grand Prix 🇩🇪,4,4,1971-08-01,3,1971,Mario Andretti 🇺🇸,Ferrari 🇮🇹,7,11,12,+37.1,4.0
+1971 German Grand Prix 🇩🇪,R,4,1971-08-01,3,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,7,2,12,+37.1,4.0
 1971 Italian Grand Prix 🇮🇹,R,8,1971-09-05,R,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,9,2,17,,0.0
-1971 Monaco Grand Prix 🇲🇨,F,11,1971-05-23,R,1971,Mario Andretti 🇺🇸,Ferrari 🇮🇹,3,0,24,,0.0
 1971 Monaco Grand Prix 🇲🇨,3,11,1971-05-23,R,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,3,2,24,,0.0
-1971 South African Grand Prix 🇿🇦,8,3,1971-03-06,3,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,1,8,79,+31.4,4.0
+1971 Monaco Grand Prix 🇲🇨,F,11,1971-05-23,R,1971,Mario Andretti 🇺🇸,Ferrari 🇮🇹,3,0,24,,0.0
 1971 South African Grand Prix 🇿🇦,1,3,1971-03-06,3,1971,Mario Andretti 🇺🇸,Ferrari 🇮🇹,1,4,79,+31.4,4.0
+1971 South African Grand Prix 🇿🇦,8,3,1971-03-06,3,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,1,8,79,+31.4,4.0
 1971 Spanish Grand Prix 🇪🇸,2,2,1971-04-18,R,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,2,1,13,,0.0
 1971 Spanish Grand Prix 🇪🇸,R,2,1971-04-18,R,1971,Mario Andretti 🇺🇸,Ferrari 🇮🇹,2,8,13,,0.0
 1971 United States Grand Prix 🇺🇸,N,4,1971-10-03,6,1971,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,11,7,59,+1:16.426,1.0
@@ -40,31 +40,31 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1972 South African Grand Prix 🇿🇦,4,2,1972-03-04,12,1972,Mario Andretti 🇺🇸,Ferrari 🇮🇹,2,6,77,,0.0
 1972 Spanish Grand Prix 🇪🇸,R,8,1972-05-01,3,1972,Mario Andretti 🇺🇸,Ferrari 🇮🇹,3,5,89,,4.0
 1972 Spanish Grand Prix 🇪🇸,2,8,1972-05-01,3,1972,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,3,1,89,,4.0
-1972 United States Grand Prix 🇺🇸,5,6,1972-10-08,8,1972,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,12,12,58,,0.0
 1972 United States Grand Prix 🇺🇸,6,6,1972-10-08,8,1972,Mario Andretti 🇺🇸,Ferrari 🇮🇹,12,10,58,,0.0
+1972 United States Grand Prix 🇺🇸,5,6,1972-10-08,8,1972,Jacky Ickx 🇧🇪,Ferrari 🇮🇹,12,12,58,,0.0
 1973 Argentine Grand Prix 🇦🇷,R,1,1973-01-28,7,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,1,13,93,,0.0
 1973 Argentine Grand Prix 🇦🇷,R,1,1973-01-28,7,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,1,7,93,,0.0
 1973 Austrian Grand Prix 🇦🇹,5,14,1973-08-19,6,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,12,13,54,+1:38.40,1.0
-1973 Belgian Grand Prix 🇧🇪,R,12,1973-05-20,10,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,5,5,63,,0.0
 1973 Belgian Grand Prix 🇧🇪,5,12,1973-05-20,10,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,5,14,63,,0.0
-1973 Brazilian Grand Prix 🇧🇷,R,4,1973-02-11,6,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,2,10,39,,1.0
+1973 Belgian Grand Prix 🇧🇪,R,12,1973-05-20,10,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,5,5,63,,0.0
 1973 Brazilian Grand Prix 🇧🇷,8,4,1973-02-11,6,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,2,13,39,,1.0
-1973 British Grand Prix 🇬🇧,12,10,1973-07-14,7,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,9,9,67,+1:11.7,0.0
+1973 Brazilian Grand Prix 🇧🇷,R,4,1973-02-11,6,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,2,10,39,,1.0
 1973 British Grand Prix 🇬🇧,R,10,1973-07-14,7,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,9,17,67,+1:11.7,0.0
+1973 British Grand Prix 🇬🇧,12,10,1973-07-14,7,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,9,9,67,+1:11.7,0.0
 1973 Dutch Grand Prix 🇳🇱,5,12,1973-07-29,8,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,10,9,68,,0.0
 1973 Dutch Grand Prix 🇳🇱,R,12,1973-07-29,8,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,10,11,68,,0.0
 1973 French Grand Prix 🇫🇷,11,9,1973-07-01,12,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,8,15,53,,0.0
 1973 French Grand Prix 🇫🇷,9,9,1973-07-01,12,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,8,17,53,,0.0
-1973 German Grand Prix 🇩🇪,R,10,1973-08-05,R,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,11,9,7,,0.0
 1973 German Grand Prix 🇩🇪,R,10,1973-08-05,R,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,11,5,7,,0.0
+1973 German Grand Prix 🇩🇪,R,10,1973-08-05,R,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,11,9,7,,0.0
 1973 Italian Grand Prix 🇮🇹,13,18,1973-09-09,R,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,13,13,30,,0.0
 1973 Italian Grand Prix 🇮🇹,R,18,1973-09-09,R,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,13,15,30,,0.0
-1973 Monaco Grand Prix 🇲🇨,R,8,1973-06-03,R,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,6,6,15,,0.0
 1973 Monaco Grand Prix 🇲🇨,R,8,1973-06-03,R,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,6,11,15,,0.0
+1973 Monaco Grand Prix 🇲🇨,R,8,1973-06-03,R,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,6,6,15,,0.0
 1973 South African Grand Prix 🇿🇦,R,5,1973-03-03,R,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,3,10,2,,0.0
 1973 South African Grand Prix 🇿🇦,R,5,1973-03-03,R,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,3,7,2,,0.0
-1973 Spanish Grand Prix 🇪🇸,5,8,1973-04-29,9,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,4,10,69,,0.0
 1973 Spanish Grand Prix 🇪🇸,R,8,1973-04-29,9,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,4,11,69,,0.0
+1973 Spanish Grand Prix 🇪🇸,5,8,1973-04-29,9,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,4,10,69,,0.0
 1973 Swedish Grand Prix 🇸🇪,13,12,1973-06-17,9,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,7,15,77,,0.0
 1973 Swedish Grand Prix 🇸🇪,R,12,1973-06-17,9,1973,Jean-Pierre Beltoise 🇫🇷,BRM 🇬🇧,7,9,77,,0.0
 1973 United States Grand Prix 🇺🇸,R,15,1973-10-07,8,1973,Niki Lauda 🇦🇹,BRM 🇬🇧,15,21,58,,0.0
@@ -127,8 +127,8 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 1978 Brazilian Grand Prix 🇧🇷,R,15,1978-01-29,5,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,2,9,62,,2.0
 1978 British Grand Prix 🇬🇧,5,17,1978-07-16,R,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,10,18,49,,0.0
 1978 Canadian Grand Prix 🇨🇦,R,0,1978-10-08,F,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,16,8,0,,0.0
-1978 Dutch Grand Prix 🇳🇱,R,0,1978-08-27,F,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,13,18,0,,0.0
 1978 Dutch Grand Prix 🇳🇱,F,0,1978-08-27,F,1978,Danny Ongais 🇺🇸,Shadow 🇬🇧,13,0,0,,0.0
+1978 Dutch Grand Prix 🇳🇱,R,0,1978-08-27,F,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,13,18,0,,0.0
 1978 French Grand Prix 🇫🇷,11,17,1978-07-02,R,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,9,20,4,,0.0
 1978 German Grand Prix 🇩🇪,R,0,1978-07-30,F,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,11,24,0,,0.0
 1978 Italian Grand Prix 🇮🇹,R,15,1978-09-10,N,1978,Hans-Joachim Stuck 🇩🇪,Shadow 🇬🇧,14,17,33,,0.0
