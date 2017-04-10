@@ -1,11 +1,11 @@
 [
     {
         "driver": "Felipe Massa 🇧🇷",
-        "times": 13
+        "times": 14
     },
     {
         "driver": "Fernando Alonso 🇪🇸",
-        "times": 13
+        "times": 14
     },
     {
         "driver": "Jenson Button 🇬🇧",
@@ -13,6 +13,10 @@
     },
     {
         "driver": "Kimi Räikkönen 🇫🇮",
+        "times": 12
+    },
+    {
+        "driver": "Lewis Hamilton 🇬🇧",
         "times": 11
     },
     {
@@ -20,15 +24,11 @@
         "times": 11
     },
     {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 10
+        "driver": "Sebastian Vettel 🇩🇪",
+        "times": 11
     },
     {
         "driver": "Mark Webber 🇦🇺",
-        "times": 10
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "times": 10
     },
     {
@@ -42,6 +42,18 @@
     {
         "driver": "Jarno Trulli 🇮🇹",
         "times": 7
+    },
+    {
+        "driver": "Nico Hülkenberg 🇩🇪",
+        "times": 7
+    },
+    {
+        "driver": "Sergio Pérez 🇲🇽",
+        "times": 7
+    },
+    {
+        "driver": "Daniel Ricciardo 🇦🇺",
+        "times": 6
     },
     {
         "driver": "Giancarlo Fisichella 🇮🇹",
@@ -60,20 +72,12 @@
         "times": 6
     },
     {
-        "driver": "Nico Hülkenberg 🇩🇪",
-        "times": 6
-    },
-    {
-        "driver": "Sergio Pérez 🇲🇽",
+        "driver": "Romain Grosjean 🇫🇷",
         "times": 6
     },
     {
         "driver": "Timo Glock 🇩🇪",
         "times": 6
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "times": 5
     },
     {
         "driver": "David Coulthard 🇬🇧",
@@ -88,11 +92,19 @@
         "times": 5
     },
     {
-        "driver": "Romain Grosjean 🇫🇷",
+        "driver": "Valtteri Bottas 🇫🇮",
         "times": 5
     },
     {
+        "driver": "Daniil Kvyat 🇷🇺",
+        "times": 4
+    },
+    {
         "driver": "Kamui Kobayashi 🇯🇵",
+        "times": 4
+    },
+    {
+        "driver": "Marcus Ericsson 🇸🇪",
         "times": 4
     },
     {
@@ -104,15 +116,11 @@
         "times": 4
     },
     {
-        "driver": "Valtteri Bottas 🇫🇮",
-        "times": 4
-    },
-    {
         "driver": "Vitantonio Liuzzi 🇮🇹",
         "times": 4
     },
     {
-        "driver": "Daniil Kvyat 🇷🇺",
+        "driver": "Carlos Sainz 🇪🇸",
         "times": 3
     },
     {
@@ -124,7 +132,11 @@
         "times": 3
     },
     {
-        "driver": "Marcus Ericsson 🇸🇪",
+        "driver": "Kevin Magnussen 🇩🇰",
+        "times": 3
+    },
+    {
+        "driver": "Max Verstappen 🇳🇱",
         "times": 3
     },
     {
@@ -152,10 +164,6 @@
         "times": 2
     },
     {
-        "driver": "Carlos Sainz 🇪🇸",
-        "times": 2
-    },
-    {
         "driver": "Charles Pic 🇫🇷",
         "times": 2
     },
@@ -180,6 +188,10 @@
         "times": 2
     },
     {
+        "driver": "Jolyon Palmer 🇬🇧",
+        "times": 2
+    },
+    {
         "driver": "Juan Pablo Montoya 🇨🇴",
         "times": 2
     },
@@ -192,15 +204,7 @@
         "times": 2
     },
     {
-        "driver": "Kevin Magnussen 🇩🇰",
-        "times": 2
-    },
-    {
         "driver": "Max Chilton 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Max Verstappen 🇳🇱",
         "times": 2
     },
     {
@@ -232,7 +236,15 @@
         "times": 1
     },
     {
+        "driver": "Antonio Giovinazzi 🇮🇹",
+        "times": 1
+    },
+    {
         "driver": "Antônio Pizzonia 🇧🇷",
+        "times": 1
+    },
+    {
+        "driver": "Esteban Ocon 🇫🇷",
         "times": 1
     },
     {
@@ -248,11 +260,11 @@
         "times": 1
     },
     {
-        "driver": "Jolyon Palmer 🇬🇧",
+        "driver": "Karun Chandhok 🇮🇳",
         "times": 1
     },
     {
-        "driver": "Karun Chandhok 🇮🇳",
+        "driver": "Lance Stroll 🇨🇦",
         "times": 1
     },
     {
@@ -281,6 +293,10 @@
     },
     {
         "driver": "Scott Speed 🇺🇸",
+        "times": 1
+    },
+    {
+        "driver": "Stoffel Vandoorne 🇧🇪",
         "times": 1
     },
     {

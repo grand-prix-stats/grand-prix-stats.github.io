@@ -1,23 +1,23 @@
 [
     {
-        "% of total participations": "69.70%",
+        "% of total participations": "69.72%",
         "constructor": "Ferrari 🇮🇹",
-        "races_finished": 1465
+        "races_finished": 1467
     },
     {
-        "% of total participations": "69.12%",
+        "% of total participations": "69.04%",
         "constructor": "McLaren 🇬🇧",
         "races_finished": 1097
     },
     {
-        "% of total participations": "69.95%",
+        "% of total participations": "69.92%",
         "constructor": "Williams 🇬🇧",
-        "races_finished": 938
+        "races_finished": 939
     },
     {
-        "% of total participations": "66.53%",
+        "% of total participations": "66.48%",
         "constructor": "Sauber 🇨🇭",
-        "races_finished": 471
+        "races_finished": 472
     },
     {
         "% of total participations": "51.76%",
@@ -30,14 +30,14 @@
         "races_finished": 432
     },
     {
-        "% of total participations": "64.50%",
+        "% of total participations": "64.61%",
         "constructor": "Renault 🇫🇷",
-        "races_finished": 407
+        "races_finished": 409
     },
     {
-        "% of total participations": "82.52%",
+        "% of total participations": "82.60%",
         "constructor": "Red Bull 🇦🇹",
-        "races_finished": 373
+        "races_finished": 375
     },
     {
         "% of total participations": "64.62%",
@@ -50,9 +50,9 @@
         "races_finished": 310
     },
     {
-        "% of total participations": "74.40%",
+        "% of total participations": "74.28%",
         "constructor": "Toro Rosso 🇮🇹",
-        "races_finished": 308
+        "races_finished": 309
     },
     {
         "% of total participations": "44.94%",
@@ -65,9 +65,9 @@
         "races_finished": 299
     },
     {
-        "% of total participations": "81.10%",
+        "% of total participations": "81.21%",
         "constructor": "Force India 🇮🇳",
-        "races_finished": 279
+        "races_finished": 281
     },
     {
         "% of total participations": "47.12%",
@@ -80,9 +80,9 @@
         "races_finished": 275
     },
     {
-        "% of total participations": "84.18%",
+        "% of total participations": "84.28%",
         "constructor": "Mercedes 🇩🇪",
-        "races_finished": 266
+        "races_finished": 268
     },
     {
         "% of total participations": "46.44%",
@@ -305,6 +305,11 @@
         "races_finished": 38
     },
     {
+        "% of total participations": "73.91%",
+        "constructor": "Haas F1 Team 🇺🇸",
+        "races_finished": 34
+    },
+    {
         "% of total participations": "41.77%",
         "constructor": "Wolf 🇨🇦",
         "races_finished": 33
@@ -312,11 +317,6 @@
     {
         "% of total participations": "94.12%",
         "constructor": "Brawn 🇬🇧",
-        "races_finished": 32
-    },
-    {
-        "% of total participations": "72.73%",
-        "constructor": "Haas F1 Team 🇺🇸",
         "races_finished": 32
     },
     {

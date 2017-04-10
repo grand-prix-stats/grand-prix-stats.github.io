@@ -654,9 +654,9 @@
         "points": 0.0,
         "round": 2,
         "season": 1957,
-        "teammate": "Peter Collins 🇬🇧",
+        "teammate": "Wolfgang von Trips 🇩🇪",
         "teammate_final_position": "R",
-        "teammate_grid": 2,
+        "teammate_grid": 9,
         "time": null
     },
     {
@@ -669,9 +669,9 @@
         "points": 0.0,
         "round": 2,
         "season": 1957,
-        "teammate": "Wolfgang von Trips 🇩🇪",
+        "teammate": "Peter Collins 🇬🇧",
         "teammate_final_position": "R",
-        "teammate_grid": 9,
+        "teammate_grid": 2,
         "time": null
     },
     {
@@ -1584,9 +1584,9 @@
         "points": 3.0,
         "round": 6,
         "season": 1954,
-        "teammate": "Louis Rosier 🇫🇷",
-        "teammate_final_position": "8",
-        "teammate_grid": 11,
+        "teammate": "José Froilán González 🇦🇷",
+        "teammate_final_position": "2",
+        "teammate_grid": 5,
         "time": "+1:36.5"
     },
     {
@@ -1599,25 +1599,10 @@
         "points": 3.0,
         "round": 6,
         "season": 1954,
-        "teammate": "José Froilán González 🇦🇷",
-        "teammate_final_position": "2",
-        "teammate_grid": 5,
+        "teammate": "Louis Rosier 🇫🇷",
+        "teammate_final_position": "8",
+        "teammate_grid": 11,
         "time": "+1:36.5"
-    },
-    {
-        "constructor": "Ferrari 🇮🇹",
-        "date": "1954-08-01",
-        "final_position": "R",
-        "grid": 3,
-        "laps_completed": 3,
-        "name": "1954 German Grand Prix 🇩🇪",
-        "points": 0.0,
-        "round": 6,
-        "season": 1954,
-        "teammate": "Robert Manzon 🇫🇷",
-        "teammate_final_position": "9",
-        "teammate_grid": 12,
-        "time": null
     },
     {
         "constructor": "Ferrari 🇮🇹",
@@ -1632,6 +1617,21 @@
         "teammate": "Maurice Trintignant 🇫🇷",
         "teammate_final_position": "3",
         "teammate_grid": 7,
+        "time": null
+    },
+    {
+        "constructor": "Ferrari 🇮🇹",
+        "date": "1954-08-01",
+        "final_position": "R",
+        "grid": 3,
+        "laps_completed": 3,
+        "name": "1954 German Grand Prix 🇩🇪",
+        "points": 0.0,
+        "round": 6,
+        "season": 1954,
+        "teammate": "Robert Manzon 🇫🇷",
+        "teammate_final_position": "9",
+        "teammate_grid": 12,
         "time": null
     },
     {

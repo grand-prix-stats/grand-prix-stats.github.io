@@ -1,13 +1,13 @@
 [
     {
         "date": "2017-04-09",
-        "laps_completed": null,
+        "laps_completed": 56,
         "name": "2017 Chinese Grand Prix 🇨🇳",
-        "race_duration": null,
+        "race_duration": "1:37:36.158",
         "round": 2,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
         "date": "2016-04-17",

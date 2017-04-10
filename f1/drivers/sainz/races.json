@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-04-09",
+        "final_position": "7",
+        "grid": 11,
+        "laps_completed": 56,
+        "name": "2017 Chinese Grand Prix 🇨🇳",
+        "points": 6.0,
+        "round": 2,
+        "season": 2017,
+        "teammate": "Daniil Kvyat 🇷🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
+        "time": "+1:12.893"
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
         "date": "2017-03-26",
         "final_position": "8",
         "grid": 8,

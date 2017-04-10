@@ -1,6 +1,21 @@
 [
     {
         "constructor": "McLaren 🇬🇧",
+        "date": "2017-04-09",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 33,
+        "name": "2017 Chinese Grand Prix 🇨🇳",
+        "points": 0.0,
+        "round": 2,
+        "season": 2017,
+        "teammate": "Stoffel Vandoorne 🇧🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 15,
+        "time": null
+    },
+    {
+        "constructor": "McLaren 🇬🇧",
         "date": "2017-03-26",
         "final_position": "R",
         "grid": 12,

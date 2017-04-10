@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Renault 🇫🇷",
+        "date": "2017-04-09",
+        "final_position": "13",
+        "grid": 20,
+        "laps_completed": 55,
+        "name": "2017 Chinese Grand Prix 🇨🇳",
+        "points": 0.0,
+        "round": 2,
+        "season": 2017,
+        "teammate": "Nico Hülkenberg 🇩🇪",
+        "teammate_final_position": "12",
+        "teammate_grid": 7,
+        "time": null
+    },
+    {
+        "constructor": "Renault 🇫🇷",
         "date": "2017-03-26",
         "final_position": "R",
         "grid": 19,

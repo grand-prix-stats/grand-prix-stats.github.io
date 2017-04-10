@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-04-09",
+        "final_position": "11",
+        "grid": 19,
+        "laps_completed": 55,
+        "name": "2017 Chinese Grand Prix 🇨🇳",
+        "points": 0.0,
+        "round": 2,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "8",
+        "teammate_grid": 12,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-03-26",
         "final_position": "R",
         "grid": 6,

@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-04-09",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 18,
+        "name": "2017 Chinese Grand Prix 🇨🇳",
+        "points": 0.0,
+        "round": 2,
+        "season": 2017,
+        "teammate": "Carlos Sainz 🇪🇸",
+        "teammate_final_position": "7",
+        "teammate_grid": 11,
+        "time": null
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
         "date": "2017-03-26",
         "final_position": "9",
         "grid": 9,

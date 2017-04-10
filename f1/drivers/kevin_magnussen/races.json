@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-04-09",
+        "final_position": "8",
+        "grid": 12,
+        "laps_completed": 55,
+        "name": "2017 Chinese Grand Prix 🇨🇳",
+        "points": 4.0,
+        "round": 2,
+        "season": 2017,
+        "teammate": "Romain Grosjean 🇫🇷",
+        "teammate_final_position": "11",
+        "teammate_grid": 19,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-03-26",
         "final_position": "R",
         "grid": 17,

@@ -3212,21 +3212,6 @@
     {
         "constructor": "Ferrari 🇮🇹",
         "date": "1955-01-16",
-        "final_position": "R",
-        "grid": 14,
-        "laps_completed": 36,
-        "name": "1955 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1955,
-        "teammate": "Nino Farina 🇮🇹",
-        "teammate_final_position": "3",
-        "teammate_grid": 5,
-        "time": null
-    },
-    {
-        "constructor": "Ferrari 🇮🇹",
-        "date": "1955-01-16",
         "final_position": "3",
         "grid": 5,
         "laps_completed": 94,
@@ -3242,6 +3227,21 @@
     {
         "constructor": "Ferrari 🇮🇹",
         "date": "1955-01-16",
+        "final_position": "R",
+        "grid": 14,
+        "laps_completed": 36,
+        "name": "1955 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
+        "round": 1,
+        "season": 1955,
+        "teammate": "Nino Farina 🇮🇹",
+        "teammate_final_position": "3",
+        "teammate_grid": 5,
+        "time": null
+    },
+    {
+        "constructor": "Ferrari 🇮🇹",
+        "date": "1955-01-16",
         "final_position": "3",
         "grid": 5,
         "laps_completed": 94,
@@ -3287,21 +3287,6 @@
     {
         "constructor": "Ferrari 🇮🇹",
         "date": "1955-01-16",
-        "final_position": "2",
-        "grid": 1,
-        "laps_completed": 96,
-        "name": "1955 Argentine Grand Prix 🇦🇷",
-        "points": 2.0,
-        "round": 1,
-        "season": 1955,
-        "teammate": "Nino Farina 🇮🇹",
-        "teammate_final_position": "3",
-        "teammate_grid": 5,
-        "time": "+1:29.6"
-    },
-    {
-        "constructor": "Ferrari 🇮🇹",
-        "date": "1955-01-16",
         "final_position": "R",
         "grid": 14,
         "laps_completed": 36,
@@ -3313,6 +3298,21 @@
         "teammate_final_position": "3",
         "teammate_grid": 5,
         "time": null
+    },
+    {
+        "constructor": "Ferrari 🇮🇹",
+        "date": "1955-01-16",
+        "final_position": "2",
+        "grid": 1,
+        "laps_completed": 96,
+        "name": "1955 Argentine Grand Prix 🇦🇷",
+        "points": 2.0,
+        "round": 1,
+        "season": 1955,
+        "teammate": "Nino Farina 🇮🇹",
+        "teammate_final_position": "3",
+        "teammate_grid": 5,
+        "time": "+1:29.6"
     },
     {
         "constructor": "Ferrari 🇮🇹",
