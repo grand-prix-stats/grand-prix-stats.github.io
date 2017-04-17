@@ -5,14 +5,14 @@
         "top_10_finishes": 226
     },
     {
-        "% of total participations": "70.65%",
+        "% of total participations": "70.40%",
         "driver": "Fernando Alonso 🇪🇸",
         "top_10_finishes": 195
     },
     {
-        "% of total participations": "72.55%",
+        "% of total participations": "72.66%",
         "driver": "Kimi Räikkönen 🇫🇮",
-        "top_10_finishes": 185
+        "top_10_finishes": 186
     },
     {
         "% of total participations": "58.44%",
@@ -20,9 +20,9 @@
         "top_10_finishes": 180
     },
     {
-        "% of total participations": "68.90%",
+        "% of total participations": "69.02%",
         "driver": "Felipe Massa 🇧🇷",
-        "top_10_finishes": 175
+        "top_10_finishes": 176
     },
     {
         "% of total participations": "52.76%",
@@ -30,9 +30,9 @@
         "top_10_finishes": 172
     },
     {
-        "% of total participations": "82.63%",
+        "% of total participations": "82.72%",
         "driver": "Lewis Hamilton 🇬🇧",
-        "top_10_finishes": 157
+        "top_10_finishes": 158
     },
     {
         "% of total participations": "59.11%",
@@ -40,13 +40,13 @@
         "top_10_finishes": 146
     },
     {
-        "% of total participations": "69.90%",
-        "driver": "Nico Rosberg 🇩🇪",
-        "top_10_finishes": 144
+        "% of total participations": "79.67%",
+        "driver": "Sebastian Vettel 🇩🇪",
+        "top_10_finishes": 145
     },
     {
-        "% of total participations": "79.56%",
-        "driver": "Sebastian Vettel 🇩🇪",
+        "% of total participations": "69.90%",
+        "driver": "Nico Rosberg 🇩🇪",
         "top_10_finishes": 144
     },
     {
@@ -210,8 +210,13 @@
         "top_10_finishes": 67
     },
     {
-        "% of total participations": "55.46%",
+        "% of total participations": "55.83%",
         "driver": "Nico Hülkenberg 🇩🇪",
+        "top_10_finishes": 67
+    },
+    {
+        "% of total participations": "55.93%",
+        "driver": "Sergio Pérez 🇲🇽",
         "top_10_finishes": 66
     },
     {
@@ -220,14 +225,9 @@
         "top_10_finishes": 65
     },
     {
-        "% of total participations": "55.56%",
-        "driver": "Sergio Pérez 🇲🇽",
-        "top_10_finishes": 65
-    },
-    {
-        "% of total participations": "56.76%",
+        "% of total participations": "57.14%",
         "driver": "Daniel Ricciardo 🇦🇺",
-        "top_10_finishes": 63
+        "top_10_finishes": 64
     },
     {
         "% of total participations": "61.00%",
@@ -300,6 +300,11 @@
         "top_10_finishes": 50
     },
     {
+        "% of total participations": "60.49%",
+        "driver": "Valtteri Bottas 🇫🇮",
+        "top_10_finishes": 49
+    },
+    {
         "% of total participations": "42.11%",
         "driver": "Jochen Mass 🇩🇪",
         "top_10_finishes": 48
@@ -312,11 +317,6 @@
     {
         "% of total participations": "50.53%",
         "driver": "Patrick Depailler 🇫🇷",
-        "top_10_finishes": 48
-    },
-    {
-        "% of total participations": "60.00%",
-        "driver": "Valtteri Bottas 🇫🇮",
         "top_10_finishes": 48
     },
     {
@@ -370,13 +370,13 @@
         "top_10_finishes": 41
     },
     {
-        "% of total participations": "55.56%",
-        "driver": "Didier Pironi 🇫🇷",
-        "top_10_finishes": 40
+        "% of total participations": "38.32%",
+        "driver": "Romain Grosjean 🇫🇷",
+        "top_10_finishes": 41
     },
     {
-        "% of total participations": "37.74%",
-        "driver": "Romain Grosjean 🇫🇷",
+        "% of total participations": "55.56%",
+        "driver": "Didier Pironi 🇫🇷",
         "top_10_finishes": 40
     },
     {
@@ -450,7 +450,7 @@
         "top_10_finishes": 29
     },
     {
-        "% of total participations": "69.05%",
+        "% of total participations": "67.44%",
         "driver": "Max Verstappen 🇳🇱",
         "top_10_finishes": 29
     },
@@ -505,7 +505,7 @@
         "top_10_finishes": 26
     },
     {
-        "% of total participations": "40.98%",
+        "% of total participations": "40.32%",
         "driver": "Daniil Kvyat 🇷🇺",
         "top_10_finishes": 25
     },

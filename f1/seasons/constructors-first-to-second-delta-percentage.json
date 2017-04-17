@@ -12,16 +12,16 @@
         "year": 1999
     },
     {
-        "champion": "Ferrari 🇮🇹",
-        "constructors_first_to_second_delta_percentage": "95.29%",
-        "second": "McLaren 🇬🇧",
-        "year": 2000
-    },
-    {
         "champion": "Renault 🇫🇷",
         "constructors_first_to_second_delta_percentage": "95.29%",
         "second": "McLaren 🇬🇧",
         "year": 2005
+    },
+    {
+        "champion": "Ferrari 🇮🇹",
+        "constructors_first_to_second_delta_percentage": "95.29%",
+        "second": "McLaren 🇬🇧",
+        "year": 2000
     },
     {
         "champion": "Ferrari 🇮🇹",
@@ -138,16 +138,16 @@
         "year": 1972
     },
     {
-        "champion": "Lotus-Climax 🇬🇧",
-        "constructors_first_to_second_delta_percentage": "83.33%",
-        "second": "BRM 🇬🇧",
-        "year": 1965
-    },
-    {
         "champion": "Vanwall 🇬🇧",
         "constructors_first_to_second_delta_percentage": "83.33%",
         "second": "Ferrari 🇮🇹",
         "year": 1958
+    },
+    {
+        "champion": "Lotus-Climax 🇬🇧",
+        "constructors_first_to_second_delta_percentage": "83.33%",
+        "second": "BRM 🇬🇧",
+        "year": 1965
     },
     {
         "champion": "Williams 🇬🇧",

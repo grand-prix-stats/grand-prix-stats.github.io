@@ -1,18 +1,18 @@
 [
     {
-        "% of total participations": "64.59%",
+        "% of total participations": "64.62%",
         "constructor": "Ferrari 🇮🇹",
-        "top_10_finishes": 1359
+        "top_10_finishes": 1361
     },
     {
-        "% of total participations": "60.54%",
+        "% of total participations": "60.47%",
         "constructor": "McLaren 🇬🇧",
         "top_10_finishes": 962
     },
     {
         "% of total participations": "53.83%",
         "constructor": "Williams 🇬🇧",
-        "top_10_finishes": 723
+        "top_10_finishes": 724
     },
     {
         "% of total participations": "40.41%",
@@ -25,14 +25,14 @@
         "top_10_finishes": 339
     },
     {
-        "% of total participations": "70.26%",
+        "% of total participations": "70.18%",
         "constructor": "Red Bull 🇦🇹",
-        "top_10_finishes": 319
+        "top_10_finishes": 320
     },
     {
         "% of total participations": "48.82%",
         "constructor": "Renault 🇫🇷",
-        "top_10_finishes": 309
+        "top_10_finishes": 310
     },
     {
         "% of total participations": "56.92%",
@@ -40,7 +40,7 @@
         "top_10_finishes": 296
     },
     {
-        "% of total participations": "39.44%",
+        "% of total participations": "39.33%",
         "constructor": "Sauber 🇨🇭",
         "top_10_finishes": 280
     },
@@ -50,9 +50,9 @@
         "top_10_finishes": 248
     },
     {
-        "% of total participations": "75.47%",
+        "% of total participations": "75.62%",
         "constructor": "Mercedes 🇩🇪",
-        "top_10_finishes": 240
+        "top_10_finishes": 242
     },
     {
         "% of total participations": "35.50%",
@@ -80,9 +80,9 @@
         "top_10_finishes": 179
     },
     {
-        "% of total participations": "45.66%",
+        "% of total participations": "45.98%",
         "constructor": "Force India 🇮🇳",
-        "top_10_finishes": 158
+        "top_10_finishes": 160
     },
     {
         "% of total participations": "25.95%",
@@ -100,7 +100,7 @@
         "top_10_finishes": 130
     },
     {
-        "% of total participations": "29.09%",
+        "% of total participations": "28.95%",
         "constructor": "Toro Rosso 🇮🇹",
         "top_10_finishes": 121
     },
@@ -385,6 +385,11 @@
         "top_10_finishes": 8
     },
     {
+        "% of total participations": "14.58%",
+        "constructor": "Haas F1 Team 🇺🇸",
+        "top_10_finishes": 7
+    },
+    {
         "% of total participations": "31.58%",
         "constructor": "Embassy Hill 🇬🇧",
         "top_10_finishes": 6
@@ -392,11 +397,6 @@
     {
         "% of total participations": "11.11%",
         "constructor": "Forti 🇮🇹",
-        "top_10_finishes": 6
-    },
-    {
-        "% of total participations": "13.04%",
-        "constructor": "Haas F1 Team 🇺🇸",
         "top_10_finishes": 6
     },
     {

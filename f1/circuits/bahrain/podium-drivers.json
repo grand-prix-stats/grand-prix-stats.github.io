@@ -5,7 +5,11 @@
     },
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_podiums": 5
+        "number_of_podiums": 6
+    },
+    {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "number_of_podiums": 4
     },
     {
         "driver": "Felipe Massa 🇧🇷",
@@ -17,10 +21,6 @@
     },
     {
         "driver": "Nico Rosberg 🇩🇪",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "number_of_podiums": 3
     },
     {
@@ -49,6 +49,10 @@
     },
     {
         "driver": "Sergio Pérez 🇲🇽",
+        "number_of_podiums": 1
+    },
+    {
+        "driver": "Valtteri Bottas 🇫🇮",
         "number_of_podiums": 1
     }
 ]

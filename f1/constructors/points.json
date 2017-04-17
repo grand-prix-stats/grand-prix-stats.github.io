@@ -1,7 +1,7 @@
 [
     {
         "constructor": "Ferrari 🇮🇹",
-        "points": 7626.77
+        "points": 7663.77
     },
     {
         "constructor": "McLaren 🇬🇧",
@@ -9,19 +9,19 @@
     },
     {
         "constructor": "Red Bull 🇦🇹",
-        "points": 3557.5
+        "points": 3567.5
     },
     {
         "constructor": "Williams 🇬🇧",
-        "points": 3484.0
+        "points": 3492.0
     },
     {
         "constructor": "Mercedes 🇩🇪",
-        "points": 3255.14
+        "points": 3288.14
     },
     {
         "constructor": "Renault 🇫🇷",
-        "points": 1326.0
+        "points": 1328.0
     },
     {
         "constructor": "Team Lotus 🇬🇧",
@@ -33,7 +33,7 @@
     },
     {
         "constructor": "Force India 🇮🇳",
-        "points": 810.0
+        "points": 817.0
     },
     {
         "constructor": "Tyrrell 🇬🇧",
@@ -196,6 +196,10 @@
         "points": 38.0
     },
     {
+        "constructor": "Haas F1 Team 🇺🇸",
+        "points": 37.0
+    },
+    {
         "constructor": "March-Ford 🇬🇧",
         "points": 37.0
     },
@@ -206,10 +210,6 @@
     {
         "constructor": "Prost 🇫🇷",
         "points": 35.0
-    },
-    {
-        "constructor": "Haas F1 Team 🇺🇸",
-        "points": 33.0
     },
     {
         "constructor": "Lotus-BRM 🇬🇧",

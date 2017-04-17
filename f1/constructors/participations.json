@@ -1,15 +1,15 @@
 [
     {
         "constructor": "Ferrari 🇮🇹",
-        "participations": 2104
+        "participations": 2106
     },
     {
         "constructor": "McLaren 🇬🇧",
-        "participations": 1589
+        "participations": 1591
     },
     {
         "constructor": "Williams 🇬🇧",
-        "participations": 1343
+        "participations": 1345
     },
     {
         "constructor": "Tyrrell 🇬🇧",
@@ -21,7 +21,7 @@
     },
     {
         "constructor": "Sauber 🇨🇭",
-        "participations": 710
+        "participations": 712
     },
     {
         "constructor": "Minardi 🇮🇹",
@@ -33,7 +33,7 @@
     },
     {
         "constructor": "Renault 🇫🇷",
-        "participations": 633
+        "participations": 635
     },
     {
         "constructor": "Ligier 🇫🇷",
@@ -61,7 +61,7 @@
     },
     {
         "constructor": "Red Bull 🇦🇹",
-        "participations": 454
+        "participations": 456
     },
     {
         "constructor": "Maserati 🇮🇹",
@@ -69,15 +69,15 @@
     },
     {
         "constructor": "Toro Rosso 🇮🇹",
-        "participations": 416
+        "participations": 418
     },
     {
         "constructor": "Force India 🇮🇳",
-        "participations": 346
+        "participations": 348
     },
     {
         "constructor": "Mercedes 🇩🇪",
-        "participations": 318
+        "participations": 320
     },
     {
         "constructor": "Toyota 🇯🇵",
@@ -308,16 +308,16 @@
         "participations": 52
     },
     {
+        "constructor": "Haas F1 Team 🇺🇸",
+        "participations": 48
+    },
+    {
         "constructor": "Rial 🇩🇪",
         "participations": 48
     },
     {
         "constructor": "HWM 🇬🇧",
         "participations": 47
-    },
-    {
-        "constructor": "Haas F1 Team 🇺🇸",
-        "participations": 46
     },
     {
         "constructor": "Penske 🇺🇸",

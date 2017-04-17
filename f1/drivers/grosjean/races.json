@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-04-16",
+        "final_position": "8",
+        "grid": 9,
+        "laps_completed": 57,
+        "name": "2017 Bahrain Grand Prix 🇧🇭",
+        "points": 4.0,
+        "round": 3,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "R",
+        "teammate_grid": 20,
+        "time": "+1:14.865"
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-04-09",
         "final_position": "11",
         "grid": 19,

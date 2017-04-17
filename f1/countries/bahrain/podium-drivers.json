@@ -5,7 +5,11 @@
     },
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "times": 5
+        "times": 6
+    },
+    {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "times": 4
     },
     {
         "driver": "Felipe Massa 🇧🇷",
@@ -17,10 +21,6 @@
     },
     {
         "driver": "Nico Rosberg 🇩🇪",
-        "times": 3
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "times": 3
     },
     {
@@ -49,6 +49,10 @@
     },
     {
         "driver": "Sergio Pérez 🇲🇽",
+        "times": 1
+    },
+    {
+        "driver": "Valtteri Bottas 🇫🇮",
         "times": 1
     }
 ]

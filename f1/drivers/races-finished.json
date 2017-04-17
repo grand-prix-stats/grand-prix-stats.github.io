@@ -10,24 +10,24 @@
         "races_finished": 241
     },
     {
+        "% of total participations": "82.67%",
+        "driver": "Fernando Alonso 🇪🇸",
+        "races_finished": 229
+    },
+    {
         "% of total participations": "70.25%",
         "driver": "Rubens Barrichello 🇧🇷",
         "races_finished": 229
     },
     {
-        "% of total participations": "82.61%",
-        "driver": "Fernando Alonso 🇪🇸",
-        "races_finished": 228
-    },
-    {
-        "% of total participations": "84.25%",
+        "% of total participations": "84.31%",
         "driver": "Felipe Massa 🇧🇷",
-        "races_finished": 214
+        "races_finished": 215
     },
     {
-        "% of total participations": "78.43%",
+        "% of total participations": "78.52%",
         "driver": "Kimi Räikkönen 🇫🇮",
-        "races_finished": 200
+        "races_finished": 201
     },
     {
         "% of total participations": "85.92%",
@@ -45,9 +45,9 @@
         "races_finished": 169
     },
     {
-        "% of total participations": "87.89%",
+        "% of total participations": "87.96%",
         "driver": "Lewis Hamilton 🇬🇧",
-        "races_finished": 167
+        "races_finished": 168
     },
     {
         "% of total participations": "70.13%",
@@ -60,9 +60,9 @@
         "races_finished": 160
     },
     {
-        "% of total participations": "85.64%",
+        "% of total participations": "85.71%",
         "driver": "Sebastian Vettel 🇩🇪",
-        "races_finished": 155
+        "races_finished": 156
     },
     {
         "% of total participations": "70.79%",
@@ -115,6 +115,11 @@
         "races_finished": 103
     },
     {
+        "% of total participations": "87.29%",
+        "driver": "Sergio Pérez 🇲🇽",
+        "races_finished": 103
+    },
+    {
         "% of total participations": "56.98%",
         "driver": "Graham Hill 🇬🇧",
         "races_finished": 102
@@ -125,24 +130,19 @@
         "races_finished": 102
     },
     {
-        "% of total participations": "87.18%",
-        "driver": "Sergio Pérez 🇲🇽",
-        "races_finished": 102
+        "% of total participations": "83.33%",
+        "driver": "Nico Hülkenberg 🇩🇪",
+        "races_finished": 100
     },
     {
-        "% of total participations": "83.19%",
-        "driver": "Nico Hülkenberg 🇩🇪",
+        "% of total participations": "88.39%",
+        "driver": "Daniel Ricciardo 🇦🇺",
         "races_finished": 99
     },
     {
         "% of total participations": "62.66%",
         "driver": "Olivier Panis 🇫🇷",
         "races_finished": 99
-    },
-    {
-        "% of total participations": "88.29%",
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "races_finished": 98
     },
     {
         "% of total participations": "51.04%",
@@ -235,9 +235,9 @@
         "races_finished": 77
     },
     {
-        "% of total participations": "71.70%",
+        "% of total participations": "71.96%",
         "driver": "Romain Grosjean 🇫🇷",
-        "races_finished": 76
+        "races_finished": 77
     },
     {
         "% of total participations": "77.89%",
@@ -245,13 +245,13 @@
         "races_finished": 74
     },
     {
-        "% of total participations": "56.59%",
-        "driver": "Jack Brabham 🇦🇺",
-        "races_finished": 73
+        "% of total participations": "91.36%",
+        "driver": "Valtteri Bottas 🇫🇮",
+        "races_finished": 74
     },
     {
-        "% of total participations": "91.25%",
-        "driver": "Valtteri Bottas 🇫🇮",
+        "% of total participations": "56.59%",
+        "driver": "Jack Brabham 🇦🇺",
         "races_finished": 73
     },
     {
@@ -425,14 +425,14 @@
         "races_finished": 47
     },
     {
-        "% of total participations": "81.03%",
-        "driver": "Vitaly Petrov 🇷🇺",
+        "% of total participations": "75.81%",
+        "driver": "Daniil Kvyat 🇷🇺",
         "races_finished": 47
     },
     {
-        "% of total participations": "75.41%",
-        "driver": "Daniil Kvyat 🇷🇺",
-        "races_finished": 46
+        "% of total participations": "81.03%",
+        "driver": "Vitaly Petrov 🇷🇺",
+        "races_finished": 47
     },
     {
         "% of total participations": "77.97%",
@@ -470,7 +470,7 @@
         "races_finished": 44
     },
     {
-        "% of total participations": "75.86%",
+        "% of total participations": "74.58%",
         "driver": "Marcus Ericsson 🇸🇪",
         "races_finished": 44
     },
@@ -530,7 +530,7 @@
         "races_finished": 36
     },
     {
-        "% of total participations": "83.72%",
+        "% of total participations": "81.82%",
         "driver": "Kevin Magnussen 🇩🇰",
         "races_finished": 36
     },
@@ -545,7 +545,7 @@
         "races_finished": 35
     },
     {
-        "% of total participations": "83.33%",
+        "% of total participations": "81.40%",
         "driver": "Max Verstappen 🇳🇱",
         "races_finished": 35
     },
