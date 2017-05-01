@@ -1,6 +1,21 @@
 [
     {
         "constructor": "McLaren 🇬🇧",
+        "date": "2017-04-30",
+        "final_position": "W",
+        "grid": 15,
+        "laps_completed": 0,
+        "name": "2017 Russian Grand Prix 🇷🇺",
+        "points": 0.0,
+        "round": 4,
+        "season": 2017,
+        "teammate": "Stoffel Vandoorne 🇧🇪",
+        "teammate_final_position": "14",
+        "teammate_grid": 20,
+        "time": null
+    },
+    {
+        "constructor": "McLaren 🇬🇧",
         "date": "2017-04-16",
         "final_position": "14",
         "grid": 15,

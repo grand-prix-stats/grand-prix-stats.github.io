@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Ferrari 🇮🇹",
+        "date": "2017-04-30",
+        "final_position": "2",
+        "grid": 1,
+        "laps_completed": 52,
+        "name": "2017 Russian Grand Prix 🇷🇺",
+        "points": 18.0,
+        "round": 4,
+        "season": 2017,
+        "teammate": "Kimi Räikkönen 🇫🇮",
+        "teammate_final_position": "3",
+        "teammate_grid": 2,
+        "time": "+0.617"
+    },
+    {
+        "constructor": "Ferrari 🇮🇹",
         "date": "2017-04-16",
         "final_position": "1",
         "grid": 3,

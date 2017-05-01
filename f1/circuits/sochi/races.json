@@ -1,13 +1,13 @@
 [
     {
         "date": "2017-04-30",
-        "laps_completed": null,
+        "laps_completed": 52,
         "name": "2017 Russian Grand Prix 🇷🇺",
-        "race_duration": null,
+        "race_duration": "1:28:08.743",
         "round": 4,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Valtteri Bottas 🇫🇮"
     },
     {
         "date": "2016-05-01",

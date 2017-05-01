@@ -5,14 +5,14 @@
         "finished_in_points": 221
     },
     {
-        "% of total participations": "67.87%",
+        "% of total participations": "67.63%",
         "driver": "Fernando Alonso 🇪🇸",
         "finished_in_points": 188
     },
     {
-        "% of total participations": "67.97%",
+        "% of total participations": "68.09%",
         "driver": "Kimi Räikkönen 🇫🇮",
-        "finished_in_points": 174
+        "finished_in_points": 175
     },
     {
         "% of total participations": "52.60%",
@@ -20,19 +20,19 @@
         "finished_in_points": 162
     },
     {
-        "% of total participations": "81.15%",
+        "% of total participations": "81.25%",
         "driver": "Lewis Hamilton 🇬🇧",
+        "finished_in_points": 156
+    },
+    {
+        "% of total participations": "60.55%",
+        "driver": "Felipe Massa 🇧🇷",
         "finished_in_points": 155
     },
     {
-        "% of total participations": "60.39%",
-        "driver": "Felipe Massa 🇧🇷",
-        "finished_in_points": 154
-    },
-    {
-        "% of total participations": "79.12%",
+        "% of total participations": "79.23%",
         "driver": "Sebastian Vettel 🇩🇪",
-        "finished_in_points": 144
+        "finished_in_points": 145
     },
     {
         "% of total participations": "42.94%",
@@ -120,8 +120,13 @@
         "finished_in_points": 70
     },
     {
-        "% of total participations": "55.83%",
+        "% of total participations": "56.20%",
         "driver": "Nico Hülkenberg 🇩🇪",
+        "finished_in_points": 68
+    },
+    {
+        "% of total participations": "56.30%",
+        "driver": "Sergio Pérez 🇲🇽",
         "finished_in_points": 67
     },
     {
@@ -130,12 +135,7 @@
         "finished_in_points": 66
     },
     {
-        "% of total participations": "55.93%",
-        "driver": "Sergio Pérez 🇲🇽",
-        "finished_in_points": 66
-    },
-    {
-        "% of total participations": "57.14%",
+        "% of total participations": "56.64%",
         "driver": "Daniel Ricciardo 🇦🇺",
         "finished_in_points": 64
     },
@@ -210,9 +210,9 @@
         "finished_in_points": 50
     },
     {
-        "% of total participations": "60.49%",
+        "% of total participations": "60.98%",
         "driver": "Valtteri Bottas 🇫🇮",
-        "finished_in_points": 49
+        "finished_in_points": 50
     },
     {
         "% of total participations": "30.52%",
@@ -250,7 +250,7 @@
         "finished_in_points": 42
     },
     {
-        "% of total participations": "38.32%",
+        "% of total participations": "37.96%",
         "driver": "Romain Grosjean 🇫🇷",
         "finished_in_points": 41
     },
@@ -325,6 +325,11 @@
         "finished_in_points": 30
     },
     {
+        "% of total participations": "68.18%",
+        "driver": "Max Verstappen 🇳🇱",
+        "finished_in_points": 30
+    },
+    {
         "% of total participations": "27.36%",
         "driver": "Chris Amon 🇳🇿",
         "finished_in_points": 29
@@ -342,11 +347,6 @@
     {
         "% of total participations": "17.58%",
         "driver": "Johnny Herbert 🇬🇧",
-        "finished_in_points": 29
-    },
-    {
-        "% of total participations": "67.44%",
-        "driver": "Max Verstappen 🇳🇱",
         "finished_in_points": 29
     },
     {
@@ -400,7 +400,7 @@
         "finished_in_points": 26
     },
     {
-        "% of total participations": "40.32%",
+        "% of total participations": "39.68%",
         "driver": "Daniil Kvyat 🇷🇺",
         "finished_in_points": 25
     },
@@ -440,6 +440,11 @@
         "finished_in_points": 21
     },
     {
+        "% of total participations": "45.45%",
+        "driver": "Carlos Sainz 🇪🇸",
+        "finished_in_points": 20
+    },
+    {
         "% of total participations": "18.35%",
         "driver": "Jo Bonnier 🇸🇪",
         "finished_in_points": 20
@@ -457,11 +462,6 @@
     {
         "% of total participations": "24.68%",
         "driver": "Alessandro Nannini 🇮🇹",
-        "finished_in_points": 19
-    },
-    {
-        "% of total participations": "44.19%",
-        "driver": "Carlos Sainz 🇪🇸",
         "finished_in_points": 19
     },
     {
@@ -495,7 +495,7 @@
         "finished_in_points": 15
     },
     {
-        "% of total participations": "34.09%",
+        "% of total participations": "33.33%",
         "driver": "Kevin Magnussen 🇩🇰",
         "finished_in_points": 15
     },

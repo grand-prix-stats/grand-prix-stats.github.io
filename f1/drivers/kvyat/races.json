@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-04-30",
+        "final_position": "12",
+        "grid": 12,
+        "laps_completed": 51,
+        "name": "2017 Russian Grand Prix 🇷🇺",
+        "points": 0.0,
+        "round": 4,
+        "season": 2017,
+        "teammate": "Carlos Sainz 🇪🇸",
+        "teammate_final_position": "10",
+        "teammate_grid": 14,
+        "time": null
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
         "date": "2017-04-16",
         "final_position": "12",
         "grid": 11,

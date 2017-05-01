@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-04-30",
+        "final_position": "R",
+        "grid": 19,
+        "laps_completed": 0,
+        "name": "2017 Russian Grand Prix 🇷🇺",
+        "points": 0.0,
+        "round": 4,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "13",
+        "teammate_grid": 13,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-04-16",
         "final_position": "8",
         "grid": 9,

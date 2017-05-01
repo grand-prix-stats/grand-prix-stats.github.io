@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Renault 🇫🇷",
+        "date": "2017-04-30",
+        "final_position": "8",
+        "grid": 8,
+        "laps_completed": 52,
+        "name": "2017 Russian Grand Prix 🇷🇺",
+        "points": 4.0,
+        "round": 4,
+        "season": 2017,
+        "teammate": "Jolyon Palmer 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 16,
+        "time": "+1:36.188"
+    },
+    {
+        "constructor": "Renault 🇫🇷",
         "date": "2017-04-16",
         "final_position": "9",
         "grid": 7,
