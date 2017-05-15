@@ -15,7 +15,7 @@
         "drivers_champion_id": null,
         "drivers_champion_points": null,
         "drivers_champion_ref": null,
-        "drivers_championship_leaders": 2,
+        "drivers_championship_leaders": 1,
         "drivers_first_to_second_delta_points": null,
         "drivers_first_to_third_delta_points": null,
         "drivers_second_id": null,
@@ -25,12 +25,12 @@
         "drivers_third_points": null,
         "drivers_third_ref": null,
         "enddate": "2017-11-26",
-        "mean_constructor_points": 40.4,
-        "mean_driver_points": 19.2380952380952,
+        "mean_constructor_points": 50.5,
+        "mean_driver_points": 24.047619047619,
         "participating_constructors": 10,
         "participating_drivers": 21,
         "rounds": 20,
-        "season_points": 404.0,
+        "season_points": 505.0,
         "startdate": "2017-03-26",
         "unique_winning_constructors": 2,
         "unique_winning_drivers": 3,
@@ -38,13 +38,15 @@
             "ferrari",
             "mercedes",
             "ferrari",
+            "mercedes",
             "mercedes"
         ],
         "winning_drivers": [
             "vettel",
             "hamilton",
             "vettel",
-            "bottas"
+            "bottas",
+            "hamilton"
         ],
         "year": 2017
     },

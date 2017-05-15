@@ -13,19 +13,19 @@
     },
     {
         "driver": "Fernando Alonso 🇪🇸",
-        "participations": 278
+        "participations": 279
     },
     {
         "driver": "Kimi Räikkönen 🇫🇮",
+        "participations": 258
+    },
+    {
+        "driver": "Felipe Massa 🇧🇷",
         "participations": 257
     },
     {
         "driver": "Riccardo Patrese 🇮🇹",
         "participations": 257
-    },
-    {
-        "driver": "Felipe Massa 🇧🇷",
-        "participations": 256
     },
     {
         "driver": "Jarno Trulli 🇮🇹",
@@ -73,7 +73,7 @@
     },
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "participations": 192
+        "participations": 193
     },
     {
         "driver": "Nigel Mansell 🇬🇧",
@@ -85,7 +85,7 @@
     },
     {
         "driver": "Sebastian Vettel 🇩🇪",
-        "participations": 183
+        "participations": 184
     },
     {
         "driver": "Jacques Laffite 🇫🇷",
@@ -200,6 +200,10 @@
         "participations": 122
     },
     {
+        "driver": "Nico Hülkenberg 🇩🇪",
+        "participations": 122
+    },
+    {
         "driver": "Patrick Tambay 🇫🇷",
         "participations": 122
     },
@@ -208,12 +212,8 @@
         "participations": 121
     },
     {
-        "driver": "Nico Hülkenberg 🇩🇪",
-        "participations": 121
-    },
-    {
         "driver": "Sergio Pérez 🇲🇽",
-        "participations": 119
+        "participations": 120
     },
     {
         "driver": "Alan Jones 🇦🇺",
@@ -224,12 +224,12 @@
         "participations": 115
     },
     {
-        "driver": "Jochen Mass 🇩🇪",
+        "driver": "Daniel Ricciardo 🇦🇺",
         "participations": 114
     },
     {
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "participations": 113
+        "driver": "Jochen Mass 🇩🇪",
+        "participations": 114
     },
     {
         "driver": "Jody Scheckter 🇿🇦",
@@ -265,7 +265,7 @@
     },
     {
         "driver": "Romain Grosjean 🇫🇷",
-        "participations": 108
+        "participations": 109
     },
     {
         "driver": "Jos Verstappen 🇳🇱",
@@ -364,11 +364,11 @@
         "participations": 84
     },
     {
-        "driver": "Bruno Giacomelli 🇮🇹",
-        "participations": 82
+        "driver": "Valtteri Bottas 🇫🇮",
+        "participations": 83
     },
     {
-        "driver": "Valtteri Bottas 🇫🇮",
+        "driver": "Bruno Giacomelli 🇮🇹",
         "participations": 82
     },
     {
@@ -460,16 +460,16 @@
         "participations": 68
     },
     {
+        "driver": "Daniil Kvyat 🇷🇺",
+        "participations": 64
+    },
+    {
         "driver": "Derek Daly 🇮🇪",
         "participations": 64
     },
     {
         "driver": "Harry Schell 🇺🇸",
         "participations": 64
-    },
-    {
-        "driver": "Daniil Kvyat 🇷🇺",
-        "participations": 63
     },
     {
         "driver": "Érik Comas 🇫🇷",

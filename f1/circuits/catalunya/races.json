@@ -1,13 +1,13 @@
 [
     {
         "date": "2017-05-14",
-        "laps_completed": null,
+        "laps_completed": 66,
         "name": "2017 Spanish Grand Prix 🇪🇸",
-        "race_duration": null,
+        "race_duration": "1:35:56.497",
         "round": 5,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
         "date": "2016-05-15",

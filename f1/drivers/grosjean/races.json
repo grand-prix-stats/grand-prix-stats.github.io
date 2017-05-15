@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-05-14",
+        "final_position": "10",
+        "grid": 14,
+        "laps_completed": 65,
+        "name": "2017 Spanish Grand Prix 🇪🇸",
+        "points": 1.0,
+        "round": 5,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "14",
+        "teammate_grid": 11,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-04-30",
         "final_position": "R",
         "grid": 19,

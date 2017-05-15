@@ -17,7 +17,11 @@
     },
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_laps_led": "84"
+        "number_of_laps_led": "115"
+    },
+    {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "number_of_laps_led": "77"
     },
     {
         "driver": "Nico Rosberg 🇩🇪",
@@ -34,10 +38,6 @@
     {
         "driver": "Felipe Massa 🇧🇷",
         "number_of_laps_led": "56"
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_laps_led": "45"
     },
     {
         "driver": "Rubens Barrichello 🇧🇷",
@@ -70,6 +70,10 @@
     {
         "driver": "Nick Heidfeld 🇩🇪",
         "number_of_laps_led": "5"
+    },
+    {
+        "driver": "Valtteri Bottas 🇫🇮",
+        "number_of_laps_led": "3"
     },
     {
         "driver": "Esteban Gutiérrez 🇲🇽",

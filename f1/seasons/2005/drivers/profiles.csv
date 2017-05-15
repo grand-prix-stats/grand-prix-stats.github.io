@@ -1,28 +1,28 @@
-participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,did_not_finish,first_win,fastestlaps,races_finished,first_race,poles,subchampionships,year,wins,forename,finished_in_points,country
-1,zonta,0.0,1976-03-23,0,,41,0,2005-06-19,,0,🇧🇷,Zonta,br,ZON,0,1,,0,0,2005-06-19,0,0,2005,0,Ricardo,0,Brazil
-1,wurz,6.0,1974-02-15,0,,25,1,2005-04-24,,0,🇦🇹,Wurz,at,WUR,1,0,,0,1,2005-04-24,0,0,2005,0,Alexander,1,Austria
-1,rosa,4.0,1971-02-24,0,,37,0,2005-04-03,,0,🇪🇸,de la Rosa,es,DLR,1,0,,1,1,2005-04-03,0,0,2005,0,Pedro,1,Spain
-1,davidson,0.0,1979-04-18,0,,19,0,2005-03-20,,0,🇬🇧,Davidson,gb,DAV,0,1,,0,0,2005-03-20,0,0,2005,0,Anthony,0,UK
-11,friesacher,3.0,1980-09-26,0,,40,0,2005-07-10,,0,🇦🇹,Friesacher,at,FRI,1,6,,0,5,2005-03-06,0,0,2005,0,Patrick,1,Austria
-14,heidfeld,28.0,1977-05-10,0,,2,3,2005-08-21,,0,🇩🇪,Heidfeld,de,HEI,6,5,,0,9,2005-03-06,1,0,2005,0,Nick,5,Germany
-15,klien,9.0,1983-02-07,0,,32,0,2005-10-16,,0,🇦🇹,Klien,at,KLI,9,4,,0,11,2005-03-06,0,0,2005,0,Christian,5,Austria
-16,sato,1.0,1977-01-28,0,,11,0,2005-10-16,,0,🇯🇵,Sato,jp,SAT,3,8,,0,8,2005-03-06,0,0,2005,0,Takuma,1,Japan
-17,montoya,60.0,1975-09-20,0,2005-09-25,31,5,2005-10-16,,0,🇨🇴,Pablo Montoya,co,MON,10,6,2005-07-10,1,11,2005-03-06,2,0,2005,3,Juan,10,Colombia
-17,button,37.0,1980-01-19,0,,18,2,2005-10-16,22,0,🇬🇧,Button,gb,BUT,11,6,,0,11,2005-03-06,1,0,2005,0,Jenson,10,UK
-18,ralf_schumacher,45.0,1975-06-30,0,,23,2,2005-10-16,,0,🇩🇪,Schumacher,de,SCH,15,1,,1,17,2005-03-06,1,0,2005,0,Ralf,14,Germany
-19,coulthard,24.0,1971-03-27,0,,14,0,2005-10-16,,0,🇬🇧,Coulthard,gb,COU,11,5,,0,14,2005-03-06,0,0,2005,0,David,9,UK
-19,alonso,133.0,1981-07-29,0,2005-10-16,4,15,2005-10-16,14,1,🇪🇸,Alonso,es,ALO,16,2,2005-03-20,2,17,2005-03-06,6,0,2005,7,Fernando,16,Spain
-19,barrichello,38.0,1972-05-23,0,,22,4,2005-10-16,,0,🇧🇷,Barrichello,br,BAR,14,2,,0,17,2005-03-06,0,0,2005,0,Rubens,8,Brazil
-19,massa,11.0,1981-04-25,0,,13,0,2005-10-16,19,0,🇧🇷,Massa,br,MAS,12,3,,0,16,2005-03-06,0,0,2005,0,Felipe,4,Brazil
-19,monteiro,7.0,1976-07-24,0,,33,1,2005-10-16,,0,🇵🇹,Monteiro,pt,TMO,4,1,,0,18,2005-03-06,0,0,2005,0,Tiago,2,Portugal
-19,albers,4.0,1979-04-16,0,,27,0,2005-10-16,,0,🇳🇱,Albers,nl,ALB,1,6,,0,13,2005-03-06,0,0,2005,0,Christijan,1,Netherlands
-19,michael_schumacher,62.0,1969-01-03,0,2005-06-19,30,5,2005-10-16,,0,🇩🇪,Schumacher,de,MSC,13,6,2005-06-19,3,13,2005-03-06,1,0,2005,1,Michael,12,Germany
-19,fisichella,58.0,1973-01-14,0,2005-03-06,21,3,2005-10-16,,0,🇮🇹,Fisichella,it,FIS,12,6,2005-03-06,1,13,2005-03-06,1,0,2005,1,Giancarlo,11,Italy
-19,trulli,43.0,1974-07-13,0,,15,3,2005-10-16,,0,🇮🇹,Trulli,it,TRU,12,4,,0,15,2005-03-06,1,0,2005,0,Jarno,9,Italy
-19,villeneuve,9.0,1971-04-09,0,,35,0,2005-10-16,,0,🇨🇦,Villeneuve,ca,VIL,5,4,,0,15,2005-03-06,0,0,2005,0,Jacques,3,Canada
-19,webber,36.0,1976-08-27,0,,17,1,2005-10-16,,0,🇦🇺,Webber,au,WEB,10,6,,0,13,2005-03-06,0,0,2005,0,Mark,10,Australia
-19,raikkonen,112.0,1979-10-17,0,2005-10-09,8,12,2005-10-16,7,0,🇫🇮,Räikkönen,fi,RAI,15,3,2005-05-08,10,16,2005-03-06,5,1,2005,7,Kimi,14,Finland
-19,karthikeyan,5.0,1977-01-14,0,,39,0,2005-10-16,,0,🇮🇳,Karthikeyan,in,KAR,1,5,,0,14,2005-03-06,0,0,2005,0,Narain,1,India
-4,liuzzi,1.0,1981-08-06,0,,24,0,2005-05-29,,0,🇮🇹,Liuzzi,it,LIU,2,2,,0,2,2005-04-24,0,0,2005,0,Vitantonio,1,Italy
-5,pizzonia,2.0,1980-09-11,0,,42,0,2005-10-16,,0,🇧🇷,Pizzonia,br,PIZ,1,2,,0,3,2005-09-04,0,0,2005,0,Antônio,1,Brazil
-8,doornbos,0.0,1981-09-23,0,,38,0,2005-10-16,,0,🇳🇱,Doornbos,nl,DOO,0,2,,0,6,2005-07-24,0,0,2005,0,Robert,0,Netherlands
+participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,did_not_finish,first_win,fastestlaps,races_finished,first_race,poles,subchampionships,year,standings_position,wins,forename,finished_in_points,country
+1,zonta,0.0,1976-03-23,0,,41,0,2005-06-19,,0,🇧🇷,Zonta,br,ZON,0,1,,0,0,2005-06-19,0,0,2005,,0,Ricardo,0,Brazil
+1,wurz,6.0,1974-02-15,0,,25,1,2005-04-24,,0,🇦🇹,Wurz,at,WUR,1,0,,0,1,2005-04-24,0,0,2005,17,0,Alexander,1,Austria
+1,rosa,4.0,1971-02-24,0,,37,0,2005-04-03,,0,🇪🇸,de la Rosa,es,DLR,1,0,,1,1,2005-04-03,0,0,2005,20,0,Pedro,1,Spain
+1,davidson,0.0,1979-04-18,0,,19,0,2005-03-20,,0,🇬🇧,Davidson,gb,DAV,0,1,,0,0,2005-03-20,0,0,2005,,0,Anthony,0,UK
+11,friesacher,3.0,1980-09-26,0,,40,0,2005-07-10,,0,🇦🇹,Friesacher,at,FRI,1,6,,0,5,2005-03-06,0,0,2005,21,0,Patrick,1,Austria
+14,heidfeld,28.0,1977-05-10,0,,2,3,2005-08-21,,0,🇩🇪,Heidfeld,de,HEI,6,5,,0,9,2005-03-06,1,0,2005,11,0,Nick,5,Germany
+15,klien,9.0,1983-02-07,0,,32,0,2005-10-16,,0,🇦🇹,Klien,at,KLI,9,4,,0,11,2005-03-06,0,0,2005,15,0,Christian,5,Austria
+16,sato,1.0,1977-01-28,0,,11,0,2005-10-16,,0,🇯🇵,Sato,jp,SAT,3,8,,0,8,2005-03-06,0,0,2005,23,0,Takuma,1,Japan
+17,montoya,60.0,1975-09-20,0,2005-09-25,31,5,2005-10-16,,0,🇨🇴,Pablo Montoya,co,MON,10,6,2005-07-10,1,11,2005-03-06,2,0,2005,4,3,Juan,10,Colombia
+17,button,37.0,1980-01-19,0,,18,2,2005-10-16,22,0,🇬🇧,Button,gb,BUT,11,6,,0,11,2005-03-06,1,0,2005,9,0,Jenson,10,UK
+18,ralf_schumacher,45.0,1975-06-30,0,,23,2,2005-10-16,,0,🇩🇪,Schumacher,de,SCH,15,1,,1,17,2005-03-06,1,0,2005,6,0,Ralf,14,Germany
+19,coulthard,24.0,1971-03-27,0,,14,0,2005-10-16,,0,🇬🇧,Coulthard,gb,COU,11,5,,0,14,2005-03-06,0,0,2005,12,0,David,9,UK
+19,alonso,133.0,1981-07-29,0,2005-10-16,4,15,2005-10-16,14,1,🇪🇸,Alonso,es,ALO,16,2,2005-03-20,2,17,2005-03-06,6,0,2005,1,7,Fernando,16,Spain
+19,barrichello,38.0,1972-05-23,0,,22,4,2005-10-16,,0,🇧🇷,Barrichello,br,BAR,14,2,,0,17,2005-03-06,0,0,2005,8,0,Rubens,8,Brazil
+19,massa,11.0,1981-04-25,0,,13,0,2005-10-16,19,0,🇧🇷,Massa,br,MAS,12,3,,0,16,2005-03-06,0,0,2005,13,0,Felipe,4,Brazil
+19,monteiro,7.0,1976-07-24,0,,33,1,2005-10-16,,0,🇵🇹,Monteiro,pt,TMO,4,1,,0,18,2005-03-06,0,0,2005,16,0,Tiago,2,Portugal
+19,albers,4.0,1979-04-16,0,,27,0,2005-10-16,,0,🇳🇱,Albers,nl,ALB,1,6,,0,13,2005-03-06,0,0,2005,19,0,Christijan,1,Netherlands
+19,michael_schumacher,62.0,1969-01-03,0,2005-06-19,30,5,2005-10-16,,0,🇩🇪,Schumacher,de,MSC,13,6,2005-06-19,3,13,2005-03-06,1,0,2005,3,1,Michael,12,Germany
+19,fisichella,58.0,1973-01-14,0,2005-03-06,21,3,2005-10-16,,0,🇮🇹,Fisichella,it,FIS,12,6,2005-03-06,1,13,2005-03-06,1,0,2005,5,1,Giancarlo,11,Italy
+19,trulli,43.0,1974-07-13,0,,15,3,2005-10-16,,0,🇮🇹,Trulli,it,TRU,12,4,,0,15,2005-03-06,1,0,2005,7,0,Jarno,9,Italy
+19,villeneuve,9.0,1971-04-09,0,,35,0,2005-10-16,,0,🇨🇦,Villeneuve,ca,VIL,5,4,,0,15,2005-03-06,0,0,2005,14,0,Jacques,3,Canada
+19,webber,36.0,1976-08-27,0,,17,1,2005-10-16,,0,🇦🇺,Webber,au,WEB,10,6,,0,13,2005-03-06,0,0,2005,10,0,Mark,10,Australia
+19,raikkonen,112.0,1979-10-17,0,2005-10-09,8,12,2005-10-16,7,0,🇫🇮,Räikkönen,fi,RAI,15,3,2005-05-08,10,16,2005-03-06,5,1,2005,2,7,Kimi,14,Finland
+19,karthikeyan,5.0,1977-01-14,0,,39,0,2005-10-16,,0,🇮🇳,Karthikeyan,in,KAR,1,5,,0,14,2005-03-06,0,0,2005,18,0,Narain,1,India
+4,liuzzi,1.0,1981-08-06,0,,24,0,2005-05-29,,0,🇮🇹,Liuzzi,it,LIU,2,2,,0,2,2005-04-24,0,0,2005,24,0,Vitantonio,1,Italy
+5,pizzonia,2.0,1980-09-11,0,,42,0,2005-10-16,,0,🇧🇷,Pizzonia,br,PIZ,1,2,,0,3,2005-09-04,0,0,2005,22,0,Antônio,1,Brazil
+8,doornbos,0.0,1981-09-23,0,,38,0,2005-10-16,,0,🇳🇱,Doornbos,nl,DOO,0,2,,0,6,2005-07-24,0,0,2005,25,0,Robert,0,Netherlands

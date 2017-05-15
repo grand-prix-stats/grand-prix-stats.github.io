@@ -33,7 +33,7 @@
         "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
-        "circuit": "Sochi International Street Circuit",
+        "circuit": "Sochi Autodrom",
         "date": "2017-04-30",
         "laps_completed": 52,
         "name": "2017 Russian Grand Prix 🇷🇺",
@@ -44,15 +44,15 @@
         "winning_driver": "Valtteri Bottas 🇫🇮"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2017-05-14",
-        "laps_completed": null,
+        "laps_completed": 66,
         "name": "2017 Spanish Grand Prix 🇪🇸",
-        "race_duration": null,
+        "race_duration": "1:35:56.497",
         "round": 5,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
         "circuit": "Circuit de Monaco",
@@ -253,7 +253,7 @@
         "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
-        "circuit": "Sochi International Street Circuit",
+        "circuit": "Sochi Autodrom",
         "date": "2016-05-01",
         "laps_completed": 53,
         "name": "2016 Russian Grand Prix 🇷🇺",
@@ -264,7 +264,7 @@
         "winning_driver": "Nico Rosberg 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2016-05-15",
         "laps_completed": 66,
         "name": "2016 Spanish Grand Prix 🇪🇸",
@@ -495,7 +495,7 @@
         "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2015-05-10",
         "laps_completed": 66,
         "name": "2015 Spanish Grand Prix 🇪🇸",
@@ -605,7 +605,7 @@
         "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
-        "circuit": "Sochi International Street Circuit",
+        "circuit": "Sochi Autodrom",
         "date": "2015-10-11",
         "laps_completed": 53,
         "name": "2015 Russian Grand Prix 🇷🇺",
@@ -704,7 +704,7 @@
         "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2014-05-11",
         "laps_completed": 66,
         "name": "2014 Spanish Grand Prix 🇪🇸",
@@ -825,7 +825,7 @@
         "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
-        "circuit": "Sochi International Street Circuit",
+        "circuit": "Sochi Autodrom",
         "date": "2014-10-12",
         "laps_completed": 53,
         "name": "2014 Russian Grand Prix 🇷🇺",
@@ -913,7 +913,7 @@
         "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2013-05-12",
         "laps_completed": 66,
         "name": "2013 Spanish Grand Prix 🇪🇸",
@@ -1122,7 +1122,7 @@
         "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2012-05-13",
         "laps_completed": 66,
         "name": "2012 Spanish Grand Prix 🇪🇸",
@@ -1342,7 +1342,7 @@
         "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2011-05-22",
         "laps_completed": 66,
         "name": "2011 Spanish Grand Prix 🇪🇸",
@@ -1551,7 +1551,7 @@
         "winning_driver": "Jenson Button 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2010-05-09",
         "laps_completed": 66,
         "name": "2010 Spanish Grand Prix 🇪🇸",
@@ -1760,7 +1760,7 @@
         "winning_driver": "Jenson Button 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2009-05-10",
         "laps_completed": 66,
         "name": "2009 Spanish Grand Prix 🇪🇸",
@@ -1936,7 +1936,7 @@
         "winning_driver": "Felipe Massa 🇧🇷"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2008-04-27",
         "laps_completed": 66,
         "name": "2008 Spanish Grand Prix 🇪🇸",
@@ -2134,7 +2134,7 @@
         "winning_driver": "Felipe Massa 🇧🇷"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2007-05-13",
         "laps_completed": 65,
         "name": "2007 Spanish Grand Prix 🇪🇸",
@@ -2343,7 +2343,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2006-05-14",
         "laps_completed": 66,
         "name": "2006 Spanish Grand Prix 🇪🇸",
@@ -2530,7 +2530,7 @@
         "winning_driver": "Fernando Alonso 🇪🇸"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2005-05-08",
         "laps_completed": 66,
         "name": "2005 Spanish Grand Prix 🇪🇸",
@@ -2739,7 +2739,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2004-05-09",
         "laps_completed": 66,
         "name": "2004 Spanish Grand Prix 🇪🇸",
@@ -2937,7 +2937,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2003-05-04",
         "laps_completed": 65,
         "name": "2003 Spanish Grand Prix 🇪🇸",
@@ -3113,7 +3113,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2002-04-28",
         "laps_completed": 65,
         "name": "2002 Spanish Grand Prix 🇪🇸",
@@ -3300,7 +3300,7 @@
         "winning_driver": "Ralf Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2001-04-29",
         "laps_completed": 65,
         "name": "2001 Spanish Grand Prix 🇪🇸",
@@ -3487,7 +3487,7 @@
         "winning_driver": "David Coulthard 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "2000-05-07",
         "laps_completed": 65,
         "name": "2000 Spanish Grand Prix 🇪🇸",
@@ -3674,7 +3674,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1999-05-30",
         "laps_completed": 65,
         "name": "1999 Spanish Grand Prix 🇪🇸",
@@ -3850,7 +3850,7 @@
         "winning_driver": "David Coulthard 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1998-05-10",
         "laps_completed": 65,
         "name": "1998 Spanish Grand Prix 🇪🇸",
@@ -4037,7 +4037,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1997-05-25",
         "laps_completed": 64,
         "name": "1997 Spanish Grand Prix 🇪🇸",
@@ -4235,7 +4235,7 @@
         "winning_driver": "Olivier Panis 🇫🇷"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1996-06-02",
         "laps_completed": 65,
         "name": "1996 Spanish Grand Prix 🇪🇸",
@@ -4378,7 +4378,7 @@
         "winning_driver": "Damon Hill 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1995-05-14",
         "laps_completed": 65,
         "name": "1995 Spanish Grand Prix 🇪🇸",
@@ -4576,7 +4576,7 @@
         "winning_driver": "Michael Schumacher 🇩🇪"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1994-05-29",
         "laps_completed": 65,
         "name": "1994 Spanish Grand Prix 🇪🇸",
@@ -4752,7 +4752,7 @@
         "winning_driver": "Alain Prost 🇫🇷"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1993-05-09",
         "laps_completed": 65,
         "name": "1993 Spanish Grand Prix 🇪🇸",
@@ -4917,7 +4917,7 @@
         "winning_driver": "Nigel Mansell 🇬🇧"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1992-05-03",
         "laps_completed": 65,
         "name": "1992 Spanish Grand Prix 🇪🇸",
@@ -5203,7 +5203,7 @@
         "winning_driver": "Riccardo Patrese 🇮🇹"
     },
     {
-        "circuit": "Circuit de Catalunya",
+        "circuit": "Circuit de Barcelona-Catalunya",
         "date": "1991-09-29",
         "laps_completed": 65,
         "name": "1991 Spanish Grand Prix 🇪🇸",

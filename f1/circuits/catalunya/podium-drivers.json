@@ -8,11 +8,15 @@
         "number_of_podiums": 7
     },
     {
+        "driver": "Lewis Hamilton 🇬🇧",
+        "number_of_podiums": 6
+    },
+    {
         "driver": "Kimi Räikkönen 🇫🇮",
         "number_of_podiums": 5
     },
     {
-        "driver": "Lewis Hamilton 🇬🇧",
+        "driver": "Sebastian Vettel 🇩🇪",
         "number_of_podiums": 5
     },
     {
@@ -21,10 +25,6 @@
     },
     {
         "driver": "Rubens Barrichello 🇧🇷",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
         "number_of_podiums": 4
     },
     {
@@ -45,6 +45,10 @@
     },
     {
         "driver": "Alain Prost 🇫🇷",
+        "number_of_podiums": 2
+    },
+    {
+        "driver": "Daniel Ricciardo 🇦🇺",
         "number_of_podiums": 2
     },
     {
@@ -77,10 +81,6 @@
     },
     {
         "driver": "Damon Hill 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
         "number_of_podiums": 1
     },
     {
