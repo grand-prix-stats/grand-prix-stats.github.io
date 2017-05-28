@@ -2,13 +2,13 @@
     {
         "circuit": "Circuit de Monaco",
         "date": "2017-05-28",
-        "laps_completed": null,
+        "laps_completed": 78,
         "name": "2017 Monaco Grand Prix 🇲🇨",
-        "race_duration": null,
+        "race_duration": "1:44:44.340",
         "round": 6,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Ferrari 🇮🇹",
+        "winning_driver": "Sebastian Vettel 🇩🇪"
     },
     {
         "circuit": "Circuit de Monaco",

@@ -12,6 +12,10 @@
         "number_of_fastest_laps": 2
     },
     {
+        "driver": "Sergio Pérez 🇲🇽",
+        "number_of_fastest_laps": 2
+    },
+    {
         "driver": "Daniel Ricciardo 🇦🇺",
         "number_of_fastest_laps": 1
     },
@@ -29,10 +33,6 @@
     },
     {
         "driver": "Mark Webber 🇦🇺",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Sergio Pérez 🇲🇽",
         "number_of_fastest_laps": 1
     }
 ]

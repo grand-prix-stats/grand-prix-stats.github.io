@@ -1,6 +1,21 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-05-28",
+        "final_position": "8",
+        "grid": 8,
+        "laps_completed": 78,
+        "name": "2017 Monaco Grand Prix 🇲🇨",
+        "points": 4.0,
+        "round": 6,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "10",
+        "teammate_grid": 11,
+        "time": "+18.150"
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-05-14",
         "final_position": "10",
         "grid": 14,

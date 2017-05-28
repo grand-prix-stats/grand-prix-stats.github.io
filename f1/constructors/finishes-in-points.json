@@ -1,33 +1,33 @@
 [
     {
-        "% of total participations": "56.02%",
+        "% of total participations": "56.06%",
         "constructor": "Ferrari 🇮🇹",
-        "finished_in_points": 1182
+        "finished_in_points": 1184
     },
     {
-        "% of total participations": "52.54%",
+        "% of total participations": "52.47%",
         "constructor": "McLaren 🇬🇧",
         "finished_in_points": 838
     },
     {
         "% of total participations": "47.22%",
         "constructor": "Williams 🇬🇧",
-        "finished_in_points": 637
+        "finished_in_points": 638
     },
     {
-        "% of total participations": "64.35%",
+        "% of total participations": "64.50%",
         "constructor": "Red Bull 🇦🇹",
-        "finished_in_points": 296
+        "finished_in_points": 298
     },
     {
-        "% of total participations": "40.38%",
+        "% of total participations": "40.25%",
         "constructor": "Renault 🇫🇷",
         "finished_in_points": 258
     },
     {
-        "% of total participations": "75.93%",
+        "% of total participations": "76.07%",
         "constructor": "Mercedes 🇩🇪",
-        "finished_in_points": 246
+        "finished_in_points": 248
     },
     {
         "% of total participations": "27.67%",
@@ -45,12 +45,12 @@
         "finished_in_points": 190
     },
     {
-        "% of total participations": "45.17%",
+        "% of total participations": "44.92%",
         "constructor": "Force India 🇮🇳",
         "finished_in_points": 159
     },
     {
-        "% of total participations": "22.07%",
+        "% of total participations": "22.01%",
         "constructor": "Sauber 🇨🇭",
         "finished_in_points": 158
     },
@@ -70,9 +70,9 @@
         "finished_in_points": 115
     },
     {
-        "% of total participations": "26.54%",
+        "% of total participations": "26.65%",
         "constructor": "Toro Rosso 🇮🇹",
-        "finished_in_points": 112
+        "finished_in_points": 113
     },
     {
         "% of total participations": "22.00%",
@@ -275,6 +275,11 @@
         "finished_in_points": 10
     },
     {
+        "% of total participations": "18.52%",
+        "constructor": "Haas F1 Team 🇺🇸",
+        "finished_in_points": 10
+    },
+    {
         "% of total participations": "6.06%",
         "constructor": "Lola 🇬🇧",
         "finished_in_points": 10
@@ -297,11 +302,6 @@
     {
         "% of total participations": "13.56%",
         "constructor": "Brabham-Alfa Romeo 🇬🇧",
-        "finished_in_points": 8
-    },
-    {
-        "% of total participations": "15.38%",
-        "constructor": "Haas F1 Team 🇺🇸",
         "finished_in_points": 8
     },
     {

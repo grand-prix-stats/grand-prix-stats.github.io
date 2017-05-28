@@ -28,6 +28,10 @@
         "number_of_podiums": 5
     },
     {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "number_of_podiums": 5
+    },
+    {
         "driver": "David Coulthard 🇬🇧",
         "number_of_podiums": 4
     },
@@ -48,6 +52,10 @@
         "number_of_podiums": 4
     },
     {
+        "driver": "Kimi Räikkönen 🇫🇮",
+        "number_of_podiums": 4
+    },
+    {
         "driver": "Mark Webber 🇦🇺",
         "number_of_podiums": 4
     },
@@ -60,15 +68,15 @@
         "number_of_podiums": 4
     },
     {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_podiums": 4
-    },
-    {
         "driver": "Bruce McLaren 🇳🇿",
         "number_of_podiums": 3
     },
     {
         "driver": "Carlos Reutemann 🇦🇷",
+        "number_of_podiums": 3
+    },
+    {
+        "driver": "Daniel Ricciardo 🇦🇺",
         "number_of_podiums": 3
     },
     {
@@ -85,10 +93,6 @@
     },
     {
         "driver": "Juan Fangio 🇦🇷",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
         "number_of_podiums": 3
     },
     {
@@ -125,10 +129,6 @@
     },
     {
         "driver": "Damon Hill 🇬🇧",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
         "number_of_podiums": 2
     },
     {
