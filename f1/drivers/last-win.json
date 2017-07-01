@@ -1,11 +1,15 @@
 [
     {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "last_win": "2017-05-28"
+        "driver": "Daniel Ricciardo 🇦🇺",
+        "last_win": "2017-06-25"
     },
     {
         "driver": "Lewis Hamilton 🇬🇧",
-        "last_win": "2017-05-14"
+        "last_win": "2017-06-11"
+    },
+    {
+        "driver": "Sebastian Vettel 🇩🇪",
+        "last_win": "2017-05-28"
     },
     {
         "driver": "Valtteri Bottas 🇫🇮",
@@ -14,10 +18,6 @@
     {
         "driver": "Nico Rosberg 🇩🇪",
         "last_win": "2016-10-09"
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "last_win": "2016-10-02"
     },
     {
         "driver": "Max Verstappen 🇳🇱",

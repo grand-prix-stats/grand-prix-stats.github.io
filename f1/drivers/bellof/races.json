@@ -197,7 +197,7 @@
     {
         "constructor": "Tyrrell 🇬🇧",
         "date": "1984-07-08",
-        "final_position": "R",
+        "final_position": "D",
         "grid": 17,
         "laps_completed": 9,
         "name": "1984 Dallas Grand Prix 🇺🇸",
@@ -302,7 +302,7 @@
     {
         "constructor": "Tyrrell 🇬🇧",
         "date": "1984-04-07",
-        "final_position": "R",
+        "final_position": "D",
         "grid": 24,
         "laps_completed": 60,
         "name": "1984 South African Grand Prix 🇿🇦",
@@ -310,7 +310,7 @@
         "round": 2,
         "season": 1984,
         "teammate": "Martin Brundle 🇬🇧",
-        "teammate_final_position": "R",
+        "teammate_final_position": "D",
         "teammate_grid": 25,
         "time": null
     },

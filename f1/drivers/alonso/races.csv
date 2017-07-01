@@ -148,7 +148,7 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 2010 Canadian Grand Prix 🇨🇦,15,3,2010-06-13,3,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,8,6,70,+9.214,15.0
 2010 Chinese Grand Prix 🇨🇳,9,3,2010-04-18,4,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,4,7,56,+11.869,12.0
 2010 European Grand Prix 🇪🇸,11,4,2010-06-27,8,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,9,5,57,+32.809,4.0
-2010 German Grand Prix 🇩🇪,2,2,2010-07-25,1,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,11,3,67,1:27.38.684,25.0
+2010 German Grand Prix 🇩🇪,2,2,2010-07-25,1,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,11,3,67,1:27:38.864,25.0
 2010 Hungarian Grand Prix 🇭🇺,4,3,2010-08-01,2,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,12,4,70,+17.821,18.0
 2010 Italian Grand Prix 🇮🇹,3,1,2010-09-12,1,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,14,3,53,1:16:24.572,25.0
 2010 Japanese Grand Prix 🇯🇵,R,4,2010-10-10,3,2010,Felipe Massa 🇧🇷,Ferrari 🇮🇹,16,12,53,+2.721,15.0
@@ -162,7 +162,7 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 2011 Australian Grand Prix 🇦🇺,7,5,2011-03-27,4,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,1,8,58,+31.772,12.0
 2011 Belgian Grand Prix 🇧🇪,8,8,2011-08-28,4,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,12,4,44,+13.022,12.0
 2011 Brazilian Grand Prix 🇧🇷,5,5,2011-11-27,4,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,19,7,71,+35.048,12.0
-2011 British Grand Prix 🇬🇧,5,3,2011-07-10,1,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,9,4,52,1:28:41.194,25.0
+2011 British Grand Prix 🇬🇧,5,3,2011-07-10,1,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,9,4,52,1:28:41.196,25.0
 2011 Canadian Grand Prix 🇨🇦,6,2,2011-06-12,R,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,7,3,36,,0.0
 2011 Chinese Grand Prix 🇨🇳,6,5,2011-04-17,7,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,3,6,56,+30.622,6.0
 2011 European Grand Prix 🇪🇸,5,4,2011-06-26,2,2011,Felipe Massa 🇧🇷,Ferrari 🇮🇹,8,5,57,+10.891,18.0
@@ -274,7 +274,9 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 2016 Spanish Grand Prix 🇪🇸,9,10,2016-05-15,R,2016,Jenson Button 🇬🇧,McLaren 🇬🇧,5,12,45,,0.0
 2016 United States Grand Prix 🇺🇸,9,12,2016-10-23,5,2016,Jenson Button 🇬🇧,McLaren 🇬🇧,18,19,56,+1:33.953,10.0
 2017 Australian Grand Prix 🇦🇺,13,12,2017-03-26,R,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,1,18,50,,0.0
+2017 Azerbaijan Grand Prix 🇦🇿,12,19,2017-06-25,9,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,8,18,51,+59.551,2.0
 2017 Bahrain Grand Prix 🇧🇭,R,15,2017-04-16,14,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,3,17,54,,0.0
+2017 Canadian Grand Prix 🇨🇦,14,12,2017-06-11,16,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,7,16,66,,0.0
 2017 Chinese Grand Prix 🇨🇳,R,13,2017-04-09,R,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,2,15,33,,0.0
 2017 Russian Grand Prix 🇷🇺,14,15,2017-04-30,W,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,4,20,0,,0.0
 2017 Spanish Grand Prix 🇪🇸,R,7,2017-05-14,12,2017,Stoffel Vandoorne 🇧🇪,McLaren 🇬🇧,5,20,64,,0.0

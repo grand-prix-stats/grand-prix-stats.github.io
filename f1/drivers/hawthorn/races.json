@@ -594,9 +594,9 @@
         "points": 0.0,
         "round": 2,
         "season": 1957,
-        "teammate": "Wolfgang von Trips 🇩🇪",
-        "teammate_final_position": "R",
-        "teammate_grid": 9,
+        "teammate": "Maurice Trintignant 🇫🇷",
+        "teammate_final_position": "5",
+        "teammate_grid": 6,
         "time": null
     },
     {
@@ -609,9 +609,24 @@
         "points": 0.0,
         "round": 2,
         "season": 1957,
-        "teammate": "Maurice Trintignant 🇫🇷",
-        "teammate_final_position": "5",
-        "teammate_grid": 6,
+        "teammate": "Wolfgang von Trips 🇩🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
+        "time": null
+    },
+    {
+        "constructor": "Ferrari 🇮🇹",
+        "date": "1957-05-19",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 4,
+        "name": "1957 Monaco Grand Prix 🇲🇨",
+        "points": 0.0,
+        "round": 2,
+        "season": 1957,
+        "teammate": "Wolfgang von Trips 🇩🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 9,
         "time": null
     },
     {
@@ -627,21 +642,6 @@
         "teammate": "Peter Collins 🇬🇧",
         "teammate_final_position": "R",
         "teammate_grid": 2,
-        "time": null
-    },
-    {
-        "constructor": "Ferrari 🇮🇹",
-        "date": "1957-05-19",
-        "final_position": "R",
-        "grid": 5,
-        "laps_completed": 4,
-        "name": "1957 Monaco Grand Prix 🇲🇨",
-        "points": 0.0,
-        "round": 2,
-        "season": 1957,
-        "teammate": "Wolfgang von Trips 🇩🇪",
-        "teammate_final_position": "R",
-        "teammate_grid": 9,
         "time": null
     },
     {
@@ -1539,9 +1539,9 @@
         "points": 0.0,
         "round": 6,
         "season": 1954,
-        "teammate": "Louis Rosier 🇫🇷",
-        "teammate_final_position": "8",
-        "teammate_grid": 11,
+        "teammate": "José Froilán González 🇦🇷",
+        "teammate_final_position": "2",
+        "teammate_grid": 5,
         "time": null
     },
     {
@@ -1554,9 +1554,9 @@
         "points": 0.0,
         "round": 6,
         "season": 1954,
-        "teammate": "José Froilán González 🇦🇷",
-        "teammate_final_position": "2",
-        "teammate_grid": 5,
+        "teammate": "Louis Rosier 🇫🇷",
+        "teammate_final_position": "8",
+        "teammate_grid": 11,
         "time": null
     },
     {
@@ -2642,7 +2642,7 @@
     {
         "constructor": "Cooper 🇬🇧",
         "date": "1952-09-07",
-        "final_position": "R",
+        "final_position": "N",
         "grid": 12,
         "laps_completed": 38,
         "name": "1952 Italian Grand Prix 🇮🇹",
@@ -2657,7 +2657,7 @@
     {
         "constructor": "Cooper 🇬🇧",
         "date": "1952-09-07",
-        "final_position": "R",
+        "final_position": "N",
         "grid": 12,
         "laps_completed": 38,
         "name": "1952 Italian Grand Prix 🇮🇹",
@@ -2672,7 +2672,7 @@
     {
         "constructor": "Cooper 🇬🇧",
         "date": "1952-09-07",
-        "final_position": "R",
+        "final_position": "N",
         "grid": 12,
         "laps_completed": 38,
         "name": "1952 Italian Grand Prix 🇮🇹",

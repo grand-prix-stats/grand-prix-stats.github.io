@@ -108,7 +108,7 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 2013 British Grand Prix 🇬🇧,2,3,2013-06-30,R,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,8,4,41,,0.0
 2013 Canadian Grand Prix 🇨🇦,4,1,2013-06-09,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,7,5,70,1:32:09.143,25.0
 2013 Chinese Grand Prix 🇨🇳,R,9,2013-04-14,4,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,3,22,56,+12.525,12.0
-2013 German Grand Prix 🇩🇪,7,2,2013-07-07,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,9,3,60,1:41.14.711,25.0
+2013 German Grand Prix 🇩🇪,7,2,2013-07-07,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,9,3,60,1:41:14.711,25.0
 2013 Hungarian Grand Prix 🇭🇺,4,2,2013-07-28,3,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,10,10,70,+12.459,15.0
 2013 Indian Grand Prix 🇮🇳,R,1,2013-10-27,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,16,4,60,1:31:12.187,25.0
 2013 Italian Grand Prix 🇮🇹,3,1,2013-09-08,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,12,2,53,1:18:33.352,25.0
@@ -118,7 +118,7 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 2013 Monaco Grand Prix 🇲🇨,3,3,2013-05-26,2,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,6,4,78,+3.888,18.0
 2013 Singapore Grand Prix 🇸🇬,15,1,2013-09-22,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,13,4,61,1:59:13.132,25.0
 2013 Spanish Grand Prix 🇪🇸,5,3,2013-05-12,4,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,5,7,66,+38.273,12.0
-2013 United States Grand Prix 🇺🇸,3,1,2013-11-17,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,18,2,56,1:39:17.168,25.0
+2013 United States Grand Prix 🇺🇸,3,1,2013-11-17,1,2013,Mark Webber 🇦🇺,Red Bull 🇦🇹,18,2,56,1:39:17.148,25.0
 2014 Abu Dhabi Grand Prix 🇦🇪,4,19,2014-11-23,8,2014,Daniel Ricciardo 🇦🇺,Red Bull 🇦🇹,19,20,55,+1:12.045,8.0
 2014 Australian Grand Prix 🇦🇺,D,12,2014-03-16,R,2014,Daniel Ricciardo 🇦🇺,Red Bull 🇦🇹,1,2,3,,0.0
 2014 Austrian Grand Prix 🇦🇹,8,12,2014-06-22,R,2014,Daniel Ricciardo 🇦🇺,Red Bull 🇦🇹,8,5,34,,0.0
@@ -179,7 +179,9 @@ name,teammate_final_position,grid,date,final_position,season,teammate,constructo
 2016 Spanish Grand Prix 🇪🇸,2,6,2016-05-15,3,2016,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,5,5,66,+5.581,15.0
 2016 United States Grand Prix 🇺🇸,R,6,2016-10-23,4,2016,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,18,5,56,+43.134,12.0
 2017 Australian Grand Prix 🇦🇺,4,2,2017-03-26,1,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,1,4,57,1:24:11.672,25.0
+2017 Azerbaijan Grand Prix 🇦🇿,14,4,2017-06-25,4,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,8,3,51,+5.976,12.0
 2017 Bahrain Grand Prix 🇧🇭,4,3,2017-04-16,1,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,3,5,57,1:33:53.374,25.0
+2017 Canadian Grand Prix 🇨🇦,7,2,2017-06-11,4,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,7,4,70,+35.907,12.0
 2017 Chinese Grand Prix 🇨🇳,5,2,2017-04-09,2,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,2,4,56,+6.250,18.0
 2017 Monaco Grand Prix 🇲🇨,2,2,2017-05-28,1,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,6,1,78,1:44:44.340,25.0
 2017 Russian Grand Prix 🇷🇺,3,1,2017-04-30,2,2017,Kimi Räikkönen 🇫🇮,Ferrari 🇮🇹,4,2,52,+0.617,18.0

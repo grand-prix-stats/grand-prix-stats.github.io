@@ -3347,7 +3347,7 @@
     {
         "constructor": "BAR 🇬🇧",
         "date": "2005-03-06",
-        "final_position": "R",
+        "final_position": "11",
         "grid": 8,
         "laps_completed": 56,
         "name": "2005 Australian Grand Prix 🇦🇺",
@@ -3355,7 +3355,7 @@
         "round": 1,
         "season": 2005,
         "teammate": "Takuma Sato 🇯🇵",
-        "teammate_final_position": "R",
+        "teammate_final_position": "14",
         "teammate_grid": 20,
         "time": null
     },

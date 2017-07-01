@@ -68,24 +68,24 @@
     {
         "circuit": "Circuit Gilles Villeneuve",
         "date": "2017-06-11",
-        "laps_completed": null,
+        "laps_completed": 70,
         "name": "2017 Canadian Grand Prix 🇨🇦",
-        "race_duration": null,
+        "race_duration": "1:33:05.154",
         "round": 7,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Mercedes 🇩🇪",
+        "winning_driver": "Lewis Hamilton 🇬🇧"
     },
     {
         "circuit": "Baku City Circuit",
         "date": "2017-06-25",
-        "laps_completed": null,
+        "laps_completed": 51,
         "name": "2017 Azerbaijan Grand Prix 🇦🇿",
-        "race_duration": null,
+        "race_duration": "2:03:55.573",
         "round": 8,
         "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
+        "winning_constructor": "Red Bull 🇦🇹",
+        "winning_driver": "Daniel Ricciardo 🇦🇺"
     },
     {
         "circuit": "Red Bull Ring",

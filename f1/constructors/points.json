@@ -1,39 +1,39 @@
 [
     {
         "constructor": "Ferrari 🇮🇹",
-        "points": 7757.77
+        "points": 7787.77
     },
     {
         "constructor": "McLaren 🇬🇧",
-        "points": 5284.5
+        "points": 5286.5
     },
     {
         "constructor": "Red Bull 🇦🇹",
-        "points": 3617.5
+        "points": 3657.5
     },
     {
         "constructor": "Williams 🇬🇧",
-        "points": 3496.0
+        "points": 3513.0
     },
     {
         "constructor": "Mercedes 🇩🇪",
-        "points": 3368.14
+        "points": 3439.14
     },
     {
         "constructor": "Renault 🇫🇷",
-        "points": 1340.0
+        "points": 1344.0
     },
     {
         "constructor": "Team Lotus 🇬🇧",
         "points": 995.0
     },
     {
-        "constructor": "Benetton 🇮🇹",
-        "points": 861.5
+        "constructor": "Force India 🇮🇳",
+        "points": 879.0
     },
     {
-        "constructor": "Force India 🇮🇳",
-        "points": 853.0
+        "constructor": "Benetton 🇮🇹",
+        "points": 861.5
     },
     {
         "constructor": "Tyrrell 🇬🇧",
@@ -53,7 +53,7 @@
     },
     {
         "constructor": "Sauber 🇨🇭",
-        "points": 508.0
+        "points": 509.0
     },
     {
         "constructor": "Ligier 🇫🇷",
@@ -61,7 +61,7 @@
     },
     {
         "constructor": "Toro Rosso 🇮🇹",
-        "points": 358.0
+        "points": 362.0
     },
     {
         "constructor": "Cooper-Climax 🇬🇧",
@@ -168,6 +168,10 @@
         "points": 52.0
     },
     {
+        "constructor": "Haas F1 Team 🇺🇸",
+        "points": 50.0
+    },
+    {
         "constructor": "Porsche 🇩🇪",
         "points": 50.0
     },
@@ -190,10 +194,6 @@
     {
         "constructor": "Fittipaldi 🇧🇷",
         "points": 44.0
-    },
-    {
-        "constructor": "Haas F1 Team 🇺🇸",
-        "points": 43.0
     },
     {
         "constructor": "Minardi 🇮🇹",

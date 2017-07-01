@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Red Bull 🇦🇹",
+        "date": "2017-06-25",
+        "final_position": "1",
+        "grid": 10,
+        "laps_completed": 51,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 25.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Max Verstappen 🇳🇱",
+        "teammate_final_position": "R",
+        "teammate_grid": 5,
+        "time": "2:03:55.573"
+    },
+    {
+        "constructor": "Red Bull 🇦🇹",
+        "date": "2017-06-11",
+        "final_position": "3",
+        "grid": 6,
+        "laps_completed": 70,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 15.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Max Verstappen 🇳🇱",
+        "teammate_final_position": "R",
+        "teammate_grid": 5,
+        "time": "+35.297"
+    },
+    {
+        "constructor": "Red Bull 🇦🇹",
         "date": "2017-05-28",
         "final_position": "3",
         "grid": 5,

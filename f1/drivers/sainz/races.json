@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-06-25",
+        "final_position": "8",
+        "grid": 15,
+        "laps_completed": 51,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 4.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Daniil Kvyat 🇷🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 11,
+        "time": "+49.400"
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-06-11",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 0,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 0.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Daniil Kvyat 🇷🇺",
+        "teammate_final_position": "R",
+        "teammate_grid": 11,
+        "time": null
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
         "date": "2017-05-28",
         "final_position": "6",
         "grid": 6,

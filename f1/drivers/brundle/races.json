@@ -1711,7 +1711,7 @@
     },
     {
         "constructor": "Zakspeed 🇩🇪",
-        "date": "1987-06-18",
+        "date": "1987-08-16",
         "final_position": "D",
         "grid": 17,
         "laps_completed": 48,
@@ -2102,7 +2102,7 @@
     {
         "constructor": "Tyrrell 🇬🇧",
         "date": "1985-11-03",
-        "final_position": "R",
+        "final_position": "N",
         "grid": 17,
         "laps_completed": 49,
         "name": "1985 Australian Grand Prix 🇦🇺",
@@ -2320,7 +2320,7 @@
         "round": 9,
         "season": 1984,
         "teammate": "Stefan Bellof 🇩🇪",
-        "teammate_final_position": "R",
+        "teammate_final_position": "D",
         "teammate_grid": 17,
         "time": null
     },
@@ -2417,7 +2417,7 @@
     {
         "constructor": "Tyrrell 🇬🇧",
         "date": "1984-04-07",
-        "final_position": "R",
+        "final_position": "D",
         "grid": 25,
         "laps_completed": 71,
         "name": "1984 South African Grand Prix 🇿🇦",
@@ -2425,7 +2425,7 @@
         "round": 2,
         "season": 1984,
         "teammate": "Stefan Bellof 🇩🇪",
-        "teammate_final_position": "R",
+        "teammate_final_position": "D",
         "teammate_grid": 24,
         "time": null
     },

@@ -1,5 +1,13 @@
 [
     {
+        "driver": "Daniel Ricciardo 🇦🇺",
+        "number_of_podiums": 1
+    },
+    {
+        "driver": "Lance Stroll 🇨🇦",
+        "number_of_podiums": 1
+    },
+    {
         "driver": "Nico Rosberg 🇩🇪",
         "number_of_podiums": 1
     },
@@ -9,6 +17,10 @@
     },
     {
         "driver": "Sergio Pérez 🇲🇽",
+        "number_of_podiums": 1
+    },
+    {
+        "driver": "Valtteri Bottas 🇫🇮",
         "number_of_podiums": 1
     }
 ]

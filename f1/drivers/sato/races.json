@@ -812,7 +812,7 @@
     {
         "constructor": "BAR 🇬🇧",
         "date": "2005-03-06",
-        "final_position": "R",
+        "final_position": "14",
         "grid": 20,
         "laps_completed": 55,
         "name": "2005 Australian Grand Prix 🇦🇺",
@@ -820,7 +820,7 @@
         "round": 1,
         "season": 2005,
         "teammate": "Jenson Button 🇬🇧",
-        "teammate_final_position": "R",
+        "teammate_final_position": "11",
         "teammate_grid": 8,
         "time": null
     },
@@ -1210,7 +1210,7 @@
         "round": 11,
         "season": 2002,
         "teammate": "Giancarlo Fisichella 🇮🇹",
-        "teammate_final_position": "W",
+        "teammate_final_position": "F",
         "teammate_grid": 0,
         "time": null
     },

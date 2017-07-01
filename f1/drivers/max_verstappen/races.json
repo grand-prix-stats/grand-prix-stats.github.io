@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Red Bull 🇦🇹",
+        "date": "2017-06-25",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 12,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 0.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Daniel Ricciardo 🇦🇺",
+        "teammate_final_position": "1",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "Red Bull 🇦🇹",
+        "date": "2017-06-11",
+        "final_position": "R",
+        "grid": 5,
+        "laps_completed": 10,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 0.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Daniel Ricciardo 🇦🇺",
+        "teammate_final_position": "3",
+        "teammate_grid": 6,
+        "time": null
+    },
+    {
+        "constructor": "Red Bull 🇦🇹",
         "date": "2017-05-28",
         "final_position": "5",
         "grid": 4,

@@ -208,7 +208,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 1971 Spanish Grand Prix 🇪🇸,1:49:03.4,2,75,Tyrrell 🇬🇧,1971-04-18,Montjuïc,Jackie Stewart 🇬🇧,1971
 1971 United States Grand Prix 🇺🇸,1:43:51.991,11,59,Tyrrell 🇬🇧,1971-10-03,Watkins Glen,François Cevert 🇫🇷,1971
 1972 Argentine Grand Prix 🇦🇷,1:57:59.1,1,95,Tyrrell 🇬🇧,1972-01-23,Autódromo Juan y Oscar Gálvez,Jackie Stewart 🇬🇧,1972
-1972 Austrian Grand Prix 🇦🇹,29:17.3,9,54,Team Lotus 🇬🇧,1972-08-13,A1-Ring,Emerson Fittipaldi 🇧🇷,1972
+1972 Austrian Grand Prix 🇦🇹,1:29:16.660,9,54,Team Lotus 🇬🇧,1972-08-13,A1-Ring,Emerson Fittipaldi 🇧🇷,1972
 1972 Belgian Grand Prix 🇧🇪,1:44:07.3,5,85,Team Lotus 🇬🇧,1972-06-04,Nivelles-Baulers,Emerson Fittipaldi 🇧🇷,1972
 1972 British Grand Prix 🇬🇧,1:47:50.2,7,76,Team Lotus 🇬🇧,1972-07-15,Brands Hatch,Emerson Fittipaldi 🇧🇷,1972
 1972 Canadian Grand Prix 🇨🇦,1:43:17.1,11,80,Tyrrell 🇬🇧,1972-09-24,Mosport International Raceway,Jackie Stewart 🇬🇧,1972
@@ -292,7 +292,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 1977 Japanese Grand Prix 🇯🇵,1:31:51.68,17,73,McLaren 🇬🇧,1977-10-23,Fuji Speedway,James Hunt 🇬🇧,1977
 1977 Monaco Grand Prix 🇲🇨,1:57:52.77,6,76,Wolf 🇨🇦,1977-05-22,Circuit de Monaco,Jody Scheckter 🇿🇦,1977
 1977 South African Grand Prix 🇿🇦,1:42:21.6,3,78,Ferrari 🇮🇹,1977-03-05,Kyalami,Niki Lauda 🇦🇹,1977
-1977 Spanish Grand Prix 🇪🇸,1:42:.52.22,5,75,Team Lotus 🇬🇧,1977-05-08,Jarama,Mario Andretti 🇺🇸,1977
+1977 Spanish Grand Prix 🇪🇸,1:42:52.220,5,75,Team Lotus 🇬🇧,1977-05-08,Jarama,Mario Andretti 🇺🇸,1977
 1977 Swedish Grand Prix 🇸🇪,1:46:56.4,8,72,Ligier 🇫🇷,1977-06-19,Scandinavian Raceway,Jacques Laffite 🇫🇷,1977
 1977 United States Grand Prix West 🇺🇸,1:51:35.470,4,80,Team Lotus 🇬🇧,1977-04-03,Long Beach,Mario Andretti 🇺🇸,1977
 1977 United States Grand Prix 🇺🇸,1:58:23.267,15,59,McLaren 🇬🇧,1977-10-02,Watkins Glen,James Hunt 🇬🇧,1977
@@ -436,7 +436,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 1986 San Marino Grand Prix 🇮🇹,1:32:28.408,3,60,McLaren 🇬🇧,1986-04-27,Autodromo Enzo e Dino Ferrari,Alain Prost 🇫🇷,1986
 1986 Spanish Grand Prix 🇪🇸,1:48:47.735,2,72,Team Lotus 🇬🇧,1986-04-13,Circuito de Jerez,Ayrton Senna 🇧🇷,1986
 1987 Australian Grand Prix 🇦🇺,1:52:56.144,16,82,Ferrari 🇮🇹,1987-11-15,Adelaide Street Circuit,Gerhard Berger 🇦🇹,1987
-1987 Austrian Grand Prix 🇦🇹,1:18:44.898,10,52,Williams 🇬🇧,1987-06-18,A1-Ring,Nigel Mansell 🇬🇧,1987
+1987 Austrian Grand Prix 🇦🇹,1:18:44.898,10,52,Williams 🇬🇧,1987-08-16,A1-Ring,Nigel Mansell 🇬🇧,1987
 1987 Belgian Grand Prix 🇧🇪,1:27:03.217,3,43,McLaren 🇬🇧,1987-05-17,Circuit de Spa-Francorchamps,Alain Prost 🇫🇷,1987
 1987 Brazilian Grand Prix 🇧🇷,1:39:45.141,1,61,McLaren 🇬🇧,1987-04-12,Autódromo Internacional Nelson Piquet,Alain Prost 🇫🇷,1987
 1987 British Grand Prix 🇬🇧,1:19:11.780,7,65,Williams 🇬🇧,1987-07-12,Silverstone Circuit,Nigel Mansell 🇬🇧,1987
@@ -555,7 +555,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 1994 European Grand Prix 🇪🇸,1:40:27.3,14,69,Benetton 🇮🇹,1994-10-16,Circuito de Jerez,Michael Schumacher 🇩🇪,1994
 1994 French Grand Prix 🇫🇷,1:38:36.2,7,72,Benetton 🇮🇹,1994-07-03,Circuit de Nevers Magny-Cours,Michael Schumacher 🇩🇪,1994
 1994 German Grand Prix 🇩🇪,1:22:37.2,9,45,Ferrari 🇮🇹,1994-07-31,Hockenheimring,Gerhard Berger 🇦🇹,1994
-1994 Hungarian Grand Prix 🇭🇺,1.48:00.185,10,77,Benetton 🇮🇹,1994-08-14,Hungaroring,Michael Schumacher 🇩🇪,1994
+1994 Hungarian Grand Prix 🇭🇺,1:48:00.185,10,77,Benetton 🇮🇹,1994-08-14,Hungaroring,Michael Schumacher 🇩🇪,1994
 1994 Italian Grand Prix 🇮🇹,1:18:03.2,12,53,Williams 🇬🇧,1994-09-11,Autodromo Nazionale di Monza,Damon Hill 🇬🇧,1994
 1994 Japanese Grand Prix 🇯🇵,1:55:53.532,15,50,Williams 🇬🇧,1994-11-06,Suzuka Circuit,Damon Hill 🇬🇧,1994
 1994 Monaco Grand Prix 🇲🇨,1:49:55.3,4,78,Benetton 🇮🇹,1994-05-15,Circuit de Monaco,Michael Schumacher 🇩🇪,1994
@@ -566,7 +566,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 1995 Argentine Grand Prix 🇦🇷,1:53:14.532,2,72,Williams 🇬🇧,1995-04-09,Autódromo Juan y Oscar Gálvez,Damon Hill 🇬🇧,1995
 1995 Australian Grand Prix 🇦🇺,1:49:15.946,17,81,Williams 🇬🇧,1995-11-12,Adelaide Street Circuit,Damon Hill 🇬🇧,1995
 1995 Belgian Grand Prix 🇧🇪,1:36:47.875,11,44,Benetton 🇮🇹,1995-08-27,Circuit de Spa-Francorchamps,Michael Schumacher 🇩🇪,1995
-1995 Brazilian Grand Prix 🇧🇷,+1:38:34.154,1,71,Benetton 🇮🇹,1995-03-26,Autódromo José Carlos Pace,Michael Schumacher 🇩🇪,1995
+1995 Brazilian Grand Prix 🇧🇷,1:38:34.154,1,71,Benetton 🇮🇹,1995-03-26,Autódromo José Carlos Pace,Michael Schumacher 🇩🇪,1995
 1995 British Grand Prix 🇬🇧,1:34:35.093,8,61,Benetton 🇮🇹,1995-07-16,Silverstone Circuit,Johnny Herbert 🇬🇧,1995
 1995 Canadian Grand Prix 🇨🇦,1:44:54.171,6,68,Ferrari 🇮🇹,1995-06-11,Circuit Gilles Villeneuve,Jean Alesi 🇫🇷,1995
 1995 European Grand Prix 🇩🇪,1:39:59.044,14,67,Benetton 🇮🇹,1995-10-01,Nürburgring,Michael Schumacher 🇩🇪,1995
@@ -822,13 +822,13 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 2010 Abu Dhabi Grand Prix 🇦🇪,1:39:36.837,19,55,Red Bull 🇦🇹,2010-11-14,Yas Marina Circuit,Sebastian Vettel 🇩🇪,2010
 2010 Australian Grand Prix 🇦🇺,1:33:36.531,2,58,McLaren 🇬🇧,2010-03-28,Albert Park Grand Prix Circuit,Jenson Button 🇬🇧,2010
 2010 Bahrain Grand Prix 🇧🇭,1:39:20.396,1,49,Ferrari 🇮🇹,2010-03-14,Bahrain International Circuit,Fernando Alonso 🇪🇸,2010
-2010 Belgian Grand Prix 🇧🇪,1:29.04.268,13,44,McLaren 🇬🇧,2010-08-29,Circuit de Spa-Francorchamps,Lewis Hamilton 🇬🇧,2010
+2010 Belgian Grand Prix 🇧🇪,1:29:04.268,13,44,McLaren 🇬🇧,2010-08-29,Circuit de Spa-Francorchamps,Lewis Hamilton 🇬🇧,2010
 2010 Brazilian Grand Prix 🇧🇷,1:33:11.803,18,71,Red Bull 🇦🇹,2010-11-07,Autódromo José Carlos Pace,Sebastian Vettel 🇩🇪,2010
-2010 British Grand Prix 🇬🇧,1:24.38.200,10,52,Red Bull 🇦🇹,2010-07-11,Silverstone Circuit,Mark Webber 🇦🇺,2010
+2010 British Grand Prix 🇬🇧,1:24:38.200,10,52,Red Bull 🇦🇹,2010-07-11,Silverstone Circuit,Mark Webber 🇦🇺,2010
 2010 Canadian Grand Prix 🇨🇦,1:33:53.456,8,70,McLaren 🇬🇧,2010-06-13,Circuit Gilles Villeneuve,Lewis Hamilton 🇬🇧,2010
 2010 Chinese Grand Prix 🇨🇳,1:46:42.163,4,56,McLaren 🇬🇧,2010-04-18,Shanghai International Circuit,Jenson Button 🇬🇧,2010
 2010 European Grand Prix 🇪🇸,1:40:29.571,9,57,Red Bull 🇦🇹,2010-06-27,Valencia Street Circuit,Sebastian Vettel 🇩🇪,2010
-2010 German Grand Prix 🇩🇪,1:27.38.684,11,67,Ferrari 🇮🇹,2010-07-25,Hockenheimring,Fernando Alonso 🇪🇸,2010
+2010 German Grand Prix 🇩🇪,1:27:38.864,11,67,Ferrari 🇮🇹,2010-07-25,Hockenheimring,Fernando Alonso 🇪🇸,2010
 2010 Hungarian Grand Prix 🇭🇺,1:41:05.571,12,70,Red Bull 🇦🇹,2010-08-01,Hungaroring,Mark Webber 🇦🇺,2010
 2010 Italian Grand Prix 🇮🇹,1:16:24.572,14,53,Ferrari 🇮🇹,2010-09-12,Autodromo Nazionale di Monza,Fernando Alonso 🇪🇸,2010
 2010 Japanese Grand Prix 🇯🇵,1:30:27.323,16,53,Red Bull 🇦🇹,2010-10-10,Suzuka Circuit,Sebastian Vettel 🇩🇪,2010
@@ -842,7 +842,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 2011 Australian Grand Prix 🇦🇺,1:29:30.259,1,58,Red Bull 🇦🇹,2011-03-27,Albert Park Grand Prix Circuit,Sebastian Vettel 🇩🇪,2011
 2011 Belgian Grand Prix 🇧🇪,1:26:44.893,12,44,Red Bull 🇦🇹,2011-08-28,Circuit de Spa-Francorchamps,Sebastian Vettel 🇩🇪,2011
 2011 Brazilian Grand Prix 🇧🇷,1:32:17.464,19,71,Red Bull 🇦🇹,2011-11-27,Autódromo José Carlos Pace,Mark Webber 🇦🇺,2011
-2011 British Grand Prix 🇬🇧,1:28:41.194,9,52,Ferrari 🇮🇹,2011-07-10,Silverstone Circuit,Fernando Alonso 🇪🇸,2011
+2011 British Grand Prix 🇬🇧,1:28:41.196,9,52,Ferrari 🇮🇹,2011-07-10,Silverstone Circuit,Fernando Alonso 🇪🇸,2011
 2011 Canadian Grand Prix 🇨🇦,4:04:39.537,7,70,McLaren 🇬🇧,2011-06-12,Circuit Gilles Villeneuve,Jenson Button 🇬🇧,2011
 2011 Chinese Grand Prix 🇨🇳,1:36:58.226,3,56,McLaren 🇬🇧,2011-04-17,Shanghai International Circuit,Lewis Hamilton 🇬🇧,2011
 2011 European Grand Prix 🇪🇸,1:39:36.169,8,57,Red Bull 🇦🇹,2011-06-26,Valencia Street Circuit,Sebastian Vettel 🇩🇪,2011
@@ -885,17 +885,17 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 2013 British Grand Prix 🇬🇧,1:32:59.456,8,52,Mercedes 🇩🇪,2013-06-30,Silverstone Circuit,Nico Rosberg 🇩🇪,2013
 2013 Canadian Grand Prix 🇨🇦,1:32:09.143,7,70,Red Bull 🇦🇹,2013-06-09,Circuit Gilles Villeneuve,Sebastian Vettel 🇩🇪,2013
 2013 Chinese Grand Prix 🇨🇳,1:36:26.945,3,56,Ferrari 🇮🇹,2013-04-14,Shanghai International Circuit,Fernando Alonso 🇪🇸,2013
-2013 German Grand Prix 🇩🇪,1:41.14.711,9,60,Red Bull 🇦🇹,2013-07-07,Nürburgring,Sebastian Vettel 🇩🇪,2013
+2013 German Grand Prix 🇩🇪,1:41:14.711,9,60,Red Bull 🇦🇹,2013-07-07,Nürburgring,Sebastian Vettel 🇩🇪,2013
 2013 Hungarian Grand Prix 🇭🇺,1:42:29.445,10,70,Mercedes 🇩🇪,2013-07-28,Hungaroring,Lewis Hamilton 🇬🇧,2013
 2013 Indian Grand Prix 🇮🇳,1:31:12.187,16,60,Red Bull 🇦🇹,2013-10-27,Buddh International Circuit,Sebastian Vettel 🇩🇪,2013
 2013 Italian Grand Prix 🇮🇹,1:18:33.352,12,53,Red Bull 🇦🇹,2013-09-08,Autodromo Nazionale di Monza,Sebastian Vettel 🇩🇪,2013
 2013 Japanese Grand Prix 🇯🇵,1:26:49.301,15,53,Red Bull 🇦🇹,2013-10-13,Suzuka Circuit,Sebastian Vettel 🇩🇪,2013
 2013 Korean Grand Prix 🇰🇷,1:43:13.701,14,55,Red Bull 🇦🇹,2013-10-06,Korean International Circuit,Sebastian Vettel 🇩🇪,2013
 2013 Malaysian Grand Prix 🇲🇾,1:38:56.681,2,56,Red Bull 🇦🇹,2013-03-24,Sepang International Circuit,Sebastian Vettel 🇩🇪,2013
-2013 Monaco Grand Prix 🇲🇨,2:15:52.056,6,78,Mercedes 🇩🇪,2013-05-26,Circuit de Monaco,Nico Rosberg 🇩🇪,2013
+2013 Monaco Grand Prix 🇲🇨,2:17:52.056,6,78,Mercedes 🇩🇪,2013-05-26,Circuit de Monaco,Nico Rosberg 🇩🇪,2013
 2013 Singapore Grand Prix 🇸🇬,1:59:13.132,13,61,Red Bull 🇦🇹,2013-09-22,Marina Bay Street Circuit,Sebastian Vettel 🇩🇪,2013
 2013 Spanish Grand Prix 🇪🇸,1:39:16.596,5,66,Ferrari 🇮🇹,2013-05-12,Circuit de Barcelona-Catalunya,Fernando Alonso 🇪🇸,2013
-2013 United States Grand Prix 🇺🇸,1:39:17.168,18,56,Red Bull 🇦🇹,2013-11-17,Circuit of the Americas,Sebastian Vettel 🇩🇪,2013
+2013 United States Grand Prix 🇺🇸,1:39:17.148,18,56,Red Bull 🇦🇹,2013-11-17,Circuit of the Americas,Sebastian Vettel 🇩🇪,2013
 2014 Abu Dhabi Grand Prix 🇦🇪,1:39:02.619,19,55,Mercedes 🇩🇪,2014-11-23,Yas Marina Circuit,Lewis Hamilton 🇬🇧,2014
 2014 Australian Grand Prix 🇦🇺,1:32:58.710,1,57,Mercedes 🇩🇪,2014-03-16,Albert Park Grand Prix Circuit,Nico Rosberg 🇩🇪,2014
 2014 Austrian Grand Prix 🇦🇹,1:27:54.976,8,71,Mercedes 🇩🇪,2014-06-22,Red Bull Ring,Nico Rosberg 🇩🇪,2014
@@ -904,7 +904,7 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 2014 Brazilian Grand Prix 🇧🇷,1:30:02.555,18,71,Mercedes 🇩🇪,2014-11-09,Autódromo José Carlos Pace,Nico Rosberg 🇩🇪,2014
 2014 British Grand Prix 🇬🇧,2:26:52.094,9,52,Mercedes 🇩🇪,2014-07-06,Silverstone Circuit,Lewis Hamilton 🇬🇧,2014
 2014 Canadian Grand Prix 🇨🇦,1:39:12.830,7,70,Red Bull 🇦🇹,2014-06-08,Circuit Gilles Villeneuve,Daniel Ricciardo 🇦🇺,2014
-2014 Chinese Grand Prix 🇨🇳,1:33:28.388,4,54,Mercedes 🇩🇪,2014-04-20,Shanghai International Circuit,Lewis Hamilton 🇬🇧,2014
+2014 Chinese Grand Prix 🇨🇳,1:33:28.338,4,54,Mercedes 🇩🇪,2014-04-20,Shanghai International Circuit,Lewis Hamilton 🇬🇧,2014
 2014 German Grand Prix 🇩🇪,1:33:42.914,10,67,Mercedes 🇩🇪,2014-07-20,Hockenheimring,Nico Rosberg 🇩🇪,2014
 2014 Hungarian Grand Prix 🇭🇺,1:53:05.058,11,70,Red Bull 🇦🇹,2014-07-27,Hungaroring,Daniel Ricciardo 🇦🇺,2014
 2014 Italian Grand Prix 🇮🇹,1:19:10.236,13,53,Mercedes 🇩🇪,2014-09-07,Autodromo Nazionale di Monza,Lewis Hamilton 🇬🇧,2014
@@ -958,12 +958,12 @@ name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning
 2017 Abu Dhabi Grand Prix 🇦🇪,,20,,,2017-11-26,Yas Marina Circuit,,2017
 2017 Australian Grand Prix 🇦🇺,1:24:11.672,1,57,Ferrari 🇮🇹,2017-03-26,Albert Park Grand Prix Circuit,Sebastian Vettel 🇩🇪,2017
 2017 Austrian Grand Prix 🇦🇹,,9,,,2017-07-09,Red Bull Ring,,2017
-2017 Azerbaijan Grand Prix 🇦🇿,,8,,,2017-06-25,Baku City Circuit,,2017
+2017 Azerbaijan Grand Prix 🇦🇿,2:03:55.573,8,51,Red Bull 🇦🇹,2017-06-25,Baku City Circuit,Daniel Ricciardo 🇦🇺,2017
 2017 Bahrain Grand Prix 🇧🇭,1:33:53.374,3,57,Ferrari 🇮🇹,2017-04-16,Bahrain International Circuit,Sebastian Vettel 🇩🇪,2017
 2017 Belgian Grand Prix 🇧🇪,,12,,,2017-08-27,Circuit de Spa-Francorchamps,,2017
 2017 Brazilian Grand Prix 🇧🇷,,19,,,2017-11-12,Autódromo José Carlos Pace,,2017
 2017 British Grand Prix 🇬🇧,,10,,,2017-07-16,Silverstone Circuit,,2017
-2017 Canadian Grand Prix 🇨🇦,,7,,,2017-06-11,Circuit Gilles Villeneuve,,2017
+2017 Canadian Grand Prix 🇨🇦,1:33:05.154,7,70,Mercedes 🇩🇪,2017-06-11,Circuit Gilles Villeneuve,Lewis Hamilton 🇬🇧,2017
 2017 Chinese Grand Prix 🇨🇳,1:37:36.158,2,56,Mercedes 🇩🇪,2017-04-09,Shanghai International Circuit,Lewis Hamilton 🇬🇧,2017
 2017 Hungarian Grand Prix 🇭🇺,,11,,,2017-07-30,Hungaroring,,2017
 2017 Italian Grand Prix 🇮🇹,,13,,,2017-09-03,Autodromo Nazionale di Monza,,2017

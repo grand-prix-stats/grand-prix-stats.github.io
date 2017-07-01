@@ -1,6 +1,6 @@
 participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,did_not_finish,first_win,fastestlaps,races_finished,first_race,poles,subchampionships,year,standings_position,wins,forename,finished_in_points,country
 1,walter,0.0,1927-07-28,0,,466,0,1962-08-05,,0,🇨🇭,Walter,ch,,0,0,,0,1,1962-08-05,0,0,1962,34,0,Heini,0,Switzerland
-1,vyver,0.0,1920-01-01,1,,474,0,1962-12-29,,0,🇿🇦,van der Vyver,za,,0,0,,0,0,1962-12-29,0,0,1962,44,0,Syd,0,South Africa
+1,vyver,0.0,1920-06-01,1,,474,0,1962-12-29,,0,🇿🇦,van der Vyver,za,,0,0,,0,0,1962-12-29,0,0,1962,44,0,Syd,0,South Africa
 1,prinoth,0.0,1923-04-15,1,,467,0,1962-09-16,,0,🇮🇹,Prinoth,it,,0,0,,0,0,1962-09-16,0,0,1962,57,0,Ernesto,0,Italy
 1,tingle,0.0,1921-08-24,1,,368,0,1962-12-29,,0,🇿🇼,Tingle,zw,,0,0,,0,0,1962-12-29,0,0,1962,52,0,Sam,0,Rhodesia
 1,abate,0.0,1932-07-10,1,,446,0,1962-07-08,,0,🇮🇹,Abate,it,,0,0,,0,0,1962-07-08,0,0,1962,50,0,Carlo,0,Italy
@@ -36,15 +36,15 @@ participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last
 3,chamberlain,0.0,1925-12-29,2,,463,0,1962-09-16,,0,🇺🇸,Chamberlain,us,,0,0,,0,1,1962-07-21,0,0,1962,35,0,Jay,0,USA
 3,shelly,0.0,1937-02-02,2,,464,0,1962-09-16,,0,🇳🇿,Shelly,nz,,0,1,,0,0,1962-07-21,0,0,1962,49,0,Tony,0,New Zealand
 3,bandini,4.0,1935-12-21,0,,385,1,1962-09-16,,0,🇮🇹,Bandini,it,,2,1,,0,2,1962-06-03,0,0,1962,12,0,Lorenzo,1,Italy
-3,vaccarella,0.0,1933-03-03,1,,425,0,1962-09-16,,0,🇮🇹,Vaccarella,it,,1,0,,0,2,1962-06-03,0,0,1962,23,0,Nino,0,Italy
+3,vaccarella,0.0,1933-03-04,1,,425,0,1962-09-16,,0,🇮🇹,Vaccarella,it,,1,0,,0,2,1962-06-03,0,0,1962,23,0,Nino,0,Italy
 4,greene,0.0,1938-01-05,3,,465,0,1962-09-16,,0,🇬🇧,Greene,gb,,0,1,,0,0,1962-07-21,0,0,1962,45,0,Keith,0,UK
 4,marsh,0.0,1931-07-20,4,,459,0,1962-08-05,,0,🇬🇧,Marsh,gb,,0,0,,0,0,1962-06-03,0,0,1962,43,0,Tony,0,UK
-4,burgess,0.0,1936-06-06,2,,437,0,1962-09-16,,0,🇬🇧,Burgess,gb,,0,0,,0,2,1962-07-08,0,0,1962,30,0,Ian,0,UK
+4,burgess,0.0,1930-07-06,2,,437,0,1962-09-16,,0,🇬🇧,Burgess,gb,,0,0,,0,2,1962-07-08,0,0,1962,30,0,Ian,0,UK
 4,baghetti,5.0,1934-12-25,0,,394,0,1962-09-16,,0,🇮🇹,Baghetti,it,,3,1,,0,3,1962-05-20,0,0,1962,11,0,Giancarlo,2,Italy
 5,ricardo_rodriguez,4.0,1942-02-14,1,,454,0,1962-09-16,,0,🇲🇽,Rodríguez,mx,,2,1,,0,3,1962-05-20,0,0,1962,13,0,Ricardo,2,Mexico
 6,phil_hill,14.0,1927-04-20,0,,403,3,1962-09-16,,0,🇺🇸,Hill,us,,3,2,,0,4,1962-05-20,0,0,1962,6,0,Phil,3,USA
 6,lewis,0.0,1936-11-01,2,,453,0,1962-08-05,,0,🇬🇧,Lewis,gb,,2,2,,0,2,1962-05-20,0,0,1962,21,0,Jackie,0,UK
-6,siffert,0.0,1936-07-12,3,,346,0,1962-09-16,,0,🇨🇭,Siffert,ch,,1,1,,0,2,1962-06-03,0,0,1962,27,0,Jo,0,Switzerland
+6,siffert,0.0,1936-07-07,3,,346,0,1962-09-16,,0,🇨🇭,Siffert,ch,,1,1,,0,2,1962-06-03,0,0,1962,27,0,Jo,0,Switzerland
 7,gregory,1.0,1932-02-29,1,,418,0,1962-10-07,,0,🇺🇸,Gregory,us,,2,3,,0,3,1962-05-20,0,0,1962,18,0,Masten,1,USA
 8,jack_brabham,9.0,1926-04-02,0,,356,0,1962-12-29,,0,🇦🇺,Brabham,au,,5,3,,0,5,1962-05-20,0,0,1962,9,0,Jack,4,Australia
 8,ireland,2.0,1930-06-12,0,,404,0,1962-12-29,,0,🇬🇧,Ireland,gb,,2,5,,0,3,1962-05-20,0,0,1962,16,0,Innes,1,UK

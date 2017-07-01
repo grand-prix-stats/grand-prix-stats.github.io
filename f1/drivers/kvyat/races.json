@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-06-25",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 9,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 0.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Carlos Sainz 🇪🇸",
+        "teammate_final_position": "8",
+        "teammate_grid": 15,
+        "time": null
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
+        "date": "2017-06-11",
+        "final_position": "R",
+        "grid": 11,
+        "laps_completed": 54,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 0.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Carlos Sainz 🇪🇸",
+        "teammate_final_position": "R",
+        "teammate_grid": 13,
+        "time": null
+    },
+    {
+        "constructor": "Toro Rosso 🇮🇹",
         "date": "2017-05-28",
         "final_position": "14",
         "grid": 9,

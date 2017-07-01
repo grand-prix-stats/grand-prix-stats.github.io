@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Mercedes 🇩🇪",
+        "date": "2017-06-25",
+        "final_position": "2",
+        "grid": 2,
+        "laps_completed": 51,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 18.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Lewis Hamilton 🇬🇧",
+        "teammate_final_position": "5",
+        "teammate_grid": 1,
+        "time": "+3.904"
+    },
+    {
+        "constructor": "Mercedes 🇩🇪",
+        "date": "2017-06-11",
+        "final_position": "2",
+        "grid": 3,
+        "laps_completed": 70,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 18.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Lewis Hamilton 🇬🇧",
+        "teammate_final_position": "1",
+        "teammate_grid": 1,
+        "time": "+19.783"
+    },
+    {
+        "constructor": "Mercedes 🇩🇪",
         "date": "2017-05-28",
         "final_position": "4",
         "grid": 3,

@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-06-25",
+        "final_position": "13",
+        "grid": 16,
+        "laps_completed": 50,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 0.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "7",
+        "teammate_grid": 12,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
+        "date": "2017-06-11",
+        "final_position": "10",
+        "grid": 14,
+        "laps_completed": 69,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 1.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Kevin Magnussen 🇩🇰",
+        "teammate_final_position": "12",
+        "teammate_grid": 18,
+        "time": null
+    },
+    {
+        "constructor": "Haas F1 Team 🇺🇸",
         "date": "2017-05-28",
         "final_position": "8",
         "grid": 8,

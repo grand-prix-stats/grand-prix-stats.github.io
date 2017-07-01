@@ -1,6 +1,36 @@
 [
     {
         "constructor": "Renault 🇫🇷",
+        "date": "2017-06-25",
+        "final_position": "R",
+        "grid": 13,
+        "laps_completed": 24,
+        "name": "2017 Azerbaijan Grand Prix 🇦🇿",
+        "points": 0.0,
+        "round": 8,
+        "season": 2017,
+        "teammate": "Jolyon Palmer 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 20,
+        "time": null
+    },
+    {
+        "constructor": "Renault 🇫🇷",
+        "date": "2017-06-11",
+        "final_position": "8",
+        "grid": 10,
+        "laps_completed": 70,
+        "name": "2017 Canadian Grand Prix 🇨🇦",
+        "points": 4.0,
+        "round": 7,
+        "season": 2017,
+        "teammate": "Jolyon Palmer 🇬🇧",
+        "teammate_final_position": "11",
+        "teammate_grid": 15,
+        "time": "+1:00.374"
+    },
+    {
+        "constructor": "Renault 🇫🇷",
         "date": "2017-05-28",
         "final_position": "R",
         "grid": 10,

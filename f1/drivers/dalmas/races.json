@@ -92,7 +92,7 @@
     {
         "constructor": "AGS 🇫🇷",
         "date": "1990-09-09",
-        "final_position": "R",
+        "final_position": "N",
         "grid": 24,
         "laps_completed": 45,
         "name": "1990 Italian Grand Prix 🇮🇹",
@@ -445,7 +445,7 @@
         "round": 4,
         "season": 1989,
         "teammate": "Philippe Alliot 🇫🇷",
-        "teammate_final_position": "R",
+        "teammate_final_position": "N",
         "teammate_grid": 16,
         "time": null
     },

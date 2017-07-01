@@ -1,5 +1,5 @@
 participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last_race,permanent_number,championships,country_flag,surname,country_code,code,top_ten,did_not_finish,first_win,fastestlaps,races_finished,first_race,poles,subchampionships,year,standings_position,wins,forename,finished_in_points,country
-1,vaccarella,0.0,1933-03-03,0,,425,0,1965-09-12,,0,🇮🇹,Vaccarella,it,,0,0,,0,1,1965-09-12,0,0,1965,29,0,Nino,0,Italy
+1,vaccarella,0.0,1933-03-04,0,,425,0,1965-09-12,,0,🇮🇹,Vaccarella,it,,0,0,,0,1,1965-09-12,0,0,1965,29,0,Nino,0,Italy
 1,rhodes,0.0,1927-08-18,0,,419,0,1965-07-10,,0,🇬🇧,Rhodes,gb,,0,1,,0,0,1965-07-10,0,0,1965,36,0,John,0,UK
 1,tingle,0.0,1921-08-24,0,,368,0,1965-01-01,,0,🇿🇼,Tingle,zw,,0,0,,0,1,1965-01-01,0,0,1965,31,0,Sam,0,Rhodesia
 1,reed,0.0,,1,,415,0,1965-01-01,,0,🇿🇦,Reed,za,,0,0,,0,0,1965-01-01,0,0,1965,52,0,Ray,0,South Africa
@@ -28,7 +28,7 @@ participations,driverref,points,dob,did_not_start,last_win,driverid,podiums,last
 1,rollinson,0.0,1943-05-15,1,,421,0,1965-07-10,,0,🇬🇧,Rollinson,gb,,0,0,,0,0,1965-07-10,0,0,1965,43,0,Alan,0,UK
 10,rindt,4.0,1942-04-18,1,,358,0,1965-10-24,,0,🇦🇹,Rindt,at,,3,4,,0,5,1965-01-01,0,0,1965,13,0,Jochen,2,Austria
 10,hill,47.0,1929-02-15,0,1965-10-03,289,6,1965-10-24,,0,🇬🇧,Hill,gb,,9,1,1965-05-30,0,9,1965-01-01,4,1,1965,2,2,Graham,9,UK
-10,siffert,5.0,1936-07-12,0,,346,0,1965-10-24,,0,🇨🇭,Siffert,ch,,6,2,,0,8,1965-01-01,0,0,1965,12,0,Jo,3,Switzerland
+10,siffert,5.0,1936-07-07,0,,346,0,1965-10-24,,0,🇨🇭,Siffert,ch,,6,2,,0,8,1965-01-01,0,0,1965,12,0,Jo,3,Switzerland
 10,mclaren,10.0,1937-08-30,0,,360,1,1965-10-24,,0,🇳🇿,McLaren,nz,,5,5,,0,5,1965-01-01,0,0,1965,9,0,Bruce,4,New Zealand
 10,bonnier,0.0,1930-01-31,0,,347,0,1965-10-24,,0,🇸🇪,Bonnier,se,,5,5,,0,5,1965-01-01,0,0,1965,17,0,Jo,0,Sweden
 10,bandini,13.0,1935-12-21,0,,385,1,1965-10-24,,0,🇮🇹,Bandini,it,,8,1,,0,9,1965-01-01,0,0,1965,6,0,Lorenzo,4,Italy
