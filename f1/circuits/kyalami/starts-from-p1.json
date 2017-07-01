@@ -1,54 +1,54 @@
 [
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_starts_from_p1": 3
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_starts_from_p1": 2
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "number_of_starts_from_p1": 2
-    },
-    {
-        "driver": "Jean-Pierre Jabouille 🇫🇷",
-        "number_of_starts_from_p1": 2
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "number_of_starts_from_p1": 2
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "number_of_starts_from_p1": 2
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Carlos Pace 🇧🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Patrick Tambay 🇫🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 3,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 2,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "number_of_starts_from_p1" : 2,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 2,
+    "driver" : "Jean-Pierre Jabouille 🇫🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 2,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 2,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Carlos Pace 🇧🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Patrick Tambay 🇫🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "René Arnoux 🇫🇷"
+  }
 ]

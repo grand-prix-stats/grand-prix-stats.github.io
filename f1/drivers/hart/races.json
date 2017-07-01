@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Protos 🇬🇧",
-        "date": "1967-08-06",
-        "final_position": "N",
-        "grid": 25,
-        "laps_completed": 12,
-        "name": "1967 German Grand Prix 🇩🇪",
-        "points": 0.0,
-        "round": 7,
-        "season": 1967,
-        "teammate": "Kurt Ahrens 🇩🇪",
-        "teammate_final_position": "R",
-        "teammate_grid": 23,
-        "time": null
-    }
+  {
+    "name" : "1967 German Grand Prix 🇩🇪",
+    "teammate_final_position" : "R",
+    "grid" : 25,
+    "date" : "1967-08-06T00:00:00.000Z",
+    "final_position" : "N",
+    "season" : 1967,
+    "teammate" : "Kurt Ahrens 🇩🇪",
+    "constructor" : "Protos 🇬🇧",
+    "round" : 7,
+    "teammate_grid" : 23,
+    "laps_completed" : 12,
+    "time" : null,
+    "points" : 0
+  }
 ]

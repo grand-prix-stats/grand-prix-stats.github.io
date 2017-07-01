@@ -1,0 +1,331 @@
+position,driverref,points,round,country_code,championship_position,championship_points,secondary_color,main_color,driver,country_flag,country
+,irvine,0.0,9,de,12,3.0,444444,095921,Eddie Irvine 🇬🇧,🇩🇪,Germany
+,montoya,0.0,9,de,3,27.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇩🇪,Germany
+,massa,0.0,17,jp,13,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇯🇵,Japan
+,coulthard,0.0,17,jp,5,41.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇯🇵,Japan
+,panis,0.0,17,jp,14,3.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇯🇵,Japan
+,yoong,0.0,17,jp,20,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇯🇵,Japan
+,villeneuve,0.0,17,jp,12,4.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇯🇵,Japan
+,trulli,0.0,17,jp,8,9.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇯🇵,Japan
+,fisichella,0.0,17,jp,11,7.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇯🇵,Japan
+,rosa,0.0,17,jp,21,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇯🇵,Japan
+,rosa,0.0,16,us,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇺🇸,USA
+,webber,0.0,16,us,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇺🇸,USA
+,yoong,0.0,16,us,19,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇺🇸,USA
+,raikkonen,0.0,16,us,6,20.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇺🇸,USA
+,ralf_schumacher,0.0,15,it,4,42.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇮🇹,Italy
+,rosa,0.0,15,it,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇮🇹,Italy
+,massa,0.0,15,it,12,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇮🇹,Italy
+,webber,0.0,15,it,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇮🇹,Italy
+,raikkonen,0.0,15,it,6,20.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇮🇹,Italy
+,montoya,0.0,15,it,3,44.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇮🇹,Italy
+,webber,0.0,2,my,8,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇲🇾,Malaysia
+,irvine,0.0,2,my,6,3.0,444444,095921,Eddie Irvine 🇬🇧,🇲🇾,Malaysia
+,yoong,0.0,2,my,12,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇲🇾,Malaysia
+,raikkonen,0.0,2,my,4,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇲🇾,Malaysia
+,webber,0.0,14,be,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇧🇪,Belgium
+,button,0.0,14,be,7,11.0,424B52,FDE139,Jenson Button 🇬🇧,🇧🇪,Belgium
+,trulli,0.0,14,be,11,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇧🇪,Belgium
+,raikkonen,0.0,14,be,6,20.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇧🇪,Belgium
+,massa,0.0,14,be,12,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇧🇪,Belgium
+,rosa,0.0,14,be,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇧🇪,Belgium
+,fisichella,0.0,14,be,9,7.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇧🇪,Belgium
+,villeneuve,0.0,13,hu,12,3.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇭🇺,Hungary
+,irvine,0.0,13,hu,13,3.0,444444,095921,Eddie Irvine 🇬🇧,🇭🇺,Hungary
+,button,0.0,13,hu,7,11.0,424B52,FDE139,Jenson Button 🇬🇧,🇭🇺,Hungary
+,rosa,0.0,12,de,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇩🇪,Germany
+,frentzen,0.0,12,de,17,2.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇩🇪,Germany
+,webber,0.0,12,de,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇩🇪,Germany
+,heidfeld,0.0,3,br,9,2.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇧🇷,Brazil
+,massa,0.0,3,br,11,1.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇧🇷,Brazil
+,mcnish,0.0,3,br,13,0.0,444444,D70028,Allan McNish 🇬🇧,🇧🇷,Brazil
+,frentzen,0.0,3,br,17,0.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇧🇷,Brazil
+,fisichella,0.0,3,br,18,0.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇧🇷,Brazil
+,mcnish,0.0,12,de,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇩🇪,Germany
+,button,0.0,12,de,7,11.0,424B52,FDE139,Jenson Button 🇬🇧,🇩🇪,Germany
+,villeneuve,0.0,12,de,12,3.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇩🇪,Germany
+,trulli,0.0,12,de,10,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇩🇪,Germany
+,panis,0.0,12,de,14,2.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇩🇪,Germany
+,bernoldi,0.0,12,de,22,0.0,444444,FFA500,Enrique Bernoldi 🇧🇷,🇩🇪,Germany
+,irvine,0.0,12,de,13,3.0,444444,095921,Eddie Irvine 🇬🇧,🇩🇪,Germany
+,raikkonen,0.0,12,de,6,17.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇩🇪,Germany
+,fisichella,0.0,12,de,9,6.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇩🇪,Germany
+,fisichella,0.0,11,fr,9,6.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇫🇷,France
+,bernoldi,0.0,11,fr,22,0.0,444444,FFA500,Enrique Bernoldi 🇧🇷,🇫🇷,France
+,irvine,0.0,4,it,8,3.0,444444,095921,Eddie Irvine 🇬🇧,🇮🇹,Italy
+,raikkonen,0.0,4,it,7,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇮🇹,Italy
+,rosa,0.0,4,it,16,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇮🇹,Italy
+,salo,0.0,4,it,11,2.0,444444,D70028,Mika Salo 🇫🇮,🇮🇹,Italy
+,frentzen,0.0,4,it,19,0.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇮🇹,Italy
+,fisichella,0.0,4,it,20,0.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇮🇹,Italy
+,sato,0.0,4,it,17,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇮🇹,Italy
+,mcnish,0.0,4,it,15,0.0,444444,D70028,Allan McNish 🇬🇧,🇮🇹,Italy
+,yoong,0.0,4,it,14,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇮🇹,Italy
+,frentzen,0.0,11,fr,17,2.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇫🇷,France
+,barrichello,0.0,11,fr,3,32.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇫🇷,France
+,sato,0.0,11,fr,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇫🇷,France
+,panis,0.0,11,fr,14,2.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇫🇷,France
+,villeneuve,0.0,11,fr,12,3.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇫🇷,France
+,salo,0.0,11,fr,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇫🇷,France
+,massa,0.0,11,fr,11,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇫🇷,France
+,trulli,0.0,11,fr,10,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇫🇷,France
+,irvine,0.0,11,fr,13,3.0,444444,095921,Eddie Irvine 🇬🇧,🇫🇷,France
+,mcnish,0.0,10,gb,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇬🇧,UK
+,webber,0.0,10,gb,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇬🇧,UK
+,salo,0.0,10,gb,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇬🇧,UK
+,irvine,0.0,5,es,9,3.0,444444,095921,Eddie Irvine 🇬🇧,🇪🇸,Spain
+,sato,0.0,5,es,18,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇪🇸,Spain
+,fisichella,0.0,5,es,20,0.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇪🇸,Spain
+,raikkonen,0.0,5,es,8,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇪🇸,Spain
+,rosa,0.0,5,es,17,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇪🇸,Spain
+,barrichello,0.0,5,es,6,6.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇪🇸,Spain
+,webber,0.0,5,es,11,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇪🇸,Spain
+,yoong,0.0,5,es,16,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇪🇸,Spain
+,frentzen,0.0,10,gb,17,2.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇬🇧,UK
+,irvine,0.0,10,gb,13,3.0,444444,095921,Eddie Irvine 🇬🇧,🇬🇧,UK
+,bernoldi,0.0,10,gb,22,0.0,444444,FFA500,Enrique Bernoldi 🇧🇷,🇬🇧,UK
+,trulli,0.0,10,gb,10,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇬🇧,UK
+,raikkonen,0.0,10,gb,6,11.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇬🇧,UK
+,sato,0.0,10,gb,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇬🇧,UK
+,fisichella,0.0,9,de,8,6.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇩🇪,Germany
+,coulthard,0.0,9,de,5,26.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇩🇪,Germany
+,mcnish,0.0,17,jp,19,0.0,444444,D70028,Allan McNish 🇬🇧,🇯🇵,Japan
+,yoong,0.0,9,de,18,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇩🇪,Germany
+,salo,0.0,9,de,14,2.0,444444,D70028,Mika Salo 🇫🇮,🇩🇪,Germany
+,villeneuve,0.0,8,ca,16,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇨🇦,Canada
+,trulli,0.0,6,at,20,0.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇦🇹,Austria
+,yoong,0.0,6,at,17,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇦🇹,Austria
+,irvine,0.0,6,at,9,3.0,444444,095921,Eddie Irvine 🇬🇧,🇦🇹,Austria
+,heidfeld,0.0,6,at,7,5.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇦🇹,Austria
+,sato,0.0,6,at,19,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇦🇹,Austria
+,massa,0.0,6,at,10,3.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇦🇹,Austria
+,raikkonen,0.0,6,at,8,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇦🇹,Austria
+,rosa,0.0,6,at,18,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇦🇹,Austria
+,bernoldi,0.0,8,ca,22,0.0,444444,FFA500,Enrique Bernoldi 🇧🇷,🇨🇦,Canada
+,rosa,0.0,8,ca,19,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇨🇦,Canada
+,salo,0.0,8,ca,14,2.0,444444,D70028,Mika Salo 🇫🇮,🇨🇦,Canada
+,irvine,0.0,8,ca,11,3.0,444444,095921,Eddie Irvine 🇬🇧,🇨🇦,Canada
+,mcnish,0.0,8,ca,17,0.0,444444,D70028,Allan McNish 🇬🇧,🇨🇦,Canada
+,montoya,0.0,8,ca,3,27.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇨🇦,Canada
+,mcnish,0.0,7,mc,17,0.0,444444,D70028,Allan McNish 🇬🇧,🇲🇨,Monaco
+,sato,0.0,7,mc,20,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇲🇨,Monaco
+,yoong,0.0,7,mc,18,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇲🇨,Monaco
+,raikkonen,0.0,7,mc,8,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇲🇨,Monaco
+,villeneuve,0.0,7,mc,16,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇲🇨,Monaco
+,montoya,0.0,7,mc,3,27.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇲🇨,Monaco
+,salo,0.0,7,mc,14,2.0,444444,D70028,Mika Salo 🇫🇮,🇲🇨,Monaco
+,massa,0.0,7,mc,12,3.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇲🇨,Monaco
+,button,0.0,7,mc,6,8.0,424B52,FDE139,Jenson Button 🇬🇧,🇲🇨,Monaco
+,mcnish,0.0,15,it,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇮🇹,Italy
+1,michael_schumacher,10.0,5,es,1,44.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇪🇸,Spain
+1,barrichello,10.0,15,it,2,61.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇮🇹,Italy
+1,ralf_schumacher,10.0,2,my,3,10.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇲🇾,Malaysia
+1,michael_schumacher,10.0,3,br,1,24.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇧🇷,Brazil
+1,barrichello,10.0,9,de,4,26.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇩🇪,Germany
+1,michael_schumacher,10.0,8,ca,1,70.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇨🇦,Canada
+1,michael_schumacher,10.0,17,jp,1,144.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇯🇵,Japan
+1,michael_schumacher,10.0,11,fr,1,96.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇫🇷,France
+1,coulthard,10.0,7,mc,4,20.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇲🇨,Monaco
+1,michael_schumacher,10.0,6,at,1,54.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇦🇹,Austria
+1,michael_schumacher,10.0,12,de,1,106.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇩🇪,Germany
+1,michael_schumacher,10.0,4,it,1,34.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇮🇹,Italy
+1,michael_schumacher,10.0,1,au,1,10.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇦🇺,Australia
+1,barrichello,10.0,16,us,2,71.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇺🇸,USA
+1,michael_schumacher,10.0,14,be,1,122.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇧🇪,Belgium
+1,barrichello,10.0,13,hu,2,45.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇭🇺,Hungary
+1,michael_schumacher,10.0,10,gb,1,86.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇬🇧,UK
+10,yoong,0.0,11,fr,19,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇫🇷,France
+10,sato,0.0,13,hu,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇭🇺,Hungary
+10,villeneuve,0.0,3,br,15,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇧🇷,Brazil
+10,sato,0.0,8,ca,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇨🇦,Canada
+10,irvine,0.0,16,us,9,8.0,444444,095921,Eddie Irvine 🇬🇧,🇺🇸,USA
+10,rosa,0.0,2,my,13,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇲🇾,Malaysia
+10,coulthard,0.0,10,gb,5,26.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇬🇧,UK
+10,heidfeld,0.0,14,be,8,7.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇧🇪,Belgium
+10,villeneuve,0.0,6,at,15,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇦🇹,Austria
+10,trulli,0.0,5,es,19,0.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇪🇸,Spain
+10,rosa,0.0,9,de,19,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇩🇪,Germany
+10,webber,0.0,17,jp,16,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇯🇵,Japan
+10,heidfeld,0.0,4,it,9,2.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇮🇹,Italy
+10,rosa,0.0,7,mc,19,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇲🇨,Monaco
+10,heidfeld,0.0,15,it,10,7.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇮🇹,Italy
+11,salo,0.0,15,it,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇮🇹,Italy
+11,mcnish,0.0,11,fr,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇫🇷,France
+11,webber,0.0,7,mc,13,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇲🇨,Monaco
+11,webber,0.0,4,it,10,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇮🇹,Italy
+11,sato,0.0,14,be,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇧🇪,Belgium
+11,ralf_schumacher,0.0,17,jp,4,42.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇯🇵,Japan
+11,bernoldi,0.0,9,de,22,0.0,444444,FFA500,Enrique Bernoldi 🇧🇷,🇩🇪,Germany
+11,ralf_schumacher,0.0,5,es,3,20.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇪🇸,Spain
+11,webber,0.0,3,br,8,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇧🇷,Brazil
+11,rosa,0.0,10,gb,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇬🇧,UK
+11,sato,0.0,16,us,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇺🇸,USA
+11,webber,0.0,8,ca,13,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇨🇦,Canada
+11,frentzen,0.0,6,at,14,1.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇦🇹,Austria
+11,montoya,0.0,13,hu,4,40.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇭🇺,Hungary
+11,frentzen,0.0,2,my,16,0.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇲🇾,Malaysia
+12,salo,0.0,2,my,9,1.0,444444,D70028,Mika Salo 🇫🇮,🇲🇾,Malaysia
+12,sato,0.0,15,it,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇮🇹,Italy
+12,panis,0.0,14,be,14,2.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇧🇪,Belgium
+12,webber,0.0,6,at,11,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇦🇹,Austria
+12,villeneuve,0.0,9,de,16,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇩🇪,Germany
+12,button,0.0,5,es,5,8.0,424B52,FDE139,Jenson Button 🇬🇧,🇪🇸,Spain
+12,bernoldi,0.0,7,mc,21,0.0,444444,FFA500,Enrique Bernoldi 🇧🇷,🇲🇨,Monaco
+12,panis,0.0,13,hu,14,2.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇭🇺,Hungary
+12,panis,0.0,16,us,14,3.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇺🇸,USA
+12,heidfeld,0.0,8,ca,9,5.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇨🇦,Canada
+12,raikkonen,0.0,3,br,5,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇧🇷,Brazil
+12,button,0.0,10,gb,7,10.0,424B52,FDE139,Jenson Button 🇬🇧,🇬🇧,UK
+13,frentzen,0.0,9,de,15,2.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇩🇪,Germany
+13,rosa,0.0,13,hu,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇭🇺,Hungary
+13,yoong,0.0,3,br,12,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇧🇷,Brazil
+13,fisichella,0.0,2,my,17,0.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇲🇾,Malaysia
+13,frentzen,0.0,16,us,17,2.0,A17A5D,0736A5,Heinz-Harald Frentzen 🇩🇪,🇺🇸,USA
+13,frentzen,0.0,8,ca,15,2.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇨🇦,Canada
+13,yoong,0.0,15,it,19,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇮🇹,Italy
+14,mcnish,0.0,9,de,17,0.0,444444,D70028,Allan McNish 🇬🇧,🇩🇪,Germany
+14,salo,0.0,16,us,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇺🇸,USA
+14,mcnish,0.0,13,hu,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇭🇺,Hungary
+14,yoong,0.0,8,ca,18,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇨🇦,Canada
+15,webber,0.0,9,de,13,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇩🇪,Germany
+15,salo,0.0,13,hu,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇭🇺,Hungary
+15,mcnish,0.0,16,us,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇺🇸,USA
+15,button,0.0,8,ca,6,8.0,424B52,FDE139,Jenson Button 🇬🇧,🇨🇦,Canada
+16,sato,0.0,9,de,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇩🇪,Germany
+16,ralf_schumacher,0.0,16,us,4,42.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇺🇸,USA
+16,webber,0.0,13,hu,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇭🇺,Hungary
+2,barrichello,6.0,6,at,4,12.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇦🇹,Austria
+2,barrichello,6.0,4,it,5,6.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇮🇹,Italy
+2,michael_schumacher,6.0,13,hu,1,112.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇭🇺,Hungary
+2,michael_schumacher,6.0,16,us,1,134.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇺🇸,USA
+2,montoya,6.0,1,au,2,6.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇦🇺,Australia
+2,coulthard,6.0,8,ca,4,26.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇨🇦,Canada
+2,barrichello,6.0,17,jp,2,77.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇯🇵,Japan
+2,montoya,6.0,2,my,2,12.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇲🇾,Malaysia
+2,michael_schumacher,6.0,9,de,1,76.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇩🇪,Germany
+2,barrichello,6.0,14,be,2,51.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇧🇪,Belgium
+2,michael_schumacher,6.0,15,it,1,128.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇮🇹,Italy
+2,michael_schumacher,6.0,7,mc,1,60.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇲🇨,Monaco
+2,montoya,6.0,5,es,2,23.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇪🇸,Spain
+2,barrichello,6.0,10,gb,2,32.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇬🇧,UK
+2,ralf_schumacher,6.0,3,br,2,16.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇧🇷,Brazil
+2,raikkonen,6.0,11,fr,6,17.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇫🇷,France
+2,montoya,6.0,12,de,2,40.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇩🇪,Germany
+3,montoya,4.0,6,at,2,27.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇦🇹,Austria
+3,ralf_schumacher,4.0,12,de,3,36.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇩🇪,Germany
+3,montoya,4.0,10,gb,3,31.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇬🇧,UK
+3,coulthard,4.0,11,fr,5,30.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇫🇷,France
+3,barrichello,4.0,8,ca,5,16.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇨🇦,Canada
+3,coulthard,4.0,5,es,4,9.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇪🇸,Spain
+3,coulthard,4.0,3,br,6,4.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇧🇷,Brazil
+3,ralf_schumacher,4.0,13,hu,3,40.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇭🇺,Hungary
+3,raikkonen,4.0,17,jp,6,24.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇯🇵,Japan
+3,raikkonen,4.0,9,de,6,11.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇩🇪,Germany
+3,montoya,4.0,14,be,3,44.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇧🇪,Belgium
+3,coulthard,4.0,16,us,5,41.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇺🇸,USA
+3,ralf_schumacher,4.0,7,mc,2,27.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇲🇨,Monaco
+3,michael_schumacher,4.0,2,my,1,14.0,16191A,EB212E,Michael Schumacher 🇩🇪,🇲🇾,Malaysia
+3,ralf_schumacher,4.0,4,it,2,20.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇮🇹,Italy
+3,raikkonen,4.0,1,au,3,4.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇦🇺,Australia
+3,irvine,4.0,15,it,8,8.0,444444,095921,Eddie Irvine 🇬🇧,🇮🇹,Italy
+4,ralf_schumacher,3.0,6,at,3,23.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇦🇹,Austria
+4,barrichello,3.0,12,de,4,35.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇩🇪,Germany
+4,trulli,3.0,7,mc,11,3.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇲🇨,Monaco
+4,montoya,3.0,4,it,3,17.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇮🇹,Italy
+4,irvine,3.0,1,au,4,3.0,444444,095921,Eddie Irvine 🇬🇧,🇦🇺,Australia
+4,montoya,3.0,17,jp,3,50.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇯🇵,Japan
+4,raikkonen,3.0,13,hu,6,20.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇭🇺,Hungary
+4,ralf_schumacher,3.0,9,de,2,30.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇩🇪,Germany
+4,montoya,3.0,16,us,3,47.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇺🇸,USA
+4,button,3.0,2,my,5,3.0,424B52,FDE139,Jenson Button 🇬🇧,🇲🇾,Malaysia
+4,coulthard,3.0,14,be,5,37.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇧🇪,Belgium
+4,trulli,3.0,15,it,9,7.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇮🇹,Italy
+4,button,3.0,3,br,4,6.0,424B52,FDE139,Jenson Button 🇬🇧,🇧🇷,Brazil
+4,raikkonen,3.0,8,ca,7,7.0,0D1D20,FCA13B,Kimi Räikkönen 🇫🇮,🇨🇦,Canada
+4,heidfeld,3.0,5,es,7,5.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇪🇸,Spain
+4,montoya,3.0,11,fr,2,34.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇫🇷,France
+4,villeneuve,3.0,10,gb,12,3.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇬🇧,UK
+5,fisichella,2.0,6,at,12,2.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇦🇹,Austria
+5,panis,2.0,10,gb,14,2.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇬🇧,UK
+5,fisichella,2.0,8,ca,8,6.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇨🇦,Canada
+5,coulthard,2.0,12,de,5,32.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇩🇪,Germany
+5,button,2.0,15,it,7,13.0,424B52,FDE139,Jenson Button 🇬🇧,🇮🇹,Italy
+5,trulli,2.0,16,us,8,9.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇺🇸,USA
+5,massa,2.0,5,es,10,3.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇪🇸,Spain
+5,webber,2.0,1,au,5,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇦🇺,Australia
+5,heidfeld,2.0,2,my,7,2.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇲🇾,Malaysia
+5,ralf_schumacher,2.0,14,be,4,42.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇧🇪,Belgium
+5,montoya,2.0,3,br,3,14.0,082957,EAE4ED,Juan Pablo Montoya 🇨🇴,🇧🇷,Brazil
+5,sato,2.0,17,jp,15,2.0,444444,FFFF01,Takuma Sato 🇯🇵,🇯🇵,Japan
+5,ralf_schumacher,2.0,11,fr,4,32.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇫🇷,France
+5,coulthard,2.0,13,hu,5,34.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇭🇺,Hungary
+5,button,2.0,4,it,4,8.0,424B52,FDE139,Jenson Button 🇬🇧,🇮🇹,Italy
+5,fisichella,2.0,7,mc,9,4.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇲🇨,Monaco
+5,button,2.0,9,de,7,10.0,424B52,FDE139,Jenson Button 🇬🇧,🇩🇪,Germany
+6,frentzen,1.0,7,mc,15,2.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇲🇨,Monaco
+6,salo,1.0,3,br,10,2.0,444444,D70028,Mika Salo 🇫🇮,🇧🇷,Brazil
+6,irvine,1.0,14,be,10,4.0,444444,095921,Eddie Irvine 🇬🇧,🇧🇪,Belgium
+6,villeneuve,1.0,16,us,12,4.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇺🇸,USA
+6,trulli,1.0,8,ca,10,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇨🇦,Canada
+6,heidfeld,1.0,10,gb,8,6.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇬🇧,UK
+6,massa,1.0,2,my,10,1.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇲🇾,Malaysia
+6,massa,1.0,9,de,11,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇩🇪,Germany
+6,coulthard,1.0,4,it,6,5.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇮🇹,Italy
+6,coulthard,1.0,6,at,5,10.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇦🇹,Austria
+6,button,1.0,17,jp,7,14.0,424B52,FDE139,Jenson Button 🇬🇧,🇯🇵,Japan
+6,heidfeld,1.0,12,de,8,7.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇩🇪,Germany
+6,panis,1.0,15,it,14,3.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇮🇹,Italy
+6,frentzen,1.0,5,es,13,1.0,444444,FFA500,Heinz-Harald Frentzen 🇩🇪,🇪🇸,Spain
+6,salo,1.0,1,au,6,1.0,444444,D70028,Mika Salo 🇫🇮,🇦🇺,Australia
+6,button,1.0,11,fr,7,11.0,424B52,FDE139,Jenson Button 🇬🇧,🇫🇷,France
+6,fisichella,1.0,13,hu,9,7.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇭🇺,Hungary
+7,fisichella,0.0,10,gb,9,6.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇬🇧,UK
+7,yoong,0.0,1,au,7,0.0,444444,1B1D1D,Alex Yoong 🇲🇾,🇦🇺,Australia
+7,coulthard,0.0,15,it,5,37.0,0D1D20,FCA13B,David Coulthard 🇬🇧,🇮🇹,Italy
+7,heidfeld,0.0,9,de,9,5.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇩🇪,Germany
+7,irvine,0.0,3,br,7,3.0,444444,095921,Eddie Irvine 🇬🇧,🇧🇷,Brazil
+7,heidfeld,0.0,11,fr,8,6.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇫🇷,France
+7,villeneuve,0.0,5,es,14,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇪🇸,Spain
+7,barrichello,0.0,7,mc,5,12.0,16191A,EB212E,Rubens Barrichello 🇧🇷,🇲🇨,Monaco
+7,heidfeld,0.0,17,jp,10,7.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇯🇵,Japan
+7,mcnish,0.0,2,my,11,0.0,444444,D70028,Allan McNish 🇬🇧,🇲🇾,Malaysia
+7,massa,0.0,12,de,11,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇩🇪,Germany
+7,villeneuve,0.0,4,it,13,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇮🇹,Italy
+7,massa,0.0,13,hu,11,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇭🇺,Hungary
+7,salo,0.0,14,be,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇧🇪,Belgium
+7,button,0.0,6,at,6,8.0,424B52,FDE139,Jenson Button 🇬🇧,🇦🇹,Austria
+7,ralf_schumacher,0.0,8,ca,2,27.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇨🇦,Canada
+7,fisichella,0.0,16,us,11,7.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇺🇸,USA
+8,button,0.0,16,us,7,13.0,424B52,FDE139,Jenson Button 🇬🇧,🇺🇸,USA
+8,webber,0.0,11,fr,15,2.0,444444,1B1D1D,Mark Webber 🇦🇺,🇫🇷,France
+8,mcnish,0.0,5,es,15,0.0,444444,D70028,Allan McNish 🇬🇧,🇪🇸,Spain
+8,panis,0.0,8,ca,20,0.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇨🇦,Canada
+8,rosa,0.0,3,br,14,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇧🇷,Brazil
+8,fisichella,0.0,15,it,11,7.0,444444,FFFF01,Giancarlo Fisichella 🇮🇹,🇮🇹,Italy
+8,salo,0.0,6,at,13,2.0,444444,D70028,Mika Salo 🇫🇮,🇦🇹,Austria
+8,trulli,0.0,9,de,10,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇩🇪,Germany
+8,ralf_schumacher,0.0,10,gb,4,30.0,082957,EAE4ED,Ralf Schumacher 🇩🇪,🇬🇧,UK
+8,rosa,0.0,1,au,8,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇦🇺,Australia
+8,trulli,0.0,13,hu,10,4.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇭🇺,Hungary
+8,villeneuve,0.0,14,be,13,3.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇧🇪,Belgium
+8,heidfeld,0.0,7,mc,7,5.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇲🇨,Monaco
+8,salo,0.0,17,jp,17,2.0,444444,D70028,Mika Salo 🇫🇮,🇯🇵,Japan
+8,massa,0.0,4,it,12,1.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇮🇹,Italy
+8,villeneuve,0.0,2,my,14,0.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇲🇾,Malaysia
+8,sato,0.0,12,de,21,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇩🇪,Germany
+9,salo,0.0,12,de,16,2.0,444444,D70028,Mika Salo 🇫🇮,🇩🇪,Germany
+9,mcnish,0.0,6,at,16,0.0,444444,D70028,Allan McNish 🇬🇧,🇦🇹,Austria
+9,trulli,0.0,4,it,18,0.0,424B52,FDE139,Jarno Trulli 🇮🇹,🇮🇹,Italy
+9,mcnish,0.0,14,be,18,0.0,444444,D70028,Allan McNish 🇬🇧,🇧🇪,Belgium
+9,irvine,0.0,17,jp,9,8.0,444444,095921,Eddie Irvine 🇬🇧,🇯🇵,Japan
+9,sato,0.0,2,my,15,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇲🇾,Malaysia
+9,massa,0.0,10,gb,11,4.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇬🇧,UK
+9,panis,0.0,9,de,20,0.0,444444,FFFFFF,Olivier Panis 🇫🇷,🇩🇪,Germany
+9,irvine,0.0,7,mc,10,3.0,444444,095921,Eddie Irvine 🇬🇧,🇲🇨,Monaco
+9,heidfeld,0.0,13,hu,8,7.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇭🇺,Hungary
+9,sato,0.0,3,br,16,0.0,444444,FFFF01,Takuma Sato 🇯🇵,🇧🇷,Brazil
+9,massa,0.0,8,ca,12,3.0,A17A5D,0736A5,Felipe Massa 🇧🇷,🇨🇦,Canada
+9,salo,0.0,5,es,12,2.0,444444,D70028,Mika Salo 🇫🇮,🇪🇸,Spain
+9,rosa,0.0,11,fr,20,0.0,444444,095921,Pedro de la Rosa 🇪🇸,🇫🇷,France
+9,heidfeld,0.0,16,us,10,7.0,A17A5D,0736A5,Nick Heidfeld 🇩🇪,🇺🇸,USA
+9,villeneuve,0.0,15,it,13,3.0,444444,FFFFFF,Jacques Villeneuve 🇨🇦,🇮🇹,Italy

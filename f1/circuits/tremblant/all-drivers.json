@@ -1,118 +1,118 @@
 [
-    {
-        "driver": "Chris Amon 🇳🇿",
-        "times": 2
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 2
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Henri Pescarolo 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "times": 2
-    },
-    {
-        "driver": "Jackie Oliver 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 2
-    },
-    {
-        "driver": "Jean-Pierre Beltoise 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jo Siffert 🇨🇭",
-        "times": 2
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Pedro Rodríguez 🇲🇽",
-        "times": 2
-    },
-    {
-        "driver": "Andrea de Adamich 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Bill Brack 🇨🇦",
-        "times": 1
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "times": 1
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "George Eaton 🇨🇦",
-        "times": 1
-    },
-    {
-        "driver": "Jo Bonnier 🇸🇪",
-        "times": 1
-    },
-    {
-        "driver": "Jochen Rindt 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "Johnny Servoz-Gavin 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Lucien Bianchi 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "Peter Gethin 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Piers Courage 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Rolf Stommelen 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "times": 1
-    },
-    {
-        "driver": "Tim Schenken 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Vic Elford 🇬🇧",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Chris Amon 🇳🇿"
+  },
+  {
+    "times" : 2,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 2,
+    "driver" : "Graham Hill 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Henri Pescarolo 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jackie Oliver 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jean-Pierre Beltoise 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jo Siffert 🇨🇭"
+  },
+  {
+    "times" : 2,
+    "driver" : "John Surtees 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Pedro Rodríguez 🇲🇽"
+  },
+  {
+    "times" : 1,
+    "driver" : "Andrea de Adamich 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Bill Brack 🇨🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Bruce McLaren 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Clay Regazzoni 🇨🇭"
+  },
+  {
+    "times" : 1,
+    "driver" : "Dan Gurney 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "François Cevert 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "George Eaton 🇨🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jo Bonnier 🇸🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jochen Rindt 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Johnny Servoz-Gavin 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Lucien Bianchi 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Gethin 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Piers Courage 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Rolf Stommelen 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Tim Schenken 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Vic Elford 🇬🇧"
+  }
 ]

@@ -1,10 +1,10 @@
 [
-    {
-        "driver": "John Surtees 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "John Surtees 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Stirling Moss 🇬🇧"
+  }
 ]

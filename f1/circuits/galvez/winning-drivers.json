@@ -1,66 +1,66 @@
 [
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "number_of_wins": 4
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 4,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Alan Jones 🇦🇺"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Bruce McLaren 🇳🇿"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jacques Laffite 🇫🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jacques Villeneuve 🇨🇦"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Luigi Musso 🇮🇹"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Stirling Moss 🇬🇧"
+  }
 ]

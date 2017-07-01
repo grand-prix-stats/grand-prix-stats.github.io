@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Stebro 🇨🇦",
-        "date": "1963-10-06",
-        "final_position": "W",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1963 United States Grand Prix 🇺🇸",
-        "points": 0.0,
-        "round": 8,
-        "season": 1963,
-        "teammate": "Peter Broeker 🇨🇦",
-        "teammate_final_position": "7",
-        "teammate_grid": 21,
-        "time": null
-    }
+  {
+    "name" : "1963 United States Grand Prix 🇺🇸",
+    "teammate_final_position" : "7",
+    "grid" : 0,
+    "date" : "1963-10-06T00:00:00.000Z",
+    "final_position" : "W",
+    "season" : 1963,
+    "teammate" : "Peter Broeker 🇨🇦",
+    "constructor" : "Stebro 🇨🇦",
+    "round" : 8,
+    "teammate_grid" : 21,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

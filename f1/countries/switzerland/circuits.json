@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Switzerland",
-        "location": "Bern",
-        "most_wins_driver": "Juan Fangio 🇦🇷",
-        "name": "Circuit Bremgarten",
-        "races": 5,
-        "wins": 2
-    }
+  {
+    "most_wins_driver" : "Juan Fangio 🇦🇷",
+    "name" : "Circuit Bremgarten",
+    "location" : "Bern",
+    "races" : 5,
+    "wins" : 2,
+    "country" : "Switzerland"
+  }
 ]

@@ -1,22 +1,22 @@
 [
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Emerson Fittipaldi 🇧🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Denny Hulme 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "François Cevert 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jody Scheckter 🇿🇦",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Niki Lauda 🇦🇹",
+    "number_of_podiums" : 1
+  }
 ]

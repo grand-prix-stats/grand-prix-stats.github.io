@@ -1,34 +1,34 @@
 [
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Peter Revson 🇺🇸",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Peter Revson 🇺🇸"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  }
 ]

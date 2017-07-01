@@ -1,130 +1,130 @@
 [
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "times": 8
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "times": 6
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 4
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "times": 4
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "times": 3
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "times": 2
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "times": 2
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 2
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "times": 2
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "David Coulthard 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Felipe Massa 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "times": 1
-    },
-    {
-        "driver": "Giancarlo Baghetti 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Heinz-Harald Frentzen 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jean-Pierre Jabouille 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jochen Rindt 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Luigi Fagioli 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Peter Collins 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Ralf Schumacher 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Tony Brooks 🇬🇧",
-        "times": 1
-    }
+  {
+    "times" : 8,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "times" : 6,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "times" : 4,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 4,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "times" : 3,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Dan Gurney 🇺🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alan Jones 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "David Coulthard 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Felipe Massa 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Giancarlo Baghetti 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Heinz-Harald Frentzen 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean-Pierre Jabouille 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jochen Rindt 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Keke Rosberg 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Luigi Fagioli 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Collins 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ralf Schumacher 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "René Arnoux 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Tony Brooks 🇬🇧"
+  }
 ]

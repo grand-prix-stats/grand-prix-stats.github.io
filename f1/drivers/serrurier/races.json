@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "LDS 🇿🇦",
-        "date": "1963-12-28",
-        "final_position": "11",
-        "grid": 18,
-        "laps_completed": 78,
-        "name": "1963 South African Grand Prix 🇿🇦",
-        "points": 0.0,
-        "round": 10,
-        "season": 1963,
-        "teammate": "Sam Tingle 🇿🇼",
-        "teammate_final_position": "R",
-        "teammate_grid": 17,
-        "time": null
-    }
+  {
+    "name" : "1963 South African Grand Prix 🇿🇦",
+    "teammate_final_position" : "R",
+    "grid" : 18,
+    "date" : "1963-12-28T00:00:00.000Z",
+    "final_position" : "11",
+    "season" : 1963,
+    "teammate" : "Sam Tingle 🇿🇼",
+    "constructor" : "LDS 🇿🇦",
+    "round" : 10,
+    "teammate_grid" : 17,
+    "laps_completed" : 78,
+    "time" : null,
+    "points" : 0
+  }
 ]

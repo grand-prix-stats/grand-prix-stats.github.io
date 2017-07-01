@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Trevis 🇺🇸",
-        "date": "1960-05-30",
-        "final_position": "9",
-        "grid": 28,
-        "laps_completed": 200,
-        "name": "1960 Indianapolis 500 🇺🇸",
-        "points": 0.0,
-        "round": 3,
-        "season": 1960,
-        "teammate": "Eddie Johnson 🇺🇸",
-        "teammate_final_position": "6",
-        "teammate_grid": 7,
-        "time": "+8:19.91"
-    }
+  {
+    "name" : "1960 Indianapolis 500 🇺🇸",
+    "teammate_final_position" : "6",
+    "grid" : 28,
+    "date" : "1960-05-30T00:00:00.000Z",
+    "final_position" : "9",
+    "season" : 1960,
+    "teammate" : "Eddie Johnson 🇺🇸",
+    "constructor" : "Trevis 🇺🇸",
+    "round" : 3,
+    "teammate_grid" : 7,
+    "laps_completed" : 200,
+    "time" : "+8:19.91",
+    "points" : 0
+  }
 ]

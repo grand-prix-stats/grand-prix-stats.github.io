@@ -1,126 +1,126 @@
 [
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "times": 7
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 6
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "times": 3
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "times": 2
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 2
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "times": 1
-    },
-    {
-        "driver": "Gerhard Berger 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "Gilles Villeneuve 🇨🇦",
-        "times": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jean Alesi 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 1
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Michele Alboreto 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Peter Revson 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Ralf Schumacher 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Robert Kubica 🇵🇱",
-        "times": 1
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Thierry Boutsen 🇧🇪",
-        "times": 1
-    }
+  {
+    "times" : 7,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "times" : 6,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Alan Jones 🇦🇺"
+  },
+  {
+    "times" : 2,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Daniel Ricciardo 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Gerhard Berger 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Gilles Villeneuve 🇨🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Laffite 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean Alesi 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jenson Button 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Michele Alboreto 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mika Häkkinen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Revson 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ralf Schumacher 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "René Arnoux 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Robert Kubica 🇵🇱"
+  },
+  {
+    "times" : 1,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Thierry Boutsen 🇧🇪"
+  }
 ]

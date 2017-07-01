@@ -1,12 +1,12 @@
 [
-    {
-        "date": "1960-11-20",
-        "laps_completed": 75,
-        "name": "1960 United States Grand Prix 🇺🇸",
-        "race_duration": "2:28:52.2",
-        "round": 10,
-        "season": 1960,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Stirling Moss 🇬🇧"
-    }
+  {
+    "name" : "1960 United States Grand Prix 🇺🇸",
+    "race_duration" : "2:28:52.2",
+    "round" : 10,
+    "laps_completed" : 75,
+    "winning_constructor" : "Team Lotus 🇬🇧",
+    "date" : "1960-11-20T00:00:00.000Z",
+    "winning_driver" : "Stirling Moss 🇬🇧",
+    "season" : 1960
+  }
 ]

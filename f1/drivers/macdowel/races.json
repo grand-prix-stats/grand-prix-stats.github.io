@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Cooper 🇬🇧",
-        "date": "1957-07-07",
-        "final_position": "7",
-        "grid": 15,
-        "laps_completed": 68,
-        "name": "1957 French Grand Prix 🇫🇷",
-        "points": 0.0,
-        "round": 4,
-        "season": 1957,
-        "teammate": "Jack Brabham 🇦🇺",
-        "teammate_final_position": "R",
-        "teammate_grid": 13,
-        "time": null
-    },
-    {
-        "constructor": "Cooper 🇬🇧",
-        "date": "1957-07-07",
-        "final_position": "7",
-        "grid": 15,
-        "laps_completed": 68,
-        "name": "1957 French Grand Prix 🇫🇷",
-        "points": 0.0,
-        "round": 4,
-        "season": 1957,
-        "teammate": "Jack Brabham 🇦🇺",
-        "teammate_final_position": "7",
-        "teammate_grid": 15,
-        "time": null
-    }
+  {
+    "name" : "1957 French Grand Prix 🇫🇷",
+    "teammate_final_position" : "R",
+    "grid" : 15,
+    "date" : "1957-07-07T00:00:00.000Z",
+    "final_position" : "7",
+    "season" : 1957,
+    "teammate" : "Jack Brabham 🇦🇺",
+    "constructor" : "Cooper 🇬🇧",
+    "round" : 4,
+    "teammate_grid" : 13,
+    "laps_completed" : 68,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1957 French Grand Prix 🇫🇷",
+    "teammate_final_position" : "7",
+    "grid" : 15,
+    "date" : "1957-07-07T00:00:00.000Z",
+    "final_position" : "7",
+    "season" : 1957,
+    "teammate" : "Jack Brabham 🇦🇺",
+    "constructor" : "Cooper 🇬🇧",
+    "round" : 4,
+    "teammate_grid" : 15,
+    "laps_completed" : 68,
+    "time" : null,
+    "points" : 0
+  }
 ]

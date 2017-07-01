@@ -1,58 +1,58 @@
 [
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_wins": 5
-    },
-    {
-        "driver": "Bill Vukovich 🇺🇸",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Bob Sweikert 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jim Rathmann 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jimmy Bryan 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Johnnie Parsons 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Lee Wallard 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Pat Flaherty 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Rodger Ward 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Rubens Barrichello 🇧🇷",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Sam Hanks 🇺🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Troy Ruttman 🇺🇸",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 5,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Bill Vukovich 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Bob Sweikert 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jim Rathmann 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jimmy Bryan 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Johnnie Parsons 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Lee Wallard 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Mika Häkkinen 🇫🇮"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Pat Flaherty 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Rodger Ward 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Rubens Barrichello 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Sam Hanks 🇺🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Troy Ruttman 🇺🇸"
+  }
 ]

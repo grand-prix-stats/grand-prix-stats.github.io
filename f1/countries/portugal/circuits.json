@@ -1,26 +1,26 @@
 [
-    {
-        "country": "Portugal",
-        "location": "Estoril",
-        "most_wins_driver": "Nigel Mansell 🇬🇧",
-        "name": "Autódromo do Estoril",
-        "races": 13,
-        "wins": 3
-    },
-    {
-        "country": "Portugal",
-        "location": "Lisbon",
-        "most_wins_driver": "Stirling Moss 🇬🇧",
-        "name": "Monsanto Park Circuit",
-        "races": 1,
-        "wins": 1
-    },
-    {
-        "country": "Portugal",
-        "location": "Oporto",
-        "most_wins_driver": "Jack Brabham 🇦🇺",
-        "name": "Circuito da Boavista",
-        "races": 2,
-        "wins": 1
-    }
+  {
+    "most_wins_driver" : "Nigel Mansell 🇬🇧",
+    "name" : "Autódromo do Estoril",
+    "location" : "Estoril",
+    "races" : 13,
+    "wins" : 3,
+    "country" : "Portugal"
+  },
+  {
+    "most_wins_driver" : "Stirling Moss 🇬🇧",
+    "name" : "Monsanto Park Circuit",
+    "location" : "Lisbon",
+    "races" : 1,
+    "wins" : 1,
+    "country" : "Portugal"
+  },
+  {
+    "most_wins_driver" : "Jack Brabham 🇦🇺",
+    "name" : "Circuito da Boavista",
+    "location" : "Oporto",
+    "races" : 2,
+    "wins" : 1,
+    "country" : "Portugal"
+  }
 ]

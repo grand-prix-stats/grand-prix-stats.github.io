@@ -1,98 +1,98 @@
 [
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "times": 2
-    },
-    {
-        "driver": "Jo Bonnier 🇸🇪",
-        "times": 2
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Tony Brooks 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Wolfgang von Trips 🇩🇪",
-        "times": 2
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Carroll Shelby 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Cliff Allison 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Harry Schell 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Innes Ireland 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jean Behra 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Maria de Filippis 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Mário de Araújo Cabral 🇵🇹",
-        "times": 1
-    },
-    {
-        "driver": "Masten Gregory 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Maurice Trintignant 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Olivier Gendebien 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "Phil Hill 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Roy Salvadori 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Stuart Lewis-Evans 🇬🇧",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Graham Hill 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jo Bonnier 🇸🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Stirling Moss 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Tony Brooks 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Wolfgang von Trips 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Bruce McLaren 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Carroll Shelby 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Cliff Allison 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Dan Gurney 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Harry Schell 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Innes Ireland 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean Behra 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "John Surtees 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Maria de Filippis 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mário de Araújo Cabral 🇵🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Masten Gregory 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Maurice Trintignant 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Olivier Gendebien 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Phil Hill 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Roy Salvadori 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Stuart Lewis-Evans 🇬🇧"
+  }
 ]

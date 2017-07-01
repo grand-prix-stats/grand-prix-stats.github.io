@@ -1,54 +1,54 @@
 [
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Karl Kling 🇩🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Phil Hill 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Richie Ginther 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Tony Brooks 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Wolfgang von Trips 🇩🇪",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Stirling Moss 🇬🇧",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Bruce McLaren 🇳🇿",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jim Clark 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "John Surtees 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Juan Fangio 🇦🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Karl Kling 🇩🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Luigi Musso 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Mike Hawthorn 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Phil Hill 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Richie Ginther 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Tony Brooks 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Wolfgang von Trips 🇩🇪",
+    "number_of_podiums" : 1
+  }
 ]

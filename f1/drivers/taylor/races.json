@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Cooper-Climax 🇬🇧",
-        "date": "1964-07-11",
-        "final_position": "14",
-        "grid": 20,
-        "laps_completed": 56,
-        "name": "1964 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 5,
-        "season": 1964,
-        "teammate": "Phil Hill 🇺🇸",
-        "teammate_final_position": "6",
-        "teammate_grid": 15,
-        "time": null
-    },
-    {
-        "constructor": "Cooper-Climax 🇬🇧",
-        "date": "1964-07-11",
-        "final_position": "14",
-        "grid": 20,
-        "laps_completed": 56,
-        "name": "1964 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 5,
-        "season": 1964,
-        "teammate": "Bruce McLaren 🇳🇿",
-        "teammate_final_position": "R",
-        "teammate_grid": 6,
-        "time": null
-    }
+  {
+    "name" : "1964 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "6",
+    "grid" : 20,
+    "date" : "1964-07-11T00:00:00.000Z",
+    "final_position" : "14",
+    "season" : 1964,
+    "teammate" : "Phil Hill 🇺🇸",
+    "constructor" : "Cooper-Climax 🇬🇧",
+    "round" : 5,
+    "teammate_grid" : 15,
+    "laps_completed" : 56,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1964 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "R",
+    "grid" : 20,
+    "date" : "1964-07-11T00:00:00.000Z",
+    "final_position" : "14",
+    "season" : 1964,
+    "teammate" : "Bruce McLaren 🇳🇿",
+    "constructor" : "Cooper-Climax 🇬🇧",
+    "round" : 5,
+    "teammate_grid" : 6,
+    "laps_completed" : 56,
+    "time" : null,
+    "points" : 0
+  }
 ]

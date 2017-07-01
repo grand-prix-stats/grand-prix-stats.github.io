@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Maserati 🇮🇹",
-        "date": "1951-07-14",
-        "final_position": "R",
-        "grid": 17,
-        "laps_completed": 23,
-        "name": "1951 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 5,
-        "season": 1951,
-        "teammate": "Philip Fotheringham-Parker 🇬🇧",
-        "teammate_final_position": "R",
-        "teammate_grid": 16,
-        "time": null
-    },
-    {
-        "constructor": "Maserati 🇮🇹",
-        "date": "1951-07-14",
-        "final_position": "R",
-        "grid": 17,
-        "laps_completed": 23,
-        "name": "1951 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 5,
-        "season": 1951,
-        "teammate": "David Murray 🇬🇧",
-        "teammate_final_position": "R",
-        "teammate_grid": 15,
-        "time": null
-    }
+  {
+    "name" : "1951 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "R",
+    "grid" : 17,
+    "date" : "1951-07-14T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1951,
+    "teammate" : "Philip Fotheringham-Parker 🇬🇧",
+    "constructor" : "Maserati 🇮🇹",
+    "round" : 5,
+    "teammate_grid" : 16,
+    "laps_completed" : 23,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1951 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "R",
+    "grid" : 17,
+    "date" : "1951-07-14T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1951,
+    "teammate" : "David Murray 🇬🇧",
+    "constructor" : "Maserati 🇮🇹",
+    "round" : 5,
+    "teammate_grid" : 15,
+    "laps_completed" : 23,
+    "time" : null,
+    "points" : 0
+  }
 ]

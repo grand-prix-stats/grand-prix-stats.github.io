@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1975-07-19",
-        "final_position": "18",
-        "grid": 23,
-        "laps_completed": 50,
-        "name": "1975 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 10,
-        "season": 1975,
-        "teammate": "John Watson 🇬🇧",
-        "teammate_final_position": "11",
-        "teammate_grid": 18,
-        "time": null
-    }
+  {
+    "name" : "1975 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "11",
+    "grid" : 23,
+    "date" : "1975-07-19T00:00:00.000Z",
+    "final_position" : "18",
+    "season" : 1975,
+    "teammate" : "John Watson 🇬🇧",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 10,
+    "teammate_grid" : 18,
+    "laps_completed" : 50,
+    "time" : null,
+    "points" : 0
+  }
 ]

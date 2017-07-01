@@ -1,10 +1,10 @@
 [
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "times": 3
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "times": 1
-    }
+  {
+    "times" : 3,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  }
 ]

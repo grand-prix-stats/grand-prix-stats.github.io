@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Maserati 🇮🇹",
-        "date": "1951-10-28",
-        "final_position": "W",
-        "grid": 18,
-        "laps_completed": 0,
-        "name": "1951 Spanish Grand Prix 🇪🇸",
-        "points": 0.0,
-        "round": 8,
-        "season": 1951,
-        "teammate": "Paco Godia 🇪🇸",
-        "teammate_final_position": "10",
-        "teammate_grid": 17,
-        "time": null
-    },
-    {
-        "constructor": "Maserati 🇮🇹",
-        "date": "1951-10-28",
-        "final_position": "W",
-        "grid": 18,
-        "laps_completed": 0,
-        "name": "1951 Spanish Grand Prix 🇪🇸",
-        "points": 0.0,
-        "round": 8,
-        "season": 1951,
-        "teammate": "Prince Bira 🇹🇭",
-        "teammate_final_position": "R",
-        "teammate_grid": 19,
-        "time": null
-    }
+  {
+    "name" : "1951 Spanish Grand Prix 🇪🇸",
+    "teammate_final_position" : "10",
+    "grid" : 18,
+    "date" : "1951-10-28T00:00:00.000Z",
+    "final_position" : "W",
+    "season" : 1951,
+    "teammate" : "Paco Godia 🇪🇸",
+    "constructor" : "Maserati 🇮🇹",
+    "round" : 8,
+    "teammate_grid" : 17,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1951 Spanish Grand Prix 🇪🇸",
+    "teammate_final_position" : "R",
+    "grid" : 18,
+    "date" : "1951-10-28T00:00:00.000Z",
+    "final_position" : "W",
+    "season" : 1951,
+    "teammate" : "Prince Bira 🇹🇭",
+    "constructor" : "Maserati 🇮🇹",
+    "round" : 8,
+    "teammate_grid" : 19,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

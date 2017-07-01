@@ -1,57 +1,57 @@
 [
-    {
-        "circuit": "Circuit Bremgarten",
-        "date": "1954-08-22",
-        "laps_completed": 66,
-        "name": "1954 Swiss Grand Prix 🇨🇭",
-        "race_duration": "3:00:34.5",
-        "round": 7,
-        "season": 1954,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Juan Fangio 🇦🇷"
-    },
-    {
-        "circuit": "Circuit Bremgarten",
-        "date": "1953-08-23",
-        "laps_completed": 65,
-        "name": "1953 Swiss Grand Prix 🇨🇭",
-        "race_duration": "3:01:34.40",
-        "round": 8,
-        "season": 1953,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
-    },
-    {
-        "circuit": "Circuit Bremgarten",
-        "date": "1952-05-18",
-        "laps_completed": 62,
-        "name": "1952 Swiss Grand Prix 🇨🇭",
-        "race_duration": "3:01:46.1",
-        "round": 1,
-        "season": 1952,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Piero Taruffi 🇮🇹"
-    },
-    {
-        "circuit": "Circuit Bremgarten",
-        "date": "1951-05-27",
-        "laps_completed": 42,
-        "name": "1951 Swiss Grand Prix 🇨🇭",
-        "race_duration": "2:07:53.64",
-        "round": 1,
-        "season": 1951,
-        "winning_constructor": "Alfa Romeo 🇮🇹",
-        "winning_driver": "Juan Fangio 🇦🇷"
-    },
-    {
-        "circuit": "Circuit Bremgarten",
-        "date": "1950-06-04",
-        "laps_completed": 42,
-        "name": "1950 Swiss Grand Prix 🇨🇭",
-        "race_duration": "2:02:53.7",
-        "round": 4,
-        "season": 1950,
-        "winning_constructor": "Alfa Romeo 🇮🇹",
-        "winning_driver": "Nino Farina 🇮🇹"
-    }
+  {
+    "name" : "1954 Swiss Grand Prix 🇨🇭",
+    "race_duration" : "3:00:34.5",
+    "round" : 7,
+    "laps_completed" : 66,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "1954-08-22T00:00:00.000Z",
+    "circuit" : "Circuit Bremgarten",
+    "winning_driver" : "Juan Fangio 🇦🇷",
+    "season" : 1954
+  },
+  {
+    "name" : "1953 Swiss Grand Prix 🇨🇭",
+    "race_duration" : "3:01:34.40",
+    "round" : 8,
+    "laps_completed" : 65,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1953-08-23T00:00:00.000Z",
+    "circuit" : "Circuit Bremgarten",
+    "winning_driver" : "Alberto Ascari 🇮🇹",
+    "season" : 1953
+  },
+  {
+    "name" : "1952 Swiss Grand Prix 🇨🇭",
+    "race_duration" : "3:01:46.1",
+    "round" : 1,
+    "laps_completed" : 62,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1952-05-18T00:00:00.000Z",
+    "circuit" : "Circuit Bremgarten",
+    "winning_driver" : "Piero Taruffi 🇮🇹",
+    "season" : 1952
+  },
+  {
+    "name" : "1951 Swiss Grand Prix 🇨🇭",
+    "race_duration" : "2:07:53.64",
+    "round" : 1,
+    "laps_completed" : 42,
+    "winning_constructor" : "Alfa Romeo 🇮🇹",
+    "date" : "1951-05-27T00:00:00.000Z",
+    "circuit" : "Circuit Bremgarten",
+    "winning_driver" : "Juan Fangio 🇦🇷",
+    "season" : 1951
+  },
+  {
+    "name" : "1950 Swiss Grand Prix 🇨🇭",
+    "race_duration" : "2:02:53.7",
+    "round" : 4,
+    "laps_completed" : 42,
+    "winning_constructor" : "Alfa Romeo 🇮🇹",
+    "date" : "1950-06-04T00:00:00.000Z",
+    "circuit" : "Circuit Bremgarten",
+    "winning_driver" : "Nino Farina 🇮🇹",
+    "season" : 1950
+  }
 ]

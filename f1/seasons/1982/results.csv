@@ -1,0 +1,451 @@
+position,driverref,points,round,country_code,championship_position,championship_points,secondary_color,main_color,driver,country_flag,country
+,serra,0.0,16,us,26,1.0,444444,888888,Chico Serra 🇧🇷,🇺🇸,USA
+,salazar,0.0,16,us,23,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇺🇸,USA
+,fabi,0.0,16,us,35,0.0,444444,888888,Teo Fabi 🇮🇹,🇺🇸,USA
+,jarier,0.0,16,us,20,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇺🇸,USA
+,guerrero,0.0,16,us,31,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇺🇸,USA
+,tambay,0.0,16,us,7,25.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇺🇸,USA
+,laffite,0.0,16,us,18,5.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇺🇸,USA
+,mansell,0.0,16,us,14,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇺🇸,USA
+,patrese,0.0,16,us,10,21.0,444444,243F73,Riccardo Patrese 🇮🇹,🇺🇸,USA
+,arnoux,0.0,16,us,6,28.0,424B52,FDE139,René Arnoux 🇫🇷,🇺🇸,USA
+,piquet,0.0,16,us,11,20.0,444444,243F73,Nelson Piquet 🇧🇷,🇺🇸,USA
+,mario_andretti,0.0,16,us,19,4.0,16191A,EB212E,Mario Andretti 🇺🇸,🇺🇸,USA
+,angelis,0.0,16,us,9,23.0,444444,09630C,Elio de Angelis 🇮🇹,🇺🇸,USA
+,warwick,0.0,16,us,32,0.0,444444,888888,Derek Warwick 🇬🇧,🇺🇸,USA
+,lauda,0.0,16,us,5,30.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇺🇸,USA
+,boesel,0.0,15,it,30,0.0,444444,E53524,Raul Boesel 🇧🇷,🇮🇹,Italy
+,laffite,0.0,1,za,19,0.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇿🇦,South Africa
+,warwick,0.0,1,za,20,0.0,444444,888888,Derek Warwick 🇬🇧,🇿🇦,South Africa
+,patrese,0.0,1,za,21,0.0,444444,243F73,Riccardo Patrese 🇮🇹,🇿🇦,South Africa
+,cheever,0.0,1,za,22,0.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇿🇦,South Africa
+,gilles_villeneuve,0.0,1,za,23,0.0,16191A,EB212E,Gilles Villeneuve 🇨🇦,🇿🇦,South Africa
+,piquet,0.0,1,za,24,0.0,444444,243F73,Nelson Piquet 🇧🇷,🇿🇦,South Africa
+,mansell,0.0,1,za,25,0.0,444444,09630C,Nigel Mansell 🇬🇧,🇿🇦,South Africa
+,jarier,0.0,1,za,26,0.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇿🇦,South Africa
+,baldi,0.0,1,za,27,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇿🇦,South Africa
+,paletti,0.0,1,za,28,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇿🇦,South Africa
+,henton,0.0,1,za,29,0.0,444444,FFA500,Brian Henton 🇬🇧,🇿🇦,South Africa
+,guerrero,0.0,1,za,30,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇿🇦,South Africa
+,fabi,0.0,1,za,31,0.0,444444,888888,Teo Fabi 🇮🇹,🇿🇦,South Africa
+,manfred_winkelhock,0.0,15,it,24,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇮🇹,Italy
+,keegan,0.0,15,it,38,0.0,444444,E53524,Rupert Keegan 🇬🇧,🇮🇹,Italy
+,henton,0.0,15,it,27,0.0,444444,274B72,Brian Henton 🇬🇧,🇮🇹,Italy
+,warwick,0.0,15,it,32,0.0,444444,888888,Derek Warwick 🇬🇧,🇮🇹,Italy
+,daly,0.0,15,it,14,7.0,082957,EAE4ED,Derek Daly 🇮🇪,🇮🇹,Italy
+,fabi,0.0,15,it,34,0.0,444444,888888,Teo Fabi 🇮🇹,🇮🇹,Italy
+,laffite,0.0,15,it,17,5.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇮🇹,Italy
+,patrese,0.0,15,it,9,21.0,444444,243F73,Riccardo Patrese 🇮🇹,🇮🇹,Italy
+,piquet,0.0,15,it,10,20.0,444444,243F73,Nelson Piquet 🇧🇷,🇮🇹,Italy
+,jarier,0.0,15,it,20,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇮🇹,Italy
+,piquet,0.0,2,br,27,0.0,444444,243F73,Nelson Piquet 🇧🇷,🇧🇷,Brazil
+,keke_rosberg,0.0,2,br,9,2.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇧🇷,Brazil
+,salazar,0.0,2,br,14,0.0,444444,888888,Eliseo Salazar 🇨🇱,🇧🇷,Brazil
+,serra,0.0,2,br,21,0.0,444444,888888,Chico Serra 🇧🇷,🇧🇷,Brazil
+,patrese,0.0,2,br,22,0.0,444444,243F73,Riccardo Patrese 🇮🇹,🇧🇷,Brazil
+,gilles_villeneuve,0.0,2,br,23,0.0,16191A,EB212E,Gilles Villeneuve 🇨🇦,🇧🇷,Brazil
+,lauda,0.0,2,br,7,3.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇧🇷,Brazil
+,arnoux,0.0,2,br,4,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇧🇷,Brazil
+,reutemann,0.0,2,br,3,6.0,082957,EAE4ED,Carlos Reutemann 🇦🇷,🇧🇷,Brazil
+,angelis,0.0,2,br,13,0.0,444444,09630C,Elio de Angelis 🇮🇹,🇧🇷,Brazil
+,cheever,0.0,2,br,26,0.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇧🇷,Brazil
+,giacomelli,0.0,2,br,17,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇧🇷,Brazil
+,laffite,0.0,2,br,24,0.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇧🇷,Brazil
+,cesaris,0.0,2,br,18,0.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇧🇷,Brazil
+,boesel,0.0,2,br,20,0.0,444444,E53524,Raul Boesel 🇧🇷,🇧🇷,Brazil
+,fabi,0.0,2,br,28,0.0,444444,888888,Teo Fabi 🇮🇹,🇧🇷,Brazil
+,henton,0.0,2,br,29,0.0,444444,FFA500,Brian Henton 🇬🇧,🇧🇷,Brazil
+,warwick,0.0,2,br,25,0.0,444444,888888,Derek Warwick 🇬🇧,🇧🇷,Brazil
+,guerrero,0.0,2,br,31,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇧🇷,Brazil
+,paletti,0.0,2,br,30,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇧🇷,Brazil
+,lauda,0.0,15,it,5,30.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇮🇹,Italy
+,prost,0.0,15,it,4,31.0,424B52,FDE139,Alain Prost 🇫🇷,🇮🇹,Italy
+,surer,0.0,15,it,21,3.0,444444,FFA500,Marc Surer 🇨🇭,🇮🇹,Italy
+,giacomelli,0.0,15,it,22,2.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇮🇹,Italy
+,angelis,0.0,15,it,8,23.0,444444,09630C,Elio de Angelis 🇮🇹,🇮🇹,Italy
+,guerrero,0.0,15,it,31,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇮🇹,Italy
+,baldi,0.0,14,fr,24,2.0,444444,FFA500,Mauro Baldi 🇮🇹,🇫🇷,France
+,serra,0.0,14,fr,25,1.0,444444,888888,Chico Serra 🇧🇷,🇫🇷,France
+,tambay,0.0,14,fr,10,19.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇫🇷,France
+,guerrero,0.0,14,fr,30,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇫🇷,France
+,gilles_villeneuve,0.0,3,us,27,0.0,16191A,EB212E,Gilles Villeneuve 🇨🇦,🇺🇸,USA
+,cheever,0.0,3,us,23,0.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇺🇸,USA
+,cesaris,0.0,3,us,20,0.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇺🇸,USA
+,henton,0.0,3,us,24,0.0,444444,FFA500,Brian Henton 🇬🇧,🇺🇸,USA
+,guerrero,0.0,3,us,25,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇺🇸,USA
+,laffite,0.0,3,us,26,0.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇺🇸,USA
+,jarier,0.0,3,us,17,0.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇺🇸,USA
+,piquet,0.0,3,us,28,0.0,444444,243F73,Nelson Piquet 🇧🇷,🇺🇸,USA
+,mario_andretti,0.0,3,us,30,0.0,082957,EAE4ED,Mario Andretti 🇺🇸,🇺🇸,USA
+,prost,0.0,3,us,1,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇺🇸,USA
+,pironi,0.0,3,us,12,1.0,16191A,EB212E,Didier Pironi 🇫🇷,🇺🇸,USA
+,arnoux,0.0,3,us,9,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇺🇸,USA
+,giacomelli,0.0,3,us,19,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇺🇸,USA
+,salazar,0.0,3,us,16,0.0,444444,888888,Eliseo Salazar 🇨🇱,🇺🇸,USA
+,manfred_winkelhock,0.0,3,us,11,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇺🇸,USA
+,fabi,0.0,3,us,31,0.0,444444,888888,Teo Fabi 🇮🇹,🇺🇸,USA
+,paletti,0.0,3,us,32,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇺🇸,USA
+,serra,0.0,3,us,22,0.0,444444,888888,Chico Serra 🇧🇷,🇺🇸,USA
+,baldi,0.0,3,us,18,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇺🇸,USA
+,warwick,0.0,3,us,29,0.0,444444,888888,Derek Warwick 🇬🇧,🇺🇸,USA
+,warwick,0.0,14,fr,31,0.0,444444,888888,Derek Warwick 🇬🇧,🇫🇷,France
+,keegan,0.0,14,fr,38,0.0,444444,E53524,Rupert Keegan 🇬🇧,🇫🇷,France
+,boesel,0.0,14,fr,29,0.0,444444,E53524,Raul Boesel 🇧🇷,🇫🇷,France
+,fabi,0.0,14,fr,33,0.0,444444,888888,Teo Fabi 🇮🇹,🇫🇷,France
+,laffite,0.0,14,fr,17,5.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇫🇷,France
+,manfred_winkelhock,0.0,4,it,15,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇮🇹,Italy
+,fabi,0.0,4,it,24,0.0,444444,888888,Teo Fabi 🇮🇹,🇮🇹,Italy
+,arnoux,0.0,4,it,10,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇮🇹,Italy
+,giacomelli,0.0,4,it,20,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇮🇹,Italy
+,paletti,0.0,4,it,25,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇮🇹,Italy
+,prost,0.0,4,it,1,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇮🇹,Italy
+,cesaris,0.0,4,it,21,0.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇮🇹,Italy
+,henton,0.0,4,it,27,0.0,444444,274B72,Brian Henton 🇬🇧,🇮🇹,Italy
+,warwick,0.0,4,it,28,0.0,444444,888888,Derek Warwick 🇬🇧,🇮🇹,Italy
+,jarier,0.0,14,fr,19,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇫🇷,France
+,manfred_winkelhock,0.0,14,fr,23,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇫🇷,France
+,cheever,0.0,14,fr,12,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇫🇷,France
+,salazar,0.0,13,at,22,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇦🇹,Austria
+,jarier,0.0,13,at,19,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇦🇹,Austria
+,boesel,0.0,13,at,29,0.0,444444,E53524,Raul Boesel 🇧🇷,🇦🇹,Austria
+,giacomelli,0.0,13,at,21,2.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇦🇹,Austria
+,cesaris,0.0,13,at,18,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇦🇹,Austria
+,daly,0.0,13,at,14,7.0,082957,EAE4ED,Derek Daly 🇮🇪,🇦🇹,Austria
+,lauda,0.0,5,be,4,12.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇧🇪,Belgium
+,daly,0.0,5,be,27,0.0,082957,EAE4ED,Derek Daly 🇮🇪,🇧🇪,Belgium
+,mass,0.0,5,be,21,0.0,444444,E53524,Jochen Mass 🇩🇪,🇧🇪,Belgium
+,prost,0.0,5,be,1,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇧🇪,Belgium
+,patrese,0.0,5,be,13,4.0,444444,243F73,Riccardo Patrese 🇮🇹,🇧🇪,Belgium
+,baldi,0.0,5,be,24,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇧🇪,Belgium
+,jarier,0.0,5,be,14,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇧🇪,Belgium
+,cesaris,0.0,5,be,26,0.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇧🇪,Belgium
+,henton,0.0,5,be,30,0.0,444444,274B72,Brian Henton 🇬🇧,🇧🇪,Belgium
+,alboreto,0.0,5,be,6,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇧🇪,Belgium
+,warwick,0.0,5,be,31,0.0,444444,888888,Derek Warwick 🇬🇧,🇧🇪,Belgium
+,fabi,0.0,5,be,28,0.0,444444,888888,Teo Fabi 🇮🇹,🇧🇪,Belgium
+,mansell,0.0,5,be,10,4.0,444444,09630C,Nigel Mansell 🇬🇧,🇧🇪,Belgium
+,arnoux,0.0,5,be,11,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇧🇪,Belgium
+,manfred_winkelhock,0.0,5,be,16,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇧🇪,Belgium
+,giacomelli,0.0,5,be,25,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇧🇪,Belgium
+,salazar,0.0,5,be,15,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇧🇪,Belgium
+,pironi,0.0,5,be,5,10.0,16191A,EB212E,Didier Pironi 🇫🇷,🇧🇪,Belgium
+,gilles_villeneuve,0.0,5,be,7,6.0,16191A,EB212E,Gilles Villeneuve 🇨🇦,🇧🇪,Belgium
+,guerrero,0.0,5,be,32,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇧🇪,Belgium
+,paletti,0.0,5,be,29,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇧🇪,Belgium
+,villota,0.0,5,be,35,0.0,444444,E53524,Emilio de Villota 🇪🇸,🇧🇪,Belgium
+,keegan,0.0,13,at,38,0.0,444444,E53524,Rupert Keegan 🇬🇧,🇦🇹,Austria
+,alboreto,0.0,13,at,11,14.0,444444,274B72,Michele Alboreto 🇮🇹,🇦🇹,Austria
+,guerrero,0.0,13,at,30,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇦🇹,Austria
+,fabi,0.0,13,at,33,0.0,444444,888888,Teo Fabi 🇮🇹,🇦🇹,Austria
+,warwick,0.0,13,at,31,0.0,444444,888888,Derek Warwick 🇬🇧,🇦🇹,Austria
+,manfred_winkelhock,0.0,13,at,23,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇦🇹,Austria
+,arnoux,0.0,13,at,7,19.0,424B52,FDE139,René Arnoux 🇫🇷,🇦🇹,Austria
+,mansell,0.0,13,at,13,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇦🇹,Austria
+,cheever,0.0,13,at,12,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇦🇹,Austria
+,patrese,0.0,13,at,8,19.0,444444,243F73,Riccardo Patrese 🇮🇹,🇦🇹,Austria
+,keke_rosberg,0.0,6,mc,4,14.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇲🇨,Monaco
+,lauda,0.0,6,mc,6,12.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇲🇨,Monaco
+,piquet,0.0,6,mc,18,2.0,444444,243F73,Nelson Piquet 🇧🇷,🇲🇨,Monaco
+,watson,0.0,6,mc,2,17.0,0D1D20,FCA13B,John Watson 🇬🇧,🇲🇨,Monaco
+,manfred_winkelhock,0.0,6,mc,17,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇲🇨,Monaco
+,laffite,0.0,6,mc,26,0.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇲🇨,Monaco
+,cheever,0.0,6,mc,14,4.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇲🇨,Monaco
+,salazar,0.0,6,mc,16,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇲🇨,Monaco
+,arnoux,0.0,6,mc,13,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇲🇨,Monaco
+,giacomelli,0.0,6,mc,28,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇲🇨,Monaco
+,baldi,0.0,6,mc,27,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇲🇨,Monaco
+,mass,0.0,6,mc,23,0.0,444444,E53524,Jochen Mass 🇩🇪,🇲🇨,Monaco
+,warwick,0.0,6,mc,31,0.0,444444,888888,Derek Warwick 🇬🇧,🇲🇨,Monaco
+,jarier,0.0,6,mc,15,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇲🇨,Monaco
+,guerrero,0.0,6,mc,32,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇲🇨,Monaco
+,fabi,0.0,6,mc,29,0.0,444444,888888,Teo Fabi 🇮🇹,🇲🇨,Monaco
+,paletti,0.0,6,mc,30,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇲🇨,Monaco
+,boesel,0.0,6,mc,24,0.0,444444,E53524,Raul Boesel 🇧🇷,🇲🇨,Monaco
+,serra,0.0,6,mc,20,1.0,444444,888888,Chico Serra 🇧🇷,🇲🇨,Monaco
+,villota,0.0,6,mc,35,0.0,444444,E53524,Emilio de Villota 🇪🇸,🇲🇨,Monaco
+,surer,0.0,13,at,20,3.0,444444,FFA500,Marc Surer 🇨🇭,🇦🇹,Austria
+,piquet,0.0,13,at,10,17.0,444444,243F73,Nelson Piquet 🇧🇷,🇦🇹,Austria
+,henton,0.0,13,at,26,0.0,444444,274B72,Brian Henton 🇬🇧,🇦🇹,Austria
+,fabi,0.0,12,de,33,0.0,444444,888888,Teo Fabi 🇮🇹,🇩🇪,Germany
+,keegan,0.0,12,de,39,0.0,444444,E53524,Rupert Keegan 🇬🇧,🇩🇪,Germany
+,pironi,0.0,12,de,1,39.0,16191A,EB212E,Didier Pironi 🇫🇷,🇩🇪,Germany
+,manfred_winkelhock,0.0,12,de,22,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇩🇪,Germany
+,jarier,0.0,12,de,18,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇩🇪,Germany
+,baldi,0.0,12,de,23,1.0,444444,FFA500,Mauro Baldi 🇮🇹,🇩🇪,Germany
+,cheever,0.0,12,de,12,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇩🇪,Germany
+,cesaris,0.0,12,de,17,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇩🇪,Germany
+,prost,0.0,7,us,3,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇺🇸,USA
+,mansell,0.0,7,us,9,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇺🇸,USA
+,lauda,0.0,7,us,6,12.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇺🇸,USA
+,alboreto,0.0,7,us,8,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇺🇸,USA
+,giacomelli,0.0,7,us,28,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇺🇸,USA
+,angelis,0.0,7,us,10,7.0,444444,09630C,Elio de Angelis 🇮🇹,🇺🇸,USA
+,salazar,0.0,7,us,17,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇺🇸,USA
+,guerrero,0.0,7,us,32,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇺🇸,USA
+,patrese,0.0,7,us,5,13.0,444444,243F73,Riccardo Patrese 🇮🇹,🇺🇸,USA
+,cesaris,0.0,7,us,14,4.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇺🇸,USA
+,jarier,0.0,7,us,15,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇺🇸,USA
+,manfred_winkelhock,0.0,7,us,18,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇺🇸,USA
+,boesel,0.0,7,us,25,0.0,444444,E53524,Raul Boesel 🇧🇷,🇺🇸,USA
+,baldi,0.0,7,us,27,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇺🇸,USA
+,paletti,0.0,7,us,30,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇺🇸,USA
+,villota,0.0,7,us,35,0.0,444444,E53524,Emilio de Villota 🇪🇸,🇺🇸,USA
+,piquet,0.0,7,us,19,2.0,444444,243F73,Nelson Piquet 🇧🇷,🇺🇸,USA
+,patrese,0.0,12,de,7,19.0,444444,243F73,Riccardo Patrese 🇮🇹,🇩🇪,Germany
+,prost,0.0,12,de,4,25.0,424B52,FDE139,Alain Prost 🇫🇷,🇩🇪,Germany
+,salazar,0.0,12,de,21,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇩🇪,Germany
+,piquet,0.0,12,de,8,17.0,444444,243F73,Nelson Piquet 🇧🇷,🇩🇪,Germany
+,angelis,0.0,12,de,11,13.0,444444,09630C,Elio de Angelis 🇮🇹,🇩🇪,Germany
+,boesel,0.0,12,de,29,0.0,444444,E53524,Raul Boesel 🇧🇷,🇩🇪,Germany
+,daly,0.0,12,de,14,7.0,082957,EAE4ED,Derek Daly 🇮🇪,🇩🇪,Germany
+,laffite,0.0,12,de,24,1.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇩🇪,Germany
+,watson,0.0,12,de,2,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇩🇪,Germany
+,boesel,0.0,11,fr,29,0.0,444444,E53524,Raul Boesel 🇧🇷,🇫🇷,France
+,guerrero,0.0,11,fr,34,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇫🇷,France
+,henton,0.0,8,ca,26,0.0,444444,274B72,Brian Henton 🇬🇧,🇨🇦,Canada
+,keke_rosberg,0.0,8,ca,5,17.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇨🇦,Canada
+,boesel,0.0,8,ca,25,0.0,444444,E53524,Raul Boesel 🇧🇷,🇨🇦,Canada
+,alboreto,0.0,8,ca,9,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇨🇦,Canada
+,prost,0.0,8,ca,4,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇨🇦,Canada
+,arnoux,0.0,8,ca,15,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇨🇦,Canada
+,salazar,0.0,8,ca,19,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇨🇦,Canada
+,lauda,0.0,8,ca,6,12.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇨🇦,Canada
+,laffite,0.0,8,ca,21,1.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇨🇦,Canada
+,guerrero,0.0,8,ca,32,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇨🇦,Canada
+,giacomelli,0.0,8,ca,28,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇨🇦,Canada
+,mansell,0.0,8,ca,11,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇨🇦,Canada
+,jarier,0.0,8,ca,16,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇨🇦,Canada
+,paletti,0.0,8,ca,30,0.0,444444,888888,Riccardo Paletti 🇮🇹,🇨🇦,Canada
+,manfred_winkelhock,0.0,8,ca,20,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇨🇦,Canada
+,villota,0.0,8,ca,36,0.0,444444,E53524,Emilio de Villota 🇪🇸,🇨🇦,Canada
+,serra,0.0,8,ca,22,1.0,444444,888888,Chico Serra 🇧🇷,🇨🇦,Canada
+,fabi,0.0,11,fr,32,0.0,444444,888888,Teo Fabi 🇮🇹,🇫🇷,France
+,jarier,0.0,11,fr,18,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇫🇷,France
+,salazar,0.0,11,fr,20,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇫🇷,France
+,patrese,0.0,11,fr,6,19.0,444444,243F73,Riccardo Patrese 🇮🇹,🇫🇷,France
+,baldi,0.0,11,fr,22,1.0,444444,FFA500,Mauro Baldi 🇮🇹,🇫🇷,France
+,mass,0.0,11,fr,25,0.0,444444,E53524,Jochen Mass 🇩🇪,🇫🇷,France
+,watson,0.0,11,fr,2,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇫🇷,France
+,angelis,0.0,11,fr,9,13.0,444444,09630C,Elio de Angelis 🇮🇹,🇫🇷,France
+,piquet,0.0,11,fr,7,17.0,444444,243F73,Nelson Piquet 🇧🇷,🇫🇷,France
+,cesaris,0.0,11,fr,17,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇫🇷,France
+,boesel,0.0,10,gb,29,0.0,444444,E53524,Raul Boesel 🇧🇷,🇬🇧,UK
+,salazar,0.0,10,gb,20,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇬🇧,UK
+,manfred_winkelhock,0.0,10,gb,21,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇬🇧,UK
+,fabi,0.0,10,gb,30,0.0,444444,888888,Teo Fabi 🇮🇹,🇬🇧,UK
+,arnoux,0.0,10,gb,17,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇬🇧,UK
+,mass,0.0,9,nl,24,0.0,444444,E53524,Jochen Mass 🇩🇪,🇳🇱,Netherlands
+,angelis,0.0,9,nl,10,10.0,444444,09630C,Elio de Angelis 🇮🇹,🇳🇱,Netherlands
+,cesaris,0.0,9,nl,14,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇳🇱,Netherlands
+,prost,0.0,9,nl,5,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇳🇱,Netherlands
+,arnoux,0.0,9,nl,16,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇳🇱,Netherlands
+,henton,0.0,9,nl,27,0.0,444444,274B72,Brian Henton 🇬🇧,🇳🇱,Netherlands
+,boesel,0.0,9,nl,26,0.0,444444,E53524,Raul Boesel 🇧🇷,🇳🇱,Netherlands
+,serra,0.0,9,nl,23,1.0,444444,888888,Chico Serra 🇧🇷,🇳🇱,Netherlands
+,warwick,0.0,9,nl,32,0.0,444444,888888,Derek Warwick 🇬🇧,🇳🇱,Netherlands
+,laffite,0.0,9,nl,22,1.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇳🇱,Netherlands
+,guerrero,0.0,9,nl,33,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇳🇱,Netherlands
+,fabi,0.0,9,nl,30,0.0,444444,888888,Teo Fabi 🇮🇹,🇳🇱,Netherlands
+,cheever,0.0,9,nl,8,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇳🇱,Netherlands
+,moreno,0.0,9,nl,38,0.0,444444,09630C,Roberto Moreno 🇧🇷,🇳🇱,Netherlands
+,villota,0.0,9,nl,37,0.0,444444,E53524,Emilio de Villota 🇪🇸,🇳🇱,Netherlands
+,patrese,0.0,10,gb,6,19.0,444444,243F73,Riccardo Patrese 🇮🇹,🇬🇧,UK
+,watson,0.0,10,gb,2,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇬🇧,UK
+,serra,0.0,10,gb,24,1.0,444444,888888,Chico Serra 🇧🇷,🇬🇧,UK
+,jarier,0.0,10,gb,18,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇬🇧,UK
+,guerrero,0.0,10,gb,33,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇬🇧,UK
+,piquet,0.0,10,gb,7,17.0,444444,243F73,Nelson Piquet 🇧🇷,🇬🇧,UK
+,mansell,0.0,10,gb,11,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇬🇧,UK
+,warwick,0.0,10,gb,32,0.0,444444,888888,Derek Warwick 🇬🇧,🇬🇧,UK
+,laffite,0.0,10,gb,23,1.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇬🇧,UK
+,alboreto,0.0,10,gb,10,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇬🇧,UK
+,cesaris,0.0,10,gb,15,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇬🇧,UK
+,cheever,0.0,10,gb,9,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇬🇧,UK
+,surer,0.0,10,gb,19,2.0,444444,FFA500,Marc Surer 🇨🇭,🇬🇧,UK
+,keke_rosberg,0.0,10,gb,4,21.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇬🇧,UK
+,manfred_winkelhock,0.0,16,us,24,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇺🇸,USA
+1,patrese,9.0,6,mc,5,13.0,444444,243F73,Riccardo Patrese 🇮🇹,🇲🇨,Monaco
+1,alboreto,9.0,16,us,8,25.0,444444,274B72,Michele Alboreto 🇮🇹,🇺🇸,USA
+1,prost,9.0,2,br,1,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇧🇷,Brazil
+1,lauda,9.0,3,us,2,12.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇺🇸,USA
+1,arnoux,9.0,15,it,6,28.0,424B52,FDE139,René Arnoux 🇫🇷,🇮🇹,Italy
+1,pironi,9.0,4,it,3,10.0,16191A,EB212E,Didier Pironi 🇫🇷,🇮🇹,Italy
+1,watson,9.0,5,be,2,17.0,0D1D20,FCA13B,John Watson 🇬🇧,🇧🇪,Belgium
+1,keke_rosberg,9.0,14,fr,1,42.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇫🇷,France
+1,watson,9.0,7,us,1,26.0,0D1D20,FCA13B,John Watson 🇬🇧,🇺🇸,USA
+1,lauda,9.0,10,gb,3,24.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇬🇧,UK
+1,angelis,9.0,13,at,6,22.0,444444,09630C,Elio de Angelis 🇮🇹,🇦🇹,Austria
+1,piquet,9.0,8,ca,7,11.0,444444,243F73,Nelson Piquet 🇧🇷,🇨🇦,Canada
+1,tambay,9.0,12,de,9,16.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇩🇪,Germany
+1,pironi,9.0,9,nl,2,29.0,16191A,EB212E,Didier Pironi 🇫🇷,🇳🇱,Netherlands
+1,prost,9.0,1,za,1,9.0,424B52,FDE139,Alain Prost 🇫🇷,🇿🇦,South Africa
+1,arnoux,9.0,11,fr,8,13.0,424B52,FDE139,René Arnoux 🇫🇷,🇫🇷,France
+10,baldi,0.0,2,br,16,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇧🇷,Brazil
+10,manfred_winkelhock,0.0,1,za,10,0.0,444444,888888,Manfred Winkelhock 🇩🇪,🇿🇦,South Africa
+10,cheever,0.0,8,ca,8,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇨🇦,Canada
+10,warwick,0.0,12,de,31,0.0,444444,888888,Derek Warwick 🇬🇧,🇩🇪,Germany
+10,giacomelli,0.0,16,us,22,2.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇺🇸,USA
+10,cesaris,0.0,15,it,18,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇮🇹,Italy
+10,arnoux,0.0,7,us,13,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇺🇸,USA
+10,alboreto,0.0,6,mc,7,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇲🇨,Monaco
+10,henton,0.0,11,fr,28,0.0,444444,274B72,Brian Henton 🇬🇧,🇫🇷,France
+10,surer,0.0,9,nl,18,2.0,444444,FFA500,Marc Surer 🇨🇭,🇳🇱,Netherlands
+10,cesaris,0.0,14,fr,18,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇫🇷,France
+10,borgudd,0.0,3,us,13,0.0,444444,274B72,Slim Borgudd 🇸🇪,🇺🇸,USA
+10,mass,0.0,10,gb,25,0.0,444444,E53524,Jochen Mass 🇩🇪,🇬🇧,UK
+11,henton,0.0,14,fr,26,0.0,444444,274B72,Brian Henton 🇬🇧,🇫🇷,France
+11,manfred_winkelhock,0.0,11,fr,21,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇫🇷,France
+11,serra,0.0,7,us,21,1.0,444444,888888,Chico Serra 🇧🇷,🇺🇸,USA
+11,baldi,0.0,16,us,25,2.0,444444,FFA500,Mauro Baldi 🇮🇹,🇺🇸,USA
+11,serra,0.0,12,de,25,1.0,444444,888888,Chico Serra 🇧🇷,🇩🇪,Germany
+11,giacomelli,0.0,9,nl,29,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇳🇱,Netherlands
+11,mass,0.0,8,ca,23,0.0,444444,E53524,Jochen Mass 🇩🇪,🇨🇦,Canada
+11,giacomelli,0.0,1,za,11,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇿🇦,South Africa
+11,serra,0.0,15,it,26,1.0,444444,888888,Chico Serra 🇧🇷,🇮🇹,Italy
+12,lees,0.0,11,fr,30,0.0,444444,09630C,Geoff Lees 🇬🇧,🇫🇷,France
+12,keegan,0.0,16,us,33,0.0,444444,E53524,Rupert Keegan 🇬🇧,🇺🇸,USA
+12,giacomelli,0.0,14,fr,21,2.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇫🇷,France
+12,mass,0.0,1,za,12,0.0,444444,E53524,Jochen Mass 🇩🇪,🇿🇦,South Africa
+12,baldi,0.0,15,it,25,2.0,444444,FFA500,Mauro Baldi 🇮🇹,🇮🇹,Italy
+12,manfred_winkelhock,0.0,9,nl,20,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇳🇱,Netherlands
+13,salazar,0.0,9,nl,19,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇳🇱,Netherlands
+13,boesel,0.0,16,us,30,0.0,444444,E53524,Raul Boesel 🇧🇷,🇺🇸,USA
+13,surer,0.0,11,fr,19,2.0,444444,FFA500,Marc Surer 🇨🇭,🇫🇷,France
+13,cesaris,0.0,1,za,13,0.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇿🇦,South Africa
+13,watson,0.0,14,fr,4,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇫🇷,France
+14,salazar,0.0,14,fr,22,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇫🇷,France
+14,jarier,0.0,9,nl,17,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇳🇱,Netherlands
+14,laffite,0.0,11,fr,23,1.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇫🇷,France
+15,surer,0.0,14,fr,20,3.0,444444,FFA500,Marc Surer 🇨🇭,🇫🇷,France
+15,warwick,0.0,11,fr,31,0.0,444444,888888,Derek Warwick 🇬🇧,🇫🇷,France
+15,patrese,0.0,9,nl,4,19.0,444444,243F73,Riccardo Patrese 🇮🇹,🇳🇱,Netherlands
+15,boesel,0.0,1,za,15,0.0,444444,E53524,Raul Boesel 🇧🇷,🇿🇦,South Africa
+16,arnoux,0.0,14,fr,9,19.0,424B52,FDE139,René Arnoux 🇫🇷,🇫🇷,France
+16,cheever,0.0,11,fr,11,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇫🇷,France
+16,borgudd,0.0,1,za,16,0.0,444444,274B72,Slim Borgudd 🇸🇪,🇿🇦,South Africa
+17,serra,0.0,1,za,17,0.0,444444,888888,Chico Serra 🇧🇷,🇿🇦,South Africa
+18,pironi,0.0,1,za,18,0.0,16191A,EB212E,Didier Pironi 🇫🇷,🇿🇦,South Africa
+2,prost,6.0,11,fr,3,25.0,424B52,FDE139,Alain Prost 🇫🇷,🇫🇷,France
+2,patrese,6.0,8,ca,3,19.0,444444,243F73,Riccardo Patrese 🇮🇹,🇨🇦,Canada
+2,arnoux,6.0,12,de,6,19.0,424B52,FDE139,René Arnoux 🇫🇷,🇩🇪,Germany
+2,reutemann,6.0,1,za,2,6.0,082957,EAE4ED,Carlos Reutemann 🇦🇷,🇿🇦,South Africa
+2,pironi,6.0,6,mc,3,16.0,16191A,EB212E,Didier Pironi 🇫🇷,🇲🇨,Monaco
+2,prost,6.0,14,fr,3,31.0,424B52,FDE139,Alain Prost 🇫🇷,🇫🇷,France
+2,keke_rosberg,6.0,5,be,3,14.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇧🇪,Belgium
+2,watson,6.0,16,us,3,39.0,0D1D20,FCA13B,John Watson 🇬🇧,🇺🇸,USA
+2,watson,6.0,2,br,2,7.0,0D1D20,FCA13B,John Watson 🇬🇧,🇧🇷,Brazil
+2,gilles_villeneuve,6.0,4,it,7,6.0,16191A,EB212E,Gilles Villeneuve 🇨🇦,🇮🇹,Italy
+2,tambay,6.0,15,it,7,25.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇮🇹,Italy
+2,keke_rosberg,6.0,13,at,2,33.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇦🇹,Austria
+2,pironi,6.0,10,gb,1,35.0,16191A,EB212E,Didier Pironi 🇫🇷,🇬🇧,UK
+2,keke_rosberg,6.0,3,us,3,8.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇺🇸,USA
+2,cheever,6.0,7,us,7,10.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇺🇸,USA
+2,piquet,6.0,9,nl,6,17.0,444444,243F73,Nelson Piquet 🇧🇷,🇳🇱,Netherlands
+3,watson,4.0,8,ca,1,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇨🇦,Canada
+3,keke_rosberg,4.0,12,de,3,27.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇩🇪,Germany
+3,mario_andretti,4.0,15,it,19,4.0,16191A,EB212E,Mario Andretti 🇺🇸,🇮🇹,Italy
+3,pironi,4.0,7,us,2,20.0,16191A,EB212E,Didier Pironi 🇫🇷,🇺🇸,USA
+3,patrese,4.0,3,us,8,4.0,444444,243F73,Riccardo Patrese 🇮🇹,🇺🇸,USA
+3,laffite,4.0,13,at,17,5.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇦🇹,Austria
+3,keke_rosberg,4.0,9,nl,3,21.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇳🇱,Netherlands
+3,mansell,4.0,2,br,5,4.0,444444,09630C,Nigel Mansell 🇬🇧,🇧🇷,Brazil
+3,alboreto,4.0,4,it,4,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇮🇹,Italy
+3,cheever,4.0,16,us,12,15.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇺🇸,USA
+3,cheever,4.0,5,be,12,4.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇧🇪,Belgium
+3,lauda,4.0,14,fr,5,30.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇫🇷,France
+3,pironi,4.0,11,fr,1,39.0,16191A,EB212E,Didier Pironi 🇫🇷,🇫🇷,France
+3,cesaris,4.0,6,mc,12,4.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇲🇨,Monaco
+3,arnoux,4.0,1,za,3,4.0,424B52,FDE139,René Arnoux 🇫🇷,🇿🇦,South Africa
+3,tambay,4.0,10,gb,16,4.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇬🇧,UK
+4,lauda,3.0,9,nl,7,15.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇳🇱,Netherlands
+4,angelis,3.0,8,ca,10,10.0,444444,09630C,Elio de Angelis 🇮🇹,🇨🇦,Canada
+4,lauda,3.0,1,za,4,3.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇿🇦,South Africa
+4,alboreto,3.0,2,br,6,3.0,444444,274B72,Michele Alboreto 🇮🇹,🇧🇷,Brazil
+4,alboreto,3.0,12,de,10,14.0,444444,274B72,Michele Alboreto 🇮🇹,🇩🇪,Germany
+4,angelis,3.0,5,be,9,5.0,444444,09630C,Elio de Angelis 🇮🇹,🇧🇪,Belgium
+4,tambay,3.0,11,fr,13,7.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇫🇷,France
+4,mansell,3.0,6,mc,8,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇲🇨,Monaco
+4,jarier,3.0,4,it,12,3.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇮🇹,Italy
+4,piquet,3.0,14,fr,8,20.0,444444,243F73,Nelson Piquet 🇧🇷,🇫🇷,France
+4,angelis,3.0,10,gb,8,13.0,444444,09630C,Elio de Angelis 🇮🇹,🇬🇧,UK
+4,alboreto,3.0,3,us,6,6.0,444444,274B72,Michele Alboreto 🇮🇹,🇺🇸,USA
+4,tambay,3.0,13,at,9,19.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇦🇹,Austria
+4,prost,3.0,16,us,4,34.0,424B52,FDE139,Alain Prost 🇫🇷,🇺🇸,USA
+4,keke_rosberg,3.0,7,us,4,17.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇺🇸,USA
+4,watson,3.0,15,it,3,33.0,0D1D20,FCA13B,John Watson 🇬🇧,🇮🇹,Italy
+5,daly,2.0,9,nl,15,5.0,082957,EAE4ED,Derek Daly 🇮🇪,🇳🇱,Netherlands
+5,keke_rosberg,2.0,1,za,5,2.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇿🇦,South Africa
+5,manfred_winkelhock,2.0,2,br,8,2.0,444444,888888,Manfred Winkelhock 🇩🇪,🇧🇷,Brazil
+5,surer,2.0,8,ca,18,2.0,444444,FFA500,Marc Surer 🇨🇭,🇨🇦,Canada
+5,keke_rosberg,2.0,16,us,1,44.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇺🇸,USA
+5,giacomelli,2.0,12,de,20,2.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇩🇪,Germany
+5,lauda,2.0,13,at,4,26.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇦🇹,Austria
+5,keke_rosberg,2.0,11,fr,5,23.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇫🇷,France
+5,patrese,2.0,14,fr,7,21.0,444444,243F73,Riccardo Patrese 🇮🇹,🇫🇷,France
+5,salazar,2.0,4,it,14,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇮🇹,Italy
+5,angelis,2.0,6,mc,9,7.0,444444,09630C,Elio de Angelis 🇮🇹,🇲🇨,Monaco
+5,angelis,2.0,3,us,10,2.0,444444,09630C,Elio de Angelis 🇮🇹,🇺🇸,USA
+5,alboreto,2.0,15,it,11,16.0,444444,274B72,Michele Alboreto 🇮🇹,🇮🇹,Italy
+5,daly,2.0,10,gb,12,7.0,082957,EAE4ED,Derek Daly 🇮🇪,🇬🇧,UK
+5,piquet,2.0,5,be,17,2.0,444444,243F73,Nelson Piquet 🇧🇷,🇧🇪,Belgium
+5,daly,2.0,7,us,16,3.0,082957,EAE4ED,Derek Daly 🇮🇪,🇺🇸,USA
+6,alboreto,1.0,11,fr,10,11.0,444444,274B72,Michele Alboreto 🇮🇹,🇫🇷,France
+6,laffite,1.0,7,us,20,1.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇺🇸,USA
+6,prost,1.0,10,gb,5,19.0,424B52,FDE139,Alain Prost 🇫🇷,🇬🇧,UK
+6,cesaris,1.0,8,ca,14,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇨🇦,Canada
+6,daly,1.0,16,us,13,8.0,082957,EAE4ED,Derek Daly 🇮🇪,🇺🇸,USA
+6,serra,1.0,5,be,18,1.0,444444,888888,Chico Serra 🇧🇷,🇧🇪,Belgium
+6,watson,1.0,1,za,6,1.0,0D1D20,FCA13B,John Watson 🇬🇧,🇿🇦,South Africa
+6,cheever,1.0,15,it,12,11.0,444444,0F5DBB,Eddie Cheever 🇺🇸,🇮🇹,Italy
+6,baldi,1.0,9,nl,21,1.0,444444,FFA500,Mauro Baldi 🇮🇹,🇳🇱,Netherlands
+6,pironi,1.0,2,br,10,1.0,16191A,EB212E,Didier Pironi 🇫🇷,🇧🇷,Brazil
+6,surer,1.0,12,de,19,3.0,444444,FFA500,Marc Surer 🇨🇭,🇩🇪,Germany
+6,angelis,1.0,14,fr,6,23.0,444444,09630C,Elio de Angelis 🇮🇹,🇫🇷,France
+6,daly,1.0,6,mc,19,1.0,082957,EAE4ED,Derek Daly 🇮🇪,🇲🇨,Monaco
+6,baldi,1.0,13,at,24,2.0,444444,FFA500,Mauro Baldi 🇮🇹,🇦🇹,Austria
+6,watson,1.0,3,us,4,8.0,0D1D20,FCA13B,John Watson 🇬🇧,🇺🇸,USA
+7,mansell,0.0,3,us,7,4.0,444444,09630C,Nigel Mansell 🇬🇧,🇺🇸,USA
+7,prost,0.0,6,mc,1,18.0,424B52,FDE139,Alain Prost 🇫🇷,🇲🇨,Monaco
+7,serra,0.0,13,at,25,1.0,444444,888888,Chico Serra 🇧🇷,🇦🇹,Austria
+7,daly,0.0,8,ca,17,3.0,082957,EAE4ED,Derek Daly 🇮🇪,🇨🇦,Canada
+7,giacomelli,0.0,10,gb,27,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇬🇧,UK
+7,henton,0.0,12,de,26,0.0,444444,274B72,Brian Henton 🇬🇧,🇩🇪,Germany
+7,daly,0.0,11,fr,14,7.0,082957,EAE4ED,Derek Daly 🇮🇪,🇫🇷,France
+7,alboreto,0.0,9,nl,9,10.0,444444,274B72,Michele Alboreto 🇮🇹,🇳🇱,Netherlands
+7,borgudd,0.0,2,br,11,0.0,444444,274B72,Slim Borgudd 🇸🇪,🇧🇷,Brazil
+7,alboreto,0.0,1,za,7,0.0,444444,274B72,Michele Alboreto 🇮🇹,🇿🇦,South Africa
+7,mansell,0.0,15,it,13,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇮🇹,Italy
+7,surer,0.0,16,us,21,3.0,444444,FFA500,Marc Surer 🇨🇭,🇺🇸,USA
+7,surer,0.0,5,be,20,0.0,444444,FFA500,Marc Surer 🇨🇭,🇧🇪,Belgium
+7,alboreto,0.0,14,fr,11,14.0,444444,274B72,Michele Alboreto 🇮🇹,🇫🇷,France
+7,mass,0.0,7,us,22,0.0,444444,E53524,Jochen Mass 🇩🇪,🇺🇸,USA
+8,mass,0.0,3,us,14,0.0,444444,E53524,Jochen Mass 🇩🇪,🇺🇸,USA
+8,lauda,0.0,11,fr,4,24.0,0D1D20,FCA13B,Niki Lauda 🇦🇹,🇫🇷,France
+8,boesel,0.0,5,be,22,0.0,444444,E53524,Raul Boesel 🇧🇷,🇧🇪,Belgium
+8,henton,0.0,10,gb,28,0.0,444444,274B72,Brian Henton 🇬🇧,🇬🇧,UK
+8,mansell,0.0,14,fr,13,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇫🇷,France
+8,baldi,0.0,8,ca,27,0.0,444444,FFA500,Mauro Baldi 🇮🇹,🇨🇦,Canada
+8,keke_rosberg,0.0,15,it,1,42.0,082957,EAE4ED,Keke Rosberg 🇫🇮,🇮🇹,Italy
+8,angelis,0.0,1,za,8,0.0,444444,09630C,Elio de Angelis 🇮🇹,🇿🇦,South Africa
+8,henton,0.0,16,us,27,0.0,444444,274B72,Brian Henton 🇬🇧,🇺🇸,USA
+8,surer,0.0,7,us,23,0.0,444444,FFA500,Marc Surer 🇨🇭,🇺🇸,USA
+8,guerrero,0.0,12,de,30,0.0,444444,888888,Roberto Guerrero 🇨🇴,🇩🇪,Germany
+8,mass,0.0,2,br,12,0.0,444444,E53524,Jochen Mass 🇩🇪,🇧🇷,Brazil
+8,tambay,0.0,9,nl,28,0.0,16191A,EB212E,Patrick Tambay 🇫🇷,🇳🇱,Netherlands
+8,prost,0.0,13,at,5,25.0,424B52,FDE139,Alain Prost 🇫🇷,🇦🇹,Austria
+8,henton,0.0,6,mc,25,0.0,444444,274B72,Brian Henton 🇬🇧,🇲🇨,Monaco
+9,baldi,0.0,10,gb,22,1.0,444444,FFA500,Mauro Baldi 🇮🇹,🇬🇧,UK
+9,jarier,0.0,2,br,15,0.0,444444,888888,Jean-Pierre Jarier 🇫🇷,🇧🇷,Brazil
+9,giacomelli,0.0,11,fr,26,0.0,444444,B21827,Bruno Giacomelli 🇮🇹,🇫🇷,France
+9,watson,0.0,9,nl,1,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇳🇱,Netherlands
+9,salazar,0.0,15,it,23,2.0,444444,888888,Eliseo Salazar 🇨🇱,🇮🇹,Italy
+9,cesaris,0.0,16,us,17,5.0,444444,B21827,Andrea de Cesaris 🇮🇹,🇺🇸,USA
+9,salazar,0.0,1,za,9,0.0,444444,888888,Eliseo Salazar 🇨🇱,🇿🇦,South Africa
+9,mansell,0.0,12,de,13,7.0,444444,09630C,Nigel Mansell 🇬🇧,🇩🇪,Germany
+9,pironi,0.0,8,ca,2,20.0,16191A,EB212E,Didier Pironi 🇫🇷,🇨🇦,Canada
+9,surer,0.0,6,mc,21,0.0,444444,FFA500,Marc Surer 🇨🇭,🇲🇨,Monaco
+9,boesel,0.0,3,us,15,0.0,444444,E53524,Raul Boesel 🇧🇷,🇺🇸,USA
+9,watson,0.0,13,at,3,30.0,0D1D20,FCA13B,John Watson 🇬🇧,🇦🇹,Austria
+9,henton,0.0,7,us,26,0.0,444444,274B72,Brian Henton 🇬🇧,🇺🇸,USA
+9,daly,0.0,14,fr,14,7.0,082957,EAE4ED,Derek Daly 🇮🇪,🇫🇷,France
+9,laffite,0.0,5,be,23,0.0,444444,0F5DBB,Jacques Laffite 🇫🇷,🇧🇪,Belgium

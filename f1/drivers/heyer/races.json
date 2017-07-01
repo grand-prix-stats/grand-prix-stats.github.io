@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Penske 🇺🇸",
-        "date": "1977-07-31",
-        "final_position": "F",
-        "grid": 25,
-        "laps_completed": 9,
-        "name": "1977 German Grand Prix 🇩🇪",
-        "points": 0.0,
-        "round": 11,
-        "season": 1977,
-        "teammate": "Jean-Pierre Jarier 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 12,
-        "time": null
-    }
+  {
+    "name" : "1977 German Grand Prix 🇩🇪",
+    "teammate_final_position" : "R",
+    "grid" : 25,
+    "date" : "1977-07-31T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1977,
+    "teammate" : "Jean-Pierre Jarier 🇫🇷",
+    "constructor" : "Penske 🇺🇸",
+    "round" : 11,
+    "teammate_grid" : 12,
+    "laps_completed" : 9,
+    "time" : null,
+    "points" : 0
+  }
 ]

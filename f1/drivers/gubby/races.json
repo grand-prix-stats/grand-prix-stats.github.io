@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Lotus-Climax 🇬🇧",
-        "date": "1965-07-10",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1965 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 5,
-        "season": 1965,
-        "teammate": "Jim Clark 🇬🇧",
-        "teammate_final_position": "1",
-        "teammate_grid": 1,
-        "time": null
-    },
-    {
-        "constructor": "Lotus-Climax 🇬🇧",
-        "date": "1965-07-10",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1965 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 5,
-        "season": 1965,
-        "teammate": "Mike Spence 🇬🇧",
-        "teammate_final_position": "4",
-        "teammate_grid": 6,
-        "time": null
-    }
+  {
+    "name" : "1965 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "1",
+    "grid" : 0,
+    "date" : "1965-07-10T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1965,
+    "teammate" : "Jim Clark 🇬🇧",
+    "constructor" : "Lotus-Climax 🇬🇧",
+    "round" : 5,
+    "teammate_grid" : 1,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1965 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "4",
+    "grid" : 0,
+    "date" : "1965-07-10T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1965,
+    "teammate" : "Mike Spence 🇬🇧",
+    "constructor" : "Lotus-Climax 🇬🇧",
+    "round" : 5,
+    "teammate_grid" : 6,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

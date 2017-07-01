@@ -1,30 +1,30 @@
 name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
-1991 Australian Grand Prix 🇦🇺,R,0,1991-11-03,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,16,19,0,,0.0
-1991 Belgian Grand Prix 🇧🇪,F,0,1991-08-25,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,11,0,0,,0.0
-1991 Brazilian Grand Prix 🇧🇷,F,0,1991-03-24,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,2,0,0,,0.0
-1991 British Grand Prix 🇬🇧,F,0,1991-07-14,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,8,0,0,,0.0
-1991 Canadian Grand Prix 🇨🇦,F,0,1991-06-02,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,5,0,0,,0.0
-1991 French Grand Prix 🇫🇷,F,0,1991-07-07,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,7,0,0,,0.0
-1991 German Grand Prix 🇩🇪,R,0,1991-07-28,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,9,24,0,,0.0
-1991 Hungarian Grand Prix 🇭🇺,16,0,1991-08-11,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,10,24,0,,0.0
-1991 Italian Grand Prix 🇮🇹,16,0,1991-09-08,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,12,23,0,,0.0
-1991 Japanese Grand Prix 🇯🇵,F,0,1991-10-20,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,15,0,0,,0.0
-1991 Mexican Grand Prix 🇲🇽,F,0,1991-06-16,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,6,0,0,,0.0
-1991 Monaco Grand Prix 🇲🇨,F,0,1991-05-12,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,4,0,0,,0.0
-1991 Portuguese Grand Prix 🇵🇹,F,0,1991-09-22,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,13,0,0,,0.0
-1991 San Marino Grand Prix 🇮🇹,F,21,1991-04-28,9,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,3,0,57,,0.0
-1991 Spanish Grand Prix 🇪🇸,F,0,1991-09-29,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,14,0,0,,0.0
-1991 United States Grand Prix 🇺🇸,7,0,1991-03-10,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,1,17,0,,0.0
-1992 Belgian Grand Prix 🇧🇪,R,15,1992-08-30,10,1992,Gabriele Tarquini 🇮🇹,Fondmetal 🇮🇹,12,11,43,,0.0
-1992 Brazilian Grand Prix 🇧🇷,F,0,1992-04-05,F,1992,Giovanna Amati 🇮🇹,Brabham 🇬🇧,3,0,0,,0.0
-1992 British Grand Prix 🇬🇧,16,0,1992-07-12,W,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,9,26,0,,0.0
-1992 Canadian Grand Prix 🇨🇦,F,0,1992-06-14,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,7,0,0,,0.0
-1992 French Grand Prix 🇫🇷,F,0,1992-07-05,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,8,0,0,,0.0
-1992 German Grand Prix 🇩🇪,F,0,1992-07-26,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,10,0,0,,0.0
-1992 Hungarian Grand Prix 🇭🇺,R,18,1992-08-16,R,1992,Gabriele Tarquini 🇮🇹,Fondmetal 🇮🇹,11,12,2,,0.0
-1992 Italian Grand Prix 🇮🇹,R,25,1992-09-13,R,1992,Gabriele Tarquini 🇮🇹,Fondmetal 🇮🇹,13,20,0,,0.0
-1992 Mexican Grand Prix 🇲🇽,F,0,1992-03-22,F,1992,Giovanna Amati 🇮🇹,Brabham 🇬🇧,2,0,0,,0.0
-1992 Monaco Grand Prix 🇲🇨,F,0,1992-05-31,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,6,0,0,,0.0
-1992 San Marino Grand Prix 🇮🇹,F,0,1992-05-17,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,5,0,0,,0.0
-1992 South African Grand Prix 🇿🇦,F,26,1992-03-01,13,1992,Giovanna Amati 🇮🇹,Brabham 🇬🇧,1,0,68,,0.0
-1992 Spanish Grand Prix 🇪🇸,F,0,1992-05-03,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,4,0,0,,0.0
+1991 Australian Grand Prix 🇦🇺,R,0,1991-11-03T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,16,19,0,,0.0
+1991 Belgian Grand Prix 🇧🇪,F,0,1991-08-25T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,11,0,0,,0.0
+1991 Brazilian Grand Prix 🇧🇷,F,0,1991-03-24T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,2,0,0,,0.0
+1991 British Grand Prix 🇬🇧,F,0,1991-07-14T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,8,0,0,,0.0
+1991 Canadian Grand Prix 🇨🇦,F,0,1991-06-02T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,5,0,0,,0.0
+1991 French Grand Prix 🇫🇷,F,0,1991-07-07T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,7,0,0,,0.0
+1991 German Grand Prix 🇩🇪,R,0,1991-07-28T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,9,24,0,,0.0
+1991 Hungarian Grand Prix 🇭🇺,16,0,1991-08-11T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,10,24,0,,0.0
+1991 Italian Grand Prix 🇮🇹,16,0,1991-09-08T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,12,23,0,,0.0
+1991 Japanese Grand Prix 🇯🇵,F,0,1991-10-20T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,15,0,0,,0.0
+1991 Mexican Grand Prix 🇲🇽,F,0,1991-06-16T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,6,0,0,,0.0
+1991 Monaco Grand Prix 🇲🇨,F,0,1991-05-12T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,4,0,0,,0.0
+1991 Portuguese Grand Prix 🇵🇹,F,0,1991-09-22T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,13,0,0,,0.0
+1991 San Marino Grand Prix 🇮🇹,F,21,1991-04-28T00:00:00.000Z,9,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,3,0,57,,0.0
+1991 Spanish Grand Prix 🇪🇸,F,0,1991-09-29T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,14,0,0,,0.0
+1991 United States Grand Prix 🇺🇸,7,0,1991-03-10T00:00:00.000Z,F,1991,Nicola Larini 🇮🇹,Lambo 🇮🇹,1,17,0,,0.0
+1992 Belgian Grand Prix 🇧🇪,R,15,1992-08-30T00:00:00.000Z,10,1992,Gabriele Tarquini 🇮🇹,Fondmetal 🇮🇹,12,11,43,,0.0
+1992 Brazilian Grand Prix 🇧🇷,F,0,1992-04-05T00:00:00.000Z,F,1992,Giovanna Amati 🇮🇹,Brabham 🇬🇧,3,0,0,,0.0
+1992 British Grand Prix 🇬🇧,16,0,1992-07-12T00:00:00.000Z,W,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,9,26,0,,0.0
+1992 Canadian Grand Prix 🇨🇦,F,0,1992-06-14T00:00:00.000Z,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,7,0,0,,0.0
+1992 French Grand Prix 🇫🇷,F,0,1992-07-05T00:00:00.000Z,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,8,0,0,,0.0
+1992 German Grand Prix 🇩🇪,F,0,1992-07-26T00:00:00.000Z,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,10,0,0,,0.0
+1992 Hungarian Grand Prix 🇭🇺,R,18,1992-08-16T00:00:00.000Z,R,1992,Gabriele Tarquini 🇮🇹,Fondmetal 🇮🇹,11,12,2,,0.0
+1992 Italian Grand Prix 🇮🇹,R,25,1992-09-13T00:00:00.000Z,R,1992,Gabriele Tarquini 🇮🇹,Fondmetal 🇮🇹,13,20,0,,0.0
+1992 Mexican Grand Prix 🇲🇽,F,0,1992-03-22T00:00:00.000Z,F,1992,Giovanna Amati 🇮🇹,Brabham 🇬🇧,2,0,0,,0.0
+1992 Monaco Grand Prix 🇲🇨,F,0,1992-05-31T00:00:00.000Z,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,6,0,0,,0.0
+1992 San Marino Grand Prix 🇮🇹,F,0,1992-05-17T00:00:00.000Z,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,5,0,0,,0.0
+1992 South African Grand Prix 🇿🇦,F,26,1992-03-01T00:00:00.000Z,13,1992,Giovanna Amati 🇮🇹,Brabham 🇬🇧,1,0,68,,0.0
+1992 Spanish Grand Prix 🇪🇸,F,0,1992-05-03T00:00:00.000Z,F,1992,Damon Hill 🇬🇧,Brabham 🇬🇧,4,0,0,,0.0

@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Phil Hill 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "times": 1
-    }
+  {
+    "times" : 1,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Phil Hill 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Stirling Moss 🇬🇧"
+  }
 ]

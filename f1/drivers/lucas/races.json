@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1955-09-11",
-        "final_position": "R",
-        "grid": 22,
-        "laps_completed": 7,
-        "name": "1955 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 7,
-        "season": 1955,
-        "teammate": "Jacques Pollet 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 19,
-        "time": null
-    },
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1955-09-11",
-        "final_position": "R",
-        "grid": 22,
-        "laps_completed": 7,
-        "name": "1955 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 7,
-        "season": 1955,
-        "teammate": "Hernando da Silva Ramos 🇧🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 18,
-        "time": null
-    }
+  {
+    "name" : "1955 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "R",
+    "grid" : 22,
+    "date" : "1955-09-11T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1955,
+    "teammate" : "Jacques Pollet 🇫🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 7,
+    "teammate_grid" : 19,
+    "laps_completed" : 7,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1955 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "R",
+    "grid" : 22,
+    "date" : "1955-09-11T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1955,
+    "teammate" : "Hernando da Silva Ramos 🇧🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 7,
+    "teammate_grid" : 18,
+    "laps_completed" : 7,
+    "time" : null,
+    "points" : 0
+  }
 ]

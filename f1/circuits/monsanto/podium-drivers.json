@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Masten Gregory 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Dan Gurney 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Masten Gregory 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Stirling Moss 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

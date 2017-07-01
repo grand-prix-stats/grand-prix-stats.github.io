@@ -1,26 +1,26 @@
 [
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "number_of_laps_led": "72"
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "number_of_laps_led": "66"
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_laps_led": "54"
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "number_of_laps_led": "14"
-    },
-    {
-        "driver": "Eddie Irvine 🇬🇧",
-        "number_of_laps_led": "6"
-    },
-    {
-        "driver": "David Coulthard 🇬🇧",
-        "number_of_laps_led": "4"
-    }
+  {
+    "driver" : "Damon Hill 🇬🇧",
+    "number_of_laps_led" : "72"
+  },
+  {
+    "driver" : "Jacques Villeneuve 🇨🇦",
+    "number_of_laps_led" : "66"
+  },
+  {
+    "driver" : "Michael Schumacher 🇩🇪",
+    "number_of_laps_led" : "54"
+  },
+  {
+    "driver" : "Mika Häkkinen 🇫🇮",
+    "number_of_laps_led" : "14"
+  },
+  {
+    "driver" : "Eddie Irvine 🇬🇧",
+    "number_of_laps_led" : "6"
+  },
+  {
+    "driver" : "David Coulthard 🇬🇧",
+    "number_of_laps_led" : "4"
+  }
 ]

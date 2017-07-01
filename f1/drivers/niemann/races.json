@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Lotus-Ford 🇬🇧",
-        "date": "1965-01-01",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1965 South African Grand Prix 🇿🇦",
-        "points": 0.0,
-        "round": 1,
-        "season": 1965,
-        "teammate": "Dave Charlton 🇿🇦",
-        "teammate_final_position": "F",
-        "teammate_grid": 0,
-        "time": null
-    }
+  {
+    "name" : "1965 South African Grand Prix 🇿🇦",
+    "teammate_final_position" : "F",
+    "grid" : 0,
+    "date" : "1965-01-01T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1965,
+    "teammate" : "Dave Charlton 🇿🇦",
+    "constructor" : "Lotus-Ford 🇬🇧",
+    "round" : 1,
+    "teammate_grid" : 0,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

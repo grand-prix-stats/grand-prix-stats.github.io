@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Osella 🇮🇹",
-        "date": "1987-09-20",
-        "final_position": "R",
-        "grid": 26,
-        "laps_completed": 32,
-        "name": "1987 Portuguese Grand Prix 🇵🇹",
-        "points": 0.0,
-        "round": 12,
-        "season": 1987,
-        "teammate": "Alex Caffi 🇮🇹",
-        "teammate_final_position": "R",
-        "teammate_grid": 25,
-        "time": null
-    },
-    {
-        "constructor": "Osella 🇮🇹",
-        "date": "1987-09-06",
-        "final_position": "R",
-        "grid": 26,
-        "laps_completed": 27,
-        "name": "1987 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 11,
-        "season": 1987,
-        "teammate": "Alex Caffi 🇮🇹",
-        "teammate_final_position": "R",
-        "teammate_grid": 21,
-        "time": null
-    }
+  {
+    "name" : "1987 Portuguese Grand Prix 🇵🇹",
+    "teammate_final_position" : "R",
+    "grid" : 26,
+    "date" : "1987-09-20T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1987,
+    "teammate" : "Alex Caffi 🇮🇹",
+    "constructor" : "Osella 🇮🇹",
+    "round" : 12,
+    "teammate_grid" : 25,
+    "laps_completed" : 32,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1987 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "R",
+    "grid" : 26,
+    "date" : "1987-09-06T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1987,
+    "teammate" : "Alex Caffi 🇮🇹",
+    "constructor" : "Osella 🇮🇹",
+    "round" : 11,
+    "teammate_grid" : 21,
+    "laps_completed" : 27,
+    "time" : null,
+    "points" : 0
+  }
 ]

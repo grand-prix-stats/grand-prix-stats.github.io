@@ -1,98 +1,98 @@
 [
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_podiums": 8
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Didier Pironi 🇫🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Eddie Cheever 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Ivan Capelli 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jochen Mass 🇩🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "John Watson 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Michele Alboreto 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Patrick Depailler 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Riccardo Patrese 🇮🇹",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Alain Prost 🇫🇷",
+    "number_of_podiums" : 8
+  },
+  {
+    "driver" : "Nelson Piquet 🇧🇷",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "James Hunt 🇬🇧",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Nigel Mansell 🇬🇧",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Ayrton Senna 🇧🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Didier Pironi 🇫🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "François Cevert 🇫🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Ronnie Peterson 🇸🇪",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Alan Jones 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Carlos Reutemann 🇦🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Eddie Cheever 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Emerson Fittipaldi 🇧🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Ivan Capelli 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jackie Stewart 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jacques Laffite 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jochen Mass 🇩🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "John Watson 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Keke Rosberg 🇫🇮",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Mario Andretti 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Michele Alboreto 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Niki Lauda 🇦🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Patrick Depailler 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "René Arnoux 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Riccardo Patrese 🇮🇹",
+    "number_of_podiums" : 1
+  }
 ]

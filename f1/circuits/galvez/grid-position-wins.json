@@ -1,106 +1,106 @@
 [
-    {
-        "grid_position": 1,
-        "number_of_wins": 7
-    },
-    {
-        "grid_position": 2,
-        "number_of_wins": 5
-    },
-    {
-        "grid_position": 3,
-        "number_of_wins": 4
-    },
-    {
-        "grid_position": 5,
-        "number_of_wins": 1
-    },
-    {
-        "grid_position": 7,
-        "number_of_wins": 1
-    },
-    {
-        "grid_position": 10,
-        "number_of_wins": 1
-    },
-    {
-        "grid_position": 11,
-        "number_of_wins": 1
-    },
-    {
-        "grid_position": 13,
-        "number_of_wins": 1
-    },
-    {
-        "grid_position": 4,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 6,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 8,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 9,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 12,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 14,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 15,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 16,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 17,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 18,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 19,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 20,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 21,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 22,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 23,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 24,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 25,
-        "number_of_wins": 0
-    },
-    {
-        "grid_position": 26,
-        "number_of_wins": 0
-    }
+  {
+    "grid_position" : 1,
+    "number_of_wins" : 7
+  },
+  {
+    "grid_position" : 2,
+    "number_of_wins" : 5
+  },
+  {
+    "grid_position" : 3,
+    "number_of_wins" : 4
+  },
+  {
+    "grid_position" : 5,
+    "number_of_wins" : 1
+  },
+  {
+    "grid_position" : 7,
+    "number_of_wins" : 1
+  },
+  {
+    "grid_position" : 10,
+    "number_of_wins" : 1
+  },
+  {
+    "grid_position" : 11,
+    "number_of_wins" : 1
+  },
+  {
+    "grid_position" : 13,
+    "number_of_wins" : 1
+  },
+  {
+    "grid_position" : 4,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 6,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 8,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 9,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 12,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 14,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 15,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 16,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 17,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 18,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 19,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 20,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 21,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 22,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 23,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 24,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 25,
+    "number_of_wins" : 0
+  },
+  {
+    "grid_position" : 26,
+    "number_of_wins" : 0
+  }
 ]

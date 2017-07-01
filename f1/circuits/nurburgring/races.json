@@ -1,402 +1,402 @@
 [
-    {
-        "date": "2013-07-07",
-        "laps_completed": 60,
-        "name": "2013 German Grand Prix 🇩🇪",
-        "race_duration": "1:41:14.711",
-        "round": 9,
-        "season": 2013,
-        "winning_constructor": "Red Bull 🇦🇹",
-        "winning_driver": "Sebastian Vettel 🇩🇪"
-    },
-    {
-        "date": "2011-07-24",
-        "laps_completed": 60,
-        "name": "2011 German Grand Prix 🇩🇪",
-        "race_duration": "1:37:30.344",
-        "round": 10,
-        "season": 2011,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Lewis Hamilton 🇬🇧"
-    },
-    {
-        "date": "2009-07-12",
-        "laps_completed": 60,
-        "name": "2009 German Grand Prix 🇩🇪",
-        "race_duration": "1:36:43.310",
-        "round": 9,
-        "season": 2009,
-        "winning_constructor": "Red Bull 🇦🇹",
-        "winning_driver": "Mark Webber 🇦🇺"
-    },
-    {
-        "date": "2007-07-22",
-        "laps_completed": 60,
-        "name": "2007 European Grand Prix 🇩🇪",
-        "race_duration": "2:06:26.358",
-        "round": 10,
-        "season": 2007,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Fernando Alonso 🇪🇸"
-    },
-    {
-        "date": "2006-05-07",
-        "laps_completed": 60,
-        "name": "2006 European Grand Prix 🇩🇪",
-        "race_duration": "1:35:58.765",
-        "round": 5,
-        "season": 2006,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
-    },
-    {
-        "date": "2005-05-29",
-        "laps_completed": 59,
-        "name": "2005 European Grand Prix 🇩🇪",
-        "race_duration": "1:31:46.648",
-        "round": 7,
-        "season": 2005,
-        "winning_constructor": "Renault 🇫🇷",
-        "winning_driver": "Fernando Alonso 🇪🇸"
-    },
-    {
-        "date": "2004-05-30",
-        "laps_completed": 60,
-        "name": "2004 European Grand Prix 🇩🇪",
-        "race_duration": "1:32:35.101",
-        "round": 7,
-        "season": 2004,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
-    },
-    {
-        "date": "2003-06-29",
-        "laps_completed": 60,
-        "name": "2003 European Grand Prix 🇩🇪",
-        "race_duration": "1:34:43.622",
-        "round": 9,
-        "season": 2003,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Ralf Schumacher 🇩🇪"
-    },
-    {
-        "date": "2002-06-23",
-        "laps_completed": 60,
-        "name": "2002 European Grand Prix 🇩🇪",
-        "race_duration": "1:35:07.426",
-        "round": 9,
-        "season": 2002,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Rubens Barrichello 🇧🇷"
-    },
-    {
-        "date": "2001-06-24",
-        "laps_completed": 67,
-        "name": "2001 European Grand Prix 🇩🇪",
-        "race_duration": "1:29:42.724",
-        "round": 9,
-        "season": 2001,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
-    },
-    {
-        "date": "2000-05-21",
-        "laps_completed": 67,
-        "name": "2000 European Grand Prix 🇩🇪",
-        "race_duration": "1:42:00.307",
-        "round": 6,
-        "season": 2000,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
-    },
-    {
-        "date": "1999-09-26",
-        "laps_completed": 66,
-        "name": "1999 European Grand Prix 🇩🇪",
-        "race_duration": "1:41:54.314",
-        "round": 14,
-        "season": 1999,
-        "winning_constructor": "Stewart 🇬🇧",
-        "winning_driver": "Johnny Herbert 🇬🇧"
-    },
-    {
-        "date": "1998-09-27",
-        "laps_completed": 67,
-        "name": "1998 Luxembourg Grand Prix 🇩🇪",
-        "race_duration": "1:32:14.789",
-        "round": 15,
-        "season": 1998,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Mika Häkkinen 🇫🇮"
-    },
-    {
-        "date": "1997-09-28",
-        "laps_completed": 67,
-        "name": "1997 Luxembourg Grand Prix 🇩🇪",
-        "race_duration": "1:31:27.843",
-        "round": 15,
-        "season": 1997,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Jacques Villeneuve 🇨🇦"
-    },
-    {
-        "date": "1996-04-28",
-        "laps_completed": 67,
-        "name": "1996 European Grand Prix 🇩🇪",
-        "race_duration": "1:33:26.473",
-        "round": 4,
-        "season": 1996,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Jacques Villeneuve 🇨🇦"
-    },
-    {
-        "date": "1995-10-01",
-        "laps_completed": 67,
-        "name": "1995 European Grand Prix 🇩🇪",
-        "race_duration": "1:39:59.044",
-        "round": 14,
-        "season": 1995,
-        "winning_constructor": "Benetton 🇮🇹",
-        "winning_driver": "Michael Schumacher 🇩🇪"
-    },
-    {
-        "date": "1985-08-04",
-        "laps_completed": 67,
-        "name": "1985 German Grand Prix 🇩🇪",
-        "race_duration": "1:35:31.337",
-        "round": 9,
-        "season": 1985,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Michele Alboreto 🇮🇹"
-    },
-    {
-        "date": "1984-10-07",
-        "laps_completed": 67,
-        "name": "1984 European Grand Prix 🇩🇪",
-        "race_duration": "1:35:13.284",
-        "round": 15,
-        "season": 1984,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Alain Prost 🇫🇷"
-    },
-    {
-        "date": "1976-08-01",
-        "laps_completed": 14,
-        "name": "1976 German Grand Prix 🇩🇪",
-        "race_duration": "1:41:42.7",
-        "round": 10,
-        "season": 1976,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "James Hunt 🇬🇧"
-    },
-    {
-        "date": "1975-08-03",
-        "laps_completed": 14,
-        "name": "1975 German Grand Prix 🇩🇪",
-        "race_duration": "1:41:14.1",
-        "round": 11,
-        "season": 1975,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Carlos Reutemann 🇦🇷"
-    },
-    {
-        "date": "1974-08-04",
-        "laps_completed": 14,
-        "name": "1974 German Grand Prix 🇩🇪",
-        "race_duration": "1:41:35.0",
-        "round": 11,
-        "season": 1974,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Clay Regazzoni 🇨🇭"
-    },
-    {
-        "date": "1973-08-05",
-        "laps_completed": 14,
-        "name": "1973 German Grand Prix 🇩🇪",
-        "race_duration": "1:42:03.0",
-        "round": 11,
-        "season": 1973,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jackie Stewart 🇬🇧"
-    },
-    {
-        "date": "1972-07-30",
-        "laps_completed": 14,
-        "name": "1972 German Grand Prix 🇩🇪",
-        "race_duration": "1:42:12.3",
-        "round": 8,
-        "season": 1972,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Jacky Ickx 🇧🇪"
-    },
-    {
-        "date": "1971-08-01",
-        "laps_completed": 12,
-        "name": "1971 German Grand Prix 🇩🇪",
-        "race_duration": "1:29:16.3",
-        "round": 7,
-        "season": 1971,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jackie Stewart 🇬🇧"
-    },
-    {
-        "date": "1969-08-03",
-        "laps_completed": 14,
-        "name": "1969 German Grand Prix 🇩🇪",
-        "race_duration": "1:49:55.4",
-        "round": 7,
-        "season": 1969,
-        "winning_constructor": "Brabham-Ford 🇬🇧",
-        "winning_driver": "Jacky Ickx 🇧🇪"
-    },
-    {
-        "date": "1968-08-04",
-        "laps_completed": 14,
-        "name": "1968 German Grand Prix 🇩🇪",
-        "race_duration": "2:19:03.2",
-        "round": 8,
-        "season": 1968,
-        "winning_constructor": "Matra-Ford 🇫🇷",
-        "winning_driver": "Jackie Stewart 🇬🇧"
-    },
-    {
-        "date": "1967-08-06",
-        "laps_completed": 15,
-        "name": "1967 German Grand Prix 🇩🇪",
-        "race_duration": "2:05:55.7",
-        "round": 7,
-        "season": 1967,
-        "winning_constructor": "Brabham-Repco 🇬🇧",
-        "winning_driver": "Denny Hulme 🇳🇿"
-    },
-    {
-        "date": "1966-08-07",
-        "laps_completed": 15,
-        "name": "1966 German Grand Prix 🇩🇪",
-        "race_duration": "2:27:03.0",
-        "round": 6,
-        "season": 1966,
-        "winning_constructor": "Brabham-Repco 🇬🇧",
-        "winning_driver": "Jack Brabham 🇦🇺"
-    },
-    {
-        "date": "1965-08-01",
-        "laps_completed": 15,
-        "name": "1965 German Grand Prix 🇩🇪",
-        "race_duration": "2:07:52.4",
-        "round": 7,
-        "season": 1965,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
-    },
-    {
-        "date": "1964-08-02",
-        "laps_completed": 15,
-        "name": "1964 German Grand Prix 🇩🇪",
-        "race_duration": "2:12:04.8",
-        "round": 6,
-        "season": 1964,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "John Surtees 🇬🇧"
-    },
-    {
-        "date": "1963-08-04",
-        "laps_completed": 15,
-        "name": "1963 German Grand Prix 🇩🇪",
-        "race_duration": "2:13:06.8",
-        "round": 6,
-        "season": 1963,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "John Surtees 🇬🇧"
-    },
-    {
-        "date": "1962-08-05",
-        "laps_completed": 15,
-        "name": "1962 German Grand Prix 🇩🇪",
-        "race_duration": "2:38:45.3",
-        "round": 6,
-        "season": 1962,
-        "winning_constructor": "BRM 🇬🇧",
-        "winning_driver": "Graham Hill 🇬🇧"
-    },
-    {
-        "date": "1961-08-06",
-        "laps_completed": 15,
-        "name": "1961 German Grand Prix 🇩🇪",
-        "race_duration": "2:18:12.4",
-        "round": 6,
-        "season": 1961,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Stirling Moss 🇬🇧"
-    },
-    {
-        "date": "1958-08-03",
-        "laps_completed": 15,
-        "name": "1958 German Grand Prix 🇩🇪",
-        "race_duration": "2:21:15.0",
-        "round": 8,
-        "season": 1958,
-        "winning_constructor": "Vanwall 🇬🇧",
-        "winning_driver": "Tony Brooks 🇬🇧"
-    },
-    {
-        "date": "1957-08-04",
-        "laps_completed": 22,
-        "name": "1957 German Grand Prix 🇩🇪",
-        "race_duration": "3:30:38.3",
-        "round": 6,
-        "season": 1957,
-        "winning_constructor": "Maserati 🇮🇹",
-        "winning_driver": "Juan Fangio 🇦🇷"
-    },
-    {
-        "date": "1956-08-05",
-        "laps_completed": 22,
-        "name": "1956 German Grand Prix 🇩🇪",
-        "race_duration": "3:38:43.7",
-        "round": 7,
-        "season": 1956,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Juan Fangio 🇦🇷"
-    },
-    {
-        "date": "1954-08-01",
-        "laps_completed": 22,
-        "name": "1954 German Grand Prix 🇩🇪",
-        "race_duration": "3:45:45.8",
-        "round": 6,
-        "season": 1954,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Juan Fangio 🇦🇷"
-    },
-    {
-        "date": "1953-08-02",
-        "laps_completed": 18,
-        "name": "1953 German Grand Prix 🇩🇪",
-        "race_duration": "3:02:25.0",
-        "round": 7,
-        "season": 1953,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Nino Farina 🇮🇹"
-    },
-    {
-        "date": "1952-08-03",
-        "laps_completed": 18,
-        "name": "1952 German Grand Prix 🇩🇪",
-        "race_duration": "3:06:13.3",
-        "round": 6,
-        "season": 1952,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
-    },
-    {
-        "date": "1951-07-29",
-        "laps_completed": 20,
-        "name": "1951 German Grand Prix 🇩🇪",
-        "race_duration": "3:23:03.3",
-        "round": 6,
-        "season": 1951,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alberto Ascari 🇮🇹"
-    }
+  {
+    "name" : "2013 German Grand Prix 🇩🇪",
+    "race_duration" : "1:41:14.711",
+    "round" : 9,
+    "laps_completed" : 60,
+    "winning_constructor" : "Red Bull 🇦🇹",
+    "date" : "2013-07-07T00:00:00.000Z",
+    "winning_driver" : "Sebastian Vettel 🇩🇪",
+    "season" : 2013
+  },
+  {
+    "name" : "2011 German Grand Prix 🇩🇪",
+    "race_duration" : "1:37:30.344",
+    "round" : 10,
+    "laps_completed" : 60,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "2011-07-24T00:00:00.000Z",
+    "winning_driver" : "Lewis Hamilton 🇬🇧",
+    "season" : 2011
+  },
+  {
+    "name" : "2009 German Grand Prix 🇩🇪",
+    "race_duration" : "1:36:43.310",
+    "round" : 9,
+    "laps_completed" : 60,
+    "winning_constructor" : "Red Bull 🇦🇹",
+    "date" : "2009-07-12T00:00:00.000Z",
+    "winning_driver" : "Mark Webber 🇦🇺",
+    "season" : 2009
+  },
+  {
+    "name" : "2007 European Grand Prix 🇩🇪",
+    "race_duration" : "2:06:26.358",
+    "round" : 10,
+    "laps_completed" : 60,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "2007-07-22T00:00:00.000Z",
+    "winning_driver" : "Fernando Alonso 🇪🇸",
+    "season" : 2007
+  },
+  {
+    "name" : "2006 European Grand Prix 🇩🇪",
+    "race_duration" : "1:35:58.765",
+    "round" : 5,
+    "laps_completed" : 60,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2006-05-07T00:00:00.000Z",
+    "winning_driver" : "Michael Schumacher 🇩🇪",
+    "season" : 2006
+  },
+  {
+    "name" : "2005 European Grand Prix 🇩🇪",
+    "race_duration" : "1:31:46.648",
+    "round" : 7,
+    "laps_completed" : 59,
+    "winning_constructor" : "Renault 🇫🇷",
+    "date" : "2005-05-29T00:00:00.000Z",
+    "winning_driver" : "Fernando Alonso 🇪🇸",
+    "season" : 2005
+  },
+  {
+    "name" : "2004 European Grand Prix 🇩🇪",
+    "race_duration" : "1:32:35.101",
+    "round" : 7,
+    "laps_completed" : 60,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2004-05-30T00:00:00.000Z",
+    "winning_driver" : "Michael Schumacher 🇩🇪",
+    "season" : 2004
+  },
+  {
+    "name" : "2003 European Grand Prix 🇩🇪",
+    "race_duration" : "1:34:43.622",
+    "round" : 9,
+    "laps_completed" : 60,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "2003-06-29T00:00:00.000Z",
+    "winning_driver" : "Ralf Schumacher 🇩🇪",
+    "season" : 2003
+  },
+  {
+    "name" : "2002 European Grand Prix 🇩🇪",
+    "race_duration" : "1:35:07.426",
+    "round" : 9,
+    "laps_completed" : 60,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2002-06-23T00:00:00.000Z",
+    "winning_driver" : "Rubens Barrichello 🇧🇷",
+    "season" : 2002
+  },
+  {
+    "name" : "2001 European Grand Prix 🇩🇪",
+    "race_duration" : "1:29:42.724",
+    "round" : 9,
+    "laps_completed" : 67,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2001-06-24T00:00:00.000Z",
+    "winning_driver" : "Michael Schumacher 🇩🇪",
+    "season" : 2001
+  },
+  {
+    "name" : "2000 European Grand Prix 🇩🇪",
+    "race_duration" : "1:42:00.307",
+    "round" : 6,
+    "laps_completed" : 67,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2000-05-21T00:00:00.000Z",
+    "winning_driver" : "Michael Schumacher 🇩🇪",
+    "season" : 2000
+  },
+  {
+    "name" : "1999 European Grand Prix 🇩🇪",
+    "race_duration" : "1:41:54.314",
+    "round" : 14,
+    "laps_completed" : 66,
+    "winning_constructor" : "Stewart 🇬🇧",
+    "date" : "1999-09-26T00:00:00.000Z",
+    "winning_driver" : "Johnny Herbert 🇬🇧",
+    "season" : 1999
+  },
+  {
+    "name" : "1998 Luxembourg Grand Prix 🇩🇪",
+    "race_duration" : "1:32:14.789",
+    "round" : 15,
+    "laps_completed" : 67,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1998-09-27T00:00:00.000Z",
+    "winning_driver" : "Mika Häkkinen 🇫🇮",
+    "season" : 1998
+  },
+  {
+    "name" : "1997 Luxembourg Grand Prix 🇩🇪",
+    "race_duration" : "1:31:27.843",
+    "round" : 15,
+    "laps_completed" : 67,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "1997-09-28T00:00:00.000Z",
+    "winning_driver" : "Jacques Villeneuve 🇨🇦",
+    "season" : 1997
+  },
+  {
+    "name" : "1996 European Grand Prix 🇩🇪",
+    "race_duration" : "1:33:26.473",
+    "round" : 4,
+    "laps_completed" : 67,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "1996-04-28T00:00:00.000Z",
+    "winning_driver" : "Jacques Villeneuve 🇨🇦",
+    "season" : 1996
+  },
+  {
+    "name" : "1995 European Grand Prix 🇩🇪",
+    "race_duration" : "1:39:59.044",
+    "round" : 14,
+    "laps_completed" : 67,
+    "winning_constructor" : "Benetton 🇮🇹",
+    "date" : "1995-10-01T00:00:00.000Z",
+    "winning_driver" : "Michael Schumacher 🇩🇪",
+    "season" : 1995
+  },
+  {
+    "name" : "1985 German Grand Prix 🇩🇪",
+    "race_duration" : "1:35:31.337",
+    "round" : 9,
+    "laps_completed" : 67,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1985-08-04T00:00:00.000Z",
+    "winning_driver" : "Michele Alboreto 🇮🇹",
+    "season" : 1985
+  },
+  {
+    "name" : "1984 European Grand Prix 🇩🇪",
+    "race_duration" : "1:35:13.284",
+    "round" : 15,
+    "laps_completed" : 67,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1984-10-07T00:00:00.000Z",
+    "winning_driver" : "Alain Prost 🇫🇷",
+    "season" : 1984
+  },
+  {
+    "name" : "1976 German Grand Prix 🇩🇪",
+    "race_duration" : "1:41:42.7",
+    "round" : 10,
+    "laps_completed" : 14,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1976-08-01T00:00:00.000Z",
+    "winning_driver" : "James Hunt 🇬🇧",
+    "season" : 1976
+  },
+  {
+    "name" : "1975 German Grand Prix 🇩🇪",
+    "race_duration" : "1:41:14.1",
+    "round" : 11,
+    "laps_completed" : 14,
+    "winning_constructor" : "Brabham 🇬🇧",
+    "date" : "1975-08-03T00:00:00.000Z",
+    "winning_driver" : "Carlos Reutemann 🇦🇷",
+    "season" : 1975
+  },
+  {
+    "name" : "1974 German Grand Prix 🇩🇪",
+    "race_duration" : "1:41:35.0",
+    "round" : 11,
+    "laps_completed" : 14,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1974-08-04T00:00:00.000Z",
+    "winning_driver" : "Clay Regazzoni 🇨🇭",
+    "season" : 1974
+  },
+  {
+    "name" : "1973 German Grand Prix 🇩🇪",
+    "race_duration" : "1:42:03.0",
+    "round" : 11,
+    "laps_completed" : 14,
+    "winning_constructor" : "Tyrrell 🇬🇧",
+    "date" : "1973-08-05T00:00:00.000Z",
+    "winning_driver" : "Jackie Stewart 🇬🇧",
+    "season" : 1973
+  },
+  {
+    "name" : "1972 German Grand Prix 🇩🇪",
+    "race_duration" : "1:42:12.3",
+    "round" : 8,
+    "laps_completed" : 14,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1972-07-30T00:00:00.000Z",
+    "winning_driver" : "Jacky Ickx 🇧🇪",
+    "season" : 1972
+  },
+  {
+    "name" : "1971 German Grand Prix 🇩🇪",
+    "race_duration" : "1:29:16.3",
+    "round" : 7,
+    "laps_completed" : 12,
+    "winning_constructor" : "Tyrrell 🇬🇧",
+    "date" : "1971-08-01T00:00:00.000Z",
+    "winning_driver" : "Jackie Stewart 🇬🇧",
+    "season" : 1971
+  },
+  {
+    "name" : "1969 German Grand Prix 🇩🇪",
+    "race_duration" : "1:49:55.4",
+    "round" : 7,
+    "laps_completed" : 14,
+    "winning_constructor" : "Brabham-Ford 🇬🇧",
+    "date" : "1969-08-03T00:00:00.000Z",
+    "winning_driver" : "Jacky Ickx 🇧🇪",
+    "season" : 1969
+  },
+  {
+    "name" : "1968 German Grand Prix 🇩🇪",
+    "race_duration" : "2:19:03.2",
+    "round" : 8,
+    "laps_completed" : 14,
+    "winning_constructor" : "Matra-Ford 🇫🇷",
+    "date" : "1968-08-04T00:00:00.000Z",
+    "winning_driver" : "Jackie Stewart 🇬🇧",
+    "season" : 1968
+  },
+  {
+    "name" : "1967 German Grand Prix 🇩🇪",
+    "race_duration" : "2:05:55.7",
+    "round" : 7,
+    "laps_completed" : 15,
+    "winning_constructor" : "Brabham-Repco 🇬🇧",
+    "date" : "1967-08-06T00:00:00.000Z",
+    "winning_driver" : "Denny Hulme 🇳🇿",
+    "season" : 1967
+  },
+  {
+    "name" : "1966 German Grand Prix 🇩🇪",
+    "race_duration" : "2:27:03.0",
+    "round" : 6,
+    "laps_completed" : 15,
+    "winning_constructor" : "Brabham-Repco 🇬🇧",
+    "date" : "1966-08-07T00:00:00.000Z",
+    "winning_driver" : "Jack Brabham 🇦🇺",
+    "season" : 1966
+  },
+  {
+    "name" : "1965 German Grand Prix 🇩🇪",
+    "race_duration" : "2:07:52.4",
+    "round" : 7,
+    "laps_completed" : 15,
+    "winning_constructor" : "Lotus-Climax 🇬🇧",
+    "date" : "1965-08-01T00:00:00.000Z",
+    "winning_driver" : "Jim Clark 🇬🇧",
+    "season" : 1965
+  },
+  {
+    "name" : "1964 German Grand Prix 🇩🇪",
+    "race_duration" : "2:12:04.8",
+    "round" : 6,
+    "laps_completed" : 15,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1964-08-02T00:00:00.000Z",
+    "winning_driver" : "John Surtees 🇬🇧",
+    "season" : 1964
+  },
+  {
+    "name" : "1963 German Grand Prix 🇩🇪",
+    "race_duration" : "2:13:06.8",
+    "round" : 6,
+    "laps_completed" : 15,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1963-08-04T00:00:00.000Z",
+    "winning_driver" : "John Surtees 🇬🇧",
+    "season" : 1963
+  },
+  {
+    "name" : "1962 German Grand Prix 🇩🇪",
+    "race_duration" : "2:38:45.3",
+    "round" : 6,
+    "laps_completed" : 15,
+    "winning_constructor" : "BRM 🇬🇧",
+    "date" : "1962-08-05T00:00:00.000Z",
+    "winning_driver" : "Graham Hill 🇬🇧",
+    "season" : 1962
+  },
+  {
+    "name" : "1961 German Grand Prix 🇩🇪",
+    "race_duration" : "2:18:12.4",
+    "round" : 6,
+    "laps_completed" : 15,
+    "winning_constructor" : "Lotus-Climax 🇬🇧",
+    "date" : "1961-08-06T00:00:00.000Z",
+    "winning_driver" : "Stirling Moss 🇬🇧",
+    "season" : 1961
+  },
+  {
+    "name" : "1958 German Grand Prix 🇩🇪",
+    "race_duration" : "2:21:15.0",
+    "round" : 8,
+    "laps_completed" : 15,
+    "winning_constructor" : "Vanwall 🇬🇧",
+    "date" : "1958-08-03T00:00:00.000Z",
+    "winning_driver" : "Tony Brooks 🇬🇧",
+    "season" : 1958
+  },
+  {
+    "name" : "1957 German Grand Prix 🇩🇪",
+    "race_duration" : "3:30:38.3",
+    "round" : 6,
+    "laps_completed" : 22,
+    "winning_constructor" : "Maserati 🇮🇹",
+    "date" : "1957-08-04T00:00:00.000Z",
+    "winning_driver" : "Juan Fangio 🇦🇷",
+    "season" : 1957
+  },
+  {
+    "name" : "1956 German Grand Prix 🇩🇪",
+    "race_duration" : "3:38:43.7",
+    "round" : 7,
+    "laps_completed" : 22,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1956-08-05T00:00:00.000Z",
+    "winning_driver" : "Juan Fangio 🇦🇷",
+    "season" : 1956
+  },
+  {
+    "name" : "1954 German Grand Prix 🇩🇪",
+    "race_duration" : "3:45:45.8",
+    "round" : 6,
+    "laps_completed" : 22,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "1954-08-01T00:00:00.000Z",
+    "winning_driver" : "Juan Fangio 🇦🇷",
+    "season" : 1954
+  },
+  {
+    "name" : "1953 German Grand Prix 🇩🇪",
+    "race_duration" : "3:02:25.0",
+    "round" : 7,
+    "laps_completed" : 18,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1953-08-02T00:00:00.000Z",
+    "winning_driver" : "Nino Farina 🇮🇹",
+    "season" : 1953
+  },
+  {
+    "name" : "1952 German Grand Prix 🇩🇪",
+    "race_duration" : "3:06:13.3",
+    "round" : 6,
+    "laps_completed" : 18,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1952-08-03T00:00:00.000Z",
+    "winning_driver" : "Alberto Ascari 🇮🇹",
+    "season" : 1952
+  },
+  {
+    "name" : "1951 German Grand Prix 🇩🇪",
+    "race_duration" : "3:23:03.3",
+    "round" : 6,
+    "laps_completed" : 20,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1951-07-29T00:00:00.000Z",
+    "winning_driver" : "Alberto Ascari 🇮🇹",
+    "season" : 1951
+  }
 ]

@@ -1,19 +1,19 @@
 name,race_duration,round,laps_completed,winning_constructor,date,winning_driver,season
-1963 Mexican Grand Prix 🇲🇽,2:09:52.1,9,65,Lotus-Climax 🇬🇧,1963-10-27,Jim Clark 🇬🇧,1963
-1964 Mexican Grand Prix 🇲🇽,2:09:50.32,10,65,Brabham-Climax 🇬🇧,1964-10-25,Dan Gurney 🇺🇸,1964
-1965 Mexican Grand Prix 🇲🇽,2:08:32.10,10,65,Honda 🇯🇵,1965-10-24,Richie Ginther 🇺🇸,1965
-1966 Mexican Grand Prix 🇲🇽,2:06:35.34,9,65,Cooper-Maserati 🇬🇧,1966-10-23,John Surtees 🇬🇧,1966
-1967 Mexican Grand Prix 🇲🇽,1:59:28.70,11,65,Lotus-Ford 🇬🇧,1967-10-22,Jim Clark 🇬🇧,1967
-1968 Mexican Grand Prix 🇲🇽,1:56:43.95,12,65,Lotus-Ford 🇬🇧,1968-11-03,Graham Hill 🇬🇧,1968
-1969 Mexican Grand Prix 🇲🇽,1:54:08.80,11,65,McLaren-Ford 🇬🇧,1969-10-19,Denny Hulme 🇳🇿,1969
-1970 Mexican Grand Prix 🇲🇽,1:53:28.3,13,65,Ferrari 🇮🇹,1970-10-25,Jacky Ickx 🇧🇪,1970
-1986 Mexican Grand Prix 🇲🇽,1:33:18.700,15,68,Benetton 🇮🇹,1986-10-12,Gerhard Berger 🇦🇹,1986
-1987 Mexican Grand Prix 🇲🇽,1:26:24.207,14,63,Williams 🇬🇧,1987-10-18,Nigel Mansell 🇬🇧,1987
-1988 Mexican Grand Prix 🇲🇽,1:30:15.737,4,67,McLaren 🇬🇧,1988-05-29,Alain Prost 🇫🇷,1988
-1989 Mexican Grand Prix 🇲🇽,1:35:21.431,4,69,McLaren 🇬🇧,1989-05-28,Ayrton Senna 🇧🇷,1989
-1990 Mexican Grand Prix 🇲🇽,1:32:35.783,6,69,Ferrari 🇮🇹,1990-06-24,Alain Prost 🇫🇷,1990
-1991 Mexican Grand Prix 🇲🇽,1:29:52.205,6,67,Williams 🇬🇧,1991-06-16,Riccardo Patrese 🇮🇹,1991
-1992 Mexican Grand Prix 🇲🇽,1:31:53.587,2,69,Williams 🇬🇧,1992-03-22,Nigel Mansell 🇬🇧,1992
-2015 Mexican Grand Prix 🇲🇽,1:42:35.038,17,71,Mercedes 🇩🇪,2015-11-01,Nico Rosberg 🇩🇪,2015
-2016 Mexican Grand Prix 🇲🇽,1:40:31.402,19,71,Mercedes 🇩🇪,2016-10-30,Lewis Hamilton 🇬🇧,2016
-2017 Mexican Grand Prix 🇲🇽,,18,,,2017-10-29,,2017
+1963 Mexican Grand Prix 🇲🇽,2:09:52.1,9,65,Lotus-Climax 🇬🇧,1963-10-27T00:00:00.000Z,Jim Clark 🇬🇧,1963
+1964 Mexican Grand Prix 🇲🇽,2:09:50.32,10,65,Brabham-Climax 🇬🇧,1964-10-25T00:00:00.000Z,Dan Gurney 🇺🇸,1964
+1965 Mexican Grand Prix 🇲🇽,2:08:32.10,10,65,Honda 🇯🇵,1965-10-24T00:00:00.000Z,Richie Ginther 🇺🇸,1965
+1966 Mexican Grand Prix 🇲🇽,2:06:35.34,9,65,Cooper-Maserati 🇬🇧,1966-10-23T00:00:00.000Z,John Surtees 🇬🇧,1966
+1967 Mexican Grand Prix 🇲🇽,1:59:28.70,11,65,Lotus-Ford 🇬🇧,1967-10-22T00:00:00.000Z,Jim Clark 🇬🇧,1967
+1968 Mexican Grand Prix 🇲🇽,1:56:43.95,12,65,Lotus-Ford 🇬🇧,1968-11-03T00:00:00.000Z,Graham Hill 🇬🇧,1968
+1969 Mexican Grand Prix 🇲🇽,1:54:08.80,11,65,McLaren-Ford 🇬🇧,1969-10-19T00:00:00.000Z,Denny Hulme 🇳🇿,1969
+1970 Mexican Grand Prix 🇲🇽,1:53:28.3,13,65,Ferrari 🇮🇹,1970-10-25T00:00:00.000Z,Jacky Ickx 🇧🇪,1970
+1986 Mexican Grand Prix 🇲🇽,1:33:18.700,15,68,Benetton 🇮🇹,1986-10-12T00:00:00.000Z,Gerhard Berger 🇦🇹,1986
+1987 Mexican Grand Prix 🇲🇽,1:26:24.207,14,63,Williams 🇬🇧,1987-10-18T00:00:00.000Z,Nigel Mansell 🇬🇧,1987
+1988 Mexican Grand Prix 🇲🇽,1:30:15.737,4,67,McLaren 🇬🇧,1988-05-29T00:00:00.000Z,Alain Prost 🇫🇷,1988
+1989 Mexican Grand Prix 🇲🇽,1:35:21.431,4,69,McLaren 🇬🇧,1989-05-28T00:00:00.000Z,Ayrton Senna 🇧🇷,1989
+1990 Mexican Grand Prix 🇲🇽,1:32:35.783,6,69,Ferrari 🇮🇹,1990-06-24T00:00:00.000Z,Alain Prost 🇫🇷,1990
+1991 Mexican Grand Prix 🇲🇽,1:29:52.205,6,67,Williams 🇬🇧,1991-06-16T00:00:00.000Z,Riccardo Patrese 🇮🇹,1991
+1992 Mexican Grand Prix 🇲🇽,1:31:53.587,2,69,Williams 🇬🇧,1992-03-22T00:00:00.000Z,Nigel Mansell 🇬🇧,1992
+2015 Mexican Grand Prix 🇲🇽,1:42:35.038,17,71,Mercedes 🇩🇪,2015-11-01T00:00:00.000Z,Nico Rosberg 🇩🇪,2015
+2016 Mexican Grand Prix 🇲🇽,1:40:31.402,19,71,Mercedes 🇩🇪,2016-10-30T00:00:00.000Z,Lewis Hamilton 🇬🇧,2016
+2017 Mexican Grand Prix 🇲🇽,,18,,,2017-10-29T00:00:00.000Z,,2017

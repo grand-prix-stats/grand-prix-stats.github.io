@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "number_of_laps_led": "42"
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "number_of_laps_led": "24"
-    },
-    {
-        "driver": "Jean Alesi 🇫🇷",
-        "number_of_laps_led": "4"
-    }
+  {
+    "driver" : "Damon Hill 🇬🇧",
+    "number_of_laps_led" : "42"
+  },
+  {
+    "driver" : "Jacques Villeneuve 🇨🇦",
+    "number_of_laps_led" : "24"
+  },
+  {
+    "driver" : "Jean Alesi 🇫🇷",
+    "number_of_laps_led" : "4"
+  }
 ]

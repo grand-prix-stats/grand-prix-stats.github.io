@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1976-08-29",
-        "final_position": "R",
-        "grid": 18,
-        "laps_completed": 9,
-        "name": "1976 Dutch Grand Prix 🇳🇱",
-        "points": 0.0,
-        "round": 12,
-        "season": 1976,
-        "teammate": "Alan Jones 🇦🇺",
-        "teammate_final_position": "8",
-        "teammate_grid": 16,
-        "time": null
-    },
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1976-08-29",
-        "final_position": "R",
-        "grid": 18,
-        "laps_completed": 9,
-        "name": "1976 Dutch Grand Prix 🇳🇱",
-        "points": 0.0,
-        "round": 12,
-        "season": 1976,
-        "teammate": "Henri Pescarolo 🇫🇷",
-        "teammate_final_position": "11",
-        "teammate_grid": 22,
-        "time": null
-    }
+  {
+    "name" : "1976 Dutch Grand Prix 🇳🇱",
+    "teammate_final_position" : "8",
+    "grid" : 18,
+    "date" : "1976-08-29T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1976,
+    "teammate" : "Alan Jones 🇦🇺",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 12,
+    "teammate_grid" : 16,
+    "laps_completed" : 9,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1976 Dutch Grand Prix 🇳🇱",
+    "teammate_final_position" : "11",
+    "grid" : 18,
+    "date" : "1976-08-29T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1976,
+    "teammate" : "Henri Pescarolo 🇫🇷",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 12,
+    "teammate_grid" : 22,
+    "laps_completed" : 9,
+    "time" : null,
+    "points" : 0
+  }
 ]

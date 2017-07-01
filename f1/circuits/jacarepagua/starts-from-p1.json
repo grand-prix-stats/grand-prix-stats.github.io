@@ -1,34 +1,34 @@
 [
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "number_of_starts_from_p1": 3
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Elio de Angelis 🇮🇹",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Michele Alboreto 🇮🇹",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 3,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Elio de Angelis 🇮🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Keke Rosberg 🇫🇮"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Michele Alboreto 🇮🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  }
 ]

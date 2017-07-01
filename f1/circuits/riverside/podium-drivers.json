@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Innes Ireland 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Bruce McLaren 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Innes Ireland 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Stirling Moss 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

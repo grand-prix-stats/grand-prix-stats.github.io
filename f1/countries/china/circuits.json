@@ -1,10 +1,10 @@
 [
-    {
-        "country": "China",
-        "location": "Shanghai",
-        "most_wins_driver": "Lewis Hamilton 🇬🇧",
-        "name": "Shanghai International Circuit",
-        "races": 14,
-        "wins": 5
-    }
+  {
+    "most_wins_driver" : "Lewis Hamilton 🇬🇧",
+    "name" : "Shanghai International Circuit",
+    "location" : "Shanghai",
+    "races" : 14,
+    "wins" : 5,
+    "country" : "China"
+  }
 ]

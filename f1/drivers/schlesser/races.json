@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Williams 🇬🇧",
-        "date": "1988-09-11",
-        "final_position": "11",
-        "grid": 22,
-        "laps_completed": 49,
-        "name": "1988 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 12,
-        "season": 1988,
-        "teammate": "Riccardo Patrese 🇮🇹",
-        "teammate_final_position": "7",
-        "teammate_grid": 10,
-        "time": null
-    },
-    {
-        "constructor": "RAM 🇬🇧",
-        "date": "1983-04-17",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1983 French Grand Prix 🇫🇷",
-        "points": 0.0,
-        "round": 3,
-        "season": 1983,
-        "teammate": "Eliseo Salazar 🇨🇱",
-        "teammate_final_position": "F",
-        "teammate_grid": 0,
-        "time": null
-    }
+  {
+    "name" : "1988 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "7",
+    "grid" : 22,
+    "date" : "1988-09-11T00:00:00.000Z",
+    "final_position" : "11",
+    "season" : 1988,
+    "teammate" : "Riccardo Patrese 🇮🇹",
+    "constructor" : "Williams 🇬🇧",
+    "round" : 12,
+    "teammate_grid" : 10,
+    "laps_completed" : 49,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1983 French Grand Prix 🇫🇷",
+    "teammate_final_position" : "F",
+    "grid" : 0,
+    "date" : "1983-04-17T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1983,
+    "teammate" : "Eliseo Salazar 🇨🇱",
+    "constructor" : "RAM 🇬🇧",
+    "round" : 3,
+    "teammate_grid" : 0,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

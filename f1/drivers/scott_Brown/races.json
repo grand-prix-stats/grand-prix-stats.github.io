@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Connaught 🇬🇧",
-        "date": "1956-07-14",
-        "final_position": "R",
-        "grid": 10,
-        "laps_completed": 16,
-        "name": "1956 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 6,
-        "season": 1956,
-        "teammate": "Jack Fairman 🇬🇧",
-        "teammate_final_position": "4",
-        "teammate_grid": 21,
-        "time": null
-    },
-    {
-        "constructor": "Connaught 🇬🇧",
-        "date": "1956-07-14",
-        "final_position": "R",
-        "grid": 10,
-        "laps_completed": 16,
-        "name": "1956 British Grand Prix 🇬🇧",
-        "points": 0.0,
-        "round": 6,
-        "season": 1956,
-        "teammate": "Desmond Titterington 🇬🇧",
-        "teammate_final_position": "R",
-        "teammate_grid": 11,
-        "time": null
-    }
+  {
+    "name" : "1956 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "4",
+    "grid" : 10,
+    "date" : "1956-07-14T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1956,
+    "teammate" : "Jack Fairman 🇬🇧",
+    "constructor" : "Connaught 🇬🇧",
+    "round" : 6,
+    "teammate_grid" : 21,
+    "laps_completed" : 16,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1956 British Grand Prix 🇬🇧",
+    "teammate_final_position" : "R",
+    "grid" : 10,
+    "date" : "1956-07-14T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1956,
+    "teammate" : "Desmond Titterington 🇬🇧",
+    "constructor" : "Connaught 🇬🇧",
+    "round" : 6,
+    "teammate_grid" : 11,
+    "laps_completed" : 16,
+    "time" : null,
+    "points" : 0
+  }
 ]

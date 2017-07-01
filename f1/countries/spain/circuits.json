@@ -1,50 +1,50 @@
 [
-    {
-        "country": "Spain",
-        "location": "Barcelona",
-        "most_wins_driver": "Mike Hawthorn 🇬🇧",
-        "name": "Circuit de Pedralbes",
-        "races": 2,
-        "wins": 1
-    },
-    {
-        "country": "Spain",
-        "location": "Barcelona",
-        "most_wins_driver": "Jackie Stewart 🇬🇧",
-        "name": "Montjuïc",
-        "races": 4,
-        "wins": 2
-    },
-    {
-        "country": "Spain",
-        "location": "Jerez de la Frontera",
-        "most_wins_driver": "Alain Prost 🇫🇷",
-        "name": "Circuito de Jerez",
-        "races": 7,
-        "wins": 2
-    },
-    {
-        "country": "Spain",
-        "location": "Madrid",
-        "most_wins_driver": "Mario Andretti 🇺🇸",
-        "name": "Jarama",
-        "races": 9,
-        "wins": 2
-    },
-    {
-        "country": "Spain",
-        "location": "Montmeló",
-        "most_wins_driver": "Michael Schumacher 🇩🇪",
-        "name": "Circuit de Barcelona-Catalunya",
-        "races": 27,
-        "wins": 6
-    },
-    {
-        "country": "Spain",
-        "location": "Valencia",
-        "most_wins_driver": "Sebastian Vettel 🇩🇪",
-        "name": "Valencia Street Circuit",
-        "races": 5,
-        "wins": 2
-    }
+  {
+    "most_wins_driver" : "Mike Hawthorn 🇬🇧",
+    "name" : "Circuit de Pedralbes",
+    "location" : "Barcelona",
+    "races" : 2,
+    "wins" : 1,
+    "country" : "Spain"
+  },
+  {
+    "most_wins_driver" : "Jackie Stewart 🇬🇧",
+    "name" : "Montjuïc",
+    "location" : "Barcelona",
+    "races" : 4,
+    "wins" : 2,
+    "country" : "Spain"
+  },
+  {
+    "most_wins_driver" : "Alain Prost 🇫🇷",
+    "name" : "Circuito de Jerez",
+    "location" : "Jerez de la Frontera",
+    "races" : 7,
+    "wins" : 2,
+    "country" : "Spain"
+  },
+  {
+    "most_wins_driver" : "Mario Andretti 🇺🇸",
+    "name" : "Jarama",
+    "location" : "Madrid",
+    "races" : 9,
+    "wins" : 2,
+    "country" : "Spain"
+  },
+  {
+    "most_wins_driver" : "Michael Schumacher 🇩🇪",
+    "name" : "Circuit de Barcelona-Catalunya",
+    "location" : "Montmeló",
+    "races" : 27,
+    "wins" : 6,
+    "country" : "Spain"
+  },
+  {
+    "most_wins_driver" : "Sebastian Vettel 🇩🇪",
+    "name" : "Valencia Street Circuit",
+    "location" : "Valencia",
+    "races" : 5,
+    "wins" : 2,
+    "country" : "Spain"
+  }
 ]

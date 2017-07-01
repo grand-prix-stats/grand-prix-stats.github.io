@@ -1,18 +1,18 @@
 [
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 2
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Nino Farina 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Piero Taruffi 🇮🇹",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nino Farina 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Piero Taruffi 🇮🇹"
+  }
 ]

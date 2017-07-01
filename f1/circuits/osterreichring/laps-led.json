@@ -1,38 +1,38 @@
 [
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "number_of_laps_led": "136"
-    },
-    {
-        "driver": "Rubens Barrichello 🇧🇷",
-        "number_of_laps_led": "101"
-    },
-    {
-        "driver": "David Coulthard 🇬🇧",
-        "number_of_laps_led": "71"
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_laps_led": "57"
-    },
-    {
-        "driver": "Jarno Trulli 🇮🇹",
-        "number_of_laps_led": "37"
-    },
-    {
-        "driver": "Eddie Irvine 🇬🇧",
-        "number_of_laps_led": "32"
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "number_of_laps_led": "31"
-    },
-    {
-        "driver": "Juan Pablo Montoya 🇨🇴",
-        "number_of_laps_led": "23"
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "number_of_laps_led": "7"
-    }
+  {
+    "driver" : "Mika Häkkinen 🇫🇮",
+    "number_of_laps_led" : "136"
+  },
+  {
+    "driver" : "Rubens Barrichello 🇧🇷",
+    "number_of_laps_led" : "101"
+  },
+  {
+    "driver" : "David Coulthard 🇬🇧",
+    "number_of_laps_led" : "71"
+  },
+  {
+    "driver" : "Michael Schumacher 🇩🇪",
+    "number_of_laps_led" : "57"
+  },
+  {
+    "driver" : "Jarno Trulli 🇮🇹",
+    "number_of_laps_led" : "37"
+  },
+  {
+    "driver" : "Eddie Irvine 🇬🇧",
+    "number_of_laps_led" : "32"
+  },
+  {
+    "driver" : "Jacques Villeneuve 🇨🇦",
+    "number_of_laps_led" : "31"
+  },
+  {
+    "driver" : "Juan Pablo Montoya 🇨🇴",
+    "number_of_laps_led" : "23"
+  },
+  {
+    "driver" : "Kimi Räikkönen 🇫🇮",
+    "number_of_laps_led" : "7"
+  }
 ]

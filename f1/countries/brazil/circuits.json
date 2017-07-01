@@ -1,18 +1,18 @@
 [
-    {
-        "country": "Brazil",
-        "location": "Rio de Janeiro",
-        "most_wins_driver": "Alain Prost 🇫🇷",
-        "name": "Autódromo Internacional Nelson Piquet",
-        "races": 10,
-        "wins": 5
-    },
-    {
-        "country": "Brazil",
-        "location": "São Paulo",
-        "most_wins_driver": "Michael Schumacher 🇩🇪",
-        "name": "Autódromo José Carlos Pace",
-        "races": 35,
-        "wins": 4
-    }
+  {
+    "most_wins_driver" : "Alain Prost 🇫🇷",
+    "name" : "Autódromo Internacional Nelson Piquet",
+    "location" : "Rio de Janeiro",
+    "races" : 10,
+    "wins" : 5,
+    "country" : "Brazil"
+  },
+  {
+    "most_wins_driver" : "Michael Schumacher 🇩🇪",
+    "name" : "Autódromo José Carlos Pace",
+    "location" : "São Paulo",
+    "races" : 35,
+    "wins" : 4,
+    "country" : "Brazil"
+  }
 ]

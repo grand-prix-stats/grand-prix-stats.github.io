@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Singapore",
-        "location": "Marina Bay",
-        "most_wins_driver": "Sebastian Vettel 🇩🇪",
-        "name": "Marina Bay Street Circuit",
-        "races": 10,
-        "wins": 4
-    }
+  {
+    "most_wins_driver" : "Sebastian Vettel 🇩🇪",
+    "name" : "Marina Bay Street Circuit",
+    "location" : "Marina Bay",
+    "races" : 10,
+    "wins" : 4,
+    "country" : "Singapore"
+  }
 ]

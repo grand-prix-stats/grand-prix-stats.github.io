@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Connaught 🇬🇧",
-        "date": "1958-05-18",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1958 Monaco Grand Prix 🇲🇨",
-        "points": 0.0,
-        "round": 2,
-        "season": 1958,
-        "teammate": "Paul Emery 🇬🇧",
-        "teammate_final_position": "F",
-        "teammate_grid": 0,
-        "time": null
-    },
-    {
-        "constructor": "Connaught 🇬🇧",
-        "date": "1958-05-18",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1958 Monaco Grand Prix 🇲🇨",
-        "points": 0.0,
-        "round": 2,
-        "season": 1958,
-        "teammate": "Bernie Ecclestone 🇬🇧",
-        "teammate_final_position": "F",
-        "teammate_grid": 0,
-        "time": null
-    }
+  {
+    "name" : "1958 Monaco Grand Prix 🇲🇨",
+    "teammate_final_position" : "F",
+    "grid" : 0,
+    "date" : "1958-05-18T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1958,
+    "teammate" : "Paul Emery 🇬🇧",
+    "constructor" : "Connaught 🇬🇧",
+    "round" : 2,
+    "teammate_grid" : 0,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1958 Monaco Grand Prix 🇲🇨",
+    "teammate_final_position" : "F",
+    "grid" : 0,
+    "date" : "1958-05-18T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1958,
+    "teammate" : "Bernie Ecclestone 🇬🇧",
+    "constructor" : "Connaught 🇬🇧",
+    "round" : 2,
+    "teammate_grid" : 0,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

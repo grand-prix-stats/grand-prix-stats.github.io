@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Morocco",
-        "location": "Casablanca",
-        "most_wins_driver": "Stirling Moss 🇬🇧",
-        "name": "Ain Diab",
-        "races": 1,
-        "wins": 1
-    }
+  {
+    "most_wins_driver" : "Stirling Moss 🇬🇧",
+    "name" : "Ain Diab",
+    "location" : "Casablanca",
+    "races" : 1,
+    "wins" : 1,
+    "country" : "Morocco"
+  }
 ]

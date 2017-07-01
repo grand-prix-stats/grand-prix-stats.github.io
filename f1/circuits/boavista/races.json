@@ -1,22 +1,22 @@
 [
-    {
-        "date": "1960-08-14",
-        "laps_completed": 55,
-        "name": "1960 Portuguese Grand Prix 🇵🇹",
-        "race_duration": "2:19:00.03",
-        "round": 8,
-        "season": 1960,
-        "winning_constructor": "Cooper-Climax 🇬🇧",
-        "winning_driver": "Jack Brabham 🇦🇺"
-    },
-    {
-        "date": "1958-08-24",
-        "laps_completed": 50,
-        "name": "1958 Portuguese Grand Prix 🇵🇹",
-        "race_duration": "2:11:27.80",
-        "round": 9,
-        "season": 1958,
-        "winning_constructor": "Vanwall 🇬🇧",
-        "winning_driver": "Stirling Moss 🇬🇧"
-    }
+  {
+    "name" : "1960 Portuguese Grand Prix 🇵🇹",
+    "race_duration" : "2:19:00.03",
+    "round" : 8,
+    "laps_completed" : 55,
+    "winning_constructor" : "Cooper-Climax 🇬🇧",
+    "date" : "1960-08-14T00:00:00.000Z",
+    "winning_driver" : "Jack Brabham 🇦🇺",
+    "season" : 1960
+  },
+  {
+    "name" : "1958 Portuguese Grand Prix 🇵🇹",
+    "race_duration" : "2:11:27.80",
+    "round" : 9,
+    "laps_completed" : 50,
+    "winning_constructor" : "Vanwall 🇬🇧",
+    "date" : "1958-08-24T00:00:00.000Z",
+    "winning_driver" : "Stirling Moss 🇬🇧",
+    "season" : 1958
+  }
 ]

@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Stebro 🇨🇦",
-        "date": "1963-10-06",
-        "final_position": "7",
-        "grid": 21,
-        "laps_completed": 88,
-        "name": "1963 United States Grand Prix 🇺🇸",
-        "points": 0.0,
-        "round": 8,
-        "season": 1963,
-        "teammate": "Ernie de Vos 🇳🇱",
-        "teammate_final_position": "W",
-        "teammate_grid": 0,
-        "time": null
-    }
+  {
+    "name" : "1963 United States Grand Prix 🇺🇸",
+    "teammate_final_position" : "W",
+    "grid" : 21,
+    "date" : "1963-10-06T00:00:00.000Z",
+    "final_position" : "7",
+    "season" : 1963,
+    "teammate" : "Ernie de Vos 🇳🇱",
+    "constructor" : "Stebro 🇨🇦",
+    "round" : 8,
+    "teammate_grid" : 0,
+    "laps_completed" : 88,
+    "time" : null,
+    "points" : 0
+  }
 ]

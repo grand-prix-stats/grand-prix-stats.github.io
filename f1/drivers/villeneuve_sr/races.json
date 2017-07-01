@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Arrows 🇬🇧",
-        "date": "1981-10-17",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1981 Caesars Palace Grand Prix 🇺🇸",
-        "points": 0.0,
-        "round": 15,
-        "season": 1981,
-        "teammate": "Riccardo Patrese 🇮🇹",
-        "teammate_final_position": "11",
-        "teammate_grid": 11,
-        "time": null
-    },
-    {
-        "constructor": "Arrows 🇬🇧",
-        "date": "1981-09-27",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1981 Canadian Grand Prix 🇨🇦",
-        "points": 0.0,
-        "round": 14,
-        "season": 1981,
-        "teammate": "Riccardo Patrese 🇮🇹",
-        "teammate_final_position": "R",
-        "teammate_grid": 18,
-        "time": null
-    }
+  {
+    "name" : "1981 Caesars Palace Grand Prix 🇺🇸",
+    "teammate_final_position" : "11",
+    "grid" : 0,
+    "date" : "1981-10-17T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1981,
+    "teammate" : "Riccardo Patrese 🇮🇹",
+    "constructor" : "Arrows 🇬🇧",
+    "round" : 15,
+    "teammate_grid" : 11,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1981 Canadian Grand Prix 🇨🇦",
+    "teammate_final_position" : "R",
+    "grid" : 0,
+    "date" : "1981-09-27T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1981,
+    "teammate" : "Riccardo Patrese 🇮🇹",
+    "constructor" : "Arrows 🇬🇧",
+    "round" : 14,
+    "teammate_grid" : 18,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

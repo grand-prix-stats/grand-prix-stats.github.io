@@ -1,198 +1,198 @@
 [
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "times": 6
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 6
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 5
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "times": 4
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "times": 4
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "times": 3
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "times": 3
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "times": 3
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "times": 2
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "times": 2
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "times": 2
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 2
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 2
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "times": 2
-    },
-    {
-        "driver": "Nino Farina 🇮🇹",
-        "times": 2
-    },
-    {
-        "driver": "Pedro Rodríguez 🇲🇽",
-        "times": 2
-    },
-    {
-        "driver": "Phil Hill 🇺🇸",
-        "times": 2
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Chris Amon 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Didier Pironi 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Felice Bonetto 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Harry Schell 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Innes Ireland 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jean Behra 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jean-Pierre Beltoise 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jo Bonnier 🇸🇪",
-        "times": 1
-    },
-    {
-        "driver": "Jo Siffert 🇨🇭",
-        "times": 1
-    },
-    {
-        "driver": "Jochen Rindt 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "John Watson 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "José Froilán González 🇦🇷",
-        "times": 1
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 1
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Luigi Villoresi 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Masten Gregory 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Patrick Tambay 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Peter Arundell 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "times": 1
-    },
-    {
-        "driver": "Trevor Taylor 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Wolfgang von Trips 🇩🇪",
-        "times": 1
-    }
+  {
+    "times" : 6,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "times" : 6,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 5,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 4,
+    "driver" : "Clay Regazzoni 🇨🇭"
+  },
+  {
+    "times" : 4,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "times" : 3,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "times" : 3,
+    "driver" : "Graham Hill 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Jacques Laffite 🇫🇷"
+  },
+  {
+    "times" : 3,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Alan Jones 🇦🇺"
+  },
+  {
+    "times" : 2,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Dan Gurney 🇺🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 2,
+    "driver" : "John Surtees 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Nino Farina 🇮🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Pedro Rodríguez 🇲🇽"
+  },
+  {
+    "times" : 2,
+    "driver" : "Phil Hill 🇺🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "René Arnoux 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Stirling Moss 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Chris Amon 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Didier Pironi 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Felice Bonetto 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "François Cevert 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Harry Schell 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Innes Ireland 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean Behra 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean-Pierre Beltoise 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jo Bonnier 🇸🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jo Siffert 🇨🇭"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jochen Rindt 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "John Watson 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "José Froilán González 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Keke Rosberg 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Luigi Musso 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Luigi Villoresi 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Masten Gregory 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Patrick Tambay 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Arundell 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Trevor Taylor 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Wolfgang von Trips 🇩🇪"
+  }
 ]

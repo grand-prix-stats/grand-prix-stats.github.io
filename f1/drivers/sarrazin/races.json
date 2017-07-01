@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Minardi 🇮🇹",
-        "date": "1999-04-11",
-        "final_position": "R",
-        "grid": 18,
-        "laps_completed": 31,
-        "name": "1999 Brazilian Grand Prix 🇧🇷",
-        "points": 0.0,
-        "round": 2,
-        "season": 1999,
-        "teammate": "Marc Gené 🇪🇸",
-        "teammate_final_position": "9",
-        "teammate_grid": 20,
-        "time": null
-    }
+  {
+    "name" : "1999 Brazilian Grand Prix 🇧🇷",
+    "teammate_final_position" : "9",
+    "grid" : 18,
+    "date" : "1999-04-11T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1999,
+    "teammate" : "Marc Gené 🇪🇸",
+    "constructor" : "Minardi 🇮🇹",
+    "round" : 2,
+    "teammate_grid" : 20,
+    "laps_completed" : 31,
+    "time" : null,
+    "points" : 0
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "date": "1964-08-23",
-        "laps_completed": 105,
-        "name": "1964 Austrian Grand Prix 🇦🇹",
-        "race_duration": "2:06:18.23",
-        "round": 7,
-        "season": 1964,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Lorenzo Bandini 🇮🇹"
-    }
+  {
+    "name" : "1964 Austrian Grand Prix 🇦🇹",
+    "race_duration" : "2:06:18.23",
+    "round" : 7,
+    "laps_completed" : 105,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1964-08-23T00:00:00.000Z",
+    "winning_driver" : "Lorenzo Bandini 🇮🇹",
+    "season" : 1964
+  }
 ]

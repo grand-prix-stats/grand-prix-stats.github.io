@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Bromme 🇺🇸",
-        "date": "1954-05-31",
-        "final_position": "R",
-        "grid": 29,
-        "laps_completed": 104,
-        "name": "1954 Indianapolis 500 🇺🇸",
-        "points": 0.0,
-        "round": 2,
-        "season": 1954,
-        "teammate": "Travis Webb 🇺🇸",
-        "teammate_final_position": "R",
-        "teammate_grid": 29,
-        "time": null
-    }
+  {
+    "name" : "1954 Indianapolis 500 🇺🇸",
+    "teammate_final_position" : "R",
+    "grid" : 29,
+    "date" : "1954-05-31T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1954,
+    "teammate" : "Travis Webb 🇺🇸",
+    "constructor" : "Bromme 🇺🇸",
+    "round" : 2,
+    "teammate_grid" : 29,
+    "laps_completed" : 104,
+    "time" : null,
+    "points" : 0
+  }
 ]

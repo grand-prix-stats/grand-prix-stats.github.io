@@ -1,112 +1,112 @@
 [
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2017-09-17",
-        "laps_completed": null,
-        "name": "2017 Singapore Grand Prix 🇸🇬",
-        "race_duration": null,
-        "round": 14,
-        "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2016-09-18",
-        "laps_completed": 61,
-        "name": "2016 Singapore Grand Prix 🇸🇬",
-        "race_duration": "1:55:48.950",
-        "round": 15,
-        "season": 2016,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Nico Rosberg 🇩🇪"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2015-09-20",
-        "laps_completed": 61,
-        "name": "2015 Singapore Grand Prix 🇸🇬",
-        "race_duration": "2:01:22.118",
-        "round": 13,
-        "season": 2015,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Sebastian Vettel 🇩🇪"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2014-09-21",
-        "laps_completed": 60,
-        "name": "2014 Singapore Grand Prix 🇸🇬",
-        "race_duration": "2:00:04.795",
-        "round": 14,
-        "season": 2014,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Lewis Hamilton 🇬🇧"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2013-09-22",
-        "laps_completed": 61,
-        "name": "2013 Singapore Grand Prix 🇸🇬",
-        "race_duration": "1:59:13.132",
-        "round": 13,
-        "season": 2013,
-        "winning_constructor": "Red Bull 🇦🇹",
-        "winning_driver": "Sebastian Vettel 🇩🇪"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2012-09-23",
-        "laps_completed": 59,
-        "name": "2012 Singapore Grand Prix 🇸🇬",
-        "race_duration": "2:00:26.144",
-        "round": 14,
-        "season": 2012,
-        "winning_constructor": "Red Bull 🇦🇹",
-        "winning_driver": "Sebastian Vettel 🇩🇪"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2011-09-25",
-        "laps_completed": 61,
-        "name": "2011 Singapore Grand Prix 🇸🇬",
-        "race_duration": "1:59:04.757",
-        "round": 14,
-        "season": 2011,
-        "winning_constructor": "Red Bull 🇦🇹",
-        "winning_driver": "Sebastian Vettel 🇩🇪"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2010-09-26",
-        "laps_completed": 61,
-        "name": "2010 Singapore Grand Prix 🇸🇬",
-        "race_duration": "1:57:53.579",
-        "round": 15,
-        "season": 2010,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Fernando Alonso 🇪🇸"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2009-09-27",
-        "laps_completed": 61,
-        "name": "2009 Singapore Grand Prix 🇸🇬",
-        "race_duration": "1:56:06.337",
-        "round": 14,
-        "season": 2009,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Lewis Hamilton 🇬🇧"
-    },
-    {
-        "circuit": "Marina Bay Street Circuit",
-        "date": "2008-09-28",
-        "laps_completed": 61,
-        "name": "2008 Singapore Grand Prix 🇸🇬",
-        "race_duration": "1:57:16.304",
-        "round": 15,
-        "season": 2008,
-        "winning_constructor": "Renault 🇫🇷",
-        "winning_driver": "Fernando Alonso 🇪🇸"
-    }
+  {
+    "name" : "2017 Singapore Grand Prix 🇸🇬",
+    "race_duration" : null,
+    "round" : 14,
+    "laps_completed" : null,
+    "winning_constructor" : null,
+    "date" : "2017-09-17T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : null,
+    "season" : 2017
+  },
+  {
+    "name" : "2016 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "1:55:48.950",
+    "round" : 15,
+    "laps_completed" : 61,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2016-09-18T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Nico Rosberg 🇩🇪",
+    "season" : 2016
+  },
+  {
+    "name" : "2015 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "2:01:22.118",
+    "round" : 13,
+    "laps_completed" : 61,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2015-09-20T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Sebastian Vettel 🇩🇪",
+    "season" : 2015
+  },
+  {
+    "name" : "2014 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "2:00:04.795",
+    "round" : 14,
+    "laps_completed" : 60,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2014-09-21T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Lewis Hamilton 🇬🇧",
+    "season" : 2014
+  },
+  {
+    "name" : "2013 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "1:59:13.132",
+    "round" : 13,
+    "laps_completed" : 61,
+    "winning_constructor" : "Red Bull 🇦🇹",
+    "date" : "2013-09-22T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Sebastian Vettel 🇩🇪",
+    "season" : 2013
+  },
+  {
+    "name" : "2012 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "2:00:26.144",
+    "round" : 14,
+    "laps_completed" : 59,
+    "winning_constructor" : "Red Bull 🇦🇹",
+    "date" : "2012-09-23T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Sebastian Vettel 🇩🇪",
+    "season" : 2012
+  },
+  {
+    "name" : "2011 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "1:59:04.757",
+    "round" : 14,
+    "laps_completed" : 61,
+    "winning_constructor" : "Red Bull 🇦🇹",
+    "date" : "2011-09-25T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Sebastian Vettel 🇩🇪",
+    "season" : 2011
+  },
+  {
+    "name" : "2010 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "1:57:53.579",
+    "round" : 15,
+    "laps_completed" : 61,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "2010-09-26T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Fernando Alonso 🇪🇸",
+    "season" : 2010
+  },
+  {
+    "name" : "2009 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "1:56:06.337",
+    "round" : 14,
+    "laps_completed" : 61,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "2009-09-27T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Lewis Hamilton 🇬🇧",
+    "season" : 2009
+  },
+  {
+    "name" : "2008 Singapore Grand Prix 🇸🇬",
+    "race_duration" : "1:57:16.304",
+    "round" : 15,
+    "laps_completed" : 61,
+    "winning_constructor" : "Renault 🇫🇷",
+    "date" : "2008-09-28T00:00:00.000Z",
+    "circuit" : "Marina Bay Street Circuit",
+    "winning_driver" : "Fernando Alonso 🇪🇸",
+    "season" : 2008
+  }
 ]

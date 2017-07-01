@@ -1,122 +1,122 @@
 [
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "number_of_podiums": 6
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Didier Pironi 🇫🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jo Siffert 🇨🇭",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jochen Rindt 🇦🇹",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Carlos Pace 🇧🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Gilles Villeneuve 🇨🇦",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Innes Ireland 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jochen Mass 🇩🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Pedro Rodríguez 🇲🇽",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Piers Courage 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Reine Wisell 🇸🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Richie Ginther 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Tony Brooks 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Graham Hill 🇬🇧",
+    "number_of_podiums" : 6
+  },
+  {
+    "driver" : "Carlos Reutemann 🇦🇷",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "James Hunt 🇬🇧",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "Jim Clark 🇬🇧",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "John Surtees 🇬🇧",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "Jody Scheckter 🇿🇦",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Alan Jones 🇦🇺",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Dan Gurney 🇺🇸",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Denny Hulme 🇳🇿",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Didier Pironi 🇫🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Emerson Fittipaldi 🇧🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "François Cevert 🇫🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jackie Stewart 🇬🇧",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jo Siffert 🇨🇭",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jochen Rindt 🇦🇹",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Niki Lauda 🇦🇹",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Ronnie Peterson 🇸🇪",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Bruce McLaren 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Carlos Pace 🇧🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Gilles Villeneuve 🇨🇦",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Innes Ireland 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jochen Mass 🇩🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Mario Andretti 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Pedro Rodríguez 🇲🇽",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Piers Courage 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Reine Wisell 🇸🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "René Arnoux 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Richie Ginther 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Tony Brooks 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

@@ -1,10 +1,10 @@
 [
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_wins": 3
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 3,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  }
 ]

@@ -1,274 +1,274 @@
 [
-    {
-        "constructors": 24,
-        "year": 1950
-    },
-    {
-        "constructors": 24,
-        "year": 1951
-    },
-    {
-        "constructors": 25,
-        "year": 1952
-    },
-    {
-        "constructors": 21,
-        "year": 1953
-    },
-    {
-        "constructors": 19,
-        "year": 1954
-    },
-    {
-        "constructors": 19,
-        "year": 1955
-    },
-    {
-        "constructors": 15,
-        "year": 1956
-    },
-    {
-        "constructors": 14,
-        "year": 1957
-    },
-    {
-        "constructors": 16,
-        "year": 1958
-    },
-    {
-        "constructors": 26,
-        "year": 1959
-    },
-    {
-        "constructors": 23,
-        "year": 1960
-    },
-    {
-        "constructors": 14,
-        "year": 1961
-    },
-    {
-        "constructors": 19,
-        "year": 1962
-    },
-    {
-        "constructors": 22,
-        "year": 1963
-    },
-    {
-        "constructors": 13,
-        "year": 1964
-    },
-    {
-        "constructors": 16,
-        "year": 1965
-    },
-    {
-        "constructors": 15,
-        "year": 1966
-    },
-    {
-        "constructors": 20,
-        "year": 1967
-    },
-    {
-        "constructors": 17,
-        "year": 1968
-    },
-    {
-        "constructors": 11,
-        "year": 1969
-    },
-    {
-        "constructors": 12,
-        "year": 1970
-    },
-    {
-        "constructors": 12,
-        "year": 1971
-    },
-    {
-        "constructors": 12,
-        "year": 1972
-    },
-    {
-        "constructors": 12,
-        "year": 1973
-    },
-    {
-        "constructors": 20,
-        "year": 1974
-    },
-    {
-        "constructors": 20,
-        "year": 1975
-    },
-    {
-        "constructors": 21,
-        "year": 1976
-    },
-    {
-        "constructors": 21,
-        "year": 1977
-    },
-    {
-        "constructors": 19,
-        "year": 1978
-    },
-    {
-        "constructors": 19,
-        "year": 1979
-    },
-    {
-        "constructors": 15,
-        "year": 1980
-    },
-    {
-        "constructors": 17,
-        "year": 1981
-    },
-    {
-        "constructors": 17,
-        "year": 1982
-    },
-    {
-        "constructors": 16,
-        "year": 1983
-    },
-    {
-        "constructors": 15,
-        "year": 1984
-    },
-    {
-        "constructors": 17,
-        "year": 1985
-    },
-    {
-        "constructors": 14,
-        "year": 1986
-    },
-    {
-        "constructors": 16,
-        "year": 1987
-    },
-    {
-        "constructors": 18,
-        "year": 1988
-    },
-    {
-        "constructors": 20,
-        "year": 1989
-    },
-    {
-        "constructors": 19,
-        "year": 1990
-    },
-    {
-        "constructors": 19,
-        "year": 1991
-    },
-    {
-        "constructors": 16,
-        "year": 1992
-    },
-    {
-        "constructors": 13,
-        "year": 1993
-    },
-    {
-        "constructors": 14,
-        "year": 1994
-    },
-    {
-        "constructors": 13,
-        "year": 1995
-    },
-    {
-        "constructors": 11,
-        "year": 1996
-    },
-    {
-        "constructors": 12,
-        "year": 1997
-    },
-    {
-        "constructors": 11,
-        "year": 1998
-    },
-    {
-        "constructors": 11,
-        "year": 1999
-    },
-    {
-        "constructors": 11,
-        "year": 2000
-    },
-    {
-        "constructors": 11,
-        "year": 2001
-    },
-    {
-        "constructors": 11,
-        "year": 2002
-    },
-    {
-        "constructors": 10,
-        "year": 2003
-    },
-    {
-        "constructors": 10,
-        "year": 2004
-    },
-    {
-        "constructors": 10,
-        "year": 2005
-    },
-    {
-        "constructors": 12,
-        "year": 2006
-    },
-    {
-        "constructors": 11,
-        "year": 2007
-    },
-    {
-        "constructors": 11,
-        "year": 2008
-    },
-    {
-        "constructors": 10,
-        "year": 2009
-    },
-    {
-        "constructors": 12,
-        "year": 2010
-    },
-    {
-        "constructors": 12,
-        "year": 2011
-    },
-    {
-        "constructors": 12,
-        "year": 2012
-    },
-    {
-        "constructors": 11,
-        "year": 2013
-    },
-    {
-        "constructors": 11,
-        "year": 2014
-    },
-    {
-        "constructors": 10,
-        "year": 2015
-    },
-    {
-        "constructors": 11,
-        "year": 2016
-    },
-    {
-        "constructors": 10,
-        "year": 2017
-    }
+  {
+    "year" : 1950,
+    "constructors" : 24
+  },
+  {
+    "year" : 1951,
+    "constructors" : 24
+  },
+  {
+    "year" : 1952,
+    "constructors" : 25
+  },
+  {
+    "year" : 1953,
+    "constructors" : 21
+  },
+  {
+    "year" : 1954,
+    "constructors" : 19
+  },
+  {
+    "year" : 1955,
+    "constructors" : 19
+  },
+  {
+    "year" : 1956,
+    "constructors" : 15
+  },
+  {
+    "year" : 1957,
+    "constructors" : 14
+  },
+  {
+    "year" : 1958,
+    "constructors" : 16
+  },
+  {
+    "year" : 1959,
+    "constructors" : 26
+  },
+  {
+    "year" : 1960,
+    "constructors" : 23
+  },
+  {
+    "year" : 1961,
+    "constructors" : 14
+  },
+  {
+    "year" : 1962,
+    "constructors" : 19
+  },
+  {
+    "year" : 1963,
+    "constructors" : 22
+  },
+  {
+    "year" : 1964,
+    "constructors" : 13
+  },
+  {
+    "year" : 1965,
+    "constructors" : 16
+  },
+  {
+    "year" : 1966,
+    "constructors" : 15
+  },
+  {
+    "year" : 1967,
+    "constructors" : 20
+  },
+  {
+    "year" : 1968,
+    "constructors" : 17
+  },
+  {
+    "year" : 1969,
+    "constructors" : 11
+  },
+  {
+    "year" : 1970,
+    "constructors" : 12
+  },
+  {
+    "year" : 1971,
+    "constructors" : 12
+  },
+  {
+    "year" : 1972,
+    "constructors" : 12
+  },
+  {
+    "year" : 1973,
+    "constructors" : 12
+  },
+  {
+    "year" : 1974,
+    "constructors" : 20
+  },
+  {
+    "year" : 1975,
+    "constructors" : 20
+  },
+  {
+    "year" : 1976,
+    "constructors" : 21
+  },
+  {
+    "year" : 1977,
+    "constructors" : 21
+  },
+  {
+    "year" : 1978,
+    "constructors" : 19
+  },
+  {
+    "year" : 1979,
+    "constructors" : 19
+  },
+  {
+    "year" : 1980,
+    "constructors" : 15
+  },
+  {
+    "year" : 1981,
+    "constructors" : 17
+  },
+  {
+    "year" : 1982,
+    "constructors" : 17
+  },
+  {
+    "year" : 1983,
+    "constructors" : 16
+  },
+  {
+    "year" : 1984,
+    "constructors" : 15
+  },
+  {
+    "year" : 1985,
+    "constructors" : 17
+  },
+  {
+    "year" : 1986,
+    "constructors" : 14
+  },
+  {
+    "year" : 1987,
+    "constructors" : 16
+  },
+  {
+    "year" : 1988,
+    "constructors" : 18
+  },
+  {
+    "year" : 1989,
+    "constructors" : 20
+  },
+  {
+    "year" : 1990,
+    "constructors" : 19
+  },
+  {
+    "year" : 1991,
+    "constructors" : 19
+  },
+  {
+    "year" : 1992,
+    "constructors" : 16
+  },
+  {
+    "year" : 1993,
+    "constructors" : 13
+  },
+  {
+    "year" : 1994,
+    "constructors" : 14
+  },
+  {
+    "year" : 1995,
+    "constructors" : 13
+  },
+  {
+    "year" : 1996,
+    "constructors" : 11
+  },
+  {
+    "year" : 1997,
+    "constructors" : 12
+  },
+  {
+    "year" : 1998,
+    "constructors" : 11
+  },
+  {
+    "year" : 1999,
+    "constructors" : 11
+  },
+  {
+    "year" : 2000,
+    "constructors" : 11
+  },
+  {
+    "year" : 2001,
+    "constructors" : 11
+  },
+  {
+    "year" : 2002,
+    "constructors" : 11
+  },
+  {
+    "year" : 2003,
+    "constructors" : 10
+  },
+  {
+    "year" : 2004,
+    "constructors" : 10
+  },
+  {
+    "year" : 2005,
+    "constructors" : 10
+  },
+  {
+    "year" : 2006,
+    "constructors" : 12
+  },
+  {
+    "year" : 2007,
+    "constructors" : 11
+  },
+  {
+    "year" : 2008,
+    "constructors" : 11
+  },
+  {
+    "year" : 2009,
+    "constructors" : 10
+  },
+  {
+    "year" : 2010,
+    "constructors" : 12
+  },
+  {
+    "year" : 2011,
+    "constructors" : 12
+  },
+  {
+    "year" : 2012,
+    "constructors" : 12
+  },
+  {
+    "year" : 2013,
+    "constructors" : 11
+  },
+  {
+    "year" : 2014,
+    "constructors" : 11
+  },
+  {
+    "year" : 2015,
+    "constructors" : 10
+  },
+  {
+    "year" : 2016,
+    "constructors" : 11
+  },
+  {
+    "year" : 2017,
+    "constructors" : 10
+  }
 ]

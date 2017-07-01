@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Lola 🇬🇧",
-        "date": "1997-03-09",
-        "final_position": "F",
-        "grid": 23,
-        "laps_completed": 0,
-        "name": "1997 Australian Grand Prix 🇦🇺",
-        "points": 0.0,
-        "round": 1,
-        "season": 1997,
-        "teammate": "Ricardo Rosset 🇧🇷",
-        "teammate_final_position": "F",
-        "teammate_grid": 24,
-        "time": null
-    }
+  {
+    "name" : "1997 Australian Grand Prix 🇦🇺",
+    "teammate_final_position" : "F",
+    "grid" : 23,
+    "date" : "1997-03-09T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1997,
+    "teammate" : "Ricardo Rosset 🇧🇷",
+    "constructor" : "Lola 🇬🇧",
+    "round" : 1,
+    "teammate_grid" : 24,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

@@ -1,138 +1,138 @@
 [
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "times": 2
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 2
-    },
-    {
-        "driver": "Louis Rosier 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Luigi Villoresi 🇮🇹",
-        "times": 2
-    },
-    {
-        "driver": "Maurice Trintignant 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Paco Godia 🇪🇸",
-        "times": 2
-    },
-    {
-        "driver": "Prince Bira 🇹🇭",
-        "times": 2
-    },
-    {
-        "driver": "Robert Manzon 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Toulo de Graffenried 🇨🇭",
-        "times": 2
-    },
-    {
-        "driver": "André Simon 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Felice Bonetto 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Georges Grignard 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Hans Herrmann 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Harry Schell 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Pollet 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Swaters 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Jean Behra 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Johnny Claes 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "José Froilán González 🇦🇷",
-        "times": 1
-    },
-    {
-        "driver": "Juan Jover 🇪🇸",
-        "times": 1
-    },
-    {
-        "driver": "Karl Kling 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Ken Wharton 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Louis Chiron 🇲🇨",
-        "times": 1
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Nino Farina 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Ottorino Volonterio 🇨🇭",
-        "times": 1
-    },
-    {
-        "driver": "Peter Collins 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Philippe Étancelin 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Piero Taruffi 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Roberto Mieres 🇦🇷",
-        "times": 1
-    },
-    {
-        "driver": "Sergio Mantovani 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Yves Cabantous 🇫🇷",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Louis Rosier 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Luigi Villoresi 🇮🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Maurice Trintignant 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Paco Godia 🇪🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Prince Bira 🇹🇭"
+  },
+  {
+    "times" : 2,
+    "driver" : "Robert Manzon 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Toulo de Graffenried 🇨🇭"
+  },
+  {
+    "times" : 1,
+    "driver" : "André Simon 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Felice Bonetto 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Georges Grignard 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Hans Herrmann 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Harry Schell 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Pollet 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Swaters 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean Behra 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Johnny Claes 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "José Froilán González 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Juan Jover 🇪🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Karl Kling 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ken Wharton 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Louis Chiron 🇲🇨"
+  },
+  {
+    "times" : 1,
+    "driver" : "Luigi Musso 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nino Farina 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ottorino Volonterio 🇨🇭"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Collins 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Philippe Étancelin 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Piero Taruffi 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Roberto Mieres 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Sergio Mantovani 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Stirling Moss 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Yves Cabantous 🇫🇷"
+  }
 ]

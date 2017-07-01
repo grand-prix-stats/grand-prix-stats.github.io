@@ -1,0 +1,110 @@
+[
+  {
+    "raceref" : "195901",
+    "name" : "Monaco Grand Prix",
+    "round" : 1,
+    "country_code" : "mc",
+    "year" : 1959,
+    "date" : "1959-05-10T00:00:00.000Z",
+    "circuitref" : "monaco",
+    "time" : null,
+    "country_flag" : "🇲🇨",
+    "country" : "Monaco"
+  },
+  {
+    "raceref" : "195902",
+    "name" : "Indianapolis 500",
+    "round" : 2,
+    "country_code" : "us",
+    "year" : 1959,
+    "date" : "1959-05-30T00:00:00.000Z",
+    "circuitref" : "indianapolis",
+    "time" : null,
+    "country_flag" : "🇺🇸",
+    "country" : "USA"
+  },
+  {
+    "raceref" : "195903",
+    "name" : "Dutch Grand Prix",
+    "round" : 3,
+    "country_code" : "nl",
+    "year" : 1959,
+    "date" : "1959-05-31T00:00:00.000Z",
+    "circuitref" : "zandvoort",
+    "time" : null,
+    "country_flag" : "🇳🇱",
+    "country" : "Netherlands"
+  },
+  {
+    "raceref" : "195904",
+    "name" : "French Grand Prix",
+    "round" : 4,
+    "country_code" : "fr",
+    "year" : 1959,
+    "date" : "1959-07-05T00:00:00.000Z",
+    "circuitref" : "reims",
+    "time" : null,
+    "country_flag" : "🇫🇷",
+    "country" : "France"
+  },
+  {
+    "raceref" : "195905",
+    "name" : "British Grand Prix",
+    "round" : 5,
+    "country_code" : "gb",
+    "year" : 1959,
+    "date" : "1959-07-18T00:00:00.000Z",
+    "circuitref" : "aintree",
+    "time" : null,
+    "country_flag" : "🇬🇧",
+    "country" : "UK"
+  },
+  {
+    "raceref" : "195906",
+    "name" : "German Grand Prix",
+    "round" : 6,
+    "country_code" : "de",
+    "year" : 1959,
+    "date" : "1959-08-02T00:00:00.000Z",
+    "circuitref" : "avus",
+    "time" : null,
+    "country_flag" : "🇩🇪",
+    "country" : "Germany"
+  },
+  {
+    "raceref" : "195907",
+    "name" : "Portuguese Grand Prix",
+    "round" : 7,
+    "country_code" : "pt",
+    "year" : 1959,
+    "date" : "1959-08-23T00:00:00.000Z",
+    "circuitref" : "monsanto",
+    "time" : null,
+    "country_flag" : "🇵🇹",
+    "country" : "Portugal"
+  },
+  {
+    "raceref" : "195908",
+    "name" : "Italian Grand Prix",
+    "round" : 8,
+    "country_code" : "it",
+    "year" : 1959,
+    "date" : "1959-09-13T00:00:00.000Z",
+    "circuitref" : "monza",
+    "time" : null,
+    "country_flag" : "🇮🇹",
+    "country" : "Italy"
+  },
+  {
+    "raceref" : "195909",
+    "name" : "United States Grand Prix",
+    "round" : 9,
+    "country_code" : "us",
+    "year" : 1959,
+    "date" : "1959-12-12T00:00:00.000Z",
+    "circuitref" : "sebring",
+    "time" : null,
+    "country_flag" : "🇺🇸",
+    "country" : "USA"
+  }
+]

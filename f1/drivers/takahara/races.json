@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Kojima 🇯🇵",
-        "date": "1977-10-23",
-        "final_position": "R",
-        "grid": 19,
-        "laps_completed": 1,
-        "name": "1977 Japanese Grand Prix 🇯🇵",
-        "points": 0.0,
-        "round": 17,
-        "season": 1977,
-        "teammate": "Kazuyoshi Hoshino 🇯🇵",
-        "teammate_final_position": "11",
-        "teammate_grid": 11,
-        "time": null
-    },
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1976-10-24",
-        "final_position": "9",
-        "grid": 24,
-        "laps_completed": 70,
-        "name": "1976 Japanese Grand Prix 🇯🇵",
-        "points": 0.0,
-        "round": 16,
-        "season": 1976,
-        "teammate": "Alan Jones 🇦🇺",
-        "teammate_final_position": "4",
-        "teammate_grid": 20,
-        "time": null
-    }
+  {
+    "name" : "1977 Japanese Grand Prix 🇯🇵",
+    "teammate_final_position" : "11",
+    "grid" : 19,
+    "date" : "1977-10-23T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1977,
+    "teammate" : "Kazuyoshi Hoshino 🇯🇵",
+    "constructor" : "Kojima 🇯🇵",
+    "round" : 17,
+    "teammate_grid" : 11,
+    "laps_completed" : 1,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1976 Japanese Grand Prix 🇯🇵",
+    "teammate_final_position" : "4",
+    "grid" : 24,
+    "date" : "1976-10-24T00:00:00.000Z",
+    "final_position" : "9",
+    "season" : 1976,
+    "teammate" : "Alan Jones 🇦🇺",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 16,
+    "teammate_grid" : 20,
+    "laps_completed" : 70,
+    "time" : null,
+    "points" : 0
+  }
 ]

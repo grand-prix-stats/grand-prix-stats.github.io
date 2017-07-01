@@ -1,18 +1,18 @@
 [
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Nino Farina 🇮🇹",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Piero Taruffi 🇮🇹",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 2,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Nino Farina 🇮🇹"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Piero Taruffi 🇮🇹"
+  }
 ]

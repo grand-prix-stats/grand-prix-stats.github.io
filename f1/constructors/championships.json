@@ -1,87 +1,87 @@
 [
-    {
-        "% of total seasons": "23.53%",
-        "championships": 16,
-        "constructor": "Ferrari 🇮🇹"
-    },
-    {
-        "% of total seasons": "21.43%",
-        "championships": 9,
-        "constructor": "Williams 🇬🇧"
-    },
-    {
-        "% of total seasons": "16.67%",
-        "championships": 8,
-        "constructor": "McLaren 🇬🇧"
-    },
-    {
-        "% of total seasons": "30.77%",
-        "championships": 4,
-        "constructor": "Red Bull 🇦🇹"
-    },
-    {
-        "% of total seasons": "13.79%",
-        "championships": 4,
-        "constructor": "Team Lotus 🇬🇧"
-    },
-    {
-        "% of total seasons": "30.00%",
-        "championships": 3,
-        "constructor": "Mercedes 🇩🇪"
-    },
-    {
-        "% of total seasons": "50.00%",
-        "championships": 2,
-        "constructor": "Brabham-Repco 🇬🇧"
-    },
-    {
-        "% of total seasons": "22.22%",
-        "championships": 2,
-        "constructor": "Cooper-Climax 🇬🇧"
-    },
-    {
-        "% of total seasons": "28.57%",
-        "championships": 2,
-        "constructor": "Lotus-Climax 🇬🇧"
-    },
-    {
-        "% of total seasons": "9.52%",
-        "championships": 2,
-        "constructor": "Renault 🇫🇷"
-    },
-    {
-        "% of total seasons": "6.25%",
-        "championships": 1,
-        "constructor": "Benetton 🇮🇹"
-    },
-    {
-        "% of total seasons": "100.00%",
-        "championships": 1,
-        "constructor": "Brawn 🇬🇧"
-    },
-    {
-        "% of total seasons": "4.35%",
-        "championships": 1,
-        "constructor": "BRM 🇬🇧"
-    },
-    {
-        "% of total seasons": "16.67%",
-        "championships": 1,
-        "constructor": "Lotus-Ford 🇬🇧"
-    },
-    {
-        "% of total seasons": "50.00%",
-        "championships": 1,
-        "constructor": "Matra-Ford 🇫🇷"
-    },
-    {
-        "% of total seasons": "3.45%",
-        "championships": 1,
-        "constructor": "Tyrrell 🇬🇧"
-    },
-    {
-        "% of total seasons": "14.29%",
-        "championships": 1,
-        "constructor": "Vanwall 🇬🇧"
-    }
+  {
+    "championships" : 16,
+    "% of total seasons" : "23.53%",
+    "constructor" : "Ferrari 🇮🇹"
+  },
+  {
+    "championships" : 9,
+    "% of total seasons" : "21.43%",
+    "constructor" : "Williams 🇬🇧"
+  },
+  {
+    "championships" : 8,
+    "% of total seasons" : "16.67%",
+    "constructor" : "McLaren 🇬🇧"
+  },
+  {
+    "championships" : 4,
+    "% of total seasons" : "30.77%",
+    "constructor" : "Red Bull 🇦🇹"
+  },
+  {
+    "championships" : 4,
+    "% of total seasons" : "13.79%",
+    "constructor" : "Team Lotus 🇬🇧"
+  },
+  {
+    "championships" : 3,
+    "% of total seasons" : "30.00%",
+    "constructor" : "Mercedes 🇩🇪"
+  },
+  {
+    "championships" : 2,
+    "% of total seasons" : "50.00%",
+    "constructor" : "Brabham-Repco 🇬🇧"
+  },
+  {
+    "championships" : 2,
+    "% of total seasons" : "22.22%",
+    "constructor" : "Cooper-Climax 🇬🇧"
+  },
+  {
+    "championships" : 2,
+    "% of total seasons" : "28.57%",
+    "constructor" : "Lotus-Climax 🇬🇧"
+  },
+  {
+    "championships" : 2,
+    "% of total seasons" : "9.52%",
+    "constructor" : "Renault 🇫🇷"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "6.25%",
+    "constructor" : "Benetton 🇮🇹"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "100.00%",
+    "constructor" : "Brawn 🇬🇧"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "4.35%",
+    "constructor" : "BRM 🇬🇧"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "16.67%",
+    "constructor" : "Lotus-Ford 🇬🇧"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "50.00%",
+    "constructor" : "Matra-Ford 🇫🇷"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "3.45%",
+    "constructor" : "Tyrrell 🇬🇧"
+  },
+  {
+    "championships" : 1,
+    "% of total seasons" : "14.29%",
+    "constructor" : "Vanwall 🇬🇧"
+  }
 ]

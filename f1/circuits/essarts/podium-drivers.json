@@ -1,58 +1,58 @@
 [
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Nino Farina 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Peter Collins 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Piero Taruffi 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Richie Ginther 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Tony Maggs 🇿🇦",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Dan Gurney 🇺🇸",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Alberto Ascari 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Graham Hill 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jackie Stewart 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jacky Ickx 🇧🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "John Surtees 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Juan Fangio 🇦🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Luigi Musso 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Nino Farina 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Peter Collins 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Piero Taruffi 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Richie Ginther 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Tony Maggs 🇿🇦",
+    "number_of_podiums" : 1
+  }
 ]

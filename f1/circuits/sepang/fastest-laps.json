@@ -1,38 +1,38 @@
 [
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "number_of_fastest_laps": 2
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_fastest_laps": 2
-    },
-    {
-        "driver": "Mark Webber 🇦🇺",
-        "number_of_fastest_laps": 2
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_fastest_laps": 2
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Juan Pablo Montoya 🇨🇴",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Nick Heidfeld 🇩🇪",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Sergio Pérez 🇲🇽",
-        "number_of_fastest_laps": 1
-    }
+  {
+    "number_of_fastest_laps" : 2,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "number_of_fastest_laps" : 2,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_fastest_laps" : 2,
+    "driver" : "Mark Webber 🇦🇺"
+  },
+  {
+    "number_of_fastest_laps" : 2,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Jenson Button 🇬🇧"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Juan Pablo Montoya 🇨🇴"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Nick Heidfeld 🇩🇪"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Sergio Pérez 🇲🇽"
+  }
 ]

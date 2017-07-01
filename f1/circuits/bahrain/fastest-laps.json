@@ -1,42 +1,42 @@
 [
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_fastest_laps": 3
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_fastest_laps": 2
-    },
-    {
-        "driver": "Felipe Massa 🇧🇷",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Heikki Kovalainen 🇫🇮",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Jarno Trulli 🇮🇹",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Pedro de la Rosa 🇪🇸",
-        "number_of_fastest_laps": 1
-    }
+  {
+    "number_of_fastest_laps" : 3,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "number_of_fastest_laps" : 2,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Felipe Massa 🇧🇷"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Heikki Kovalainen 🇫🇮"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Jarno Trulli 🇮🇹"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Pedro de la Rosa 🇪🇸"
+  }
 ]

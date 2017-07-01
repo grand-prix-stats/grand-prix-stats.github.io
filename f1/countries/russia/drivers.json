@@ -1,14 +1,14 @@
 [
-    {
-        "country": "Russia",
-        "flag": "🇷🇺",
-        "forename": "Daniil",
-        "surname": "Kvyat"
-    },
-    {
-        "country": "Russia",
-        "flag": "🇷🇺",
-        "forename": "Vitaly",
-        "surname": "Petrov"
-    }
+  {
+    "surname" : "Kvyat",
+    "flag" : "🇷🇺",
+    "forename" : "Daniil",
+    "country" : "Russia"
+  },
+  {
+    "surname" : "Petrov",
+    "flag" : "🇷🇺",
+    "forename" : "Vitaly",
+    "country" : "Russia"
+  }
 ]

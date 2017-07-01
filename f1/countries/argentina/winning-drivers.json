@@ -1,66 +1,66 @@
 [
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 4
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "times": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 1
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "times": 1
-    }
+  {
+    "times" : 4,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alan Jones 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Bruce McLaren 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Laffite 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Villeneuve 🇨🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Luigi Musso 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Stirling Moss 🇬🇧"
+  }
 ]

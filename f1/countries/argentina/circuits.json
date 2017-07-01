@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Argentina",
-        "location": "Buenos Aires",
-        "most_wins_driver": "Juan Fangio 🇦🇷",
-        "name": "Autódromo Juan y Oscar Gálvez",
-        "races": 20,
-        "wins": 4
-    }
+  {
+    "most_wins_driver" : "Juan Fangio 🇦🇷",
+    "name" : "Autódromo Juan y Oscar Gálvez",
+    "location" : "Buenos Aires",
+    "races" : 20,
+    "wins" : 4,
+    "country" : "Argentina"
+  }
 ]

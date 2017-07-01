@@ -1,58 +1,58 @@
 [
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Patrick Depailler 🇫🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Riccardo Patrese 🇮🇹",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Gilles Villeneuve 🇨🇦",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "John Watson 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "René Arnoux 🇫🇷",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Niki Lauda 🇦🇹",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "Alan Jones 🇦🇺",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Carlos Reutemann 🇦🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jody Scheckter 🇿🇦",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Mario Andretti 🇺🇸",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Nelson Piquet 🇧🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Patrick Depailler 🇫🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Riccardo Patrese 🇮🇹",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Clay Regazzoni 🇨🇭",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Emerson Fittipaldi 🇧🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Gilles Villeneuve 🇨🇦",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "John Watson 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Keke Rosberg 🇫🇮",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "René Arnoux 🇫🇷",
+    "number_of_podiums" : 1
+  }
 ]

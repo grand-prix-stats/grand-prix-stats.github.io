@@ -1,58 +1,58 @@
 [
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Gerhard Berger 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Riccardo Patrese 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Richie Ginther 🇺🇸",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Dan Gurney 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Gerhard Berger 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Graham Hill 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "John Surtees 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Riccardo Patrese 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Richie Ginther 🇺🇸"
+  }
 ]

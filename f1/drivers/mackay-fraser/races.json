@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "BRM 🇬🇧",
-        "date": "1957-07-07",
-        "final_position": "R",
-        "grid": 12,
-        "laps_completed": 24,
-        "name": "1957 French Grand Prix 🇫🇷",
-        "points": 0.0,
-        "round": 4,
-        "season": 1957,
-        "teammate": "Ron Flockhart 🇬🇧",
-        "teammate_final_position": "R",
-        "teammate_grid": 11,
-        "time": null
-    }
+  {
+    "name" : "1957 French Grand Prix 🇫🇷",
+    "teammate_final_position" : "R",
+    "grid" : 12,
+    "date" : "1957-07-07T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1957,
+    "teammate" : "Ron Flockhart 🇬🇧",
+    "constructor" : "BRM 🇬🇧",
+    "round" : 4,
+    "teammate_grid" : 11,
+    "laps_completed" : 24,
+    "time" : null,
+    "points" : 0
+  }
 ]

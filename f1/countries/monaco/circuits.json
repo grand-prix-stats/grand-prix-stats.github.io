@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Monaco",
-        "location": "Monte-Carlo",
-        "most_wins_driver": "Ayrton Senna 🇧🇷",
-        "name": "Circuit de Monaco",
-        "races": 64,
-        "wins": 6
-    }
+  {
+    "most_wins_driver" : "Ayrton Senna 🇧🇷",
+    "name" : "Circuit de Monaco",
+    "location" : "Monte-Carlo",
+    "races" : 64,
+    "wins" : 6,
+    "country" : "Monaco"
+  }
 ]

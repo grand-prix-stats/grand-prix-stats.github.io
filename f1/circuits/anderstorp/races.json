@@ -1,62 +1,62 @@
 [
-    {
-        "date": "1978-06-17",
-        "laps_completed": 70,
-        "name": "1978 Swedish Grand Prix 🇸🇪",
-        "race_duration": "1:41:00.606",
-        "round": 8,
-        "season": 1978,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Niki Lauda 🇦🇹"
-    },
-    {
-        "date": "1977-06-19",
-        "laps_completed": 72,
-        "name": "1977 Swedish Grand Prix 🇸🇪",
-        "race_duration": "1:46:56.4",
-        "round": 8,
-        "season": 1977,
-        "winning_constructor": "Ligier 🇫🇷",
-        "winning_driver": "Jacques Laffite 🇫🇷"
-    },
-    {
-        "date": "1976-06-13",
-        "laps_completed": 72,
-        "name": "1976 Swedish Grand Prix 🇸🇪",
-        "race_duration": "1:46:53.729",
-        "round": 7,
-        "season": 1976,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jody Scheckter 🇿🇦"
-    },
-    {
-        "date": "1975-06-08",
-        "laps_completed": 80,
-        "name": "1975 Swedish Grand Prix 🇸🇪",
-        "race_duration": "1:59:18.319",
-        "round": 7,
-        "season": 1975,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Niki Lauda 🇦🇹"
-    },
-    {
-        "date": "1974-06-09",
-        "laps_completed": 80,
-        "name": "1974 Swedish Grand Prix 🇸🇪",
-        "race_duration": "1:58:31.391",
-        "round": 7,
-        "season": 1974,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Jody Scheckter 🇿🇦"
-    },
-    {
-        "date": "1973-06-17",
-        "laps_completed": 80,
-        "name": "1973 Swedish Grand Prix 🇸🇪",
-        "race_duration": "1:56:46.049",
-        "round": 7,
-        "season": 1973,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Denny Hulme 🇳🇿"
-    }
+  {
+    "name" : "1978 Swedish Grand Prix 🇸🇪",
+    "race_duration" : "1:41:00.606",
+    "round" : 8,
+    "laps_completed" : 70,
+    "winning_constructor" : "Brabham 🇬🇧",
+    "date" : "1978-06-17T00:00:00.000Z",
+    "winning_driver" : "Niki Lauda 🇦🇹",
+    "season" : 1978
+  },
+  {
+    "name" : "1977 Swedish Grand Prix 🇸🇪",
+    "race_duration" : "1:46:56.4",
+    "round" : 8,
+    "laps_completed" : 72,
+    "winning_constructor" : "Ligier 🇫🇷",
+    "date" : "1977-06-19T00:00:00.000Z",
+    "winning_driver" : "Jacques Laffite 🇫🇷",
+    "season" : 1977
+  },
+  {
+    "name" : "1976 Swedish Grand Prix 🇸🇪",
+    "race_duration" : "1:46:53.729",
+    "round" : 7,
+    "laps_completed" : 72,
+    "winning_constructor" : "Tyrrell 🇬🇧",
+    "date" : "1976-06-13T00:00:00.000Z",
+    "winning_driver" : "Jody Scheckter 🇿🇦",
+    "season" : 1976
+  },
+  {
+    "name" : "1975 Swedish Grand Prix 🇸🇪",
+    "race_duration" : "1:59:18.319",
+    "round" : 7,
+    "laps_completed" : 80,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1975-06-08T00:00:00.000Z",
+    "winning_driver" : "Niki Lauda 🇦🇹",
+    "season" : 1975
+  },
+  {
+    "name" : "1974 Swedish Grand Prix 🇸🇪",
+    "race_duration" : "1:58:31.391",
+    "round" : 7,
+    "laps_completed" : 80,
+    "winning_constructor" : "Tyrrell 🇬🇧",
+    "date" : "1974-06-09T00:00:00.000Z",
+    "winning_driver" : "Jody Scheckter 🇿🇦",
+    "season" : 1974
+  },
+  {
+    "name" : "1973 Swedish Grand Prix 🇸🇪",
+    "race_duration" : "1:56:46.049",
+    "round" : 7,
+    "laps_completed" : 80,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1973-06-17T00:00:00.000Z",
+    "winning_driver" : "Denny Hulme 🇳🇿",
+    "season" : 1973
+  }
 ]

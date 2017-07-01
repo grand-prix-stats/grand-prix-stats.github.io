@@ -1,178 +1,178 @@
 [
-    {
-        "driver": "Carlos Pace 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "times": 2
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "times": 2
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Henri Pescarolo 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 2
-    },
-    {
-        "driver": "Jean-Pierre Beltoise 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Mike Hailwood 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 2
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "times": 2
-    },
-    {
-        "driver": "Tim Schenken 🇦🇺",
-        "times": 2
-    },
-    {
-        "driver": "Andrea de Adamich 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Arturo Merzario 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Brian Redman 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Chris Amon 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "David Walker 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "François Migault 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Gérard Larrousse 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Gijs van Lennep 🇳🇱",
-        "times": 1
-    },
-    {
-        "driver": "Guy Edwards 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Hans-Joachim Stuck 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Helmut Marko 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "Howden Ganley 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jean-Pierre Jarier 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jochen Mass 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 1
-    },
-    {
-        "driver": "John Watson 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Leo Kinnunen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Mike Beuttler 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Nanni Galli 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Patrick Depailler 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Peter Gethin 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Peter Revson 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Rikky von Opel 🇱🇮",
-        "times": 1
-    },
-    {
-        "driver": "Rolf Stommelen 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Teddy Pilette 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "Tom Pryce 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Vern Schuppan 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Vittorio Brambilla 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Wilson Fittipaldi 🇧🇷",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Carlos Pace 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Carlos Reutemann 🇦🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Clay Regazzoni 🇨🇭"
+  },
+  {
+    "times" : 2,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 2,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Graham Hill 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Henri Pescarolo 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jean-Pierre Beltoise 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mike Hailwood 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Tim Schenken 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Andrea de Adamich 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Arturo Merzario 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Brian Redman 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Chris Amon 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "David Walker 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "François Cevert 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "François Migault 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Gérard Larrousse 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Gijs van Lennep 🇳🇱"
+  },
+  {
+    "times" : 1,
+    "driver" : "Guy Edwards 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Hans-Joachim Stuck 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Helmut Marko 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Howden Ganley 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jean-Pierre Jarier 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jochen Mass 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "John Watson 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Leo Kinnunen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mike Beuttler 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nanni Galli 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Patrick Depailler 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Gethin 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Peter Revson 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Rikky von Opel 🇱🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Rolf Stommelen 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Teddy Pilette 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Tom Pryce 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Vern Schuppan 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Vittorio Brambilla 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Wilson Fittipaldi 🇧🇷"
+  }
 ]

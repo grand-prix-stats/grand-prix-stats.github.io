@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1973-02-11",
-        "final_position": "12",
-        "grid": 20,
-        "laps_completed": 36,
-        "name": "1973 Brazilian Grand Prix 🇧🇷",
-        "points": 0.0,
-        "round": 2,
-        "season": 1973,
-        "teammate": "Carlos Pace 🇧🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 6,
-        "time": null
-    },
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1973-02-11",
-        "final_position": "12",
-        "grid": 20,
-        "laps_completed": 36,
-        "name": "1973 Brazilian Grand Prix 🇧🇷",
-        "points": 0.0,
-        "round": 2,
-        "season": 1973,
-        "teammate": "Mike Hailwood 🇬🇧",
-        "teammate_final_position": "R",
-        "teammate_grid": 14,
-        "time": null
-    }
+  {
+    "name" : "1973 Brazilian Grand Prix 🇧🇷",
+    "teammate_final_position" : "R",
+    "grid" : 20,
+    "date" : "1973-02-11T00:00:00.000Z",
+    "final_position" : "12",
+    "season" : 1973,
+    "teammate" : "Carlos Pace 🇧🇷",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 2,
+    "teammate_grid" : 6,
+    "laps_completed" : 36,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1973 Brazilian Grand Prix 🇧🇷",
+    "teammate_final_position" : "R",
+    "grid" : 20,
+    "date" : "1973-02-11T00:00:00.000Z",
+    "final_position" : "12",
+    "season" : 1973,
+    "teammate" : "Mike Hailwood 🇬🇧",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 2,
+    "teammate_grid" : 14,
+    "laps_completed" : 36,
+    "time" : null,
+    "points" : 0
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "date": "1957-08-18",
-        "laps_completed": 18,
-        "name": "1957 Pescara Grand Prix 🇮🇹",
-        "race_duration": "2:59:22.7",
-        "round": 7,
-        "season": 1957,
-        "winning_constructor": "Vanwall 🇬🇧",
-        "winning_driver": "Stirling Moss 🇬🇧"
-    }
+  {
+    "name" : "1957 Pescara Grand Prix 🇮🇹",
+    "race_duration" : "2:59:22.7",
+    "round" : 7,
+    "laps_completed" : 18,
+    "winning_constructor" : "Vanwall 🇬🇧",
+    "date" : "1957-08-18T00:00:00.000Z",
+    "winning_driver" : "Stirling Moss 🇬🇧",
+    "season" : 1957
+  }
 ]

@@ -1,58 +1,58 @@
 [
-    {
-        "country": "France",
-        "location": "Clermont-Ferrand",
-        "most_wins_driver": "Jackie Stewart 🇬🇧",
-        "name": "Charade Circuit",
-        "races": 4,
-        "wins": 2
-    },
-    {
-        "country": "France",
-        "location": "Dijon",
-        "most_wins_driver": "Niki Lauda 🇦🇹",
-        "name": "Dijon-Prenois",
-        "races": 6,
-        "wins": 1
-    },
-    {
-        "country": "France",
-        "location": "Le Castellet",
-        "most_wins_driver": "Alain Prost 🇫🇷",
-        "name": "Circuit Paul Ricard",
-        "races": 14,
-        "wins": 4
-    },
-    {
-        "country": "France",
-        "location": "Le Mans",
-        "most_wins_driver": "Jack Brabham 🇦🇺",
-        "name": "Le Mans",
-        "races": 1,
-        "wins": 1
-    },
-    {
-        "country": "France",
-        "location": "Magny Cours",
-        "most_wins_driver": "Michael Schumacher 🇩🇪",
-        "name": "Circuit de Nevers Magny-Cours",
-        "races": 18,
-        "wins": 8
-    },
-    {
-        "country": "France",
-        "location": "Reims",
-        "most_wins_driver": "Juan Fangio 🇦🇷",
-        "name": "Reims-Gueux",
-        "races": 11,
-        "wins": 3
-    },
-    {
-        "country": "France",
-        "location": "Rouen",
-        "most_wins_driver": "Dan Gurney 🇺🇸",
-        "name": "Rouen-Les-Essarts",
-        "races": 5,
-        "wins": 2
-    }
+  {
+    "most_wins_driver" : "Jackie Stewart 🇬🇧",
+    "name" : "Charade Circuit",
+    "location" : "Clermont-Ferrand",
+    "races" : 4,
+    "wins" : 2,
+    "country" : "France"
+  },
+  {
+    "most_wins_driver" : "Niki Lauda 🇦🇹",
+    "name" : "Dijon-Prenois",
+    "location" : "Dijon",
+    "races" : 6,
+    "wins" : 1,
+    "country" : "France"
+  },
+  {
+    "most_wins_driver" : "Alain Prost 🇫🇷",
+    "name" : "Circuit Paul Ricard",
+    "location" : "Le Castellet",
+    "races" : 14,
+    "wins" : 4,
+    "country" : "France"
+  },
+  {
+    "most_wins_driver" : "Jack Brabham 🇦🇺",
+    "name" : "Le Mans",
+    "location" : "Le Mans",
+    "races" : 1,
+    "wins" : 1,
+    "country" : "France"
+  },
+  {
+    "most_wins_driver" : "Michael Schumacher 🇩🇪",
+    "name" : "Circuit de Nevers Magny-Cours",
+    "location" : "Magny Cours",
+    "races" : 18,
+    "wins" : 8,
+    "country" : "France"
+  },
+  {
+    "most_wins_driver" : "Juan Fangio 🇦🇷",
+    "name" : "Reims-Gueux",
+    "location" : "Reims",
+    "races" : 11,
+    "wins" : 3,
+    "country" : "France"
+  },
+  {
+    "most_wins_driver" : "Dan Gurney 🇺🇸",
+    "name" : "Rouen-Les-Essarts",
+    "location" : "Rouen",
+    "races" : 5,
+    "wins" : 2,
+    "country" : "France"
+  }
 ]

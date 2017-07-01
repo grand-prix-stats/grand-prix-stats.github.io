@@ -1,70 +1,70 @@
 [
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "times": 8
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "times": 4
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "times": 2
-    },
-    {
-        "driver": "Gerhard Berger 🇦🇹",
-        "times": 2
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "times": 2
-    },
-    {
-        "driver": "Alessandro Nannini 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Riccardo Patrese 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Rubens Barrichello 🇧🇷",
-        "times": 1
-    }
+  {
+    "times" : 8,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "times" : 4,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "times" : 3,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Gerhard Berger 🇦🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mika Häkkinen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alessandro Nannini 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jenson Button 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Riccardo Patrese 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Rubens Barrichello 🇧🇷"
+  }
 ]

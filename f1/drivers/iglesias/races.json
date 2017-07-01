@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1955-01-16",
-        "final_position": "R",
-        "grid": 17,
-        "laps_completed": 38,
-        "name": "1955 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1955,
-        "teammate": "Élie Bayol 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 15,
-        "time": null
-    },
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1955-01-16",
-        "final_position": "R",
-        "grid": 17,
-        "laps_completed": 38,
-        "name": "1955 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1955,
-        "teammate": "Pablo Birger 🇦🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 9,
-        "time": null
-    }
+  {
+    "name" : "1955 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "R",
+    "grid" : 17,
+    "date" : "1955-01-16T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1955,
+    "teammate" : "Élie Bayol 🇫🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 1,
+    "teammate_grid" : 15,
+    "laps_completed" : 38,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1955 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "R",
+    "grid" : 17,
+    "date" : "1955-01-16T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1955,
+    "teammate" : "Pablo Birger 🇦🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 1,
+    "teammate_grid" : 9,
+    "laps_completed" : 38,
+    "time" : null,
+    "points" : 0
+  }
 ]

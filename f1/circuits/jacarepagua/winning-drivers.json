@@ -1,18 +1,18 @@
 [
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_wins": 5
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 5,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Carlos Reutemann 🇦🇷"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Nigel Mansell 🇬🇧"
+  }
 ]

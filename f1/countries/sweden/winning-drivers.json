@@ -1,18 +1,18 @@
 [
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 2
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 2
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "times": 1
-    }
+  {
+    "times" : 2,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 2,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Laffite 🇫🇷"
+  }
 ]

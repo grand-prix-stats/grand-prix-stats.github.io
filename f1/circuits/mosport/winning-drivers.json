@@ -1,30 +1,30 @@
 [
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Peter Revson 🇺🇸",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 2,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Peter Revson 🇺🇸"
+  }
 ]

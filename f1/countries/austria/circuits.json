@@ -1,26 +1,26 @@
 [
-    {
-        "country": "Austria",
-        "location": "Spielburg",
-        "most_wins_driver": "Alain Prost 🇫🇷",
-        "name": "A1-Ring",
-        "races": 25,
-        "wins": 3
-    },
-    {
-        "country": "Austria",
-        "location": "Spielburg",
-        "most_wins_driver": "Nico Rosberg 🇩🇪",
-        "name": "Red Bull Ring",
-        "races": 4,
-        "wins": 2
-    },
-    {
-        "country": "Austria",
-        "location": "Styria",
-        "most_wins_driver": "Lorenzo Bandini 🇮🇹",
-        "name": "Zeltweg",
-        "races": 1,
-        "wins": 1
-    }
+  {
+    "most_wins_driver" : "Alain Prost 🇫🇷",
+    "name" : "A1-Ring",
+    "location" : "Spielburg",
+    "races" : 25,
+    "wins" : 3,
+    "country" : "Austria"
+  },
+  {
+    "most_wins_driver" : "Nico Rosberg 🇩🇪",
+    "name" : "Red Bull Ring",
+    "location" : "Spielburg",
+    "races" : 4,
+    "wins" : 2,
+    "country" : "Austria"
+  },
+  {
+    "most_wins_driver" : "Lorenzo Bandini 🇮🇹",
+    "name" : "Zeltweg",
+    "location" : "Styria",
+    "races" : 1,
+    "wins" : 1,
+    "country" : "Austria"
+  }
 ]

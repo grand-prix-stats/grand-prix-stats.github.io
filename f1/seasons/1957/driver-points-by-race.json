@@ -1,726 +1,728 @@
 {
-    "agabashian": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "barth": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "beaufort": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "behra": [
-        6.0,
-        null,
-        null,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-    ],
-    "bettenhausen": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "bonnier": [
-        0.0,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        0.0,
-        0.0
-    ],
-    "boyd": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "brooks": [
-        null,
-        6.0,
-        null,
-        null
-    ],
-    "bryan": [
-        null,
-        null,
-        4.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "bueb": [
-        null,
-        0.0,
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null
-    ],
-    "castellotti": [
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "cheesbourg": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "christie": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "collins": [],
-    "connor": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "daywalt": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "edmunds": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "elisian": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "england": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "fairman": [
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null
-    ],
-    "fangio": [
-        8.0,
-        9.0,
-        null,
-        8.0,
-        0.0,
-        9.0,
-        6.0,
-        6.0
-    ],
-    "flockhart": [
-        null,
-        0.0,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null
-    ],
-    "freeland": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "george": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "gerard": [
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null
-    ],
-    "gibson": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "godia": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        0.0,
-        0.0
-    ],
-    "gonzalez": [
-        1.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "gould": [
-        null,
-        0.0,
-        null,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-    ],
-    "gregory": [
-        null,
-        4.0,
-        null,
-        null,
-        null,
-        0.0,
-        3.0,
-        3.0
-    ],
-    "halford": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        0.0,
-        0.0
-    ],
-    "hanks": [
-        null,
-        null,
-        8.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "hartley": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "hawthorn": [
-        0.0
-    ],
-    "herman": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "herrmann": [
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "jack_brabham": [
-        null,
-        0.0,
-        null
-    ],
-    "johnson": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "keller": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "leston": [
-        null,
-        0.0,
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null
-    ],
-    "lewis-evans": [
-        null,
-        3.0,
-        null,
-        0.0,
-        0.0,
-        0.0,
-        2.0,
-        0.0
-    ],
-    "linden": [
-        null,
-        null,
-        2.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "macdowel": [
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null
-    ],
-    "mackay-fraser": [
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null
-    ],
-    "magill": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "maglioli": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "marsh": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "menditeguy": [
-        4.0,
-        0.0,
-        null,
-        0.0,
-        0.0,
-        null,
-        null,
-        null
-    ],
-    "moss": [
-        1.0,
-        0.0,
-        null,
-        null
-    ],
-    "musso": [
-        0.0,
-        null,
-        null,
-        7.0,
-        6.0,
-        3.0,
-        0.0,
-        0.0
-    ],
-    "naylor": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        null,
-        null
-    ],
-    "parsons": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "paul_russo": [
-        null,
-        null,
-        3.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "perdisa": [
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "piotti": [
-        0.0,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        0.0,
-        0.0
-    ],
-    "portago": [
-        1.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "rathmann": [
-        null,
-        null,
-        7.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "reece": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "russo": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "ruttman": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "sachs": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "salvadori": [
-        null,
-        0.0,
-        null,
-        0.0,
-        2.0,
-        0.0,
-        0.0,
-        null
-    ],
-    "scarlatti": [
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        0.0,
-        0.0,
-        1.0
-    ],
-    "schell": [
-        3.0
-    ],
-    "simon": [
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0
-    ],
-    "teague": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "thomson": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "tolan": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "tomaso": [
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "trintignant": [
-        null,
-        2.0,
-        null,
-        0.0,
-        3.0,
-        null,
-        null,
-        null
-    ],
-    "trips": [
-        0.0,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        4.0
-    ],
-    "turner": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "veith": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "volonterio": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        0.0
-    ],
-    "ward": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "weyant": [
-        null,
-        null,
-        0.0,
-        null,
-        null,
-        null,
-        null,
-        null
-    ]
+  "magill" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "collins" : [
+
+  ],
+  "daywalt" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "gonzalez" : [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "lewis-evans" : [
+    null,
+    3,
+    null,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "perdisa" : [
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "menditeguy" : [
+    4,
+    0,
+    null,
+    0,
+    0,
+    null,
+    null,
+    null
+  ],
+  "ruttman" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "fangio" : [
+    8,
+    9,
+    null,
+    8,
+    0,
+    9,
+    6,
+    6
+  ],
+  "bueb" : [
+    null,
+    0,
+    null,
+    null,
+    0,
+    null,
+    null,
+    null
+  ],
+  "gerard" : [
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null,
+    null
+  ],
+  "portago" : [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "trintignant" : [
+    null,
+    2,
+    null,
+    0,
+    3,
+    null,
+    null,
+    null
+  ],
+  "freeland" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "tolan" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "veith" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "russo" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "macdowel" : [
+    null,
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null
+  ],
+  "christie" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "halford" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    0,
+    0
+  ],
+  "rathmann" : [
+    null,
+    null,
+    7,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "brooks" : [
+    null,
+    6,
+    null,
+    null
+  ],
+  "leston" : [
+    null,
+    0,
+    null,
+    null,
+    0,
+    null,
+    null,
+    null
+  ],
+  "herman" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "gregory" : [
+    null,
+    4,
+    null,
+    null,
+    null,
+    0,
+    3,
+    3
+  ],
+  "salvadori" : [
+    null,
+    0,
+    null,
+    0,
+    2,
+    0,
+    0,
+    null
+  ],
+  "castellotti" : [
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "fairman" : [
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null,
+    null
+  ],
+  "bonnier" : [
+    0,
+    null,
+    null,
+    null,
+    0,
+    null,
+    0,
+    0
+  ],
+  "behra" : [
+    6,
+    null,
+    null,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "agabashian" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "gould" : [
+    null,
+    0,
+    null,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "mackay-fraser" : [
+    null,
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null
+  ],
+  "moss" : [
+    1,
+    0,
+    null,
+    null
+  ],
+  "george" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "beaufort" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "simon" : [
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    0
+  ],
+  "thomson" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "teague" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "hartley" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "trips" : [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    4
+  ],
+  "weyant" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "connor" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "bryan" : [
+    null,
+    null,
+    4,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "flockhart" : [
+    null,
+    0,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null
+  ],
+  "johnson" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "edmunds" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "cheesbourg" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "england" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "linden" : [
+    null,
+    null,
+    2,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "reece" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "gibson" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "ward" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "barth" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "hanks" : [
+    null,
+    null,
+    8,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "schell" : [
+    3
+  ],
+  "turner" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "marsh" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "parsons" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "godia" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    0,
+    0
+  ],
+  "paul_russo" : [
+    null,
+    null,
+    3,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "jack_brabham" : [
+    null,
+    0,
+    null
+  ],
+  "piotti" : [
+    0,
+    0,
+    null,
+    null,
+    null,
+    null,
+    0,
+    0
+  ],
+  "keller" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "sachs" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "elisian" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "hawthorn" : [
+    0
+  ],
+  "naylor" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "tomaso" : [
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "scarlatti" : [
+    null,
+    0,
+    null,
+    null,
+    null,
+    0,
+    0,
+    1
+  ],
+  "maglioli" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "volonterio" : [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    0
+  ],
+  "herrmann" : [
+    null,
+    0,
+    null,
+    null,
+    null,
+    0,
+    null,
+    null
+  ],
+  "bettenhausen" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "musso" : [
+    0,
+    null,
+    null,
+    7,
+    6,
+    3,
+    0,
+    0
+  ],
+  "boyd" : [
+    null,
+    null,
+    0,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

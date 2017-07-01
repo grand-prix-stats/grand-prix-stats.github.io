@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Team Lotus 🇬🇧",
-        "date": "1960-02-07",
-        "final_position": "9",
-        "grid": 15,
-        "laps_completed": 77,
-        "name": "1960 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1960,
-        "teammate": "Innes Ireland 🇬🇧",
-        "teammate_final_position": "6",
-        "teammate_grid": 2,
-        "time": null
-    },
-    {
-        "constructor": "Team Lotus 🇬🇧",
-        "date": "1960-02-07",
-        "final_position": "9",
-        "grid": 15,
-        "laps_completed": 77,
-        "name": "1960 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1960,
-        "teammate": "Alan Stacey 🇬🇧",
-        "teammate_final_position": "R",
-        "teammate_grid": 14,
-        "time": null
-    }
+  {
+    "name" : "1960 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "6",
+    "grid" : 15,
+    "date" : "1960-02-07T00:00:00.000Z",
+    "final_position" : "9",
+    "season" : 1960,
+    "teammate" : "Innes Ireland 🇬🇧",
+    "constructor" : "Team Lotus 🇬🇧",
+    "round" : 1,
+    "teammate_grid" : 2,
+    "laps_completed" : 77,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1960 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "R",
+    "grid" : 15,
+    "date" : "1960-02-07T00:00:00.000Z",
+    "final_position" : "9",
+    "season" : 1960,
+    "teammate" : "Alan Stacey 🇬🇧",
+    "constructor" : "Team Lotus 🇬🇧",
+    "round" : 1,
+    "teammate_grid" : 14,
+    "laps_completed" : 77,
+    "time" : null,
+    "points" : 0
+  }
 ]

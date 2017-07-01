@@ -1,20 +1,20 @@
 [
-    {
-        "country": "Monaco",
-        "flag": "🇲🇨",
-        "forename": "Olivier",
-        "surname": "Beretta"
-    },
-    {
-        "country": "Monaco",
-        "flag": "🇲🇨",
-        "forename": "Louis",
-        "surname": "Chiron"
-    },
-    {
-        "country": "Monaco",
-        "flag": "🇲🇨",
-        "forename": "André",
-        "surname": "Testut"
-    }
+  {
+    "surname" : "Beretta",
+    "flag" : "🇲🇨",
+    "forename" : "Olivier",
+    "country" : "Monaco"
+  },
+  {
+    "surname" : "Chiron",
+    "flag" : "🇲🇨",
+    "forename" : "Louis",
+    "country" : "Monaco"
+  },
+  {
+    "surname" : "Testut",
+    "flag" : "🇲🇨",
+    "forename" : "André",
+    "country" : "Monaco"
+  }
 ]

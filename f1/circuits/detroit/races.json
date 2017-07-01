@@ -1,72 +1,72 @@
 [
-    {
-        "date": "1988-06-19",
-        "laps_completed": 63,
-        "name": "1988 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:54:56.035",
-        "round": 6,
-        "season": 1988,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Ayrton Senna 🇧🇷"
-    },
-    {
-        "date": "1987-06-21",
-        "laps_completed": 63,
-        "name": "1987 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:50:16.358",
-        "round": 5,
-        "season": 1987,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Ayrton Senna 🇧🇷"
-    },
-    {
-        "date": "1986-06-22",
-        "laps_completed": 63,
-        "name": "1986 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:51:12.847",
-        "round": 7,
-        "season": 1986,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Ayrton Senna 🇧🇷"
-    },
-    {
-        "date": "1985-06-23",
-        "laps_completed": 63,
-        "name": "1985 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:55:39.851",
-        "round": 6,
-        "season": 1985,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Keke Rosberg 🇫🇮"
-    },
-    {
-        "date": "1984-06-24",
-        "laps_completed": 63,
-        "name": "1984 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:55:41.842",
-        "round": 8,
-        "season": 1984,
-        "winning_constructor": "Brabham 🇬🇧",
-        "winning_driver": "Nelson Piquet 🇧🇷"
-    },
-    {
-        "date": "1983-06-05",
-        "laps_completed": 60,
-        "name": "1983 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:50:53.669",
-        "round": 7,
-        "season": 1983,
-        "winning_constructor": "Tyrrell 🇬🇧",
-        "winning_driver": "Michele Alboreto 🇮🇹"
-    },
-    {
-        "date": "1982-06-06",
-        "laps_completed": 62,
-        "name": "1982 Detroit Grand Prix 🇺🇸",
-        "race_duration": "1:58:41.043",
-        "round": 7,
-        "season": 1982,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "John Watson 🇬🇧"
-    }
+  {
+    "name" : "1988 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:54:56.035",
+    "round" : 6,
+    "laps_completed" : 63,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1988-06-19T00:00:00.000Z",
+    "winning_driver" : "Ayrton Senna 🇧🇷",
+    "season" : 1988
+  },
+  {
+    "name" : "1987 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:50:16.358",
+    "round" : 5,
+    "laps_completed" : 63,
+    "winning_constructor" : "Team Lotus 🇬🇧",
+    "date" : "1987-06-21T00:00:00.000Z",
+    "winning_driver" : "Ayrton Senna 🇧🇷",
+    "season" : 1987
+  },
+  {
+    "name" : "1986 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:51:12.847",
+    "round" : 7,
+    "laps_completed" : 63,
+    "winning_constructor" : "Team Lotus 🇬🇧",
+    "date" : "1986-06-22T00:00:00.000Z",
+    "winning_driver" : "Ayrton Senna 🇧🇷",
+    "season" : 1986
+  },
+  {
+    "name" : "1985 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:55:39.851",
+    "round" : 6,
+    "laps_completed" : 63,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "1985-06-23T00:00:00.000Z",
+    "winning_driver" : "Keke Rosberg 🇫🇮",
+    "season" : 1985
+  },
+  {
+    "name" : "1984 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:55:41.842",
+    "round" : 8,
+    "laps_completed" : 63,
+    "winning_constructor" : "Brabham 🇬🇧",
+    "date" : "1984-06-24T00:00:00.000Z",
+    "winning_driver" : "Nelson Piquet 🇧🇷",
+    "season" : 1984
+  },
+  {
+    "name" : "1983 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:50:53.669",
+    "round" : 7,
+    "laps_completed" : 60,
+    "winning_constructor" : "Tyrrell 🇬🇧",
+    "date" : "1983-06-05T00:00:00.000Z",
+    "winning_driver" : "Michele Alboreto 🇮🇹",
+    "season" : 1983
+  },
+  {
+    "name" : "1982 Detroit Grand Prix 🇺🇸",
+    "race_duration" : "1:58:41.043",
+    "round" : 7,
+    "laps_completed" : 62,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1982-06-06T00:00:00.000Z",
+    "winning_driver" : "John Watson 🇬🇧",
+    "season" : 1982
+  }
 ]

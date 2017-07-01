@@ -1,18 +1,18 @@
 [
-    {
-        "driver": "Chris Amon 🇳🇿",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Chris Amon 🇳🇿"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jim Clark 🇬🇧"
+  }
 ]

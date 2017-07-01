@@ -1,24 +1,24 @@
 name,race_duration,round,laps_completed,winning_constructor,date,circuit,winning_driver,season
-1962 South African Grand Prix 🇿🇦,2:08:03.3,9,82,BRM 🇬🇧,1962-12-29,Prince George Circuit,Graham Hill 🇬🇧,1962
-1963 South African Grand Prix 🇿🇦,2:10:36.9,10,85,Lotus-Climax 🇬🇧,1963-12-28,Prince George Circuit,Jim Clark 🇬🇧,1963
-1965 South African Grand Prix 🇿🇦,2:06:46.0,1,85,Lotus-Climax 🇬🇧,1965-01-01,Prince George Circuit,Jim Clark 🇬🇧,1965
-1967 South African Grand Prix 🇿🇦,2:05:45.9,1,80,Cooper-Maserati 🇬🇧,1967-01-02,Kyalami,Pedro Rodríguez 🇲🇽,1967
-1968 South African Grand Prix 🇿🇦,1:53:56.6,1,80,Lotus-Ford 🇬🇧,1968-01-01,Kyalami,Jim Clark 🇬🇧,1968
-1969 South African Grand Prix 🇿🇦,1:50:39.1,1,80,Matra-Ford 🇫🇷,1969-03-01,Kyalami,Jackie Stewart 🇬🇧,1969
-1970 South African Grand Prix 🇿🇦,1:49:35.4,1,80,Brabham 🇬🇧,1970-03-07,Kyalami,Jack Brabham 🇦🇺,1970
-1971 South African Grand Prix 🇿🇦,1:47:35.5,1,79,Ferrari 🇮🇹,1971-03-06,Kyalami,Mario Andretti 🇺🇸,1971
-1972 South African Grand Prix 🇿🇦,1:45:49.1,2,79,McLaren 🇬🇧,1972-03-04,Kyalami,Denny Hulme 🇳🇿,1972
-1973 South African Grand Prix 🇿🇦,1:43:11.07,3,79,Tyrrell 🇬🇧,1973-03-03,Kyalami,Jackie Stewart 🇬🇧,1973
-1974 South African Grand Prix 🇿🇦,1:42:40.96,3,78,Brabham 🇬🇧,1974-03-30,Kyalami,Carlos Reutemann 🇦🇷,1974
-1975 South African Grand Prix 🇿🇦,1:43:16.90,3,78,Tyrrell 🇬🇧,1975-03-01,Kyalami,Jody Scheckter 🇿🇦,1975
-1976 South African Grand Prix 🇿🇦,1:42:18.4,2,78,Ferrari 🇮🇹,1976-03-06,Kyalami,Niki Lauda 🇦🇹,1976
-1977 South African Grand Prix 🇿🇦,1:42:21.6,3,78,Ferrari 🇮🇹,1977-03-05,Kyalami,Niki Lauda 🇦🇹,1977
-1978 South African Grand Prix 🇿🇦,1:42:15.767,3,78,Team Lotus 🇬🇧,1978-03-04,Kyalami,Ronnie Peterson 🇸🇪,1978
-1979 South African Grand Prix 🇿🇦,1:41:49.96,3,78,Ferrari 🇮🇹,1979-03-03,Kyalami,Gilles Villeneuve 🇨🇦,1979
-1980 South African Grand Prix 🇿🇦,1:36:52.54,3,78,Renault 🇫🇷,1980-03-01,Kyalami,René Arnoux 🇫🇷,1980
-1982 South African Grand Prix 🇿🇦,1:32:08.401,1,77,Renault 🇫🇷,1982-01-23,Kyalami,Alain Prost 🇫🇷,1982
-1983 South African Grand Prix 🇿🇦,1:33:25.708,15,77,Brabham 🇬🇧,1983-10-15,Kyalami,Riccardo Patrese 🇮🇹,1983
-1984 South African Grand Prix 🇿🇦,1:29:23.430,2,75,McLaren 🇬🇧,1984-04-07,Kyalami,Niki Lauda 🇦🇹,1984
-1985 South African Grand Prix 🇿🇦,1:28:22.866,15,75,Williams 🇬🇧,1985-10-19,Kyalami,Nigel Mansell 🇬🇧,1985
-1992 South African Grand Prix 🇿🇦,1:36:45.320,1,72,Williams 🇬🇧,1992-03-01,Kyalami,Nigel Mansell 🇬🇧,1992
-1993 South African Grand Prix 🇿🇦,1:38:45.082,1,72,Williams 🇬🇧,1993-03-14,Kyalami,Alain Prost 🇫🇷,1993
+1962 South African Grand Prix 🇿🇦,2:08:03.3,9,82,BRM 🇬🇧,1962-12-29T00:00:00.000Z,Prince George Circuit,Graham Hill 🇬🇧,1962
+1963 South African Grand Prix 🇿🇦,2:10:36.9,10,85,Lotus-Climax 🇬🇧,1963-12-28T00:00:00.000Z,Prince George Circuit,Jim Clark 🇬🇧,1963
+1965 South African Grand Prix 🇿🇦,2:06:46.0,1,85,Lotus-Climax 🇬🇧,1965-01-01T00:00:00.000Z,Prince George Circuit,Jim Clark 🇬🇧,1965
+1967 South African Grand Prix 🇿🇦,2:05:45.9,1,80,Cooper-Maserati 🇬🇧,1967-01-02T00:00:00.000Z,Kyalami,Pedro Rodríguez 🇲🇽,1967
+1968 South African Grand Prix 🇿🇦,1:53:56.6,1,80,Lotus-Ford 🇬🇧,1968-01-01T00:00:00.000Z,Kyalami,Jim Clark 🇬🇧,1968
+1969 South African Grand Prix 🇿🇦,1:50:39.1,1,80,Matra-Ford 🇫🇷,1969-03-01T00:00:00.000Z,Kyalami,Jackie Stewart 🇬🇧,1969
+1970 South African Grand Prix 🇿🇦,1:49:35.4,1,80,Brabham 🇬🇧,1970-03-07T00:00:00.000Z,Kyalami,Jack Brabham 🇦🇺,1970
+1971 South African Grand Prix 🇿🇦,1:47:35.5,1,79,Ferrari 🇮🇹,1971-03-06T00:00:00.000Z,Kyalami,Mario Andretti 🇺🇸,1971
+1972 South African Grand Prix 🇿🇦,1:45:49.1,2,79,McLaren 🇬🇧,1972-03-04T00:00:00.000Z,Kyalami,Denny Hulme 🇳🇿,1972
+1973 South African Grand Prix 🇿🇦,1:43:11.07,3,79,Tyrrell 🇬🇧,1973-03-03T00:00:00.000Z,Kyalami,Jackie Stewart 🇬🇧,1973
+1974 South African Grand Prix 🇿🇦,1:42:40.96,3,78,Brabham 🇬🇧,1974-03-30T00:00:00.000Z,Kyalami,Carlos Reutemann 🇦🇷,1974
+1975 South African Grand Prix 🇿🇦,1:43:16.90,3,78,Tyrrell 🇬🇧,1975-03-01T00:00:00.000Z,Kyalami,Jody Scheckter 🇿🇦,1975
+1976 South African Grand Prix 🇿🇦,1:42:18.4,2,78,Ferrari 🇮🇹,1976-03-06T00:00:00.000Z,Kyalami,Niki Lauda 🇦🇹,1976
+1977 South African Grand Prix 🇿🇦,1:42:21.6,3,78,Ferrari 🇮🇹,1977-03-05T00:00:00.000Z,Kyalami,Niki Lauda 🇦🇹,1977
+1978 South African Grand Prix 🇿🇦,1:42:15.767,3,78,Team Lotus 🇬🇧,1978-03-04T00:00:00.000Z,Kyalami,Ronnie Peterson 🇸🇪,1978
+1979 South African Grand Prix 🇿🇦,1:41:49.96,3,78,Ferrari 🇮🇹,1979-03-03T00:00:00.000Z,Kyalami,Gilles Villeneuve 🇨🇦,1979
+1980 South African Grand Prix 🇿🇦,1:36:52.54,3,78,Renault 🇫🇷,1980-03-01T00:00:00.000Z,Kyalami,René Arnoux 🇫🇷,1980
+1982 South African Grand Prix 🇿🇦,1:32:08.401,1,77,Renault 🇫🇷,1982-01-23T00:00:00.000Z,Kyalami,Alain Prost 🇫🇷,1982
+1983 South African Grand Prix 🇿🇦,1:33:25.708,15,77,Brabham 🇬🇧,1983-10-15T00:00:00.000Z,Kyalami,Riccardo Patrese 🇮🇹,1983
+1984 South African Grand Prix 🇿🇦,1:29:23.430,2,75,McLaren 🇬🇧,1984-04-07T00:00:00.000Z,Kyalami,Niki Lauda 🇦🇹,1984
+1985 South African Grand Prix 🇿🇦,1:28:22.866,15,75,Williams 🇬🇧,1985-10-19T00:00:00.000Z,Kyalami,Nigel Mansell 🇬🇧,1985
+1992 South African Grand Prix 🇿🇦,1:36:45.320,1,72,Williams 🇬🇧,1992-03-01T00:00:00.000Z,Kyalami,Nigel Mansell 🇬🇧,1992
+1993 South African Grand Prix 🇿🇦,1:38:45.082,1,72,Williams 🇬🇧,1993-03-14T00:00:00.000Z,Kyalami,Alain Prost 🇫🇷,1993

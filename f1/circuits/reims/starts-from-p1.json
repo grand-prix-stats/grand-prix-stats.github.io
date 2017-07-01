@@ -1,38 +1,38 @@
 [
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "number_of_starts_from_p1": 4
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Lorenzo Bandini 🇮🇹",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Luigi Fagioli 🇮🇹",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Phil Hill 🇺🇸",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Tony Brooks 🇬🇧",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 4,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Lorenzo Bandini 🇮🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Luigi Fagioli 🇮🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Phil Hill 🇺🇸"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Tony Brooks 🇬🇧"
+  }
 ]

@@ -1,0 +1,86 @@
+[
+  {
+    "raceref" : "195001",
+    "name" : "British Grand Prix",
+    "round" : 1,
+    "country_code" : "gb",
+    "year" : 1950,
+    "date" : "1950-05-13T00:00:00.000Z",
+    "circuitref" : "silverstone",
+    "time" : null,
+    "country_flag" : "🇬🇧",
+    "country" : "UK"
+  },
+  {
+    "raceref" : "195002",
+    "name" : "Monaco Grand Prix",
+    "round" : 2,
+    "country_code" : "mc",
+    "year" : 1950,
+    "date" : "1950-05-21T00:00:00.000Z",
+    "circuitref" : "monaco",
+    "time" : null,
+    "country_flag" : "🇲🇨",
+    "country" : "Monaco"
+  },
+  {
+    "raceref" : "195003",
+    "name" : "Indianapolis 500",
+    "round" : 3,
+    "country_code" : "us",
+    "year" : 1950,
+    "date" : "1950-05-30T00:00:00.000Z",
+    "circuitref" : "indianapolis",
+    "time" : null,
+    "country_flag" : "🇺🇸",
+    "country" : "USA"
+  },
+  {
+    "raceref" : "195004",
+    "name" : "Swiss Grand Prix",
+    "round" : 4,
+    "country_code" : "ch",
+    "year" : 1950,
+    "date" : "1950-06-04T00:00:00.000Z",
+    "circuitref" : "bremgarten",
+    "time" : null,
+    "country_flag" : "🇨🇭",
+    "country" : "Switzerland"
+  },
+  {
+    "raceref" : "195005",
+    "name" : "Belgian Grand Prix",
+    "round" : 5,
+    "country_code" : "be",
+    "year" : 1950,
+    "date" : "1950-06-18T00:00:00.000Z",
+    "circuitref" : "spa",
+    "time" : null,
+    "country_flag" : "🇧🇪",
+    "country" : "Belgium"
+  },
+  {
+    "raceref" : "195006",
+    "name" : "French Grand Prix",
+    "round" : 6,
+    "country_code" : "fr",
+    "year" : 1950,
+    "date" : "1950-07-02T00:00:00.000Z",
+    "circuitref" : "reims",
+    "time" : null,
+    "country_flag" : "🇫🇷",
+    "country" : "France"
+  },
+  {
+    "raceref" : "195007",
+    "name" : "Italian Grand Prix",
+    "round" : 7,
+    "country_code" : "it",
+    "year" : 1950,
+    "date" : "1950-09-03T00:00:00.000Z",
+    "circuitref" : "monza",
+    "time" : null,
+    "country_flag" : "🇮🇹",
+    "country" : "Italy"
+  }
+]

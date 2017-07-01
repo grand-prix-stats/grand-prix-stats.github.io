@@ -1,22 +1,22 @@
 [
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_fastest_laps": 3
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_fastest_laps": 2
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_fastest_laps": 1
-    },
-    {
-        "driver": "Mark Webber 🇦🇺",
-        "number_of_fastest_laps": 1
-    }
+  {
+    "number_of_fastest_laps" : 3,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "number_of_fastest_laps" : 2,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Daniel Ricciardo 🇦🇺"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "number_of_fastest_laps" : 1,
+    "driver" : "Mark Webber 🇦🇺"
+  }
 ]

@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Larrousse 🇫🇷",
-        "date": "1993-11-07",
-        "final_position": "14",
-        "grid": 24,
-        "laps_completed": 74,
-        "name": "1993 Australian Grand Prix 🇦🇺",
-        "points": 0.0,
-        "round": 16,
-        "season": 1993,
-        "teammate": "Érik Comas 🇫🇷",
-        "teammate_final_position": "12",
-        "teammate_grid": 21,
-        "time": null
-    },
-    {
-        "constructor": "Larrousse 🇫🇷",
-        "date": "1993-10-24",
-        "final_position": "12",
-        "grid": 23,
-        "laps_completed": 51,
-        "name": "1993 Japanese Grand Prix 🇯🇵",
-        "points": 0.0,
-        "round": 15,
-        "season": 1993,
-        "teammate": "Érik Comas 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 21,
-        "time": null
-    }
+  {
+    "name" : "1993 Australian Grand Prix 🇦🇺",
+    "teammate_final_position" : "12",
+    "grid" : 24,
+    "date" : "1993-11-07T00:00:00.000Z",
+    "final_position" : "14",
+    "season" : 1993,
+    "teammate" : "Érik Comas 🇫🇷",
+    "constructor" : "Larrousse 🇫🇷",
+    "round" : 16,
+    "teammate_grid" : 21,
+    "laps_completed" : 74,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1993 Japanese Grand Prix 🇯🇵",
+    "teammate_final_position" : "R",
+    "grid" : 23,
+    "date" : "1993-10-24T00:00:00.000Z",
+    "final_position" : "12",
+    "season" : 1993,
+    "teammate" : "Érik Comas 🇫🇷",
+    "constructor" : "Larrousse 🇫🇷",
+    "round" : 15,
+    "teammate_grid" : 21,
+    "laps_completed" : 51,
+    "time" : null,
+    "points" : 0
+  }
 ]

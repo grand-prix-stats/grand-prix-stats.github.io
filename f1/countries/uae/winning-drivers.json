@@ -1,18 +1,18 @@
 [
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "times": 3
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "times": 1
-    }
+  {
+    "times" : 3,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nico Rosberg 🇩🇪"
+  }
 ]

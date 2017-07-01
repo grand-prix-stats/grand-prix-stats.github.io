@@ -1,22 +1,22 @@
 [
-    {
-        "date": "1974-05-12",
-        "laps_completed": 85,
-        "name": "1974 Belgian Grand Prix 🇧🇪",
-        "race_duration": "1:44:20.57",
-        "round": 5,
-        "season": 1974,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Emerson Fittipaldi 🇧🇷"
-    },
-    {
-        "date": "1972-06-04",
-        "laps_completed": 85,
-        "name": "1972 Belgian Grand Prix 🇧🇪",
-        "race_duration": "1:44:07.3",
-        "round": 5,
-        "season": 1972,
-        "winning_constructor": "Team Lotus 🇬🇧",
-        "winning_driver": "Emerson Fittipaldi 🇧🇷"
-    }
+  {
+    "name" : "1974 Belgian Grand Prix 🇧🇪",
+    "race_duration" : "1:44:20.57",
+    "round" : 5,
+    "laps_completed" : 85,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1974-05-12T00:00:00.000Z",
+    "winning_driver" : "Emerson Fittipaldi 🇧🇷",
+    "season" : 1974
+  },
+  {
+    "name" : "1972 Belgian Grand Prix 🇧🇪",
+    "race_duration" : "1:44:07.3",
+    "round" : 5,
+    "laps_completed" : 85,
+    "winning_constructor" : "Team Lotus 🇬🇧",
+    "date" : "1972-06-04T00:00:00.000Z",
+    "winning_driver" : "Emerson Fittipaldi 🇧🇷",
+    "season" : 1972
+  }
 ]

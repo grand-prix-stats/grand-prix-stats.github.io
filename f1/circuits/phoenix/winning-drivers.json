@@ -1,10 +1,10 @@
 [
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 2,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Alain Prost 🇫🇷"
+  }
 ]

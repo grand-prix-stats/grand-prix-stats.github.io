@@ -1,118 +1,118 @@
 [
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "times": 7
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "times": 4
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "times": 3
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "times": 3
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "times": 3
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "times": 3
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Felipe Massa 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 2
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "times": 2
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Gilles Villeneuve 🇨🇦",
-        "times": 1
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jochen Mass 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 1
-    },
-    {
-        "driver": "Mark Webber 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Max Verstappen 🇳🇱",
-        "times": 1
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 1
-    },
-    {
-        "driver": "Pastor Maldonado 🇻🇪",
-        "times": 1
-    },
-    {
-        "driver": "Patrick Depailler 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Rubens Barrichello 🇧🇷",
-        "times": 1
-    }
+  {
+    "times" : 7,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "times" : 4,
+    "driver" : "Mika Häkkinen 🇫🇮"
+  },
+  {
+    "times" : 3,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "times" : 3,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "times" : 3,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "times" : 3,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Felipe Massa 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "times" : 2,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Gilles Villeneuve 🇨🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "Graham Hill 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Villeneuve 🇨🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jenson Button 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jochen Mass 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mark Webber 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Max Verstappen 🇳🇱"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Pastor Maldonado 🇻🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Patrick Depailler 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Rubens Barrichello 🇧🇷"
+  }
 ]

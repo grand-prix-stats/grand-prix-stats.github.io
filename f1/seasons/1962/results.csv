@@ -1,0 +1,223 @@
+position,driverref,points,round,country_code,championship_position,championship_points,secondary_color,main_color,driver,country_flag,country
+,phil_hill,0.0,5,gb,4,14.0,16191A,EB212E,Phil Hill 🇺🇸,🇬🇧,UK
+,salvadori,0.0,5,gb,27,0.0,444444,888888,Roy Salvadori 🇬🇧,🇬🇧,UK
+,settember,0.0,9,za,31,0.0,444444,888888,Tony Settember 🇺🇸,🇿🇦,South Africa
+,vyver,0.0,9,za,44,0.0,444444,025839,Syd van der Vyver 🇿🇦,🇿🇦,South Africa
+,hocking,0.0,9,za,42,0.0,444444,025839,Gary Hocking 🇿🇼,🇿🇦,South Africa
+,trevor_taylor,0.0,9,za,10,6.0,444444,025839,Trevor Taylor 🇬🇧,🇿🇦,South Africa
+,surtees,0.0,9,za,4,19.0,444444,888888,John Surtees 🇬🇧,🇿🇦,South Africa
+,harris,0.0,9,za,39,0.0,444444,888888,Mike Harris 🇿🇦,🇿🇦,South Africa
+,salvadori,0.0,9,za,36,0.0,444444,888888,Roy Salvadori 🇬🇧,🇿🇦,South Africa
+,ricardo_rodriguez,0.0,1,nl,10,0.0,16191A,EB212E,Ricardo Rodríguez 🇲🇽,🇳🇱,Netherlands
+,ginther,0.0,1,nl,11,0.0,444444,144D44,Richie Ginther 🇺🇸,🇳🇱,Netherlands
+,ireland,0.0,1,nl,12,0.0,444444,025839,Innes Ireland 🇬🇧,🇳🇱,Netherlands
+,gregory,0.0,1,nl,13,0.0,444444,025839,Masten Gregory 🇺🇸,🇳🇱,Netherlands
+,gurney,0.0,1,nl,15,0.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇳🇱,Netherlands
+,mclaren,0.0,1,nl,16,0.0,444444,273027,Bruce McLaren 🇳🇿,🇳🇱,Netherlands
+,salvadori,0.0,1,nl,17,0.0,444444,888888,Roy Salvadori 🇬🇧,🇳🇱,Netherlands
+,surtees,0.0,1,nl,18,0.0,444444,888888,John Surtees 🇬🇧,🇳🇱,Netherlands
+,jack_brabham,0.0,1,nl,19,0.0,444444,025839,Jack Brabham 🇦🇺,🇳🇱,Netherlands
+,pon,0.0,1,nl,20,0.0,444444,DDDDDD,Ben Pon 🇳🇱,🇳🇱,Netherlands
+,slotemaker,0.0,1,nl,21,0.0,444444,DDDDDD,Rob Slotemaker 🇳🇱,🇳🇱,Netherlands
+,trintignant,0.0,1,nl,22,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇳🇱,Netherlands
+,serrurier,0.0,9,za,37,0.0,444444,888888,Doug Serrurier 🇿🇦,🇿🇦,South Africa
+,clark,0.0,9,za,2,30.0,444444,025839,Jim Clark 🇬🇧,🇿🇦,South Africa
+,hall,0.0,8,us,39,0.0,444444,025839,Jim Hall 🇺🇸,🇺🇸,USA
+,salvadori,0.0,8,us,32,0.0,444444,888888,Roy Salvadori 🇬🇧,🇺🇸,USA
+,beaufort,0.0,8,us,16,2.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇺🇸,USA
+,surtees,0.0,8,us,4,19.0,444444,888888,John Surtees 🇬🇧,🇺🇸,USA
+,mayer,0.0,8,us,34,0.0,444444,273027,Timmy Mayer 🇺🇸,🇺🇸,USA
+,trintignant,0.0,8,us,18,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇺🇸,USA
+,ireland,0.0,2,mc,15,0.0,444444,025839,Innes Ireland 🇬🇧,🇲🇨,Monaco
+,clark,0.0,2,mc,14,0.0,444444,025839,Jim Clark 🇬🇧,🇲🇨,Monaco
+,salvadori,0.0,2,mc,18,0.0,444444,888888,Roy Salvadori 🇬🇧,🇲🇨,Monaco
+,maggs,0.0,2,mc,9,2.0,444444,273027,Tony Maggs 🇿🇦,🇲🇨,Monaco
+,trevor_taylor,0.0,2,mc,4,6.0,444444,025839,Trevor Taylor 🇬🇧,🇲🇨,Monaco
+,gurney,0.0,2,mc,20,0.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇲🇨,Monaco
+,trintignant,0.0,2,mc,22,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇲🇨,Monaco
+,ginther,0.0,2,mc,17,0.0,444444,144D44,Richie Ginther 🇺🇸,🇲🇨,Monaco
+,siffert,0.0,2,mc,23,0.0,444444,025839,Jo Siffert 🇨🇭,🇲🇨,Monaco
+,lewis,0.0,2,mc,12,0.0,444444,144D44,Jackie Lewis 🇬🇧,🇲🇨,Monaco
+,gregory,0.0,2,mc,19,0.0,444444,457439,Masten Gregory 🇺🇸,🇲🇨,Monaco
+,beaufort,0.0,2,mc,10,1.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇲🇨,Monaco
+,vaccarella,0.0,2,mc,26,0.0,444444,025839,Nino Vaccarella 🇮🇹,🇲🇨,Monaco
+,ricardo_rodriguez,0.0,2,mc,16,0.0,16191A,EB212E,Ricardo Rodríguez 🇲🇽,🇲🇨,Monaco
+,bussinello,0.0,2,mc,27,0.0,444444,888888,Roberto Bussinello 🇮🇹,🇲🇨,Monaco
+,marsh,0.0,2,mc,28,0.0,444444,144D44,Tony Marsh 🇬🇧,🇲🇨,Monaco
+,ginther,0.0,8,us,7,10.0,444444,144D44,Richie Ginther 🇺🇸,🇺🇸,USA
+,kuhnke,0.0,7,it,47,0.0,444444,888888,Kurt Kuhnke 🇩🇪,🇮🇹,Italy
+,estefano,0.0,7,it,45,0.0,444444,888888,Nasif Estéfano 🇦🇷,🇮🇹,Italy
+,chamberlain,0.0,7,it,27,0.0,444444,025839,Jay Chamberlain 🇺🇸,🇮🇹,Italy
+,lippi,0.0,7,it,44,0.0,444444,888888,Roberto Lippi 🇮🇹,🇮🇹,Italy
+,prinoth,0.0,7,it,43,0.0,444444,025839,Ernesto Prinoth 🇮🇹,🇮🇹,Italy
+,siffert,0.0,7,it,22,0.0,444444,457439,Jo Siffert 🇨🇭,🇮🇹,Italy
+,burgess,0.0,7,it,23,0.0,444444,273027,Ian Burgess 🇬🇧,🇮🇹,Italy
+,ashmore,0.0,7,it,39,0.0,444444,025839,Gerry Ashmore 🇬🇧,🇮🇹,Italy
+,greene,0.0,7,it,33,0.0,444444,888888,Keith Greene 🇬🇧,🇮🇹,Italy
+,shelly,0.0,7,it,36,0.0,444444,457439,Tony Shelly 🇳🇿,🇮🇹,Italy
+,trevor_taylor,0.0,3,be,5,6.0,444444,025839,Trevor Taylor 🇬🇧,🇧🇪,Belgium
+,mairesse,0.0,3,be,14,0.0,16191A,EB212E,Willy Mairesse 🇧🇪,🇧🇪,Belgium
+,ginther,0.0,3,be,21,0.0,444444,144D44,Richie Ginther 🇺🇸,🇧🇪,Belgium
+,maggs,0.0,3,be,11,2.0,444444,273027,Tony Maggs 🇿🇦,🇧🇪,Belgium
+,mclaren,0.0,3,be,4,9.0,444444,273027,Bruce McLaren 🇳🇿,🇧🇪,Belgium
+,gregory,0.0,3,be,23,0.0,444444,457439,Masten Gregory 🇺🇸,🇧🇪,Belgium
+,ireland,0.0,3,be,20,0.0,444444,025839,Innes Ireland 🇬🇧,🇧🇪,Belgium
+,baghetti,0.0,3,be,9,3.0,16191A,EB212E,Giancarlo Baghetti 🇮🇹,🇧🇪,Belgium
+,gurney,0.0,3,be,24,0.0,444444,457439,Dan Gurney 🇺🇸,🇧🇪,Belgium
+,marsh,0.0,3,be,27,0.0,444444,144D44,Tony Marsh 🇬🇧,🇧🇪,Belgium
+,lewis,0.0,3,be,16,0.0,444444,144D44,Jackie Lewis 🇬🇧,🇧🇪,Belgium
+,ashmore,0.0,3,be,30,0.0,444444,144D44,Gerry Ashmore 🇬🇧,🇧🇪,Belgium
+,salvadori,0.0,3,be,22,0.0,444444,888888,Roy Salvadori 🇬🇧,🇧🇪,Belgium
+,schiller,0.0,3,be,32,0.0,444444,DDDDDD,Heinz Schiller 🇨🇭,🇧🇪,Belgium
+,bonnier,0.0,3,be,10,2.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇧🇪,Belgium
+,clark,0.0,7,it,3,21.0,444444,025839,Jim Clark 🇬🇧,🇮🇹,Italy
+,trintignant,0.0,7,it,17,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇮🇹,Italy
+,settember,0.0,7,it,24,0.0,444444,888888,Tony Settember 🇺🇸,🇮🇹,Italy
+,trevor_taylor,0.0,7,it,9,6.0,444444,025839,Trevor Taylor 🇬🇧,🇮🇹,Italy
+,salvadori,0.0,7,it,29,0.0,444444,888888,Roy Salvadori 🇬🇧,🇮🇹,Italy
+,surtees,0.0,7,it,4,19.0,444444,888888,John Surtees 🇬🇧,🇮🇹,Italy
+,ireland,0.0,7,it,28,0.0,444444,025839,Innes Ireland 🇬🇧,🇮🇹,Italy
+,marsh,0.0,6,de,32,0.0,444444,144D44,Tony Marsh 🇬🇧,🇩🇪,Germany
+,seiffert,0.0,6,de,43,0.0,444444,457439,Günther Seiffert 🇩🇪,🇩🇪,Germany
+,bonnier,0.0,4,fr,13,2.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇫🇷,France
+,clark,0.0,4,fr,4,9.0,444444,025839,Jim Clark 🇬🇧,🇫🇷,France
+,lewis,0.0,4,fr,18,0.0,444444,273027,Jackie Lewis 🇬🇧,🇫🇷,France
+,salvadori,0.0,4,fr,23,0.0,444444,888888,Roy Salvadori 🇬🇧,🇫🇷,France
+,gregory,0.0,4,fr,24,0.0,444444,457439,Masten Gregory 🇺🇸,🇫🇷,France
+,jack_brabham,0.0,4,fr,15,1.0,444444,025839,Jack Brabham 🇦🇺,🇫🇷,France
+,siffert,0.0,4,fr,20,0.0,444444,457439,Jo Siffert 🇨🇭,🇫🇷,France
+,ireland,0.0,4,fr,22,0.0,444444,025839,Innes Ireland 🇬🇧,🇫🇷,France
+,arundell,0.0,4,fr,26,0.0,444444,09630C,Peter Arundell 🇬🇧,🇫🇷,France
+,marsh,0.0,4,fr,27,0.0,444444,144D44,Tony Marsh 🇬🇧,🇫🇷,France
+,davis,0.0,4,fr,28,0.0,444444,DDDDDD,Colin Davis 🇬🇧,🇫🇷,France
+,abate,0.0,4,fr,30,0.0,444444,025839,Carlo Abate 🇮🇹,🇫🇷,France
+,burgess,0.0,4,fr,33,0.0,444444,273027,Ian Burgess 🇬🇧,🇫🇷,France
+,chamberlain,0.0,6,de,27,0.0,444444,025839,Jay Chamberlain 🇺🇸,🇩🇪,Germany
+,seidel,0.0,6,de,30,0.0,444444,457439,Wolfgang Seidel 🇩🇪,🇩🇪,Germany
+,shelly,0.0,6,de,36,0.0,444444,025839,Tony Shelly 🇳🇿,🇩🇪,Germany
+,trevor_taylor,0.0,6,de,8,6.0,444444,025839,Trevor Taylor 🇬🇧,🇩🇪,Germany
+,collomb,0.0,6,de,42,0.0,444444,273027,Bernard Collomb 🇫🇷,🇩🇪,Germany
+,schiller,0.0,6,de,41,0.0,444444,457439,Heinz Schiller 🇨🇭,🇩🇪,Germany
+,bandini,0.0,6,de,10,4.0,16191A,EB212E,Lorenzo Bandini 🇮🇹,🇩🇪,Germany
+,trintignant,0.0,6,de,16,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇩🇪,Germany
+,salvadori,0.0,6,de,29,0.0,444444,888888,Roy Salvadori 🇬🇧,🇩🇪,Germany
+,greene,0.0,6,de,33,0.0,444444,888888,Keith Greene 🇬🇧,🇩🇪,Germany
+,jack_brabham,0.0,6,de,13,3.0,444444,243F73,Jack Brabham 🇦🇺,🇩🇪,Germany
+,phil_hill,0.0,6,de,5,14.0,16191A,EB212E,Phil Hill 🇺🇸,🇩🇪,Germany
+,lewis,0.0,6,de,19,0.0,444444,273027,Jackie Lewis 🇬🇧,🇩🇪,Germany
+,siffert,0.0,5,gb,21,0.0,444444,457439,Jo Siffert 🇨🇭,🇬🇧,UK
+,greene,0.0,5,gb,37,0.0,444444,888888,Keith Greene 🇬🇧,🇬🇧,UK
+,campbell-jones,0.0,5,gb,22,0.0,444444,888888,John Campbell-Jones 🇬🇧,🇬🇧,UK
+,tingle,0.0,9,za,52,0.0,444444,025839,Sam Tingle 🇿🇼,🇿🇦,South Africa
+,trintignant,0.0,5,gb,16,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇬🇧,UK
+,bonnier,0.0,5,gb,14,2.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇬🇧,UK
+,seidel,0.0,5,gb,28,0.0,444444,457439,Wolfgang Seidel 🇩🇪,🇬🇧,UK
+,shelly,0.0,5,gb,34,0.0,444444,025839,Tony Shelly 🇳🇿,🇬🇧,UK
+,greene,0.0,5,gb,37,0.0,444444,025839,Keith Greene 🇬🇧,🇬🇧,UK
+,seidel,0.0,1,nl,14,0.0,444444,888888,Wolfgang Seidel 🇩🇪,🇳🇱,Netherlands
+1,hill,9.0,1,nl,1,9.0,444444,144D44,Graham Hill 🇬🇧,🇳🇱,Netherlands
+1,hill,9.0,7,it,1,36.0,444444,144D44,Graham Hill 🇬🇧,🇮🇹,Italy
+1,gurney,9.0,4,fr,5,9.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇫🇷,France
+1,hill,9.0,6,de,1,28.0,444444,144D44,Graham Hill 🇬🇧,🇩🇪,Germany
+1,mclaren,9.0,2,mc,3,9.0,444444,273027,Bruce McLaren 🇳🇿,🇲🇨,Monaco
+1,hill,9.0,9,za,1,42.0,444444,144D44,Graham Hill 🇬🇧,🇿🇦,South Africa
+1,clark,9.0,3,be,3,9.0,444444,025839,Jim Clark 🇬🇧,🇧🇪,Belgium
+1,clark,9.0,8,us,2,30.0,444444,025839,Jim Clark 🇬🇧,🇺🇸,USA
+1,clark,9.0,5,gb,2,18.0,444444,025839,Jim Clark 🇬🇧,🇬🇧,UK
+10,beaufort,0.0,7,it,16,2.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇮🇹,Italy
+10,siffert,0.0,3,be,18,0.0,444444,025839,Jo Siffert 🇨🇭,🇧🇪,Belgium
+10,pieterse,0.0,9,za,28,0.0,444444,025839,Ernie Pieterse 🇿🇦,🇿🇦,South Africa
+10,schroeder,0.0,8,us,25,0.0,444444,025839,Rob Schroeder 🇬🇧,🇺🇸,USA
+10,lewis,0.0,5,gb,19,0.0,444444,273027,Jackie Lewis 🇬🇧,🇬🇧,UK
+10,baghetti,0.0,6,de,12,3.0,16191A,EB212E,Giancarlo Baghetti 🇮🇹,🇩🇪,Germany
+11,burgess,0.0,6,de,22,0.0,444444,273027,Ian Burgess 🇬🇧,🇩🇪,Germany
+11,settember,0.0,5,gb,23,0.0,444444,888888,Tony Settember 🇺🇸,🇬🇧,UK
+11,sharp,0.0,8,us,29,0.0,444444,273027,Hap Sharp 🇺🇸,🇺🇸,USA
+11,beaufort,0.0,9,za,17,2.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇿🇦,South Africa
+11,campbell-jones,0.0,3,be,19,0.0,444444,025839,John Campbell-Jones 🇬🇧,🇧🇪,Belgium
+11,phil_hill,0.0,7,it,5,14.0,16191A,EB212E,Phil Hill 🇺🇸,🇮🇹,Italy
+12,siffert,0.0,6,de,21,0.0,444444,025839,Jo Siffert 🇨🇭,🇩🇪,Germany
+12,gregory,0.0,7,it,18,0.0,444444,457439,Masten Gregory 🇺🇸,🇮🇹,Italy
+12,burgess,0.0,5,gb,24,0.0,444444,273027,Ian Burgess 🇬🇧,🇬🇧,UK
+12,trevor_taylor,0.0,8,us,9,6.0,444444,025839,Trevor Taylor 🇬🇧,🇺🇸,USA
+13,beaufort,0.0,6,de,15,2.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇩🇪,Germany
+13,ginther,0.0,5,gb,9,4.0,444444,144D44,Richie Ginther 🇺🇸,🇬🇧,UK
+13,bonnier,0.0,8,us,15,3.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇺🇸,USA
+13,gurney,0.0,7,it,6,13.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇮🇹,Italy
+14,ricardo_rodriguez,0.0,7,it,12,4.0,16191A,EB212E,Ricardo Rodríguez 🇲🇽,🇮🇹,Italy
+14,walter,0.0,6,de,25,0.0,444444,DDDDDD,Heini Walter 🇨🇭,🇩🇪,Germany
+14,beaufort,0.0,5,gb,15,2.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇬🇧,UK
+15,vaccarella,0.0,6,de,26,0.0,444444,DDDDDD,Nino Vaccarella 🇮🇹,🇩🇪,Germany
+15,chamberlain,0.0,5,gb,25,0.0,444444,025839,Jay Chamberlain 🇺🇸,🇬🇧,UK
+16,ireland,0.0,5,gb,26,0.0,444444,025839,Innes Ireland 🇬🇧,🇬🇧,UK
+2,ginther,6.0,7,it,7,10.0,444444,144D44,Richie Ginther 🇺🇸,🇮🇹,Italy
+2,surtees,6.0,6,de,3,19.0,444444,888888,John Surtees 🇬🇧,🇩🇪,Germany
+2,phil_hill,6.0,2,mc,2,10.0,16191A,EB212E,Phil Hill 🇺🇸,🇲🇨,Monaco
+2,mclaren,6.0,9,za,3,27.0,444444,273027,Bruce McLaren 🇳🇿,🇿🇦,South Africa
+2,hill,6.0,8,us,1,39.0,444444,144D44,Graham Hill 🇬🇧,🇺🇸,USA
+2,hill,6.0,3,be,1,16.0,444444,144D44,Graham Hill 🇬🇧,🇧🇪,Belgium
+2,maggs,6.0,4,fr,6,8.0,444444,273027,Tony Maggs 🇿🇦,🇫🇷,France
+2,trevor_taylor,6.0,1,nl,2,6.0,444444,025839,Trevor Taylor 🇬🇧,🇳🇱,Netherlands
+2,surtees,6.0,5,gb,5,13.0,444444,888888,John Surtees 🇬🇧,🇬🇧,UK
+3,ginther,4.0,4,fr,9,4.0,444444,144D44,Richie Ginther 🇺🇸,🇫🇷,France
+3,mclaren,4.0,7,it,2,22.0,444444,273027,Bruce McLaren 🇳🇿,🇮🇹,Italy
+3,mclaren,4.0,5,gb,3,16.0,444444,273027,Bruce McLaren 🇳🇿,🇬🇧,UK
+3,mclaren,4.0,8,us,3,24.0,444444,273027,Bruce McLaren 🇳🇿,🇺🇸,USA
+3,maggs,4.0,9,za,7,13.0,444444,273027,Tony Maggs 🇿🇦,🇿🇦,South Africa
+3,phil_hill,4.0,3,be,2,14.0,16191A,EB212E,Phil Hill 🇺🇸,🇧🇪,Belgium
+3,bandini,4.0,2,mc,5,4.0,16191A,EB212E,Lorenzo Bandini 🇮🇹,🇲🇨,Monaco
+3,gurney,4.0,6,de,6,13.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇩🇪,Germany
+3,phil_hill,4.0,1,nl,3,4.0,16191A,EB212E,Phil Hill 🇺🇸,🇳🇱,Netherlands
+4,mclaren,3.0,4,fr,3,12.0,444444,273027,Bruce McLaren 🇳🇿,🇫🇷,France
+4,surtees,3.0,2,mc,6,3.0,444444,888888,John Surtees 🇬🇧,🇲🇨,Monaco
+4,clark,3.0,6,de,2,21.0,444444,025839,Jim Clark 🇬🇧,🇩🇪,Germany
+4,ricardo_rodriguez,3.0,3,be,8,3.0,16191A,EB212E,Ricardo Rodríguez 🇲🇽,🇧🇪,Belgium
+4,jack_brabham,3.0,9,za,9,9.0,444444,243F73,Jack Brabham 🇦🇺,🇿🇦,South Africa
+4,mairesse,3.0,7,it,13,3.0,16191A,EB212E,Willy Mairesse 🇧🇪,🇮🇹,Italy
+4,hill,3.0,5,gb,1,19.0,444444,144D44,Graham Hill 🇬🇧,🇬🇧,UK
+4,jack_brabham,3.0,8,us,10,6.0,444444,243F73,Jack Brabham 🇦🇺,🇺🇸,USA
+4,baghetti,3.0,1,nl,4,3.0,16191A,EB212E,Giancarlo Baghetti 🇮🇹,🇳🇱,Netherlands
+5,jack_brabham,2.0,5,gb,13,3.0,444444,025839,Jack Brabham 🇦🇺,🇬🇧,UK
+5,surtees,2.0,4,fr,7,7.0,444444,888888,John Surtees 🇬🇧,🇫🇷,France
+5,ireland,2.0,9,za,16,2.0,444444,025839,Innes Ireland 🇬🇧,🇿🇦,South Africa
+5,maggs,2.0,1,nl,5,2.0,444444,273027,Tony Maggs 🇿🇦,🇳🇱,Netherlands
+5,surtees,2.0,3,be,6,5.0,444444,888888,John Surtees 🇬🇧,🇧🇪,Belgium
+5,mclaren,2.0,6,de,4,18.0,444444,273027,Bruce McLaren 🇳🇿,🇩🇪,Germany
+5,bonnier,2.0,2,mc,8,2.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇲🇨,Monaco
+5,baghetti,2.0,7,it,10,5.0,16191A,EB212E,Giancarlo Baghetti 🇮🇹,🇮🇹,Italy
+5,gurney,2.0,8,us,5,15.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇺🇸,USA
+6,bonnier,1.0,7,it,14,3.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇮🇹,Italy
+6,gregory,1.0,8,us,17,1.0,444444,457439,Masten Gregory 🇺🇸,🇺🇸,USA
+6,jack_brabham,1.0,3,be,13,1.0,444444,025839,Jack Brabham 🇦🇺,🇧🇪,Belgium
+6,beaufort,1.0,1,nl,6,1.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇳🇱,Netherlands
+6,lederle,1.0,9,za,19,1.0,444444,025839,Neville Lederle 🇿🇦,🇿🇦,South Africa
+6,maggs,1.0,5,gb,7,9.0,444444,273027,Tony Maggs 🇿🇦,🇬🇧,UK
+6,beaufort,1.0,4,fr,14,2.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇫🇷,France
+6,ricardo_rodriguez,1.0,6,de,11,4.0,16191A,EB212E,Ricardo Rodríguez 🇲🇽,🇩🇪,Germany
+6,hill,1.0,2,mc,1,10.0,444444,144D44,Graham Hill 🇬🇧,🇲🇨,Monaco
+7,mairesse,0.0,2,mc,11,0.0,16191A,EB212E,Willy Mairesse 🇧🇪,🇲🇨,Monaco
+7,bonnier,0.0,6,de,14,2.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇩🇪,Germany
+7,bonnier,0.0,1,nl,7,0.0,444444,DDDDDD,Jo Bonnier 🇸🇪,🇳🇱,Netherlands
+7,maggs,0.0,8,us,8,9.0,444444,273027,Tony Maggs 🇿🇦,🇺🇸,USA
+7,maggs,0.0,7,it,8,9.0,444444,273027,Tony Maggs 🇿🇦,🇮🇹,Italy
+7,beaufort,0.0,3,be,12,1.0,444444,DDDDDD,Carel Godin de Beaufort 🇳🇱,🇧🇪,Belgium
+7,ginther,0.0,9,za,8,10.0,444444,144D44,Richie Ginther 🇺🇸,🇿🇦,South Africa
+7,gregory,0.0,5,gb,17,0.0,444444,025839,Masten Gregory 🇺🇸,🇬🇧,UK
+7,trintignant,0.0,4,fr,16,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇫🇷,France
+8,jack_brabham,0.0,2,mc,13,0.0,444444,025839,Jack Brabham 🇦🇺,🇲🇨,Monaco
+8,ginther,0.0,6,de,9,4.0,444444,144D44,Richie Ginther 🇺🇸,🇩🇪,Germany
+8,ireland,0.0,8,us,20,0.0,444444,025839,Innes Ireland 🇬🇧,🇺🇸,USA
+8,trevor_taylor,0.0,5,gb,8,6.0,444444,025839,Trevor Taylor 🇬🇧,🇬🇧,UK
+8,trintignant,0.0,3,be,15,0.0,444444,025839,Maurice Trintignant 🇫🇷,🇧🇪,Belgium
+8,love,0.0,9,za,22,0.0,444444,273027,John Love 🇿🇼,🇿🇦,South Africa
+8,lewis,0.0,1,nl,8,0.0,444444,273027,Jackie Lewis 🇬🇧,🇳🇱,Netherlands
+8,bandini,0.0,7,it,11,4.0,16191A,EB212E,Lorenzo Bandini 🇮🇹,🇮🇹,Italy
+8,trevor_taylor,0.0,4,fr,8,6.0,444444,025839,Trevor Taylor 🇬🇧,🇫🇷,France
+9,clark,0.0,1,nl,9,0.0,444444,025839,Jim Clark 🇬🇧,🇳🇱,Netherlands
+9,johnstone,0.0,9,za,25,0.0,444444,144D44,Bruce Johnstone 🇿🇦,🇿🇦,South Africa
+9,maggs,0.0,6,de,7,9.0,444444,273027,Tony Maggs 🇿🇦,🇩🇪,Germany
+9,hill,0.0,4,fr,1,16.0,444444,144D44,Graham Hill 🇬🇧,🇫🇷,France
+9,penske,0.0,8,us,23,0.0,444444,025839,Roger Penske 🇺🇸,🇺🇸,USA
+9,bianchi,0.0,3,be,17,0.0,444444,025839,Lucien Bianchi 🇧🇪,🇧🇪,Belgium
+9,vaccarella,0.0,7,it,20,0.0,444444,025839,Nino Vaccarella 🇮🇹,🇮🇹,Italy
+9,gurney,0.0,5,gb,6,9.0,444444,DDDDDD,Dan Gurney 🇺🇸,🇬🇧,UK

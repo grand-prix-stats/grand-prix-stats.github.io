@@ -1,162 +1,162 @@
 [
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "times": 4
-    },
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "times": 4
-    },
-    {
-        "driver": "José Froilán González 🇦🇷",
-        "times": 3
-    },
-    {
-        "driver": "Maurice Trintignant 🇫🇷",
-        "times": 3
-    },
-    {
-        "driver": "Nino Farina 🇮🇹",
-        "times": 3
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 2
-    },
-    {
-        "driver": "Eddie Irvine 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Jacques Villeneuve 🇨🇦",
-        "times": 2
-    },
-    {
-        "driver": "Jean Alesi 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jean Behra 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Luigi Musso 🇮🇹",
-        "times": 2
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "times": 2
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "times": 2
-    },
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 2
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Alan Jones 🇦🇺",
-        "times": 1
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "Carlos Menditeguy 🇦🇷",
-        "times": 1
-    },
-    {
-        "driver": "Carlos Pace 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "times": 1
-    },
-    {
-        "driver": "Cliff Allison 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 1
-    },
-    {
-        "driver": "John Watson 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Luigi Villoresi 🇮🇹",
-        "times": 1
-    },
-    {
-        "driver": "Mario Andretti 🇺🇸",
-        "times": 1
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Patrick Depailler 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Ralf Schumacher 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Umberto Maglioli 🇮🇹",
-        "times": 1
-    }
+  {
+    "times" : 4,
+    "driver" : "Carlos Reutemann 🇦🇷"
+  },
+  {
+    "times" : 4,
+    "driver" : "Juan Fangio 🇦🇷"
+  },
+  {
+    "times" : 3,
+    "driver" : "José Froilán González 🇦🇷"
+  },
+  {
+    "times" : 3,
+    "driver" : "Maurice Trintignant 🇫🇷"
+  },
+  {
+    "times" : 3,
+    "driver" : "Nino Farina 🇮🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 2,
+    "driver" : "Eddie Irvine 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Emerson Fittipaldi 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jackie Stewart 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jacques Villeneuve 🇨🇦"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jean Alesi 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jean Behra 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Luigi Musso 🇮🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mike Hawthorn 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Nelson Piquet 🇧🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Stirling Moss 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alain Prost 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alan Jones 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Alberto Ascari 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Bruce McLaren 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "Carlos Menditeguy 🇦🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Carlos Pace 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Clay Regazzoni 🇨🇭"
+  },
+  {
+    "times" : 1,
+    "driver" : "Cliff Allison 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "François Cevert 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacky Ickx 🇧🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Laffite 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 1,
+    "driver" : "John Watson 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Keke Rosberg 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Luigi Villoresi 🇮🇹"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mario Andretti 🇺🇸"
+  },
+  {
+    "times" : 1,
+    "driver" : "Mika Häkkinen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Patrick Depailler 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Ralf Schumacher 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Umberto Maglioli 🇮🇹"
+  }
 ]

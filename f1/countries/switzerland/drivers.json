@@ -1,140 +1,140 @@
 [
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Toni",
-        "surname": "Branca"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Sébastien",
-        "surname": "Buemi"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Andrea",
-        "surname": "Chiesa"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Toulo",
-        "surname": "de Graffenried"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Max",
-        "surname": "de Terra"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Jean-Denis",
-        "surname": "Délétraz"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Rudi",
-        "surname": "Fischer"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Gregor",
-        "surname": "Foitek"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Franco",
-        "surname": "Forini"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Peter",
-        "surname": "Hirt"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Loris",
-        "surname": "Kessel"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Michael",
-        "surname": "May"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Peter",
-        "surname": "Monteverdi"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Silvio",
-        "surname": "Moser"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Clay",
-        "surname": "Regazzoni"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Albert",
-        "surname": "Scherrer"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Heinz",
-        "surname": "Schiller"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Rudolf",
-        "surname": "Schoeller"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Jo",
-        "surname": "Siffert"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Marc",
-        "surname": "Surer"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Ottorino",
-        "surname": "Volonterio"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Jo",
-        "surname": "Vonlanthen"
-    },
-    {
-        "country": "Switzerland",
-        "flag": "🇨🇭",
-        "forename": "Heini",
-        "surname": "Walter"
-    }
+  {
+    "surname" : "Branca",
+    "flag" : "🇨🇭",
+    "forename" : "Toni",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Buemi",
+    "flag" : "🇨🇭",
+    "forename" : "Sébastien",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Chiesa",
+    "flag" : "🇨🇭",
+    "forename" : "Andrea",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "de Graffenried",
+    "flag" : "🇨🇭",
+    "forename" : "Toulo",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "de Terra",
+    "flag" : "🇨🇭",
+    "forename" : "Max",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Délétraz",
+    "flag" : "🇨🇭",
+    "forename" : "Jean-Denis",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Fischer",
+    "flag" : "🇨🇭",
+    "forename" : "Rudi",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Foitek",
+    "flag" : "🇨🇭",
+    "forename" : "Gregor",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Forini",
+    "flag" : "🇨🇭",
+    "forename" : "Franco",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Hirt",
+    "flag" : "🇨🇭",
+    "forename" : "Peter",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Kessel",
+    "flag" : "🇨🇭",
+    "forename" : "Loris",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "May",
+    "flag" : "🇨🇭",
+    "forename" : "Michael",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Monteverdi",
+    "flag" : "🇨🇭",
+    "forename" : "Peter",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Moser",
+    "flag" : "🇨🇭",
+    "forename" : "Silvio",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Regazzoni",
+    "flag" : "🇨🇭",
+    "forename" : "Clay",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Scherrer",
+    "flag" : "🇨🇭",
+    "forename" : "Albert",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Schiller",
+    "flag" : "🇨🇭",
+    "forename" : "Heinz",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Schoeller",
+    "flag" : "🇨🇭",
+    "forename" : "Rudolf",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Siffert",
+    "flag" : "🇨🇭",
+    "forename" : "Jo",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Surer",
+    "flag" : "🇨🇭",
+    "forename" : "Marc",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Volonterio",
+    "flag" : "🇨🇭",
+    "forename" : "Ottorino",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Vonlanthen",
+    "flag" : "🇨🇭",
+    "forename" : "Jo",
+    "country" : "Switzerland"
+  },
+  {
+    "surname" : "Walter",
+    "flag" : "🇨🇭",
+    "forename" : "Heini",
+    "country" : "Switzerland"
+  }
 ]

@@ -1,19 +1,19 @@
 name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
-1968 British Grand Prix 🇬🇧,R,7,1968-07-20,R,1968,Robin Widdows 🇬🇧,Cooper-BRM 🇬🇧,7,18,26,,0.0
-1968 Canadian Grand Prix 🇨🇦,N,16,1968-09-22,5,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,10,18,86,,2.0
-1968 French Grand Prix 🇫🇷,R,17,1968-07-07,4,1968,Johnny Servoz-Gavin 🇫🇷,Cooper-BRM 🇬🇧,6,15,58,,3.0
-1968 German Grand Prix 🇩🇪,R,5,1968-08-04,R,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,8,19,0,,0.0
-1968 Mexican Grand Prix 🇲🇽,R,17,1968-11-03,8,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,12,21,63,,0.0
-1968 United States Grand Prix 🇺🇸,N,17,1968-10-06,R,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,11,20,71,,0.0
-1969 British Grand Prix 🇬🇧,3,11,1969-07-19,6,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,6,7,82,,1.0
-1969 British Grand Prix 🇬🇧,R,11,1969-07-19,6,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,6,3,82,,1.0
-1969 British Grand Prix 🇬🇧,R,11,1969-07-19,6,1969,Derek Bell 🇬🇧,McLaren-Ford 🇬🇧,6,15,82,,1.0
-1969 Dutch Grand Prix 🇳🇱,4,15,1969-06-21,10,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,4,7,84,,0.0
-1969 Dutch Grand Prix 🇳🇱,8,15,1969-06-21,10,1969,Jean-Pierre Beltoise 🇫🇷,McLaren-Ford 🇬🇧,4,11,84,,0.0
-1969 Dutch Grand Prix 🇳🇱,R,15,1969-06-21,10,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,4,6,84,,0.0
-1969 French Grand Prix 🇫🇷,4,10,1969-07-06,5,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,5,7,37,,2.0
-1969 French Grand Prix 🇫🇷,8,10,1969-07-06,5,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,5,2,37,,2.0
-1969 German Grand Prix 🇩🇪,3,6,1969-08-03,R,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,7,8,0,,0.0
-1969 German Grand Prix 🇩🇪,R,6,1969-08-03,R,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,7,5,0,,0.0
-1971 German Grand Prix 🇩🇪,D,18,1971-08-01,11,1971,Jo Siffert 🇨🇭,BRM 🇬🇧,7,3,11,,0.0
-1971 German Grand Prix 🇩🇪,R,18,1971-08-01,11,1971,Howden Ganley 🇳🇿,BRM 🇬🇧,7,14,11,,0.0
+1968 British Grand Prix 🇬🇧,R,7,1968-07-20T00:00:00.000Z,R,1968,Robin Widdows 🇬🇧,Cooper-BRM 🇬🇧,7,18,26,,0.0
+1968 Canadian Grand Prix 🇨🇦,N,16,1968-09-22T00:00:00.000Z,5,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,10,18,86,,2.0
+1968 French Grand Prix 🇫🇷,R,17,1968-07-07T00:00:00.000Z,4,1968,Johnny Servoz-Gavin 🇫🇷,Cooper-BRM 🇬🇧,6,15,58,,3.0
+1968 German Grand Prix 🇩🇪,R,5,1968-08-04T00:00:00.000Z,R,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,8,19,0,,0.0
+1968 Mexican Grand Prix 🇲🇽,R,17,1968-11-03T00:00:00.000Z,8,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,12,21,63,,0.0
+1968 United States Grand Prix 🇺🇸,N,17,1968-10-06T00:00:00.000Z,R,1968,Lucien Bianchi 🇧🇪,Cooper-BRM 🇬🇧,11,20,71,,0.0
+1969 British Grand Prix 🇬🇧,3,11,1969-07-19T00:00:00.000Z,6,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,6,7,82,,1.0
+1969 British Grand Prix 🇬🇧,R,11,1969-07-19T00:00:00.000Z,6,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,6,3,82,,1.0
+1969 British Grand Prix 🇬🇧,R,11,1969-07-19T00:00:00.000Z,6,1969,Derek Bell 🇬🇧,McLaren-Ford 🇬🇧,6,15,82,,1.0
+1969 Dutch Grand Prix 🇳🇱,4,15,1969-06-21T00:00:00.000Z,10,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,4,7,84,,0.0
+1969 Dutch Grand Prix 🇳🇱,8,15,1969-06-21T00:00:00.000Z,10,1969,Jean-Pierre Beltoise 🇫🇷,McLaren-Ford 🇬🇧,4,11,84,,0.0
+1969 Dutch Grand Prix 🇳🇱,R,15,1969-06-21T00:00:00.000Z,10,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,4,6,84,,0.0
+1969 French Grand Prix 🇫🇷,4,10,1969-07-06T00:00:00.000Z,5,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,5,7,37,,2.0
+1969 French Grand Prix 🇫🇷,8,10,1969-07-06T00:00:00.000Z,5,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,5,2,37,,2.0
+1969 German Grand Prix 🇩🇪,3,6,1969-08-03T00:00:00.000Z,R,1969,Bruce McLaren 🇳🇿,McLaren-Ford 🇬🇧,7,8,0,,0.0
+1969 German Grand Prix 🇩🇪,R,6,1969-08-03T00:00:00.000Z,R,1969,Denny Hulme 🇳🇿,McLaren-Ford 🇬🇧,7,5,0,,0.0
+1971 German Grand Prix 🇩🇪,D,18,1971-08-01T00:00:00.000Z,11,1971,Jo Siffert 🇨🇭,BRM 🇬🇧,7,3,11,,0.0
+1971 German Grand Prix 🇩🇪,R,18,1971-08-01T00:00:00.000Z,11,1971,Howden Ganley 🇳🇿,BRM 🇬🇧,7,14,11,,0.0

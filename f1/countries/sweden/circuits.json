@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Sweden",
-        "location": "Anderstorp",
-        "most_wins_driver": "Niki Lauda 🇦🇹",
-        "name": "Scandinavian Raceway",
-        "races": 6,
-        "wins": 2
-    }
+  {
+    "most_wins_driver" : "Niki Lauda 🇦🇹",
+    "name" : "Scandinavian Raceway",
+    "location" : "Anderstorp",
+    "races" : 6,
+    "wins" : 2,
+    "country" : "Sweden"
+  }
 ]

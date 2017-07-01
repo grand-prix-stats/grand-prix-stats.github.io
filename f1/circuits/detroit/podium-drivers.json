@@ -1,54 +1,54 @@
 [
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "John Watson 🇬🇧",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Keke Rosberg 🇫🇮",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Michele Alboreto 🇮🇹",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Nelson Piquet 🇧🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Didier Pironi 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Eddie Cheever 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Elio de Angelis 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Stefan Johansson 🇸🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Teo Fabi 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Thierry Boutsen 🇧🇪",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Alain Prost 🇫🇷",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Ayrton Senna 🇧🇷",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "John Watson 🇬🇧",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Keke Rosberg 🇫🇮",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Michele Alboreto 🇮🇹",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Nelson Piquet 🇧🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Didier Pironi 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Eddie Cheever 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Elio de Angelis 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jacques Laffite 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Stefan Johansson 🇸🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Teo Fabi 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Thierry Boutsen 🇧🇪",
+    "number_of_podiums" : 1
+  }
 ]

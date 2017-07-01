@@ -1,50 +1,50 @@
 [
-    {
-        "driver": "Niki Lauda 🇦🇹",
-        "times": 3
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "times": 2
-    },
-    {
-        "driver": "Jody Scheckter 🇿🇦",
-        "times": 2
-    },
-    {
-        "driver": "Patrick Depailler 🇫🇷",
-        "times": 2
-    },
-    {
-        "driver": "Ronnie Peterson 🇸🇪",
-        "times": 2
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "times": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "times": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "Jacques Laffite 🇫🇷",
-        "times": 1
-    },
-    {
-        "driver": "James Hunt 🇬🇧",
-        "times": 1
-    },
-    {
-        "driver": "Jochen Mass 🇩🇪",
-        "times": 1
-    },
-    {
-        "driver": "Riccardo Patrese 🇮🇹",
-        "times": 1
-    }
+  {
+    "times" : 3,
+    "driver" : "Niki Lauda 🇦🇹"
+  },
+  {
+    "times" : 2,
+    "driver" : "Carlos Reutemann 🇦🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Jody Scheckter 🇿🇦"
+  },
+  {
+    "times" : 2,
+    "driver" : "Patrick Depailler 🇫🇷"
+  },
+  {
+    "times" : 2,
+    "driver" : "Ronnie Peterson 🇸🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Clay Regazzoni 🇨🇭"
+  },
+  {
+    "times" : 1,
+    "driver" : "Denny Hulme 🇳🇿"
+  },
+  {
+    "times" : 1,
+    "driver" : "François Cevert 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jacques Laffite 🇫🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "James Hunt 🇬🇧"
+  },
+  {
+    "times" : 1,
+    "driver" : "Jochen Mass 🇩🇪"
+  },
+  {
+    "times" : 1,
+    "driver" : "Riccardo Patrese 🇮🇹"
+  }
 ]

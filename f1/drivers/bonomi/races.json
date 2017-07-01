@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Cooper-Maserati 🇬🇧",
-        "date": "1960-02-07",
-        "final_position": "11",
-        "grid": 17,
-        "laps_completed": 76,
-        "name": "1960 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1960,
-        "teammate": "Carlos Menditeguy 🇦🇷",
-        "teammate_final_position": "4",
-        "teammate_grid": 12,
-        "time": null
-    }
+  {
+    "name" : "1960 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "4",
+    "grid" : 17,
+    "date" : "1960-02-07T00:00:00.000Z",
+    "final_position" : "11",
+    "season" : 1960,
+    "teammate" : "Carlos Menditeguy 🇦🇷",
+    "constructor" : "Cooper-Maserati 🇬🇧",
+    "round" : 1,
+    "teammate_grid" : 12,
+    "laps_completed" : 76,
+    "time" : null,
+    "points" : 0
+  }
 ]

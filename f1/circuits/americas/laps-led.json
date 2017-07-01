@@ -1,22 +1,22 @@
 [
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_laps_led": "129"
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_laps_led": "98"
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_laps_led": "44"
-    },
-    {
-        "driver": "Daniel Ricciardo 🇦🇺",
-        "number_of_laps_led": "7"
-    },
-    {
-        "driver": "Romain Grosjean 🇫🇷",
-        "number_of_laps_led": "2"
-    }
+  {
+    "driver" : "Lewis Hamilton 🇬🇧",
+    "number_of_laps_led" : "129"
+  },
+  {
+    "driver" : "Sebastian Vettel 🇩🇪",
+    "number_of_laps_led" : "98"
+  },
+  {
+    "driver" : "Nico Rosberg 🇩🇪",
+    "number_of_laps_led" : "44"
+  },
+  {
+    "driver" : "Daniel Ricciardo 🇦🇺",
+    "number_of_laps_led" : "7"
+  },
+  {
+    "driver" : "Romain Grosjean 🇫🇷",
+    "number_of_laps_led" : "2"
+  }
 ]

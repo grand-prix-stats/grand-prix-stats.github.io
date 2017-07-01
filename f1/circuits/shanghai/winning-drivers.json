@@ -1,34 +1,34 @@
 [
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_wins": 5
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Rubens Barrichello 🇧🇷",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 5,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Jenson Button 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Rubens Barrichello 🇧🇷"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  }
 ]

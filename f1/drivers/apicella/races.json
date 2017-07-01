@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Jordan 🇮🇪",
-        "date": "1993-09-12",
-        "final_position": "R",
-        "grid": 23,
-        "laps_completed": 0,
-        "name": "1993 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 13,
-        "season": 1993,
-        "teammate": "Rubens Barrichello 🇧🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 19,
-        "time": null
-    }
+  {
+    "name" : "1993 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "R",
+    "grid" : 23,
+    "date" : "1993-09-12T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1993,
+    "teammate" : "Rubens Barrichello 🇧🇷",
+    "constructor" : "Jordan 🇮🇪",
+    "round" : 13,
+    "teammate_grid" : 19,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

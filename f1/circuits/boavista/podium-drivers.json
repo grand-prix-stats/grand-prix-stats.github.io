@@ -1,26 +1,26 @@
 [
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Stuart Lewis-Evans 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Bruce McLaren 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jim Clark 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Mike Hawthorn 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Stirling Moss 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Stuart Lewis-Evans 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "Surtees 🇬🇧",
-        "date": "1978-09-10",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1978 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 14,
-        "season": 1978,
-        "teammate": "Vittorio Brambilla 🇮🇹",
-        "teammate_final_position": "R",
-        "teammate_grid": 23,
-        "time": null
-    }
+  {
+    "name" : "1978 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "R",
+    "grid" : 0,
+    "date" : "1978-09-10T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1978,
+    "teammate" : "Vittorio Brambilla 🇮🇹",
+    "constructor" : "Surtees 🇬🇧",
+    "round" : 14,
+    "teammate_grid" : 23,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  }
 ]

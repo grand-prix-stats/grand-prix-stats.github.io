@@ -1,42 +1,42 @@
 [
-    {
-        "date": "2017-07-09",
-        "laps_completed": null,
-        "name": "2017 Austrian Grand Prix 🇦🇹",
-        "race_duration": null,
-        "round": 9,
-        "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
-    },
-    {
-        "date": "2016-07-03",
-        "laps_completed": 71,
-        "name": "2016 Austrian Grand Prix 🇦🇹",
-        "race_duration": "1:27:38.107",
-        "round": 9,
-        "season": 2016,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Lewis Hamilton 🇬🇧"
-    },
-    {
-        "date": "2015-06-21",
-        "laps_completed": 71,
-        "name": "2015 Austrian Grand Prix 🇦🇹",
-        "race_duration": "1:30:16.930",
-        "round": 8,
-        "season": 2015,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Nico Rosberg 🇩🇪"
-    },
-    {
-        "date": "2014-06-22",
-        "laps_completed": 71,
-        "name": "2014 Austrian Grand Prix 🇦🇹",
-        "race_duration": "1:27:54.976",
-        "round": 8,
-        "season": 2014,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Nico Rosberg 🇩🇪"
-    }
+  {
+    "name" : "2017 Austrian Grand Prix 🇦🇹",
+    "race_duration" : null,
+    "round" : 9,
+    "laps_completed" : null,
+    "winning_constructor" : null,
+    "date" : "2017-07-09T00:00:00.000Z",
+    "winning_driver" : null,
+    "season" : 2017
+  },
+  {
+    "name" : "2016 Austrian Grand Prix 🇦🇹",
+    "race_duration" : "1:27:38.107",
+    "round" : 9,
+    "laps_completed" : 71,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2016-07-03T00:00:00.000Z",
+    "winning_driver" : "Lewis Hamilton 🇬🇧",
+    "season" : 2016
+  },
+  {
+    "name" : "2015 Austrian Grand Prix 🇦🇹",
+    "race_duration" : "1:30:16.930",
+    "round" : 8,
+    "laps_completed" : 71,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2015-06-21T00:00:00.000Z",
+    "winning_driver" : "Nico Rosberg 🇩🇪",
+    "season" : 2015
+  },
+  {
+    "name" : "2014 Austrian Grand Prix 🇦🇹",
+    "race_duration" : "1:27:54.976",
+    "round" : 8,
+    "laps_completed" : 71,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2014-06-22T00:00:00.000Z",
+    "winning_driver" : "Nico Rosberg 🇩🇪",
+    "season" : 2014
+  }
 ]

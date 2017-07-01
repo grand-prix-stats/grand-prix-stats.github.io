@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Mexico",
-        "location": "Mexico City",
-        "most_wins_driver": "Nigel Mansell 🇬🇧",
-        "name": "Autódromo Hermanos Rodríguez",
-        "races": 18,
-        "wins": 2
-    }
+  {
+    "most_wins_driver" : "Nigel Mansell 🇬🇧",
+    "name" : "Autódromo Hermanos Rodríguez",
+    "location" : "Mexico City",
+    "races" : 18,
+    "wins" : 2,
+    "country" : "Mexico"
+  }
 ]

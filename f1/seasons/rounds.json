@@ -1,274 +1,274 @@
 [
-    {
-        "rounds": 7,
-        "year": 1950
-    },
-    {
-        "rounds": 8,
-        "year": 1951
-    },
-    {
-        "rounds": 8,
-        "year": 1952
-    },
-    {
-        "rounds": 9,
-        "year": 1953
-    },
-    {
-        "rounds": 9,
-        "year": 1954
-    },
-    {
-        "rounds": 7,
-        "year": 1955
-    },
-    {
-        "rounds": 8,
-        "year": 1956
-    },
-    {
-        "rounds": 8,
-        "year": 1957
-    },
-    {
-        "rounds": 11,
-        "year": 1958
-    },
-    {
-        "rounds": 9,
-        "year": 1959
-    },
-    {
-        "rounds": 10,
-        "year": 1960
-    },
-    {
-        "rounds": 8,
-        "year": 1961
-    },
-    {
-        "rounds": 9,
-        "year": 1962
-    },
-    {
-        "rounds": 10,
-        "year": 1963
-    },
-    {
-        "rounds": 10,
-        "year": 1964
-    },
-    {
-        "rounds": 10,
-        "year": 1965
-    },
-    {
-        "rounds": 9,
-        "year": 1966
-    },
-    {
-        "rounds": 11,
-        "year": 1967
-    },
-    {
-        "rounds": 12,
-        "year": 1968
-    },
-    {
-        "rounds": 11,
-        "year": 1969
-    },
-    {
-        "rounds": 13,
-        "year": 1970
-    },
-    {
-        "rounds": 11,
-        "year": 1971
-    },
-    {
-        "rounds": 12,
-        "year": 1972
-    },
-    {
-        "rounds": 15,
-        "year": 1973
-    },
-    {
-        "rounds": 15,
-        "year": 1974
-    },
-    {
-        "rounds": 14,
-        "year": 1975
-    },
-    {
-        "rounds": 16,
-        "year": 1976
-    },
-    {
-        "rounds": 17,
-        "year": 1977
-    },
-    {
-        "rounds": 16,
-        "year": 1978
-    },
-    {
-        "rounds": 15,
-        "year": 1979
-    },
-    {
-        "rounds": 14,
-        "year": 1980
-    },
-    {
-        "rounds": 15,
-        "year": 1981
-    },
-    {
-        "rounds": 16,
-        "year": 1982
-    },
-    {
-        "rounds": 15,
-        "year": 1983
-    },
-    {
-        "rounds": 16,
-        "year": 1984
-    },
-    {
-        "rounds": 16,
-        "year": 1985
-    },
-    {
-        "rounds": 16,
-        "year": 1986
-    },
-    {
-        "rounds": 16,
-        "year": 1987
-    },
-    {
-        "rounds": 16,
-        "year": 1988
-    },
-    {
-        "rounds": 16,
-        "year": 1989
-    },
-    {
-        "rounds": 16,
-        "year": 1990
-    },
-    {
-        "rounds": 16,
-        "year": 1991
-    },
-    {
-        "rounds": 16,
-        "year": 1992
-    },
-    {
-        "rounds": 16,
-        "year": 1993
-    },
-    {
-        "rounds": 16,
-        "year": 1994
-    },
-    {
-        "rounds": 17,
-        "year": 1995
-    },
-    {
-        "rounds": 16,
-        "year": 1996
-    },
-    {
-        "rounds": 17,
-        "year": 1997
-    },
-    {
-        "rounds": 16,
-        "year": 1998
-    },
-    {
-        "rounds": 16,
-        "year": 1999
-    },
-    {
-        "rounds": 17,
-        "year": 2000
-    },
-    {
-        "rounds": 17,
-        "year": 2001
-    },
-    {
-        "rounds": 17,
-        "year": 2002
-    },
-    {
-        "rounds": 16,
-        "year": 2003
-    },
-    {
-        "rounds": 18,
-        "year": 2004
-    },
-    {
-        "rounds": 19,
-        "year": 2005
-    },
-    {
-        "rounds": 18,
-        "year": 2006
-    },
-    {
-        "rounds": 17,
-        "year": 2007
-    },
-    {
-        "rounds": 18,
-        "year": 2008
-    },
-    {
-        "rounds": 17,
-        "year": 2009
-    },
-    {
-        "rounds": 19,
-        "year": 2010
-    },
-    {
-        "rounds": 19,
-        "year": 2011
-    },
-    {
-        "rounds": 20,
-        "year": 2012
-    },
-    {
-        "rounds": 19,
-        "year": 2013
-    },
-    {
-        "rounds": 19,
-        "year": 2014
-    },
-    {
-        "rounds": 19,
-        "year": 2015
-    },
-    {
-        "rounds": 21,
-        "year": 2016
-    },
-    {
-        "rounds": 20,
-        "year": 2017
-    }
+  {
+    "year" : 1950,
+    "rounds" : 7
+  },
+  {
+    "year" : 1951,
+    "rounds" : 8
+  },
+  {
+    "year" : 1952,
+    "rounds" : 8
+  },
+  {
+    "year" : 1953,
+    "rounds" : 9
+  },
+  {
+    "year" : 1954,
+    "rounds" : 9
+  },
+  {
+    "year" : 1955,
+    "rounds" : 7
+  },
+  {
+    "year" : 1956,
+    "rounds" : 8
+  },
+  {
+    "year" : 1957,
+    "rounds" : 8
+  },
+  {
+    "year" : 1958,
+    "rounds" : 11
+  },
+  {
+    "year" : 1959,
+    "rounds" : 9
+  },
+  {
+    "year" : 1960,
+    "rounds" : 10
+  },
+  {
+    "year" : 1961,
+    "rounds" : 8
+  },
+  {
+    "year" : 1962,
+    "rounds" : 9
+  },
+  {
+    "year" : 1963,
+    "rounds" : 10
+  },
+  {
+    "year" : 1964,
+    "rounds" : 10
+  },
+  {
+    "year" : 1965,
+    "rounds" : 10
+  },
+  {
+    "year" : 1966,
+    "rounds" : 9
+  },
+  {
+    "year" : 1967,
+    "rounds" : 11
+  },
+  {
+    "year" : 1968,
+    "rounds" : 12
+  },
+  {
+    "year" : 1969,
+    "rounds" : 11
+  },
+  {
+    "year" : 1970,
+    "rounds" : 13
+  },
+  {
+    "year" : 1971,
+    "rounds" : 11
+  },
+  {
+    "year" : 1972,
+    "rounds" : 12
+  },
+  {
+    "year" : 1973,
+    "rounds" : 15
+  },
+  {
+    "year" : 1974,
+    "rounds" : 15
+  },
+  {
+    "year" : 1975,
+    "rounds" : 14
+  },
+  {
+    "year" : 1976,
+    "rounds" : 16
+  },
+  {
+    "year" : 1977,
+    "rounds" : 17
+  },
+  {
+    "year" : 1978,
+    "rounds" : 16
+  },
+  {
+    "year" : 1979,
+    "rounds" : 15
+  },
+  {
+    "year" : 1980,
+    "rounds" : 14
+  },
+  {
+    "year" : 1981,
+    "rounds" : 15
+  },
+  {
+    "year" : 1982,
+    "rounds" : 16
+  },
+  {
+    "year" : 1983,
+    "rounds" : 15
+  },
+  {
+    "year" : 1984,
+    "rounds" : 16
+  },
+  {
+    "year" : 1985,
+    "rounds" : 16
+  },
+  {
+    "year" : 1986,
+    "rounds" : 16
+  },
+  {
+    "year" : 1987,
+    "rounds" : 16
+  },
+  {
+    "year" : 1988,
+    "rounds" : 16
+  },
+  {
+    "year" : 1989,
+    "rounds" : 16
+  },
+  {
+    "year" : 1990,
+    "rounds" : 16
+  },
+  {
+    "year" : 1991,
+    "rounds" : 16
+  },
+  {
+    "year" : 1992,
+    "rounds" : 16
+  },
+  {
+    "year" : 1993,
+    "rounds" : 16
+  },
+  {
+    "year" : 1994,
+    "rounds" : 16
+  },
+  {
+    "year" : 1995,
+    "rounds" : 17
+  },
+  {
+    "year" : 1996,
+    "rounds" : 16
+  },
+  {
+    "year" : 1997,
+    "rounds" : 17
+  },
+  {
+    "year" : 1998,
+    "rounds" : 16
+  },
+  {
+    "year" : 1999,
+    "rounds" : 16
+  },
+  {
+    "year" : 2000,
+    "rounds" : 17
+  },
+  {
+    "year" : 2001,
+    "rounds" : 17
+  },
+  {
+    "year" : 2002,
+    "rounds" : 17
+  },
+  {
+    "year" : 2003,
+    "rounds" : 16
+  },
+  {
+    "year" : 2004,
+    "rounds" : 18
+  },
+  {
+    "year" : 2005,
+    "rounds" : 19
+  },
+  {
+    "year" : 2006,
+    "rounds" : 18
+  },
+  {
+    "year" : 2007,
+    "rounds" : 17
+  },
+  {
+    "year" : 2008,
+    "rounds" : 18
+  },
+  {
+    "year" : 2009,
+    "rounds" : 17
+  },
+  {
+    "year" : 2010,
+    "rounds" : 19
+  },
+  {
+    "year" : 2011,
+    "rounds" : 19
+  },
+  {
+    "year" : 2012,
+    "rounds" : 20
+  },
+  {
+    "year" : 2013,
+    "rounds" : 19
+  },
+  {
+    "year" : 2014,
+    "rounds" : 19
+  },
+  {
+    "year" : 2015,
+    "rounds" : 19
+  },
+  {
+    "year" : 2016,
+    "rounds" : 21
+  },
+  {
+    "year" : 2017,
+    "rounds" : 20
+  }
 ]

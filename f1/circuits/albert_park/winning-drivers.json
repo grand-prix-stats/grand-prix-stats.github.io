@@ -1,50 +1,50 @@
 [
-    {
-        "driver": "Michael Schumacher 🇩🇪",
-        "number_of_wins": 4
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "number_of_wins": 3
-    },
-    {
-        "driver": "David Coulthard 🇬🇧",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_wins": 2
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Eddie Irvine 🇬🇧",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Giancarlo Fisichella 🇮🇹",
-        "number_of_wins": 1
-    },
-    {
-        "driver": "Mika Häkkinen 🇫🇮",
-        "number_of_wins": 1
-    }
+  {
+    "number_of_wins" : 4,
+    "driver" : "Michael Schumacher 🇩🇪"
+  },
+  {
+    "number_of_wins" : 3,
+    "driver" : "Jenson Button 🇬🇧"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "David Coulthard 🇬🇧"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "number_of_wins" : 2,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Damon Hill 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Eddie Irvine 🇬🇧"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Giancarlo Fisichella 🇮🇹"
+  },
+  {
+    "number_of_wins" : 1,
+    "driver" : "Mika Häkkinen 🇫🇮"
+  }
 ]

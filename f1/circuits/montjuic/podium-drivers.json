@@ -1,42 +1,42 @@
 [
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Carlos Reutemann 🇦🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Chris Amon 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "François Cevert 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "George Follmer 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jean-Pierre Beltoise 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jochen Mass 🇩🇪",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Jackie Stewart 🇬🇧",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jacky Ickx 🇧🇪",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Bruce McLaren 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Carlos Reutemann 🇦🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Chris Amon 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Emerson Fittipaldi 🇧🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "François Cevert 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "George Follmer 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jean-Pierre Beltoise 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jochen Mass 🇩🇪",
+    "number_of_podiums" : 1
+  }
 ]

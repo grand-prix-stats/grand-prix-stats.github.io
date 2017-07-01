@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Ensign 🇬🇧",
-        "date": "1975-09-07",
-        "final_position": "F",
-        "grid": 0,
-        "laps_completed": 0,
-        "name": "1975 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 13,
-        "season": 1975,
-        "teammate": "Chris Amon 🇳🇿",
-        "teammate_final_position": "12",
-        "teammate_grid": 19,
-        "time": null
-    },
-    {
-        "constructor": "Ensign 🇬🇧",
-        "date": "1975-08-17",
-        "final_position": "N",
-        "grid": 27,
-        "laps_completed": 25,
-        "name": "1975 Austrian Grand Prix 🇦🇹",
-        "points": 0.0,
-        "round": 12,
-        "season": 1975,
-        "teammate": "Chris Amon 🇳🇿",
-        "teammate_final_position": "12",
-        "teammate_grid": 23,
-        "time": null
-    }
+  {
+    "name" : "1975 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "12",
+    "grid" : 0,
+    "date" : "1975-09-07T00:00:00.000Z",
+    "final_position" : "F",
+    "season" : 1975,
+    "teammate" : "Chris Amon 🇳🇿",
+    "constructor" : "Ensign 🇬🇧",
+    "round" : 13,
+    "teammate_grid" : 19,
+    "laps_completed" : 0,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1975 Austrian Grand Prix 🇦🇹",
+    "teammate_final_position" : "12",
+    "grid" : 27,
+    "date" : "1975-08-17T00:00:00.000Z",
+    "final_position" : "N",
+    "season" : 1975,
+    "teammate" : "Chris Amon 🇳🇿",
+    "constructor" : "Ensign 🇬🇧",
+    "round" : 12,
+    "teammate_grid" : 23,
+    "laps_completed" : 25,
+    "time" : null,
+    "points" : 0
+  }
 ]

@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Alain Prost 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Damon Hill 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Alain Prost 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Ayrton Senna 🇧🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Damon Hill 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

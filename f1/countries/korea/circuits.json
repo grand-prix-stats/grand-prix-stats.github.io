@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Korea",
-        "location": "Yeongam County",
-        "most_wins_driver": "Sebastian Vettel 🇩🇪",
-        "name": "Korean International Circuit",
-        "races": 4,
-        "wins": 3
-    }
+  {
+    "most_wins_driver" : "Sebastian Vettel 🇩🇪",
+    "name" : "Korean International Circuit",
+    "location" : "Yeongam County",
+    "races" : 4,
+    "wins" : 3,
+    "country" : "Korea"
+  }
 ]

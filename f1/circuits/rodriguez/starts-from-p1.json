@@ -1,46 +1,46 @@
 [
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_starts_from_p1": 4
-    },
-    {
-        "driver": "Ayrton Senna 🇧🇷",
-        "number_of_starts_from_p1": 3
-    },
-    {
-        "driver": "Nigel Mansell 🇬🇧",
-        "number_of_starts_from_p1": 2
-    },
-    {
-        "driver": "Clay Regazzoni 🇨🇭",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Gerhard Berger 🇦🇹",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Jo Siffert 🇨🇭",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_starts_from_p1": 1
-    },
-    {
-        "driver": "Riccardo Patrese 🇮🇹",
-        "number_of_starts_from_p1": 1
-    }
+  {
+    "number_of_starts_from_p1" : 4,
+    "driver" : "Jim Clark 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 3,
+    "driver" : "Ayrton Senna 🇧🇷"
+  },
+  {
+    "number_of_starts_from_p1" : 2,
+    "driver" : "Nigel Mansell 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Clay Regazzoni 🇨🇭"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Gerhard Berger 🇦🇹"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jack Brabham 🇦🇺"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Jo Siffert 🇨🇭"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "John Surtees 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Nico Rosberg 🇩🇪"
+  },
+  {
+    "number_of_starts_from_p1" : 1,
+    "driver" : "Riccardo Patrese 🇮🇹"
+  }
 ]

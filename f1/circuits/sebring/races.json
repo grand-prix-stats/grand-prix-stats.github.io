@@ -1,12 +1,12 @@
 [
-    {
-        "date": "1959-12-12",
-        "laps_completed": 42,
-        "name": "1959 United States Grand Prix 🇺🇸",
-        "race_duration": "2:12:35.7",
-        "round": 9,
-        "season": 1959,
-        "winning_constructor": "Cooper-Climax 🇬🇧",
-        "winning_driver": "Bruce McLaren 🇳🇿"
-    }
+  {
+    "name" : "1959 United States Grand Prix 🇺🇸",
+    "race_duration" : "2:12:35.7",
+    "round" : 9,
+    "laps_completed" : 42,
+    "winning_constructor" : "Cooper-Climax 🇬🇧",
+    "date" : "1959-12-12T00:00:00.000Z",
+    "winning_driver" : "Bruce McLaren 🇳🇿",
+    "season" : 1959
+  }
 ]

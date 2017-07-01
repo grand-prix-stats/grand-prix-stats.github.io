@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Bob Anderson 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Lorenzo Bandini 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Richie Ginther 🇺🇸",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Bob Anderson 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Lorenzo Bandini 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Richie Ginther 🇺🇸",
+    "number_of_podiums" : 1
+  }
 ]

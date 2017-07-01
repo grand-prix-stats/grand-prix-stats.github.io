@@ -1,30 +1,30 @@
 name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
-2001 Australian Grand Prix 🇦🇺,10,18,2001-03-04,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,1,15,2,,0.0
-2001 Austrian Grand Prix 🇦🇹,6,15,2001-05-13,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,6,16,17,,0.0
-2001 Belgian Grand Prix 🇧🇪,10,21,2001-09-02,12,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,14,19,35,,0.0
-2001 Brazilian Grand Prix 🇧🇷,R,16,2001-04-01,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,3,17,15,,0.0
-2001 British Grand Prix 🇬🇧,10,20,2001-07-15,14,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,11,17,58,,0.0
-2001 Canadian Grand Prix 🇨🇦,10,17,2001-06-10,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,8,13,24,,0.0
-2001 European Grand Prix 🇩🇪,R,18,2001-06-24,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,9,19,29,,0.0
-2001 French Grand Prix 🇫🇷,13,20,2001-07-01,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,10,18,17,,0.0
-2001 German Grand Prix 🇩🇪,9,19,2001-07-29,8,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,12,20,44,,0.0
-2001 Hungarian Grand Prix 🇭🇺,12,20,2001-08-19,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,13,21,11,,0.0
-2001 Italian Grand Prix 🇮🇹,R,18,2001-09-16,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,15,19,46,,0.0
-2001 Japanese Grand Prix 🇯🇵,15,20,2001-10-14,14,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,17,21,51,,0.0
-2001 Malaysian Grand Prix 🇲🇾,7,22,2001-03-18,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,2,18,3,,0.0
-2001 Monaco Grand Prix 🇲🇨,8,20,2001-05-27,9,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,7,19,76,,0.0
-2001 San Marino Grand Prix 🇮🇹,R,16,2001-04-15,10,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,4,17,60,,0.0
-2001 Spanish Grand Prix 🇪🇸,12,16,2001-04-29,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,5,17,8,,0.0
-2001 United States Grand Prix 🇺🇸,R,19,2001-09-30,13,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,16,20,72,,0.0
-2002 Australian Grand Prix 🇦🇺,D,17,2002-03-03,D,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,1,15,15,,0.0
-2002 Austrian Grand Prix 🇦🇹,11,12,2002-05-12,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,6,11,2,,0.0
-2002 Brazilian Grand Prix 🇧🇷,R,21,2002-03-31,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,3,18,19,,0.0
-2002 British Grand Prix 🇬🇧,R,18,2002-07-07,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,10,16,28,,0.0
-2002 Canadian Grand Prix 🇨🇦,13,17,2002-06-09,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,8,19,16,,0.0
-2002 European Grand Prix 🇩🇪,13,21,2002-06-23,11,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,9,15,59,,0.0
-2002 French Grand Prix 🇫🇷,F,0,2002-07-21,F,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,11,0,0,,0.0
-2002 German Grand Prix 🇩🇪,R,18,2002-07-28,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,12,15,48,,0.0
-2002 Malaysian Grand Prix 🇲🇾,11,16,2002-03-17,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,2,11,20,,0.0
-2002 Monaco Grand Prix 🇲🇨,6,21,2002-05-26,12,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,7,12,76,,0.0
-2002 San Marino Grand Prix 🇮🇹,R,20,2002-04-14,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,4,13,50,,0.0
-2002 Spanish Grand Prix 🇪🇸,6,14,2002-04-28,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,5,10,40,,0.0
+2001 Australian Grand Prix 🇦🇺,10,18,2001-03-04T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,1,15,2,,0.0
+2001 Austrian Grand Prix 🇦🇹,6,15,2001-05-13T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,6,16,17,,0.0
+2001 Belgian Grand Prix 🇧🇪,10,21,2001-09-02T00:00:00.000Z,12,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,14,19,35,,0.0
+2001 Brazilian Grand Prix 🇧🇷,R,16,2001-04-01T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,3,17,15,,0.0
+2001 British Grand Prix 🇬🇧,10,20,2001-07-15T00:00:00.000Z,14,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,11,17,58,,0.0
+2001 Canadian Grand Prix 🇨🇦,10,17,2001-06-10T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,8,13,24,,0.0
+2001 European Grand Prix 🇩🇪,R,18,2001-06-24T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,9,19,29,,0.0
+2001 French Grand Prix 🇫🇷,13,20,2001-07-01T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,10,18,17,,0.0
+2001 German Grand Prix 🇩🇪,9,19,2001-07-29T00:00:00.000Z,8,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,12,20,44,,0.0
+2001 Hungarian Grand Prix 🇭🇺,12,20,2001-08-19T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,13,21,11,,0.0
+2001 Italian Grand Prix 🇮🇹,R,18,2001-09-16T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,15,19,46,,0.0
+2001 Japanese Grand Prix 🇯🇵,15,20,2001-10-14T00:00:00.000Z,14,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,17,21,51,,0.0
+2001 Malaysian Grand Prix 🇲🇾,7,22,2001-03-18T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,2,18,3,,0.0
+2001 Monaco Grand Prix 🇲🇨,8,20,2001-05-27T00:00:00.000Z,9,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,7,19,76,,0.0
+2001 San Marino Grand Prix 🇮🇹,R,16,2001-04-15T00:00:00.000Z,10,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,4,17,60,,0.0
+2001 Spanish Grand Prix 🇪🇸,12,16,2001-04-29T00:00:00.000Z,R,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,5,17,8,,0.0
+2001 United States Grand Prix 🇺🇸,R,19,2001-09-30T00:00:00.000Z,13,2001,Jos Verstappen 🇳🇱,Arrows 🇬🇧,16,20,72,,0.0
+2002 Australian Grand Prix 🇦🇺,D,17,2002-03-03T00:00:00.000Z,D,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,1,15,15,,0.0
+2002 Austrian Grand Prix 🇦🇹,11,12,2002-05-12T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,6,11,2,,0.0
+2002 Brazilian Grand Prix 🇧🇷,R,21,2002-03-31T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,3,18,19,,0.0
+2002 British Grand Prix 🇬🇧,R,18,2002-07-07T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,10,16,28,,0.0
+2002 Canadian Grand Prix 🇨🇦,13,17,2002-06-09T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,8,19,16,,0.0
+2002 European Grand Prix 🇩🇪,13,21,2002-06-23T00:00:00.000Z,11,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,9,15,59,,0.0
+2002 French Grand Prix 🇫🇷,F,0,2002-07-21T00:00:00.000Z,F,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,11,0,0,,0.0
+2002 German Grand Prix 🇩🇪,R,18,2002-07-28T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,12,15,48,,0.0
+2002 Malaysian Grand Prix 🇲🇾,11,16,2002-03-17T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,2,11,20,,0.0
+2002 Monaco Grand Prix 🇲🇨,6,21,2002-05-26T00:00:00.000Z,12,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,7,12,76,,0.0
+2002 San Marino Grand Prix 🇮🇹,R,20,2002-04-14T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,4,13,50,,0.0
+2002 Spanish Grand Prix 🇪🇸,6,14,2002-04-28T00:00:00.000Z,R,2002,Heinz-Harald Frentzen 🇩🇪,Arrows 🇬🇧,5,10,40,,0.0

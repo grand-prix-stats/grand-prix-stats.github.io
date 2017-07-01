@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1954-01-17",
-        "final_position": "R",
-        "grid": 16,
-        "laps_completed": 19,
-        "name": "1954 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1954,
-        "teammate": "Élie Bayol 🇫🇷",
-        "teammate_final_position": "5",
-        "teammate_grid": 15,
-        "time": null
-    },
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1954-01-17",
-        "final_position": "R",
-        "grid": 16,
-        "laps_completed": 19,
-        "name": "1954 Argentine Grand Prix 🇦🇷",
-        "points": 0.0,
-        "round": 1,
-        "season": 1954,
-        "teammate": "Jean Behra 🇫🇷",
-        "teammate_final_position": "D",
-        "teammate_grid": 17,
-        "time": null
-    }
+  {
+    "name" : "1954 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "5",
+    "grid" : 16,
+    "date" : "1954-01-17T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1954,
+    "teammate" : "Élie Bayol 🇫🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 1,
+    "teammate_grid" : 15,
+    "laps_completed" : 19,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1954 Argentine Grand Prix 🇦🇷",
+    "teammate_final_position" : "D",
+    "grid" : 16,
+    "date" : "1954-01-17T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1954,
+    "teammate" : "Jean Behra 🇫🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 1,
+    "teammate_grid" : 17,
+    "laps_completed" : 19,
+    "time" : null,
+    "points" : 0
+  }
 ]

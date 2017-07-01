@@ -1,10 +1,10 @@
 [
-    {
-        "country": "Hungary",
-        "location": "Budapest",
-        "most_wins_driver": "Lewis Hamilton 🇬🇧",
-        "name": "Hungaroring",
-        "races": 32,
-        "wins": 5
-    }
+  {
+    "most_wins_driver" : "Lewis Hamilton 🇬🇧",
+    "name" : "Hungaroring",
+    "location" : "Budapest",
+    "races" : 32,
+    "wins" : 5,
+    "country" : "Hungary"
+  }
 ]

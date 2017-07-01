@@ -1,17 +1,17 @@
 [
-    {
-        "constructor": "AFM 🇩🇪",
-        "date": "1952-08-03",
-        "final_position": "9",
-        "grid": 22,
-        "laps_completed": 15,
-        "name": "1952 German Grand Prix 🇩🇪",
-        "points": 0.0,
-        "round": 6,
-        "season": 1952,
-        "teammate": "Willi Heeks 🇩🇪",
-        "teammate_final_position": "R",
-        "teammate_grid": 9,
-        "time": null
-    }
+  {
+    "name" : "1952 German Grand Prix 🇩🇪",
+    "teammate_final_position" : "R",
+    "grid" : 22,
+    "date" : "1952-08-03T00:00:00.000Z",
+    "final_position" : "9",
+    "season" : 1952,
+    "teammate" : "Willi Heeks 🇩🇪",
+    "constructor" : "AFM 🇩🇪",
+    "round" : 6,
+    "teammate_grid" : 9,
+    "laps_completed" : 15,
+    "time" : null,
+    "points" : 0
+  }
 ]

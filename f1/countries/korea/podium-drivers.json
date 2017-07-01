@@ -1,30 +1,30 @@
 [
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "times": 3
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "times": 2
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "times": 2
-    },
-    {
-        "driver": "Mark Webber 🇦🇺",
-        "times": 2
-    },
-    {
-        "driver": "Felipe Massa 🇧🇷",
-        "times": 1
-    },
-    {
-        "driver": "Kimi Räikkönen 🇫🇮",
-        "times": 1
-    },
-    {
-        "driver": "Romain Grosjean 🇫🇷",
-        "times": 1
-    }
+  {
+    "times" : 3,
+    "driver" : "Sebastian Vettel 🇩🇪"
+  },
+  {
+    "times" : 2,
+    "driver" : "Fernando Alonso 🇪🇸"
+  },
+  {
+    "times" : 2,
+    "driver" : "Lewis Hamilton 🇬🇧"
+  },
+  {
+    "times" : 2,
+    "driver" : "Mark Webber 🇦🇺"
+  },
+  {
+    "times" : 1,
+    "driver" : "Felipe Massa 🇧🇷"
+  },
+  {
+    "times" : 1,
+    "driver" : "Kimi Räikkönen 🇫🇮"
+  },
+  {
+    "times" : 1,
+    "driver" : "Romain Grosjean 🇫🇷"
+  }
 ]

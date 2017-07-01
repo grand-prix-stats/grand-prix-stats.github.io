@@ -1,26 +1,26 @@
 [
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Fernando Alonso 🇪🇸",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Jenson Button 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Mark Webber 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Romain Grosjean 🇫🇷",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Sebastian Vettel 🇩🇪",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Fernando Alonso 🇪🇸",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Jenson Button 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Mark Webber 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Nico Rosberg 🇩🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Romain Grosjean 🇫🇷",
+    "number_of_podiums" : 1
+  }
 ]

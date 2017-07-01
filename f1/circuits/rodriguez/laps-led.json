@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Nico Rosberg 🇩🇪",
-        "number_of_laps_led": "68"
-    },
-    {
-        "driver": "Lewis Hamilton 🇬🇧",
-        "number_of_laps_led": "62"
-    },
-    {
-        "driver": "Sebastian Vettel 🇩🇪",
-        "number_of_laps_led": "12"
-    }
+  {
+    "driver" : "Nico Rosberg 🇩🇪",
+    "number_of_laps_led" : "68"
+  },
+  {
+    "driver" : "Lewis Hamilton 🇬🇧",
+    "number_of_laps_led" : "62"
+  },
+  {
+    "driver" : "Sebastian Vettel 🇩🇪",
+    "number_of_laps_led" : "12"
+  }
 ]

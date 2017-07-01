@@ -1,26 +1,26 @@
 [
-    {
-        "country": "Uruguay",
-        "flag": "🇺🇾",
-        "forename": "Eitel",
-        "surname": "Cantoni"
-    },
-    {
-        "country": "Uruguay",
-        "flag": "🇺🇾",
-        "forename": "Azdrubal",
-        "surname": "Fontes"
-    },
-    {
-        "country": "Uruguay",
-        "flag": "🇺🇾",
-        "forename": "Óscar",
-        "surname": "González"
-    },
-    {
-        "country": "Uruguay",
-        "flag": "🇺🇾",
-        "forename": "Alberto",
-        "surname": "Uria"
-    }
+  {
+    "surname" : "Cantoni",
+    "flag" : "🇺🇾",
+    "forename" : "Eitel",
+    "country" : "Uruguay"
+  },
+  {
+    "surname" : "Fontes",
+    "flag" : "🇺🇾",
+    "forename" : "Azdrubal",
+    "country" : "Uruguay"
+  },
+  {
+    "surname" : "González",
+    "flag" : "🇺🇾",
+    "forename" : "Óscar",
+    "country" : "Uruguay"
+  },
+  {
+    "surname" : "Uria",
+    "flag" : "🇺🇾",
+    "forename" : "Alberto",
+    "country" : "Uruguay"
+  }
 ]

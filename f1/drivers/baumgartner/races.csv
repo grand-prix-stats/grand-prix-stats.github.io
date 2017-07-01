@@ -1,21 +1,21 @@
 name,teammate_final_position,grid,date,final_position,season,teammate,constructor,round,teammate_grid,laps_completed,time,points
-2003 Hungarian Grand Prix 🇭🇺,R,19,2003-08-24,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,13,13,34,,0.0
-2003 Italian Grand Prix 🇮🇹,10,18,2003-09-14,11,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,14,13,51,,0.0
-2004 Australian Grand Prix 🇦🇺,N,17,2004-03-07,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,1,20,13,,0.0
-2004 Bahrain Grand Prix 🇧🇭,17,20,2004-04-04,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,3,17,44,,0.0
-2004 Belgian Grand Prix 🇧🇪,R,18,2004-08-29,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,14,17,28,,0.0
-2004 Brazilian Grand Prix 🇧🇷,17,19,2004-10-24,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,18,20,67,,0.0
-2004 British Grand Prix 🇬🇧,16,19,2004-07-11,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,11,18,29,,0.0
-2004 Canadian Grand Prix 🇨🇦,R,18,2004-06-13,10,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,8,19,66,,0.0
-2004 Chinese Grand Prix 🇨🇳,R,19,2004-09-26,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,16,17,53,,0.0
-2004 European Grand Prix 🇩🇪,14,17,2004-05-30,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,7,20,57,,0.0
-2004 French Grand Prix 🇫🇷,18,20,2004-07-04,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,10,19,31,,0.0
-2004 German Grand Prix 🇩🇪,17,20,2004-07-25,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,12,19,62,,0.0
-2004 Hungarian Grand Prix 🇭🇺,14,18,2004-08-15,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,13,19,65,,0.0
-2004 Italian Grand Prix 🇮🇹,R,19,2004-09-12,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,15,18,50,,0.0
-2004 Japanese Grand Prix 🇯🇵,16,20,2004-10-10,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,17,18,41,,0.0
-2004 Malaysian Grand Prix 🇲🇾,14,17,2004-03-21,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,2,16,52,,0.0
-2004 Monaco Grand Prix 🇲🇨,R,19,2004-05-23,9,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,6,20,71,,0.0
-2004 San Marino Grand Prix 🇮🇹,R,19,2004-04-25,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,4,17,58,,0.0
-2004 Spanish Grand Prix 🇪🇸,R,20,2004-05-09,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,5,18,17,,0.0
-2004 United States Grand Prix 🇺🇸,R,19,2004-06-20,8,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,9,18,70,,1.0
+2003 Hungarian Grand Prix 🇭🇺,R,19,2003-08-24T00:00:00.000Z,R,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,13,13,34,,0.0
+2003 Italian Grand Prix 🇮🇹,10,18,2003-09-14T00:00:00.000Z,11,2003,Giancarlo Fisichella 🇮🇹,Jordan 🇮🇪,14,13,51,,0.0
+2004 Australian Grand Prix 🇦🇺,N,17,2004-03-07T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,1,20,13,,0.0
+2004 Bahrain Grand Prix 🇧🇭,17,20,2004-04-04T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,3,17,44,,0.0
+2004 Belgian Grand Prix 🇧🇪,R,18,2004-08-29T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,14,17,28,,0.0
+2004 Brazilian Grand Prix 🇧🇷,17,19,2004-10-24T00:00:00.000Z,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,18,20,67,,0.0
+2004 British Grand Prix 🇬🇧,16,19,2004-07-11T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,11,18,29,,0.0
+2004 Canadian Grand Prix 🇨🇦,R,18,2004-06-13T00:00:00.000Z,10,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,8,19,66,,0.0
+2004 Chinese Grand Prix 🇨🇳,R,19,2004-09-26T00:00:00.000Z,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,16,17,53,,0.0
+2004 European Grand Prix 🇩🇪,14,17,2004-05-30T00:00:00.000Z,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,7,20,57,,0.0
+2004 French Grand Prix 🇫🇷,18,20,2004-07-04T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,10,19,31,,0.0
+2004 German Grand Prix 🇩🇪,17,20,2004-07-25T00:00:00.000Z,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,12,19,62,,0.0
+2004 Hungarian Grand Prix 🇭🇺,14,18,2004-08-15T00:00:00.000Z,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,13,19,65,,0.0
+2004 Italian Grand Prix 🇮🇹,R,19,2004-09-12T00:00:00.000Z,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,15,18,50,,0.0
+2004 Japanese Grand Prix 🇯🇵,16,20,2004-10-10T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,17,18,41,,0.0
+2004 Malaysian Grand Prix 🇲🇾,14,17,2004-03-21T00:00:00.000Z,16,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,2,16,52,,0.0
+2004 Monaco Grand Prix 🇲🇨,R,19,2004-05-23T00:00:00.000Z,9,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,6,20,71,,0.0
+2004 San Marino Grand Prix 🇮🇹,R,19,2004-04-25T00:00:00.000Z,15,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,4,17,58,,0.0
+2004 Spanish Grand Prix 🇪🇸,R,20,2004-05-09T00:00:00.000Z,R,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,5,18,17,,0.0
+2004 United States Grand Prix 🇺🇸,R,19,2004-06-20T00:00:00.000Z,8,2004,Gianmaria Bruni 🇮🇹,Minardi 🇮🇹,9,18,70,,1.0

@@ -1,38 +1,38 @@
 [
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Chris Amon 🇳🇿",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Emerson Fittipaldi 🇧🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jacky Ickx 🇧🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jean-Pierre Beltoise 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jochen Rindt 🇦🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "John Surtees 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Jackie Stewart 🇬🇧",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Chris Amon 🇳🇿",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Emerson Fittipaldi 🇧🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jacky Ickx 🇧🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jean-Pierre Beltoise 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jim Clark 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jochen Rindt 🇦🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "John Surtees 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

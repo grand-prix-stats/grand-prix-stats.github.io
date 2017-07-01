@@ -1,182 +1,182 @@
 [
-    {
-        "date": "2017-10-29",
-        "laps_completed": null,
-        "name": "2017 Mexican Grand Prix 🇲🇽",
-        "race_duration": null,
-        "round": 18,
-        "season": 2017,
-        "winning_constructor": null,
-        "winning_driver": null
-    },
-    {
-        "date": "2016-10-30",
-        "laps_completed": 71,
-        "name": "2016 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:40:31.402",
-        "round": 19,
-        "season": 2016,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Lewis Hamilton 🇬🇧"
-    },
-    {
-        "date": "2015-11-01",
-        "laps_completed": 71,
-        "name": "2015 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:42:35.038",
-        "round": 17,
-        "season": 2015,
-        "winning_constructor": "Mercedes 🇩🇪",
-        "winning_driver": "Nico Rosberg 🇩🇪"
-    },
-    {
-        "date": "1992-03-22",
-        "laps_completed": 69,
-        "name": "1992 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:31:53.587",
-        "round": 2,
-        "season": 1992,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Nigel Mansell 🇬🇧"
-    },
-    {
-        "date": "1991-06-16",
-        "laps_completed": 67,
-        "name": "1991 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:29:52.205",
-        "round": 6,
-        "season": 1991,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Riccardo Patrese 🇮🇹"
-    },
-    {
-        "date": "1990-06-24",
-        "laps_completed": 69,
-        "name": "1990 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:32:35.783",
-        "round": 6,
-        "season": 1990,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Alain Prost 🇫🇷"
-    },
-    {
-        "date": "1989-05-28",
-        "laps_completed": 69,
-        "name": "1989 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:35:21.431",
-        "round": 4,
-        "season": 1989,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Ayrton Senna 🇧🇷"
-    },
-    {
-        "date": "1988-05-29",
-        "laps_completed": 67,
-        "name": "1988 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:30:15.737",
-        "round": 4,
-        "season": 1988,
-        "winning_constructor": "McLaren 🇬🇧",
-        "winning_driver": "Alain Prost 🇫🇷"
-    },
-    {
-        "date": "1987-10-18",
-        "laps_completed": 63,
-        "name": "1987 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:26:24.207",
-        "round": 14,
-        "season": 1987,
-        "winning_constructor": "Williams 🇬🇧",
-        "winning_driver": "Nigel Mansell 🇬🇧"
-    },
-    {
-        "date": "1986-10-12",
-        "laps_completed": 68,
-        "name": "1986 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:33:18.700",
-        "round": 15,
-        "season": 1986,
-        "winning_constructor": "Benetton 🇮🇹",
-        "winning_driver": "Gerhard Berger 🇦🇹"
-    },
-    {
-        "date": "1970-10-25",
-        "laps_completed": 65,
-        "name": "1970 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:53:28.3",
-        "round": 13,
-        "season": 1970,
-        "winning_constructor": "Ferrari 🇮🇹",
-        "winning_driver": "Jacky Ickx 🇧🇪"
-    },
-    {
-        "date": "1969-10-19",
-        "laps_completed": 65,
-        "name": "1969 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:54:08.80",
-        "round": 11,
-        "season": 1969,
-        "winning_constructor": "McLaren-Ford 🇬🇧",
-        "winning_driver": "Denny Hulme 🇳🇿"
-    },
-    {
-        "date": "1968-11-03",
-        "laps_completed": 65,
-        "name": "1968 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:56:43.95",
-        "round": 12,
-        "season": 1968,
-        "winning_constructor": "Lotus-Ford 🇬🇧",
-        "winning_driver": "Graham Hill 🇬🇧"
-    },
-    {
-        "date": "1967-10-22",
-        "laps_completed": 65,
-        "name": "1967 Mexican Grand Prix 🇲🇽",
-        "race_duration": "1:59:28.70",
-        "round": 11,
-        "season": 1967,
-        "winning_constructor": "Lotus-Ford 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
-    },
-    {
-        "date": "1966-10-23",
-        "laps_completed": 65,
-        "name": "1966 Mexican Grand Prix 🇲🇽",
-        "race_duration": "2:06:35.34",
-        "round": 9,
-        "season": 1966,
-        "winning_constructor": "Cooper-Maserati 🇬🇧",
-        "winning_driver": "John Surtees 🇬🇧"
-    },
-    {
-        "date": "1965-10-24",
-        "laps_completed": 65,
-        "name": "1965 Mexican Grand Prix 🇲🇽",
-        "race_duration": "2:08:32.10",
-        "round": 10,
-        "season": 1965,
-        "winning_constructor": "Honda 🇯🇵",
-        "winning_driver": "Richie Ginther 🇺🇸"
-    },
-    {
-        "date": "1964-10-25",
-        "laps_completed": 65,
-        "name": "1964 Mexican Grand Prix 🇲🇽",
-        "race_duration": "2:09:50.32",
-        "round": 10,
-        "season": 1964,
-        "winning_constructor": "Brabham-Climax 🇬🇧",
-        "winning_driver": "Dan Gurney 🇺🇸"
-    },
-    {
-        "date": "1963-10-27",
-        "laps_completed": 65,
-        "name": "1963 Mexican Grand Prix 🇲🇽",
-        "race_duration": "2:09:52.1",
-        "round": 9,
-        "season": 1963,
-        "winning_constructor": "Lotus-Climax 🇬🇧",
-        "winning_driver": "Jim Clark 🇬🇧"
-    }
+  {
+    "name" : "2017 Mexican Grand Prix 🇲🇽",
+    "race_duration" : null,
+    "round" : 18,
+    "laps_completed" : null,
+    "winning_constructor" : null,
+    "date" : "2017-10-29T00:00:00.000Z",
+    "winning_driver" : null,
+    "season" : 2017
+  },
+  {
+    "name" : "2016 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:40:31.402",
+    "round" : 19,
+    "laps_completed" : 71,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2016-10-30T00:00:00.000Z",
+    "winning_driver" : "Lewis Hamilton 🇬🇧",
+    "season" : 2016
+  },
+  {
+    "name" : "2015 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:42:35.038",
+    "round" : 17,
+    "laps_completed" : 71,
+    "winning_constructor" : "Mercedes 🇩🇪",
+    "date" : "2015-11-01T00:00:00.000Z",
+    "winning_driver" : "Nico Rosberg 🇩🇪",
+    "season" : 2015
+  },
+  {
+    "name" : "1992 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:31:53.587",
+    "round" : 2,
+    "laps_completed" : 69,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "1992-03-22T00:00:00.000Z",
+    "winning_driver" : "Nigel Mansell 🇬🇧",
+    "season" : 1992
+  },
+  {
+    "name" : "1991 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:29:52.205",
+    "round" : 6,
+    "laps_completed" : 67,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "1991-06-16T00:00:00.000Z",
+    "winning_driver" : "Riccardo Patrese 🇮🇹",
+    "season" : 1991
+  },
+  {
+    "name" : "1990 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:32:35.783",
+    "round" : 6,
+    "laps_completed" : 69,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1990-06-24T00:00:00.000Z",
+    "winning_driver" : "Alain Prost 🇫🇷",
+    "season" : 1990
+  },
+  {
+    "name" : "1989 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:35:21.431",
+    "round" : 4,
+    "laps_completed" : 69,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1989-05-28T00:00:00.000Z",
+    "winning_driver" : "Ayrton Senna 🇧🇷",
+    "season" : 1989
+  },
+  {
+    "name" : "1988 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:30:15.737",
+    "round" : 4,
+    "laps_completed" : 67,
+    "winning_constructor" : "McLaren 🇬🇧",
+    "date" : "1988-05-29T00:00:00.000Z",
+    "winning_driver" : "Alain Prost 🇫🇷",
+    "season" : 1988
+  },
+  {
+    "name" : "1987 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:26:24.207",
+    "round" : 14,
+    "laps_completed" : 63,
+    "winning_constructor" : "Williams 🇬🇧",
+    "date" : "1987-10-18T00:00:00.000Z",
+    "winning_driver" : "Nigel Mansell 🇬🇧",
+    "season" : 1987
+  },
+  {
+    "name" : "1986 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:33:18.700",
+    "round" : 15,
+    "laps_completed" : 68,
+    "winning_constructor" : "Benetton 🇮🇹",
+    "date" : "1986-10-12T00:00:00.000Z",
+    "winning_driver" : "Gerhard Berger 🇦🇹",
+    "season" : 1986
+  },
+  {
+    "name" : "1970 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:53:28.3",
+    "round" : 13,
+    "laps_completed" : 65,
+    "winning_constructor" : "Ferrari 🇮🇹",
+    "date" : "1970-10-25T00:00:00.000Z",
+    "winning_driver" : "Jacky Ickx 🇧🇪",
+    "season" : 1970
+  },
+  {
+    "name" : "1969 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:54:08.80",
+    "round" : 11,
+    "laps_completed" : 65,
+    "winning_constructor" : "McLaren-Ford 🇬🇧",
+    "date" : "1969-10-19T00:00:00.000Z",
+    "winning_driver" : "Denny Hulme 🇳🇿",
+    "season" : 1969
+  },
+  {
+    "name" : "1968 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:56:43.95",
+    "round" : 12,
+    "laps_completed" : 65,
+    "winning_constructor" : "Lotus-Ford 🇬🇧",
+    "date" : "1968-11-03T00:00:00.000Z",
+    "winning_driver" : "Graham Hill 🇬🇧",
+    "season" : 1968
+  },
+  {
+    "name" : "1967 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "1:59:28.70",
+    "round" : 11,
+    "laps_completed" : 65,
+    "winning_constructor" : "Lotus-Ford 🇬🇧",
+    "date" : "1967-10-22T00:00:00.000Z",
+    "winning_driver" : "Jim Clark 🇬🇧",
+    "season" : 1967
+  },
+  {
+    "name" : "1966 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "2:06:35.34",
+    "round" : 9,
+    "laps_completed" : 65,
+    "winning_constructor" : "Cooper-Maserati 🇬🇧",
+    "date" : "1966-10-23T00:00:00.000Z",
+    "winning_driver" : "John Surtees 🇬🇧",
+    "season" : 1966
+  },
+  {
+    "name" : "1965 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "2:08:32.10",
+    "round" : 10,
+    "laps_completed" : 65,
+    "winning_constructor" : "Honda 🇯🇵",
+    "date" : "1965-10-24T00:00:00.000Z",
+    "winning_driver" : "Richie Ginther 🇺🇸",
+    "season" : 1965
+  },
+  {
+    "name" : "1964 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "2:09:50.32",
+    "round" : 10,
+    "laps_completed" : 65,
+    "winning_constructor" : "Brabham-Climax 🇬🇧",
+    "date" : "1964-10-25T00:00:00.000Z",
+    "winning_driver" : "Dan Gurney 🇺🇸",
+    "season" : 1964
+  },
+  {
+    "name" : "1963 Mexican Grand Prix 🇲🇽",
+    "race_duration" : "2:09:52.1",
+    "round" : 9,
+    "laps_completed" : 65,
+    "winning_constructor" : "Lotus-Climax 🇬🇧",
+    "date" : "1963-10-27T00:00:00.000Z",
+    "winning_driver" : "Jim Clark 🇬🇧",
+    "season" : 1963
+  }
 ]

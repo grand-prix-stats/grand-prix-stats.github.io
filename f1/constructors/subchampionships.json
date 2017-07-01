@@ -1,92 +1,92 @@
 [
-    {
-        "% of total seasons": "23.53%",
-        "constructor": "Ferrari 🇮🇹",
-        "subchampionships": 16
-    },
-    {
-        "% of total seasons": "27.08%",
-        "constructor": "McLaren 🇬🇧",
-        "subchampionships": 13
-    },
-    {
-        "% of total seasons": "14.29%",
-        "constructor": "Williams 🇬🇧",
-        "subchampionships": 6
-    },
-    {
-        "% of total seasons": "17.39%",
-        "constructor": "BRM 🇬🇧",
-        "subchampionships": 4
-    },
-    {
-        "% of total seasons": "23.08%",
-        "constructor": "Red Bull 🇦🇹",
-        "subchampionships": 3
-    },
-    {
-        "% of total seasons": "9.09%",
-        "constructor": "Brabham 🇬🇧",
-        "subchampionships": 2
-    },
-    {
-        "% of total seasons": "28.57%",
-        "constructor": "Lotus-Climax 🇬🇧",
-        "subchampionships": 2
-    },
-    {
-        "% of total seasons": "6.90%",
-        "constructor": "Team Lotus 🇬🇧",
-        "subchampionships": 2
-    },
-    {
-        "% of total seasons": "6.90%",
-        "constructor": "Tyrrell 🇬🇧",
-        "subchampionships": 2
-    },
-    {
-        "% of total seasons": "14.29%",
-        "constructor": "BAR 🇬🇧",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "6.25%",
-        "constructor": "Benetton 🇮🇹",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "25.00%",
-        "constructor": "BMW Sauber 🇩🇪",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "16.67%",
-        "constructor": "Brabham-Ford 🇬🇧",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "4.76%",
-        "constructor": "Ligier 🇫🇷",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "16.67%",
-        "constructor": "Lotus-Ford 🇬🇧",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "20.00%",
-        "constructor": "McLaren-Ford 🇬🇧",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "10.00%",
-        "constructor": "Mercedes 🇩🇪",
-        "subchampionships": 1
-    },
-    {
-        "% of total seasons": "4.76%",
-        "constructor": "Renault 🇫🇷",
-        "subchampionships": 1
-    }
+  {
+    "subchampionships" : 16,
+    "% of total seasons" : "23.53%",
+    "constructor" : "Ferrari 🇮🇹"
+  },
+  {
+    "subchampionships" : 13,
+    "% of total seasons" : "27.08%",
+    "constructor" : "McLaren 🇬🇧"
+  },
+  {
+    "subchampionships" : 6,
+    "% of total seasons" : "14.29%",
+    "constructor" : "Williams 🇬🇧"
+  },
+  {
+    "subchampionships" : 4,
+    "% of total seasons" : "17.39%",
+    "constructor" : "BRM 🇬🇧"
+  },
+  {
+    "subchampionships" : 3,
+    "% of total seasons" : "23.08%",
+    "constructor" : "Red Bull 🇦🇹"
+  },
+  {
+    "subchampionships" : 2,
+    "% of total seasons" : "9.09%",
+    "constructor" : "Brabham 🇬🇧"
+  },
+  {
+    "subchampionships" : 2,
+    "% of total seasons" : "28.57%",
+    "constructor" : "Lotus-Climax 🇬🇧"
+  },
+  {
+    "subchampionships" : 2,
+    "% of total seasons" : "6.90%",
+    "constructor" : "Team Lotus 🇬🇧"
+  },
+  {
+    "subchampionships" : 2,
+    "% of total seasons" : "6.90%",
+    "constructor" : "Tyrrell 🇬🇧"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "14.29%",
+    "constructor" : "BAR 🇬🇧"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "6.25%",
+    "constructor" : "Benetton 🇮🇹"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "25.00%",
+    "constructor" : "BMW Sauber 🇩🇪"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "16.67%",
+    "constructor" : "Brabham-Ford 🇬🇧"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "4.76%",
+    "constructor" : "Ligier 🇫🇷"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "16.67%",
+    "constructor" : "Lotus-Ford 🇬🇧"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "20.00%",
+    "constructor" : "McLaren-Ford 🇬🇧"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "10.00%",
+    "constructor" : "Mercedes 🇩🇪"
+  },
+  {
+    "subchampionships" : 1,
+    "% of total seasons" : "4.76%",
+    "constructor" : "Renault 🇫🇷"
+  }
 ]

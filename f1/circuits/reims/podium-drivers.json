@@ -1,106 +1,106 @@
 [
-    {
-        "driver": "Juan Fangio 🇦🇷",
-        "number_of_podiums": 4
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 3
-    },
-    {
-        "driver": "Jim Clark 🇬🇧",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "José Froilán González 🇦🇷",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Luigi Fagioli 🇮🇹",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Mike Hawthorn 🇬🇧",
-        "number_of_podiums": 2
-    },
-    {
-        "driver": "Alberto Ascari 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Bruce McLaren 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Dan Gurney 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Eugenio Castellotti 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Giancarlo Baghetti 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Graham Hill 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jean Behra 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Karl Kling 🇩🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Luigi Villoresi 🇮🇹",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Mike Parkes 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Olivier Gendebien 🇧🇪",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Peter Collins 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Peter Whitehead 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Phil Hill 🇺🇸",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Robert Manzon 🇫🇷",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Stirling Moss 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Tony Brooks 🇬🇧",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Tony Maggs 🇿🇦",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Wolfgang von Trips 🇩🇪",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Juan Fangio 🇦🇷",
+    "number_of_podiums" : 4
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 3
+  },
+  {
+    "driver" : "Jim Clark 🇬🇧",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "José Froilán González 🇦🇷",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Luigi Fagioli 🇮🇹",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Mike Hawthorn 🇬🇧",
+    "number_of_podiums" : 2
+  },
+  {
+    "driver" : "Alberto Ascari 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Bruce McLaren 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Dan Gurney 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Denny Hulme 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Eugenio Castellotti 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Giancarlo Baghetti 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Graham Hill 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jean Behra 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Karl Kling 🇩🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Luigi Villoresi 🇮🇹",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Mike Parkes 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Olivier Gendebien 🇧🇪",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Peter Collins 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Peter Whitehead 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Phil Hill 🇺🇸",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Robert Manzon 🇫🇷",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Stirling Moss 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Tony Brooks 🇬🇧",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Tony Maggs 🇿🇦",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Wolfgang von Trips 🇩🇪",
+    "number_of_podiums" : 1
+  }
 ]

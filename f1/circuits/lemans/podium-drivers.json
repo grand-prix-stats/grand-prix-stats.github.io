@@ -1,14 +1,14 @@
 [
-    {
-        "driver": "Denny Hulme 🇳🇿",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jack Brabham 🇦🇺",
-        "number_of_podiums": 1
-    },
-    {
-        "driver": "Jackie Stewart 🇬🇧",
-        "number_of_podiums": 1
-    }
+  {
+    "driver" : "Denny Hulme 🇳🇿",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jack Brabham 🇦🇺",
+    "number_of_podiums" : 1
+  },
+  {
+    "driver" : "Jackie Stewart 🇬🇧",
+    "number_of_podiums" : 1
+  }
 ]

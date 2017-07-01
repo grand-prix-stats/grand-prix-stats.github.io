@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "RAM 🇬🇧",
-        "date": "1985-09-08",
-        "final_position": "R",
-        "grid": 24,
-        "laps_completed": 2,
-        "name": "1985 Italian Grand Prix 🇮🇹",
-        "points": 0.0,
-        "round": 12,
-        "season": 1985,
-        "teammate": "Philippe Alliot 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 26,
-        "time": null
-    },
-    {
-        "constructor": "RAM 🇬🇧",
-        "date": "1985-08-18",
-        "final_position": "R",
-        "grid": 23,
-        "laps_completed": 28,
-        "name": "1985 Austrian Grand Prix 🇦🇹",
-        "points": 0.0,
-        "round": 10,
-        "season": 1985,
-        "teammate": "Philippe Alliot 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 21,
-        "time": null
-    }
+  {
+    "name" : "1985 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "R",
+    "grid" : 24,
+    "date" : "1985-09-08T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1985,
+    "teammate" : "Philippe Alliot 🇫🇷",
+    "constructor" : "RAM 🇬🇧",
+    "round" : 12,
+    "teammate_grid" : 26,
+    "laps_completed" : 2,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1985 Austrian Grand Prix 🇦🇹",
+    "teammate_final_position" : "R",
+    "grid" : 23,
+    "date" : "1985-08-18T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1985,
+    "teammate" : "Philippe Alliot 🇫🇷",
+    "constructor" : "RAM 🇬🇧",
+    "round" : 10,
+    "teammate_grid" : 21,
+    "laps_completed" : 28,
+    "time" : null,
+    "points" : 0
+  }
 ]

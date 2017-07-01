@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Stevens 🇺🇸",
-        "date": "1952-05-30",
-        "final_position": "R",
-        "grid": 17,
-        "laps_completed": 34,
-        "name": "1952 Indianapolis 500 🇺🇸",
-        "points": 0.0,
-        "round": 2,
-        "season": 1952,
-        "teammate": "Bill Schindler 🇺🇸",
-        "teammate_final_position": "14",
-        "teammate_grid": 15,
-        "time": null
-    },
-    {
-        "constructor": "Schroeder 🇺🇸",
-        "date": "1951-05-30",
-        "final_position": "5",
-        "grid": 29,
-        "laps_completed": 200,
-        "name": "1951 Indianapolis 500 🇺🇸",
-        "points": 2.0,
-        "round": 2,
-        "season": 1951,
-        "teammate": "Duke Dinsmore 🇺🇸",
-        "teammate_final_position": "R",
-        "teammate_grid": 32,
-        "time": "+4:52.23"
-    }
+  {
+    "name" : "1952 Indianapolis 500 🇺🇸",
+    "teammate_final_position" : "14",
+    "grid" : 17,
+    "date" : "1952-05-30T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1952,
+    "teammate" : "Bill Schindler 🇺🇸",
+    "constructor" : "Stevens 🇺🇸",
+    "round" : 2,
+    "teammate_grid" : 15,
+    "laps_completed" : 34,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1951 Indianapolis 500 🇺🇸",
+    "teammate_final_position" : "R",
+    "grid" : 29,
+    "date" : "1951-05-30T00:00:00.000Z",
+    "final_position" : "5",
+    "season" : 1951,
+    "teammate" : "Duke Dinsmore 🇺🇸",
+    "constructor" : "Schroeder 🇺🇸",
+    "round" : 2,
+    "teammate_grid" : 32,
+    "laps_completed" : 200,
+    "time" : "+4:52.23",
+    "points" : 2
+  }
 ]

@@ -1,10 +1,10 @@
 [
-    {
-        "country": "India",
-        "location": "Uttar Pradesh",
-        "most_wins_driver": "Sebastian Vettel 🇩🇪",
-        "name": "Buddh International Circuit",
-        "races": 3,
-        "wins": 3
-    }
+  {
+    "most_wins_driver" : "Sebastian Vettel 🇩🇪",
+    "name" : "Buddh International Circuit",
+    "location" : "Uttar Pradesh",
+    "races" : 3,
+    "wins" : 3,
+    "country" : "India"
+  }
 ]

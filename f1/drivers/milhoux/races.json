@@ -1,32 +1,32 @@
 [
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1956-08-05",
-        "final_position": "R",
-        "grid": 21,
-        "laps_completed": 15,
-        "name": "1956 German Grand Prix 🇩🇪",
-        "points": 0.0,
-        "round": 7,
-        "season": 1956,
-        "teammate": "Robert Manzon 🇫🇷",
-        "teammate_final_position": "R",
-        "teammate_grid": 15,
-        "time": null
-    },
-    {
-        "constructor": "Gordini 🇫🇷",
-        "date": "1956-08-05",
-        "final_position": "R",
-        "grid": 21,
-        "laps_completed": 15,
-        "name": "1956 German Grand Prix 🇩🇪",
-        "points": 0.0,
-        "round": 7,
-        "season": 1956,
-        "teammate": "André Pilette 🇧🇪",
-        "teammate_final_position": "W",
-        "teammate_grid": 0,
-        "time": null
-    }
+  {
+    "name" : "1956 German Grand Prix 🇩🇪",
+    "teammate_final_position" : "R",
+    "grid" : 21,
+    "date" : "1956-08-05T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1956,
+    "teammate" : "Robert Manzon 🇫🇷",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 7,
+    "teammate_grid" : 15,
+    "laps_completed" : 15,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1956 German Grand Prix 🇩🇪",
+    "teammate_final_position" : "W",
+    "grid" : 21,
+    "date" : "1956-08-05T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1956,
+    "teammate" : "André Pilette 🇧🇪",
+    "constructor" : "Gordini 🇫🇷",
+    "round" : 7,
+    "teammate_grid" : 0,
+    "laps_completed" : 15,
+    "time" : null,
+    "points" : 0
+  }
 ]
