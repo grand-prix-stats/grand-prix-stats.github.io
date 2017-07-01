@@ -826,21 +826,6 @@
   },
   {
     "name" : "1957 Italian Grand Prix 🇮🇹",
-    "teammate_final_position" : "11",
-    "grid" : 6,
-    "date" : "1957-09-08T00:00:00.000Z",
-    "final_position" : "R",
-    "season" : 1957,
-    "teammate" : "André Simon 🇫🇷",
-    "constructor" : "Maserati 🇮🇹",
-    "round" : 8,
-    "teammate_grid" : 16,
-    "laps_completed" : 34,
-    "time" : null,
-    "points" : 0
-  },
-  {
-    "name" : "1957 Italian Grand Prix 🇮🇹",
     "teammate_final_position" : "R",
     "grid" : 6,
     "date" : "1957-09-08T00:00:00.000Z",
@@ -850,6 +835,21 @@
     "constructor" : "Maserati 🇮🇹",
     "round" : 8,
     "teammate_grid" : 13,
+    "laps_completed" : 34,
+    "time" : null,
+    "points" : 0
+  },
+  {
+    "name" : "1957 Italian Grand Prix 🇮🇹",
+    "teammate_final_position" : "11",
+    "grid" : 6,
+    "date" : "1957-09-08T00:00:00.000Z",
+    "final_position" : "R",
+    "season" : 1957,
+    "teammate" : "André Simon 🇫🇷",
+    "constructor" : "Maserati 🇮🇹",
+    "round" : 8,
+    "teammate_grid" : 16,
     "laps_completed" : 34,
     "time" : null,
     "points" : 0

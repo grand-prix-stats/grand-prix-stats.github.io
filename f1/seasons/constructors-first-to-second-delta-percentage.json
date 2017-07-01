@@ -12,16 +12,16 @@
     "champion" : "Ferrari 🇮🇹"
   },
   {
-    "year" : 2000,
-    "constructors_first_to_second_delta_percentage" : "95.29%",
-    "second" : "McLaren 🇬🇧",
-    "champion" : "Ferrari 🇮🇹"
-  },
-  {
     "year" : 2005,
     "constructors_first_to_second_delta_percentage" : "95.29%",
     "second" : "McLaren 🇬🇧",
     "champion" : "Renault 🇫🇷"
+  },
+  {
+    "year" : 2000,
+    "constructors_first_to_second_delta_percentage" : "95.29%",
+    "second" : "McLaren 🇬🇧",
+    "champion" : "Ferrari 🇮🇹"
   },
   {
     "year" : 1964,
