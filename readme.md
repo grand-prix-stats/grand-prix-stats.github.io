@@ -1,10 +1,6 @@
 # Grand Prix Stats Generated Statistics
 Generated statistic data from Formula One® racing series.
 
-## Statistics
-- [Drivers](/f1/drivers)
-- [Seasons](/f1/seasons)
-
 ## LICENSE
 All data contained in this repository has been programmatically generated from
 the MySQL database provided by Ergast Developer API and as such, it is tied to
