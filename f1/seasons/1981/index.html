@@ -19,18 +19,18 @@
     <meta name="twitter:site" content="@grandprixstats">
 <meta name="twitter:creator" content="@grandprixstats">
 <meta name="twitter:title" content="Formula 1® Season 1981">
-<meta name="twitter:url" content="http://www.grandprixstats.org/f1/seasons/1981/">
+<meta name="twitter:url" content="http://localhost:4000/f1/seasons/1981/">
 
 <meta name="twitter:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta name="twitter:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
     <meta property="og:title" content="Formula 1® Season 1981">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.grandprixstats.org/f1/seasons/1981/">
-<meta property="og:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta property="og:url" content="http://localhost:4000/f1/seasons/1981/">
+<meta property="og:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
 <meta property="og:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
@@ -48,8 +48,8 @@
     <link href="/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
     <link href="/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/custom.css">
-    <link rel="canonical" href="http://www.grandprixstats.org/f1/seasons/1981/">
-    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://www.grandprixstats.org/feed.xml">
+    <link rel="canonical" href="http://localhost:4000/f1/seasons/1981/">
+    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://localhost:4000/feed.xml">
     <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.js"></script> -->
     <script src="/vendors/jquery/dist/jquery.min.js"></script>
@@ -202,7 +202,7 @@
 </div><div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count" >
     <span class="count_top"><i class="fa fa-flag-checkered"></i> Races Completed</span>
     <div class="count">15 of 15</div>
-    <span class="count_bottom"><i class="green"> 100</i> Complete</span>
+    <span class="count_bottom"><i class="green"> 100%</i> Complete</span>
 </div>
 </div><div class="row ">
 <div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -213,20 +213,22 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="241A5AAC-6F43-41A7-A0D4-15E40191D666"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [3,3,2,2,2,2,1],
-                    backgroundColor: ["#243F73","#FDE139","#EAE4ED","#0F5DBB","#EAE4ED","#EB212E","#FCA13B"]
-                }],
-                labels: ["Piquet","Prost","Jones","Laffite","Reutemann","Villeneuve","Watson"]
-            };
-            var ctx = document.getElementById("241A5AAC-6F43-41A7-A0D4-15E40191D666").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-driver-wins"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [3,3,2,2,2,2,1],
+                backgroundColor: ["#243F73","#FDE139","#EAE4ED","#0F5DBB","#EAE4ED","#EB212E","#FCA13B"]
+            }],
+            labels: ["Piquet","Prost","Jones","Laffite","Reutemann","Villeneuve","Watson"]
+        };
+        var ctx = document.getElementById("donut-chart-driver-wins").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div><div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -237,20 +239,22 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="1A4B2C81-92EF-4A0E-805C-A37D664D734D"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [4,3,3,2,2,1],
-                    backgroundColor: ["#EAE4ED","#243F73","#FDE139","#EB212E","#0F5DBB","#FCA13B"]
-                }],
-                labels: ["Williams","Brabham","Renault","Ferrari","Ligier","McLaren"]
-            };
-            var ctx = document.getElementById("1A4B2C81-92EF-4A0E-805C-A37D664D734D").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-team-wins"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [4,3,3,2,2,1],
+                backgroundColor: ["#EAE4ED","#243F73","#FDE139","#EB212E","#0F5DBB","#FCA13B"]
+            }],
+            labels: ["Williams","Brabham","Renault","Ferrari","Ligier","McLaren"]
+        };
+        var ctx = document.getElementById("donut-chart-team-wins").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div><div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -261,20 +265,22 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="B7D2BEBF-AC1D-47EE-8341-B942762B277A"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [7,6,6,7,7,3,4,1,1,1,2],
-                    backgroundColor: ["#243F73","#FDE139","#EAE4ED","#0F5DBB","#EAE4ED","#EB212E","#FCA13B","#FDE139","#B21827","#09630C","#FFA500"]
-                }],
-                labels: ["Piquet","Prost","Jones","Laffite","Reutemann","Villeneuve","Watson","Arnoux","Giacomelli","Mansell","Patrese"]
-            };
-            var ctx = document.getElementById("B7D2BEBF-AC1D-47EE-8341-B942762B277A").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-driver-podiums"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [7,6,6,7,7,3,4,1,1,1,2],
+                backgroundColor: ["#243F73","#FDE139","#EAE4ED","#0F5DBB","#EAE4ED","#EB212E","#FCA13B","#FDE139","#B21827","#09630C","#FFA500"]
+            }],
+            labels: ["Piquet","Prost","Jones","Laffite","Reutemann","Villeneuve","Watson","Arnoux","Giacomelli","Mansell","Patrese"]
+        };
+        var ctx = document.getElementById("donut-chart-driver-podiums").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div><div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -285,20 +291,92 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="9F1B8D33-3B7E-4AD9-BC8A-36079A4E2AAA"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [13,7,7,3,7,4,1,2,1],
-                    backgroundColor: ["#EAE4ED","#243F73","#FDE139","#EB212E","#0F5DBB","#FCA13B","#B21827","#FFA500","#09630C"]
-                }],
-                labels: ["Williams","Brabham","Renault","Ferrari","Ligier","McLaren","Alfa Romeo","Arrows","Team Lotus"]
-            };
-            var ctx = document.getElementById("9F1B8D33-3B7E-4AD9-BC8A-36079A4E2AAA").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-team-podiums"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [13,7,7,3,7,4,1,2,1],
+                backgroundColor: ["#EAE4ED","#243F73","#FDE139","#EB212E","#0F5DBB","#FCA13B","#B21827","#FFA500","#09630C"]
+            }],
+            labels: ["Williams","Brabham","Renault","Ferrari","Ligier","McLaren","Alfa Romeo","Arrows","Team Lotus"]
+        };
+        var ctx = document.getElementById("donut-chart-team-podiums").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>1981 Season Driver Point Evolution (Top 5)</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+            <div class="chart-container">
+    <canvas id="donut-chart-top5-driver-points"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Piquet",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: [4,4,13,22,22,22,22,26,26,35,39,45,46,48,50]
+},{
+    fill: false,
+    label: "Reutemann",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EAE4ED",
+    backgroundColor: "#EAE4ED",
+    data: [6,15,21,25,34,34,37,37,43,43,45,45,49,49,49]
+},{
+    fill: false,
+    label: "Jones",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EAE4ED",
+    backgroundColor: "#EAE4ED",
+    data: [9,15,18,18,18,24,24,24,24,24,27,31,37,37,46]
+},{
+    fill: false,
+    label: "Laffite",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#0F5DBB",
+    backgroundColor: "#0F5DBB",
+    data: [0,1,1,1,7,11,17,17,21,25,34,34,34,43,44]
+},{
+    fill: false,
+    label: "Prost",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FDE139",
+    backgroundColor: "#FDE139",
+    data: [0,0,4,4,4,4,4,13,13,19,19,28,37,37,43]
+}],
+            labels: ["USA 🇺🇸","BRA 🇧🇷","ARG 🇦🇷","ITA 🇮🇹","BEL 🇧🇪","MON 🇲🇨","SPA 🇪🇸","FRA 🇫🇷","UK 🇬🇧","GER 🇩🇪","AUS 🇦🇹","NET 🇳🇱","ITA 🇮🇹","CAN 🇨🇦","USA 🇺🇸"]
+        };
+        var ctx = document.getElementById("donut-chart-top5-driver-points").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div>

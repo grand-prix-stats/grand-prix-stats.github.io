@@ -19,18 +19,18 @@
     <meta name="twitter:site" content="@grandprixstats">
 <meta name="twitter:creator" content="@grandprixstats">
 <meta name="twitter:title" content="Formula 1® Season 2000">
-<meta name="twitter:url" content="http://www.grandprixstats.org/f1/seasons/2000/">
+<meta name="twitter:url" content="http://localhost:4000/f1/seasons/2000/">
 
 <meta name="twitter:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta name="twitter:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
     <meta property="og:title" content="Formula 1® Season 2000">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.grandprixstats.org/f1/seasons/2000/">
-<meta property="og:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta property="og:url" content="http://localhost:4000/f1/seasons/2000/">
+<meta property="og:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
 <meta property="og:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
@@ -48,8 +48,8 @@
     <link href="/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
     <link href="/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/custom.css">
-    <link rel="canonical" href="http://www.grandprixstats.org/f1/seasons/2000/">
-    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://www.grandprixstats.org/feed.xml">
+    <link rel="canonical" href="http://localhost:4000/f1/seasons/2000/">
+    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://localhost:4000/feed.xml">
     <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.js"></script> -->
     <script src="/vendors/jquery/dist/jquery.min.js"></script>
@@ -202,7 +202,7 @@
 </div><div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count" >
     <span class="count_top"><i class="fa fa-flag-checkered"></i> Races Completed</span>
     <div class="count">17 of 17</div>
-    <span class="count_bottom"><i class="green"> 100</i> Complete</span>
+    <span class="count_bottom"><i class="green"> 100%</i> Complete</span>
 </div>
 </div><div class="row ">
 <div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -213,20 +213,22 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="51380AC6-2FB3-41E8-BE96-3C7CAC71272B"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [9,4,3,1],
-                    backgroundColor: ["#EB212E","#FCA13B","#FCA13B","#EB212E"]
-                }],
-                labels: ["Schumacher","Häkkinen","Coulthard","Barrichello"]
-            };
-            var ctx = document.getElementById("51380AC6-2FB3-41E8-BE96-3C7CAC71272B").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-driver-wins"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [9,4,3,1],
+                backgroundColor: ["#EB212E","#FCA13B","#FCA13B","#EB212E"]
+            }],
+            labels: ["Schumacher","Häkkinen","Coulthard","Barrichello"]
+        };
+        var ctx = document.getElementById("donut-chart-driver-wins").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div><div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -237,20 +239,22 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="85753BF0-01A8-4CD4-B338-A26F47EB7531"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [10,7],
-                    backgroundColor: ["#EB212E","#FCA13B"]
-                }],
-                labels: ["Ferrari","McLaren"]
-            };
-            var ctx = document.getElementById("85753BF0-01A8-4CD4-B338-A26F47EB7531").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-team-wins"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [10,7],
+                backgroundColor: ["#EB212E","#FCA13B"]
+            }],
+            labels: ["Ferrari","McLaren"]
+        };
+        var ctx = document.getElementById("donut-chart-team-wins").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div><div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -261,20 +265,22 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="314A0748-4608-4A42-B7B5-218253DE5189"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [12,11,11,9,3,2,3],
-                    backgroundColor: ["#EB212E","#FCA13B","#FCA13B","#EB212E","#73C2FB","#FFFF01","#EAE4ED"]
-                }],
-                labels: ["Schumacher","Häkkinen","Coulthard","Barrichello","Fisichella","Frentzen","Schumacher"]
-            };
-            var ctx = document.getElementById("314A0748-4608-4A42-B7B5-218253DE5189").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-driver-podiums"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [12,11,11,9,3,2,3],
+                backgroundColor: ["#EB212E","#FCA13B","#FCA13B","#EB212E","#73C2FB","#FFFF01","#EAE4ED"]
+            }],
+            labels: ["Schumacher","Häkkinen","Coulthard","Barrichello","Fisichella","Frentzen","Schumacher"]
+        };
+        var ctx = document.getElementById("donut-chart-driver-podiums").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div><div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -285,20 +291,92 @@
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="61C30992-EAF5-4E54-A1D3-33A012820F73"></canvas>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-                    data: [21,22,3,2,3],
-                    backgroundColor: ["#EB212E","#FCA13B","#73C2FB","#FFFF01","#EAE4ED"]
-                }],
-                labels: ["Ferrari","McLaren","Benetton","Jordan","Williams"]
-            };
-            var ctx = document.getElementById("61C30992-EAF5-4E54-A1D3-33A012820F73").getContext('2d');
-            new Chart(ctx, { type: 'doughnut', data: data, options: {} });
-        });
-    </script>
+            <div class="chart-container">
+    <canvas id="donut-chart-team-podiums"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+                data: [21,22,3,2,3],
+                backgroundColor: ["#EB212E","#FCA13B","#73C2FB","#FFFF01","#EAE4ED"]
+            }],
+            labels: ["Ferrari","McLaren","Benetton","Jordan","Williams"]
+        };
+        var ctx = document.getElementById("donut-chart-team-podiums").getContext('2d');
+        new Chart(ctx, { type: 'doughnut', data: data, options: {} });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>2000 Season Driver Point Evolution (Top 5)</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+            <div class="chart-container">
+    <canvas id="donut-chart-top5-driver-points"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Schumacher",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EB212E",
+    backgroundColor: "#EB212E",
+    data: [10,20,30,34,36,46,46,56,56,56,56,62,68,78,88,98,108]
+},{
+    fill: false,
+    label: "Häkkinen",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: [0,0,6,12,22,28,29,32,38,48,54,64,74,80,80,86,89]
+},{
+    fill: false,
+    label: "Coulthard",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: [0,0,4,14,20,24,34,34,44,50,54,58,61,61,63,67,73]
+},{
+    fill: false,
+    label: "Barrichello",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EB212E",
+    backgroundColor: "#EB212E",
+    data: [6,6,9,9,13,16,22,28,32,36,46,49,49,49,55,58,62]
+},{
+    fill: false,
+    label: "Schumacher",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EAE4ED",
+    backgroundColor: "#EAE4ED",
+    data: [4,6,6,9,12,12,12,12,14,14,14,16,20,24,24,24,24]
+}],
+            labels: ["AUS 🇦🇺","BRA 🇧🇷","ITA 🇮🇹","UK 🇬🇧","SPA 🇪🇸","GER 🇩🇪","MON 🇲🇨","CAN 🇨🇦","FRA 🇫🇷","AUS 🇦🇹","GER 🇩🇪","HUN 🇭🇺","BEL 🇧🇪","ITA 🇮🇹","USA 🇺🇸","JAP 🇯🇵","MAL 🇲🇾"]
+        };
+        var ctx = document.getElementById("donut-chart-top5-driver-points").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: {} });
+    });
+</script>
         </div>
     </div>
 </div>
