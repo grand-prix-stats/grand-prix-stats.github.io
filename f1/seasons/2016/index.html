@@ -319,8 +319,8 @@
         </div>
         <div class="x_content">
             <h4></h4>
-            <div class="chart-container">
-    <canvas id="donut-chart-top5-driver-points"></canvas>
+            <div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-top5-driver-points"></canvas>
 </div>
 <script>
     $(function() {
@@ -373,8 +373,8 @@
 }],
             labels: ["AUS 🇦🇺","BAH 🇧🇭","CHI 🇨🇳","RUS 🇷🇺","SPA 🇪🇸","MON 🇲🇨","CAN 🇨🇦","AZE 🇦🇿","AUS 🇦🇹","UK 🇬🇧","HUN 🇭🇺","GER 🇩🇪","BEL 🇧🇪","ITA 🇮🇹","SIN 🇸🇬","MAL 🇲🇾","JAP 🇯🇵","USA 🇺🇸","MEX 🇲🇽","BRA 🇧🇷","UAE 🇦🇪"]
         };
-        var ctx = document.getElementById("donut-chart-top5-driver-points").getContext('2d');
-        new Chart(ctx, { type: 'line', data: data, options: {} });
+        var ctx = document.getElementById("line-chart-top5-driver-points").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
     });
 </script>
         </div>

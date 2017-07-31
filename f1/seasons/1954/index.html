@@ -319,8 +319,8 @@
         </div>
         <div class="x_content">
             <h4></h4>
-            <div class="chart-container">
-    <canvas id="donut-chart-top5-driver-points"></canvas>
+            <div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-top5-driver-points"></canvas>
 </div>
 <script>
     $(function() {
@@ -333,7 +333,7 @@
     borderWidth: 6,
     borderColor: "#18A19B",
     backgroundColor: "#18A19B",
-    data: [8,null,17,25,28.14000010490417,36.14000010490417,45.14000010490417,53.14000010490417,57.14000010490417]
+    data: [8,null,17,25,28.140000104904175,36.140000104904175,45.140000104904175,53.140000104904175,57.140000104904175]
 },{
     fill: false,
     label: "González",
@@ -342,7 +342,7 @@
     borderWidth: 6,
     borderColor: "#EB212E",
     backgroundColor: "#EB212E",
-    data: [5,null,6.5,6.5,14.64000034332275,17.64000034332275,23.64000034332275,26.64000034332275,null]
+    data: [5,null,6.5,6.5,14.640000343322754,17.640000343322754,23.640000343322754,26.640000343322754,null]
 },{
     fill: false,
     label: "Hawthorn",
@@ -351,7 +351,7 @@
     borderWidth: 6,
     borderColor: "#EB212E",
     backgroundColor: "#EB212E",
-    data: [0,null,1.5,1.5,7.639999866485596,10.6399998664856,10.6399998664856,16.6399998664856,24.6399998664856]
+    data: [0,null,1.5,1.5,7.6399998664855957,10.639999866485596,10.639999866485596,16.639999866485596,24.639999866485596]
 },{
     fill: false,
     label: "Trintignant",
@@ -373,8 +373,8 @@
 }],
             labels: ["ARG 🇦🇷","USA 🇺🇸","BEL 🇧🇪","FRA 🇫🇷","UK 🇬🇧","GER 🇩🇪","SWI 🇨🇭","ITA 🇮🇹","SPA 🇪🇸"]
         };
-        var ctx = document.getElementById("donut-chart-top5-driver-points").getContext('2d');
-        new Chart(ctx, { type: 'line', data: data, options: {} });
+        var ctx = document.getElementById("line-chart-top5-driver-points").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
     });
 </script>
         </div>
