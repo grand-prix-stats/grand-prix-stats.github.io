@@ -823,7 +823,7 @@ h4.graph_title { margin: 7px; text-align: center; }
 
 .tile-stats .icon i { margin: 0; font-size: 60px; line-height: 0; vertical-align: bottom; padding: 0; }
 
-.tile-stats .count { font-size: 38px; font-weight: bold; line-height: 1.65857143; }
+.tile-stats .count { font-size: 38px; font-weight: bold; line-height: 1.65857; }
 
 .tile-stats .count, .tile-stats h3, .tile-stats p { position: relative; margin: 0; margin-left: 10px; z-index: 5; padding: 0; }
 
@@ -1514,7 +1514,7 @@ header { width: 100%; }
 
 /** /NProgress **/
 /** bootstrap-wysiwyg **/
-.editor-wrapper { min-height: 250px; background-color: white; border-collapse: separate; border: 1px solid #cccccc; padding: 4px; box-sizing: content-box; -webkit-box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 1px 0px inset; box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 1px 0px inset; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border-top-left-radius: 3px; overflow: scroll; outline: none; }
+.editor-wrapper { min-height: 250px; background-color: white; border-collapse: separate; border: 1px solid #cccccc; padding: 4px; box-sizing: content-box; -webkit-box-shadow: rgba(0, 0, 0, 0.07451) 0px 1px 1px 0px inset; box-shadow: rgba(0, 0, 0, 0.07451) 0px 1px 1px 0px inset; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border-top-left-radius: 3px; overflow: scroll; outline: none; }
 
 .voiceBtn { width: 20px; color: transparent; background-color: transparent; transform: scale(2, 2); -webkit-transform: scale(2, 2); -moz-transform: scale(2, 2); border: transparent; cursor: pointer; box-shadow: none; -webkit-box-shadow: none; }
 
