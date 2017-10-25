@@ -1,8 +1,6 @@
 # Grand Prix Stats Generated Statistics
 Generated statistic data from Formula One® racing series.
 
-This site is statically generated with Swift and Jekyll.
-
 ## LICENSE
 All data contained in this repository has been programmatically generated from
 the MySQL database provided by Ergast Developer API and as such, it is tied to
