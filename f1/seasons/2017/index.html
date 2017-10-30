@@ -201,8 +201,8 @@
     <span class="count_bottom"><i class="green"><i class="fa fa-chevron-up"></i> 1</i> From Previous Season</span>
 </div><div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count" >
     <span class="count_top"><i class="fa fa-flag-checkered"></i> Races Completed</span>
-    <div class="count">17 of 20</div>
-    <span class="count_bottom"><i class="green"> 85%</i> Complete</span>
+    <div class="count">18 of 20</div>
+    <span class="count_bottom"><i class="green"> 90%</i> Complete</span>
 </div>
 </div><div class="row ">
 <div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
@@ -220,10 +220,10 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [9,4,2,1,1],
+                data: [9,4,2,2,1],
                 backgroundColor: ["#18A19B","#EB212E","#18A19B","#121D32","#121D32"]
             }],
-            labels: ["Hamilton","Vettel","Bottas","Ricciardo","Verstappen"]
+            labels: ["Hamilton","Vettel","Bottas","Verstappen","Ricciardo"]
         };
         var ctx = document.getElementById("donut-chart-driver-wins").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -246,7 +246,7 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [11,4,2],
+                data: [11,4,3],
                 backgroundColor: ["#18A19B","#EB212E","#121D32"]
             }],
             labels: ["Mercedes","Ferrari","Red Bull"]
@@ -272,10 +272,10 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [12,11,10,9,3,5,1],
+                data: [12,11,11,4,9,6,1],
                 backgroundColor: ["#18A19B","#EB212E","#18A19B","#121D32","#121D32","#EB212E","#EAE4ED"]
             }],
-            labels: ["Hamilton","Vettel","Bottas","Ricciardo","Verstappen","Räikkönen","Stroll"]
+            labels: ["Hamilton","Vettel","Bottas","Verstappen","Ricciardo","Räikkönen","Stroll"]
         };
         var ctx = document.getElementById("donut-chart-driver-podiums").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -298,7 +298,7 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [22,16,12,1],
+                data: [23,17,13,1],
                 backgroundColor: ["#18A19B","#EB212E","#121D32","#EAE4ED"]
             }],
             labels: ["Mercedes","Ferrari","Red Bull","Williams"]
@@ -333,7 +333,7 @@
     borderWidth: 6,
     borderColor: "#18A19B",
     backgroundColor: "#18A19B",
-    data: [18,43,61,73,98,104,129,139,151,176,188,213,238,263,281,306,331,null,null,null]
+    data: [18,43,61,73,98,104,129,139,151,176,188,213,238,263,281,306,331,333,null,null]
 },{
     fill: false,
     label: "Vettel",
@@ -342,7 +342,7 @@
     borderWidth: 6,
     borderColor: "#EB212E",
     backgroundColor: "#EB212E",
-    data: [25,43,68,86,104,129,141,153,171,177,202,220,235,235,247,247,265,null,null,null]
+    data: [25,43,68,86,104,129,141,153,171,177,202,220,235,235,247,247,265,277,null,null]
 },{
     fill: false,
     label: "Bottas",
@@ -351,7 +351,7 @@
     borderWidth: 6,
     borderColor: "#18A19B",
     backgroundColor: "#18A19B",
-    data: [15,23,38,63,63,75,93,111,136,154,169,179,197,212,222,234,244,null,null,null]
+    data: [15,23,38,63,63,75,93,111,136,154,169,179,197,212,222,234,244,262,null,null]
 },{
     fill: false,
     label: "Ricciardo",
@@ -360,7 +360,7 @@
     borderWidth: 6,
     borderColor: "#121D32",
     backgroundColor: "#121D32",
-    data: [0,12,22,22,37,52,67,92,107,117,117,132,144,162,177,192,192,null,null,null]
+    data: [0,12,22,22,37,52,67,92,107,117,117,132,144,162,177,192,192,192,null,null]
 },{
     fill: false,
     label: "Räikkönen",
@@ -369,7 +369,7 @@
     borderWidth: 6,
     borderColor: "#EB212E",
     backgroundColor: "#EB212E",
-    data: [12,22,34,49,49,67,73,73,83,98,116,128,138,138,138,148,163,null,null,null]
+    data: [12,22,34,49,49,67,73,73,83,98,116,128,138,138,138,148,163,178,null,null]
 }],
             labels: ["AUS 🇦🇺","CHI 🇨🇳","BAH 🇧🇭","RUS 🇷🇺","SPA 🇪🇸","MON 🇲🇨","CAN 🇨🇦","AZE 🇦🇿","AUS 🇦🇹","UK 🇬🇧","HUN 🇭🇺","BEL 🇧🇪","ITA 🇮🇹","SIN 🇸🇬","MAL 🇲🇾","JAP 🇯🇵","USA 🇺🇸","MEX 🇲🇽","BRA 🇧🇷","UAE 🇦🇪"]
         };
@@ -398,13 +398,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="331.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 77%;">
-                <span class="sr-only">331.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="333.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 74%;">
+                <span class="sr-only">333.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>331</span>
+        <span>333</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/vettel'">
@@ -413,13 +413,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="265.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 62%;">
-                <span class="sr-only">265.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="277.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 61%;">
+                <span class="sr-only">277.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>265</span>
+        <span>277</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/bottas'">
@@ -428,13 +428,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="244.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 57%;">
-                <span class="sr-only">244.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="262.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 58%;">
+                <span class="sr-only">262.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>244</span>
+        <span>262</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/ricciardo'">
@@ -443,7 +443,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="192.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 45%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="192.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 42%;">
                 <span class="sr-only">192.0</span>
             </div>
         </div>
@@ -458,13 +458,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="163.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 38%;">
-                <span class="sr-only">163.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="178.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 39%;">
+                <span class="sr-only">178.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>163</span>
+        <span>178</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/max_verstappen'">
@@ -473,13 +473,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="123.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 28%;">
-                <span class="sr-only">123.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="148.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 32%;">
+                <span class="sr-only">148.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>123</span>
+        <span>148</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/perez'">
@@ -488,13 +488,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="86.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 20%;">
-                <span class="sr-only">86.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="92.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 20%;">
+                <span class="sr-only">92.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>86</span>
+        <span>92</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/ocon'">
@@ -503,13 +503,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="73.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 17%;">
-                <span class="sr-only">73.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="83.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 18%;">
+                <span class="sr-only">83.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>73</span>
+        <span>83</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/sainz'">
@@ -518,7 +518,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="54.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 12%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="54.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 12%;">
                 <span class="sr-only">54.0</span>
             </div>
         </div>
@@ -527,13 +527,28 @@
         <span>54</span>
     </div>
     <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/stroll'">
+    <div class="w_left w_40">
+        <span>🇨🇦 STR (18)</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="40.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 8%;">
+                <span class="sr-only">40.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>40</span>
+    </div>
+    <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/massa'">
     <div class="w_left w_40">
         <span>🇧🇷 MAS (19)</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="36.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 8%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="36.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 8%;">
                 <span class="sr-only">36.0</span>
             </div>
         </div>
@@ -548,7 +563,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="34.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 8%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="34.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 7%;">
                 <span class="sr-only">34.0</span>
             </div>
         </div>
@@ -557,28 +572,13 @@
         <span>34</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/stroll'">
-    <div class="w_left w_40">
-        <span>🇨🇦 STR (18)</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="32.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 7%;">
-                <span class="sr-only">32.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>32</span>
-    </div>
-    <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/grosjean'">
     <div class="w_left w_40">
         <span>🇫🇷 GRO (8)</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="28.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 6%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="28.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 6%;">
                 <span class="sr-only">28.0</span>
             </div>
         </div>
@@ -593,13 +593,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="15.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 3%;">
-                <span class="sr-only">15.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="19.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 4%;">
+                <span class="sr-only">19.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>15</span>
+        <span>19</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/vandoorne'">
@@ -608,7 +608,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="13.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 3%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="13.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 2%;">
                 <span class="sr-only">13.0</span>
             </div>
         </div>
@@ -623,13 +623,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="10.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 2%;">
-                <span class="sr-only">10.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="11.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 2%;">
+                <span class="sr-only">11.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>10</span>
+        <span>11</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/2017/drivers/jolyon_palmer'">
@@ -638,7 +638,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="8.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 1%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="8.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 1%;">
                 <span class="sr-only">8.0</span>
             </div>
         </div>
@@ -653,7 +653,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="5.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 1%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="5.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 1%;">
                 <span class="sr-only">5.0</span>
             </div>
         </div>
@@ -668,7 +668,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="5.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 1%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="5.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 1%;">
                 <span class="sr-only">5.0</span>
             </div>
         </div>
@@ -683,7 +683,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -698,7 +698,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -713,7 +713,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -728,7 +728,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -743,7 +743,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -758,7 +758,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="425.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="450.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -783,7 +783,7 @@
         <span>🇬🇧 HAM (44)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">18.0,25.0,18.0,12.0,25.0,6.0,25.0,10.0,12.0,25.0,12.0,25.0,25.0,25.0,18.0,25.0,25.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">18.0,25.0,18.0,12.0,25.0,6.0,25.0,10.0,12.0,25.0,12.0,25.0,25.0,25.0,18.0,25.0,25.0,2.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -791,7 +791,7 @@
         <span>🇩🇪 VET (5)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">25.0,18.0,25.0,18.0,18.0,25.0,12.0,12.0,18.0,6.0,25.0,18.0,15.0,0.0,12.0,0.0,18.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">25.0,18.0,25.0,18.0,18.0,25.0,12.0,12.0,18.0,6.0,25.0,18.0,15.0,0.0,12.0,0.0,18.0,12.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -799,7 +799,7 @@
         <span>🇫🇮 BOT (77)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">15.0,8.0,15.0,25.0,0.0,12.0,18.0,18.0,25.0,18.0,15.0,10.0,18.0,15.0,10.0,12.0,10.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">15.0,8.0,15.0,25.0,0.0,12.0,18.0,18.0,25.0,18.0,15.0,10.0,18.0,15.0,10.0,12.0,10.0,18.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -815,7 +815,7 @@
         <span>🇫🇮 RAI (7)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">12.0,10.0,12.0,15.0,0.0,18.0,6.0,0.0,10.0,15.0,18.0,12.0,10.0,0.0,0.0,10.0,15.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">12.0,10.0,12.0,15.0,0.0,18.0,6.0,0.0,10.0,15.0,18.0,12.0,10.0,0.0,0.0,10.0,15.0,15.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -823,7 +823,7 @@
         <span>🇳🇱 VER (33)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">10.0,15.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0,12.0,10.0,0.0,1.0,0.0,25.0,18.0,12.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">10.0,15.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0,12.0,10.0,0.0,1.0,0.0,25.0,18.0,12.0,25.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -831,7 +831,7 @@
         <span>🇲🇽 PER (11)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">6.0,2.0,6.0,8.0,12.0,0.0,10.0,0.0,6.0,2.0,4.0,0.0,2.0,10.0,8.0,6.0,4.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">6.0,2.0,6.0,8.0,12.0,0.0,10.0,0.0,6.0,2.0,4.0,0.0,2.0,10.0,8.0,6.0,4.0,6.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -839,7 +839,7 @@
         <span>🇫🇷 OCO (31)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">1.0,1.0,1.0,6.0,10.0,0.0,8.0,8.0,4.0,4.0,2.0,2.0,8.0,1.0,1.0,8.0,8.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">1.0,1.0,1.0,6.0,10.0,0.0,8.0,8.0,4.0,4.0,2.0,2.0,8.0,1.0,1.0,8.0,8.0,10.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -848,6 +848,14 @@
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">4.0,6.0,0.0,1.0,6.0,8.0,0.0,4.0,0.0,0.0,6.0,1.0,0.0,12.0,0.0,0.0,6.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇨🇦 STR (18)</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,2.0,15.0,1.0,0.0,0.0,0.0,6.0,4.0,4.0,0.0,0.0,8.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -868,14 +876,6 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇨🇦 STR (18)</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,2.0,15.0,1.0,0.0,0.0,0.0,6.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
         <span>🇫🇷 GRO (8)</span>
     </div>
     <div class="w_left w_60">
@@ -887,7 +887,7 @@
         <span>🇩🇰 MAG (20)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,4.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">0.0,4.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -903,7 +903,7 @@
         <span>🇪🇸 ALO (14)</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -995,7 +995,7 @@
                 <tr><th></th><th><abbr title="Wins">W</abbr></th><th><abbr title="Podiums">T3</abbr></th><th><abbr title="Top 10">T10</abbr></th><th><abbr title="Pole Position">P1</abbr></th><th><abbr title="Fastest Lap">FL</abbr></th><th><abbr title="Participations">P</abbr></th><th><abbr title="Races Finished">F</abbr></th><th><abbr title="Did Not Finish">DNF</abbr></th><th><abbr title="Did Not Start">DNS</abbr></th></tr>
             </thead>
             <tbody>
-                <tr><td>HAM</td><td>9</td><td>12</td><td>17</td><td>11</td><td>7</td><td>17</td><td>17</td><td>0</td><td>0</td></tr><tr><td>VET</td><td>4</td><td>11</td><td>15</td><td>3</td><td>3</td><td>17</td><td>15</td><td>2</td><td>0</td></tr><tr><td>BOT</td><td>2</td><td>10</td><td>16</td><td>2</td><td>1</td><td>17</td><td>16</td><td>1</td><td>0</td></tr><tr><td>RIC</td><td>1</td><td>9</td><td>13</td><td>0</td><td>1</td><td>17</td><td>13</td><td>3</td><td>1</td></tr><tr><td>RAI</td><td>0</td><td>5</td><td>13</td><td>1</td><td>3</td><td>17</td><td>14</td><td>2</td><td>1</td></tr><tr><td>VER</td><td>1</td><td>3</td><td>10</td><td>0</td><td>0</td><td>17</td><td>10</td><td>7</td><td>0</td></tr><tr><td>PER</td><td>0</td><td>0</td><td>14</td><td>0</td><td>1</td><td>17</td><td>16</td><td>1</td><td>0</td></tr><tr><td>OCO</td><td>0</td><td>0</td><td>16</td><td>0</td><td>0</td><td>17</td><td>17</td><td>0</td><td>0</td></tr><tr><td>SAI</td><td>0</td><td>0</td><td>10</td><td>0</td><td>0</td><td>17</td><td>11</td><td>6</td><td>0</td></tr><tr><td>MAS</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>16</td><td>14</td><td>2</td><td>0</td></tr><tr><td>HUL</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>17</td><td>12</td><td>5</td><td>0</td></tr><tr><td>STR</td><td>0</td><td>1</td><td>6</td><td>0</td><td>0</td><td>17</td><td>13</td><td>4</td><td>0</td></tr><tr><td>GRO</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>17</td><td>14</td><td>3</td><td>0</td></tr><tr><td>MAG</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>17</td><td>13</td><td>4</td><td>0</td></tr><tr><td>VAN</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>17</td><td>12</td><td>5</td><td>0</td></tr><tr><td>ALO</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>16</td><td>8</td><td>8</td><td>0</td></tr><tr><td>PAL</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>16</td><td>11</td><td>5</td><td>0</td></tr><tr><td>KVY</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>15</td><td>11</td><td>4</td><td>0</td></tr><tr><td>WEH</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>15</td><td>12</td><td>3</td><td>0</td></tr><tr><td>BUT</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>DIR</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>ERI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>12</td><td>5</td><td>0</td></tr><tr><td>GIO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>GAS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>HAR</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr>
+                <tr><td>HAM</td><td>9</td><td>12</td><td>18</td><td>11</td><td>7</td><td>18</td><td>18</td><td>0</td><td>0</td></tr><tr><td>VET</td><td>4</td><td>11</td><td>16</td><td>4</td><td>4</td><td>18</td><td>16</td><td>2</td><td>0</td></tr><tr><td>BOT</td><td>2</td><td>11</td><td>17</td><td>2</td><td>1</td><td>18</td><td>17</td><td>1</td><td>0</td></tr><tr><td>RIC</td><td>1</td><td>9</td><td>13</td><td>0</td><td>1</td><td>18</td><td>13</td><td>4</td><td>1</td></tr><tr><td>RAI</td><td>0</td><td>6</td><td>14</td><td>1</td><td>3</td><td>18</td><td>15</td><td>2</td><td>1</td></tr><tr><td>VER</td><td>2</td><td>4</td><td>11</td><td>0</td><td>0</td><td>18</td><td>11</td><td>7</td><td>0</td></tr><tr><td>PER</td><td>0</td><td>0</td><td>15</td><td>0</td><td>1</td><td>18</td><td>17</td><td>1</td><td>0</td></tr><tr><td>OCO</td><td>0</td><td>0</td><td>17</td><td>0</td><td>0</td><td>18</td><td>18</td><td>0</td><td>0</td></tr><tr><td>SAI</td><td>0</td><td>0</td><td>10</td><td>0</td><td>0</td><td>18</td><td>11</td><td>7</td><td>0</td></tr><tr><td>STR</td><td>0</td><td>1</td><td>7</td><td>0</td><td>0</td><td>18</td><td>14</td><td>4</td><td>0</td></tr><tr><td>MAS</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>17</td><td>15</td><td>2</td><td>0</td></tr><tr><td>HUL</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>18</td><td>12</td><td>6</td><td>0</td></tr><tr><td>GRO</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>18</td><td>15</td><td>3</td><td>0</td></tr><tr><td>MAG</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>18</td><td>14</td><td>4</td><td>0</td></tr><tr><td>VAN</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>18</td><td>13</td><td>5</td><td>0</td></tr><tr><td>ALO</td><td>0</td><td>0</td><td>3</td><td>0</td><td>1</td><td>17</td><td>9</td><td>8</td><td>0</td></tr><tr><td>PAL</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>16</td><td>11</td><td>5</td><td>0</td></tr><tr><td>KVY</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>15</td><td>11</td><td>4</td><td>0</td></tr><tr><td>WEH</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>16</td><td>13</td><td>3</td><td>0</td></tr><tr><td>BUT</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>DIR</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>ERI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>18</td><td>12</td><td>6</td><td>0</td></tr><tr><td>GIO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>GAS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>3</td><td>0</td><td>0</td></tr><tr><td>HAR</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr>
             </tbody>
         </table>
     </div>
@@ -1017,13 +1017,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="575.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 78%;">
-                <span class="sr-only">575.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="595.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 76%;">
+                <span class="sr-only">595.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>575</span>
+        <span>595</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1032,13 +1032,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="428.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 58%;">
-                <span class="sr-only">428.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="455.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 58%;">
+                <span class="sr-only">455.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>428</span>
+        <span>455</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1047,13 +1047,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="315.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 43%;">
-                <span class="sr-only">315.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="340.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 43%;">
+                <span class="sr-only">340.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>315</span>
+        <span>340</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1062,13 +1062,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="159.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 21%;">
-                <span class="sr-only">159.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="175.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 22%;">
+                <span class="sr-only">175.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>159</span>
+        <span>175</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1077,13 +1077,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="68.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 9%;">
-                <span class="sr-only">68.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="76.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 9%;">
+                <span class="sr-only">76.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>68</span>
+        <span>76</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1092,7 +1092,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="53.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 7%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="53.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 6%;">
                 <span class="sr-only">53.0</span>
             </div>
         </div>
@@ -1107,7 +1107,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="48.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 6%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="48.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 6%;">
                 <span class="sr-only">48.0</span>
             </div>
         </div>
@@ -1122,13 +1122,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="43.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 5%;">
-                <span class="sr-only">43.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="47.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 6%;">
+                <span class="sr-only">47.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>43</span>
+        <span>47</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1137,13 +1137,13 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="23.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 3%;">
-                <span class="sr-only">23.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="24.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 3%;">
+                <span class="sr-only">24.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>23</span>
+        <span>24</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -1152,7 +1152,7 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="5.0" aria-valuemin="0" aria-valuemax="731.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="5.0" aria-valuemin="0" aria-valuemax="774.0" style="width: 0%;">
                 <span class="sr-only">5.0</span>
             </div>
         </div>
@@ -1177,7 +1177,7 @@
         <span>🇩🇪 Mercedes</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">33.0,33.0,33.0,37.0,25.0,18.0,43.0,28.0,37.0,43.0,27.0,35.0,43.0,40.0,28.0,37.0,35.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">33.0,33.0,33.0,37.0,25.0,18.0,43.0,28.0,37.0,43.0,27.0,35.0,43.0,40.0,28.0,37.0,35.0,20.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1185,7 +1185,7 @@
         <span>🇮🇹 Ferrari</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">37.0,28.0,37.0,33.0,18.0,43.0,18.0,12.0,28.0,21.0,43.0,30.0,25.0,0.0,12.0,10.0,33.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">37.0,28.0,37.0,33.0,18.0,43.0,18.0,12.0,28.0,21.0,43.0,30.0,25.0,0.0,12.0,10.0,33.0,27.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1193,7 +1193,7 @@
         <span>🇦🇹 Red Bull</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">10.0,27.0,10.0,10.0,15.0,25.0,15.0,25.0,15.0,22.0,10.0,15.0,13.0,18.0,40.0,33.0,12.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">10.0,27.0,10.0,10.0,15.0,25.0,15.0,25.0,15.0,22.0,10.0,15.0,13.0,18.0,40.0,33.0,12.0,25.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1201,7 +1201,7 @@
         <span>🇮🇳 Force India</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">7.0,3.0,7.0,14.0,22.0,0.0,18.0,8.0,10.0,6.0,6.0,2.0,10.0,11.0,9.0,14.0,12.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">7.0,3.0,7.0,14.0,22.0,0.0,18.0,8.0,10.0,6.0,6.0,2.0,10.0,11.0,9.0,14.0,12.0,16.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1209,7 +1209,7 @@
         <span>🇬🇧 Williams</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">8.0,0.0,8.0,2.0,0.0,2.0,2.0,15.0,3.0,1.0,0.0,4.0,10.0,4.0,6.0,1.0,2.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">8.0,0.0,8.0,2.0,0.0,2.0,2.0,15.0,3.0,1.0,0.0,4.0,10.0,4.0,6.0,1.0,2.0,8.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1233,7 +1233,7 @@
         <span>🇺🇸 Haas F1 Team</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,4.0,4.0,0.0,1.0,5.0,1.0,6.0,8.0,0.0,0.0,6.0,0.0,2.0,0.0,6.0,0.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">0.0,4.0,4.0,0.0,1.0,5.0,1.0,6.0,8.0,0.0,0.0,6.0,0.0,2.0,0.0,6.0,0.0,4.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1241,7 +1241,7 @@
         <span>🇬🇧 McLaren</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,9.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0</span>
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,9.0,0.0,0.0,6.0,6.0,0.0,0.0,1.0,0.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1269,7 +1269,7 @@
                 <tr><th></th><th><abbr title="Wins">W</abbr></th><th><abbr title="Podiums">T3</abbr></th><th><abbr title="Top 10">T10</abbr></th><th><abbr title="Pole Position">P1</abbr></th><th><abbr title="Fastest Lap">FL</abbr></th><th><abbr title="Participations">P</abbr></th><th><abbr title="Races Finished">F</abbr></th><th><abbr title="Did Not Finish">DNF</abbr></th><th><abbr title="Did Not Start">DNS</abbr></th></tr>
             </thead>
             <tbody>
-                <tr><td>Mercedes</td><td>11</td><td>22</td><td>33</td><td>13</td><td>8</td><td>34</td><td>33</td><td>1</td><td>0</td></tr><tr><td>Ferrari</td><td>4</td><td>16</td><td>28</td><td>4</td><td>6</td><td>34</td><td>29</td><td>4</td><td>1</td></tr><tr><td>Red Bull</td><td>2</td><td>12</td><td>23</td><td>0</td><td>1</td><td>34</td><td>23</td><td>10</td><td>1</td></tr><tr><td>Force India</td><td>0</td><td>0</td><td>30</td><td>0</td><td>1</td><td>34</td><td>33</td><td>1</td><td>0</td></tr><tr><td>Williams</td><td>0</td><td>1</td><td>17</td><td>0</td><td>0</td><td>34</td><td>27</td><td>7</td><td>0</td></tr><tr><td>Toro Rosso</td><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>34</td><td>24</td><td>10</td><td>0</td></tr><tr><td>Renault</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>34</td><td>24</td><td>10</td><td>0</td></tr><tr><td>Haas F1 Team</td><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>34</td><td>27</td><td>7</td><td>0</td></tr><tr><td>McLaren</td><td>0</td><td>0</td><td>5</td><td>0</td><td>1</td><td>34</td><td>20</td><td>14</td><td>0</td></tr><tr><td>Sauber</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>34</td><td>25</td><td>9</td><td>0</td></tr>
+                <tr><td>Mercedes</td><td>11</td><td>23</td><td>35</td><td>13</td><td>8</td><td>36</td><td>35</td><td>1</td><td>0</td></tr><tr><td>Ferrari</td><td>4</td><td>17</td><td>30</td><td>5</td><td>7</td><td>36</td><td>31</td><td>4</td><td>1</td></tr><tr><td>Red Bull</td><td>3</td><td>13</td><td>24</td><td>0</td><td>1</td><td>36</td><td>24</td><td>11</td><td>1</td></tr><tr><td>Force India</td><td>0</td><td>0</td><td>32</td><td>0</td><td>1</td><td>36</td><td>35</td><td>1</td><td>0</td></tr><tr><td>Williams</td><td>0</td><td>1</td><td>18</td><td>0</td><td>0</td><td>36</td><td>29</td><td>7</td><td>0</td></tr><tr><td>Toro Rosso</td><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>36</td><td>25</td><td>11</td><td>0</td></tr><tr><td>Renault</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>36</td><td>24</td><td>12</td><td>0</td></tr><tr><td>Haas F1 Team</td><td>0</td><td>0</td><td>13</td><td>0</td><td>0</td><td>36</td><td>29</td><td>7</td><td>0</td></tr><tr><td>McLaren</td><td>0</td><td>0</td><td>6</td><td>0</td><td>1</td><td>36</td><td>22</td><td>14</td><td>0</td></tr><tr><td>Sauber</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>36</td><td>26</td><td>10</td><td>0</td></tr>
             </tbody>
         </table>
     </div>
@@ -1291,7 +1291,7 @@
                 <tr><th></th><th>AUS 🇦🇺</th><th>CHI 🇨🇳</th><th>BAH 🇧🇭</th><th>RUS 🇷🇺</th><th>SPA 🇪🇸</th><th>MON 🇲🇨</th><th>CAN 🇨🇦</th><th>AZE 🇦🇿</th><th>AUS 🇦🇹</th><th>UK 🇬🇧</th><th>HUN 🇭🇺</th><th>BEL 🇧🇪</th><th>ITA 🇮🇹</th><th>SIN 🇸🇬</th><th>MAL 🇲🇾</th><th>JAP 🇯🇵</th><th>USA 🇺🇸</th><th>MEX 🇲🇽</th><th>BRA 🇧🇷</th><th>UAE 🇦🇪</th></tr>
             </thead>
             <tbody>
-                <tr><td><div class="title">HAM</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="pos7 points">6</div></td><td><div class="pos1 points">25</div></td><td><div class="pos5 points">10</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="pos1 points">25</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos1 points">25</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VET</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos4 points">12</div></td><td><div class="pos4 points">12</div></td><td><div class="pos2 points">18</div></td><td><div class="pos7 points">6</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="posR no-points">0</div></td><td><div class="pos2 points">18</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BOT</div></td><td><div class="pos3 points">15</div></td><td><div class="pos6 points">8</div></td><td><div class="pos3 points">15</div></td><td><div class="pos1 points">25</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="pos2 points">18</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="pos5 points">10</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="pos5 points">10</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RIC</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="pos1 points">25</div></td><td><div class="pos3 points">15</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">15</div></td><td><div class="pos4 points">12</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RAI</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="pos4 points">12</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="pos2 points">18</div></td><td><div class="pos7 points">6</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="pos3 points">15</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="pos3 points">15</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VER</div></td><td><div class="pos5 points">10</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="posR no-points">0</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PER</div></td><td><div class="pos7 points">6</div></td><td><div class="pos9 points">2</div></td><td><div class="pos7 points">6</div></td><td><div class="pos6 points">8</div></td><td><div class="pos4 points">12</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos9 points">2</div></td><td><div class="pos8 points">4</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos5 points">10</div></td><td><div class="pos6 points">8</div></td><td><div class="pos7 points">6</div></td><td><div class="pos8 points">4</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">OCO</div></td><td><div class="pos10 points">1</div></td><td><div class="pos10 points">1</div></td><td><div class="pos10 points">1</div></td><td><div class="pos7 points">6</div></td><td><div class="pos5 points">10</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos6 points">8</div></td><td><div class="pos8 points">4</div></td><td><div class="pos8 points">4</div></td><td><div class="pos9 points">2</div></td><td><div class="pos9 points">2</div></td><td><div class="pos6 points">8</div></td><td><div class="pos10 points">1</div></td><td><div class="pos10 points">1</div></td><td><div class="pos6 points">8</div></td><td><div class="pos6 points">8</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SAI</div></td><td><div class="pos8 points">4</div></td><td><div class="pos7 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos7 points">6</div></td><td><div class="pos6 points">8</div></td><td><div class="posR no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos10 points">1</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MAS</div></td><td><div class="pos6 points">8</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos9 points">2</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos10 points">1</div></td><td><div class="no-result"></div></td><td><div class="pos8 points">4</div></td><td><div class="pos8 points">4</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos10 points">1</div></td><td><div class="pos9 points">2</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HUL</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos8 points">4</div></td><td><div class="pos6 points">8</div></td><td><div class="posR no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">STR</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos3 points">15</div></td><td><div class="pos10 points">1</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos8 points">4</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GRO</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos8 points">4</div></td><td><div class="pos10 points">1</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos14 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MAG</div></td><td><div class="posR no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="pos16 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VAN</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos7 points">6</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">ALO</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posW no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="posR no-points">0</div></td><td><div class="pos17 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PAL</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">KVY</div></td><td><div class="pos9 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos10 points">1</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">WEH</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BUT</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">DIR</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">ERI</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos18 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos18 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GIO</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GAS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HAR</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr>
+                <tr><td><div class="title">HAM</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="pos7 points">6</div></td><td><div class="pos1 points">25</div></td><td><div class="pos5 points">10</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="pos1 points">25</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos1 points">25</div></td><td><div class="pos9 points">2</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VET</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos4 points">12</div></td><td><div class="pos4 points">12</div></td><td><div class="pos2 points">18</div></td><td><div class="pos7 points">6</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="posR no-points">0</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BOT</div></td><td><div class="pos3 points">15</div></td><td><div class="pos6 points">8</div></td><td><div class="pos3 points">15</div></td><td><div class="pos1 points">25</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="pos2 points">18</div></td><td><div class="pos2 points">18</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="pos5 points">10</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="pos5 points">10</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="pos2 points">18</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RIC</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="pos1 points">25</div></td><td><div class="pos3 points">15</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">15</div></td><td><div class="pos4 points">12</div></td><td><div class="pos2 points">18</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RAI</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="pos4 points">12</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="pos2 points">18</div></td><td><div class="pos7 points">6</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="pos3 points">15</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="pos3 points">15</div></td><td><div class="pos3 points">15</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VER</div></td><td><div class="pos5 points">10</div></td><td><div class="pos3 points">15</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="posR no-points">0</div></td><td><div class="pos1 points">25</div></td><td><div class="pos2 points">18</div></td><td><div class="pos4 points">12</div></td><td><div class="pos1 points">25</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PER</div></td><td><div class="pos7 points">6</div></td><td><div class="pos9 points">2</div></td><td><div class="pos7 points">6</div></td><td><div class="pos6 points">8</div></td><td><div class="pos4 points">12</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos5 points">10</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos9 points">2</div></td><td><div class="pos8 points">4</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos5 points">10</div></td><td><div class="pos6 points">8</div></td><td><div class="pos7 points">6</div></td><td><div class="pos8 points">4</div></td><td><div class="pos7 points">6</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">OCO</div></td><td><div class="pos10 points">1</div></td><td><div class="pos10 points">1</div></td><td><div class="pos10 points">1</div></td><td><div class="pos7 points">6</div></td><td><div class="pos5 points">10</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos6 points">8</div></td><td><div class="pos8 points">4</div></td><td><div class="pos8 points">4</div></td><td><div class="pos9 points">2</div></td><td><div class="pos9 points">2</div></td><td><div class="pos6 points">8</div></td><td><div class="pos10 points">1</div></td><td><div class="pos10 points">1</div></td><td><div class="pos6 points">8</div></td><td><div class="pos6 points">8</div></td><td><div class="pos5 points">10</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SAI</div></td><td><div class="pos8 points">4</div></td><td><div class="pos7 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos7 points">6</div></td><td><div class="pos6 points">8</div></td><td><div class="posR no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos10 points">1</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos4 points">12</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">STR</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos3 points">15</div></td><td><div class="pos10 points">1</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos8 points">4</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MAS</div></td><td><div class="pos6 points">8</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos9 points">2</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos10 points">1</div></td><td><div class="no-result"></div></td><td><div class="pos8 points">4</div></td><td><div class="pos8 points">4</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos10 points">1</div></td><td><div class="pos9 points">2</div></td><td><div class="pos11 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HUL</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos8 points">4</div></td><td><div class="pos6 points">8</div></td><td><div class="posR no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GRO</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos8 points">4</div></td><td><div class="pos10 points">1</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MAG</div></td><td><div class="posR no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VAN</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 points">6</div></td><td><div class="pos7 points">6</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">ALO</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posW no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="posR no-points">0</div></td><td><div class="pos17 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PAL</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">8</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">KVY</div></td><td><div class="pos9 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos9 points">2</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos10 points">1</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">WEH</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos8 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos10 points">1</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="pos17 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BUT</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">DIR</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">ERI</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos16 no-points">0</div></td><td><div class="pos18 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos18 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos15 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GIO</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GAS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HAR</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr>
             </tbody>
         </table>
     </div>
@@ -1313,7 +1313,7 @@
                 <tr><th>#</th><th>Race</th><th>Circuit</th><th>Date</th><th>Laps</th><th>Duration</th><th>1<sup>st</sup> Place</th><th>Pole</th><th>Pole Time</th></tr>
             </thead>
             <tbody>
-                <tr><td>1</td><td>Australian Grand Prix</td><td>Albert Park Grand Prix Circuit</td><td>Mar 25</td><td>57</td><td>1:24:11.672</td><td>Vettel (Ferrari)</td><td>Hamilton</td><td>1:24.191</td></tr><tr><td>2</td><td>Chinese Grand Prix</td><td>Shanghai International Circuit</td><td>Apr 08</td><td>56</td><td>1:37:36.158</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:33.333</td></tr><tr><td>3</td><td>Bahrain Grand Prix</td><td>Bahrain International Circuit</td><td>Apr 15</td><td>57</td><td>1:33:53.374</td><td>Vettel (Ferrari)</td><td>Bottas</td><td>1:31.041</td></tr><tr><td>4</td><td>Russian Grand Prix</td><td>Sochi Autodrom</td><td>Apr 29</td><td>52</td><td>1:28:08.743</td><td>Bottas (Mercedes)</td><td>Vettel</td><td>1:34.493</td></tr><tr><td>5</td><td>Spanish Grand Prix</td><td>Circuit de Barcelona-Catalunya</td><td>May 13</td><td>66</td><td>1:35:56.497</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:20.511</td></tr><tr><td>6</td><td>Monaco Grand Prix</td><td>Circuit de Monaco</td><td>May 27</td><td>78</td><td>1:44:44.340</td><td>Vettel (Ferrari)</td><td>Räikkönen</td><td>1:13.117</td></tr><tr><td>7</td><td>Canadian Grand Prix</td><td>Circuit Gilles Villeneuve</td><td>Jun 10</td><td>70</td><td>1:33:05.154</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:12.692</td></tr><tr><td>8</td><td>Azerbaijan Grand Prix</td><td>Baku City Circuit</td><td>Jun 24</td><td>51</td><td>2:03:55.573</td><td>Ricciardo (Red Bull)</td><td>Hamilton</td><td>1:41.983</td></tr><tr><td>9</td><td>Austrian Grand Prix</td><td>Red Bull Ring</td><td>Jul 08</td><td>71</td><td>1:21:48.523</td><td>Bottas (Mercedes)</td><td>Bottas</td><td>1:05.760</td></tr><tr><td>10</td><td>British Grand Prix</td><td>Silverstone Circuit</td><td>Jul 15</td><td>51</td><td>1:21:27.430</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:39.069</td></tr><tr><td>11</td><td>Hungarian Grand Prix</td><td>Hungaroring</td><td>Jul 29</td><td>70</td><td>1:39:46.713</td><td>Vettel (Ferrari)</td><td>Vettel</td><td>1:17.244</td></tr><tr><td>12</td><td>Belgian Grand Prix</td><td>Circuit de Spa-Francorchamps</td><td>Aug 26</td><td>44</td><td>1:24:42.820</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:44.184</td></tr><tr><td>13</td><td>Italian Grand Prix</td><td>Autodromo Nazionale di Monza</td><td>Sep 02</td><td>53</td><td>1:15:32.312</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:36.009</td></tr><tr><td>14</td><td>Singapore Grand Prix</td><td>Marina Bay Street Circuit</td><td>Sep 16</td><td>58</td><td>2:03:23.544</td><td>Hamilton (Mercedes)</td><td>Vettel</td><td>1:43.336</td></tr><tr><td>15</td><td>Malaysian Grand Prix</td><td>Sepang International Circuit</td><td>Sep 30</td><td>56</td><td>1:30:01.290</td><td>Verstappen (Red Bull)</td><td>Hamilton</td><td>1:31.605</td></tr><tr><td>16</td><td>Japanese Grand Prix</td><td>Suzuka Circuit</td><td>Oct 07</td><td>53</td><td>1:27:31.194</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:29.047</td></tr><tr><td>17</td><td>United States Grand Prix</td><td>Circuit of the Americas</td><td>Oct 21</td><td>56</td><td>1:33:50.991</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:34.822</td></tr><tr><td>18</td><td>Mexican Grand Prix</td><td>Autódromo Hermanos Rodríguez</td><td>Oct 28</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td>Brazilian Grand Prix</td><td>Autódromo José Carlos Pace</td><td>Nov 11</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td>Abu Dhabi Grand Prix</td><td>Yas Marina Circuit</td><td>Nov 25</td><td></td><td></td><td></td><td></td><td></td></tr>
+                <tr><td>1</td><td>Australian Grand Prix</td><td>Albert Park Grand Prix Circuit</td><td>Mar 25</td><td>57</td><td>1:24:11.672</td><td>Vettel (Ferrari)</td><td>Hamilton</td><td>1:24.191</td></tr><tr><td>2</td><td>Chinese Grand Prix</td><td>Shanghai International Circuit</td><td>Apr 08</td><td>56</td><td>1:37:36.158</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:33.333</td></tr><tr><td>3</td><td>Bahrain Grand Prix</td><td>Bahrain International Circuit</td><td>Apr 15</td><td>57</td><td>1:33:53.374</td><td>Vettel (Ferrari)</td><td>Bottas</td><td>1:31.041</td></tr><tr><td>4</td><td>Russian Grand Prix</td><td>Sochi Autodrom</td><td>Apr 29</td><td>52</td><td>1:28:08.743</td><td>Bottas (Mercedes)</td><td>Vettel</td><td>1:34.493</td></tr><tr><td>5</td><td>Spanish Grand Prix</td><td>Circuit de Barcelona-Catalunya</td><td>May 13</td><td>66</td><td>1:35:56.497</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:20.511</td></tr><tr><td>6</td><td>Monaco Grand Prix</td><td>Circuit de Monaco</td><td>May 27</td><td>78</td><td>1:44:44.340</td><td>Vettel (Ferrari)</td><td>Räikkönen</td><td>1:13.117</td></tr><tr><td>7</td><td>Canadian Grand Prix</td><td>Circuit Gilles Villeneuve</td><td>Jun 10</td><td>70</td><td>1:33:05.154</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:12.692</td></tr><tr><td>8</td><td>Azerbaijan Grand Prix</td><td>Baku City Circuit</td><td>Jun 24</td><td>51</td><td>2:03:55.573</td><td>Ricciardo (Red Bull)</td><td>Hamilton</td><td>1:41.983</td></tr><tr><td>9</td><td>Austrian Grand Prix</td><td>Red Bull Ring</td><td>Jul 08</td><td>71</td><td>1:21:48.523</td><td>Bottas (Mercedes)</td><td>Bottas</td><td>1:05.760</td></tr><tr><td>10</td><td>British Grand Prix</td><td>Silverstone Circuit</td><td>Jul 15</td><td>51</td><td>1:21:27.430</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:39.069</td></tr><tr><td>11</td><td>Hungarian Grand Prix</td><td>Hungaroring</td><td>Jul 29</td><td>70</td><td>1:39:46.713</td><td>Vettel (Ferrari)</td><td>Vettel</td><td>1:17.244</td></tr><tr><td>12</td><td>Belgian Grand Prix</td><td>Circuit de Spa-Francorchamps</td><td>Aug 26</td><td>44</td><td>1:24:42.820</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:44.184</td></tr><tr><td>13</td><td>Italian Grand Prix</td><td>Autodromo Nazionale di Monza</td><td>Sep 02</td><td>53</td><td>1:15:32.312</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:36.009</td></tr><tr><td>14</td><td>Singapore Grand Prix</td><td>Marina Bay Street Circuit</td><td>Sep 16</td><td>58</td><td>2:03:23.544</td><td>Hamilton (Mercedes)</td><td>Vettel</td><td>1:43.336</td></tr><tr><td>15</td><td>Malaysian Grand Prix</td><td>Sepang International Circuit</td><td>Sep 30</td><td>56</td><td>1:30:01.290</td><td>Verstappen (Red Bull)</td><td>Hamilton</td><td>1:31.605</td></tr><tr><td>16</td><td>Japanese Grand Prix</td><td>Suzuka Circuit</td><td>Oct 07</td><td>53</td><td>1:27:31.194</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:29.047</td></tr><tr><td>17</td><td>United States Grand Prix</td><td>Circuit of the Americas</td><td>Oct 21</td><td>56</td><td>1:33:50.991</td><td>Hamilton (Mercedes)</td><td>Hamilton</td><td>1:34.822</td></tr><tr><td>18</td><td>Mexican Grand Prix</td><td>Autódromo Hermanos Rodríguez</td><td>Oct 28</td><td>71</td><td>1:36:26.552</td><td>Verstappen (Red Bull)</td><td>Vettel</td><td>1:17.665</td></tr><tr><td>19</td><td>Brazilian Grand Prix</td><td>Autódromo José Carlos Pace</td><td>Nov 11</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td>Abu Dhabi Grand Prix</td><td>Yas Marina Circuit</td><td>Nov 25</td><td></td><td></td><td></td><td></td><td></td></tr>
             </tbody>
         </table>
     </div>
