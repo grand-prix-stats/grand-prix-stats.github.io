@@ -108,7 +108,8 @@
         <a href="/f1/seasons/1964/" role="button" class="btn btn-default btn-xs">Prev</a>
         <a href="/f1/seasons/1966/" role="button" class="btn btn-default btn-xs">Next</a>
         <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
-            <option value="/f1/seasons/2018/" >2018</option>
+            <option value="/f1/seasons/2019/" >2019</option>
+<option value="/f1/seasons/2018/" >2018</option>
 <option value="/f1/seasons/2017/" >2017</option>
 <option value="/f1/seasons/2016/" >2016</option>
 <option value="/f1/seasons/2015/" >2015</option>
@@ -222,9 +223,9 @@
         var data = {
             datasets: [{
                 data: [6,2,1,1],
-                backgroundColor: ["#025839","#144D44","#FFFFFF","#144D44"]
+                backgroundColor: ["##888888","##888888","##888888","##888888"]
             }],
-            labels: ["Clark","Hill","Ginther","Stewart"]
+            labels: ["Clark","Hill","Stewart","Ginther"]
         };
         var ctx = document.getElementById("donut-chart-driver-wins").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -247,10 +248,10 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [6,3,1],
-                backgroundColor: ["#025839","#144D44","#FFFFFF"]
+                data: [3,6,1],
+                backgroundColor: ["##144D44","##025839","##FFFFFF"]
             }],
-            labels: ["Lotus-Climax","BRM","Honda"]
+            labels: ["BRM","Lotus-Climax","Honda"]
         };
         var ctx = document.getElementById("donut-chart-team-wins").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -273,10 +274,10 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [6,6,1,5,1,1,5,1,1,3],
-                backgroundColor: ["#025839","#144D44","#FFFFFF","#144D44","#EB212E","#243F73","#243F73","#273027","#025839","#EB212E"]
+                data: [6,6,5,5,3,1,1,1,1,1],
+                backgroundColor: ["##888888","##888888","##888888","##888888","##888888","##888888","##888888","##888888","##888888","##888888"]
             }],
-            labels: ["Clark","Hill","Ginther","Stewart","Bandini","Brabham","Gurney","McLaren","Spence","Surtees"]
+            labels: ["Clark","Hill","Stewart","Gurney","Surtees","Bandini","Ginther","Spence","McLaren","Brabham"]
         };
         var ctx = document.getElementById("donut-chart-driver-podiums").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -299,10 +300,10 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [7,11,1,6,1,4],
-                backgroundColor: ["#025839","#144D44","#FFFFFF","#243F73","#273027","#EB212E"]
+                data: [11,7,6,4,1,1],
+                backgroundColor: ["##144D44","##025839","##243F73","##E00D19","##273027","##FFFFFF"]
             }],
-            labels: ["Lotus-Climax","BRM","Honda","Brabham-Climax","Cooper-Climax","Ferrari"]
+            labels: ["BRM","Lotus-Climax","Brabham-Climax","Ferrari","Cooper-Climax","Honda"]
         };
         var ctx = document.getElementById("donut-chart-team-podiums").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -332,8 +333,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#025839",
-    backgroundColor: "#025839",
+    borderColor: "##888888",
+    backgroundColor: "##888888",
     data: [9,null,18,27,36,45,54,54,54,54]
 },{
     fill: false,
@@ -341,8 +342,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#144D44",
-    backgroundColor: "#144D44",
+    borderColor: "##888888",
+    backgroundColor: "##888888",
     data: [4,13,15,17,23,26,32,38,47,47]
 },{
     fill: false,
@@ -350,8 +351,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#144D44",
-    backgroundColor: "#144D44",
+    borderColor: "##888888",
+    backgroundColor: "##888888",
     data: [1,5,11,17,19,25,25,34,34,34]
 },{
     fill: false,
@@ -359,8 +360,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#243F73",
-    backgroundColor: "#243F73",
+    borderColor: "##888888",
+    backgroundColor: "##888888",
     data: [0,null,0,0,1,5,9,13,19,25]
 },{
     fill: false,
@@ -368,8 +369,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#EB212E",
-    backgroundColor: "#EB212E",
+    borderColor: "##888888",
+    backgroundColor: "##888888",
     data: [6,9,9,13,17,17,17,17,null,null]
 }],
             labels: ["SOU 🇿🇦","MON 🇲🇨","BEL 🇧🇪","FRA 🇫🇷","UK 🇬🇧","NET 🇳🇱","GER 🇩🇪","ITA 🇮🇹","USA 🇺🇸","MEX 🇲🇽"]
@@ -588,9 +589,9 @@
         <span>4</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/rodriguez'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bucknum'">
     <div class="w_left w_40">
-        <span>🇲🇽 ROD</span>
+        <span>🇺🇸 BUC</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -603,9 +604,9 @@
         <span>2</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bucknum'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/rodriguez'">
     <div class="w_left w_40">
-        <span>🇺🇸 BUC</span>
+        <span>🇲🇽 ROD</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -648,171 +649,6 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/charlton'">
-    <div class="w_left w_40">
-        <span>🇿🇦 CHA</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/hailwood'">
-    <div class="w_left w_40">
-        <span>🇬🇧 HAI</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/pretorius'">
-    <div class="w_left w_40">
-        <span>🇿🇦 PRE</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/love'">
-    <div class="w_left w_40">
-        <span>🇿🇼 LOV</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bonnier'">
-    <div class="w_left w_40">
-        <span>🇸🇪 BON</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/klerk'">
-    <div class="w_left w_40">
-        <span>🇿🇦 DE </span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/tingle'">
-    <div class="w_left w_40">
-        <span>🇿🇼 TIN</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/scarfiotti'">
-    <div class="w_left w_40">
-        <span>🇮🇹 SCA</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bianchi'">
-    <div class="w_left w_40">
-        <span>🇧🇪 BIA</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/gardner'">
-    <div class="w_left w_40">
-        <span>🇦🇺 GAR</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/solana'">
-    <div class="w_left w_40">
-        <span>🇲🇽 SOL</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/anderson'">
     <div class="w_left w_40">
         <span>🇬🇧 AND</span>
@@ -843,9 +679,9 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bondurant'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bassi'">
     <div class="w_left w_40">
-        <span>🇺🇸 BON</span>
+        <span>🇮🇹 BAS</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -858,9 +694,9 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/geki'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bianchi'">
     <div class="w_left w_40">
-        <span>🇮🇹 RUS</span>
+        <span>🇧🇪 BIA</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -873,54 +709,9 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/ireland'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/blignaut'">
     <div class="w_left w_40">
-        <span>🇬🇧 IRE</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/hawkins'">
-    <div class="w_left w_40">
-        <span>🇦🇺 HAW</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/prophet'">
-    <div class="w_left w_40">
-        <span>🇬🇧 PRO</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/maggs'">
-    <div class="w_left w_40">
-        <span>🇿🇦 MAG</span>
+        <span>🇿🇦 BLI</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -948,6 +739,186 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bondurant'">
+    <div class="w_left w_40">
+        <span>🇺🇸 BON</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bonnier'">
+    <div class="w_left w_40">
+        <span>🇸🇪 BON</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bussinello'">
+    <div class="w_left w_40">
+        <span>🇮🇹 BUS</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/charlton'">
+    <div class="w_left w_40">
+        <span>🇿🇦 CHA</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/clapham'">
+    <div class="w_left w_40">
+        <span>🇿🇦 CLA</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/klerk'">
+    <div class="w_left w_40">
+        <span>🇿🇦 DE </span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/gardner'">
+    <div class="w_left w_40">
+        <span>🇦🇺 GAR</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/gregory'">
+    <div class="w_left w_40">
+        <span>🇺🇸 GRE</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/gubby'">
+    <div class="w_left w_40">
+        <span>🇬🇧 GUB</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/hailwood'">
+    <div class="w_left w_40">
+        <span>🇬🇧 HAI</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/hawkins'">
+    <div class="w_left w_40">
+        <span>🇦🇺 HAW</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/ireland'">
+    <div class="w_left w_40">
+        <span>🇬🇧 IRE</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/lederle'">
     <div class="w_left w_40">
         <span>🇿🇦 LED</span>
@@ -963,9 +934,39 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/serrurier'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/love'">
     <div class="w_left w_40">
-        <span>🇿🇦 SER</span>
+        <span>🇿🇼 LOV</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/maggs'">
+    <div class="w_left w_40">
+        <span>🇿🇦 MAG</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/mitter'">
+    <div class="w_left w_40">
+        <span>🇩🇪 MIT</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1008,84 +1009,39 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/pretorius'">
+    <div class="w_left w_40">
+        <span>🇿🇦 PRE</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/prophet'">
+    <div class="w_left w_40">
+        <span>🇬🇧 PRO</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/puzey'">
     <div class="w_left w_40">
         <span>🇿🇼 PUZ</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/reed'">
-    <div class="w_left w_40">
-        <span>🇿🇦 REE</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/clapham'">
-    <div class="w_left w_40">
-        <span>🇿🇦 CLA</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/blignaut'">
-    <div class="w_left w_40">
-        <span>🇿🇦 BLI</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/gregory'">
-    <div class="w_left w_40">
-        <span>🇺🇸 GRE</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/rhodes'">
-    <div class="w_left w_40">
-        <span>🇬🇧 RHO</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1113,6 +1069,36 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/reed'">
+    <div class="w_left w_40">
+        <span>🇿🇦 REE</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/rhodes'">
+    <div class="w_left w_40">
+        <span>🇬🇧 RHO</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/rollinson'">
     <div class="w_left w_40">
         <span>🇬🇧 ROL</span>
@@ -1128,9 +1114,9 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/gubby'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/geki'">
     <div class="w_left w_40">
-        <span>🇬🇧 GUB</span>
+        <span>🇮🇹 RUS</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1143,9 +1129,9 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/mitter'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/scarfiotti'">
     <div class="w_left w_40">
-        <span>🇩🇪 MIT</span>
+        <span>🇮🇹 SCA</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1158,9 +1144,39 @@
         <span>0</span>
     </div>
     <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bussinello'">
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/serrurier'">
     <div class="w_left w_40">
-        <span>🇮🇹 BUS</span>
+        <span>🇿🇦 SER</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/solana'">
+    <div class="w_left w_40">
+        <span>🇲🇽 SOL</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/tingle'">
+    <div class="w_left w_40">
+        <span>🇿🇼 TIN</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1176,21 +1192,6 @@
 </div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/vaccarella'">
     <div class="w_left w_40">
         <span>🇮🇹 VAC</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="90.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary clickable" onclick="window.location='/f1/seasons/1965/drivers/bassi'">
-    <div class="w_left w_40">
-        <span>🇮🇹 BAS</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1320,18 +1321,18 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇲🇽 ROD</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
         <span>🇺🇸 BUC</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇲🇽 ROD</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -1345,94 +1346,6 @@
 </div><div class="widget_summary">
     <div class="w_left w_40">
         <span>🇳🇿 AMO</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 CHA</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇬🇧 HAI</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 PRE</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇼 LOV</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇸🇪 BON</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 DE </span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇼 TIN</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇮🇹 SCA</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇧🇪 BIA</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇦🇺 GAR</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇲🇽 SOL</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1456,7 +1369,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇺🇸 BON</span>
+        <span>🇮🇹 BAS</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1464,7 +1377,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇮🇹 RUS</span>
+        <span>🇧🇪 BIA</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1472,31 +1385,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇬🇧 IRE</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇦🇺 HAW</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇬🇧 PRO</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 MAG</span>
+        <span>🇿🇦 BLI</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1512,6 +1401,102 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
+        <span>🇺🇸 BON</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇸🇪 BON</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇮🇹 BUS</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇿🇦 CHA</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇿🇦 CLA</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇿🇦 DE </span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇦🇺 GAR</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇺🇸 GRE</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇬🇧 GUB</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇬🇧 HAI</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇦🇺 HAW</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇬🇧 IRE</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
         <span>🇿🇦 LED</span>
     </div>
     <div class="w_left w_60">
@@ -1520,7 +1505,23 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇿🇦 SER</span>
+        <span>🇿🇼 LOV</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇿🇦 MAG</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇩🇪 MIT</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1544,47 +1545,23 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
+        <span>🇿🇦 PRE</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇬🇧 PRO</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
         <span>🇿🇼 PUZ</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 REE</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 CLA</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇿🇦 BLI</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇺🇸 GRE</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇬🇧 RHO</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1600,6 +1577,22 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
+        <span>🇿🇦 REE</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇬🇧 RHO</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
         <span>🇬🇧 ROL</span>
     </div>
     <div class="w_left w_60">
@@ -1608,7 +1601,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇬🇧 GUB</span>
+        <span>🇮🇹 RUS</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1616,7 +1609,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇩🇪 MIT</span>
+        <span>🇮🇹 SCA</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1624,7 +1617,23 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇮🇹 BUS</span>
+        <span>🇿🇦 SER</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇲🇽 SOL</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇿🇼 TIN</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1633,14 +1642,6 @@
 </div><div class="widget_summary">
     <div class="w_left w_40">
         <span>🇮🇹 VAC</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇮🇹 BAS</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -1658,12 +1659,12 @@
         <div class="x_content">
             <h4></h4>
                 <div class="">
-        <table class="table table-striped text-right">
+        <table class="table text-right table-striped">
             <thead>
                 <tr><th></th><th><abbr title="Wins">W</abbr></th><th><abbr title="Podiums">T3</abbr></th><th><abbr title="Top 10">T10</abbr></th><th><abbr title="Pole Position">P1</abbr></th><th><abbr title="Fastest Lap">FL</abbr></th><th><abbr title="Participations">P</abbr></th><th><abbr title="Races Finished">F</abbr></th><th><abbr title="Did Not Finish">DNF</abbr></th><th><abbr title="Did Not Start">DNS</abbr></th></tr>
             </thead>
             <tbody>
-                <tr><td>CLA</td><td>6</td><td>6</td><td>7</td><td>6</td><td>0</td><td>9</td><td>7</td><td>2</td><td>0</td></tr><tr><td>HIL</td><td>2</td><td>6</td><td>9</td><td>4</td><td>0</td><td>10</td><td>9</td><td>1</td><td>0</td></tr><tr><td>STE</td><td>1</td><td>5</td><td>7</td><td>0</td><td>0</td><td>10</td><td>7</td><td>3</td><td>0</td></tr><tr><td>GUR</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>9</td><td>7</td><td>2</td><td>0</td></tr><tr><td>SUR</td><td>0</td><td>3</td><td>5</td><td>0</td><td>0</td><td>8</td><td>5</td><td>3</td><td>0</td></tr><tr><td>BAN</td><td>0</td><td>1</td><td>8</td><td>0</td><td>0</td><td>10</td><td>9</td><td>1</td><td>0</td></tr><tr><td>GIN</td><td>1</td><td>1</td><td>4</td><td>0</td><td>0</td><td>8</td><td>5</td><td>3</td><td>0</td></tr><tr><td>SPE</td><td>0</td><td>1</td><td>6</td><td>0</td><td>0</td><td>9</td><td>7</td><td>2</td><td>0</td></tr><tr><td>MCL</td><td>0</td><td>1</td><td>5</td><td>0</td><td>0</td><td>10</td><td>5</td><td>5</td><td>0</td></tr><tr><td>BRA</td><td>0</td><td>1</td><td>4</td><td>0</td><td>0</td><td>7</td><td>4</td><td>3</td><td>0</td></tr><tr><td>HUL</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>6</td><td>3</td><td>3</td><td>0</td></tr><tr><td>SIF</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>10</td><td>8</td><td>2</td><td>0</td></tr><tr><td>RIN</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>10</td><td>5</td><td>4</td><td>1</td></tr><tr><td>ROD</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>BUC</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>6</td><td>2</td><td>4</td><td>0</td></tr><tr><td>ATT</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>8</td><td>6</td><td>2</td><td>0</td></tr><tr><td>AMO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td></tr><tr><td>CHA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>HAI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>PRE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>LOV</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>BON</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>10</td><td>5</td><td>5</td><td>0</td></tr><tr><td>DE </td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>TIN</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>SCA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>BIA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>GAR</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>7</td><td>3</td><td>4</td><td>0</td></tr><tr><td>SOL</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>AND</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>5</td><td>2</td><td>3</td><td>0</td></tr><tr><td>BAG</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>BON</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>RUS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>IRE</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>7</td><td>3</td><td>3</td><td>1</td></tr><tr><td>HAW</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>PRO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>MAG</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>BLO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>LED</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>SER</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>NIE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>PIE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>PUZ</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>REE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>CLA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>BLI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>GRE</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>4</td><td>2</td><td>2</td><td>0</td></tr><tr><td>RHO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>RAB</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>ROL</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>GUB</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>MIT</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>BUS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>VAC</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>BAS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr>
+                <tr><td>CLA</td><td>6</td><td>6</td><td>7</td><td>6</td><td>0</td><td>9</td><td>7</td><td>2</td><td>0</td></tr><tr><td>HIL</td><td>2</td><td>6</td><td>9</td><td>4</td><td>0</td><td>10</td><td>9</td><td>1</td><td>0</td></tr><tr><td>STE</td><td>1</td><td>5</td><td>7</td><td>0</td><td>0</td><td>10</td><td>7</td><td>3</td><td>0</td></tr><tr><td>GUR</td><td>0</td><td>5</td><td>7</td><td>0</td><td>0</td><td>9</td><td>7</td><td>2</td><td>0</td></tr><tr><td>SUR</td><td>0</td><td>3</td><td>5</td><td>0</td><td>0</td><td>8</td><td>5</td><td>3</td><td>0</td></tr><tr><td>BAN</td><td>0</td><td>1</td><td>8</td><td>0</td><td>0</td><td>10</td><td>9</td><td>1</td><td>0</td></tr><tr><td>GIN</td><td>1</td><td>1</td><td>4</td><td>0</td><td>0</td><td>8</td><td>5</td><td>3</td><td>0</td></tr><tr><td>SPE</td><td>0</td><td>1</td><td>6</td><td>0</td><td>0</td><td>9</td><td>7</td><td>2</td><td>0</td></tr><tr><td>MCL</td><td>0</td><td>1</td><td>5</td><td>0</td><td>0</td><td>10</td><td>5</td><td>5</td><td>0</td></tr><tr><td>BRA</td><td>0</td><td>1</td><td>4</td><td>0</td><td>0</td><td>7</td><td>4</td><td>3</td><td>0</td></tr><tr><td>HUL</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>6</td><td>3</td><td>3</td><td>0</td></tr><tr><td>SIF</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>10</td><td>8</td><td>2</td><td>0</td></tr><tr><td>RIN</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>10</td><td>5</td><td>4</td><td>1</td></tr><tr><td>BUC</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>6</td><td>2</td><td>4</td><td>0</td></tr><tr><td>ROD</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>ATT</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>8</td><td>6</td><td>2</td><td>0</td></tr><tr><td>AMO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td></tr><tr><td>AND</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>5</td><td>2</td><td>3</td><td>0</td></tr><tr><td>BAG</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>BAS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>BIA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>BLI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>BLO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>BON</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>BON</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>10</td><td>5</td><td>5</td><td>0</td></tr><tr><td>BUS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>CHA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>CLA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>DE </td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>GAR</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>7</td><td>3</td><td>4</td><td>0</td></tr><tr><td>GRE</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>4</td><td>2</td><td>2</td><td>0</td></tr><tr><td>GUB</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>HAI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>HAW</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>IRE</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>7</td><td>3</td><td>3</td><td>1</td></tr><tr><td>LED</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>LOV</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>MAG</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>MIT</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>NIE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>PIE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>PRE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>PRO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>PUZ</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>RAB</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>REE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>RHO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>ROL</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>RUS</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>SCA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>SER</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>SOL</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>TIN</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>VAC</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr>
             </tbody>
         </table>
     </div>
@@ -1816,7 +1817,22 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
     <div class="w_left w_40">
-        <span>🇿🇼 RE</span>
+        <span>🇬🇧 Brabham-Ford</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="150.0" style="width: 0%;">
+                <span class="sr-only">0.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary " >
+    <div class="w_left w_40">
+        <span>🇬🇧 Cooper-Ford</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1846,22 +1862,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
     <div class="w_left w_40">
-        <span>🇬🇧 Lotus-Ford</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="150.0" style="width: 0%;">
-                <span class="sr-only">0.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary " >
-    <div class="w_left w_40">
-        <span>🇬🇧 Brabham-Ford</span>
+        <span>🇿🇦 LDS-Alfa Romeo</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1891,7 +1892,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
     <div class="w_left w_40">
-        <span>🇿🇦 LDS-Alfa Romeo</span>
+        <span>🇬🇧 Lotus-Ford</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -1906,7 +1907,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
     <div class="w_left w_40">
-        <span>🇬🇧 Cooper-Ford</span>
+        <span>🇿🇼 RE</span>
     </div>
     <div class="w_center w_45">
         <div class="progress">
@@ -2004,7 +2005,15 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇿🇼 RE</span>
+        <span>🇬🇧 Brabham-Ford</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇬🇧 Cooper-Ford</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -2020,15 +2029,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇬🇧 Lotus-Ford</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇬🇧 Brabham-Ford</span>
+        <span>🇿🇦 LDS-Alfa Romeo</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -2044,7 +2045,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇿🇦 LDS-Alfa Romeo</span>
+        <span>🇬🇧 Lotus-Ford</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -2052,7 +2053,7 @@
     <div class="clearfix"></div>
 </div><div class="widget_summary">
     <div class="w_left w_40">
-        <span>🇬🇧 Cooper-Ford</span>
+        <span>🇿🇼 RE</span>
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0</span>
@@ -2070,12 +2071,12 @@
         <div class="x_content">
             <h4></h4>
                 <div class="">
-        <table class="table table-striped text-right">
+        <table class="table text-right table-striped">
             <thead>
                 <tr><th></th><th><abbr title="Wins">W</abbr></th><th><abbr title="Podiums">T3</abbr></th><th><abbr title="Top 10">T10</abbr></th><th><abbr title="Pole Position">P1</abbr></th><th><abbr title="Fastest Lap">FL</abbr></th><th><abbr title="Participations">P</abbr></th><th><abbr title="Races Finished">F</abbr></th><th><abbr title="Did Not Finish">DNF</abbr></th><th><abbr title="Did Not Start">DNS</abbr></th></tr>
             </thead>
             <tbody>
-                <tr><td>BRM</td><td>3</td><td>11</td><td>17</td><td>4</td><td>0</td><td>28</td><td>20</td><td>7</td><td>1</td></tr><tr><td>Lotus-Climax</td><td>6</td><td>7</td><td>14</td><td>6</td><td>0</td><td>28</td><td>16</td><td>8</td><td>4</td></tr><tr><td>Brabham-Climax</td><td>0</td><td>6</td><td>21</td><td>0</td><td>0</td><td>39</td><td>21</td><td>17</td><td>1</td></tr><tr><td>Ferrari</td><td>0</td><td>4</td><td>16</td><td>0</td><td>0</td><td>23</td><td>18</td><td>4</td><td>1</td></tr><tr><td>Cooper-Climax</td><td>0</td><td>1</td><td>8</td><td>0</td><td>0</td><td>23</td><td>10</td><td>11</td><td>2</td></tr><tr><td>Honda</td><td>1</td><td>1</td><td>5</td><td>0</td><td>0</td><td>14</td><td>7</td><td>7</td><td>0</td></tr><tr><td>Brabham-BRM</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>18</td><td>12</td><td>6</td><td>0</td></tr><tr><td>Lotus-BRM</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>20</td><td>10</td><td>9</td><td>1</td></tr><tr><td>Alfa Romeo</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>RE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Cooper-Maserati</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Lotus-Ford</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Brabham-Ford</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>LDS-Climax</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>LDS-Alfa Romeo</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>Cooper-Ford</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
+                <tr><td>BRM</td><td>3</td><td>11</td><td>17</td><td>4</td><td>0</td><td>28</td><td>20</td><td>7</td><td>1</td></tr><tr><td>Lotus-Climax</td><td>6</td><td>7</td><td>14</td><td>6</td><td>0</td><td>28</td><td>16</td><td>8</td><td>4</td></tr><tr><td>Brabham-Climax</td><td>0</td><td>6</td><td>21</td><td>0</td><td>0</td><td>39</td><td>21</td><td>17</td><td>1</td></tr><tr><td>Ferrari</td><td>0</td><td>4</td><td>16</td><td>0</td><td>0</td><td>23</td><td>18</td><td>4</td><td>1</td></tr><tr><td>Cooper-Climax</td><td>0</td><td>1</td><td>8</td><td>0</td><td>0</td><td>23</td><td>10</td><td>11</td><td>2</td></tr><tr><td>Honda</td><td>1</td><td>1</td><td>5</td><td>0</td><td>0</td><td>14</td><td>7</td><td>7</td><td>0</td></tr><tr><td>Brabham-BRM</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>18</td><td>12</td><td>6</td><td>0</td></tr><tr><td>Lotus-BRM</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>20</td><td>10</td><td>9</td><td>1</td></tr><tr><td>Alfa Romeo</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Brabham-Ford</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>Cooper-Ford</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Cooper-Maserati</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>LDS-Alfa Romeo</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>LDS-Climax</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Lotus-Ford</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td></tr><tr><td>RE</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
             </tbody>
         </table>
     </div>
@@ -2092,12 +2093,12 @@
         <div class="x_content">
             <h4></h4>
                 <div class="table-responsive">
-        <table class="table table-heatmap table-responsive">
+        <table class="table table-responsive table-heatmap">
             <thead>
                 <tr><th></th><th>SOU 🇿🇦</th><th>MON 🇲🇨</th><th>BEL 🇧🇪</th><th>FRA 🇫🇷</th><th>UK 🇬🇧</th><th>NET 🇳🇱</th><th>GER 🇩🇪</th><th>ITA 🇮🇹</th><th>USA 🇺🇸</th><th>MEX 🇲🇽</th></tr>
             </thead>
             <tbody>
-                <tr><td><div class="title">CLA</div></td><td><div class="pos1 points">9</div></td><td><div class="no-result"></div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos10 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">HIL</div></td><td><div class="pos3 points">4</div></td><td><div class="pos1 points">9</div></td><td><div class="pos5 points">2</div></td><td><div class="pos5 points">2</div></td><td><div class="pos2 points">6</div></td><td><div class="pos4 points">3</div></td><td><div class="pos2 points">6</div></td><td><div class="pos2 points">6</div></td><td><div class="pos1 points">9</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">STE</div></td><td><div class="pos6 points">1</div></td><td><div class="pos3 points">4</div></td><td><div class="pos2 points">6</div></td><td><div class="pos2 points">6</div></td><td><div class="pos5 points">2</div></td><td><div class="pos2 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="pos1 points">9</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">GUR</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos10 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos3 points">4</div></td><td><div class="pos3 points">4</div></td><td><div class="pos3 points">4</div></td><td><div class="pos2 points">6</div></td><td><div class="pos2 points">6</div></td></tr><tr><td><div class="title">SUR</div></td><td><div class="pos2 points">6</div></td><td><div class="pos4 points">3</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">4</div></td><td><div class="pos3 points">4</div></td><td><div class="pos7 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BAN</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos2 points">6</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos4 points">3</div></td><td><div class="pos4 points">3</div></td><td><div class="pos8 no-points">0</div></td></tr><tr><td><div class="title">GIN</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="no-result"></div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos1 points">9</div></td></tr><tr><td><div class="title">SPE</div></td><td><div class="pos4 points">3</div></td><td><div class="no-result"></div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos4 points">3</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">4</div></td></tr><tr><td><div class="title">MCL</div></td><td><div class="pos5 points">2</div></td><td><div class="pos5 points">2</div></td><td><div class="pos3 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">BRA</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">3</div></td><td><div class="no-result"></div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos5 points">2</div></td><td><div class="no-result"></div></td><td><div class="pos3 points">4</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">HUL</div></td><td><div class="no-result"></div></td><td><div class="pos8 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos4 points">3</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SIF</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos8 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos4 points">3</div></td></tr><tr><td><div class="title">RIN</div></td><td><div class="posR no-points">0</div></td><td><div class="posF no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">3</div></td><td><div class="pos8 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">ROD</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos5 points">2</div></td><td><div class="pos7 no-points">0</div></td></tr><tr><td><div class="title">BUC</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos5 points">2</div></td></tr><tr><td><div class="title">ATT</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos10 no-points">0</div></td><td><div class="pos6 points">1</div></td></tr><tr><td><div class="title">AMO</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">CHA</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HAI</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PRE</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">LOV</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BON</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">DE </div></td><td><div class="pos10 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">TIN</div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SCA</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posW no-points">0</div></td></tr><tr><td><div class="title">BIA</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GAR</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos8 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SOL</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">AND</div></td><td><div class="posN no-points">0</div></td><td><div class="pos9 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos9 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BAG</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BON</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos9 no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">RUS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">IRE</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos9 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posW no-points">0</div></td></tr><tr><td><div class="title">HAW</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos10 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PRO</div></td><td><div class="pos14 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MAG</div></td><td><div class="pos11 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BLO</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">LED</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SER</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">NIE</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PIE</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PUZ</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">REE</div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">CLA</div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BLI</div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GRE</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RHO</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RAB</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos11 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">ROL</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GUB</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MIT</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BUS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VAC</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BAS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr>
+                <tr><td><div class="title">CLA</div></td><td><div class="pos1 points">9</div></td><td><div class="no-result"></div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos1 points">9</div></td><td><div class="pos10 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">HIL</div></td><td><div class="pos3 points">4</div></td><td><div class="pos1 points">9</div></td><td><div class="pos5 points">2</div></td><td><div class="pos5 points">2</div></td><td><div class="pos2 points">6</div></td><td><div class="pos4 points">3</div></td><td><div class="pos2 points">6</div></td><td><div class="pos2 points">6</div></td><td><div class="pos1 points">9</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">STE</div></td><td><div class="pos6 points">1</div></td><td><div class="pos3 points">4</div></td><td><div class="pos2 points">6</div></td><td><div class="pos2 points">6</div></td><td><div class="pos5 points">2</div></td><td><div class="pos2 points">6</div></td><td><div class="posR no-points">0</div></td><td><div class="pos1 points">9</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">GUR</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos10 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos3 points">4</div></td><td><div class="pos3 points">4</div></td><td><div class="pos3 points">4</div></td><td><div class="pos2 points">6</div></td><td><div class="pos2 points">6</div></td></tr><tr><td><div class="title">SUR</div></td><td><div class="pos2 points">6</div></td><td><div class="pos4 points">3</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">4</div></td><td><div class="pos3 points">4</div></td><td><div class="pos7 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BAN</div></td><td><div class="pos15 no-points">0</div></td><td><div class="pos2 points">6</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos4 points">3</div></td><td><div class="pos4 points">3</div></td><td><div class="pos8 no-points">0</div></td></tr><tr><td><div class="title">GIN</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="no-result"></div></td><td><div class="pos14 no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos1 points">9</div></td></tr><tr><td><div class="title">SPE</div></td><td><div class="pos4 points">3</div></td><td><div class="no-result"></div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos4 points">3</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos3 points">4</div></td></tr><tr><td><div class="title">MCL</div></td><td><div class="pos5 points">2</div></td><td><div class="pos5 points">2</div></td><td><div class="pos3 points">4</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">BRA</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">3</div></td><td><div class="no-result"></div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos5 points">2</div></td><td><div class="no-result"></div></td><td><div class="pos3 points">4</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">HUL</div></td><td><div class="no-result"></div></td><td><div class="pos8 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos4 points">3</div></td><td><div class="posR no-points">0</div></td><td><div class="pos5 points">2</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SIF</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos8 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="pos4 points">3</div></td></tr><tr><td><div class="title">RIN</div></td><td><div class="posR no-points">0</div></td><td><div class="posF no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos4 points">3</div></td><td><div class="pos8 no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">BUC</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos5 points">2</div></td></tr><tr><td><div class="title">ROD</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos5 points">2</div></td><td><div class="pos7 no-points">0</div></td></tr><tr><td><div class="title">ATT</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="pos14 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos6 points">1</div></td><td><div class="pos10 no-points">0</div></td><td><div class="pos6 points">1</div></td></tr><tr><td><div class="title">AMO</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">AND</div></td><td><div class="posN no-points">0</div></td><td><div class="pos9 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos9 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BAG</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BAS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BIA</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BLI</div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BLO</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">BON</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos9 no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">BON</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos7 no-points">0</div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">BUS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">CHA</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">CLA</div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">DE </div></td><td><div class="pos10 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GAR</div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos8 no-points">0</div></td><td><div class="pos11 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GRE</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos8 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">GUB</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HAI</div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">HAW</div></td><td><div class="pos9 no-points">0</div></td><td><div class="pos10 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">IRE</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos13 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="pos10 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="pos9 no-points">0</div></td><td><div class="posR no-points">0</div></td><td><div class="posW no-points">0</div></td></tr><tr><td><div class="title">LED</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">LOV</div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MAG</div></td><td><div class="pos11 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">MIT</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">NIE</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PIE</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PRE</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PRO</div></td><td><div class="pos14 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">PUZ</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RAB</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos11 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">REE</div></td><td><div class="posW no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RHO</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">ROL</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">RUS</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posR no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SCA</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="posW no-points">0</div></td></tr><tr><td><div class="title">SER</div></td><td><div class="posF no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">SOL</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="posR no-points">0</div></td></tr><tr><td><div class="title">TIN</div></td><td><div class="pos13 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr><tr><td><div class="title">VAC</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td><td><div class="pos12 no-points">0</div></td><td><div class="no-result"></div></td><td><div class="no-result"></div></td></tr>
             </tbody>
         </table>
     </div>
@@ -2114,7 +2115,7 @@
         <div class="x_content">
             <h4></h4>
                 <div class="table-responsive">
-        <table class="table table-striped table-responsive">
+        <table class="table table-responsive table-striped">
             <thead>
                 <tr><th>#</th><th>Race</th><th>Circuit</th><th>Date</th><th>Laps</th><th>Duration</th><th>1<sup>st</sup> Place</th><th>Pole</th><th>Pole Time</th></tr>
             </thead>
