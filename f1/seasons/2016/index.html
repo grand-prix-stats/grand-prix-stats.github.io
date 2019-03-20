@@ -19,18 +19,18 @@
     <meta name="twitter:site" content="@grandprixstats">
 <meta name="twitter:creator" content="@grandprixstats">
 <meta name="twitter:title" content="Formula 1® Season 2016">
-<meta name="twitter:url" content="http://www.grandprixstats.org/f1/seasons/2016/">
+<meta name="twitter:url" content="http://localhost:4000/f1/seasons/2016/">
 
 <meta name="twitter:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta name="twitter:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
     <meta property="og:title" content="Formula 1® Season 2016">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.grandprixstats.org/f1/seasons/2016/">
-<meta property="og:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta property="og:url" content="http://localhost:4000/f1/seasons/2016/">
+<meta property="og:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
 <meta property="og:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
@@ -48,8 +48,8 @@
     <link href="/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
     <link href="/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/custom.css">
-    <link rel="canonical" href="http://www.grandprixstats.org/f1/seasons/2016/">
-    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://www.grandprixstats.org/feed.xml">
+    <link rel="canonical" href="http://localhost:4000/f1/seasons/2016/">
+    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://localhost:4000/feed.xml">
     <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.js"></script> -->
     <script src="/vendors/jquery/dist/jquery.min.js"></script>
@@ -223,7 +223,7 @@
         var data = {
             datasets: [{
                 data: [9,10,1,1],
-                backgroundColor: ["##888888","##888888","##888888","##888888"]
+                backgroundColor: ["#18A19B","#18A19B","#021F48","#021F48"]
             }],
             labels: ["Rosberg","Hamilton","Ricciardo","Verstappen"]
         };
@@ -249,7 +249,7 @@
         var data = {
             datasets: [{
                 data: [19,2],
-                backgroundColor: ["##18A19B","##021F48"]
+                backgroundColor: ["#18A19B","#021F48"]
             }],
             labels: ["Mercedes","Red Bull"]
         };
@@ -275,7 +275,7 @@
         var data = {
             datasets: [{
                 data: [16,17,8,7,7,4,2,1,1],
-                backgroundColor: ["##888888","##888888","##888888","##888888","##888888","##888888","##888888","##888888","##888888"]
+                backgroundColor: ["#18A19B","#18A19B","#021F48","#E00D19","#021F48","#E00D19","#F07840","#EAE4ED","#031D87"]
             }],
             labels: ["Rosberg","Hamilton","Ricciardo","Vettel","Verstappen","Räikkönen","Pérez","Bottas","Kvyat"]
         };
@@ -301,7 +301,7 @@
         var data = {
             datasets: [{
                 data: [33,16,11,2,1],
-                backgroundColor: ["##18A19B","##021F48","##E00D19","##F07840","##EAE4ED"]
+                backgroundColor: ["#18A19B","#021F48","#E00D19","#F07840","#EAE4ED"]
             }],
             labels: ["Mercedes","Red Bull","Ferrari","Force India","Williams"]
         };
@@ -333,8 +333,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "##888888",
-    backgroundColor: "##888888",
+    borderColor: "#18A19B",
+    backgroundColor: "#18A19B",
     data: [25,50,75,100,100,106,116,141,153,168,186,198,223,248,273,288,313,331,349,367,385]
 },{
     fill: false,
@@ -342,8 +342,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "##888888",
-    backgroundColor: "##888888",
+    borderColor: "#18A19B",
+    backgroundColor: "#18A19B",
     data: [18,33,39,57,57,82,107,117,142,167,192,217,232,250,265,265,280,305,330,355,380]
 },{
     fill: false,
@@ -351,8 +351,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "##888888",
-    backgroundColor: "##888888",
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
     data: [12,24,36,36,48,66,72,78,88,100,115,133,151,161,179,204,212,227,242,246,256]
 },{
     fill: false,
@@ -360,8 +360,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "##888888",
-    backgroundColor: "##888888",
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
     data: [15,15,33,33,48,60,78,96,96,98,110,120,128,143,153,153,165,177,187,197,212]
 },{
     fill: false,
@@ -369,8 +369,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "##888888",
-    backgroundColor: "##888888",
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
     data: [1,9,13,13,38,38,50,54,72,90,100,115,115,121,129,147,165,165,177,192,204]
 }],
             labels: ["AUS 🇦🇺","BAH 🇧🇭","CHI 🇨🇳","RUS 🇷🇺","SPA 🇪🇸","MON 🇲🇨","CAN 🇨🇦","AZE 🇦🇿","AUS 🇦🇹","UK 🇬🇧","HUN 🇭🇺","GER 🇩🇪","BEL 🇧🇪","ITA 🇮🇹","SIN 🇸🇬","MAL 🇲🇾","JAP 🇯🇵","USA 🇺🇸","MEX 🇲🇽","BRA 🇧🇷","UAE 🇦🇪"]
@@ -1288,7 +1288,7 @@
         <div class="x_content">
             <h4></h4>
                 <div class="table-responsive">
-        <table class="table table-responsive table-heatmap">
+        <table class="table table-heatmap table-responsive">
             <thead>
                 <tr><th></th><th>AUS 🇦🇺</th><th>BAH 🇧🇭</th><th>CHI 🇨🇳</th><th>RUS 🇷🇺</th><th>SPA 🇪🇸</th><th>MON 🇲🇨</th><th>CAN 🇨🇦</th><th>AZE 🇦🇿</th><th>AUS 🇦🇹</th><th>UK 🇬🇧</th><th>HUN 🇭🇺</th><th>GER 🇩🇪</th><th>BEL 🇧🇪</th><th>ITA 🇮🇹</th><th>SIN 🇸🇬</th><th>MAL 🇲🇾</th><th>JAP 🇯🇵</th><th>USA 🇺🇸</th><th>MEX 🇲🇽</th><th>BRA 🇧🇷</th><th>UAE 🇦🇪</th></tr>
             </thead>
@@ -1310,7 +1310,7 @@
         <div class="x_content">
             <h4></h4>
                 <div class="table-responsive">
-        <table class="table table-responsive table-striped">
+        <table class="table table-striped table-responsive">
             <thead>
                 <tr><th>#</th><th>Race</th><th>Circuit</th><th>Date</th><th>Laps</th><th>Duration</th><th>1<sup>st</sup> Place</th><th>Pole</th><th>Pole Time</th></tr>
             </thead>
