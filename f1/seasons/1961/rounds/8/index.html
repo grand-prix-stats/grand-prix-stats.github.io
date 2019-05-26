@@ -234,6 +234,15 @@
     data: []
 },{
     fill: false,
+    label: "Masten Gregory 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#025839",
+    backgroundColor: "#025839",
+    data: []
+},{
+    fill: false,
     label: "Roy Salvadori 🇬🇧",
     lineTension: 0.2,
     pointRadius: 0,
@@ -696,6 +705,39 @@
                 maintainAspectRatio: false
             };
             var ctx = document.getElementById("bar-chart-lap-times-vs-leader-gendebien").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-gregory"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Masten Gregory 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: []
+},{
+    fill: false,
+    label: "Masten Gregory 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: []
+}],
+                labels: []
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-gregory").getContext('2d');
             new Chart(ctx, { type: 'bar', data: data, options: options });
         });
     </script>    <div class="chart-container" style="height: 150px;">
