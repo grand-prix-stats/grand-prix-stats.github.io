@@ -163,6 +163,34 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
+            <h2>Lap Times: Gap From Average Lap</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>French Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-from-average-lap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-from-average-lap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
             <h2>Lap Time Deltas: Driver vs. Race Leader</h2>
             <div class="clearfix"></div>
         </div>

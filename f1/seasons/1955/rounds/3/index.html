@@ -464,6 +464,349 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
+            <h2>Lap Times: Gap From Average Lap</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Indianapolis 500</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-from-average-lap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Bob Sweikert 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Tony Bettenhausen 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Paul Russo 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Jimmy Davies 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Johnny Thomson 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#C4333B",
+    backgroundColor: "#C4333B",
+    data: []
+},{
+    fill: false,
+    label: "Walt Faulkner 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Bill Homeier 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Andy Linden 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Al Herman 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Pat O'Connor 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Jimmy Daywalt 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Pat Flaherty 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Duane Carter 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#C4333B",
+    backgroundColor: "#C4333B",
+    data: []
+},{
+    fill: false,
+    label: "Chuck Weyant 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Eddie Johnson 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Jim Rathmann 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#DBC75F",
+    backgroundColor: "#DBC75F",
+    data: []
+},{
+    fill: false,
+    label: "Don Freeland 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Cal Niday 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Art Cross 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Shorty Templeman 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Sam Hanks 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Keith Andrews 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Johnnie Parsons 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Eddie Russo 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Ray Crawford 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Jimmy Bryan 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#C4333B",
+    backgroundColor: "#C4333B",
+    data: []
+},{
+    fill: false,
+    label: "Bill Vukovich 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Jack McGrath 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Al Keller 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Rodger Ward 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#C4333B",
+    backgroundColor: "#C4333B",
+    data: []
+},{
+    fill: false,
+    label: "Johnny Boyd 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Ed Elisian 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Jerry Hoyt 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Fred Agabashian 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#D33949",
+    backgroundColor: "#D33949",
+    data: []
+},{
+    fill: false,
+    label: "Jimmy Reece 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+}],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-from-average-lap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
             <h2>Lap Time Deltas: Driver vs. Race Leader</h2>
             <div class="clearfix"></div>
         </div>

@@ -392,6 +392,268 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
+            <h2>Lap Times: Gap From Average Lap</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>French Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-from-average-lap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Alain Prost 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1AA1DB",
+    backgroundColor: "#1AA1DB",
+    data: []
+},{
+    fill: false,
+    label: "Damon Hill 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1AA1DB",
+    backgroundColor: "#1AA1DB",
+    data: []
+},{
+    fill: false,
+    label: "Michael Schumacher 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#73C2FB",
+    backgroundColor: "#73C2FB",
+    data: []
+},{
+    fill: false,
+    label: "Ayrton Senna 🇧🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: []
+},{
+    fill: false,
+    label: "Martin Brundle 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#0F5DBB",
+    backgroundColor: "#0F5DBB",
+    data: []
+},{
+    fill: false,
+    label: "Michael Andretti 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: []
+},{
+    fill: false,
+    label: "Rubens Barrichello 🇧🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FFFF01",
+    backgroundColor: "#FFFF01",
+    data: []
+},{
+    fill: false,
+    label: "Christian Fittipaldi 🇧🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1B1D1D",
+    backgroundColor: "#1B1D1D",
+    data: []
+},{
+    fill: false,
+    label: "Philippe Alliot 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Riccardo Patrese 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#73C2FB",
+    backgroundColor: "#73C2FB",
+    data: []
+},{
+    fill: false,
+    label: "Thierry Boutsen 🇧🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FFFF01",
+    backgroundColor: "#FFFF01",
+    data: []
+},{
+    fill: false,
+    label: "Aguri Suzuki 🇯🇵",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Derek Warwick 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Gerhard Berger 🇦🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
+    data: []
+},{
+    fill: false,
+    label: "Andrea de Cesaris 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#274B72",
+    backgroundColor: "#274B72",
+    data: []
+},{
+    fill: false,
+    label: "Érik Comas 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Jean Alesi 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
+    data: []
+},{
+    fill: false,
+    label: "Luca Badoer 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Karl Wendlinger 🇦🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#8D1028",
+    backgroundColor: "#8D1028",
+    data: []
+},{
+    fill: false,
+    label: "Jyrki Järvilehto 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#8D1028",
+    backgroundColor: "#8D1028",
+    data: []
+},{
+    fill: false,
+    label: "Mark Blundell 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#0F5DBB",
+    backgroundColor: "#0F5DBB",
+    data: []
+},{
+    fill: false,
+    label: "Johnny Herbert 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#09630C",
+    backgroundColor: "#09630C",
+    data: []
+},{
+    fill: false,
+    label: "Fabrizio Barbazza 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1B1D1D",
+    backgroundColor: "#1B1D1D",
+    data: []
+},{
+    fill: false,
+    label: "Ukyo Katayama 🇯🇵",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#274B72",
+    backgroundColor: "#274B72",
+    data: []
+},{
+    fill: false,
+    label: "Alessandro Zanardi 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#09630C",
+    backgroundColor: "#09630C",
+    data: []
+},{
+    fill: false,
+    label: "Michele Alboreto 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+}],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-from-average-lap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
             <h2>Lap Time Deltas: Driver vs. Race Leader</h2>
             <div class="clearfix"></div>
         </div>
