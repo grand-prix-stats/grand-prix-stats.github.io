@@ -300,10 +300,10 @@
     $(function() {
         var data = {
             datasets: [{
-                data: [13,2,3,1,1,2],
-                backgroundColor: ["#8D1028","#888888","#E00D19","#D33949","#C0BEC3","#888888"]
+                data: [12,4,2,1,1,2],
+                backgroundColor: ["#8D1028","#E00D19","#888888","#D33949","#C0BEC3","#888888"]
             }],
-            labels: ["Alfa Romeo","Talbot-Lago","Ferrari","Kurtis Kraft","Maserati","Deidt"]
+            labels: ["Alfa Romeo","Ferrari","Talbot-Lago","Kurtis Kraft","Maserati","Deidt"]
         };
         var ctx = document.getElementById("donut-chart-team-podiums").getContext('2d');
         new Chart(ctx, { type: 'doughnut', data: data, options: {} });
@@ -2307,13 +2307,28 @@
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="92.0" aria-valuemin="0" aria-valuemax="103.0" style="width: 89%;">
-                <span class="sr-only">92.0</span>
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="89.0" aria-valuemin="0" aria-valuemax="103.0" style="width: 86%;">
+                <span class="sr-only">89.0</span>
             </div>
         </div>
     </div>
     <div class="w_right w_15">
-        <span>92</span>
+        <span>89</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary " >
+    <div class="w_left w_40">
+        <span>🇮🇹 Ferrari</span>
+    </div>
+    <div class="w_center w_45">
+        <div class="progress">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="21.0" aria-valuemin="0" aria-valuemax="103.0" style="width: 20%;">
+                <span class="sr-only">21.0</span>
+            </div>
+        </div>
+    </div>
+    <div class="w_right w_15">
+        <span>21</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -2329,21 +2344,6 @@
     </div>
     <div class="w_right w_15">
         <span>20</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary " >
-    <div class="w_left w_40">
-        <span>🇮🇹 Ferrari</span>
-    </div>
-    <div class="w_center w_45">
-        <div class="progress">
-            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="18.0" aria-valuemin="0" aria-valuemax="103.0" style="width: 17%;">
-                <span class="sr-only">18.0</span>
-            </div>
-        </div>
-    </div>
-    <div class="w_right w_15">
-        <span>18</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary " >
@@ -2677,7 +2677,15 @@
         <span>🇮🇹 Alfa Romeo</span>
     </div>
     <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">19.0,9.0,0.0,15.0,18.0,15.0,16.0</span>
+        <span class="sparkline bar-sparkline">19.0,9.0,0.0,15.0,18.0,15.0,13.0</span>
+    </div>
+    <div class="clearfix"></div>
+</div><div class="widget_summary">
+    <div class="w_left w_40">
+        <span>🇮🇹 Ferrari</span>
+    </div>
+    <div class="w_left w_60">
+        <span class="sparkline bar-sparkline">0.0,9.0,0.0,0.0,2.0,4.0,6.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -2686,14 +2694,6 @@
     </div>
     <div class="w_left w_60">
         <span class="sparkline bar-sparkline">5.0,0.0,0.0,4.0,4.0,2.0,5.0</span>
-    </div>
-    <div class="clearfix"></div>
-</div><div class="widget_summary">
-    <div class="w_left w_40">
-        <span>🇮🇹 Ferrari</span>
-    </div>
-    <div class="w_left w_60">
-        <span class="sparkline bar-sparkline">0.0,9.0,0.0,0.0,2.0,4.0,3.0</span>
     </div>
     <div class="clearfix"></div>
 </div><div class="widget_summary">
@@ -2881,7 +2881,7 @@
                 <tr><th></th><th><abbr title="Wins">W</abbr></th><th><abbr title="Podiums">T3</abbr></th><th><abbr title="Top 10">T10</abbr></th><th><abbr title="Pole Position">P1</abbr></th><th><abbr title="Fastest Lap">FL</abbr></th><th><abbr title="Participations">P</abbr></th><th><abbr title="Races Finished">F</abbr></th><th><abbr title="Did Not Finish">DNF</abbr></th><th><abbr title="Did Not Start">DNS</abbr></th></tr>
             </thead>
             <tbody>
-                <tr><td>Alfa Romeo</td><td>6</td><td>13</td><td>15</td><td>6</td><td>0</td><td>23</td><td>15</td><td>8</td><td>0</td></tr><tr><td>Talbot-Lago</td><td>0</td><td>2</td><td>17</td><td>0</td><td>0</td><td>37</td><td>18</td><td>19</td><td>0</td></tr><tr><td>Ferrari</td><td>0</td><td>3</td><td>7</td><td>0</td><td>0</td><td>14</td><td>7</td><td>7</td><td>0</td></tr><tr><td>Kurtis Kraft</td><td>1</td><td>1</td><td>6</td><td>1</td><td>0</td><td>15</td><td>11</td><td>4</td><td>0</td></tr><tr><td>Maserati</td><td>0</td><td>1</td><td>12</td><td>0</td><td>0</td><td>35</td><td>14</td><td>21</td><td>0</td></tr><tr><td>Deidt</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>Simca</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>5</td><td>1</td><td>4</td><td>0</td></tr><tr><td>ERA</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>8</td><td>3</td><td>5</td><td>0</td></tr><tr><td>Moore</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Adams</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td></tr><tr><td>Alta</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td><td>1</td><td>2</td><td>0</td></tr><tr><td>Cooper</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Ewing</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Langley</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Lesovsky</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>Marchese</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Milano</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Nichels</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Olson</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Rae</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Snowberger</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Stevens</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Watson</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Wetteroth</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr>
+                <tr><td>Alfa Romeo</td><td>6</td><td>12</td><td>14</td><td>6</td><td>0</td><td>22</td><td>14</td><td>8</td><td>0</td></tr><tr><td>Ferrari</td><td>0</td><td>4</td><td>8</td><td>0</td><td>0</td><td>15</td><td>8</td><td>7</td><td>0</td></tr><tr><td>Talbot-Lago</td><td>0</td><td>2</td><td>17</td><td>0</td><td>0</td><td>37</td><td>18</td><td>19</td><td>0</td></tr><tr><td>Kurtis Kraft</td><td>1</td><td>1</td><td>6</td><td>1</td><td>0</td><td>15</td><td>11</td><td>4</td><td>0</td></tr><tr><td>Maserati</td><td>0</td><td>1</td><td>12</td><td>0</td><td>0</td><td>35</td><td>14</td><td>21</td><td>0</td></tr><tr><td>Deidt</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>Simca</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>5</td><td>1</td><td>4</td><td>0</td></tr><tr><td>ERA</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>8</td><td>3</td><td>5</td><td>0</td></tr><tr><td>Moore</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Adams</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td></tr><tr><td>Alta</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td><td>1</td><td>2</td><td>0</td></tr><tr><td>Cooper</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Ewing</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Langley</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Lesovsky</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>Marchese</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Milano</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Nichels</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Olson</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Rae</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Snowberger</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Stevens</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Watson</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Wetteroth</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr>
             </tbody>
         </table>
     </div>
@@ -2898,7 +2898,7 @@
         <div class="x_content">
             <h4></h4>
                 <div class="table-responsive">
-        <table class="table table-responsive table-heatmap">
+        <table class="table table-heatmap table-responsive">
             <thead>
                 <tr><th></th><th>UK 🇬🇧</th><th>MON 🇲🇨</th><th>USA 🇺🇸</th><th>SWI 🇨🇭</th><th>BEL 🇧🇪</th><th>FRA 🇫🇷</th><th>ITA 🇮🇹</th></tr>
             </thead>
