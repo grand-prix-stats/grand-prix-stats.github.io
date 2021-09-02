@@ -136,6 +136,43 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
+            <h2>Lap Times: Race Leader</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Belgian Grand Prix</h4>
+            <div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-leader-lap-times"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Verstappen",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
+    data: [207.071]
+}],
+            labels: ["1"]
+        };
+        var options = {
+            maintainAspectRatio: false
+        };
+        var ctx = document.getElementById("line-chart-leader-lap-times").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
             <h2>Lap Times: Gap Behind Leader</h2>
             <div class="clearfix"></div>
         </div>
@@ -147,8 +184,188 @@
 <script>
     $(function() {
         var data = {
-            datasets: [],
-            labels: []
+            datasets: [{
+    fill: false,
+    label: "Max Verstappen 🇳🇱",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
+    data: [0]
+},{
+    fill: false,
+    label: "George Russell 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1AA1DB",
+    backgroundColor: "#1AA1DB",
+    data: [-1.9950000000000001]
+},{
+    fill: false,
+    label: "Lewis Hamilton 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#18A19B",
+    backgroundColor: "#18A19B",
+    data: [-2.601]
+},{
+    fill: false,
+    label: "Daniel Ricciardo 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: [-4.4960000000000004]
+},{
+    fill: false,
+    label: "Sebastian Vettel 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-7.4790000000000001]
+},{
+    fill: false,
+    label: "Pierre Gasly 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-10.177]
+},{
+    fill: false,
+    label: "Esteban Ocon 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-11.579000000000001]
+},{
+    fill: false,
+    label: "Charles Leclerc 🇲🇨",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
+    data: [-12.608000000000001]
+},{
+    fill: false,
+    label: "Nicholas Latifi 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1AA1DB",
+    backgroundColor: "#1AA1DB",
+    data: [-15.484999999999999]
+},{
+    fill: false,
+    label: "Carlos Sainz 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
+    data: [-16.166]
+},{
+    fill: false,
+    label: "Fernando Alonso 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-20.59]
+},{
+    fill: false,
+    label: "Valtteri Bottas 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#18A19B",
+    backgroundColor: "#18A19B",
+    data: [-22.414000000000001]
+},{
+    fill: false,
+    label: "Antonio Giovinazzi 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#8D1028",
+    backgroundColor: "#8D1028",
+    data: [-24.163]
+},{
+    fill: false,
+    label: "Lando Norris 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: [-27.109999999999999]
+},{
+    fill: false,
+    label: "Yuki Tsunoda 🇯🇵",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-28.329000000000001]
+},{
+    fill: false,
+    label: "Mick Schumacher 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#B49663",
+    backgroundColor: "#B49663",
+    data: [-29.507000000000001]
+},{
+    fill: false,
+    label: "Nikita Mazepin 🇷🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#B49663",
+    backgroundColor: "#B49663",
+    data: [-31.992999999999999]
+},{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-34.107999999999997]
+},{
+    fill: false,
+    label: "Kimi Räikkönen 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#8D1028",
+    backgroundColor: "#8D1028",
+    data: [-36.054000000000002]
+},{
+    fill: false,
+    label: "Sergio Pérez 🇲🇽",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
+    data: [-38.204999999999998]
+}],
+            labels: ["1"]
         };
         var options = {
             maintainAspectRatio: true
@@ -175,8 +392,188 @@
 <script>
     $(function() {
         var data = {
-            datasets: [],
-            labels: []
+            datasets: [{
+    fill: false,
+    label: "Max Verstappen 🇳🇱",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
+    data: [0]
+},{
+    fill: false,
+    label: "George Russell 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1AA1DB",
+    backgroundColor: "#1AA1DB",
+    data: [-1.9950000000000001]
+},{
+    fill: false,
+    label: "Lewis Hamilton 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#18A19B",
+    backgroundColor: "#18A19B",
+    data: [-2.601]
+},{
+    fill: false,
+    label: "Daniel Ricciardo 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: [-4.4960000000000004]
+},{
+    fill: false,
+    label: "Sebastian Vettel 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-7.4790000000000001]
+},{
+    fill: false,
+    label: "Pierre Gasly 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-10.177]
+},{
+    fill: false,
+    label: "Esteban Ocon 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-11.579000000000001]
+},{
+    fill: false,
+    label: "Charles Leclerc 🇲🇨",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
+    data: [-12.608000000000001]
+},{
+    fill: false,
+    label: "Nicholas Latifi 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#1AA1DB",
+    backgroundColor: "#1AA1DB",
+    data: [-15.484999999999999]
+},{
+    fill: false,
+    label: "Carlos Sainz 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E00D19",
+    backgroundColor: "#E00D19",
+    data: [-16.166]
+},{
+    fill: false,
+    label: "Fernando Alonso 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-20.59]
+},{
+    fill: false,
+    label: "Valtteri Bottas 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#18A19B",
+    backgroundColor: "#18A19B",
+    data: [-22.414000000000001]
+},{
+    fill: false,
+    label: "Antonio Giovinazzi 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#8D1028",
+    backgroundColor: "#8D1028",
+    data: [-24.163]
+},{
+    fill: false,
+    label: "Lando Norris 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FCA13B",
+    backgroundColor: "#FCA13B",
+    data: [-27.109999999999999]
+},{
+    fill: false,
+    label: "Yuki Tsunoda 🇯🇵",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-28.329000000000001]
+},{
+    fill: false,
+    label: "Mick Schumacher 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#B49663",
+    backgroundColor: "#B49663",
+    data: [-29.507000000000001]
+},{
+    fill: false,
+    label: "Nikita Mazepin 🇷🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#B49663",
+    backgroundColor: "#B49663",
+    data: [-31.992999999999999]
+},{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: [-34.107999999999997]
+},{
+    fill: false,
+    label: "Kimi Räikkönen 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#8D1028",
+    backgroundColor: "#8D1028",
+    data: [-36.054000000000002]
+},{
+    fill: false,
+    label: "Sergio Pérez 🇲🇽",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#021F48",
+    backgroundColor: "#021F48",
+    data: [-38.204999999999998]
+}],
+            labels: ["1"]
         };
         var options = {
             maintainAspectRatio: true
@@ -197,7 +594,667 @@
         </div>
         <div class="x_content">
             <h4>Belgian Grand Prix</h4>
-            
+                <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-max_verstappen"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Max Verstappen 🇳🇱",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [0]
+},{
+    fill: false,
+    label: "Max Verstappen 🇳🇱",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-max_verstappen").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-russell"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "George Russell 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-1.9950000000000001]
+},{
+    fill: false,
+    label: "George Russell 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-russell").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-hamilton"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Lewis Hamilton 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-2.601]
+},{
+    fill: false,
+    label: "Lewis Hamilton 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-hamilton").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-ricciardo"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Daniel Ricciardo 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-4.4960000000000004]
+},{
+    fill: false,
+    label: "Daniel Ricciardo 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-ricciardo").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-vettel"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Sebastian Vettel 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-7.4790000000000001]
+},{
+    fill: false,
+    label: "Sebastian Vettel 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-vettel").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-gasly"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Pierre Gasly 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-10.177]
+},{
+    fill: false,
+    label: "Pierre Gasly 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-gasly").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-ocon"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Esteban Ocon 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-11.579000000000001]
+},{
+    fill: false,
+    label: "Esteban Ocon 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-ocon").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-leclerc"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Charles Leclerc 🇲🇨",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-12.608000000000001]
+},{
+    fill: false,
+    label: "Charles Leclerc 🇲🇨",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-leclerc").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-latifi"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Nicholas Latifi 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-15.484999999999999]
+},{
+    fill: false,
+    label: "Nicholas Latifi 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-latifi").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-sainz"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Carlos Sainz 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-16.166]
+},{
+    fill: false,
+    label: "Carlos Sainz 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-sainz").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-alonso"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Fernando Alonso 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-20.59]
+},{
+    fill: false,
+    label: "Fernando Alonso 🇪🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-alonso").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-bottas"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Valtteri Bottas 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-22.414000000000001]
+},{
+    fill: false,
+    label: "Valtteri Bottas 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-bottas").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-giovinazzi"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Antonio Giovinazzi 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-24.163]
+},{
+    fill: false,
+    label: "Antonio Giovinazzi 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-giovinazzi").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-norris"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Lando Norris 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-27.109999999999999]
+},{
+    fill: false,
+    label: "Lando Norris 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-norris").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-tsunoda"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Yuki Tsunoda 🇯🇵",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-28.329000000000001]
+},{
+    fill: false,
+    label: "Yuki Tsunoda 🇯🇵",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-tsunoda").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-mick_schumacher"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Mick Schumacher 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-29.507000000000001]
+},{
+    fill: false,
+    label: "Mick Schumacher 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-mick_schumacher").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-mazepin"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Nikita Mazepin 🇷🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-31.992999999999999]
+},{
+    fill: false,
+    label: "Nikita Mazepin 🇷🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-mazepin").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-stroll"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-34.107999999999997]
+},{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-stroll").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-raikkonen"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Kimi Räikkönen 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-36.054000000000002]
+},{
+    fill: false,
+    label: "Kimi Räikkönen 🇫🇮",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-raikkonen").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-perez"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Sergio Pérez 🇲🇽",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-38.204999999999998]
+},{
+    fill: false,
+    label: "Sergio Pérez 🇲🇽",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-perez").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>
         </div>
     </div>
 </div>
