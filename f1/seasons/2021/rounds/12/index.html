@@ -126,7 +126,7 @@
 <option value="/f1/seasons/2021/rounds/16" >Turkish Grand Prix</option>
 <option value="/f1/seasons/2021/rounds/17" >United States Grand Prix</option>
 <option value="/f1/seasons/2021/rounds/18" >Mexico City Grand Prix</option>
-<option value="/f1/seasons/2021/rounds/19" >Brazilian Grand Prix</option>
+<option value="/f1/seasons/2021/rounds/19" >São Paulo Grand Prix</option>
 <option value="/f1/seasons/2021/rounds/22" >Abu Dhabi Grand Prix</option>
         </select>
     </div>
@@ -337,15 +337,6 @@
     data: [-31.992999999999999]
 },{
     fill: false,
-    label: "Lance Stroll 🇨🇦",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "#0D6C60",
-    backgroundColor: "#0D6C60",
-    data: [-34.107999999999997]
-},{
-    fill: false,
     label: "Kimi Räikkönen 🇫🇮",
     lineTension: 0.2,
     pointRadius: 0,
@@ -362,6 +353,15 @@
     borderColor: "#0F20E6",
     backgroundColor: "#0F20E6",
     data: [-38.204999999999998]
+},{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#0D6C60",
+    backgroundColor: "#0D6C60",
+    data: [-34.107999999999997]
 }],
             labels: ["1"]
         };
@@ -545,15 +545,6 @@
     data: [-31.992999999999999]
 },{
     fill: false,
-    label: "Lance Stroll 🇨🇦",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "#0D6C60",
-    backgroundColor: "#0D6C60",
-    data: [-34.107999999999997]
-},{
-    fill: false,
     label: "Kimi Räikkönen 🇫🇮",
     lineTension: 0.2,
     pointRadius: 0,
@@ -570,6 +561,15 @@
     borderColor: "#0F20E6",
     backgroundColor: "#0F20E6",
     data: [-38.204999999999998]
+},{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#0D6C60",
+    backgroundColor: "#0D6C60",
+    data: [-34.107999999999997]
 }],
             labels: ["1"]
         };
@@ -1154,39 +1154,6 @@
             new Chart(ctx, { type: 'bar', data: data, options: options });
         });
     </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-stroll"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Lance Stroll 🇨🇦",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
-    data: [-34.107999999999997]
-},{
-    fill: false,
-    label: "Lance Stroll 🇨🇦",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: [0]
-}],
-                labels: ["1"]
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-stroll").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
         <canvas id="bar-chart-lap-times-vs-leader-raikkonen"></canvas>
     </div>
     <script>
@@ -1250,6 +1217,39 @@
                 maintainAspectRatio: false
             };
             var ctx = document.getElementById("bar-chart-lap-times-vs-leader-perez").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-stroll"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: [-34.107999999999997]
+},{
+    fill: false,
+    label: "Lance Stroll 🇨🇦",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: [0]
+}],
+                labels: ["1"]
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-stroll").getContext('2d');
             new Chart(ctx, { type: 'bar', data: data, options: options });
         });
     </script>
