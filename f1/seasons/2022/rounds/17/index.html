@@ -19,18 +19,18 @@
     <meta name="twitter:site" content="@grandprixstats">
 <meta name="twitter:creator" content="@grandprixstats">
 <meta name="twitter:title" content="Formula 1® Season 2022 Singapore Grand Prix">
-<meta name="twitter:url" content="http://www.grandprixstats.org/f1/seasons/2022/rounds/17/">
+<meta name="twitter:url" content="http://localhost:4000/f1/seasons/2022/rounds/17/">
 
 <meta name="twitter:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta name="twitter:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
     <meta property="og:title" content="Formula 1® Season 2022 Singapore Grand Prix">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.grandprixstats.org/f1/seasons/2022/rounds/17/">
-<meta property="og:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta property="og:url" content="http://localhost:4000/f1/seasons/2022/rounds/17/">
+<meta property="og:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
 <meta property="og:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
@@ -48,8 +48,8 @@
     <link href="/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
     <link href="/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/custom.css">
-    <link rel="canonical" href="http://www.grandprixstats.org/f1/seasons/2022/rounds/17/">
-    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://www.grandprixstats.org/feed.xml">
+    <link rel="canonical" href="http://localhost:4000/f1/seasons/2022/rounds/17/">
+    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://localhost:4000/feed.xml">
     <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.js"></script> -->
     <script src="/vendors/jquery/dist/jquery.min.js"></script>
@@ -136,7 +136,7 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
-            <h2>Lap Times: Gap Behind Leader</h2>
+            <h2>Lap Times: Gap Behind Lap Leader</h2>
             <div class="clearfix"></div>
         </div>
         <div class="x_content">
@@ -154,6 +154,34 @@
             maintainAspectRatio: true
         };
         var ctx = document.getElementById("line-chart-lap-times-leader-gap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap Behind Race Winner</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Singapore Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-behind-winner-gap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-behind-winner-gap").getContext('2d');
         new Chart(ctx, { type: 'line', data: data, options: options });
     });
 </script>
@@ -192,12 +220,27 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
-            <h2>Lap Time Deltas: Driver vs. Race Leader</h2>
+            <h2>Lap Times: Actual Lap Times per Driver</h2>
             <div class="clearfix"></div>
         </div>
         <div class="x_content">
             <h4>Singapore Grand Prix</h4>
-            
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-per-driver"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-per-driver").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
         </div>
     </div>
 </div>

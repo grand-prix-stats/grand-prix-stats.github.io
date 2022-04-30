@@ -19,18 +19,18 @@
     <meta name="twitter:site" content="@grandprixstats">
 <meta name="twitter:creator" content="@grandprixstats">
 <meta name="twitter:title" content="Formula 1® Season 1973 German Grand Prix">
-<meta name="twitter:url" content="http://www.grandprixstats.org/f1/seasons/1973/rounds/11/">
+<meta name="twitter:url" content="http://localhost:4000/f1/seasons/1973/rounds/11/">
 
 <meta name="twitter:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta name="twitter:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
     <meta property="og:title" content="Formula 1® Season 1973 German Grand Prix">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.grandprixstats.org/f1/seasons/1973/rounds/11/">
-<meta property="og:image" content="http://www.grandprixstats.org/media/grandprixstats.jpg">
+<meta property="og:url" content="http://localhost:4000/f1/seasons/1973/rounds/11/">
+<meta property="og:image" content="http://localhost:4000/media/grandprixstats.jpg">
 
 <meta property="og:description" content="&copy; 2017 Grand Prix Stats. Generated statistic data from Formula One® racing series.
 ">
@@ -48,8 +48,8 @@
     <link href="/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
     <link href="/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/custom.css">
-    <link rel="canonical" href="http://www.grandprixstats.org/f1/seasons/1973/rounds/11/">
-    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://www.grandprixstats.org/feed.xml">
+    <link rel="canonical" href="http://localhost:4000/f1/seasons/1973/rounds/11/">
+    <link rel="alternate" type="application/rss+xml" title="Grand Prix Stats" href="http://localhost:4000/feed.xml">
     <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/r-2.1.1/datatables.min.js"></script> -->
     <script src="/vendors/jquery/dist/jquery.min.js"></script>
@@ -129,7 +129,7 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
-            <h2>Lap Times: Gap Behind Leader</h2>
+            <h2>Lap Times: Gap Behind Lap Leader</h2>
             <div class="clearfix"></div>
         </div>
         <div class="x_content">
@@ -345,6 +345,232 @@
             maintainAspectRatio: true
         };
         var ctx = document.getElementById("line-chart-lap-times-leader-gap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap Behind Race Winner</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>German Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-behind-winner-gap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jackie Stewart 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#274B72",
+    backgroundColor: "#274B72",
+    data: []
+},{
+    fill: false,
+    label: "François Cevert 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#274B72",
+    backgroundColor: "#274B72",
+    data: []
+},{
+    fill: false,
+    label: "Jacky Ickx 🇧🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
+    data: []
+},{
+    fill: false,
+    label: "Carlos Pace 🇧🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Wilson Fittipaldi 🇧🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: []
+},{
+    fill: false,
+    label: "Emerson Fittipaldi 🇧🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#09630C",
+    backgroundColor: "#09630C",
+    data: []
+},{
+    fill: false,
+    label: "Jochen Mass 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Jackie Oliver 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FA9B27",
+    backgroundColor: "#FA9B27",
+    data: []
+},{
+    fill: false,
+    label: "Peter Revson 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
+    data: []
+},{
+    fill: false,
+    label: "Henri Pescarolo 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Rolf Stommelen 🇩🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: []
+},{
+    fill: false,
+    label: "Denny Hulme 🇳🇿",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
+    data: []
+},{
+    fill: false,
+    label: "Graham Hill 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FA9B27",
+    backgroundColor: "#FA9B27",
+    data: []
+},{
+    fill: false,
+    label: "Mike Hailwood 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "David Purley 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E53524",
+    backgroundColor: "#E53524",
+    data: []
+},{
+    fill: false,
+    label: "Mike Beuttler 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#E53524",
+    backgroundColor: "#E53524",
+    data: []
+},{
+    fill: false,
+    label: "Carlos Reutemann 🇦🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: []
+},{
+    fill: false,
+    label: "Clay Regazzoni 🇨🇭",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
+    data: []
+},{
+    fill: false,
+    label: "George Follmer 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FA9B27",
+    backgroundColor: "#FA9B27",
+    data: []
+},{
+    fill: false,
+    label: "Jean-Pierre Beltoise 🇫🇷",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
+    data: []
+},{
+    fill: false,
+    label: "Niki Lauda 🇦🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
+    data: []
+},{
+    fill: false,
+    label: "Ronnie Peterson 🇸🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#09630C",
+    backgroundColor: "#09630C",
+    data: []
+}],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-behind-winner-gap").getContext('2d');
         new Chart(ctx, { type: 'line', data: data, options: options });
     });
 </script>
@@ -581,58 +807,25 @@
 <div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
-            <h2>Lap Time Deltas: Driver vs. Race Leader</h2>
+            <h2>Lap Times: Actual Lap Times per Driver</h2>
             <div class="clearfix"></div>
         </div>
         <div class="x_content">
             <h4>German Grand Prix</h4>
-                <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-stewart"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-per-driver"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
     fill: false,
     label: "Jackie Stewart 🇬🇧",
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
-    data: []
-},{
-    fill: false,
-    label: "Jackie Stewart 🇬🇧",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-stewart").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-cevert"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "François Cevert 🇫🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#274B72",
+    backgroundColor: "#274B72",
     data: []
 },{
     fill: false,
@@ -640,32 +833,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-cevert").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-ickx"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Jacky Ickx 🇧🇪",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#274B72",
+    backgroundColor: "#274B72",
     data: []
 },{
     fill: false,
@@ -673,32 +842,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-ickx").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-pace"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Carlos Pace 🇧🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -706,32 +851,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-pace").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-wilson_fittipaldi"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Wilson Fittipaldi 🇧🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#888888",
+    backgroundColor: "#888888",
     data: []
 },{
     fill: false,
@@ -739,32 +860,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-wilson_fittipaldi").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-emerson_fittipaldi"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Emerson Fittipaldi 🇧🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
     data: []
 },{
     fill: false,
@@ -772,32 +869,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-emerson_fittipaldi").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-mass"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Jochen Mass 🇩🇪",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#09630C",
+    backgroundColor: "#09630C",
     data: []
 },{
     fill: false,
@@ -805,32 +878,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-mass").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-oliver"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Jackie Oliver 🇬🇧",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#888888",
+    backgroundColor: "#888888",
     data: []
 },{
     fill: false,
@@ -838,32 +887,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-oliver").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-revson"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Peter Revson 🇺🇸",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#FA9B27",
+    backgroundColor: "#FA9B27",
     data: []
 },{
     fill: false,
@@ -871,32 +896,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-revson").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-pescarolo"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Henri Pescarolo 🇫🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -904,32 +905,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-pescarolo").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-stommelen"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Rolf Stommelen 🇩🇪",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#888888",
+    backgroundColor: "#888888",
     data: []
 },{
     fill: false,
@@ -937,32 +914,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-stommelen").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-hulme"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Denny Hulme 🇳🇿",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
     data: []
 },{
     fill: false,
@@ -970,32 +923,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-hulme").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-hill"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Graham Hill 🇬🇧",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -1003,32 +932,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-hill").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-hailwood"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Mike Hailwood 🇬🇧",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#FA9B27",
+    backgroundColor: "#FA9B27",
     data: []
 },{
     fill: false,
@@ -1036,32 +941,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-hailwood").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-purley"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "David Purley 🇬🇧",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#888888",
+    backgroundColor: "#888888",
     data: []
 },{
     fill: false,
@@ -1069,32 +950,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-purley").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-beuttler"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Mike Beuttler 🇬🇧",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#E53524",
+    backgroundColor: "#E53524",
     data: []
 },{
     fill: false,
@@ -1102,32 +959,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-beuttler").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-reutemann"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Carlos Reutemann 🇦🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#E53524",
+    backgroundColor: "#E53524",
     data: []
 },{
     fill: false,
@@ -1135,32 +968,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-reutemann").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-regazzoni"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Clay Regazzoni 🇨🇭",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
     data: []
 },{
     fill: false,
@@ -1168,32 +977,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-regazzoni").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-follmer"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "George Follmer 🇺🇸",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
     data: []
 },{
     fill: false,
@@ -1201,32 +986,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-follmer").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-beltoise"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Jean-Pierre Beltoise 🇫🇷",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#FA9B27",
+    backgroundColor: "#FA9B27",
     data: []
 },{
     fill: false,
@@ -1234,32 +995,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-beltoise").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-lauda"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Niki Lauda 🇦🇹",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
     data: []
 },{
     fill: false,
@@ -1267,32 +1004,8 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
-    data: []
-}],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-lauda").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>    <div class="chart-container" style="height: 150px;">
-        <canvas id="bar-chart-lap-times-vs-leader-peterson"></canvas>
-    </div>
-    <script>
-        $(function() {
-            var data = {
-                datasets: [{
-    fill: false,
-    label: "Ronnie Peterson 🇸🇪",
-    lineTension: 0.2,
-    pointRadius: 0,
-    borderWidth: 6,
-    borderColor: "FD706C",
-    backgroundColor: "FD706C",
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
     data: []
 },{
     fill: false,
@@ -1300,19 +1013,19 @@
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "98CDB5",
-    backgroundColor: "98CDB5",
+    borderColor: "#09630C",
+    backgroundColor: "#09630C",
     data: []
 }],
-                labels: []
-            };
-            var options = {
-                maintainAspectRatio: false
-            };
-            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-peterson").getContext('2d');
-            new Chart(ctx, { type: 'bar', data: data, options: options });
-        });
-    </script>
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-per-driver").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
         </div>
     </div>
 </div>
