@@ -1,7 +1,4 @@
-
-
-install:
-	bundle install --path vendor/bundle
+.PHONY: install build serve
 
 build:
 	bundle exec jekyll build
@@ -9,3 +6,5 @@ build:
 serve:
 	bundle exec jekyll serve --watch
 
+install:
+	bundle install --path vendor/bundle
